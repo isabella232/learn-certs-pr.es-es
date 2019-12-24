@@ -1,0 +1,98 @@
+### YamlMime:Examination
+title: Tecnologías de Arquitectura de Microsoft Azure
+metadata:
+  title: 'Examen AZ-300: Tecnologías de Arquitectura de Microsoft Azure'
+  description: 'Examen AZ-300: Tecnologías de Arquitectura de Microsoft Azure'
+uid: exam.az-300
+displayName: AZ-300
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizó el miércoles, 4 de diciembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.<br/></div>
+
+  Los candidatos para este examen son Arquitectos de Azure Solution, quienes aconsejan a los participantes interesados y traducen los requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deberían tener experiencia y conocimiento avanzado a lo largo de varios aspectos de operaciones de IT, incluyendo redes, virtualización, identidad, seguridad, continuidad comercial, recuperación de desastres, administración de datos, presupuesto, y gobernancia. Este cargo requiere administrar cómo las decisiones en cada área afectan una solución global. Los candidatos deben ser hábiles en administración Azure, desarrollo Azure, y DevOps, y tienen habilidades de nivel de experto en al menos uno de estos dominios.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: implementar y configurar la infraestructura; implementar cargas de trabajo y seguridad; crear y desplegar aplicaciones; implementar autenticación y datos seguros; y desarrollar para la nube y el almacenamiento de Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-300
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- advanced
+skills:
+- El contenido de este examen se actualizó el miércoles, 4 de diciembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.
+- Implementar y Configurar infraestructura (25-30%)
+- Implementar cargas de trabajo y seguridad (20-25%)
+- Crear e Implementar aplicaciones (5-10%)
+- Implementar autenticación y datos seguros (5-10%)
+- Desarrollar para la nube y para el almacenamiento Azure (20-25%)
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: examen.az-301
+courses:
+- uid: course.az-300t01
+- uid: course.az-300t02
+- uid: course.az-300t03
+- uid: course.az-300t04
+- uid: course.az-300t06
+paths:
+- uid: learn.architect-great-solutions-in-azure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+relatedCertifications:
+- related:
+    uid: certification.azure-solutions-architect
+resources:
+- title: Ruta de certificación de aprendizaje
+  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Azure Solutions Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite los servicios de alojamiento
+  description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise la política para los exámenes y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

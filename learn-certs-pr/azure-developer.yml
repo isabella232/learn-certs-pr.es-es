@@ -1,0 +1,75 @@
+### YamlMime:Certification
+title: 'Certificado por Microsoft: Azure Developer Associate'
+metadata:
+  title: 'Certificado por Microsoft: Azure Developer Associate'
+  description: 'Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.'
+uid: certification.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+subTitle: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+levels:
+- intermediate
+skills:
+- Desarrollar la infraestructura de Azure como una Solución informática de servicio
+- Desarrollar la plataforma de Azure como una Solución informática de servicio
+- Desarrollar para el almacenamiento en Azure
+- Implementar la seguridad de Azure
+- Monitorizar, solucionar los problemas y mejorar las soluciones
+- Conectarse a y consumir los servicios de Azure y los servicios de terceros
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-203t01
+- uid: course.az-203t02
+- uid: course.az-203t03
+- uid: course.az-203t04
+- uid: course.az-203t05
+- uid: course.az-203t06
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+- uid: learn.modern-data-warehouse
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.intro-to-ml-with-python
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
+exams:
+- uid: exam.az-203
+resources:
+- title: Ruta de certificación de aprendizaje
+  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte sobre la descripción general de los fundamentos, las certificaciones basadas en funciones y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

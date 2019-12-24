@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Tecnologías de Seguridad de Microsoft Azure
+metadata:
+  title: 'Examen AZ-500: Tecnologías de Seguridad de Microsoft Azure'
+  description: 'Examen AZ-500: Tecnologías de Seguridad de Microsoft Azure'
+uid: exam.az-500
+displayName: AZ-500
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizó el miércoles, 4 de diciembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.<br/></div>
+
+  Los candidatos para este examen son ingenieros de seguridad de Microsoft Azure, quienes implementan controles de seguridad, mantienen la postura de seguridad, administran la identidad y el acceso, y protegen los datos, las aplicaciones y las redes. Los candidatos identifican y corrigen vulnerabilidades mediante el uso de una variedad de herramientas de seguridad, implementan protección contra amenazas y responden a escaladas de incidentes de seguridad. Como ingeniero de seguridad de Microsoft Azure, los candidatos generalmente forman parte de un equipo más grande dedicado a la administración y seguridad basadas en la nube y también pueden proteger entornos híbridos como parte de una infraestructura de extremo a extremo.
+
+  Los candidatos para este examen deben tener fuertes habilidades en secuencias de comandos y automatización; un profundo conocimiento de las redes, la virtualización y la arquitectura de N-tier en la nube; y una fuerte familiaridad con las capacidades de la nube, los productos y servicios de Microsoft Azure y otros productos y servicios de Microsoft.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar la identidad y el acceso; implementar la protección de la plataforma; administrar las operaciones de seguridad; y garantizar los datos y las aplicaciones.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-500
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- El contenido de este examen se actualizó el miércoles, 4 de diciembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.
+- Gestionar la identidad y el acceso (20-25%)
+- Implementar la protección de la plataforma (35-40%)
+- Gestionar operaciones de seguridad (15-20%)
+- Asegurar datos y aplicaciones seguras (30-35%)
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+relatedCertifications:
+- related:
+    uid: certification.azure-security-engineer
+resources:
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite los servicios de alojamiento
+  description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise la política para los exámenes y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

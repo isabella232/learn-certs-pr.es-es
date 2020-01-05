@@ -1,24 +1,25 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
 metadata:
-  title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
-  description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
-uid: certification.mos-outlook-2016
-iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
+uid: certification.microsoft-office-specialist-expert-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
-subTitle: Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
+  Esta certificación demuestra que posee habilidades avanzadas en programas clave de Office obteniendo una certificación Microsoft Office Specialist Expert.
+subTitle: Esta certificación demuestra que posee habilidades avanzadas en programas clave de Office obteniendo una certificación Microsoft Office Specialist Expert.
 levels:
-- intermediate
+- advanced
 skills:
 - ninguno
 roles:
-- developer
+- business-user
 type: mos
 products:
-- office-outlook
+- office
 exams:
-- uid: exam.77-731
+- uid: exam.77-726
+- uid: exam.77-728
 resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.

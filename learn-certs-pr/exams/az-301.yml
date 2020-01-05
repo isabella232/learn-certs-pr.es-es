@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: DiseÒo de Arquitectura de Microsoft Azure
+title: Dise√±o de Arquitectura de Microsoft Azure
 metadata:
-  title: 'Examen AZ-301: DiseÒo de Arquitectura de Microsoft Azure'
-  description: 'Examen AZ-301: DiseÒo de Arquitectura de Microsoft Azure'
-uid: examen.az-301
+  title: 'Examen AZ-301: Dise√±o de Arquitectura de Microsoft Azure'
+  description: 'Examen AZ-301: Dise√±o de Arquitectura de Microsoft Azure'
+uid: exam.az-301
 displayName: AZ-301
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizÛ el miÈrcoles, 4 de diciembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualiz√≥ el mi√©rcoles, 4 de diciembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.<br/><br/></div>
 
-  Los candidatos para este examen son Arquitectos de Azure Solution, quienes aconsejan a los participantes interesados y traducen los requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deberÌan tener experiencia y conocimiento avanzado a lo largo de varios aspectos de operaciones de IT, incluyendo redes, virtualizaciÛn, identidad, seguridad, continuidad comercial, recuperaciÛn de desastres, administraciÛn de datos, presupuesto, y gobernancia. Este cargo requiere administrar cÛmo las decisiones en cada ·rea afectan una soluciÛn global. Los candidatos deben ser h·biles en administraciÛn Azure, desarrollo Azure, y DevOps, y tienen habilidades de nivel de experto en al menos uno de estos dominios.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones tÈcnicas: determinar los requisitos de la carga de trabajo; diseÒar para la identificaciÛn y la seguridad; diseÒar una soluciÛn de plataforma de datos; diseÒar una estrategia de continuidad de negocio; diseÒar para la implementaciÛn, migraciÛn e integraciÛn; y diseÒar una estrategia de infraestructura.'
+  Los candidatos para este examen son Arquitectos de Azure Solution, quienes aconsejan a los participantes interesados y traducen los requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deber√≠an tener experiencia y conocimiento avanzado a lo largo de varios aspectos de operaciones de IT, incluyendo redes, virtualizaci√≥n, identidad, seguridad, continuidad comercial, recuperaci√≥n de desastres, administraci√≥n de datos, presupuesto, y gobernancia. Este cargo requiere administrar c√≥mo las decisiones en cada √°rea afectan una soluci√≥n global. Los candidatos deben ser h√°biles en administraci√≥n Azure, desarrollo Azure, y DevOps, y tienen habilidades de nivel de experto en al menos uno de estos dominios.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones t√©cnicas: determinar los requisitos de la carga de trabajo; dise√±ar para la identificaci√≥n y la seguridad; dise√±ar una soluci√≥n de plataforma de datos; dise√±ar una estrategia de continuidad de negocio; dise√±ar para la implementaci√≥n, migraci√≥n e integraci√≥n; y dise√±ar una estrategia de infraestructura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-301&examname=Examen%20AZ-301:%20Dise√±o%20de%20Arquitectura%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
@@ -22,13 +22,13 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizÛ el miÈrcoles, 4 de diciembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.
+- El contenido de este examen se actualiz√≥ el mi√©rcoles, 4 de diciembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.
 - Determinar los requisitos de carga de trabajo (10-15%)
-- DiseÒar para la identificaciÛn y la seguridad (20-25%)
-- DiseÒar una soluciÛn de plataforma de datos (15-20%)
-- DiseÒar una estrategia de continuidad comercial (15-20%)
-- DiseÒar para la implementaciÛn, migraciÛn e integraciÛn (10-15%)
-- DiseÒar una estrategia de infraestructura (15-20%)
+- Dise√±ar para la identificaci√≥n y la seguridad (20-25%)
+- Dise√±ar una soluci√≥n de plataforma de datos (15-20%)
+- Dise√±ar una estrategia de continuidad comercial (15-20%)
+- Dise√±ar para la implementaci√≥n, migraci√≥n e integraci√≥n (10-15%)
+- Dise√±ar una estrategia de infraestructura (15-20%)
 roles:
 - solution-architect
 products:
@@ -75,24 +75,24 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Ruta de certificaciÛn de aprendizaje
-  description: 'Descubra los medios de capacitaciÛn para convertirse en una persona autorizada por Microsoft: Azure Solutions Architect Expert.'
+- title: Ruta de certificaci√≥n de aprendizaje
+  description: 'Descubra los medios de capacitaci√≥n para convertirse en una persona autorizada por Microsoft: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: RepeticiÛn de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de Èxito.
+- title: Repetici√≥n de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de √©xito.
   href: ../deals.md
-- title: Soporte para ex·menes de certificaciÛn.
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: Soporte para ex√°menes de certificaci√≥n.
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: ../help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
-  description: InfÛrmese sobre cÛmo solicitar un servicio de alojamiento para su examen.
+  description: Inf√≥rmese sobre c√≥mo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: PolÌticas de examen y preguntas frecuentes
-  description: Revise la polÌtica para los ex·menes y las preguntas frecuentes.
+- title: Pol√≠ticas de examen y preguntas frecuentes
+  description: Revise la pol√≠tica para los ex√°menes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

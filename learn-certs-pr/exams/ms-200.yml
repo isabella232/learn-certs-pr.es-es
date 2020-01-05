@@ -1,36 +1,36 @@
 ### YamlMime:Examination
-title: PlanificaciÛn y configuraciÛn de una plataforma de mensajerÌa
+title: Planificaci√≥n y configuraci√≥n de una plataforma de mensajer√≠a
 metadata:
-  title: 'Examen MS-200: PlanificaciÛn y configuraciÛn de una plataforma de mensajerÌa'
-  description: 'Examen MS-200: PlanificaciÛn y configuraciÛn de una plataforma de mensajerÌa'
+  title: 'Examen MS-200: Planificaci√≥n y configuraci√≥n de una plataforma de mensajer√≠a'
+  description: 'Examen MS-200: Planificaci√≥n y configuraci√≥n de una plataforma de mensajer√≠a'
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizÛ el miÈrcoles, 4 de diciembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualiz√≥ el mi√©rcoles, 4 de diciembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.<br/><br/></div>
 
-  Los candidatos para este examen son administradores de mensajerÌa que implementan, configuran, gestionan, solucionan problemas, y monitorizan receptores, permisos, protecciÛn de correo, flujo de correo y carpetas p˙blicas en entornos in situ y empresariales de la nube.
+  Los candidatos para este examen son administradores de mensajer√≠a que implementan, configuran, gestionan, solucionan problemas, y monitorizan receptores, permisos, protecci√≥n de correo, flujo de correo y carpetas p√∫blicas en entornos in situ y empresariales de la nube.
 
-  Los administradores de mensajerÌa son responsables de gestionar higiene, infraestructura de mensajerÌa, configuraciÛn hÌbrida, migraciÛn, recuperaciÛn ante desastres, alta disponibilidad y acceso de clientes.
+  Los administradores de mensajer√≠a son responsables de gestionar higiene, infraestructura de mensajer√≠a, configuraci√≥n h√≠brida, migraci√≥n, recuperaci√≥n ante desastres, alta disponibilidad y acceso de clientes.
 
-  Los administradores de mensajerÌa colaboran con Security Administrator y Microsoft 365 Enterprise Administrator para implementar una topologÌa segura hÌbrida que cumpla con las necesidades comerciales de una organizaciÛn moderna.
+  Los administradores de mensajer√≠a colaboran con Security Administrator y Microsoft 365 Enterprise Administrator para implementar una topolog√≠a segura h√≠brida que cumpla con las necesidades comerciales de una organizaci√≥n moderna.
 
-  El administrador de mensajerÌa debe contar con conocimiento pr·ctico de tipos de autenticaciÛn, licencias e integraciÛn con aplicaciones Microsoft 365.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones tÈcnicas: administrar la infraestructura de mensajerÌa moderna; administrar la topologÌa de flujo de correo; y gestionar los destinatarios y dispositivos.'
+  El administrador de mensajer√≠a debe contar con conocimiento pr√°ctico de tipos de autenticaci√≥n, licencias e integraci√≥n con aplicaciones Microsoft 365.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones t√©cnicas: administrar la infraestructura de mensajer√≠a moderna; administrar la topolog√≠a de flujo de correo; y gestionar los destinatarios y dispositivos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-200&examname=Examen%20MS-200:%20Planificaci√≥n%20y%20configuraci√≥n%20de%20una%20plataforma%20de%20mensajer√≠a&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizÛ el miÈrcoles, 4 de diciembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.
-- Gestionar infraestructura moderna de mensajerÌa (45-50%)
-- Gestionar la topologÌa del flujo de correo (35-40%)
+- El contenido de este examen se actualiz√≥ el mi√©rcoles, 4 de diciembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.
+- Gestionar infraestructura moderna de mensajer√≠a (45-50%)
+- Gestionar la topolog√≠a del flujo de correo (35-40%)
 - Gestionar receptores y dispositivos (15-20%)
 roles:
-- administrador
+- administrator
 products:
 - m365
 exams:
@@ -43,21 +43,21 @@ relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: RepeticiÛn de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de Èxito.
+- title: Repetici√≥n de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de √©xito.
   href: ../deals.md
-- title: Soporte para ex·menes de certificaciÛn.
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: Soporte para ex√°menes de certificaci√≥n.
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: ../help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
-  description: InfÛrmese sobre cÛmo solicitar un servicio de alojamiento para su examen.
+  description: Inf√≥rmese sobre c√≥mo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: PolÌticas de examen y preguntas frecuentes
-  description: Revise la polÌtica para los ex·menes y las preguntas frecuentes.
+- title: Pol√≠ticas de examen y preguntas frecuentes
+  description: Revise la pol√≠tica para los ex√°menes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

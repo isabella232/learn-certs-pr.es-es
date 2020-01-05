@@ -3,22 +3,22 @@ title: Desarrollar soluciones para Microsoft Azure
 metadata:
   title: 'Examen AZ-203: Desarrollar soluciones para Microsoft Azure'
   description: 'Examen AZ-203: Desarrollar soluciones para Microsoft Azure'
-uid: examen.az-203
+uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizÛ el miÈrcoles, 6 de noviembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.<br/><br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualiz√≥ el mi√©rcoles, 6 de noviembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.<br/><br/></div>
   
-  Los candidatos para este examen son Desarrolladores Azure que diseÒan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseÒo de la soluciÛn, hasta el desarrollo y puesta en pr·ctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de soluciÛn en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la soluciÛn.
+  Los candidatos para este examen son Desarrolladores Azure que dise√±an y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el dise√±o de la soluci√≥n, hasta el desarrollo y puesta en pr√°ctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de soluci√≥n en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la soluci√≥n.
   <br/>
 
-  Los candidatos deber·n ser h·biles al desarrollar aplicaciones y servicios usando las herramientas y tecnologÌa Azure, incluido almacenamiento, seguridad, cÛmputos, y comunicaciones.
+  Los candidatos deber√°n ser h√°biles al desarrollar aplicaciones y servicios usando las herramientas y tecnolog√≠a Azure, incluido almacenamiento, seguridad, c√≥mputos, y comunicaciones.
 
-  Los candidatos deben tener al menos un aÒo de experiencia desarrollando soluciones escalables a travÈs de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programaciÛn aceptado en la nube.
-subTitle: 'Este examen mide su capacidad para cumplir las siguientes funciones tÈcnicas: desarrollar la infraestructura de Azure como un servicio de soluciones inform·ticas; desarrollar la plataforma de Azure como soluciones inform·ticas de servicio; Desarrollar para el almacenamiento en Azure; implementar la seguridad de Azure; monitorizar, solucionar los problemas y mejorar las soluciones; y conectarse a y consumir servicios de Azure y servicios de terceros.'
+  Los candidatos deben tener al menos un a√±o de experiencia desarrollando soluciones escalables a trav√©s de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programaci√≥n aceptado en la nube.
+subTitle: 'Este examen mide su capacidad para cumplir las siguientes funciones t√©cnicas: desarrollar la infraestructura de Azure como un servicio de soluciones inform√°ticas; desarrollar la plataforma de Azure como soluciones inform√°ticas de servicio; Desarrollar para el almacenamiento en Azure; implementar la seguridad de Azure; monitorizar, solucionar los problemas y mejorar las soluciones; y conectarse a y consumir servicios de Azure y servicios de terceros.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-203&examname=Examen%20AZ-203:%20Desarrollar%20soluciones%20para%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
@@ -27,9 +27,9 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizÛ el miÈrcoles, 6 de noviembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.
-- Desarrollar la infraestructura de Azure como una SoluciÛn inform·tica de servicio (10-15%)
-- Desarrollar la plataforma de Azure como una SoluciÛn inform·tica de servicio 20-25%)
+- El contenido de este examen se actualiz√≥ el mi√©rcoles, 6 de noviembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.
+- Desarrollar la infraestructura de Azure como una Soluci√≥n inform√°tica de servicio (10-15%)
+- Desarrollar la plataforma de Azure como una Soluci√≥n inform√°tica de servicio 20-25%)
 - Desarrollar almacenamiento Azure (15-20%)
 - Monitorizar, solucionar los problemas y mejorar las soluciones (10-20%)
 - Monitorizar, solucionar los problemas y mejorar las soluciones (10-20%)
@@ -50,12 +50,12 @@ products:
 exams:
 - uid: exam.az-202
 courses:
-- uid: curso.az-203t01
-- uid: curso.az-203t02
-- uid: curso.az-203t03
-- uid: curso.az-203t04
-- uid: curso.az-203t05
-- uid: curso.az-203t06
+- uid: course.az-203t01
+- uid: course.az-203t02
+- uid: course.az-203t03
+- uid: course.az-203t04
+- uid: course.az-203t05
+- uid: course.az-203t06
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -73,24 +73,24 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: Ruta de certificaciÛn de aprendizaje
-  description: 'Descubra los medios de capacitaciÛn para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
+- title: Ruta de certificaci√≥n de aprendizaje
+  description: 'Descubra los medios de capacitaci√≥n para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: RepeticiÛn de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de Èxito.
+- title: Repetici√≥n de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de √©xito.
   href: ../deals.md
-- title: Soporte para ex·menes de certificaciÛn.
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: Soporte para ex√°menes de certificaci√≥n.
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: ../help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
-  description: InfÛrmese sobre cÛmo solicitar un servicio de alojamiento para su examen.
+  description: Inf√≥rmese sobre c√≥mo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: PolÌticas de examen y preguntas frecuentes
-  description: Revise la polÌtica para los ex·menes y las preguntas frecuentes.
+- title: Pol√≠ticas de examen y preguntas frecuentes
+  description: Revise la pol√≠tica para los ex√°menes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

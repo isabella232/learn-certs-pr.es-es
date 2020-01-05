@@ -6,16 +6,16 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizÛ el miÈrcoles, 23 de octubre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ..<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualiz√≥ el mi√©rcoles, 23 de octubre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥..<br/><br/></div>
 
-  Este examen est· diseÒado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y cÛmo se ofrecen esos servicios con Microsoft Azure. El examen est· pensado para candidatos sin conocimientos tÈcnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube,  o que estÈn implicados en alguna medida en las soluciones y servicios basados en la nube, asÌ como aquellos con un trasfondo tÈcnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia tÈcnica en TI, sin embargo, serÌa beneficioso contar con experiencia o conocimiento general de TI.
+  Este examen est√° dise√±ado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y c√≥mo se ofrecen esos servicios con Microsoft Azure. El examen est√° pensado para candidatos sin conocimientos t√©cnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube,  o que est√©n implicados en alguna medida en las soluciones y servicios basados en la nube, as√≠ como aquellos con un trasfondo t√©cnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia t√©cnica en TI, sin embargo, ser√≠a beneficioso contar con experiencia o conocimiento general de TI.
 
-  Este examen se puede realizar como un primer paso opcional en el aprendizaje de los servicios de la nube y en cÛmo dichos conceptos est·n ejemplificados por Microsoft Azure. Se puede realizar como un precursor para los ex·menes de servicios de la nube de Microsoft Azure o Microsoft. Si bien serÌa una primera medida beneficiosa el validar el nivel de conocimiento fundamental, el tomar este examen no constituye un requisito indispensable antes de tomar otras certificaciones basadas en Azure.
+  Este examen se puede realizar como un primer paso opcional en el aprendizaje de los servicios de la nube y en c√≥mo dichos conceptos est√°n ejemplificados por Microsoft Azure. Se puede realizar como un precursor para los ex√°menes de servicios de la nube de Microsoft Azure o Microsoft. Si bien ser√≠a una primera medida beneficiosa el validar el nivel de conocimiento fundamental, el tomar este examen no constituye un requisito indispensable antes de tomar otras certificaciones basadas en Azure.
 subTitle: 'Este examen mide su capacidad para comprender los siguientes conceptos: conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Examen%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -24,11 +24,11 @@ locales:
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizÛ el miÈrcoles, 23 de octubre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.
-- Comprender los conceptos de la nube†(15-20%)
-- Comprender los servicios centrales de Azure†(30-35%)
+- El contenido de este examen se actualiz√≥ el mi√©rcoles, 23 de octubre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.
+- Comprender los conceptos de la nube¬†(15-20%)
+- Comprender los servicios centrales de Azure¬†(30-35%)
 - Comprender la seguridad, privacidad, cumplimiento y confianza (25-30%)
-- Comprender la fijaciÛn de precios y el soporte de Azure (20-25%)
+- Comprender la fijaci√≥n de precios y el soporte de Azure (20-25%)
 roles:
 - developer
 products:
@@ -41,21 +41,21 @@ relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Ruta de certificaciÛn de aprendizaje
-  description: 'Descubra los recursos de capacitaciÛn para convertirse en certificado por Microsoft: Azure Fundamentals.'
+- title: Ruta de certificaci√≥n de aprendizaje
+  description: 'Descubra los recursos de capacitaci√≥n para convertirse en certificado por Microsoft: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Soporte para ex·menes de certificaciÛn.
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: Soporte para ex√°menes de certificaci√≥n.
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: ../help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
-  description: InfÛrmese sobre cÛmo solicitar un servicio de alojamiento para su examen.
+  description: Inf√≥rmese sobre c√≥mo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: PolÌticas de examen y preguntas frecuentes
-  description: Revise la polÌtica para los ex·menes y las preguntas frecuentes.
+- title: Pol√≠ticas de examen y preguntas frecuentes
+  description: Revise la pol√≠tica para los ex√°menes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

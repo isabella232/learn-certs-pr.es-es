@@ -6,8 +6,8 @@ metadata:
 uid: certification.mos-excel-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
-subTitle: Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
+  Diese Zertifizierung zeigt, dass Sie die erforderlichen FÃ¤higkeiten haben, um das Beste aus Office herauszuholen, indem Sie eine Microsoft Office Specialist (MOS) Zertifizierung in einem bestimmten Office-Programm erhalten.
+subTitle: Diese Zertifizierung zeigt, dass Sie die erforderlichen FÃ¤higkeiten haben, um das Beste aus Office herauszuholen, indem Sie eine Microsoft Office Specialist (MOS) Zertifizierung in einem bestimmten Office-Programm erhalten.
 levels:
 - intermediate
 skills:
@@ -20,15 +20,15 @@ products:
 exams:
 - uid: exam.77-727
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Schulungs- und Zertifizierungsleitfaden
+  description: Informieren Sie sich Ã¼ber die Zertifizierungen in einem Ã¼bersichtlichen Schulungs- und Zertifizierungsleitfaden.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+- title: PrÃ¼fung wiederholen
+  description: Sehen Sie sich zwei groÃŸartige Angebote an, die Ihnen helfen, Ihre Erfolgschancen zu erhÃ¶hen.
   href: deals.md
-- title: certificación soporte
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+- title: UnterstÃ¼tzung fur Zertifizierung
+  description: Erhalten Sie Hilfe in Microsoft Support-Foren. Werktags (Montag-Freitag) wird Ihnen ein Ein Forenmoderator antworten.
   href: help.md
-- title: Panel de certificación
-  description: Revise y administre sus citas programadas, certificados y transcripciones.
-  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Dashboard zur Zertifizierung
+  description: ÃœberprÃ¼fen und verwalten Sie Ihre geplanten Termine, Zertifikate und Transkripte.
+  href: https://www.microsoft.com/de-de/learning/dashboard.aspx

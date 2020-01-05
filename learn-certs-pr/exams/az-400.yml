@@ -6,16 +6,16 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizÛ el martes, 3 de diciembre de 2019. "Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.".<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualiz√≥ el martes, 3 de diciembre de 2019. "Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.".<br/><br/></div>
 
-  Los candidatos para este examen son profesionales de DevOps que combinan personas, procesos y tecnologÌas para entregar continuamente productos y servicios valiosos que satisfagan las necesidades del usuario final y los objetivos de negocios. Los profesionales de DevOps optimizan la entrega al maximizar las pr·cticas, mejorar las comunicaciones la colaboraciÛn, y la creaciÛn de automatizaciÛn. DiseÒan e implementan estrategias para el cÛdigo de aplicaciÛn y la infraestructura, las cuales permiten la integraciÛn continua, las pruebas, la entrega, la monitorizaciÛn y la retroalimentaciÛn.
+  Los candidatos para este examen son profesionales de DevOps que combinan personas, procesos y tecnolog√≠as para entregar continuamente productos y servicios valiosos que satisfagan las necesidades del usuario final y los objetivos de negocios. Los profesionales de DevOps optimizan la entrega al maximizar las pr√°cticas, mejorar las comunicaciones la colaboraci√≥n, y la creaci√≥n de automatizaci√≥n. Dise√±an e implementan estrategias para el c√≥digo de aplicaci√≥n y la infraestructura, las cuales permiten la integraci√≥n continua, las pruebas, la entrega, la monitorizaci√≥n y la retroalimentaci√≥n.
 
-  Los candidatos deben tener conocimiento de las pr·cticas de Agile. Los candidatos deben tener conocimiento de administraciÛn de Azure y desarrollo de Azure y ser expertos en al menos una de estas ·reas. Los profesionales de DevOps de Azure deben poder diseÒar e implementar las pr·cticas de DevOps para control de versiones, cumplimiento, infraestructura como cÛdigo, gestiÛn de configuraciÛn, creaciÛn, lanzamiento y pruebas mediante las tecnologÌas de Azure.
-subTitle: 'Este examen mide su capacidad para diseÒar una estrategia DevOps e implementar lo siguiente: Procesos de desarrollo de DevOps; gestiÛn de dependencia; infraestructura de aplicaciones; e integraciÛn continua, entrega y retroalimentaciÛn.'
+  Los candidatos deben tener conocimiento de las pr√°cticas de Agile. Los candidatos deben tener conocimiento de administraci√≥n de Azure y desarrollo de Azure y ser expertos en al menos una de estas √°reas. Los profesionales de DevOps de Azure deben poder dise√±ar e implementar las pr√°cticas de DevOps para control de versiones, cumplimiento, infraestructura como c√≥digo, gesti√≥n de configuraci√≥n, creaci√≥n, lanzamiento y pruebas mediante las tecnolog√≠as de Azure.
+subTitle: 'Este examen mide su capacidad para dise√±ar una estrategia DevOps e implementar lo siguiente: Procesos de desarrollo de DevOps; gesti√≥n de dependencia; infraestructura de aplicaciones; e integraci√≥n continua, entrega y retroalimentaci√≥n.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-400&examname=Examen%20AZ-400:%20Soluciones%20DevOps%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -24,26 +24,27 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizÛ el martes, 3 de diciembre de 2019. Descargue a continuaciÛn el documento de aptitudes o destrezas medidas para ver quÈ cambiÛ.
-- DiseÒar una estrategia DevOps (20-25%)
+- El contenido de este examen se actualiz√≥ el martes, 3 de diciembre de 2019. Descargue a continuaci√≥n el documento de aptitudes o destrezas medidas para ver qu√© cambi√≥.
+- Dise√±ar una estrategia DevOps (20-25%)
 - Implementar procesos de desarrollo DevOps (20-25%)
-- Implementar integraciÛn continua (10-15%)
+- Implementar integraci√≥n continua (10-15%)
 - Implementar entrega continua (10-15%)
-- Implementar la GestiÛn de la Dependencia (5-10%)
+- Implementar la Gesti√≥n de la Dependencia (5-10%)
 - Implementar infraestructura de aplicaciones (15-20%)
-- Implementar retroalimentaciÛn continua (10-15%)
+- Implementar retroalimentaci√≥n continua (10-15%)
 roles:
 - devops-engineer
 products:
 - azure
 - azure-devops
-- azure-kubernetes-servicio
-- azure-contenedor-instancias
-- azure-automatizaciÛn
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
 paths:
 - uid: learn.azdo.evolve-your-devops-practices
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -54,25 +55,26 @@ courses:
 - uid: course.az-400t07
 relatedCertifications:
 - related:
-    uid: certification.azure-devops 
-- title: Ruta de certificaciÛn de aprendizaje
-  description: 'Descubra los medios de capacitaciÛn para convertirse en una persona autorizada por Microsoft: Experto ingeniero de Azure DevOps.'
+    uid: certification.azure-devops
+resources:
+- title: Ruta de certificaci√≥n de aprendizaje
+  description: 'Descubra los medios de capacitaci√≥n para convertirse en una persona autorizada por Microsoft: Experto ingeniero de Azure DevOps.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: RepeticiÛn de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de Èxito.
+- title: Repetici√≥n de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de √©xito.
   href: ../deals.md
-- title: Soporte para ex·menes de certificaciÛn.
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: Soporte para ex√°menes de certificaci√≥n.
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: ../help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
-  description: InfÛrmese sobre cÛmo solicitar un servicio de alojamiento para su examen.
+  description: Inf√≥rmese sobre c√≥mo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: PolÌticas de examen y preguntas frecuentes
-  description: Revise la polÌtica para los ex·menes y las preguntas frecuentes.
+- title: Pol√≠ticas de examen y preguntas frecuentes
+  description: Revise la pol√≠tica para los ex√°menes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

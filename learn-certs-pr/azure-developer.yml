@@ -2,17 +2,17 @@
 title: 'Certificado por Microsoft: Azure Developer Associate'
 metadata:
   title: 'Certificado por Microsoft: Azure Developer Associate'
-  description: 'Los desarrolladores de Microsoft Azure diseÒan, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.'
+  description: 'Los desarrolladores de Microsoft Azure dise√±an, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Los desarrolladores de Microsoft Azure diseÒan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
-subTitle: Los desarrolladores de Microsoft Azure diseÒan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+  Los desarrolladores de Microsoft Azure dise√±an, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+subTitle: Los desarrolladores de Microsoft Azure dise√±an, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
 levels:
 - intermediate
 skills:
-- Desarrollar la infraestructura de Azure como una SoluciÛn inform·tica de servicio
-- Desarrollar la plataforma de Azure como una SoluciÛn inform·tica de servicio
+- Desarrollar la infraestructura de Azure como una Soluci√≥n inform√°tica de servicio
+- Desarrollar la plataforma de Azure como una Soluci√≥n inform√°tica de servicio
 - Desarrollar para el almacenamiento en Azure
 - Implementar la seguridad de Azure
 - Monitorizar, solucionar los problemas y mejorar las soluciones
@@ -55,21 +55,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJU
 exams:
 - uid: exam.az-203
 resources:
-- title: Ruta de certificaciÛn de aprendizaje
-  description: 'Descubra los medios de capacitaciÛn para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
+- title: Ruta de certificaci√≥n de aprendizaje
+  description: 'Descubra los medios de capacitaci√≥n para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
-- title: GuÌa de capacitaciÛn y certificaciÛn
-  description: Analice todas las certificaciones en una guÌa concisa de capacitaciÛn y certificaciones.
+- title: Gu√≠a de capacitaci√≥n y certificaci√≥n
+  description: Analice todas las certificaciones en una gu√≠a concisa de capacitaci√≥n y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: PÛster de certificaciÛn
-  description: Consulte sobre la descripciÛn general de los fundamentos, las certificaciones basadas en funciones y especialidades.
+- title: P√≥ster de certificaci√≥n
+  description: Consulte sobre la descripci√≥n general de los fundamentos, las certificaciones basadas en funciones y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: RepeticiÛn de examen
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de Èxito.
+- title: Repetici√≥n de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de √©xito.
   href: deals.md
-- title: certificaciÛn soporte
-  description: Obtener ayuda mediante Foros de soporte tÈcnico de CertificaciÛn Un moderador del foro se contactar· dentro de 24 horas, de lunes a viernes.
+- title: certificaci√≥n soporte
+  description: Obtener ayuda mediante Foros de soporte t√©cnico de Certificaci√≥n Un moderador del foro se contactar√° dentro de 24 horas, de lunes a viernes.
   href: help.md
-- title: Panel de certificaciÛn
+- title: Panel de certificaci√≥n
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/es-es/learning/dashboard.aspx

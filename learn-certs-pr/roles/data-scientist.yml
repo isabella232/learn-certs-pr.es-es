@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: Data Scientist 
+metadata: 
+  title: Data Scientist 
+  description: Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems. 
+uid: role.data-scientist 
+summary: | 
+  Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
+subTitle: Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
+certificationPaths: 
+- title: Azure Data Scientist
+  linkedInKeywords: Azure Data Scientist
+  uid: certification-path.azure-data-scientist 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-data-scientist
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-data-scientist
+  requiredExams:
+    - uid: exam.dp-100
+resources:
+- title: Guía de formación y certificaciones de Microsoft
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de formación y certificaciones
+  description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: certificación soporte
+  href: ../help.md
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.

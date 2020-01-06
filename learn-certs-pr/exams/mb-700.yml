@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+metadata:
+  title: 'Examen MB-700: Microsoft Dynamics 365. Finance and Operations Apps Solution Architect (beta)'
+  description: 'Examen MB-700: Microsoft Dynamics 365. Finance and Operations Apps Solution Architect (beta)'
+uid: exam.mb-700
+displayName: MB-700
+summary: |-
+  Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
+
+  Un arquitecto de soluciones es responsable de la integridad y la entrega exitosa del diseño completo de la solución. El arquitecto proporciona orientación crítica durante la preventa y el diseño, y realiza consultas durante el resto del ciclo de vida del proyecto para abordar los problemas que surgen durante la implementación.
+
+  El arquitecto de soluciones debe tener una amplia gama de conocimientos y experiencia que abarque las necesidades comerciales y las capacidades del producto. El Arquitecto de soluciones debe tener una amplia experiencia funcional y técnica como rol de Desarrollador o Consultor funcional en uno de los siguientes&#58; Finanzas, fabricación o gestión de la cadena de suministro. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
+  
+  <div style="color:red"><br/><strong>NOTE&#58; Este examen no estará disponible hasta el 31 de diciembre de 2019</strong></div>
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: identificar los requisitos de la solución; componentes de soluciones de diseño; y definir pruebas de solución y estrategias de gestión.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365.%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-700
+locales:
+- en
+levels:
+- advanced
+skills:
+- Identificar los requisitos de la solución (30-35%)
+- Diseñar componentes de solución (40-45%)
+- Definir estrategias de prueba y gestión de soluciones (25-30%)
+roles:
+- solution-architect
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: certification.d365-finance-and-operations-apps-solution-architect-expert
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

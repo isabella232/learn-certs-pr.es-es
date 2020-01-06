@@ -1,0 +1,47 @@
+### YamlMime:Certification
+title: Microsoft Certified Power Platform Fundamentals
+metadata:
+  title: Microsoft Certified Power Platform Fundamentals
+  description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+levels:
+- beginner
+skills:
+- Comprender el valor comercial de Power Platform
+- Comprender los componentes principales de Power Platform
+- Demostrar el valor comercial de Power BI
+- Demostrar el valor comercial de Power Apps
+- Demostrar el valor comercial de Microsoft Flow
+roles:
+- business-user
+- functional-consultant
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

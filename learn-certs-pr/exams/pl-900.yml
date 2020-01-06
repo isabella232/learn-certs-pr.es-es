@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Fundamentals (beta)'
+metadata:
+  title: 'Examen PL-900: Microsoft Power Platform Fundamentals (beta)'
+  description: 'Examen PL-900: Microsoft Power Platform Fundamentals (beta)'
+uid: exam.pl-900
+displayName: PL-900
+summary: |-
+  Los candidatos para este examen son usuarios que aspiran a mejorar la productividad mediante la automatización de los procesos comerciales, el análisis de datos para producir información comercial y la actuación más eficaz mediante la creación de experiencias de aplicaciones simples.
+  
+  Este examen cubre los siguientes &#58; describir los componentes de Power Platform &#58; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), conectores y generador de IA; describir escenarios de nube cruzada con representación en Microsoft 365, Dynamics 365, Microsoft Azure y servicios de terceros; identificar beneficios y capacidades de Power Platform; identificar la funcionalidad básica y el valor comercial de los componentes de Power Platform; implementar soluciones simples con Microsoft Flow, Power BI y AI Builder; y crear una aplicación básica en un entorno sin código.
+subTitle: Este examen mide su capacidad para comprender el valor comercial de Power Platform; comprender los componentes centrales de Power Platform; demostrar el valor comercial de Power BI; y demostrar el valor comercial de Microsoft Flow.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Examen%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+locales:
+- en
+levels:
+- beginner
+skills:
+- Comprender el valor comercial de Power Platform (20-25%)
+- Comprender los componentes principales de Power Platform (25-30%)
+- Demostrar el valor comercial de Power BI (15-20%)
+- Demostrar el valor comercial de Power Apps (15-20%)
+- Demostrar el valor comercial de Microsoft Flow (15-20%)
+roles:
+- developer
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.power-platform-fundamentals
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

@@ -1067,7 +1067,7 @@ Si tiene preguntas generales sobre el examen, póngase en contacto con el [Centr
 
 **¿Cómo solicito adaptaciones?**
 
-Si necesita un equipo especial u otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Se proporcionan más detalles en la sección [Adaptaciones especiales al tomar un examen](#special-accommodations-when-taking-exams) más arriba.
+Si necesita un equipo especial u otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Se proporcionan más detalles en la sección Adaptaciones especiales al tomar un examen más arriba.
 
 **¿Por qué necesito enviar documentación?**
 

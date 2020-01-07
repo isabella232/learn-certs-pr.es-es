@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
+metadata:
+  title: 'Examen 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  description: 'Examen 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+uid: exam.77-729
+displayName: 77-729
+summary: |
+  Para superar el examen, los candidatos deben tener conocimientos básicos del entorno PowerPoint y demostrar la correcta aplicación de PowerPoint 2016. Tendrán que crear, editar y mejorar las presentaciones y los pases de diapositivas. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos. 
+
+  Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
+  - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos. 
+  - El formato del examen MOS 2016 incorpora varios proyectos.
+subTitle: Para superar el examen, los candidatos deben tener conocimientos básicos del entorno PowerPoint y demostrar la correcta aplicación de PowerPoint 2016. Tendrán que crear, editar y mejorar las presentaciones y los pases de diapositivas. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ro
+- ru
+- th
+- tr
+levels: 
+- intermediate
+skills:
+- Crear y administrar presentaciones (30-35%)
+- Insertar y dar formato a texto, formas e imágenes (20-25%)
+- Insertar tablas, gráficos, elementos gráficos SmartArt y medios (20-25%)
+- Aplicar transiciones y animaciones (10-15%)
+- Administrar varias presentaciones (5-10%)
+roles:
+- developer
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: certification.mos-powerpoint-2016
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

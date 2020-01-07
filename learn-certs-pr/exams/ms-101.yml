@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Movilidad y seguridad de Microsoft 365
+metadata:
+  title: 'Examen MS-101: Movilidad y seguridad de Microsoft 365'
+  description: 'Examen MS-101: Movilidad y seguridad de Microsoft 365'
+uid: exam.ms-101
+displayName: MS-101
+summary: |-
+  Los candidatos para este examen son los administradores empresariales de Microsoft 365 que participan en la evaluación, planificación, migración, implementación y administración de los servicios de Microsoft 365. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
+
+  Los candidatos tienen un conocimiento práctico de las cargas de trabajo de Microsoft 365 y deberían haber sido administradores de al menos una carga de trabajo de Microsoft 365 (Exchange, SharePoint, Skype Empresarial, Windows como servicio). Los candidatos también tienen un conocimiento práctico de las redes, la administración del servidor y los fundamentos de IT, como DNS, Active Directory y PowerShell.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar servicios de dispositivos modernos; implementar la seguridad de Microsoft 365 y la gestión de amenazas; y administrar el control y el cumplimiento de Microsoft 365.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
+practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-101&examname=Examen%20MS-101:%20Movilidad%20y%20seguridad%20de%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-101
+locales:
+- en
+- ja
+levels:
+- advanced
+skills:
+- Implementar servicios de dispositivos modernos (30-35%)
+- Implementar la seguridad de Microsoft 365 y la gestión de amenazas (30-35%)
+- Gestionar la gobernanza y el cumplimiento de Microsoft 365 (35-40%)
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+courses:
+- uid: course.ms-101t01
+- uid: course.ms-101t02
+- uid: course.ms-101t03
+relatedCertifications:
+- related:
+    uid: certification.m365-enterprise-administrator
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

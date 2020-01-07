@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Certificado por Microsoft: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Certificado por Microsoft: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Los consultores funcionales de Microsoft Dynamics 365 Sales implementan soluciones que anticipan y planifican las conexiones de clientes, gestionan tratos mediante procesamiento y cierre, y aceleran el rendimiento del equipo de ventas utilizando análisis de datos.'
+uid: certification.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los consultores funcionales de Microsoft Dynamics 365 Sales implementan soluciones que anticipan y planifican las conexiones de clientes, gestionan tratos mediante procesamiento y cierre, y aceleran el rendimiento del equipo de ventas utilizando análisis de datos.
+subTitle: Los consultores funcionales de Microsoft Dynamics 365 Sales implementan soluciones que anticipan y planifican las conexiones de clientes, gestionan tratos mediante procesamiento y cierre, y aceleran el rendimiento del equipo de ventas utilizando análisis de datos.
+levels:
+- intermediate
+skills:
+- Realizar Descubrimiento, Planificación y Análisis
+- Administrar el diseño de la experiencia del usuario
+- Administrar entidades y datos
+- Implementación de medidas de seguridad
+- Implementar integración
+- Realizar implementación y pruebas de soluciones
+- Realizar configuración
+- Administrar entidades de ventas centrales
+- Administrar entidades de ventas
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics
+- dynamics-sales
+courses:
+- uid: course.mb-200t01
+- uid: course.mb-200t02
+- uid: course.mb-200t03
+- uid: course.mb-200t04
+- uid: course.mb-210t01
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.dyn365-voice-of-customer
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-210
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 for Sales Consultant Funcional Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

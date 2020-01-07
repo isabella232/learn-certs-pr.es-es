@@ -1,0 +1,70 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Marketing
+metadata:
+  title: 'Examen MB-220: Microsoft Dynamics 365 Marketing'
+  description: 'Examen MB-220: Microsoft Dynamics 365 Marketing'
+uid: exam.mb-220
+displayName: MB-220
+summary: |-
+  Los candidatos para este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en Marketing. Los candidatos son responsables de implementar soluciones que atraigan y conviertan clientes potenciales, desarrollen el conocimiento de la marca, estandaricen los mensajes omnicanal y brinden perspectivas de marketing.
+
+  Los candidatos son responsables de configurar y expandir la aplicación de marketing principal para incluir marketing por correo electrónico, configuración, recorridos interactivos del cliente, desarrollo de oportunidades con experiencias personalizadas, integración con LinkedIn, eventos, voz del cliente, páginas de destino, segmentación y puntuación, y mantenimiento del Cumplimiento del Reglamento General de Protección de Datos (GDPR).
+
+  Los candidatos deben tener algún conocimiento de los principios de marketing y el rol de la aplicación de Marketing en relación con el conjunto de aplicaciones de Microsoft Dynamics 365, incluida la integración con las aplicaciones de Microsoft Dynamics 365 y Office 365. Los candidatos deben comprender la terminología de la industria, las prioridades, las iniciativas comunes, los estándares, las metodologías y las mejores prácticas.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar aplicaciones de marketing; gestionar segmentos y listas; crear y gestionar formularios y páginas de marketing; gestionar clientes potenciales; crear y gestionar correos electrónicos de marketing; gestionar los viajes de los clientes; gestionar eventos y webinars; y configurar y analizar las respuestas de los clientes.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-220&examname=Examen%20MB-220:%20Microsoft%20Dynamics%20365%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-220
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Configurar las aplicaciones de marketing (5-10%)
+- Administrar segmentos y listas (10-15%)
+- Crear y administrar formularios de marketing y páginas (10-15%)
+- Administrar clientes potenciales (10-15%)
+- Crear y administrar correos electrónicos de marketing (10-15%)
+- Administrar viajes del cliente (15-20%)
+- Administrar eventos y seminarios web (10-15%)
+- Configurar y analizar las respuestas de los clientes (10-15%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-200
+courses:
+- uid: course.mb-220t01
+- uid: course.mb-220t02
+paths:
+- uid: learn-dynamics.set-up-dynamics-365-marketing
+- uid: learn-dynamics.work-core-features-marketing
+- uid: learn-dynamics.manage-events-dynamics-marketing
+- uid: learn-dynamics.analyze-marketing-insights
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-marketing
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 for Marketing Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

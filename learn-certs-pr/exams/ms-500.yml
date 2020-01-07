@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Administración de seguridad de Microsoft 365
+metadata:
+  title: 'Examen MS-500: Administración de seguridad de Microsoft 365'
+  description: 'Examen MS-500: Administración de seguridad de Microsoft 365'
+uid: exam.ms-500
+displayName: MS-500
+summary: |-
+  Los candidatos para este examen implementan, administran y monitorean soluciones de seguridad y cumplimiento para Microsoft 365 y entornos híbridos. El administrador de seguridad de Microsoft 365 protege de forma proactiva los entornos empresariales de M365, responde a las amenazas, realiza investigaciones y aplica el gobierno de los datos. El Administrador de seguridad de Microsoft 365 colabora con el Administrador corporativo de Microsoft 365, las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización.
+  <br/>
+
+  Los candidatos para este examen están familiarizados con las cargas de trabajo de Microsoft 365 y tienen habilidades y experiencia sólidas en protección de identidad, protección de información, protección de amenazas, administración de seguridad y gobernanza de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar y administrar la identidad y el acceso; implementar y gestionar la protección contra amenazas; implementar y gestionar la protección de la información; y administrar las funciones de gobernabilidad y cumplimiento en Microsoft 365.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-500
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- Implementar y administrar identidad y acceso (30-35%)
+- Implementar y administrar la protección contra amenazas (20-25%)
+- Implementar y administrar la protección de la información (15-20%)
+- Administrar las funciones de gobernanza y cumplimiento en Microsoft 365 (25-30%)
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+courses:
+- uid: course.ms-500t01
+- uid: course.ms-500t02
+- uid: course.ms-500t03
+- uid: course.ms-500t04
+relatedCertifications:
+- related:
+    uid: certification.m365-security-administrator
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Administrador de Seguridad Asociado.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

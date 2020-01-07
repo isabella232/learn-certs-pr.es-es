@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: Certificado por Microsoft Fundamentos de Azure
+metadata:
+  title: Certificado por Microsoft Fundamentos de Azure
+  description: 'Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.'
+uid: certification.azure-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
+subTitle: Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
+levels:
+- beginner
+skills:
+- Comprender los conceptos de la nube
+- Comprender los servicios centrales de Azure
+- Comprender la seguridad, privacidad, cumplimiento y confianza
+- Comprender la fijación de precios y el soporte de Azure
+roles:
+- developer
+type: fundamentals
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn.cloud-foundations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
+exams:
+- uid: exam.az-900
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

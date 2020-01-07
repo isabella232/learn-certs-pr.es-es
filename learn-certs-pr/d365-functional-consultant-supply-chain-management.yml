@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Certificado por Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: 'Certificado por Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: 'Los consultores funcionales de Dynamics 365 Supply Chain Management simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.'
+uid: certification.d365-functional-consultant-supply-chain-management
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los consultores funcionales de Dynamics 365 Supply Chain Management simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.
+subTitle: 'Los consultores funcionales de Dynamics 365 Supply Chain Management simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.'
+levels:
+- intermediate
+skills:
+- Usar funcionalidades comunes y herramientas de implementación.
+- Configurar seguridad, procesos y opciones
+- Realizar la migración de datos
+- Validar y asistir la solución
+- Implementar la gestión de la información del producto
+- Implementar la gestión de inventario
+- Implementar y gestionar procesos de la cadena de suministro
+- Implementar la gestión de almacenes y la gestión de transporte y realizar procesos de negocio
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics
+- dynamics-finance-operations
+courses:
+- uid: course.mb-300t01
+- uid: course.mb-300t02
+- uid: course.mb-300t03
+- uid: course.mb-330t01
+- uid: course.mb-330t02
+- uid: course.mb-330t03
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
+- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+- uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-330
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

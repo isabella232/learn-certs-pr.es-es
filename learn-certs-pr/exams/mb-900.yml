@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Examen MB-900: Microsoft Dynamics 365 Fundamentals'
+  description: 'Examen MB-900: Microsoft Dynamics 365 Fundamentals'
+uid: exam.mb-900
+displayName: MB-900
+summary: |-
+  Este examen está diseñado para candidatos que buscan demostrar conocimientos básicos de Microsoft Dynamics 365, aplicaciones de Power Platform y el modelo de computación en la nube. Este examen cubrirá las consideraciones y beneficios de adoptar Dynamics 365, la Power Platform y los servicios en la nube en general. Este examen puede tomarse como un precursor de las certificaciones y capacitación de Dynamics 365.
+
+  Los candidatos para este examen deben tener conocimientos generales o experiencia laboral relevante en un entorno de tecnología de la información (IT). Los candidatos también deben tener una comprensión básica de los escenarios de negocios y experiencia en el cumplimiento de los requisitos comerciales, legales y de seguridad para proyectos de IT.
+subTitle: Este examen mide su capacidad para comprender Microsoft Dynamics 365; la plataforma Power, conceptos de nube; opciones de licencias; e implementar y publicar opciones.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
+practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-900&examname=Examen%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-900
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- Comprender Dynamics 365 (40-45%)
+- Comprender los conceptos de la nube (25-30%)
+- Comprender implementaciones y lanzamientos (20-25%)
+roles:
+- developer
+products: 
+- dynamics
+courses:
+- uid: course.mb-900t01
+paths:
+- uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Aspectos fundamentales de Dynamics 365'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: Core Solutions of Microsoft Skype for Business 2015 
+metadata:
+  title: 'Examen 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  description: 'Examen 70-334: Core Solutions of Microsoft Skype for Business 2015'
+uid: exam.70-334
+displayName: 70-334
+summary: |-
+  Los candidatos a este examen son consultores de TI y profesionales de consultoría de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones de comunicaciones unificadas. Los candidatos deben ser capaces de transformar los requisitos empresariales en un diseño y arquitectura técnica para una solución de comunicaciones unificadas. Los candidatos deben tener un mínimo de dos años de experiencia en las tecnologías Skype Empresarial y estar familiarizados con los escenarios de migración admitidos. Los candidatos deben dominar la implementación de soluciones Skype Empresarial para usuarios finales, dispositivos de extremo, telefonía, conferencias de audio/vídeo y web, seguridad y alta disponibilidad. Los candidatos también deben saber cómo supervisar y resolver los problemas de Skype Empresarial con las herramientas de Microsoft. Además, los candidatos deben tener conocimientos avanzados de Active Directory Domain Services, redes de datos y estándares de telecomunicaciones, y los componentes que permiten la configuración de Skype Empresarial. Los candidatos deben estar familiarizados con los requisitos para la integración de Skype Empresarial en Microsoft Exchange Server y Office 365.
+subTitle: Los candidatos a este examen son consultores de TI y profesionales de consultoría de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones de comunicaciones unificadas. Los candidatos deben ser capaces de transformar los requisitos empresariales en un diseño y arquitectura técnica para una solución de comunicaciones unificadas. Los candidatos deben tener un mínimo de dos años de experiencia en las tecnologías Skype Empresarial y estar familiarizados con los escenarios de migración admitidos. Los candidatos deben dominar la implementación de soluciones Skype Empresarial para usuarios finales, dispositivos de extremo, telefonía, conferencias de audio/vídeo y web, seguridad y alta disponibilidad. Los candidatos también deben saber cómo supervisar y resolver los problemas de Skype Empresarial con las herramientas de Microsoft. Además, los candidatos deben tener conocimientos avanzados de Active Directory Domain Services, redes de datos y estándares de telecomunicaciones, y los componentes que permiten la configuración de Skype Empresarial. Los candidatos deben estar familiarizados con los requisitos para la integración de Skype Empresarial en Microsoft Exchange Server y Office 365.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
+practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2F70-334
+locales:
+- en
+- ja
+levels: 
+- advanced
+skills: 
+- Planificar y diseñar Skype Empresarial (35-40%)
+- Implementar y configurar Skype Empresarial (30-35%)
+- Administrar y solucionar problemas de Skype Empresarial (30-35%)
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.20334
+relatedCertifications:
+- related:
+    uid: certification.mcse-productivity-certification
+resources:
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

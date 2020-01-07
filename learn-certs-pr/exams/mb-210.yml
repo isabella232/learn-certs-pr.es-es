@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 para ventas
+metadata:
+  title: 'Examen MB-210: Microsoft Dynamics 365 para ventas'
+  description: 'Examen MB-210: Microsoft Dynamics 365 para ventas'
+uid: exam.mb-210
+displayName: MB-210
+summary: |-
+  Los candidatos para este examen son consultores funcionales Dynamics 365 con experiencia en ventas Los candidatos son responsables de implementar soluciones que aceptan un ciclo de vida de ventas para ejecutar de manera efectiva y eficiente a fin de cumplir con los objetivos de ganancias, estrategias de negocios y objetivos empresariales.
+  <br/>
+
+  Los candidatos son responsables de configurar y expandir la funcionalidad central de los prospectos de ventas, contactos, cuentas, oportunidades y aceptar entes para relacionar con los procesos de ventas implementados en la empresa. Los candidatos identifican oportunidades para usar PowerApps para desarrollar experiencias unificadas para todos los dispositivos, Power Automate para integración de aplicaciones, flujos de procesos comerciales, y otras herramientas de automatización para crear una aplicación que sea compatible y acelere el "trayecto de prospectos de venta a efectivo".
+
+  Los candidatos deben contar con un fuerte conocimiento empresarial y preferentemente experiencia personal en el mundo de ventas en uno o más roles de ventas.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la configuración, administrar entidades de ventas principales y administrar entidades de ventas.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-210&examname=Examen%20MB-210:%20Microsoft%20Dynamics%20365%20para%20ventas&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-210
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Realizar configuración (40-45%)
+- Gestionar entes de ventas centrales (20-25%)
+- Gestionar entes de ventas (35-40%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-sales
+exams:
+- uid: exam.mb-200
+courses:
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.applying-goal-management
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-sales
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 for Sales Consultant Funcional Associate'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

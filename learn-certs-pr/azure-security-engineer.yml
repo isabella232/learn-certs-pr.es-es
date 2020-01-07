@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'Certificado por Microsoft: Azure Security Engineer Associate'
+metadata:
+  title: 'Certificado por Microsoft: Azure Security Engineer Associate'
+  description: 'Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.'
+uid: certification.azure-security-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
+subTitle: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
+levels:
+- intermediate
+skills:
+- Gestionar la identidad y el acceso
+- Implementar plataforma de protección
+- Gestionar operaciones de seguridad
+- Asegurar datos y aplicaciones
+roles:
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
+exams:
+- uid: exam.az-500
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

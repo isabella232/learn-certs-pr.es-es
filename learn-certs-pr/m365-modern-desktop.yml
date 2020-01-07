@@ -1,0 +1,60 @@
+### YamlMime:Certification
+title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
+metadata:
+  title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
+  description: 'Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.'
+uid: certification.modern-desktop
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+subTitle: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+levels:
+- intermediate
+skills:
+- Implementación de Windows
+- Administración de dispositivos y datos
+- Configuración de la conectividad
+- Mantener Windows
+- Implementar y actualizar sistemas operativos
+- Gestionar directrices y perfiles
+- Gestionar y proteger dispositivos
+- Gestionar aplicaciones y datos
+roles:
+- administrator
+type: role-based
+products:
+- m365
+- windows
+courses:
+- uid: course.md-100t01
+- uid: course.md-100t02
+- uid: course.md-100t03
+- uid: course.md-100t04
+- uid: course.md-101t01
+- uid: course.md-101t02
+- uid: course.md-101t03
+paths:
+- uid: learn-m365.microsoft-365-get-modern
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUD
+exams:
+- uid: exam.md-100
+- uid: exam.md-101
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Asociado administrador de escritorios modernos.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

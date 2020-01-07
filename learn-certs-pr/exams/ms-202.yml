@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Certificación de transición Administrador de trabajo en equipo de Microsoft 365
+metadata:
+  title: 'Examen MS-202: Certificación de transición Administrador de trabajo en equipo de Microsoft 365'
+  description: 'Examen MS-202: Certificación de transición Administrador de trabajo en equipo de Microsoft 365'
+uid: exam.ms-202
+displayName: MS-202
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL 30 DE SEPTIEMBRE DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</div>
+  <br/>   
+  Este examen es solo para los candidatos que han realizado el [Examen 70-345&#58;](https://www.microsoft.com/es-es/learning/exam-70-345.aspx) Diseñar e implementar Microsoft Exchange Server 2016. Si no ha realizado el Examen 345, no obtendrá un certificado al realizar este examen.
+
+  Los candidatos para este examen son administradores de mensajería que implementan, configuran, gestionan, solucionan problemas, y monitorizan receptores, permisos, protección de correo, flujo de correo y carpetas públicas en entornos in situ y empresariales de la nube.
+
+  Los administradores de mensajería son responsables de gestionar higiene, infraestructura de mensajería, configuración híbrida, migración, recuperación ante desastres, alta disponibilidad y acceso de clientes.
+
+  Los administradores de mensajería colaboran con Security Administrator y Microsoft 365 Enterprise Administrator para implementar una topología segura híbrida que cumpla con las necesidades comerciales de una organización moderna.
+
+  El administrador de mensajería debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
+subTitle: 'Este examen está pensado solo para candidatos que hayan realizado el Examen 70-345: Diseñar e implementar Microsoft Exchange Server 2016. Si no ha realizado el Examen 345, no obtendrá un certificado al realizar este examen.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Gestionar infraestructura moderna de mensajería (20-25%)
+- Gestionar la topología del flujo de correo (5-10%)
+- Gestionar receptores y dispositivos (10-15%)
+- Planificar e implementar una configuración híbrida y migración (20-25%)
+- Asegurar el entorno de mensajería (35-40%)
+retirementDate: 09/30/2019
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+- uid: exam.ms-201
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: Certificado de fundamentos de Microsoft 365
+metadata:
+  title: Certificado de fundamentos de Microsoft 365
+  description: 'Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.'
+uid: certification.microsoft-365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
+subTitle: Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
+levels:
+- beginner
+skills:
+- Comprender los conceptos de la nube
+- Comprender los servicios y conceptos básicos de Microsoft 365
+- Comprender la seguridad, el cumplimiento, la privacidad y la confianza en Microsoft 365
+- Comprender los precios y soporte de Microsoft 365
+roles:
+- business-user
+- administrator
+type: fundamentals
+products:
+- m365
+- windows
+- office-365
+courses:
+- uid: course.ms-900t01
+paths:
+- uid: learn-m365.microsoft-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
+exams:
+- uid: exam.ms-900
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Fundamentales.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

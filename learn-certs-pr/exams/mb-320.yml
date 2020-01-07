@@ -1,0 +1,70 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
+metadata:
+  title: 'Examen MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Examen MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+uid: exam.mb-320
+displayName: MB-320
+summary: |-
+  Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
+  <br/>
+
+  Los candidatos para este examen tienen una comprensión fundamental de los principios de contabilidad y operaciones financieras de negocios, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de administración de la cadena de suministro.
+  <br/>
+
+  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Finanzas de Microsoft Dynamics 365, incluidas finanzas, fabricación y administración de la cadena de suministro.
+
+  Los candidatos deben tener conocimiento de los principios y prácticas contables básicos.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: instalar y configurar la fabricación; crear y gestionar la producción y las órdenes lean; crear, procesar y gestionar pedidos por lotes de producción.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-320&examname=Examen%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-320
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Instalar y configurar fabricación (30-35%)
+- Crear y administrar pedidos de producción y Lean (25-30%)
+- Crear, procesar y administrar pedidos de lotes de producción (40-45%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+courses:
+- uid: course.mb-320t01
+- uid: course.mb-320t02
+- uid: course.mb-320t03
+paths:
+- uid: learn-dynamics.configure-and-use-discrete-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.configure-and-use-process-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.configure-and-use-lean-manufacturing-in-d365-finance-ops
+- uid: learn-dynamics.use-warehouse-in-manufacturing-dyn365-fo
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-manufacturing
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

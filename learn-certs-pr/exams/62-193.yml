@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Technology Literacy for Educators
+metadata:
+  title: 'Examen 62-193: Technology Literacy for Educators'
+  description: 'Examen 62-193: Technology Literacy for Educators'
+uid: exam.62-193
+displayName: 62-193
+summary: |-
+  Los candidatos para este examen son personas que se preparan para convertirse en educadores de aula, educadores actualizados, profesores de formación al profesorado o escuelas para docentes, administradores educativos u otros profesionales que buscan proporcionar la validación de sus competencias.
+
+  El MCE&#58; El examen de certificación para Technology Literacy for Educators es un examen de nivel intermedio pensado para que sea una forma válida de medir las competencias requeridas en el marco del 21st Century Learning Design (21CLD).
+subTitle: Los candidatos para este examen son personas que se preparan para convertirse en educadores de aula, educadores actualizados, profesores de formación al profesorado o escuelas para docentes, administradores educativos u otros profesionales que buscan proporcionar la validación de sus competencias.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2F62-193
+locales:
+- en
+- de
+- fr
+- zh-cn
+- es
+- pt
+- ru
+- pl
+- ja
+levels: 
+- beginner
+skills:
+- Facilitar la colaboración del estudiante
+- Facilitar las habilidades de comunicación
+- Facilitar la contrucción del conocimiento
+- Facilitar la autorregulación
+- Facilitar la resolución de problemas de la vida real e innovación
+- Facilitar a los estudiantes el uso de herramientas de información y comunicación (ICT por sus siglas en inglés)
+- Usar ICT para ser un formador efectivo
+roles:
+- developer
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.microsoft-certified-educator
+resources:
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

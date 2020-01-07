@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Certificado por Microsoft: Consultor funcional de Dynamics 365 for Customer Service'
+metadata:
+  title: 'Certificado por Microsoft: Consultor funcional de Dynamics 365 for Customer Service'
+  description: 'Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.'
+uid: certification.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+subTitle: Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+levels:
+- intermediate
+skills:
+- Realizar Descubrimiento, Planificación y Análisis
+- Administrar el diseño de la experiencia del usuario
+- Administrar entidades y datos
+- Implementación de medidas de seguridad
+- Implementar integración
+- Realizar implementación y pruebas de soluciones
+- Realizar configuración
+- Administrar los casos y la base de conocimientos.
+- Administrar colas, derechos y SLAs
+- Configurar la voz del cliente.
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics
+- dynamics-customer-service
+courses:
+- uid: course.mb-200t01
+- uid: course.mb-200t02
+- uid: course.mb-200t03
+- uid: course.mb-200t04
+- uid: course.mb-230t01
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.dyn365-voice-of-customer
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-230
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Consultor funcional de Dynamics 365 for Customer Service.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: certificación soporte
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx

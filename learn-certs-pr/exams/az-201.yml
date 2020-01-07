@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Soluciones Centrales del Desarrollador de Microsoft Azure (beta)
+metadata:
+  title: 'Examen AZ-201: Soluciones Centrales del Desarrollador de Microsoft Azure (beta)'
+  description: 'Examen AZ-201: Soluciones Centrales del Desarrollador de Microsoft Azure (beta)'
+uid: exam.az-201
+displayName: AZ-201
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL 03 DE ENERO DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</div>
+  <br/> 
+  Los candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
+
+  Los candidatos deberán ser hábiles al desarrollar aplicaciones y servicios usando las herramientas y tecnología Azure, incluido almacenamiento, seguridad, cómputos, y comunicaciones.
+
+  Los candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube.
+subTitle: Los candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjg
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- beginner
+skills:
+- Desarrollar un modelo de Azure Cloud (50-55%)
+- Implementar las soluciones de integración en la nube (25-30%)
+- Desarrollar Servicios cognitivos de Azure, soluciones Bot e IoT (20-25%)
+retirementDate: 01/03/2019
+roles:
+- developer
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: Guía de capacitación y certificación
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

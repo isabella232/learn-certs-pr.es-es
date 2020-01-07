@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
+metadata:
+  title: 'Examen MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Examen MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+uid: exam.mb-300
+displayName: MB-300
+summary: |-
+  Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
+  <br/>
+
+  Los candidatos para este examen tienen una comprensión fundamental de los principios de contabilidad y operaciones financieras de negocios, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de administración de la cadena de suministro.
+
+  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Finanzas y Operaciones de Microsoft Dynamics 365, incluidas finanzas, fabricación y administración de la cadena de suministro.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: usar funcionalidades comunes y herramientas de implementación; configurar seguridad, procesos y opciones; realizar la migración de datos; y validar y apoyar la solución.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-300&examname=Examen%20MB-300:%20Microsoft%20Dynamics%20365:%20Core%20Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-300
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- Usar funcionalidades comunes y herramientas de implementación. (20-25%)
+- Configurar seguridad, procesos y opciones (45-50%)
+- Realizar migración de datos (15-20%)
+- Validar y asistir la solución (15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-finance-operations
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+- uid: exam.mb-320
+- uid: exam.mb-330
+courses:
+- uid: course.mb-300t01
+- uid: course.mb-300t02
+- uid: course.mb-300t03
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-financials
+- related:
+    uid: certification.d365-functional-consultant-manufacturing
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación.
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

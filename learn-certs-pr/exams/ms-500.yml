@@ -46,7 +46,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: Repetición de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Soporte para exámenes de certificación.

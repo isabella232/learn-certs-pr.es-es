@@ -29,7 +29,7 @@ Además, tendrá acceso a [MCT Central](https://www.microsoft.com/en-us/learning
 
 [Explore todos los beneficios disponibles para los MCT.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## Requisitos
+## <a name="mctinfoheading-3"></a> Requisitos
 
 MCT es un programa para educadores de todo el mundo que impartan formación sobre las Microsoft technologies. Si dispone de la certificación o cualificación correspondiente, y le apasiona impartir formación sobre las Microsoft technologies, le recomendamos que considere la posibilidad de presentar una solicitud.
 

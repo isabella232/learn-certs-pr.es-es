@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 En todo el mundo, asociados y clientes confían en que Microsoft ofrezca los exámenes y certificaciones de la mejor calidad. Las directivas sobre exámenes para obtención de la certificación de Microsoft se han desarrollado para apoyar los objetivos del programa de certificación, entre las que se incluyen las siguientes:
 
-## Directivas de seguridad y repetición
+## <a name="security-policies"></a> Directivas de seguridad y repetición
 
 Microsoft ha implantado directivas específicas que abordan las áreas de seguridad pertinentes a los exámenes de Microsoft Certified Professional (MCP).
 
@@ -517,7 +517,7 @@ Para obtener más información, visite: [NCCRS credit for Microsoft certificatio
 
 Descargar: [Transcript Service Application](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Impugnación de preguntas de los exámenes de Microsoft Certification
+## <a name="policies-5"></a> Impugnación de preguntas de los exámenes de Microsoft Certification
 
 [Cada pregunta de examen se revisa detenidamente](https://www.microsoft.com/es-es/learning/certification-exams.aspx) por parte de un tribunal de especialistas en tecnología y funciones de trabajo, quienes revisan la precisión, claridad y relevancia de cada pregunta. Si cree que una pregunta específica de un examen de Microsoft Certification no es válida, puede solicitar una evaluación de dicha pregunta siguiendo los pasos que se describen a continuación. Debe presentar un formulario de impugnación de preguntas del examen dentro de los 30 días de realizar el examen.
 
@@ -553,7 +553,7 @@ Si necesita un equipo especial u otra adaptación cuando realiza un examen, pued
 
 Si necesita más tiempo porque el examen no está disponible en su idioma nativo, requiere equipo especial o desea solicitar otra adaptación cuando realiza el examen, puede solicitar una adaptación a través de Certiport siguiendo el proceso que se describe [aquí](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Política de cancelación y cambio de fecha:
+### <a name="cancellation-and-reschedule-policy"></a> Política de cancelación y cambio de fecha:
 
 - No se producirá ningún recargo si cambia la fecha del examen o cancela una fecha concreta al menos 6 días hábiles antes de la fecha prevista para el examen.
 - Si cancela el examen o cambia la fecha del examen 5 días antes de la fecha prevista, se aplicará un recargo.

@@ -1,0 +1,330 @@
+### YamlMime:Course
+title: Tecnologías avanzadas de SharePoint 2016
+metadata:
+  title: 'Curso 20339-2-A: Tecnologías avanzadas de SharePoint 2016'
+  description: 'Curso 20339-2-A: Tecnologías avanzadas de SharePoint 2016'
+uid: course.20339-2
+courseNumber: '20339-2-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir la arquitectura principal de SharePoint 2016 y sus características nuevas y mejoradas.
+- skill: Describir las características híbridas clave en SharePoint 2016.
+- skill: Planificar y diseñar un entorno de SharePoint 2016 para cumplir con los requisitos de alta disponibilidad y recuperación ante desastres.
+- skill: Planificar e implementar servicios de conectividad y servicio de almacenamiento seguro.
+- skill: Configurar y administrar servicios de productividad para una implementación de SharePoint 2016.
+- skill: Administrar soluciones en una implementación de SharePoint 2016.
+- skill: Planificar y configurar las funciones de computación social.
+- skill: Planificar y configurar la gestión del contenido web para un entorno con conexión a Internet.
+- skill: Planificar y configurar Enterprise Content Management en una implementación de SharePoint 2016.
+- skill: Planificar y configurar soluciones de inteligencia de negocios.
+- skill: Planificar y configurar las funciones y plataformas de gestión del trabajo, productividad y colaboración.
+- skill: Realizar una actualización o migración a SharePoint 2016.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-339
+summary: |-
+  Este curso de cinco días le enseñará cómo planificar, configurar y administrar las características avanzadas en un entorno de SharePoint 2016. Las áreas especiales de enfoque para este curso incluyen la implementación de alta disponibilidad, recuperación ante desastres, arquitectura de aplicaciones de servicio y Servicios de conectividad empresarial de Microsoft. Este curso también se centra en las características de la informática social, la productividad y las plataformas y características de colaboración. Los estudiantes también aprenderán sobre soluciones de inteligencia empresarial, gestión de contenido empresarial, infraestructura de gestión de contenido web, soluciones y aplicaciones. Este curso también cubre cómo desarrollar e implementar un plan de gobierno y cómo realizar una actualización o una migración a SharePoint 2016.
+
+  Este es el segundo de una secuencia de dos cursos para profesionales de TI y está alineado con la certificación SharePoint 2016 IT Pro.
+
+  #### Perfil de audiencia
+  El curso está dirigido a profesionales de TI con experiencia que estén interesados en aprender cómo instalar, configurar, implementar y administrar instalaciones de SharePoint 2016 en un centro de datos o en la nube. 
+  
+  Por lo general, los estudiantes deben tener más de cuatro años de experiencia práctica * planeando y manteniendo SharePoint Server y otras tecnologías centrales de las que depende SharePoint, incluidos Windows Server 2012 R2 o posterior, Internet Information Services (IIS), Microsoft SQL Server 2014 R2 o posterior , Servicios de dominio de Active Directory (AD DS) y servicios de infraestructura de red.
+  
+  Los estudiantes deberían haber completado el curso 20339-1A&#58; Planificación y administración de Microsoft SharePoint 2016, o haber adquirido conocimientos y experiencia equivalentes antes de tomar este curso. El candidato mínimamente calificado normalmente&#58;
+  
+  - Tiene un conocimiento práctico de, y preferiblemente con experiencia práctica, Microsoft SharePoint en línea.
+  - Tiene una amplia familiaridad con las cargas de trabajo de SharePoint.
+  - Tiene experiencia con la gestión de la continuidad del negocio, incluida la copia de seguridad de datos, la restauración y la alta disponibilidad.
+  - Tiene experiencia con tecnologías de autenticación y seguridad.
+  - Tiene experiencia con Windows PowerShell.
+  
+  *La experiencia práctica o la experiencia laboral debe provenir de un rol basado en soluciones en el que el candidato ha trabajado en múltiples soluciones en el espacio de SharePoint que incluye la gestión de documentos, la gestión de contenido y la búsqueda.
+  
+prerequisitesSection: |-
+  Un candidato ideal para este curso debe tener al menos un año de experiencia en la implementación y administración de varias granjas de servidores de SharePoint Server 2013 en una gran empresa El candidato debería haber completado el curso 20339-1A&#58; Planificación y administración de Microsoft SharePoint 2016 o debe demostrar habilidades equivalentes.
+  
+  Antes de asistir a este curso, los estudiantes deben demostrar las siguientes habilidades&#58;
+  - Al menos una experiencia de un año de mapeo de los requisitos del negocio a los diseños técnicos lógicos y físicos.
+  - Conocimiento práctico del diseño de la red, incluida la seguridad de la red.
+  - Experiencia en gestión de software en un servidor empresarial Windows Server 2012 R2 o entorno Windows Server 2016.
+  - Implementación y administración de aplicaciones de forma nativa, virtual y en la nube.
+  - Administración de IIS.
+  - Configuración de AD DS para su uso en autenticación, autorización y como almacén de usuarios.
+  - Administración de una aplicación de forma remota mediante Windows PowerShell 2.0. O posterior
+  - Conexión de aplicaciones al servidor de SQL.
+  - Implementación de seguridad basada en reclamo.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a SharePoint 2016
+  Este módulo describe los componentes arquitectónicos principales de un entorno de SharePoint Server y también ayuda a identificar las nuevas características depreciadas y eliminadas en SharePoint 2016.
+  #### Lecciones
+  - Componentes principales de la arquitectura de SharePoint 2016
+  - Características nuevas, obsoletas y eliminadas en SharePoint 2016
+  - Ediciones de SharePoint 2016 y SharePoint en línea
+
+  #### Laboratorio &#58; Revisión del concepto principal de Microsoft SharePoint 2016
+  - Configuración de granjas de SharePoint 2016
+  - Creación y configuración de colecciones de sitios y sitios
+  - Aprovisionamiento de aplicaciones de servicio mediante el Shell de administración de SharePoint 2016
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características arquitectónicas de un Microsoft-SharePoint 2016.
+  -Identificar las características nuevas, obsoletas y eliminadas en SharePoint 2016.
+  - Describir las ediciones para SharePoint 2016 local Y de Microsoft SharePoint en línea.
+
+
+  ### Módulo 2&#58; Introducción a escenarios híbridos para SharePoint 2016
+  Este módulo describe las características híbridas clave en SharePoint 2016 y le ayuda a prepararse para una implementación híbrida de SharePoint 2016.
+  #### Lecciones
+  - Exploración de las características híbridas en SharePoint 2016
+  - Preparación para una implementación híbrida de SharePoint 2016
+
+
+  #### Laboratorio &#58; Configuración de un inquilino de Office 365
+  - Creación de un inquilino de Office 365
+
+
+  #### Laboratorio &#58; Creación sitios de equipo híbridos
+  - Preparación del entorno de SharePoint
+  - Ejecución del selector híbrido de SharePoint
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Descripción las características híbridas clave en SharePoint Server 2016.
+  - Preparación para una implementación híbrida de SharePoint 2016.
+
+
+  ### Módulo 3&#58; Diseño de estrategias de gestión de continuidad del negocio
+  Este módulo explica cómo seleccionar una configuración de servidor de base de datos adecuada para cumplir con los requisitos de disponibilidad. También describe cómo diseñar una arquitectura física e infraestructura para cumplir con los requisitos de alta disponibilidad. Finalmente, este módulo explica cómo desarrollar e implementar una estrategia de copia de seguridad y restauración.
+  #### Lecciones
+  - Diseño de topologías de bases de datos para alta disponibilidad y recuperación ante desastres
+  - Diseño de una infraestructura de SharePoint para alta disponibilidad
+  - Planificación para la recuperación de desastres
+
+
+  #### Laboratorio &#58; Planificación y realización de copias de seguridad y restauración
+  - Creación de un plan de copia de seguridad y restauración
+  - Prueba del proceso de copia de seguridad y restauración
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Seleccionar una configuración de servidor de base de datos adecuada para cumplir con los requisitos de disponibilidad.
+  - Diseñar una arquitectura física e infraestructura para cumplir con los requisitos de alta disponibilidad
+  - Desarrollar e implementar una estrategia de respaldo y restauración.
+
+
+  ### Módulo 4&#58; Planificación e implementación de servicios de conectividad empresarial y servicio de almacenamiento seguro
+  Este módulo explica cómo configurar los Servicios de conectividad empresarial (BCS) y describe cómo configurar y administrar la aplicación del Servicio de almacenamiento seguro. También explica cómo puedes configurar y administrar modelos BCS.
+  #### Lecciones
+  - Planificación y configuración BCS
+  - Configuración del servicio de almacenamiento seguro
+  - Gestión de modelos BCS
+
+
+  #### Laboratorio &#58; Configuración de BCS y el Servicio de almacenamiento seguro
+  - Configuración de la aplicación de servicio BDC
+  - Configuración del servicio de almacenamiento seguro
+
+
+  #### Laboratorio &#58; Gestión de modelos BDC
+  - Configuración de una aplicación de destino del Servicio de almacenamiento seguro
+  - Importación y configuración de modelos BDC
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar y configurar la aplicación de servicio de conectividad empresarial
+  - Planificar y configurar a aplicación del Servicio de almacenamiento seguro.
+  - Administrar los modelos de conectividad de datos empresariales.
+
+
+  ### Módulo 5&#58; Configuración de servicios de productividad para una implementación de SharePoint 2016
+  Este módulo describe la arquitectura del complemento de SharePoint. Este módulo también explica cómo aprovisionar y administrar aplicaciones de SharePoint y catálogos de aplicaciones. Además, este módulo describe cómo aprovisionar los Servicios de Microsoft Access, los Servicios de Visio, los Servicios de automatización de Word, los Servicios de automatización de PowerPoint y los Servicios de traducción de SharePoint.
+  #### Lecciones
+  - Comprensión de la arquitectura del complemento de SharePoint
+  - Aprovisionamiento y gestión de aplicaciones y catálogos de aplicaciones
+  - Prestación de servicios de productividad.
+
+
+  #### Laboratorio &#58; Configuración y administración del complemento de SharePoint
+  - Configuración de una granja de SharePoint para admitir aplicaciones
+  - Creación y configuración un catálogo de aplicaciones corporativas
+  - Implementación y monitoreo de aplicaciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los complementos de Microsoft SharePoint y la infraestructura de soporte de SharePoint.
+  - Aprovisionar y configurar complementos de SharePoint y catálogos de aplicaciones.
+  - Administrar cómo se usan las aplicaciones dentro de una implementación de SharePoint 2016.
+
+
+  ### Módulo 6&#58; Gestión de soluciones en Microsoft SharePoint 2016
+  Este módulo describe el propósito y la estructura de las características y soluciones de SharePoint 2016. Además, explica cómo administrar soluciones de sandbox en Microsoft SharePoint 2016.
+  #### Lecciones
+  - Comprensión de la arquitectura de la solución de SharePoint 2016
+  - Administración de soluciones de espacio aislado
+
+
+  #### Laboratorio &#58; Gestión de soluciones
+  - Configuración de una granja de servidores de SharePoint para admitir soluciones de espacio aislado
+  - Configuración de un sitio de SharePoint para admitir una solución de espacio aislado
+  - Implementación de soluciones agrícolas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar características y soluciones en Microsoft SharePoint
+  2016.
+  - Administrar soluciones de espacio aislado en una implementación de
+  SharePoint 2016.
+
+
+  ### Módulo 7&#58; Conexión de personas
+  Este módulo explica cómo administrar los perfiles de usuario y cómo planificar y configurar Mi sitio y las funciones sociales. Este módulo también describe cómo configurar los sitios de la comunidad.
+  #### Lecciones
+  - Administrar perfiles de usuario
+  - Habilitación de la interacción social
+  - Construcción de comunidades
+
+
+  #### Laboratorio &#58; Configuración de la sincronización de perfiles y Mis sitios
+  - Configuración de sincronización de perfil
+  - Configuración de Mis Sitios
+
+
+  #### Laboratorio &#58; Configuración de sitios de la comunidad
+  - Creación de una infraestructura de sitio comunitario
+  - Configuración de la participación en el sitio de la comunidad
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar perfiles de usuario en Microsoft SharePoint 2016 y
+  configurar la sincronización del perfil de usuario mediante Microsoft Identity Manager (MIM) 2016.
+  - Habilitar la interacción social en SharePoint 2016.
+  - Crear comunidades y sitios comunitarios en SharePoint 2016.
+
+
+  ### Módulo 8&#58; Planificación y configuración de la gestión de contenido web.
+  Este módulo explica cómo planificar y configurar una infraestructura de administración de contenido web para cumplir con los requisitos comerciales. Este módulo también describe cómo configurar la navegación administrada y los sitios de catálogo de productos, y cómo configurar el soporte para sitios multilingües. Además, explica y cómo planificar y administrar el diseño y la personalización de los sitios de publicación, y cómo planificar y configurar el soporte para usuarios móviles.
+  #### Lecciones
+  - Planificación e implementación de una infraestructura de gestión de contenido web.
+  - Configuración de sitios gestionados de navegación y catálogo
+  - Soporta múltiples idiomas y locales
+  - Habilitación de diseño y personalización
+  - Apoyo a usuarios móviles
+
+
+  #### Laboratorio &#58; Configuración de sitios gestionados de navegación y catálogo
+  - Configuración de un sitio de catálogo de productos
+  - Configuración de publicación entre sitios
+  - Configuración de sitios de publicación
+
+
+  #### Laboratorio &#58; Configurar canales del dispositivo
+  - Configuración de canales del dispositivo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar y configurar una infraestructura de gestión de contenido web.
+  - Configurar la navegación administrada y los sitios de catálogo de productos.
+  - Planifique y configure el soporte para sitios multilingües
+  y locales.
+  - Gestionar diseño y personalización para
+  sitios de publicación.
+  - Planificar y configurar el soporte para usuarios móviles.
+
+
+  ### Módulo 9&#58; Planificación y configuración de gestión de contenido empresarial
+  Este módulo explica cómo planificar la gestión de contenido y documentos, y cómo planificar y configurar eDiscovery. Además, describe cómo planificar la gestión y el cumplimiento de los registros.
+  #### Lecciones
+  - Planificación de gestión de contenido empresarial
+  - Planificación y configuración de eDiscovery
+  - Planificación de la gestión de registros
+
+
+  #### Laboratorio &#58; Configuración de eDiscovery en SharePoint 2016
+  - Creación y configuración en el centro de eDiscovery
+  - Descubrimiento y protección del contenido
+  - Consulta y exportación de contenido
+
+
+  #### Laboratorio &#58; Configuración de la administración de registros en SharePoint Server 2016
+  - Configuración de la gestión de registros en el lugar
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar cómo administrar contenido y documentos.
+  - Planificar y configurar eDiscovery.
+  - Planificar la gestión de registros y cumplimiento.
+
+
+  ### Módulo 10&#58; Planificación y configuración de soluciones de inteligencia empresarial
+  Este módulo explica cómo planear la arquitectura de inteligencia empresarial (BI) para SharePoint 2016 y cómo implementar y administrar servicios de BI. Además, este módulo explica cómo planificar y configurar herramientas de análisis avanzadas.
+  #### Lecciones
+  - Planificación de la arquitectura de BI
+  - Planificación, implementación y gestión de servicios de BI.
+  - Planificación y configuración de herramientas de análisis avanzadas.
+
+
+  #### Laboratorio &#58; Instalación del servidor en línea de Office.
+  - Implementación del servidor de Office en línea
+
+
+  #### Laboratorio &#58; Configuración de PowerPivot y Power View para SharePoint 2016
+  - Configuración de PowerPivot para SharePoint 2016
+  - Configuración de Power View para SharePoint
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar la inteligencia empresarial de Microsoft SharePoint, sus componentes y planificar la inteligencia empresarial.
+  - Planifique, implemente y administre el núcleo de los servicios de Microsoft SharePoint 2016 BI .
+  - Configuración de las opciones avanzadas de BI disponibles en SharePoint 2016 y Microsoft SQL Server 2014.
+
+
+  ### Módulo 11&#58; Planificación y configuración de productividad y colaboración.
+  Este módulo explica cómo planificar y configurar las funciones de productividad y colaboración. Este módulo también explica cómo planear y configurar soluciones compuestas en SharePoint 2016.
+  #### Lecciones
+  - Planificación y configuración de funciones de colaboración.
+  - Planificación y configuración de compuestos.
+
+
+  #### Laboratorio &#58; Configuración y trabajo con sitios de proyectos
+  - Creación de una granja de servidores de Office en línea y configurar la integración en SharePoint 2016
+  - Creación de sitios de proyectos.
+  - Configuración de sitios de proyectos
+  - Acoplamiento a los equipos del proyecto
+  - Configuración de la integración de Project Server
+
+
+  #### Laboratorio &#58; Configuración de un flujo de trabajo
+  - Configuración de Microsoft Azure Workflow y Microsoft SharePoint Workflow Services
+  - Creación y prueba de un flujo de trabajo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describa cómo planificar y configurar las opciones de colaboración y coautoría de SharePoint.
+  - Configuración sitios de proyectos y compromiso de equipos.
+  - Planificación y configuración de compuestos
+  - Configuración de flujos de trabajo en SharePoint 2016.
+
+
+  ### Módulo 12&#58;Actualización y migración a SharePoint 2016
+  Este módulo explica cómo prepararse para la actualización o migración a SharePoint 2016. Además, explica cómo administrar las colecciones de sitios y cómo actualizarlas a SharePoint 2016. Finalmente, el módulo describe cómo actualizar contenido avanzado de SharePoint Server 2013 a SharePoint 2016.
+  #### Lecciones
+  - Preparación para una actualización o migración
+  - Actualización a SharePoint 2016
+  - Planificación y administración de una actualización de colección de sitios
+
+
+  #### Laboratorio &#58; Ejecución de una migración y actualización de la base de datos de contenido desde Microsoft SharePoint Server 2013
+  - Migración del servicio de metadatos administrados de SharePoint Server 2013
+  - Actualización de una base de datos de contenido de SharePoint Server 2013
+
+
+  #### Laboratorio &#58; Administración de actualizaciones de colecciones de sitios
+  - Preparación de colecciones de sitios para la actualización
+  - Actualización de colecciones de sitios
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar y prepararse para una actualización.
+  - Realizar actualizaciones a las aplicaciones de datos y servicios.
+  - Actualizar colecciones de sitios.
+  - Actualizar el contenido avanzado de SharePoint Server 2013 a SharePoint 2016.

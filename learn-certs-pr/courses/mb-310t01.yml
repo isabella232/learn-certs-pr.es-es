@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Configurar y usar componentes esenciales de la gestión financiera en Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-310T01-A: Configurar y usar componentes esenciales de la gestión financiera en Dynamics 365 for Finance and Operations'
+  description: 'Curso MB-310T01-A: Configurar y usar componentes esenciales de la gestión financiera en Dynamics 365 for Finance and Operations'
+uid: course.mb-310t01
+courseNumber: 'MB-310T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para elevar su desempeño financiero al aumentar la rentabilidad, optimizar la productividad de la fuerza laboral, reducir los gastos operativos, adaptarse rápidamente a los cambios de requisitos y agilizar la administración de activos.
+
+  Este curso trata cómo configurar y usar componentes esenciales de la administración financiera en Dynamics 365 for Finance and Operations.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Gestión financiera
+  En este módulo, los estudiantes aprenderán algunos beneficios de la gestión financiera de Dynamics 365 for Finance and Operations.
+  #### Lecciones
+  - Beneficios de la gestión financiera
+  - Gestión financiera
+  - Resumen del módulo
+  Los estudiantes se familiarizaron con los módulos de Finanzas y Operaciones relacionados con la gestión financiera y sus características y funcionalidades generales.
+
+  ### Módulo 2&#58; Configurar monedas
+  Uno de los primeros y más importantes pasos para implementar la administración financiera en Dynamics 365 for Finance and Operations es la configuración de la moneda. La configuración de la moneda es un paso obligatorio en la configuración del sistema y se utiliza para registrar transacciones financieras. Este módulo explica la gestión de divisas en Finanzas y Operaciones.
+  #### Lecciones
+  - Introducción
+  - Configurar monedas y conversiones de entidades jurídicas
+  - Configurar e importar tipos de cambio de divisas
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  Los estudiantes ahora han aprendido sobre diferentes tipos de monedas en Finance and Operations. Ahora también están familiarizados con el concepto de moneda de triangulación, cómo configurar monedas de entidad legal y conversiones. En el vídeo, los estudiantes aprendieron cómo configurar proveedores de tipos de cambio y usarlos para importar tipos de cambio en un tipo de tasa de cambio.
+
+  ### Módulo 3&#58; Crear calendarios fiscales, años y períodos
+  Antes de contabilizar las transacciones, un nuevo año fiscal debe dividirse en períodos. Esto se debe a que las transacciones no pueden contabilizarse a menos que se cree un período para la fecha de contabilización y se comparta entre múltiples entidades legales. Un beneficio de compartir calendarios fiscales es que esto admite múltiples calendarios fiscales para cada entidad jurídica. El año fiscal en Finance and Operations puede establecerse en cualquier duración y dividirse en cualquier cantidad de períodos.. Este módulo explica la gestión del calendario fiscal y contable en Finanzas y Operaciones.
+  #### Lecciones
+  - Introducción
+  - Crear calendarios fiscales, años y períodos
+  - Crear intervalos de fechas
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Diferenciar entre calendarios contables y fiscales
+  - Instalar y configurar calendarios fiscales, años y períodos
+  - Crear y usar intervalos de fechas
+
+
+  ### Módulo 4&#58; Configurar plan de cuentas
+  Un plan de cuentas es un conjunto de cuentas principales en Finance and Operations que captura información financiera al publicar un diario. A cada cuenta se le asigna un número de cuenta como identificador único.
+  #### Lecciones
+  - Introducción
+  - Definir y configurar el plan de cuentas
+  - Definir y configurar las dimensiones financieras
+  - Definir y configurar estructuras y reglas de cuenta
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Identificar los componentes necesarios para el plan de cuentas
+  - Definir y configurar el plan de cuentas
+  - Definir y configurar las dimensiones financieras y los conjuntos de dimensiones
+  - Configure el plan de cuentas, cuentas principales, categorías, plantillas, alias de cuentas contables y control de saldo
+  - Configurar estructuras de cuenta y reglas avanzadas
+
+
+  ### Módulo 5&#58; Configurar libro mayor y diarios
+  Un diario es una hoja de trabajo que se puede usar antes de ingresar manualmente las publicaciones en el sistema. Cuando se configuran correctamente, los diarios permiten gestionar de forma rápida y eficiente el registro. Para usar un diario, debe haber un nombre de diario, y la configuración del libro mayor, el diario y la publicación del módulo libro mayor deben estar completos. Al utilizar el diario del libro mayor directamente o mediante el espacio de trabajo de procesamiento del libro mayor, se pueden realizar actividades diarias como alguien a quien se le asigna el rol de seguridad adecuado para acceder al libro mayor. El nombre de un diario brinda a los líderes financieros la capacidad de controlar la validación de entrada de datos y restringir el registro de un nombre de diario para los usuarios de manera diferente.
+  #### Lecciones
+  - Diarios y su configuración
+  - Configurar el libro mayor y la configuración del diario
+  - Diarios de usuario
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  En este módulo los estudiantes aprendieron sobre&#58;
+  - Diferentes tipos de diarios y su configuración
+  - Cómo configurar el libro mayor y la configuración de registro
+  - Cómo configurar y usar diarios
+
+
+  ### Módulo 6&#58; Configurar Gestión de efectivo y banco
+  En Dynamics 365 for Finance and Operations, las organizaciones usan el módulo Gestión de efectivo y banco para crear y mantener cuentas bancarias. La tabla de la cuenta bancaria contiene un registro para cada cuenta bancaria. Cada registro contiene información de la cuenta bancaria, como la siguiente&#58; número de registro y número de cuenta; dirección; otra información de contacto; moneda; configuración de cheques; y cuenta principal para registros. Finance and Operations utiliza esta información para procesar todas las transacciones bancarias, como pagos y depósitos.
+  #### Lecciones
+  - Introducción
+  - Tipos y grupos de transacciones bancarias
+  - Configurar los parámetros de caja y gestión bancaria
+  - Configurar bancos y cheques bancarios
+  - Cheques de depósito y reembolso
+  - Flujo de efectivo
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Crear y configurar bancos
+  - Crear y configurar diseños bancarios
+  - Configurar los parámetros de efectivo y gestión bancaria
+  - Establecer bancos de proveedores y clientes
+  - Configurar pronósticos e informes de flujo de efectivo
+
+
+  ### Módulo 7&#58; Usar Gestión de efectivo y banco
+  Este módulo cubre los procedimientos principales en el módulo de gestión de efectivo y bancos en Finance and Operations. Los estudiantes aprendieron a trabajar con efectivo y espacios de trabajo de gestión bancaria, como la gestión bancaria y las descripciones generales de efectivo. Los estudiantes también aprendieron sobre los procesos y procedimientos para el manejo de efectivo y bancos, como cómo hacer depósitos y cancelar pagos (depósitos). Finance and Operations proporciona funcionalidad para administrar pagos de cheques, así como procedimientos para resolver situaciones especiales con cheques. Se pueden eliminar, reembolsar y anular cheques, además de generar y emitir cheques de acuerdo con las especificaciones de la compañía. Debido a que Finance and Operations registra todas las transacciones financieras, las compañías pueden usar la función de conciliación bancaria para hacer coincidir los registros internos de la compañía con los extractos bancarios.
+  #### Lecciones
+  - Hacer depósitos y realizar reversiones de pagos
+  - Usar espacios de trabajo de gestión de efectivo y bancos
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Trabajar con efectivo y los procesos de gestión bancaria
+  - Usar espacios de trabajo de gestión de efectivo y bancos
+  - Hacer depósitos
+  - Cancelar pagos
+
+
+  ### Módulo 8&#58; Configurar cartas de crédito y garantías
+  Los estudiantes ahora han aprendido cuáles son las cartas bancarias; cómo configurar cartas de crédito para crear documentos bancarios que se usan comúnmente para la compra y venta de bienes a través de las fronteras internacionales; y sobre cartas de garantía, donde un banco acuerda pagar una cantidad específica de dinero a una persona si uno de los clientes del banco incumple un pago u obligación con esa persona.
+  #### Lecciones
+  - Introducción
+  - Configurar cartas de crédito
+  - Configurar cartas de garantía
+  - Resumen del módulo
+
+  Los estudiantes aprenderán sobre cartas bancarias, cartas de crédito y garantía.
+
+  ### Módulo 9&#58; Realizar procedimientos diarios
+  Cada registro manual ingresado en Finance and Operations se ingresa a través de un diario. Un diario es un tipo de hoja de trabajo donde las entradas no se registran de inmediato. Uno puede revisar, cambiar y verificar diarios completados hasta que estén listos para su registro. Una plantilla de comprobante es un comprobante que se puede utilizar como base para futuros comprobantes en otras entradas de diario. Se pueden usar plantillas de asientos con un diario general o cualquiera de los diarios del libro mayor financiero, como los diarios de Cuentas por pagar y Cuentas por cobrar. Se pueden establecer restricciones en la empresa, el tipo de cuenta y los valores del segmento.
+  #### Lecciones
+  - Conocer los procesos del libro mayor
+  - Crear plantillas de asiento
+  - Configurar validaciones del diario
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  Los estudiantes ahora han aprendido cómo procesar las actividades diarias en el libro mayor y usar el control de diario para aplicar reglas durante la entrada de datos. Han trabajado con cuentas de control de saldo para ver los saldos de bancos o cuentas de liquidez. 
+  
+  Los estudiantes también aprendieron que solo se puede usar el control de saldo antes de publicar para asegurarse de que las entradas sean correctas.
+  
+  Por último, aprendieron cómo beneficiarse de las plantillas de asientos por Cantidad, que es simplemente copiar la cantidad exacta de la plantilla como nuevas líneas, o Porcentaje, que convierte las cantidades en el asiento en factores de porcentaje; esto permite aplicar cualquier cantidad cuando se selecciona la plantilla de asiento.
+
+  ### Módulo 10&#58; Contabilidad entre empresas
+  La contabilidad intercompañía puede ayudar a las organizaciones al proporcionar un punto de entrada único para las transacciones que deben registrarse en varias compañías. Hacer transacciones desde una sola compañía ahorra tiempo de entrada de datos y ayuda a garantizar que las transacciones que afectan a múltiples compañías se registren en cada compañía. Finance and Operations también ayuda a rastrear las entradas entre compañías a través del sistema. Tiene la funcionalidad que requieren la mayoría de las compañías que procesan transacciones entre compañías. Esto incluye la capacidad de registrar de manera eficiente los pedidos de ventas, pedidos de compra y desembolsos de efectivo entre empresas.
+  #### Lecciones
+  - Configurar y usar la contabilidad entre compañías
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  Los estudiantes podrán configurar y usar la contabilidad entre compañías.
+
+  ### Módulo 11&#58; Configurar asignaciones de contabilidad y provisiones
+  Finance and Operations ofrece las capacidades para soportar planes de provisión.
+  #### Lecciones
+  - Introducción
+  - Configurar y aplicar plan de provisión
+  - Configurar reglas de asignación de contabilidad
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  Los estudiantes habrán aprendido cómo configurar y usar reglas de asignación, así como también cómo configurar y usar planes de provisión. Finance and Operations ofrece las siguientes capacidades para respaldar este proceso&#58;
+  - Asignar manualmente los importes de las transacciones utilizando la acción dividida en distribuciones contables, o aplicando plantillas predeterminadas de dimensión financiera a un documento.
+  - Asignar automáticamente los importes de las transacciones en función de los términos de asignación definidos individualmente en la cuenta principal. Las entradas de la cuenta de asignación se generarán para cada diario en función del porcentaje y la cuenta contable de destino cuando una entrada contable cumpla con los criterios definidos como la cuenta contable de origen.
+  - Asignar automáticamente saldos contables o importes fijos según las reglas de asignación de libros contables. Las reglas de asignación del libro mayor se procesan periódicamente utilizando diarios de asignación.
+
+
+  ### Módulo 12&#58; Configurar impuesto de ventas
+  Los requisitos para el cálculo y la declaración de impuestos difieren significativamente para diferentes países o regiones. Por lo tanto, el módulo de impuestos de Dynamics 365 for Finance and Operations es extremadamente completo.
+  #### Lecciones
+  - Comprender los componentes del motor de impuestos
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  Los estudiantes ahora han aprendido sobre las capacidades de informes fiscales nacionales y regionales en Finance and Operations.
+  
+  En este módulo, los estudiantes aprendieron cómo configurar los componentes de impuestos, como las autoridades de impuestos de ventas, los períodos de liquidación y los códigos de impuestos de ventas. Además, aprendieron que los códigos de impuestos a las ventas son el componente principal para definir los cálculos de impuestos y conectar todos los demás componentes en el impuesto para que Finance and Operations pueda calcular y contabilizar automáticamente las transacciones para la liquidación en función del intervalo de período asignado por una autoridad.
+
+  ### Módulo 13&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+  Los estudiantes habrán completado el curso.

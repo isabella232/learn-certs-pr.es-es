@@ -1,0 +1,73 @@
+### YamlMime:Course
+title: Diseñar identidad y seguridad
+metadata:
+  title: 'Curso AZ-301T01-A: Diseñar identidad y seguridad'
+  description: 'Curso AZ-301T01-A: Diseñar identidad y seguridad'
+uid: course.az-301t01
+courseNumber: 'AZ-301T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Integrar las soluciones existentes con proveedores de identidad externos mediante Azure AD B2B o B2C.
+- skill: Diseñar una solución de identidad híbrida.
+- skill: Determinar cuándo usar las funciones avanzadas de Azure AD, como Identidad de servicio administrado, MFA y Administración de identidad privilegiada.
+- skill: Proteger los secretos de la aplicación con Key Vault.
+- skill: Proteger los datos de la aplicación con las características de la Base de datos SQL y Azure Storage.
+- skill: Detallar las diversas API disponibles en Cognitive Services.
+- skill: Identificar cuándo usar el servicio Face API, Speech API o Language Understanding (LUIS).
+- skill: Describir la relación con Bot Framework y Azure Bot Services.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Aprenda a administrar la seguridad y la identidad en el contexto de Azure. Además, se le presentarán las múltiples funciones de Software como servicio (SaaS) disponibles en Azure.
+
+  #### Perfil de audiencia
+  Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
+outlineSection: |-
+  ### Módulo 1&#58; Administración de seguridad e identidad para soluciones de Azure
+  Este módulo analiza la seguridad y la identidad dentro del contexto de Azure. Por seguridad, este módulo revisa las diversas opciones para monitorear la seguridad, las opciones disponibles para proteger los datos y las opciones para proteger los secretos de la aplicación. Para la identidad, este módulo se centra específicamente en Azure Active Directory (Azure AD) y las diversas funciones disponibles, como la autenticación multifactor (MFA), Identidad de servicio administrado, Azure AD Connect, ADFS y Azure AD B2B / B2C.
+  
+  #### Laboratorio &#58; Asegurar secretos en Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Integrar las soluciones existentes con proveedores de identidad externos mediante Azure AD B2B o B2C.
+  - Diseñar una solución de identidad híbrida.
+  - Determinar cuándo usar las funciones avanzadas de Azure AD, como Identidad de servicio administrado, MFA y Gestión de identidad privilegiada.
+  - Proteger los secretos de la aplicación con Key Vault
+  - Proteger los datos de la aplicación con las características de la Base de datos SQL y Azure Storage
+
+  ### Módulo 2&#58; Integración de servicios SaaS disponibles en la plataforma Azure
+  Este módulo presenta múltiples servicios SaaS disponibles en Azure que están disponibles para su integración en las soluciones existentes de Azure. Estos servicios incluyen servicios cognitivos, servicio de bot, aprendizaje automático y servicio de medios
+
+  #### Laboratorio &#58; Implementación de instancias de servicio como componentes de soluciones globales de Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Detallar las diversas API disponibles en Cognitive Services.
+  - Identificar cuándo usar el servicio Face API, Speech API o Language Understanding (LUIS).

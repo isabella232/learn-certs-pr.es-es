@@ -1,0 +1,70 @@
+### YamlMime:Course
+title: Implementación de gestión de dependencias
+metadata:
+  title: 'Curso AZ-400T04-A: Implementación de gestión de dependencias'
+  description: 'Curso AZ-400T04-A: Implementación de gestión de dependencias'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recomendar herramientas y prácticas de manejo de artefactos.
+- skill: Resumen de paquetes comunes para permitir compartir y reutilizar
+- skill: Inspeccionar el código base para identificar las dependencias de código que se pueden convertir en paquetes
+- skill: Identificar y recomendar tipos y versiones de paquetes estandarizados en toda la solución
+- skill: Refactorizar las tuberías de compilación existentes para implementar la estrategia de versión de publicación de paquetes
+- skill: Administrar la seguridad y el cumplimiento
+- skill: Inspeccionar los paquetes de software de código abierto para garantizar el cumplimiento de la seguridad y la licencia para alinearse con los estándares corporativos
+- skill: Configurar la canalización de compilación para acceder a la seguridad del paquete y la calificación de la licencia
+- skill: Configurar el acceso seguro a las fuentes de paquetes
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona los conocimientos y habilidades para implementar la gestión de dependencias. Los estudiantes aprenderán cómo diseñar una estrategia de gestión de dependencias y gestionar la seguridad y el cumplimiento.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en implementar la administración de dependencias o en aprobar el examen de certificación de Microsoft Azure DevOps Solutions.
+prerequisitesSection: |-
+  Conocimientos fundamentales sobre Azure, control de versiones, desarrollo de software ágil y principios básicos de desarrollo de software. Sería útil tener experiencia en una organización que ofrece software.
+outlineSection: |-
+  ### Módulo 1&#58; Diseño de una estrategia de gestión de dependencias
+  #### Lecciones
+  - Introducción
+  - Dependencias de embalaje
+  - Gestión de paquetes
+  - Implementar una estrategia de versiones
+  
+  #### Laboratorio &#58; Actualización de paquetes
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Recomendar herramientas y prácticas de gestión de artefactos.
+  - Paquetes comunes abstractos para permitir compartir y reutilizar
+  - Inspeccionar la base de código para identificar las dependencias de código que se pueden convertir en paquetes
+  - Identificar y recomiende tipos y versiones de paquetes estandarizados en toda la solución
+  - Refactorizar los canales de compilación existentes para implementar una estrategia de versión que publique paquetes
+  - Administrar la seguridad y el cumplimiento
+
+
+  ### Módulo 2&#58; Administrar la seguridad y el cumplimiento
+  #### Lecciones
+  - Introducción
+  - Seguridad del paquete
+  - Software de código abierto
+  - Integración de escaneos de licencia y vulnerabilidad
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Inspeccionar los paquetes de software de código abierto para garantizar la seguridad y el cumplimiento de la licencia para alinearse con los estándares corporativos
+  - Configurar la canalización de compilación para acceder a la seguridad del paquete y la calificación de la licencia
+  - Configurar el acceso seguro a los feeds de paquetes

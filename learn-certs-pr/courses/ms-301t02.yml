@@ -1,0 +1,117 @@
+### YamlMime:Course
+title: Implementación de aplicaciones de servicio de SharePoint 2019
+metadata:
+  title: 'Curso MS-301T02-A: Implementación de aplicaciones de servicio de SharePoint 2019'
+  description: 'Curso MS-301T02-A: Implementación de aplicaciones de servicio de SharePoint 2019'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Provisión de una instancia de aplicación de servicio BDC.
+- skill: Configurar la aplicación del Servicio de almacenamiento seguro.
+- skill: Describir cómo configurar Mis sitios en SharePoint 2019.
+- skill: Describir cómo configurar la aplicación de servicio de perfil de usuario.
+- skill: Describir cómo planear la importación y sincronización de SharePoint Active Directory.
+- skill: Explicar cómo crear y publicar un tipo de contenido en colecciones de sitios.
+- skill: Identificar las capacidades del servicio de metadatos administrados.
+- skill: Configurar conjuntos de términos y términos para la navegación administrada.
+- skill: Describir la función de los componentes de búsqueda.
+- skill: Explicar cómo planificar y configurar una topología de búsqueda.
+- skill: Describir cómo configurar el centro de búsqueda.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 está diseñado para satisfacer las demandas de los estilos de trabajo modernos. Proporciona las nuevas experiencias modernas para los usuarios, que son intuitivas y familiares en SharePoint Online. En este curso aprenderá a planificar, configurar y administrar aplicaciones de servicio en SharePoint 2019, como metadatos administrados, servicios de conectividad empresarial y búsqueda empresarial.
+  
+  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización.
+  
+  Este es el segundo de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301; Implementación de SharePoint Server Hybrid.
+
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
+  
+  El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
+  
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios: Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  - Experiencia con Windows PowerShell.
+  - Comprensión básica de la administración de SQL Server.
+  - Conocimientos básicos de redes, incluido DNS.
+  - Conocimiento práctico de la administración del servidor de Windows.
+  - Conocimientos básicos de Active Directory y Azure AD.
+  - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS).
+outlineSection: |-
+  ### Módulo 1&#58; Aplicaciones de servicio de SharePoint
+  Este módulo tiene que ver con las aplicaciones de servicio de SharePoint y el flujo de trabajo. Describe cómo aprovisionar y administrar una aplicación de servicio BCS y una aplicación de servicio de perfil de usuario. Específicamente, discutimos cómo importar y exportar modelos BDC, así como también cómo importar propiedades de usuario a SharePoint.
+  #### Lecciones
+  - Aplicaciones de servicio de SharePoint y flujo de trabajo
+  - Planificar y configurar los Servicios de conectividad empresarial (BCS) y el Almacén seguro
+  - Planificar y configurar perfiles de usuario
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar los componentes clave de un modelo BDC.
+  - Describir la arquitectura de alto nivel de BCS.
+  - Provisión de una instancia de aplicación de servicio BDC.
+  - Configurar la aplicación del Servicio de almacenamiento seguro.
+  - Explicar el propósito del Servicio de almacenamiento seguro.
+  - Administrar permisos para una instancia de aplicación de servicio BDC.
+  - Describir cómo configurar las propiedades del perfil de usuario.
+  - Describa cómo administrar audiencias en SharePoint 2019.
+  - Describir cómo configurar Mis sitios en SharePoint 2019.
+  - Describir cómo configurar la aplicación de servicio de perfil de usuario.
+  - Describir cómo planear la importación y sincronización de SharePoint Active Directory.
+
+  ### Módulo 2&#58; Planificar y configurar metadatos gestionados
+  Este módulo trata sobre las funcionalidades integrales, como el Servicio de metadatos administrados, los tipos de contenido y los conjuntos de términos, que le permiten crear y difundir una arquitectura de información. Introduce el propósito de los tipos de contenido, así como los conceptos detrás del servicio de metadatos administrados, incluidas las taxonomías, los conjuntos de términos y las palabras clave empresariales.
+
+  #### Lecciones
+  - Administrar tipos de contenido
+  - Metadatos gestionados
+  - Configurar el servicio de metadatos administrados
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar la función y el uso de los tipos de contenido.
+  - Describa las funciones del Servicio de metadatos administrados.
+  - Explicar cómo crear y publicar un tipo de contenido en colecciones de sitios.
+  - Identificar las capacidades del servicio de metadatos administrados.
+  - Crear y administrar grupos de términos, conjuntos de términos y términos
+  - Configurar conjuntos de términos y términos para la navegación administrada.
+
+
+  ### Módulo 3&#58; Planificar y configurar búsqueda
+  Este módulo trata sobre la aplicación de servicio de búsqueda empresarial. Proporciona detalles sobre la planificación y configuración de fuentes de contenido, cronogramas de rastreo y reglas de rastreo. También se analiza cómo proporcionar administración de búsqueda de una gama de componentes de búsqueda, como Reglas de consulta, Tipos de resultados y Plantillas de visualización.
+  #### Lecciones
+  - Planificar búsqueda empresarial
+  - Configurar búsqueda empresarial
+  - Gestionar búsqueda empresarial
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la función de los componentes de búsqueda.
+  - Explicar cómo planificar y configurar una topología de búsqueda.
+  - Describir cómo planificar y configurar las fuentes de contenido.
+  - Describir cómo planificar y configurar programación de rastreo.
+  - Describir cómo planificar y configurar las reglas de rastreo.
+  - Describir cómo administrar el esquema de búsqueda.
+  - Describir cómo configurar el centro de búsqueda.
+  - Explicar el uso y la implementación de las reglas de consulta.
+  - Explicar el uso y la implementación de la fuente de resultados.
+
+
+  ### Módulo 4&#58; Conclusión del curso
+
+  #### Laboratorio &#58; Configurar la búsqueda empresarial

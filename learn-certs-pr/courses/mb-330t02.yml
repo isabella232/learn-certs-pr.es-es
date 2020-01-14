@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: Usar la gestión de calidad, el comercio entre empresas y la planificación maestra en Dynamics 365 para Finanzas y Operaciones
+metadata:
+  title: 'Curso MB-330T02-A: Usar la gestión de calidad, el comercio entre empresas y la planificación maestra en Dynamics 365 para Finanzas y Operaciones'
+  description: 'Curso MB-330T02-A: Usar la gestión de calidad, el comercio entre empresas y la planificación maestra en Dynamics 365 para Finanzas y Operaciones'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para automatizar y agilizar su cadena de suministro modernizando la logística comercial, brindando una respuesta oportuna al cliente, avanzando con conocimientos predictivos, agilizando las compras y unificando los procesos desde las ventas hasta el cumplimiento. Este curso trata sobre cómo usar la gestión de calidad, el comercio entre empresas y la planificación maestra en Dynamics 365 for Finance and Operations.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar y utilizar procesos de control y gestión de calidad
+  En este módulo, describimos cómo configurar y usar el control de calidad en Finance and Operations, cómo usar la funcionalidad de control de calidad, cómo definir y mantener las no conformidades y cómo manejar las correcciones. Pero primero familiarícese con los procesos generales de gestión de calidad.
+  #### Lecciones
+  - Introducción
+  - Realizar procesos de gestión y control de calidad
+  - Aplicar bloqueo de inventario
+  - Realizar la gestión de cuarentena
+  - Laboratorios de práctica
+  - Resumen del módulo
+  
+  En este módulo los estudiantes aprendieron a&#58;
+  - Realizar procesos de control y gestión de calidad
+  - Aplicar bloqueo de inventario
+  - Realizar la gestión de cuarentena
+
+
+  ### Módulo 2&#58; Configurar y usar relaciones comerciales entre empresas
+  La funcionalidad intercompañía en Dynamics 365 for Finance and Operations proporciona un mecanismo para la consolidación de datos estáticos y dinámicos de múltiples compañías como entidades legales separadas en una sola base de datos. Intercompany Trade permite que sitios de fabricación, centros de distribución y filiales de ventas dispersos a nivel mundial actúen como una organización unificada. Este tema explica cómo configurar y utilizar las relaciones comerciales entre empresas y procesar los pedidos entre empresas en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Comprender el comercio entre empresas
+  - Configurar relaciones comerciales entre empresas
+  - Procesar pedidos de cadenas entre empresas
+  - Configurar acuerdos entre empresas y entregas directas
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Configurar productos para las relaciones comerciales entre empresas
+  - Configurar relaciones comerciales entre empresas
+  - Configurar acuerdos entre empresas
+  - Procesar pedidos entre empresas
+  - Procesar entregas directas entre empresas
+  - Procesar cargos entre empresas
+  - Comprender la cadena de pedidos de devolución entre empresas
+
+
+  ### Módulo 3&#58; Configurar y usar planificación maestra
+  Este tema explica cómo configurar y usar la planificación maestra en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Consideraciones de planificación maestra y configuración
+  - Crear planes maestros
+  - Conocer las previsiones de oferta y demanda.
+  - Configurar la cobertura del artículo
+  - Breve introducción a la planificación entre empresas
+  - Ejecutar planes y firmar pedidos planificados
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Definir políticas de planificación maestra
+  - Conocer las previsiones de oferta y demanda.
+  - Configurar retrasos calculados
+  - Configurar la cobertura del artículo
+  - Comprender una breve introducción a la planificación maestra intercompañía
+  - Ejecutar planes y firmar pedidos planificados
+
+
+  ### Módulo 4&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+
+  Los estudiantes habrán completado el curso.

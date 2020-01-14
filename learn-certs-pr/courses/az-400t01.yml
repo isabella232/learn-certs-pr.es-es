@@ -1,0 +1,108 @@
+### YamlMime:Course
+title: Implementar procesos de desarrollo DevOps
+metadata:
+  title: 'Curso AZ-400T01-A: Implementar procesos de desarrollo DevOps'
+  description: 'Curso AZ-400T01-A: Implementar procesos de desarrollo DevOps'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir los beneficios de usar el control de fuente
+- skill: Migrar de TFVC a Git
+- skill: Scale Git para Enterprise DevOps
+- skill: Implementar y gestionar infraestructura de versión
+- skill: Administrar la configuración y los secretos de la aplicación.
+- skill: Implementar una estrategia de DevOps móvil
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona los conocimientos y habilidades para implementar procesos DevOps. Los estudiantes aprenderán cómo usar el control de fuente, escalar Git para una empresa e implementar y administrar la infraestructura de compilación.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en implementar procesos DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Conocimientos fundamentales sobre Azure, control de versiones, desarrollo de software ágil y principios básicos de desarrollo de software. Sería útil tener experiencia en una organización que ofrece software.
+outlineSection: |-
+  ### Módulo 1&#58; Comenzando con Control de Fuente
+  #### Lecciones
+  - ¿Qué es el control de fuente?
+  - Beneficios del control de fuente
+  - Tipos de sistemas de control de fuente
+  - Introducción a Azure Repos
+  - Migración de Team Foundation Version Control (TFVC) a Git
+  - Autenticación de tu Git Repos
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describa los beneficios de usar control de fuentes
+  - Migrar de TFVC a G
+
+  ### Módulo 2&#58; Git de escala para DevOps empresarial
+  #### Lecciones
+  - Cómo estructurar tu repositorio Git
+  - Flujos de trabajo de ramificación Git
+  - Colaboración con solicitudes de extracción
+  - ¿Por qué preocuparse por GitHooks?
+  - Fomento del código abierto interno
+  - Versión Git
+  - Proyectos públicos
+  - Archivos en Git
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Scale Git para Enterprise DevOps
+
+
+  ### Módulo 3&#58; Implementar y administrar infraestructura de construcción
+  #### Lecciones
+  - El concepto de tuberías en DevOps
+  - Tuberías Azure
+  - Evaluar el uso de agentes alojados vs privados
+  - Piscinas de agentes
+  - Tuberías y concurrencia
+  - Azure DevOps y proyectos de código abierto
+  - Azure Pipelines YAML vs Visual Designer
+  - Configurar agentes privados
+  - Integrar Jenkins con Azure Pipelines
+  - Integración de control de fuente externa con Azure Pipelines
+  - Analizar e integrar las compilaciones de varias etapas de Docker
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar y gestionar infraestructura de versión
+
+
+  ### Módulo 4&#58; Administrar la configuración y los secretos de la aplicación
+  #### Lecciones
+  - Introducción a la seguridad
+  - Implementación de un proceso de desarrollo seguro y conforme
+  - Repensar los datos de configuración de la aplicación
+  - Administración de secretos, tokens y certificados.
+  - Implementación de herramientas para administrar la seguridad y el cumplimiento en una tubería
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar la configuración y los secretos de la aplicación
+
+
+  ### Módulo 5&#58; Implementar una estrategia móvil de DevOps
+  #### Lecciones
+  - Introducción a Mobile DevOps
+  - Introducción al Centro de aplicaciones de Visual Studio
+  - Administración de conjuntos de dispositivos de destino móviles y grupos de distribución
+  - Administración de conjuntos de dispositivos de prueba de IU objetivo
+  - Probadores de dispositivos de provisión para implementación
+  - Creación de grupos de distribución públicos y privados.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar una estrategia de DevOps móvil

@@ -1,0 +1,63 @@
+### YamlMime:Course
+title: Dynamics 365 fundamentals
+metadata:
+  title: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar las funcionalidades y módulos clave de Dynamics 365
+- skill: Describir conceptos de nube
+- skill: Describir el modelo de seguridad de Dynamics 365
+- skill: Explicar las consideraciones de licencia e implementación
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365 es una herramienta multifacética para la participación del cliente, operaciones unificadas, marketing, venta minorista y gestión del talento. Este curso familiarizará al alumno con la funcionalidad de Dynamics 365 y el valor comercial. El curso cubrirá aplicaciones de Dynamics 365, Power Platform, conceptos de nube, el modelo de seguridad y consideraciones de licencia.
+prerequisitesSection: |-
+  Una comprensión básica de los principios de TI y un interés en Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a las aplicaciones comerciales
+  En este módulo, se introducirán todos los módulos y funcionalidades de la aplicación comercial, centrándose en la participación del cliente, las operaciones unificadas, la plataforma de energía y sus correspondientes aplicaciones comerciales.
+  #### Lecciones
+  - Descripción general de las aplicaciones
+  - Aplicaciones para la participación del cliente
+  - Aplicaciones para operaciones unificadas
+  - Power Platform
+  - Conceptos básicos de la aplicación
+
+  ### Módulo 2&#58; Conceptos de nube
+  En este módulo, trataremos conceptos de nube de alto nivel e introducimos la oferta de nube de Microsoft, Azure, examinando su relación con Dynamics 365.
+  #### Lecciones
+  - Descripción general de la arquitectura de la nube
+  - Diferentes tipos de servicios en la nube disponibles
+  - Comparar las ofertas en la nube con las ofertas locales correspondientes
+
+
+  ### Módulo 3&#58; Administrar implementaciones y lanzamientos
+  En este módulo, cubrimos consideraciones importantes de implementación, incluidos tipos de implementaciones, cadencias de lanzamiento y diseño de modelos de seguridad.
+  #### Lecciones
+  - Tipos de implementaciones
+  - Tipos de lanzamiento
+  - Conceptos y roles de seguridad
+  - Roles y equipos
+  - RGPD
+
+
+  ### Módulo 4&#58; Licencias, incorporación y soporte
+  Este módulo permite al alumno comenzar a utilizar Dynamics 365 explorando las opciones de licencia y encontrando soporte de implementación.
+  #### Lecciones
+  - Encontrar y trabajar con un compañero
+  - Opciones de licencia
+  - Preparación

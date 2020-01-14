@@ -1,0 +1,89 @@
+### YamlMime:Course
+title: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations
+metadata:
+  title: 'Curso MB-320T03-A: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations'
+  description: 'Curso MB-320T03-A: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente.
+  Este curso trata sobre cómo configurar y usar la fabricación de procesos en Dynamics 365 for Finance and Operations.
+
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Comenzar con la fabricación de procesos
+  Este tema explica cómo comenzar con la fabricación de procesos en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Comprender la fabricación de procesos
+  - Comprender la gestión de fórmulas
+  - Comprender los coproductos y subproductos
+  - Configurar proveedores aprobados
+  - Laboratorios de práctica
+  - Resumen del módulo
+  
+  En este módulo los alumnos aprendieron&#58;
+  - Comprender la fabricación de procesos
+  - Comprender la gestión de fórmulas
+  - Comprender los coproductos y subproductos
+  - Comprender a los proveedores aprobados
+
+
+  ### Módulo 2&#58; Identificar y configurar atributos de lote para la fabricación de procesos
+  Este tema explica cómo configurar los atributos de lote en Finance and Operations.
+
+  #### Lecciones
+  - Introducción
+  - Identificar y configurar atributos de lote
+  - Crear y configurar artículos de peso capturado
+  - Configurar la gestión de potencia
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los estudiantes aprendieron a&#58;
+  - Comprender los atributos de lote
+  - Identificar y configurar atributos de lote
+  - Comprender los procesos de control de lotes
+  - Configurar retrabajo por lotes
+
+
+  ### Módulo 3&#58; Configurar precios de productos básicos y cumplimiento de productos
+  Este tema explica cómo trabajar con la fijación de precios de productos básicos y el cumplimiento en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Configurar precios de productos básicos
+  - Configurar el cumplimiento del producto
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los estudiantes aprendieron a&#58;
+  - Configurar precios de productos básicos
+  - Configurar el cumplimiento del producto
+
+
+  ### Módulo 4&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+
+  Los estudiantes habrán completado el curso.

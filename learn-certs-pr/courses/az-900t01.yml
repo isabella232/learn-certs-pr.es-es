@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals (1 día)
+metadata:
+  title: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals (1 día)'
+  description: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals (1 día)'
+uid: course.az-900t01
+courseNumber: 'AZ-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprender conceptos generales de computación en la nube
+- skill: Comprender los servicios principales disponibles con Microsoft Azure
+- skill: Comprender la seguridad, la privacidad, el cumplimiento y la confianza con Microsoft Azure
+- skill: Comprender los precios y los modelos de soporte disponibles con Microsoft
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  Este curso proporcionará conocimiento de nivel básico de los servicios en la nube y cómo esos servicios se proporcionan con Microsoft Azure. El curso se puede tomar como un primer paso opcional para aprender sobre los servicios en la nube y Microsoft Azure, antes de continuar con los cursos de Microsoft Cloud o Microsoft Cloud Services.
+  
+  El curso cubrirá conceptos generales de computación en la nube, así como modelos y servicios generales de computación en la nube, como la nube pública, privada e híbrida, e Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y
+  También cubrirá algunos servicios y soluciones centrales de Azure, así como servicios clave de Azure en relación con la seguridad, la privacidad, el cumplimiento y la confianza. Finalmente cubrirá los precios y los servicios de soporte disponibles con Azure.
+
+  #### Perfil de audiencia
+  No hay requisitos previos para tomar este curso. Está dirigido a cualquier persona que quiera aprender más sobre Microsoft Azure.
+prerequisitesSection: |-
+  No hay requisitos previos para tomar este curso. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
+outlineSection: |-
+  ### Módulo 1&#58; Conceptos de nube
+  En este módulo aprenderá conceptos básicos de la nube.
+  #### Lecciones
+  - Objetivos de aprendizaje
+  - ¿Por qué los servicios en la nube?
+  - Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y Software
+  - Modelos de nube pública, privada e híbrida
+
+  Después de completar este módulo, los estudiantes#58&#58;
+  - Comprender conceptos generales de computación en la nube
+
+
+  ### Módulo 2&#58; Servicios principales de Azure
+  En este módulo aprenderá los servicios básicos disponibles con Microsoft Azure.
+  #### Lecciones
+  - Componentes arquitectónicos principales de Azure
+  - Servicios y productos principales de Azure
+  - Soluciones Azure
+  - Herramientas de administración de Azure
+
+  Después de completar este módulo, los estudiantes#58&#58;
+  - Comprender los servicios principales disponibles con
+  Microsoft Azure
+
+  ### Módulo 3&#58; Seguridad, privacidad, cumplimiento y confianza
+  En este módulo, aprenderá sobre seguridad, privacidad, cumplimiento y confianza con Microsoft Azure.
+  #### Lecciones
+  - Asegurar la conectividad de red en Azure
+  - Servicios principales de Azure Identity
+  - Herramientas y características de seguridad
+  - Metodologías de gobierno de Azure
+  - Monitoreo e informes en Azure
+  - Privacidad, cumplimiento y protección de datos
+
+  Después de completar este módulo, los estudiantes#58&#58;
+  - Entender la seguridad, la privacidad, el cumplimiento y la confianza con Microsoft Azure
+
+  ### Módulo 4&#58; Precios y soporte de Azure
+  En este módulo, se centrará en los modelos de precios y soporte disponibles con Microsoft.
+  #### Lecciones
+  - Suscripciones de Azure
+  - Planificación y gestión de costes.
+  - Opciones de soporte disponibles con Azure
+  - Ciclo de vida del servicio en Azure
+
+  Después de completar este módulo, los estudiantes#58&#58;
+  - Comprender los modelos de precios y soporte disponibles con Microsoft

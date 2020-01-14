@@ -1,0 +1,165 @@
+### YamlMime:Course
+title: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-320T01-A: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations'
+  description: 'Curso MB-320T01-A: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations'
+uid: course.mb-320t01
+courseNumber: 'MB-320T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente. Este curso trata sobre cómo configurar y usar la fabricación discreta en Dynamics 365 for Finance and Operations.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Comenzar con el control de producción
+  Este módulo explica los conceptos utilizados en el módulo de control de Producción en Finanzas y Operaciones.
+  #### Lecciones
+  - Introducción
+  - Comparar fabricación discreta, esbelta y de procesos
+  - Configurar el control de producción para la fabricación unificada
+  - Comprender la planificación de la capacidad
+  - Libro mayor y módulo de control de producción
+  - Laboratorios de práctica
+  - Resumen
+
+  En este módulo los estudiantes aprendieron sobre&#58;
+  - Metodologías discretas, ajustadas y de fabricación de procesos
+  - Fabricación unificada
+  - Cómo configurar el control de producción para la fabricación unificada
+  - Planificación de capacidad
+  - Interconectividad entre el libro mayor y los módulos de control de producción
+  - Grupo de producción
+  - Cómo trabajar con claves de asignación
+
+
+  ### Módulo 2&#58; Comenzar con la fabricación discreta
+  Aunque los procesos de fabricación de cada entidad jurídica son únicos, dependiendo de la naturaleza del entorno de producción, los elementos conceptuales centrales que se utilizan en el módulo de control de producción son con frecuencia muy similares.
+  #### Lecciones
+  - Introducción
+  - Comprender los estados discretos del proceso de producción.
+  - Comprender la lista de materiales (BOM, por sus siglas en inglés)
+  - Trabajar con BOM y configuraciones de elementos
+  - Crear BOM
+  - Órdenes de producción
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los estudiantes aprendieron sobre&#58;
+  - Conceptos de fabricación discretos
+  - Proceso de producción de estatuas
+  - Etapas de producción
+  - Lista de materiales
+  - Recursos
+  - Rutas y operaciones
+
+
+  ### Módulo 3&#58; Configurar fabricación discreta
+  Antes de poder trabajar en el módulo de control de Producción y crear órdenes de producción, se deben configurar los parámetros de producción. Los parámetros seleccionados tienen un impacto directo en la orden de producción y el ciclo de vida de producción. Los parámetros se pueden establecer por compañía o por sitio, lo que determina si Dynamics 365 for Finance and Operations usa los parámetros a nivel de compañía o los parámetros específicos del sitio. Los parámetros, las órdenes de producción y el ciclo de vida revisan cómo se definen estos parámetros, cómo se usan los nombres de los diarios, cómo se crean las órdenes de producción y las formas en que se procesan a través de la fabricación en función de su estado y el ciclo de vida de la producción. Esta lección explica cómo configurar la fabricación discreta en Finance and Operations.
+
+  #### Lecciones
+  - Introducción
+  - Preparar el libro mayor para la producción.
+  - Configurar parámetros de control de producción
+  - Configurar calendario y recursos
+  - Configurar operaciones y rutas
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Configurar dimensiones de inventario en producción
+  - Configurar parámetros, órdenes de producción y estado
+  - Configurar calendarios y recursos
+  - Configurar operaciones y rutas.
+
+
+  ### Módulo 4&#58; Crear y completar pedidos de producción
+  El ciclo de vida de una orden de producción refleja los pasos reales que se toman para fabricar un producto. Comienza con la creación de una orden de producción y termina con un producto terminado y fabricado que está listo para el cliente. A la orden de producción se le asigna un estado que refleja dónde se encuentra en el ciclo de vida de la producción. Este módulo revisa las etapas Release, Start, Report como finalizadas y End en el ciclo de vida de producción en el orden en que se llevan a cabo. La publicación, el inicio y el informe como finalizados se consideran parte del control de producción
+  #### Lecciones
+  - Introducción
+  - Planificación, programación y subcontratación de capacidad.
+  - Chatarra y desperdicio
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los alumnos aprendieron&#58;
+  - Comprender la planificación de la capacidad
+  - Crear pedidos de producción discretos
+  - Programar un pedido de producción
+  - Procesar órdenes de producción
+  - Control y producción final
+
+
+  ### Módulo 5&#58; Trabajar con hojas de costes
+  Este módulo describe cómo configurar una hoja de cálculo de costos que incluye material y fabricación, así como cómo la configuración afecta los resultados del cálculo de la lista de materiales. Los estudiantes aprenderán cómo configurar y administrar la hoja de costos en Finance y Operations.
+
+
+  En este módulo, los alumnos aprendieron&#58;
+  - Cómo trabajar con la hoja de costes
+
+
+  ### Módulo 6&#58; Usar ejecución de fabricación
+  La ejecución de fabricación está destinada principalmente a ser utilizada por las empresas de fabricación. Los trabajadores pueden registrar el tiempo y el consumo de artículos en trabajos de producción y actividades de proyectos utilizando el formulario de registro de trabajos. Todos los registros se aprueban y luego se transfieren a los módulos relevantes de Dynamics 365 for Finance and Operations. La aprobación continua y la transferencia de registros dan a los gerentes la capacidad de rastrear fácilmente los costos reales en las órdenes de producción.
+  #### Lecciones
+  - Introducción
+  - Comprender las ejecuciones de fabricación
+  - Identificar roles
+  - Planear consideraciones
+  - Configurar la ejecución de fabricación
+  - Control de producción
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los estudiantes aprendieron a&#58;
+  - Comprender la ejecución de fabricación
+  - Identificar los roles en la ejecución de fabricación.
+  - Procesar órdenes de producción
+  - Comprender los flujos de trabajo del proceso para gestionar una producción.
+
+
+  ### Módulo 7&#58; Comenzar con la configuración del producto
+  La configuración del producto es una herramienta de configuración de productos basada en restricciones que utiliza la tecnología de producto Microsoft Solver Foundation (MSF) diseñada para modelar y resolver restricciones. Se puede usar la configuración del producto para crear y mantener modelos de configuración del producto, y para reutilizar componentes y tipos de atributos. Los atributos, restricciones, subcomponentes, requisitos de usuario, líneas de lista de materiales (BOM) y operaciones de ruta se reutilizan implícitamente al reutilizar un componente. Los componentes también pueden reutilizar definiciones de restricciones de tabla. Este módulo explica cómo comenzar con el configurador de productos en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Comprender el modelo de configuración del producto
+  - Construir un modelo de configuración del producto
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo los estudiantes aprendieron sobre&#58;
+  - La terminología que es importante para comprender los conceptos y procesos asociados con la configuración del producto.
+  - Configuración del producto escenario de extremo a extremo
+  - Las diferentes áreas que abarcan el proceso de configuración del producto
+  - El modelo de configuración del producto
+  - Cómo construir un modelo de configuración de producto
+
+
+  ### Módulo 8&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+
+  Los estudiantes habrán completado el curso.

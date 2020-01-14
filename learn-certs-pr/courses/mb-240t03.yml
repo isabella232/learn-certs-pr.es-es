@@ -1,0 +1,68 @@
+### YamlMime:Course
+title: Programación universal de recursos para Dynamics 365 for Field Service
+metadata:
+  title: 'Curso MB-240T03-A: Programación universal de recursos para Dynamics 365 for Field Service'
+  description: 'Curso MB-240T03-A: Programación universal de recursos para Dynamics 365 for Field Service'
+uid: course.mb-240t03
+courseNumber: 'MB-240T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar los componentes principales utilizados para programar elementos.
+- skill: Configurar la aplicación para aprovechar mejor las funciones de programación.
+- skill: Aprovechar las funciones de programación para ubicar y programar recursos para el trabajo.
+- skill: Adaptar la aplicación para representar mejor las necesidades de la organización.
+- skill: Desarrollar soluciones que se puedan usar para programar recursos únicos o múltiples.
+- skill: Identificar las opciones de extensión disponibles como parte de Universal Resource Scheduling.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Cualquier organización que requiera recursos para ejecutar servicios necesita poder identificar y programar eficientemente en función de los requisitos definidos por las necesidades de la organización. La solución Universal Resource Scheduling de Dynamics 365 permite a las organizaciones administrar y programar estos recursos de manera más efectiva al proporcionar un conjunto de herramientas configurable.
+
+  Este curso equipará a los estudiantes con las habilidades necesarias para configurar y consumir las herramientas disponibles para administrar de manera más eficiente los recursos de la organización. Los temas clave incluyen la identificación de dónde comenzar, así como las consideraciones organizativas que impulsarán las decisiones de programación de recursos. Un enfoque principal estará en cómo aprovechar mejor las herramientas disponibles para ubicar y programar recursos, como usar el tablero de programación y el asistente de programación. Además, examinaremos escenarios de personalización, como habilitar elementos para la programación, definir opciones de tablero de programación, trabajar con múltiples tableros de programación y ampliar la funcionalidad central de programación.     
+
+  Este curso ayuda a los estudiantes a comprender mejor lo que es importante para las organizaciones al programar recursos y se enfoca en consideraciones de implementación que ayudan a diseñar soluciones más eficientes que se alineen con los objetivos del cliente y de la organización. 
+
+prerequisitesSection: |-
+  Comprensión básica de las características, la funcionalidad y la navegación de Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Universal Resource Scheduling
+  #### Lecciones
+  - Descripción general y configuración de Universal Resource Scheduling (URS)
+  - Entidades habilitadoras para URS
+  - Personalización de entidades y consideraciones de automatización
+
+
+  ### Módulo 2&#58; Administrar opciones de programación
+  #### Lecciones
+  - Uso del tablero de programación
+  - Programación de artículos
+  - Reprogramación y sustitución de recursos
+  - Programación del equipo y del grupo de recursos
+
+
+  ### Módulo 3&#58; Personalizar el tablero de programación
+  #### Lecciones
+  - Configurar el tablero de programación
+  - Crear tableros de programación adicionales
+  - Aprovechar las vistas de Dynamics 365 con el tablero de programación
+  - Configurar consultas y filtros del tablero de programación
+  - Trabajar con grupos de requisitos
+
+
+  ### Módulo 4&#58; Optimización de programación de recursos
+  #### Lecciones
+  - Descripción general de la optimización de la programación de recursos
+  - Definición de objetivos de optimización
+  - Definición de ámbitos de optimización
+  - Definición de perfiles de optimización

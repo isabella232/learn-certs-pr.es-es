@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Implementación de Microsoft 365 Threat Protection
+metadata:
+  title: 'Curso MS-500T02-A: Implementación de Microsoft 365 Threat Protection'
+  description: 'Curso MS-500T02-A: Implementación de Microsoft 365 Threat Protection'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir los vectores de amenazas de ciberataques.
+- skill: Describir las soluciones de seguridad para Microsoft 365.
+- skill: Usar Microsoft Secure Score para evaluar su postura de seguridad.
+- skill: Usar el Panel de seguridad en el Centro de seguridad y cumplimiento de Microsoft.
+- skill: Configurar varios servicios avanzados de protección contra amenazas para Microsoft 365.
+- skill: Configurar Advanced Threat Analytics.
+- skill: Planificar e implementar la administración de dispositivos móviles.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  La protección contra amenazas ayuda a detener ataques dañinos con seguridad integrada y automatizada. En este curso aprenderá sobre las tecnologías de protección contra amenazas que ayudan a proteger su entorno de Microsoft 365. Específicamente, aprenderá acerca de los vectores de amenazas y las soluciones de seguridad de Microsoft para ellos. Aprenderá sobre Secure Score, la protección de Exchange Online, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection y cómo usar Microsoft 365 Threat Intelligence. También analiza la seguridad de dispositivos móviles y aplicaciones. El objetivo de este curso es ayudarlo a configurar su implementación de Microsoft 365 para lograr la postura de seguridad deseada.
+  
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
+  
+  Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos.
+  
+  El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
+  - Comprensión conceptual básica de Microsoft Azure.
+  - Experiencia con dispositivos Windows 10.
+  - Experiencia con Office 365.
+  - Conocimientos básicos de autorización y autenticación.
+  - Conocimientos básicos de redes informáticas.
+  - Conocimiento práctico de la gestión de dispositivos móviles.
+outlineSection: |-
+  ### Módulo 1&#58; Seguridad en Microsoft 365
+  Este módulo comienza explicando las diversas amenazas de ciberataque que existen.  Luego te presenta las soluciones de Microsoft para frustrar esas amenazas.  El módulo finaliza con una explicación de Microsoft Secure Score y cómo se puede usar para evaluar e informar la postura de seguridad de su organización.
+  #### Lecciones
+  - Vectores de amenazas y violaciones de datos
+  - Soluciones de seguridad para Microsoft 365
+  - Microsoft Secure Score
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir varias técnicas que los hackers usan para comprometer las cuentas de los usuarios a través del correo electrónico.
+  - Describir las técnicas que usan los hackers para obtener control sobre los recursos.
+  - Enumerar los tipos de amenazas que se pueden evitar mediante el uso de Exchange Online Protection y Office 365 ATP.
+  - Describir cómo Microsoft 365 Threat Intelligence puede ser beneficioso para los oficiales y administradores de seguridad de su organización.
+  - Describir los beneficios de Secure Score y qué tipo de servicios se pueden analizar.
+  - Describir cómo usar la herramienta para identificar brechas entre su estado actual y dónde le gustaría estar con respecto a la seguridad.
+
+  ### Módulo 2&#58; Advanced Threat Protection
+  Este módulo explica las diversas tecnologías y servicios de protección contra amenazas disponibles en Microsoft 365. Específicamente, el módulo cubre la protección de mensajes a través de Exchange Online Protection, Azure Advanced Threat Protection y Windows Defender Advanced Threat Protection.
+  #### Lecciones
+  - Exchange Online Protection
+  - Office 365 Advanced Threat Protection
+  - Administrar archivos adjuntos seguros
+  - Gestión de enlaces seguros
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
+
+
+  #### Laboratorio &#58; Protección avanzada contra amenazas
+  - Configurar su entorno de laboratorio
+  - Editar una política ATP Safe Links y crear una política Safe Attachment
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la canalización antimalware a medida que Exchange Online Protection analiza el correo electrónico.
+  - Describir cómo Safe Attachments se usa para bloquear el malware de día cero en archivos adjuntos de correo electrónico y documentos.
+  - Describir cómo Safe Links protege a los usuarios de URL maliciosas incrustadas en correos electrónicos y documentos que apuntan a sitios web maliciosos.
+  - Configurar Azure Advanced Threat Protection.
+  - Configurar Windows Defender ATP.
+  - Integrar Windows Defender ATP con Azure ATP.
+
+
+  ### Módulo 3&#58; Threat Intelligence
+  Este módulo explica Microsoft Threat Intelligence, que le proporciona las herramientas para evaluar y abordar las amenazas cibernéticas. Aprenderá a usar el Panel de seguridad en el Centro de seguridad y cumplimiento de Microsoft 365. También explica y configura Microsoft Advanced Threat Analytics.
+  #### Lecciones
+  - Microsoft 365 Threat Intelligence
+  - Usar el panel de seguridad
+  - Configurar Advanced Threat Analytics
+
+
+  #### Laboratorio &#58; Análisis avanzado de amenazas
+  - Habilitar e instalar el Centro ATA
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo la inteligencia de amenazas en Microsoft 365 funciona con el Gráfico de seguridad inteligente de Microsoft.
+  - Describir cómo Threat Explorer puede usarse para investigar amenazas y ayudar a proteger a su inquilino.
+  - Describir cómo Security Dashboard brinda a los ejecutivos de nivel C información sobre los principales riesgos, las tendencias globales, la calidad de la protección y la exposición de la organización a las amenazas.
+  - Describir cómo se puede usar el panel de seguridad como punto de partida para permitir a los analistas de seguridad profundizar para obtener más detalles utilizando Threat Explorer.
+  - Describir qué es Advanced Thread Analytics (ATA) y qué requisitos se necesitan para implementarlo.
+  - Configurar Advanced Threat Analytics.
+
+
+  ### Módulo 4&#58; Movilidad
+  Este módulo se trata de asegurar dispositivos móviles y aplicaciones. Los estudiantes aprenderán sobre la administración de dispositivos móviles y cómo funciona con Intune. También aprenderán sobre cómo Intune y Azure AD se pueden usar para proteger las aplicaciones móviles.
+  #### Lecciones
+  - Plan para la gestión de aplicaciones móviles
+  - Plan para la gestión de dispositivos móviles
+  - Implementar la administración de dispositivos móviles
+  - Registrar dispositivos en la administración de dispositivos móviles
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las consideraciones de la aplicación móvil.
+  - Usar Intune para administrar aplicaciones móviles.
+  - Gestionar dispositivos con MDM.
+  - Comparar MDM para Office 365 e Intune.
+  - Configurar dominios para MDM.
+  - Administrar políticas de seguridad del dispositivo.
+  - Definir la política de inscripción de dispositivos corporativos.
+  - Inscripción de dispositivos a MDM.
+  - Configurar un rol de administrador de inscripción de dispositivos.

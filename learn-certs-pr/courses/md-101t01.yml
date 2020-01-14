@@ -1,0 +1,106 @@
+### YamlMime:Course
+title: Implementación del escritorio moderno
+metadata:
+  title: 'Curso MD-101T01-A: Implementación del escritorio moderno'
+  description: 'Curso MD-101T01-A: Implementación del escritorio moderno'
+uid: course.md-101t01
+courseNumber: 'MD-101T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Desarrollar una estrategia de implementación y actualización del sistema operativo
+- skill: Comprender los diferentes métodos de implementación
+- skill: Comprender para qué escenarios se pueden utilizar soluciones locales y basadas en la nube
+- skill: Implementar y migrar escritorios a Windows 10
+- skill: Planificar y configurar las políticas de Windows Update
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  A medida que los equipos de escritorio han evolucionado, también lo han hecho los métodos para implementarlos y actualizarlos. En este curso, aprenderá cómo planificar e implementar una estrategia de implementación del sistema operativo. Este curso ayudará a los estudiantes a comprender los diversos métodos disponibles, los escenarios para los que son adecuados y cómo implementar Windows utilizando métodos modernos. Este curso también cubrirá la planificación e implementación de una estrategia de actualización para Windows.
+
+  #### Perfil de audiencia
+  Modern Desktop Administrator (MDA) implementa, configura, asegura, administra y monitorea dispositivos y aplicaciones cliente en un entorno empresarial. Las responsabilidades incluyen la gestión de identidad, acceso, políticas, actualizaciones y aplicaciones. La MDA colabora con el administrador de la empresa M365 para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna. El (MDA) debe estar familiarizado con las cargas de trabajo de M365 y debe tener fuertes habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows 10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las tecnologías de administración local.
+prerequisitesSection: |-
+  El Administrador de escritorio moderno (MDA) debe estar familiarizado con las cargas de trabajo de M365 y debe tener sólidas habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows 10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las
+  tecnologías de administración local.
+outlineSection: |-
+  ### Módulo 1&#58; Planificar una estrategia de implementación del sistema operativo
+  Este módulo explica cómo planificar e implementar una estrategia de implementación. Cubre varios métodos y escenarios para implementar Windows. Analiza las tecnologías locales y en la nube, así como las consideraciones para nuevas implementaciones, actualizaciones y migraciones.
+  #### Lecciones
+  - Descripción general de Windows como servicio
+  - Opciones de implementación de Windows 10
+  - Consideraciones para la implementación de Windows 10
+  
+  #### Laboratorio &#58; Laboratorio de práctica - Planificación de la implementación de Windows 10
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir Windows como un servicio.
+  - Describir los diferentes métodos de implementación.
+  - Comprender las diferencias entre las soluciones locales y las basadas en la nube.
+  - Describir los métodos de aprovisionamiento dinámico.
+  - Describir las diferentes herramientas disponibles en el Kit de evaluación e implementación de Windows.
+  - Describir los escenarios y las limitaciones para las actualizaciones y migraciones en el lugar.
+
+
+  ### Módulo 2&#58; Implementar Windows 10
+  Este módulo cubre nuevos métodos modernos para implementar Windows 10, como el piloto automático de Windows y los paquetes de aprovisionamiento. Este módulo también cubre la herramienta utilizada en la planificación de actualizaciones, la compatibilidad de aplicaciones y los métodos de migración.
+  #### Lecciones
+  - Implementar Windows 10 mediante la implementación dinámica
+  Implementar Windows 10 utilizando el piloto automático de Windows
+  - Actualizar dispositivos a Windows 10
+
+
+  #### Laboratorio &#58; Laboratorio de práctica - Implementación de Windows 10
+  - Crear e implementar el paquete de aprovisionamiento
+  - Migración de la configuración del usuario
+  - Implementación de Windows 10 con AutoPilot
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Desarrollar una estrategia de implementación y actualización del sistema operativo
+  - Comprender los diferentes métodos de implementación.
+  - Comprender para qué escenarios se pueden utilizar soluciones locales y basadas en la nube.
+  - Implementar y migrar escritorios a Windows 10.
+  - Planificar y configurar las políticas de Windows Update.
+
+
+  ### Módulo 3&#58; Administrar actualizaciones para Windows 10
+  Este módulo cubre la administración de actualizaciones para Windows. Este módulo presenta las opciones de servicio para Windows 10. Los estudiantes aprenderán los diferentes métodos para implementar actualizaciones y cómo configurar las políticas de actualización de Windows.
+  #### Lecciones
+  - Actualización de Windows 10
+  - Windows Update para empresas
+  - Introducción a Windows Analytics
+
+
+  #### Laboratorio &#58; Laboratorio de práctica - Administrar actualizaciones para Windows 10
+  - Configuración manual de la configuración de la actualización de Windows
+  - Configuración de Windows Update utilizando GPO
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los canales de servicio de Windows 10.
+  - Configurar una política de actualización de Windows utilizando la configuración de la política de grupo.
+  - Configurar una política de actualización de Windows utilizando la configuración de la política de grupo.
+  - Utilizar Windows Analytics para evaluar la disponibilidad de actualización y el cumplimiento de la actualización.
+
+
+  ### Módulo 4&#58; Conclusión del curso
+  #### Lecciones
+  - Examen final
+
+
+  #### Laboratorio &#58; Laboratorio calificado
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear un paquete de aprovisionamiento.
+  - Configurar una implementación de piloto automático.
+  - Describir las herramientas utilizadas para planificar actualizaciones y migraciones.
+  - Describir los métodos utilizados para migrar los datos del usuario.

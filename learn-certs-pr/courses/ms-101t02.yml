@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Gestión de cumplimiento de Microsoft 365
+metadata:
+  title: 'Curso MS-101T02-A: Gestión de cumplimiento de Microsoft 365'
+  description: 'Curso MS-101T02-A: Gestión de cumplimiento de Microsoft 365'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Comprender el gobierno de datos en Microsoft 365, incluyendo: Archivado, retención, gestión de derechos de información, extensión segura de correo multipropósito de Internet (S/MIME), cifrado de mensajes de Office 365 y prevención de pérdida de dato'
+- skill: Implementar la administración de registros locales en SharePoint
+- skill: Implementar archivado y retención en Exchange
+- skill: Crear políticas de retención en el Centro de seguridad y cumplimiento
+- skill: Planificar sus necesidades de seguridad y cumplimiento
+- skill: Construir muros éticos en Exchange Online
+- skill: Crear una política DLP a partir de una plantilla integrada
+- skill: Crear una política personalizada de DLP
+- skill: Crear una política DLP para proteger documentos
+- skill: Implementar consejos de política
+- skill: Administrar la retención en el correo electrónico
+- skill: Solucionar problemas de gobernanza de datos
+- skill: Implementar protección de información
+- skill: Implementar protección de implementación avanzada
+- skill: Comprender las protecciones de información de Windows
+- skill: Buscar contenido en el Centro de seguridad y cumplimiento
+- skill: Auditoría de investigaciones de registro
+- skill: Gestionar eDiscovery avanzado
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Obtenga información acerca de Microsoft 365 Compliance Management, incluidas las soluciones de retención de datos y prevención de pérdida de datos en Microsoft 365, archivado y retención en Microsoft 365, implementando y administrando el gobierno de datos y administrando búsquedas e investigaciones.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
+prerequisitesSection: |-
+  - Completó un curso de administrador basado en roles, como Mensajería, Trabajo en equipo, Seguridad y cumplimiento, o Colaboración.
+  - Conocimiento competente de DNS y experiencia funcional básica con los servicios de Microsoft 365.
+  - Un conocimiento competente de las prácticas generales de TI.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción al gobierno de datos en Microsoft 365
+  #### Lecciones
+  - Introducción al archivado en Microsoft 365
+  - Introducción a la retención en Microsoft 365
+  - Introducción a la gestión de derechos de información
+  - Introducción a la extensión segura de correo multipropósito de Internet
+  - Introducción al cifrado de mensajes de Office 365
+  - Introducción a la prevención de pérdida de datos
+  
+  
+  ### Módulo 2&#58; Archivado y retención en Microsoft 365
+  #### Lecciones
+  - Gestión de registros locales en SharePoint
+  - Archivo y retención en Exchange
+  - Políticas de retención en el SCC
+  - Implementar sus servicios de dominio
+
+
+  ### Módulo 3&#58; Implementación de gobierno de datos en Microsoft 365 Intelligence
+  #### Lecciones
+  - Planificación de sus necesidades de seguridad y cumplimiento
+  - Construir muros éticos en Exchange Online
+  - Crear una política DLP simple a partir de una plantilla integrada
+  - Crear una política personalizada de DLP
+  - Crear una política DLP para proteger documentos
+  - Trabajar con consejos de política
+
+
+  ### Módulo 4&#58; Gestión de gobierno de datos en Microsoft 365
+  #### Lecciones
+  - Administrar la retención en el correo electrónico
+  - Solucionar problemas de gobernanza de datos
+  - Implementar protección de información
+  - Implementación de protección de información avanzada
+  - Introducción a la protección de información de Windows
+
+
+  ### Módulo 5&#58; Gestión de búsquedas e investigaciones
+  #### Lecciones
+  - Buscar contenido en el Centro de seguridad y cumplimiento
+  - Auditoría de investigaciones de registro
+  - Gestionar eDiscovery avanzado
+
+
+  ### Módulo 6&#58; Talleres prácticos
+
+  #### Laboratorio &#58; Configurar su entorno de laboratorio
+  - Ejercicio 1&#58; Inicializar el cumplimiento en su organización
+
+
+  #### Laboratorio &#58; Archivado y retención en Microsoft 365
+  - Ejercicio 1&#58; Configurar etiquetas y políticas de retención
+  - Ejercicio 2&#58; Configurar AIP y WIP
+
+
+  #### Laboratorio &#58; Implementación de gobierno de datos
+  - Ejercicio 1&#58; Prueba de políticas de DLP
+  - Ejercicio 2&#58; Usar Azure Information Protection
+  - Ejercicio 3&#58; Usar Windows Information Protection
+
+
+  #### Laboratorio &#58; Verifique sus políticas de gobierno de datos
+  - Ejercicio 1&#58; Investigar sus datos de Microsoft 365

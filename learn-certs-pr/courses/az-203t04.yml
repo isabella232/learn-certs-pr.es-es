@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Implementar seguridad Azure
+metadata:
+  title: 'Curso AZ-203T04-A: Implementar la seguridad de Azure'
+  description: 'Curso AZ-203T04-A: Implementar la seguridad de Azure'
+uid: course.az-203t04
+courseNumber: 'AZ-203T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  En este curso, los estudiantes obtendrán el conocimiento y las habilidades necesarias para incluir los servicios de autenticación y autorización de Azure en sus soluciones de desarrollo Los estudiantes aprenderán cómo se administra y utiliza la identidad en las soluciones de Azure mediante el uso de la plataforma de identidad de Microsoft. Los estudiantes también aprenderán sobre el control de acceso (autorización basada en reclamos y control de acceso basado en roles) y cómo implementar soluciones de datos seguras. A lo largo del curso, los estudiantes aprenden a crear e integrar estos recursos mediante el uso de la CLI de Azure, REST y el código de la aplicación.
+
+  #### Perfil de audiencia
+  - Los estudiantes en este curso están interesados en el desarrollo de Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
+  - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
+prerequisitesSection: |-
+  - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
+  - Se recomienda que los estudiantes tengan alguna experiencia con PowerShell o la CLI de Azure, trabajando en el portal de Azure y con al menos un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este curso se presentan en C # .NET.
+outlineSection: |-
+  ### Módulo 1&#58; Implementación de autenticación
+  La plataforma de identidad de Microsoft es una evolución del servicio de identidad de Azure Active Directory (Azure AD) y la plataforma de desarrollador. Permite a los desarrolladores crear aplicaciones que inician sesión en todas las identidades de Microsoft, obtener ToolKit para llamar a Microsoft Graph, otras API de Microsoft o API que los desarrolladores han creado.
+  #### Lecciones
+  - Plataforma de identidad de Microsoft
+  - Implementación de la autenticación OAuth2
+  - Implementación de identidades administradas para recursos de Azure
+  - Implementación de a autenticación mediante el uso de certificados, autenticación basada en formularios o ToolKit
+  - Implementación de la autenticación multifactor
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender la arquitectura de la plataforma de identidad de Microsoft
+  - Implementar la autenticación OAuth2 en sus soluciones
+  - Utilizar Azure Key Quality para almacenar y recuperar información de autenticación
+
+  ### Módulo 2&#58; Implementación de control de acceso.
+  Este módulo cubre el control de acceso basado en reclamos y roles.
+  #### Lecciones
+  - Autorización basada en reclamos
+  - Autorización de control de acceso basado en roles (RBAC)
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Utilizar la autorización basada en notificaciones en sus soluciones de desarrollo.
+  - Administrar el acceso a los recursos utilizando RBAC a través de la API REST
+
+
+  ### Módulo 3&#58; Implementación de soluciones de datos seguros
+  Este módulo cubre la seguridad de datos en reposo y durante la transmisión.
+  #### Lecciones
+  - Opciones de cifrado
+  - Encriptado de fin a fin
+  - Implementación de computación confidencial de Azure
+  - Administración de claves criptográficas en Azure Key Vault
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender las opciones de cifrado
+  - Cifrar datos con cifrado de datos transparente
+  - Administrar y utilizar claves de cifrado mediante el uso de la clave de Azure Vault

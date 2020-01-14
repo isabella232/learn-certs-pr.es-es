@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Gestión de la seguridad, la higiene y el cumplimiento de la mensajería
+metadata:
+  title: 'Curso MS-201T02-A: Gestión de la seguridad, la higiene y el cumplimiento de la mensajería'
+  description: 'Curso MS-201T02-A: Gestión de la seguridad, la higiene y el cumplimiento de la mensajería'
+uid: course.ms-201t02
+courseNumber: 'MS-201T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan para la higiene de los mensajes
+- skill: Administrar las directivas de correo electrónico no deseado y antimalware
+- skill: Administrar Advanced Threat Protection
+- skill: Plan para el cumplimiento de la mensajería en el SCC
+- skill: Plan para el cumplimiento de la mensajería en Exchange
+- skill: Administrar el archivado y la auditoría de Exchange Online
+- skill: administrar la búsqueda de contenido
+- skill: Administrar permisos basados en roles de administrador
+- skill: Administrar permisos basados en roles de usuario
+- skill: 'Plan para la configuración de Exchange: permisos divididos RBAC y AD'
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  En este curso aprenderá acerca de las diferentes configuraciones de servicios de seguridad y cumplimiento relacionados con la mensajería con Exchange Server y Exchange Online. Comenzará examinando los fundamentos de la higiene de mensajes con Exchange Online Protection y Exchange Advanced Threat Protection, así como la conexión y el filtrado de spam con Exchange. Luego examinará las soluciones de cumplimiento de mensajería, como las políticas de prevención de retención y pérdida de datos, así como las investigaciones de registros de auditoría y los mecanismos de búsqueda de descubrimiento electrónico desde la perspectiva del cumplimiento de mensajería. Aprenderá cómo planificar una implementación adecuada y cómo realizar el proceso básico de implementación para cada solución. Terminará el curso examinando cómo administrar los permisos asignados a los roles de usuario y administrador.
+
+  #### Perfil de audiencia
+  El administrador de mensajería implementa, configura, administra y soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas en entornos empresariales locales y en la nube. Las responsabilidades incluyen la gestión de la higiene de mensajes, la infraestructura de mensajería y la configuración y migración híbridas. El administrador de mensajería también implementa y administra la recuperación ante desastres, la alta disponibilidad y el acceso del cliente. Para implementar una topología híbrida segura que satisfaga las necesidades comerciales de una organización moderna, el administrador de mensajería debe colaborar con el administrador de seguridad y el administrador de Microsoft 365 Enterprise. El administrador de mensajería debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
+prerequisitesSection: |-
+  - Conocimiento competente de DNS.
+  - Conocimientos básicos de mensajería en Exchange Server o Exchange Online.
+  - Conocimientos básicos de Active Directory y la infraestructura del controlador de dominio junto con la gestión de identidad.
+  - Experiencia funcional básica con servicios de Microsoft 365 y sincronización de directorios.
+  - Al menos 5 años de experiencia general en TI.
+outlineSection: |-
+  ### Módulo 1&#58; Gestionar la higiene de los mensajes
+  #### Lecciones
+  - Planificación para la higiene de los mensajes
+  - Administrar las directivas de correo electrónico no deseado y antimalware
+  - Gestión de protección avanzada contra amenazas
+  
+  
+  ### Módulo 2&#58; Gestión de cumplimiento
+  #### Lecciones
+  - Cumplimiento de mensajería en el SCC
+  - Cumplimiento de mensajes en Exchange
+  - Administrar el archivado y la auditoría de Exchange Online
+  - Administrar la búsqueda de contenido
+
+
+  ### Módulo 3&#58; Administrar permisos basados en roles
+  #### Lecciones
+  - Administrar roles de administrador
+  - Administrar roles de usuario
+  - Configuración de Exchange - Permiso dividido RBAC y AD
+
+
+  ### Módulo 4&#58; Laboratorio - Administrar higiene de mensajes
+
+  #### Laboratorio &#58; Administrar higiene de mensajes
+  - Ejercicio 1&#58; Administrar la higiene de mensajes en una solución local
+  - Ejercicio 2&#58; Administrar la higiene de mensajes en una solución en la nube
+  - Ejercicio 3&#58; Administrar la higiene de mensajes en una solución híbrida

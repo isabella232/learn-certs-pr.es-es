@@ -1,0 +1,87 @@
+### YamlMime:Course
+title: Implementar Integración Continua
+metadata:
+  title: 'Curso AZ-400T02-A: Implementar Integración Continua'
+  description: 'Curso AZ-400T02-A: Implementar Integración Continua'
+uid: course.az-400t02
+courseNumber: 'AZ-400T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explicar por qué la integración continua es importante
+- skill: Implementar la integración continua con Azure DevOps
+- skill: Configurar compilaciones y las opciones disponibles
+- skill: Crear un flujo de trabajo de compilación automatizado
+- skill: Integrar otras herramientas de compilación con Azure DevOps
+- skill: Crear procesos de compilación híbridos
+- skill: Describir qué se entiende por calidad de código y cómo se mide
+- skill: Detectar códigos
+- skill: Integrar pruebas automatizadas para la calidad del código
+- skill: Informe sobre la cobertura del código durante las pruebas
+- skill: Agregue herramientas para medir la deuda técnica
+- skill: Detectar código abierto y otros problemas de licencia
+- skill: Implementar una estrategia de versión de contenedor
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona conocimientos y habilidades para implementar las prácticas de integración continua de DevOps. Los estudiantes aprenderán cómo implementar la integración continua en una tubería de Azure DevOps, cómo administrar la calidad del código y los principios de seguridad, y cómo implementar una estrategia de construcción de contenedores.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en los procesos de integración continua de DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  - Los estudiantes deben tener conocimientos fundamentales sobre Azure, control de versiones, desarrollo de software ágil y principios básicos de desarrollo de software. Sería útil tener experiencia en una organización que ofrece software.
+  - Se recomienda que tenga experiencia trabajando en un IDE, así como cierto conocimiento del portal de Azure. Sin embargo, los estudiantes que pueden no tener una formación técnica en estas tecnologías, pero que tienen curiosidad sobre las prácticas de DevOps como un cambio cultural, deberían poder seguir las explicaciones de procedimiento y expositivas de la integración continua independientemente.
+outlineSection: |-
+  ### Módulo 1&#58; Implementación de la integración continua en una tubería de Azure DevOps
+  En este módulo, se le presentarán los principios de integración continua, que incluyen&#58;beneficios, desafíos, desarrollo de mejores prácticas y pasos de implementación. También aprenderá a implementar una estrategia de compilación con flujos de trabajo, disparadores, agentes y herramientas.
+  #### Lecciones
+  - Resumen de integración continua
+  - Implementación de una estrategia de construcción
+  
+  #### Laboratorio &#58; Habilitación de la integración continua con Azure Pipelines
+
+  #### Laboratorio &#58; Creación de un trabajo de compilación Jenkins y activación de CI
+  Después de completar este módulo, los estudiantes#58&#58;
+  - Poder explicar por qué la integración continua es importante
+  - Implemente la integración continua con Azure DevOps
+
+
+  ### Módulo 2&#58; Gestión de políticas de calidad y seguridad del código
+  En este módulo, aprenderá cómo administrar la calidad del código, incluyendo&#58; deuda técnica, SonarCloud y otras soluciones de herramientas. También aprenderá cómo administrar políticas de seguridad con código abierto, OWASP y WhiteSource Bolt.
+  #### Lecciones
+  - Gestión de la calidad del código
+  - Gestión de seguridad
+
+
+  #### Laboratorio &#58; Administración de deuda técnica con Azure DevOps y SonarCloud
+
+  #### Laboratorio &#58; Comprobación de vulnerabilidades con WhiteSource Bolt y Azure DevOps
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar la calidad del código, incluyendo &#58; deuda técnica SonarCloud, y otras soluciones de herramientas.
+  - Administre políticas de seguridad con código abierto, OWASP y WhiteSource Bolt
+  - Administrar la calidad del código, incluyendo deuda técnica, SonarCloud y otras soluciones de herramientas.
+
+
+  ### Módulo 3&#58; Implementación de una estrategia de construcción de contenedores
+  En este módulo, aprenderá cómo implementar una estrategia de contenedor que incluye cómo los contenedores son diferentes de las máquinas virtuales y cómo los microservicios usan contenedores. También aprenderá cómo implementar contenedores con Docker.
+  #### Lecciones
+  - Implementación de una estrategia de construcción de contenedores
+
+
+  #### Laboratorio &#58; Aplicaciones .NET existentes con Azure y Docker Images
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar una estrategia de contenedor que incluya cómo los contenedores son diferentes de las máquinas virtuales y cómo los microservicios usan contenedores.
+  - Implementar contenedores con Docker.

@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Administrar el cumplimiento integrado de Microsoft 365
+metadata:
+  title: 'Curso MS-500T04-A: Administrar el cumplimiento integrado de Microsoft 365'
+  description: 'Curso MS-500T04-A: Administrar el cumplimiento integrado de Microsoft 365'
+uid: course.ms-500t04
+courseNumber: 'MS-500T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar e implementar un sistema de archivo y retención de datos.
+- skill: Realizar evaluaciones en Compliance Manager.
+- skill: Administrar la retención de correo electrónico a través de Exchange.
+- skill: Realizar una investigación de registro de auditoría.
+- skill: Crear y gestionar una investigación de descubrimiento electrónico.
+- skill: Gestionar solicitudes de sujetos de datos GDPR.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Las políticas internas y los requisitos externos para la retención e investigación de datos pueden ser necesarios para su organización. En este curso aprenderá sobre el archivado y la retención en Microsoft 365, así como sobre el gobierno de datos y cómo realizar búsquedas e investigaciones de contenido. Específicamente, este curso cubre las políticas y etiquetas de retención de datos, la administración de registros en el lugar para SharePoint, la retención de correo electrónico y cómo realizar búsquedas de contenido que admitan investigaciones de descubrimiento electrónico. El curso también ayuda a su organización a prepararse para el Reglamento Global de Protección de Datos (GDPR).
+  
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
+  
+  Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos. 
+  
+  El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
+  - Comprensión conceptual básica de Microsoft Azure
+  - Experiencia con dispositivos Windows 10
+  - Experiencia con Office 365
+  - Conocimientos básicos de autorización y autenticación
+  - Conocimientos básicos de redes informáticas
+  - Conocimiento práctico de la gestión de dispositivos móviles
+outlineSection: |-
+  ### Módulo 1&#58; Archivado y Retención
+  Este módulo explica conceptos relacionados con la retención y el archivo de datos para Microsoft 365, incluidos Exchange y SharePoint.
+  #### Lecciones
+  - Archivado en Microsoft 365
+  - Retención en Microsoft 365
+  - Políticas de retención en el Centro de seguridad y cumplimiento
+  - Archivo y retención en Exchange
+  - Gestión de registros locales en SharePoint
+
+  #### Laboratorio &#58; Archivado y Retención
+  - Crear y licenciar usuarios en su organización
+  - Configurar etiquetas y políticas de retención
+  - Políticas de retención de MRM
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el gobierno de datos en Microsoft 365.
+  - Describir la diferencia entre el Archivo local y la Gestión de registros.
+  - Explicar cómo se archivan los datos en Exchange.
+  - Reconocer los beneficios de la administración de registros en el lugar en SharePoint.
+  - Explicar la diferencia entre la gestión de registros de mensajes (MRM) en el intercambio y la retención en el centro de seguridad y cumplimiento.
+  - Explicar cómo funciona una política de retención.
+  - Crear una política de retención.
+  - Activar y desactivar el archivado local.
+  - Crear etiquetas de retención útiles.
+
+
+  ### Módulo 2&#58; Gobierno de datos en Microsoft 365
+  Este módulo se centra en el gobierno de datos en Microsoft 365. El módulo le presentará al Administrador de cumplimiento y analizará el RGPD.
+  #### Lecciones
+  - Planificación de las necesidades de seguridad y cumplimiento
+  - Construir muros éticos en Exchange Online
+  - Administrar la retención en el correo electrónico
+  - Solucionar problemas de gobernanza de datos
+  - Analítica y Telemetría
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar los roles de seguridad y cumplimiento.
+  - Describir lo que debe tener en cuenta para RGPD.
+  - Describir qué es un muro ético en Exchange y cómo funciona.
+  - Trabajar con etiquetas de retención en buzones
+  - Describir las políticas de retención con mensajes de correo electrónico y carpetas de correo electrónico.
+  - Explicar cómo se calcula la edad de retención de los elementos.
+  - Reparar las políticas de retención que no se ejecutan como se esperaba.
+
+
+  ### Módulo 3&#58; Gestión de búsquedas e investigaciones
+  Este módulo se centra en la búsqueda de contenido y las investigaciones.  Específicamente, cubre cómo usar eDiscovery para realizar investigaciones avanzadas de datos de Microsoft 365. También cubre los registros de auditoría y analiza las solicitudes de sujetos de datos de GDPR.
+  #### Lecciones
+  - Buscar contenido en el Centro de seguridad y cumplimiento
+  - Auditoría de investigaciones de registro
+  - eDiscovery avanzado
+
+
+  #### Laboratorio &#58; eDiscovery
+  - Crear y licenciar usuarios en su organización
+  - Investigar sus datos de Microsoft 365
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo usar la búsqueda de contenido.
+  - Diseño de su búsqueda de contenido.
+  - Configuración de filtrado de permisos de búsqueda.
+  - Describir qué es el registro de auditoría y los permisos necesarios para buscar en el registro de auditoría de Office 365.
+  - Configurar políticas de auditoría.
+  - Introducir los criterios para buscar en el registro de auditoría.
+  - Exportar resultados de búsqueda a un archivo CSV.
+  - Describir qué es eDiscovery avanzado y qué requisitos se necesitan.
+  - Analizar datos en eDiscovery avanzado.
+  - Visualización del registro de eventos de eDiscovery avanzado.
+  - Utilizar Express Analytics.

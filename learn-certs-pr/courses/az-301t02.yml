@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Diseñar una solución de plataforma de datos
+metadata:
+  title: 'Curso AZ-301T02-A: Diseñar una solución de plataforma de datos'
+  description: 'Curso AZ-301T02-A: Diseñar una solución de plataforma de datos'
+uid: course.az-301t02
+courseNumber: 'AZ-301T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Determinar la opción de precio ideal para Azure Storage en función de los requisitos de una solución.
+- skill: Identificar umbrales de rendimiento para el servicio Azure Storage.
+- skill: Determinar el tipo de blobs de almacenamiento que se utilizarán para componentes de solución específicos.
+- skill: Usar el servicio Azure Files para operaciones SMB.
+- skill: Identificar soluciones que puedan beneficiarse del uso de dispositivos físicos o virtuales StorSimple.
+- skill: Comparar y contrastar los servicios de monitoreo para aplicaciones, la plataforma Azure y las redes.
+- skill: Diseñar un esquema de alerta para una solución alojada en Azure
+- skill: Seleccionar la opción de copia de seguridad adecuada para la infraestructura y los datos alojados en Azure.
+- skill: Automatizar el despliegue de recursos futuros para fines de recuperación o escalado de copias de seguridad
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Aprender a comparar y contrastar varias opciones de base de datos en Azure, identificar opciones de transmisión de datos para la ingesta de datos a gran escala e identificar opciones de almacenamiento de datos a largo plazo.
+
+  #### Perfil de audiencia
+  Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
+outlineSection: |-
+  ### Módulo 1&#58; Respaldar soluciones de Azure con Azure Storage
+  Este módulo describe cuántos servicios de Azure usan el servicio Azure Storage como almacén de respaldo para otra solución de aplicación en Azure. El módulo se sumerge en consideraciones críticas cuando se usa Azure Storage como un servicio suplementario para una solución completa de Azure.
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Determine la opción de precio ideal para Azure Storage en función de los requisitos de una solución.
+  - Identificar umbrales de rendimiento para el servicio Azure Storage.
+  - Determinar el tipo de blobs de almacenamiento que se utilizarán para componentes de solución específicos.
+  - Usar el servicio Azure Files para operaciones SMB.
+  - Identificar soluciones que puedan beneficiarse del uso de dispositivos físicos o virtuales StorSimple.
+
+  ### Módulo 2&#58; Comparación de opciones de base de datos en Azure
+  Este módulo compara las diversas opciones de almacenamiento de datos relacionales y no relacionales disponibles en Azure Las opciones se exploran como grupos, como bases de datos relacionales (Azure SQL Database, MySQL y PostgreSQL en Azure), no relacionales (Azure Cosmos DB y Tablas de almacenamiento), transmisión (Stream Analytics) y almacenamiento (Data Factory, Data Warehouse, y Data Lake).
+
+  #### Laboratorio &#58; Implementación de instancias de bases de datos en Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comparar y contrastar los servicios de monitoreo para aplicaciones, la plataforma Azure y las redes.
+  - Identificar las opciones de transmisión de datos para la ingesta de datos a gran escala.
+  - Identificar opciones de almacenamiento de datos a largo plazo.
+
+
+  ### Módulo 3&#58; Monitoreo y automatización de soluciones de Azure
+  Este módulo cubre las soluciones de monitoreo y automatización disponibles después de que una solución de Azure ha sido diseñada, diseñada y posiblemente implementada. El módulo revisa los servicios que se usan para monitorear aplicaciones individuales, la plataforma Azure y los componentes en red. Este módulo también cubre las opciones de automatización y respaldo para permitir escenarios de continuidad empresarial para soluciones alojadas en Azure.
+
+  #### Laboratorio &#58; Implementación de soluciones de administración de configuración en Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comparar y contrastar los servicios de monitoreo para aplicaciones, la plataforma Azure y las redes.
+  - Diseñar un esquema de alerta para una solución alojada en Azure
+  - Seleccionar la opción de copia de seguridad adecuada para la infraestructura y los datos alojados en Azure.
+  - Automatizar el despliegue de recursos futuros para fines de recuperación o escalado de copias de seguridad

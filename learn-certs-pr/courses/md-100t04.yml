@@ -1,0 +1,122 @@
+### YamlMime:Course
+title: Mantener Windows 10
+metadata:
+  title: 'Curso MD-100T04-A: Mantener Windows 10'
+  description: 'Curso MD-100T04-A: Mantener Windows 10'
+uid: course.md-100t04
+courseNumber: 'MD-100T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usar las herramientas de solución de problemas y monitoreo de Windows.
+- skill: Solucionar problemas de instalaciones de Windows.
+- skill: Solucionar problemas de instalación de aplicaciones.
+- skill: Solucionar problemas de configuración del navegador web.
+- skill: Solucionar problemas de autenticación de Windows.
+- skill: Solucionar problemas de hardware relacionados con máquinas Windows.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  En este curso, los estudiantes aprenderán cómo administrar y solucionar problemas de Windows 10. Este curso profundizará en la arquitectura y las herramientas utilizadas para administrar, monitorear y solucionar problemas del sistema operativo, las aplicaciones y el hardware. Los estudiantes aprenderán sobre la metodología proactiva y de solución de problemas, y cómo identificar y mitigar problemas comunes.
+
+  #### Perfil de audiencia
+  Los candidatos a este examen son profesionales de TI que realizan la instalación, configuración, gestión local general y mantenimiento de los servicios principales de Windows 10. Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la nube.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  - Conocimientos básicos de redes informáticas y conceptos de hardware.
+  - Comprensión básica del sistema operativo y los conceptos de aplicación.
+  - Experiencia con el uso del sistema operativo Windows.
+outlineSection: |-
+  ### Módulo 1&#58; Apoyar el entorno de Windows 10
+  Este módulo cubrirá la arquitectura de Windows 10 y los entornos comunes. Se les presentará a los estudiantes las diversas herramientas utilizadas para mantener Windows. Este módulo también analizará las metodologías para resolver problemas de manera efectiva y cómo administrar y optimizar proactivamente Windows 10.
+  #### Lecciones
+  - Solución de problemas de Windows
+  - Herramientas de solución de problemas
+  
+  #### Laboratorio &#58; Laboratorio de práctica&#58; Monitoreo de Windows 10
+  - Monitoreo de eventos
+  - Monitoreo de confiabilidad y rendimiento
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la arquitectura de Windows
+  - Describir las etapas clave en la resolución de problemas
+  - Describir el propósito y los beneficios de las diversas herramientas en Windows
+  - Usar herramientas de monitoreo para establecer una línea de base de rendimiento
+  - Optimizar el rendimiento en clientes de Windows 10
+
+
+  ### Módulo 2&#58; Solución de problemas del sistema operativo Windows
+  En este módulo, los estudiantes aprenderán cómo solucionar problemas de inicio y servicio relacionados con el sistema operativo.  Este módulo enseñará las diferentes opciones de inicio y recuperación, y cómo solucionar problemas de diferentes servicios de Windows.
+  #### Lecciones
+  - Solucionar problemas de inicio de Windows
+  - Solucionar problemas de servicio del sistema operativo
+  - Solución de problemas de inicio de sesión
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los diversos métodos que identifican y se recuperan de los problemas de inicio
+  - Describir cuándo usar las diversas opciones avanzadas de inicio
+  - Identificar y deshabilitar un servicio fallido
+  - Identificar y mitigar escenarios comunes de cuentas bloqueadas
+
+
+  ### Módulo 3&#58; Solución de problemas de archivos y aplicaciones
+  Este módulo ayuda a los estudiantes a planificar la copia de seguridad y recuperación de archivos.  Los estudiantes aprenderán cómo planificar y configurar estrategias de protección de datos y cómo realizar varios métodos de recuperación de archivos y sistemas.  Este módulo también incluye métodos comunes para solucionar problemas de instalación de aplicaciones, problemas de compatibilidad y resolver problemas del navegador.
+  #### Lecciones
+  - Recuperación de archivos en Windows 10
+  - Solución de problemas de la aplicación
+
+
+  #### Laboratorio &#58; Solución de problemas de aplicaciones de escritorio
+  - Solución de problemas de aplicaciones de políticas de AppLocker
+  - Solución de problemas de compatibilidad de aplicaciones
+  - Solución de problemas de Microsoft Internet Explorer
+  - Solución de problemas de Microsoft Edge
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los diferentes métodos de recuperación de archivos
+  - Configurar Windows 10 para admitir archivos individuales y recuperación del sistema
+  - Recuperar un dispositivo usando la función Restablecer esta PC
+  - Resolver problemas de compatibilidad de aplicaciones con el Kit de herramientas de compatibilidad de aplicaciones
+  - Solucionar problemas comunes del navegador
+
+
+  ### Módulo 4&#58; Solución de problemas de hardware y controladores
+  Este módulo presenta la solución de problemas de hardware.  Los estudiantes aprenderán sobre la gestión de controladores y cómo solucionar problemas de dispositivos. Los estudiantes también aprenderán pasos para solucionar problemas de hardware del sistema y periféricos externos, como unidades USB e impresoras, incluidos métodos de diagnóstico y reparación.
+  #### Lecciones
+  - Solución de problemas de fallas del controlador del dispositivo
+  - Descripción general de la solución de problemas de hardware
+  - Solución de fallas físicas
+
+
+  #### Laboratorio &#58; Solución de problemas de controladores de dispositivo
+  - Solución de problemas de un controlador de dispositivo perdido
+  - Resolver problemas de hardware
+  - Resolver problemas del controlador del dispositivo
+  - Configurar ajustes de directiva de grupo para controlar la instalación del dispositivo
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Solucionar problemas y remediar problemas de controladores
+  - Solucionar problemas de periféricos
+  - Diagnosticar y reemplazar hardware
+
+
+  ### Módulo 5&#58; Conclusión del curso
+  #### Lecciones
+  - Examen final
+
+
+  #### Laboratorio &#58; Laboratorio calificado

@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: Administrar la identidad y el acceso de Microsoft 365
+metadata:
+  title: 'Curso MS-500T01-A: Administrar la identidad y el acceso de Microsoft 365'
+  description: 'Curso MS-500T01-A: Administrar la identidad y el acceso de Microsoft 365'
+uid: course.ms-500t01
+courseNumber: 'MS-500T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Administrar seguridad de usuarios y grupos en Microsoft 365.
+- skill: Gestionar contraseñas en Microsoft 365.
+- skill: Describir las características de Azure Identity Protection.
+- skill: Planificar e implementar Azure AD Connect.
+- skill: Gestionar identidades sincronizadas.
+- skill: Plan de implementación de identidades federadas.
+- skill: Describir y usar el acceso condicional.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Ayuda a proteger contra el compromiso de credenciales con la gestión de identidad y acceso. En este curso aprenderá cómo asegurar el acceso de los usuarios a los recursos de su organización. Específicamente, este curso cubre la protección de contraseña de usuario, la autenticación multifactor, cómo habilitar la Protección de identidad de Azure, cómo configurar los servicios de federación de Active Directory, cómo configurar y usar Azure AD Connect, y le presenta el acceso condicional. También aprenderá sobre soluciones para administrar el acceso externo a su sistema Microsoft 365.
+  
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
+  
+  Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos. 
+  
+  El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
+  - Comprensión conceptual básica de Microsoft Azure.
+  - Experiencia con dispositivos Windows 10.
+  - Experiencia con Office 365.
+  - Conocimientos básicos de autorización y autenticación.
+  - Conocimientos básicos de redes informáticas.
+  - Conocimiento práctico de la gestión de dispositivos móviles.
+outlineSection: |-
+  ### Módulo 1&#58; Seguridad de usuarios y grupos
+  Este módulo explica cómo administrar cuentas de usuario y grupos en Microsoft 365. Le presenta Privileged Identity Management en Azure AD, así como también Identity Protection. El módulo establece las bases para el resto del curso.
+  #### Lecciones
+  - Cuentas de usuario en Microsoft 365
+  - Roles de administrador y grupos de seguridad en Microsoft 365
+  - Gestión de contraseñas en Microsoft 365
+  - Protección de identidad de Azure AD
+  
+  #### Laboratorio &#58; Administrar su entorno de identidad de Microsoft 365
+  - Configurar su entorno de laboratorio
+  - Administrar su entorno de identidad de Microsoft 365 utilizando el centro de administración de Microsoft 365
+  - Asignar administradores de servicios
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las identidades de usuario en Microsoft 365
+  - Cree cuentas de usuario desde el centro de administración de Microsoft 365 y en Windows PowerShell
+  - Describir y usar roles de administrador de Microsoft 365
+  - Describir los distintos tipos de grupos disponibles en Microsoft 365
+  - Planificar las políticas de contraseña y autenticación
+  - Implemente la autenticación multifactor en Office 365
+  - Describir Azure Identity Protection y qué tipo de identidades se pueden proteger
+  - Describir cómo habilitar Azure Identity Protection
+  - Identificar vulnerabilidades y eventos de riesgo
+
+
+  ### Módulo 2&#58; Sincronización de identidad
+  Este módulo explica conceptos relacionados con la sincronización de identidades.  Específicamente, se centra en Azure AD Connect y en la administración de la sincronización de directorios para garantizar que las personas adecuadas se conecten a su sistema Microsoft 365.
+  #### Lecciones
+  - Introducción a la sincronización de identidad
+  - Planificación de Azure AD Connect
+  - Implementar Azure AD Connect
+  - Gestionar identidades sincronizadas
+
+
+  #### Laboratorio &#58; Implementación de sincronización de identidad
+  - Configurar su organización para la sincronización de identidad
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las opciones de autenticación de Microsoft 365.
+  - Explicar la sincronización de directorios
+  - Planificar sincronización de directorios
+  - Describir y planificar Azure AD Connect.
+  - Configurar los requisitos previos de Azure AD Connect
+  - Configurar Azure AD Connect
+  - Gestionar usuarios con sincronización de directorios
+  - Gestionar grupos con sincronización de directorios
+  - Usar los grupos de seguridad de sincronización de Azure AD Connect
+
+
+  ### Módulo 3&#58; Identidades federadas
+  Este módulo tiene que ver con los Servicios de federación de Active Directory (ADFS). Específicamente, aprenderá cómo planificar y administrar AD FS para lograr el nivel de acceso que desea proporcionar a los usuarios desde otros directorios.
+  #### Lecciones
+  - Introducción a las identidades federadas
+  - Planificación de una implementación de AD FS
+  - Implementar AD FS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la autenticación basada en notificaciones y los fideicomisos de federación.
+  - Describir cómo funciona AD FS.
+  - Planificar un entorno de AD FS que incluya mejores prácticas, alta disponibilidad y planificación de capacidad
+  - Planificar los Servicios de federación de Active Directory en Microsoft Azure
+  - Instalar y configurar un Proxy de aplicación web para AD FS
+  - Configure AD FS mediante Azure AD Connect
+
+
+  ### Módulo 4&#58; Gestión de Acceso
+  Este módulo describe el acceso condicional para Microsoft 365 y cómo se puede usar para controlar el acceso a los recursos en su organización. El módulo también explica el control de acceso basado en roles (RBAC) y las soluciones para acceso externo.
+  #### Lecciones
+  - Acceso condicional
+  - Administrar el acceso al dispositivo
+  Control de acceso basado en roles (RBAC)
+  - Soluciones para acceso externo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el concepto de acceso condicional.
+  - Describir las políticas de acceso condicional
+  - Planificar el cumplimiento de dispositivos
+  - Configurar usuarios y grupos condicionales
+  - Configurar RBAC
+  - Distinguir entre las funciones administrativas de Azure RBAC y Azure AD
+  - Administrar acceso externo
+  - Explicar la guía de licencias para la colaboración B2B de Azure AD

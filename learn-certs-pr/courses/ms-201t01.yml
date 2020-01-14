@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Definición de una estrategia de mensajería híbrida
+metadata:
+  title: 'Curso MS-201T01-A: Definición de una estrategia de mensajería híbrida'
+  description: 'Curso MS-201T01-A: Definición de una estrategia de mensajería híbrida'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar migraciones de buzones
+- skill: Planificar migraciones IMAP
+- skill: Planificar corte y migraciones por etapas
+- skill: Realizar migraciones avanzadas
+- skill: Comprender los requisitos de implementación híbrida de Exchange
+- skill: Ejecutar el asistente de configuración híbrida
+- skill: Implementar y administrar un servidor de transporte perimetral
+- skill: Configurar una implementación híbrida utilizando el HCW
+- skill: Implementar funcionalidad híbrida avanzada
+- skill: Solucionar problemas de implementaciones híbridas
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  Este curso introduce a los estudiantes al mundo de la mensajería híbrida. Los estudiantes aprenderán cómo implementar un entorno híbrido para una organización de Exchange y cómo migrar buzones a Exchange Online. Comenzarán examinando las opciones de migración de buzones disponibles y luego se centrarán en la planificación de una implementación híbrida. Finalmente, los estudiantes aprenderán cómo implementar y solucionar problemas de una implementación híbrida.
+
+  #### Perfil de audiencia
+  El administrador de mensajería implementa, configura, administra y
+  soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas tanto en entornos empresariales locales como en la nube. Las responsabilidades incluyen la gestión de la higiene de mensajes, la infraestructura de mensajería y la configuración y migración híbridas. El administrador de mensajería también implementa y administra la recuperación ante desastres, la alta disponibilidad y el acceso del cliente. Para implementar una topología híbrida segura que satisfaga las necesidades comerciales de una organización moderna, el administrador de mensajería debe colaborar con el administrador de seguridad y el administrador de Microsoft 365 Enterprise. El administrador de mensajería debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
+prerequisitesSection: |-
+  - Conocimiento competente de DNS.
+  - Conocimientos básicos de mensajería en Exchange Server o Exchange Online.
+  - Conocimientos básicos de Active Directory y la infraestructura del controlador de dominio junto con la gestión de identidad.
+  - Experiencia funcional básica con servicios de Microsoft 365 y sincronización de directorios.
+  - Al menos 5 años de experiencia general en TI.
+outlineSection: |-
+  ### Módulo 1&#58; Realizar migraciones de buzones
+  #### Lecciones
+  - Planificación de migraciones de buzones
+  - Realizar migraciones IMAP
+  - Realizar migraciones de transición y etapas
+  - Realizar migraciones avanzadas
+  
+  
+  ### Módulo 2&#58; Planificación de un entorno híbrido
+  #### Lecciones
+  - Requisitos de implementación híbrida de Exchange
+  - Planificación para ejecutar el Asistente de configuración híbrida
+
+
+  ### Módulo 3&#58; Implementación y solución de problemas de un entorno híbrido
+  #### Lecciones
+  - Implementar y administrar un servidor de transporte perimetral
+  - Configurar una implementación híbrida utilizando el HCW
+  - Implementar funcionalidad híbrida avanzada
+  - Solucionar problemas de implementaciones híbridas
+
+
+  ### Módulo 4&#58; Laboratorio - Implementación y gestión híbrida
+
+  #### Laboratorio &#58; Implementación y gestión híbrida
+  - Ejercicio 1&#58; Realizar una migración de buzón a Microsoft 365
+  - Ejercicio 2&#58; Gestionar escenarios híbridos

@@ -1,0 +1,108 @@
+### YamlMime:Course
+title: Protección de escritorios y dispositivos modernos
+metadata:
+  title: 'Curso MD-101T03-A: Protección de escritorios y dispositivos modernos'
+  description: 'Curso MD-101T03-A: Protección de escritorios y dispositivos modernos'
+uid: course.md-101t03
+courseNumber: 'MD-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir los beneficios y capacidades de Azure AD.
+- skill: Administrar usuarios que usan Azure AD con Active Directory DS.
+- skill: Implementar Windows Hello for Business.
+- skill: Configurar reglas de acceso condicional basadas en políticas de cumplimiento.
+- skill: Describir las diversas herramientas utilizadas para proteger los dispositivos y los datos.
+- skill: implementar Windows Defender Advanced Threat Protection.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Todos los días, más organizaciones piden a TI que respalde la movilidad en la fuerza laboral. Los entornos modernos requieren que Desktop Administrator pueda administrar y admitir teléfonos, tabletas y ordenadores, ya sean propiedad de la organización o personales del empleado. Al mismo tiempo, TI aún debe poder proteger los datos a los que acceden estos dispositivos. En este curso, se le presentará al alumno los conceptos clave de seguridad en la administración moderna. Este curso cubre autenticación, identidades y acceso, así como también cómo proteger estas categorías. Al alumno se le presentará Azure Active Directory y aprenderá cómo usar Microsoft Intune para proteger dispositivos y datos con políticas de cumplimiento. Finalmente, este curso cubrirá las capacidades clave de Azure Information Protection y Windows Defender Advanced Threat Protection y cómo implementar estas capacidades.
+
+  #### Perfil de audiencia
+  Modern Desktop Administrator (MDA) implementa, configura, asegura, administra y monitorea dispositivos y aplicaciones cliente en un entorno empresarial. Las responsabilidades incluyen la gestión de identidad, acceso, políticas, actualizaciones y aplicaciones. La MDA colabora con el administrador de la empresa M365 para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna. El MDA debe estar familiarizado con las cargas de trabajo de M365 y debe tener fuertes habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows 10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las tecnologías de administración local.
+prerequisitesSection: |-
+  El Administrador de escritorio moderno MDA debe estar familiarizado con las cargas de trabajo de M365 y debe tener sólidas habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows 10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las  tecnologías de administración local.
+outlineSection: |-
+  ### Módulo 1&#58; Administración de autenticación en Azure AD
+  En este módulo, los estudiantes conocerán el concepto de directorio en la nube con Azure Active Directory (Azure AD). Los estudiantes aprenderán las similitudes y diferencias entre Azure AD y Active Directory DS y cómo sincronizar entre los dos. Los estudiantes explorarán la administración de identidad en Azure AD y aprenderán sobre la protección de identidad con Windows Hello para empresas, así como la Protección de identidad de Azure AD y la autenticación multifactor. El módulo concluirá con un acceso seguro a los recursos corporativos e introducirá conceptos como Always On VPN y conectividad remota en Windows 10.
+  #### Lecciones
+  - Descripción general de Azure AD
+  - Administrar identidades en Azure AD
+  - Protección de identidades en Azure AD
+  - Administrar la autenticación del dispositivo
+  - Habilitar el acceso corporativo
+  
+  #### Laboratorio &#58; Laboratorio de práctica - Administrar objetos y autenticación en Azure AD
+  - Habilitación y configuración de Azure AD Premium con inquilino de Enterprise Mobility + Security (EMS)
+  - Creación de objetos de usuario y grupo con UI y Windows PowerShell
+  - Configuración de restablecimiento de contraseña de autoservicio (SSPR) para cuentas de usuario en Azure AD
+  - Unirse a un dispositivo en Azure AD
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las capacidades de Azure AD.
+  - Administrar usuarios que usan Azure AD con Active Directory DS.
+  - Implementar Windows Hello para empresas.
+  - Unir dispositivos a Azure AD.
+  - Describir métodos para habilitar el acceso desde redes externas.
+
+
+  ### Módulo 2&#58; Administrar dispositivos y políticas de dispositivos
+  En este módulo, se les presentará a los estudiantes la administración de la seguridad del dispositivo con Intune. Los estudiantes descubrirán cómo Intune puede usar los perfiles de dispositivo para administrar la configuración de dispositivos para proteger los datos en un dispositivo. Los estudiantes aprenderán cómo crear e implementar políticas de cumplimiento y usar políticas de cumplimiento para acceso condicional. El módulo concluye con dispositivos de monitoreo inscritos en Intune.
+  #### Lecciones
+  - Descripción general de Microsoft Intune
+  - Administrar dispositivos con Intune
+  - implementar directrices de cumplimiento del dispositivo
+
+
+  #### Laboratorio &#58; Laboratorio de práctica - Administrar dispositivos
+  - Configuración de Microsoft Intune para la administración de dispositivos
+  - Configuración de políticas de cumplimiento y perfiles de dispositivos
+  - Inscripción de dispositivos con Windows 10 y gestión del cumplimiento
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la administración de dispositivos móviles con Intune.
+  - Crear y asignar perfiles de dispositivos para proteger los datos en los dispositivos.
+  - Implementar políticas de cumplimiento y acceso condicional.
+  - Usar Intune para monitorear el cumplimiento del dispositivo.
+
+
+  ### Módulo 3&#58; Gestionar la seguridad
+  En este módulo, los estudiantes aprenderán sobre la protección de datos. Los temas incluirán Windows y Azure Information Protection, y varias tecnologías de cifrado compatibles con Windows 10. Este módulo también cubre las capacidades clave de Protección contra amenazas avanzada de Windows Defender (ATP de Windows Defender) y cómo implementar estas capacidades en los dispositivos de su organización. El módulo concluye usando Windows Defender y funcionalidades como antivirus, firewall y Credential Guard.
+  #### Lecciones
+  - Implementar protección de datos del dispositivo
+  - Administrar Windows Defender ATP
+  - Administrar Windows Defender en Windows 10
+
+
+  #### Laboratorio &#58; Laboratorio de práctica - Managing Security in Windows 10
+  - Configuración del sistema de cifrado de archivos (EFS)
+  - Configuración de BitLocker
+  - Configuración de una política WIP en Intune
+  - Configurar Windows Defender
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los métodos que protegen los datos del dispositivo.
+  - Describir las capacidades y beneficios de Windows Defender ATP
+  - Implementar y administrar configuraciones para clientes de Windows Defender.
+
+
+  ### Módulo 4&#58; Conclusión del curso
+  #### Lecciones
+  - Examen final
+
+
+  #### Laboratorio &#58; Laboratorio calificado

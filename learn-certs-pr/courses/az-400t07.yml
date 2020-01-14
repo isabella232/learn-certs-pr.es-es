@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Diseño de una estrategia DevOps
+metadata:
+  title: 'Curso AZ-400T07-A: Diseño de una estrategia DevOps'
+  description: 'Curso AZ-400T07-A: Diseño de una estrategia DevOps'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planifique la transformación con objetivos y plazos compartidos.
+- skill: Seleccionar un proyecto e identifique las métricas y los KPI del proyecto.
+- skill: Crear un equipo y una estructura organizativa ágil.
+- skill: Desarrollar una estrategia de calidad del proyecto.
+- skill: Planificar prácticas de desarrollo seguras y reglas de cumplimiento
+- skill: Migrar y consolidar artefactos.
+- skill: Migrar e integrar medidas de control de fuente
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona los conocimientos y habilidades para diseñar una estrategia DevOps. Los estudiantes aprenderán cómo planificar la transformación, seleccionar un proyecto y crear estructuras de equipo. Los estudiantes también aprenderán cómo desarrollar estrategias de calidad y seguridad. También se cubrirá la planificación para migrar y consolidar artefactos y el control de origen.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en planificar proyectos de DevOps o en aprobar el examen de certificación de Microsoft Azure DevOps Solutions.
+prerequisitesSection: |-
+  - Conocimientos fundamentales sobre Azure, control de versiones, desarrollo de software ágil y principios básicos de desarrollo de software. Sería útil tener experiencia en una organización que ofrece software.
+  - Se recomienda que tenga experiencia trabajando en un IDE, así como cierto conocimiento del portal de Azure. Sin embargo, los estudiantes que pueden no tener una formación técnica en estas tecnologías, pero que tienen curiosidad sobre las prácticas de DevOps como un cambio cultural, deberían poder seguir las explicaciones de procedimiento y expositivas de la integración continua independientemente.
+outlineSection: |-
+  ### Módulo 1&#58; Planificación para DevOps
+  En este módulo, los estudiantes aprenderán sobre la planificación de la transformación, la selección de proyectos y las estructuras de equipo.
+  #### Lecciones
+  - Planificación de transformación
+  - Selección de proyectos
+  - Estructuras de equipo
+  
+  #### Laboratorio &#58; Planificación ágil y gestión de porfolios con Azure Boards
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar la transformación con objetivos y plazos compartidos.
+  - Seleccionar un proyecto e identificar las métricas y los KPI del proyecto
+  - Crear un equipo y una estructura organizativa ágil
+
+
+  ### Módulo 2&#58; Planificación de calidad y seguridad
+  En este módulo, los estudiantes aprenderán sobre el desarrollo de una estrategia de calidad y la planificación para un desarrollo seguro.
+  #### Lecciones
+  - Planificación de una estrategia de calidad
+  - Planificación del desarrollo seguro
+
+
+  #### Laboratorio &#58; Gestión de indicadores de funciones con LaunchDarkly y AzureDevOps
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Desarrollar una estrategia de calidad del proyecto.
+  - Planificar prácticas de desarrollo seguras y normas de cumplimiento.
+
+
+  ### Módulo 3&#58; Migración y consolidación de artefactos y herramientas
+  En este módulo, los estudiantes aprenderán sobre la migración y consolidación de artefactos, y sobre la migración e integración de medidas de control de fuente.
+  #### Lecciones
+  - Migración y consolidación de artefactos
+  - Migración e integración del control de origen
+
+
+  #### Laboratorio &#58; Integrar Azure Repos y Azure Pipelines con Eclipse
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Migrar y consolidar artefactos
+  - Migrar e integrar medidas de control de fuente

@@ -1,0 +1,94 @@
+### YamlMime:Course
+title: Implementar escenarios híbridos de SharePoint
+metadata:
+  title: 'Curso MS-301T03-A: Implementar escenarios híbridos de SharePoint'
+  description: 'Curso MS-301T03-A: Implementar escenarios híbridos de SharePoint'
+uid: course.ms-301t03
+courseNumber: 'MS-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir los escenarios híbridos de SharePoint disponibles.
+- skill: Describir los requisitos para la configuración híbrida de SharePoint.
+- skill: Plan para el servidor híbrido de SharePoint.
+- skill: Configurar escenarios híbridos de SharePoint.
+- skill: Configurar puerta de enlace de datos local.
+- skill: Describir la diferencia entre la búsqueda híbrida en la nube y la búsqueda híbrida federada.
+- skill: Evaluar diferentes tipos de búsqueda híbrida.
+- skill: Configure la búsqueda híbrida en la nube.
+- skill: Configurar resultados de búsqueda híbridos.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  El clima de negocios ha cambiado. La gente quiere comunicarse sin barreras colaborativas. Las empresas quieren soluciones que sean rentables y flexibles. Un entorno híbrido permite a los usuarios empresariales conectarse desde casi cualquier lugar a los recursos y el contenido que necesitan. En este curso aprenderá a planificar e implementar escenarios híbridos de SharePoint que brindan una experiencia fluida a los usuarios. También hablaremos más sobre la búsqueda híbrida de SharePoint que brinda a los usuarios un acceso fácil a los archivos que necesitan.
+
+  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización.
+
+  Este es el tercero de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301; Implementación de SharePoint Server Hybrid.
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
+
+  El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
+
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  - Experiencia con Windows PowerShell.
+  - Comprensión básica de la administración de SQL Server.
+  - Conocimientos básicos de redes, incluido DNS.
+  - Conocimiento práctico de la administración del servidor de Windows.
+  - Conocimientos básicos de Active Directory y Azure AD.
+  - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS).
+outlineSection: |-
+  ### Módulo 1&#58; Información general de escenarios híbridos de SharePoint
+  Este módulo tiene que ver con la planificación del híbrido de SharePoint Server. Proporciona una descripción general de los escenarios híbridos de SharePoint, así como los requisitos para la configuración.
+  #### Lecciones
+  - Información general de escenarios híbridos de SharePoint
+  - Planear híbrido de SharePoint Server
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los escenarios híbridos de SharePoint disponibles.
+  - Describir los requisitos para la configuración híbrida de SharePoint.
+  - Plan para el servidor híbrido de SharePoint.
+
+
+  ### Módulo 2&#58; Implementar escenarios híbridos de SharePoint
+  Este módulo se centra en la implementación de escenarios híbridos de SharePoint. Específicamente, analiza las hojas de ruta de la configuración híbrida, incluida la configuración de la infraestructura híbrida y el selector híbrido. También presenta una puerta de enlace de datos local para habilitar el uso de las características de Office 365 en SharePoint Server 2019.
+  #### Lecciones
+  - Implementar escenarios híbridos de SharePoint
+  - Configurar puerta de enlace de datos local
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar escenarios híbridos de SharePoint.
+  - Configurar puerta de enlace de datos local.
+
+
+  ### Módulo 3&#58; Implemente la búsqueda híbrida de SharePoint
+  Este módulo se centra en la búsqueda híbrida de SharePoint. Introduce diferentes tipos de búsqueda híbrida, incluida la búsqueda híbrida en la nube y la búsqueda híbrida federada. Explica cómo configurar la búsqueda híbrida y configurar los resultados de búsqueda.
+  #### Lecciones
+  - Descripción general de la búsqueda híbrida de SharePoint
+  - Configurar la búsqueda híbrida de SharePoint
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la diferencia entre la búsqueda híbrida en la nube y la búsqueda híbrida federada.
+  - Evaluar diferentes tipos de búsqueda híbrida.
+  - Configurar la búsqueda híbrida en la nube.
+  - Configurar resultados de búsqueda híbridos.
+
+
+  ### Módulo 4&#58; Conclusión del curso
+
+  #### Laboratorio &#58; Configurar SharePoint Hybrid

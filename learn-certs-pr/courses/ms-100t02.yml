@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Microsoft 365 Gestión de inquilinos y servicios
+metadata:
+  title: 'Curso MS-100T02-A: Microsoft 365 Gestión de inquilinos y servicios'
+  description: 'Curso MS-100T02-A: Microsoft 365 Gestión de inquilinos y servicios'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar su infraestructura local de Microsoft 365
+- skill: Planificar su identidad y solución de autenticación
+- skill: Planificar y configurar su experiencia de Microsoft 365
+- skill: Aprovechar FastTrack y los servicios de socios de Microsoft
+- skill: Implementar sus servicios de dominio
+- skill: Configurar sus roles de inquilino de Microsoft 365
+- skill: Administrar su salud y servicios de inquilinos de Microsoft 365
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Obtener información acerca de la administración de servicios e inquilinos de Microsoft 365, incluido cómo planificar, administrar y personalizar los servicios e inquilinos de Microsoft 365 de una organización.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
+prerequisitesSection: |-
+  - Completó un curso de administrador basado en roles, como Mensajería, Trabajo en equipo, Seguridad y cumplimiento, o Colaboración.
+  - Conocimiento competente de DNS y experiencia funcional básica con los servicios de Microsoft 365.
+  - Un conocimiento competente de las prácticas generales de TI.
+outlineSection: |-
+  ### Módulo 1&#58; Diseñar su inquilino de Microsoft 365
+  #### Lecciones
+  - Planificar una infraestructura local de Microsoft 365
+  - Planificar su solución de identidad y autenticación
+  
+  
+  ### Módulo 2&#58; Configuración de su inquilino de Microsoft 365
+  #### Lecciones
+  - Planificar su experiencia de Microsoft 365
+  - Configurar su experiencia de Microsoft 365
+  - Aprovechar FastTrack y Servicios para socios
+  - Implementar sus servicios de dominio
+
+
+  ### Módulo 3&#58; Administrar su inquilino de Microsoft 365
+  #### Lecciones
+  - Configuración de roles de inquilinos
+  - Administrar el bienestar y los servicios del inquilino
+
+
+  ### Módulo 4&#58; Talleres prácticos
+
+  #### Laboratorio &#58; Microsoft 365 Administración de inquilinos y servicios
+  - Ejercicio 1&#58; Configurar un inquilino de prueba de Microsoft 365
+  - Ejercicio 2&#58; Administrar usuarios, grupos y administración de Microsoft 365
+  - Ejercicio 3&#58; Configurar gestión de derechos y cumplimiento
+  - Ejercicio 4&#58; Supervisar y solucionar problemas de Microsoft 365

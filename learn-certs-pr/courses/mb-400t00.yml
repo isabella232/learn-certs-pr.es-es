@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: 'Microsoft PowerApps + Dynamics 365 Developer'
+metadata:
+  title: 'Curso MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
+  description: 'Curso MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer'
+uid: course.mb-400t00
+courseNumber: 'MB-400T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crear y documentar un modelo de datos
+- skill: Implementar entidades y campos
+- skill: Crear y mantener soluciones
+- skill: Automatizar procesos de negocio
+- skill: Extender la experiencia del usuario
+- skill: Desarrollar integraciones
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-400
+summary: |-
+  Microsoft Power Platform ayuda a las organizaciones a optimizar sus operaciones al automatizar tareas rutinarias y estandarizar las mejores prácticas comerciales. Un desarrollador de PowerApps es un desarrollador de software profesional que extiende la plataforma Power para resolver problemas comerciales complejos. En este curso, los desarrolladores de PowerApps se basarán en su conocimiento existente de Power Platform, Microsoft stack y las herramientas y prácticas de desarrollo estándar. Los desarrolladores de PowerApps aprenderán cómo estimar el esfuerzo y el alcance; validar requisitos y diseñar arquitectura técnica; crear modelos de datos; determinar herramientas de implementación; y documentar su diseño técnico. Los temas generales incluirán la implementación de seguridad y accesibilidad del usuario; gestión de entornos; extender el servicio de datos comunes; creación y uso de recursos web; y trabajar con complementos.
+
+  #### Perfil de audiencia
+  
+  Un desarrollador de PowerApps es responsable de diseñar, desarrollar, asegurar, extender e integrar la implementación de una plataforma. El desarrollador implementa componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener:
+  
+  - Una comprensión básica de la plataforma de energía.
+  - Experiencia en desarrollo de software contra Microsoft stack y Visual Studio.
+  - Experiencia en la administración de soluciones en Azure (preferido).
+outlineSection: |-
+  ### Módulo 1&#58; Introducción al desarrollo con Power Platform
+  
+  En este módulo, los estudiantes aprenderán sobre los recursos para desarrolladores y cómo aprovecharlos para ampliar la plataforma Power.
+  #### Lecciones
+  - Introducción a los recursos para desarrolladores de Power Platform
+  - Usar herramientas de desarrollador para ampliar la plataforma de energía
+  - Introducción a extender la plataforma de energía
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Identificar la funcionalidad de las herramientas de desarrollador
+  - Usar herramientas de desarrollador
+  
+  ### Módulo 2&#58; Ampliación del servicio de datos comunes de Power Platform
+  En este módulo, los estudiantes aprenderán cómo y cuándo usar complementos u otras herramientas para extender el Servicio de datos comunes.
+  
+  #### Lecciones
+  - Introducción al servicio de datos comunes para desarrolladores
+  - Ampliar complementos
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Escribir un complemento
+  - Usar un complemento para extender el Common Data Service
+
+  ### Módulo 3&#58; Extender la experiencia del usuario de Power Platform
+  En este módulo, los estudiantes aprenderán cómo aprovechar los recursos web y el script del cliente para extender la experiencia del usuario de Power Platform.
+  
+  #### Lecciones
+  - Introducción a los recursos web
+  - Realizar acciones comunes con script de cliente
+  - Automatizar los flujos de procesos empresariales con el script del cliente
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Usar recursos web
+  - Escribir script de cliente
+  - Ampliar los flujos de procesos de negocio

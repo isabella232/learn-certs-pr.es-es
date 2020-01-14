@@ -1,0 +1,87 @@
+### YamlMime:Course
+title: Diseñar para implementación, migración, e integración
+metadata:
+  title: 'Curso AZ-301T03-A: Diseñar para implementación, migración, e integración'
+  description: 'Curso AZ-301T03-A: Diseñar para implementación, migración, e integración'
+uid: course.az-301t03
+courseNumber: 'AZ-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crear un grupo de recursos.
+- skill: Agregar recursos a un grupo de recursos.
+- skill: Implemente una plantilla ARM en un grupo de recursos.
+- skill: Integre una API o aplicación lógica con el servicio API Management.
+- skill: Diseñar un plan de servicio de aplicaciones o una implementación en varias regiones para obtener un alto rendimiento y escala
+- skill: Integre una API o aplicación lógica con el servicio API Management.
+- skill: Diseñar un plan de servicio de aplicaciones o una implementación en varias regiones para obtener un alto rendimiento y escala
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Aprenda a implementar una plantilla de Azure Resource Manager (ARM) en un grupo de recursos, cree una implementación compleja utilizando las herramientas de Azure Building Blocks e integre una API o aplicación lógica con el servicio API Management.
+
+  #### Perfil de audiencia
+  Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
+outlineSection: |-
+  ### Módulo 1&#58; Implementación de recursos con Azure Resource Manager
+  Este módulo establece una comprensión básica de Azure Resource Manager (ARM) y los conceptos básicos de implementaciones, recursos, plantillas, grupos de recursos y etiquetas. El módulo se sumergirá profundamente en la implementación automatizada de recursos utilizando plantillas ARM.
+  
+  #### Laboratorio &#58; Implementación de recursos con Azure Resource Manager
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear un grupo de recursos.
+  - Agregar recursos a un grupo de recursos.
+  - Implementar una plantilla ARM en un grupo de recursos.
+  - Filtrar recursos usando etiquetas.
+  - Crear una implementación compleja con las herramientas de Azure Building Blocks.
+
+  ### Módulo 2&#58; Creación de aplicaciones de servidor administrado en Azure
+  Este módulo describe cómo las soluciones pueden aprovechar los servicios de alojamiento de aplicaciones sin servidor en Azure para
+  hospedar aplicaciones web, API REST, flujos de trabajo de integración y cargas de trabajo HPC sin el requisito de administrar recursos específicos del servidor. El módulo se centra en componentes relacionados con los servicios de aplicaciones, como aplicaciones web, aplicaciones API, aplicaciones móviles, aplicaciones lógicas y funciones.
+
+  #### Laboratorio &#58; Implementación de cargas de trabajo en contenedores administrados en Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Seleccionar entre el código de aplicación de alojamiento o los contenedores en una instancia de App Service.
+  - Describir las diferencias entre API, dispositivos móviles y aplicaciones web.
+  - Integrar una API o aplicación lógica con el servicio API Management.
+  - Diseñar un plan de servicio de aplicaciones o una implementación en varias regiones para obtener un alto rendimiento y escala.
+
+
+  ### Módulo 3&#58; Creación de aplicaciones sin servidor en Azure
+  Este módulo describe cómo las soluciones pueden aprovechar los servicios de alojamiento de aplicaciones sin servidor en Azure para
+  hospedar aplicaciones web, API REST, flujos de trabajo de integración y cargas de trabajo HPC sin el requisito de administrar recursos específicos del servidor. El módulo se centra en componentes relacionados con los servicios de aplicaciones, como aplicaciones web, aplicaciones API, aplicaciones móviles, aplicaciones lógicas y funciones.
+
+  #### Laboratorio &#58; Implementación de cargas de trabajo sin servidor en Azure
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Seleccionar entre el código de aplicación de alojamiento o los contenedores en una instancia de App Service.
+  - Describir las diferencias entre API, dispositivos móviles y aplicaciones web.
+  - Integrar una API o aplicación lógica con el servicio API Management.
+  - Diseñar un plan de servicio de aplicaciones o una implementación en varias regiones para obtener un alto rendimiento y escala.

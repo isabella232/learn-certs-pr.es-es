@@ -1,0 +1,102 @@
+### YamlMime:Course
+title: Habilitación de equipos de Microsoft para colaboración
+metadata:
+  title: 'Curso MS-300T03-A: Habilitación de equipos de Microsoft para colaboración'
+  description: 'Curso MS-300T03-A: Habilitación de equipos de Microsoft para colaboración'
+uid: course.ms-300t03
+courseNumber: 'MS-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planear una implementación de Microsoft 365 Teams
+- skill: Configurar Office 365 para equipos
+- skill: Configurar equipos y canales en Microsoft Teams
+- skill: Administrar el acceso de los usuarios a los equipos
+- skill: Configurar equipos para reuniones
+- skill: Establecer una estrategia de gobernanza de datos para los datos de los equipos
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Microsoft Teams es el centro del trabajo en equipo en Microsoft 365. En este curso aprenderá a planificar, implementar y administrar equipos de Microsoft. Específicamente, este curso trata la relación de los equipos con SharePoint, OneDrive y los grupos de Office 365. Proporciona las mejores prácticas para la adopción e implementación de equipos dentro de su organización. También cubre cómo establecer políticas de invitados y gobierno de datos para los datos de sus equipos.
+
+  Este curso está diseñado para profesionales de TI que administran e implementan equipos de Microsoft en su organización. 
+  
+  Este es el tercero de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300; Implementación de Microsoft 365 Teamwork.
+
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
+
+  El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
+
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  - Conocimientos básicos de Active Directory y Azure AD
+  - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS)
+  - Experiencia con Windows PowerShell
+outlineSection: |-
+  ### Módulo 1&#58; Planificar una implementación de Microsoft Teams
+  Este módulo tiene que ver con la planificación de los equipos de Microsoft.  Analiza cómo los usuarios se autenticarán para usar equipos y las mejores prácticas para implementar equipos en su organización.
+  #### Lecciones
+  - Comenzar con los equipos
+  - Desplegar equipos
+  - Equipos y canales
+  - Autenticación y acceso
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar cómo Teams interactúa con SharePoint Online, Exchange Online y OneDrive
+  - Describir los diferentes clientes de equipos y cómo se pueden usar
+  - Describir cómo preparar su red para el tráfico de equipos
+  - Describir los pasos de mejores prácticas para implementar Microsoft Teams
+  - Definir objetivos, riesgos y resultados clave para la implementación de sus equipos
+  - Describir las diferentes capacidades de los diferentes roles en los equipos
+  - Describir cómo se usan los equipos y canales para organizar el contenido en Microsoft Teams
+
+
+  ### Módulo 2&#58; Configurar Microsoft Teams
+  Este módulo explica cómo configurar y configurar Microsoft Teams.  Trata el uso de pestañas, bots y conectores en Teams.  Introduce conceptos relacionados con la gestión de reuniones en equipos.
+  #### Lecciones
+  - Configurar equipos de Microsoft en Office 365
+  - Aplicaciones en equipos de Microsoft
+  - Reuniones en equipos
+
+
+  #### Laboratorio &#58; Configurar Microsoft Teams
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar equipos de Microsoft en Office 365
+  - Describir y administrar aplicaciones en Microsoft Teams
+  - Utilizar bots y pestañas dentro de Teams
+  - Describir y usar conectores en equipos
+  - Describir conceptos de reuniones en equipos
+  - Describir los dispositivos disponibles para facilitar las reuniones en equipos
+
+
+  ### Módulo 3&#58; Gestionar el entorno de los equipos
+  Este módulo se centra en la gestión de equipos de Microsoft.  Específicamente, discutimos la seguridad y el cumplimiento, así como la privacidad y el gobierno de los datos.  Si bien este curso no cubre las llamadas de voz explícitamente, este módulo trata temas relacionados con la calidad del servicio.
+  #### Lecciones
+  - Privacidad y gobernanza
+  - Seguridad y cumplimiento
+  - Gestión e informes
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las funciones de seguridad y cumplimiento disponibles para los equipos
+  - Describir cómo se puede usar Microsoft Intune para proteger los datos de Teams en dispositivos móviles
+  - Realizar registros de auditoría y búsquedas de contenido para equipos
+  - Describir el enfoque de Microsoft para la privacidad de datos en Office 365
+  - Ver informes de Office 365 que miden el uso de Teams
+  - Habilitar la calidad de servicio para los equipos de Microsoft

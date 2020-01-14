@@ -1,0 +1,390 @@
+### YamlMime:Course
+title: Soluciones fundamentales de Skype Empresarial 2015
+metadata:
+  title: 'Curso 20334-C: Soluciones fundamentales de Skype Empresarial 2015/2019'
+  description: 'Curso 20334-C: Soluciones fundamentales de Skype Empresarial 2015/2019'
+uid: course.20334
+courseNumber: '20334-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir la arquitectura de Skype Empresarial y diseñe la topologia de Skype Empresarial
+- skill: Instalar e implementar el servidor de Skype Empresarial
+- skill: Administrar y gestionar el servidor de Skype Empresarial utilizando diversas herramientas disponibles.
+- skill: Diseñar e implementar clientes y usuarios en Skype Empresarial.
+- skill: Implementar conferencias en el servidor de Skype Empresarial.
+- skill: Diseñar e implementar opciones de conferencia adicionales.
+- skill: Diseñar e implementar el monitoreo y archivo en Skype Empresarial.
+- skill: Diseñar e implementar conectividad para usuarios externos y organizaciones.
+- skill: implementar la voz empresarial en el servidor de Skype Empresarial.
+- skill: Planificar e implemente alta disponibilidad en Skype Empresarial
+- skill: Diseñar e implementar escenarios de recuperación ante desastres en Skype Empresarial.
+- skill: Diseñe y implementar el híbrido de Skype Empresarial.
+- skill: Planificar e implementar una migración al servidor de Skype Empresarial 2019 o equipos de Microsoft.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-334
+summary: |-
+  Este curso proporciona a los estudiantes los conocimientos y habilidades necesarios para planificar, implementar, configurar y administrar una solución de Microsoft Skype Empresarial. Los estudiantes aprenderán cómo implementar una infraestructura de Skype Empresarial multisitio y de alta disponibilidad que admite mensajería instantánea (MI), conferencias, voz empresarial, archivo y monitoreo. Los estudiantes también aprenderán cómo administrar, mantener y solucionar problemas en la infraestructura.
+  
+  Este curso se centra principalmente en la implementación local de Skype Empresarial, pero incluye información sobre cómo integrar la implementación local con equipos o Skype Empresarial en línea, así como también cómo migrar desde versiones anteriores del servidor de Skype Empresarial . Este curso ayuda a los estudiantes a prepararse para el examen 70-334&#58; soluciones fundamentales de Skype Empresarial 2015.
+
+  #### Perfil de audiencia
+  La audiencia principal para este curso son los profesionales de tecnología de la información (TI) que son responsables de la implementación de Skype Empresarial en sus organizaciones. La experiencia con versiones anteriores es beneficiosa pero no es necesaria para los estudiantes que toman este curso. Los estudiantes deben dominar los Servicios de dominio de Active Directory (AD DS), las redes de datos y los estándares y componentes de telecomunicaciones que soportan la configuración de Skype Empresarial. Los estudiantes también deben estar familiarizados con Microsoft Exchange Server y Microsoft 365.
+  
+  La audiencia secundaria para este curso incluye profesionales de TI que planean tomar el examen 70- 334&#58; soluciones fundamentales para Skype Empresarial 2015 como un examen independiente o como parte del requisito para el examen de certificación de Microsoft Certified Solutions Expert (MCSE).
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que realicen este curso ya deben contar con los siguientes conocimientos técnicos&#58;
+  - Mínimo de dos años de experiencia en la administración del servidor Windows , incluido Windows Server 2016 o Windows Server 2019
+  - Mínimo de dos años de experiencia trabajando con AD DS
+  - Mínimo de dos años de experiencia trabajando con resolución de nombres, incluido el Sistema de nombres de dominio (DNS)
+  - Experiencia trabajando con certificados, incluidos los certificados de infraestructura de clave pública (PKI)
+  - Experiencia trabajando con Windows PowerShell
+  - Comprensión de las redes de datos y los estándares y componentes de telecomunicaciones.
+outlineSection: |-
+  ### Módulo 1&#58; Diseño y arquitectura del servidor de Skype Empresarial 2015
+  Este módulo describe los componentes y características de alto nivel de Skype Empresarial 2015. También describe cómo trabajar con las herramientas administrativas de Skype Empresarial, los componentes principales de Skype Empresarial en línea y la coexistencia con los servidores locales del servidor de Skype Empresarial 2015.
+  #### Lecciones
+  - Descripción general de los componentes y características de Skype Empresarial
+  - Introducción a las herramientas administrativas de Skype Empresarial
+
+
+  #### Laboratorio &#58; Diseño y publicación de la topologia del servidor de Skype Empresarial
+  - Diseño y creación de la topología.
+  - Actualización de la topología para el sitio de Nueva York
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los componentes y características de alto nivel de Skype Empresarial 2015.
+  - Trabajar con herramientas administrativas de Skype Empresarial.
+
+
+  ### Módulo 2&#58; Instalación e implementación del servidor de Skype Empresarial 2015
+  Este módulo explica las dependencias externas para el servidor de Skype Empresarial . Describe los requisitos de dominio del Protocolo de inicio de sesión (SIP) para garantizar un éxito Este módulo también explica cómo instalar el servidor de Skype Empresarial y describe cómo el servidor de Skype Empresarial se integra con el servidor de Exchange Server y Microsoft SharePoint.
+  #### Lecciones
+  - Dependencias de servidor y servicio
+  - Planificación de dominios SIP
+  - Instalación del servidor de Skype Empresarial.
+  - Integración del servidor Skype Empresarial con el servidor de Exchange y SharePoint.
+
+
+  #### Laboratorio &#58; Configuración de DNS y URL simples para el servidor de Skype Empresarial
+  - Configuración de los registros DNS necesarios y las URL simples para el servidor de Skype Empresarial
+
+
+  #### Laboratorio &#58; Implementación del servidor de Skype Empresarial
+  - Instalación y configuración del servidor de Skype Empresarial
+  - Instalación de certificados del servidor de Skype Empresarial
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Identificar las dependencias externas para el servidor Skype Empresarial Server 2015.
+  - Identificar los requisitos del dominio SIP para garantizar una implementación exitosa.
+  - Instalar el servidor de Skype Empresarial.
+  - Describir cómo se integra el servidor de Skype Empresarial con el servidor Exchange y SharePoint.
+
+
+  ### Módulo 3&#58; Administración del servidor de Skype Empresarial 2015
+  Este módulo explica cómo administrar y administrar el servidor de Skype Empresarial mediante el Panel de control del servidor de Skype Empresarial y la consola de administración del servidor de Skype Empresarial. También describe cómo crear scripts útiles de Skype Empresarial para automatizar procesos. Además, explica cómo implementar el control de acceso basado en roles (RBAC) en Skype Empresarial y cómo usar importantes cmdlets y herramientas de prueba para solucionar problemas de Skype Empresarial.
+
+  #### Lecciones
+  - Uso del panel de control del servidor de Skype Empresarial
+  - Uso de la consola de administración del servidor de Skype Empresarial
+  - Implementación de control de acceso basado en roles
+  - Uso de cmdlets de prueba
+  - Herramientas para solucionar problemas de Skype Empresarial
+
+
+  #### Laboratorio &#58; Uso de las herramientas administrativas para administrar el servidor de Skype Empresarial
+  - Instalación de las herramientas administrativas de Skype Empresarial en un cliente de Windows 10
+  - Uso del panel de control del servidor de Skype Empresarial
+  - Uso de la consola de administración del servidor de Skype Empresarial
+
+
+  #### Laboratorio &#58; Uso de las herramientas para la solución de problemas de Skype Empresarial
+  - Uso de cmdlets de la consola de administración del servidor de Skype Empresarial para crear una estructura RBAC.
+  - Uso del servicio de registro centralizado
+  - Ejecución de una captura de red utilizando Message Analyzer
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Uso el Panel de control del servidor de Skype Empresarial .
+  - Uso de la consola de administración del servidor de Skype Empresarial.
+  - Implementación de RBACK en Skype Empresarial 2015.
+  - Uso de importantes cmdlets de prueba.
+  - Uso de varias herramientas para solucionar problemas de Skype Empresarial.
+
+
+  ### Módulo 4&#58; Configuración de usuarios y clientes en Skype Empresarial 2015
+  Este módulo explica cómo configurar usuarios mediante el Panel de control del servidor de Skype Empresarial y la consola de administración del servidor de Skype Empresarial. Luego describe cómo implementar clientes de Skype Empresarial y explica el proceso de inicio de sesión, registro y autenticación para clientes de Skype Empresarial. También explica cómo configurar políticas en banda y políticas de grupo. Finalmente, explica cómo administrar la Libreta de direcciones de Skype Empresarial.
+
+  #### Lecciones
+  - Configuración de usuarios
+  - Implementación del cliente de Skype Empresarial
+  - Registro, inicio de sesión y autenticación
+  - Configuración de políticas de cliente de Skype Empresarial
+  - Administración de la libreta de direcciones de Skype Empresarial
+
+
+  #### Laboratorio &#58; Configuración de usuarios y clientes en Skype Empresarial 2015
+  - Habilitación de usuarios para Skype Empresarial mediante el uso de la consola de administración.
+  - Solución de problemas de inicio de sesión de usuario.
+
+
+  #### Laboratorio &#58; Configuración de políticas y libreta de las direcciones en el servido de Skype Empresarial
+  - Configuración de políticas del cliente
+  - Configuración de la libreta de direcciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar los usuarios mediante el Panel de control del servidor de Skype Empresarial y la
+  Consola de administración del servidor de Skype Empresarial.
+
+  - Implementar clientes de Skype Empresarial
+
+  - Explicar el proceso de registro, inicio de sesión y autenticación de Skype para clientes
+  de negocios.
+
+  - Configurar políticas en banda y políticas de grupo.
+
+  - Describir cómo se administra la libreta de direcciones de Skype Empresarial.
+
+
+  ### Módulo 5&#58; Configuración e implementación de conferencias en Skype Empresarial 2015
+  Este módulo describe las características y modalidades de conferencia de Skype Empresarial. Explica cómo integrar el servidor de Skype Empresarial 2015 con el servidor de Office en línea. También explica cómo planificar la utilización de la banda ancha en conferencias. Finalmente, explica cómo configurar los parámetros y políticas de conferencia.
+  #### Lecciones
+  - Introducción a conferencias en Skype Empresarial 2015.
+  - Integración del servidor de Skype Empresarial y el servidor en línea de Office.
+  - Planificación de ancho de banda.
+  - Configuración de los parámetros de conferencias.
+
+
+  #### Laboratorio &#58; Instalación y configuración del servidor en línea de Office
+  - Instalación del servidor en línea de Office
+
+
+  #### Laboratorio &#58; Configuración de conferencias en el servidor de Skype Empresarial
+  - Configuración, asignación y validación de políticas de conferencia
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características y modalidades de Skype Empresarial.
+
+  - Integrar el servidor de Skype Empresarial 2015 con el servidor de aplicaciones web de Office.
+
+  - Planificar la utilización de banda ancha en conferencias.
+
+  - Configurar las políticas y parámetros de las conferencias.
+
+
+  ### Módulo 6&#58; Implementar opciones adicionales de conferencias en el servidor de Skype Empresarial 2015
+  Este módulo describe el ciclo de vida de la conferencia y explica cómo administrarlo. Luego explica cómo utilizar las políticas de conferencia y reunión. También explica cómo implementar el acceso telefónico También explica cómo implementar conferencias de acceso telefónico local y configurar la infraestructura para SRS. Finalmente, explica cómo configurar grandes reuniones y la transmisión de reuniones de Skype.
+
+  #### Lecciones
+  - Descripción general del ciclo de vida de la conferencia
+  - Diseño y configuración de políticas de audio / video y conferencias web
+  - Implementación de conferencias de acceso telefónico local
+  - Configuración de un SRS
+  - Configuración de grandes reuniones y transmisiones de reuniones de Skype
+
+
+  #### Laboratorio &#58; Implementación y resolución de problemas de la política de conferencias
+  - Creación y edición de políticas de conferencia.
+  - Solución de problemas de políticas de conferencia
+
+
+  #### Laboratorio &#58; Configuración de modalidades adicionales de conferencia
+  - Implementación de conferencias de acceso telefónico local
+  - Preparación para la implementación de LRS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar el ciclo de vida de la conferencia.
+
+  - Configurar las políticas de conferencias y reuniones.
+
+  - Implementar conferencias de acceso telefónico local.
+
+  - Configure la infraestructura para Lync Room System (LRS).
+
+  - Configurar reuniones largas y difusión de reuniones de Skype.
+
+
+  ### Módulo 7&#58; Diseño e implementación de monitoreo y archivo en Skype Empresarial 2015
+  Este módulo describe los componentes del Servicio de supervisión del servidor de Skype Empresarial. Luego describe el archivo y explica cómo diseñar una política de archivo. Finalmente, explica cómo implementar el archivado.
+  #### Lecciones
+  - Componentes del Servicio de Monitoreo
+  - Descripción general del archivo
+  - Diseño de una política de archivo
+  - Implementación de archivo
+
+
+  #### Laboratorio &#58; Implementación de monitoreo
+  - Habilitación de informes de monitoreo
+
+
+  #### Laboratorio &#58; Implementación de archivos
+  - Habilitación del archivado del servicio de Skype Empresarial en el servidor de Microsoft Exchange 2013
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los componentes del servicio de monitoreo del servidor de Skype Empresarial.
+
+  - Implementar monitoreo.
+
+  - Diseñar una política de archivo.
+
+  - Implementar el archivado.
+
+
+  ### Módulo 8&#58; Implementación de Skype Empresarial 2015 Acceso externo
+  Este módulo describe los componentes para el acceso externo. Luego explica como configurar las políticas de acceso externo y seguridad, como configurar certificados, y como configurar proxy inverso. Además, este módulo describe cómo configurar el servidor de Skype Empresarial 2015 para clientes móviles. Finalmente, explica cómo diseñar y configurar la unión en el servidor de Skype Empresarial.
+  #### Lecciones
+  - Visión general de acceso externo.
+  - Configuración de las políticas de acceso externo y seguridad.
+  - Configuración de la red de acceso externo y certificados.
+  - Configuración del proxy inverso.
+  - Diseño de movilidad en el servido de Skype Empresarial.
+  - Diseño de la unión del servidor de Skype Empresarial.
+
+
+  #### Laboratorio &#58; Diseño e implementación del acceso de usuario externo
+  - Definición del servidor perimetral en la topología.
+  - Instalación y configuración del servidor perimetral.
+
+
+  #### Laboratorio &#58; Instalación de los componentes para los usuarios externos
+  - Instalación y configuración del proxy inverso.
+  - Validación de mensajería externa.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Identificar los componentes para el acceso externo.
+
+  - Configurar las políticas de acceso externo y seguridad.
+
+  - Configurar la red de acceso externo y certificados.
+
+  - Configurar proxy inverso.
+
+  - Configurar el servidor de Skype Empresarial 2015 para clientes móviles.
+
+  - Diseñar y configurar la unión en el servidor de Skype Empresarial.
+
+
+  ### Módulo 9&#58; Implementación de chat persistente en Skype Empresarial 2015
+  Este módulo explica cómo diseñar la topología de Skype Empresarial 2015 que incluye un chat persistente. Luego, explica cómo se despliega un chat persistente en Skype Empresarial. Finalmente, explica cómo configurar y gestionar el chat persistente.
+  #### Lecciones
+  - Diseño de la topología del servidor de un chat persistente.
+  - Despliegue del servidor de un chat persistente.
+  - Configuración y gestión de un chat persistente.
+
+
+  #### Laboratorio &#58; Diseño y despliegue del servidor de un chat persistente
+  - Configuración de la topología para el servidor de chat persistente
+  - Instalación del servidor de chat persistente
+  - Registro de un nuevo complemento
+
+
+  #### Laboratorio &#58; Configuración y uso del chat persistente
+  - Configuración de salas de chat y políticas
+  - Validación de una implementación de chat persistente
+  - Solución de problemas de chat persistente
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseñar una topología de Skype Empresarial que incluya chat persistente.
+
+  - Implementar el chat persistente en Skype Empresarial.
+
+  - Configurar y administrar el chat persistente en Skype Empresarial.
+
+
+  ### Módulo 10&#58; Implementación de alta disponibilidad en Skype Empresarial 2015
+  Este módulo describe cómo diseñar e implementar una solución de alta disponibilidad para servidores front-end y servidores back-end en un entorno del servidor de Skype Empresarial. También explica cómo diseñar e implementar una solución de alta disponibilidad para almacenes de archivos, servidores perimetrales, servidores de mediación, granjas de servidores de Office en línea y servidores proxy inversos en un entorno de servidor de Skype Empresarial.
+
+  #### Lecciones
+  - Planificación para la alta disponibilidad de la unión de la interfaz de usuarios.
+  - Planificación para la alta disponibilidad del servidor final.
+  - Alta disponibilidad para otros servidores de componentes.
+
+
+  #### Laboratorio &#58; Configuración pre-laboratorio
+  - Preparación para laboratorio
+
+
+  #### Laboratorio &#58; Implementación de alta disponibilidad
+  - Manejo de unión de interfaz de usuarios.
+  - Configuración del equilibrio de carga de hardware.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseñar e implementar una solución de alta disponibilidad para los servidores de la interfaz en un entorno
+  del servidor de Skype Empresarial.
+
+  - Diseñar e implementar una solución de alta disponibilidad para servidores finales en un entorno
+  del servidor de Skype Empresarial.
+
+  - Diseñar e implementar una solución de alta disponibilidad para el almacenamiento de archivos, servidor perimetral
+  Servidor de mediación, granjas de servidor en línea de Office, y los servidores de proxy inverso
+  En un entorno de servidor de Skype Empresarial.
+
+
+  ### Módulo 11&#58; Implementación de recuperación ante desastres en Skype Empresarial 2015
+  Este módulo describe las opciones de recuperación ante desastres en el servidor de Skype Empresarial, como el emparejamiento dela unión de la interfaz de usuarios y el conjunto ampliado del servidor del Chat Persistente. Luego explica como se implementa la recuperación ante desastres en el servidor de Skype Empresarial. Además, describe las opciones de recuperación ante desastres, almacenamiento de gestión central, servicio de información de ubicación (LIS) base de datos, y datos del usuario.
+  #### Lecciones
+  - Opciones de recuperación ante desastres en el servidor de Skype Empresarial.
+  - Implementación de recuperación ante desastres en el servidor de Skype Empresarial.
+  - Opciones de recuperación adicional ante desastres para el servidor de Skype Empresarial.
+
+
+  #### Laboratorio &#58; Implementación y ejecución de recuperación ante desastres
+  - Configuración de emparejamiento de uniones.
+  - Ejecución de transferencia por falla de uniones y recuperación tras error.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las opciones de recuperación ante desastres en el servidor de Skype Empresarial.
+
+  - Implementar la recuperación ante desastres en el servidor de Skype Empresarial
+
+  - Describir las opciones para la recuperación de desastres para chat persistente
+  Almacenamiento de gestión central, el servicio de información de ubicación (LIS) base de datos, y datos
+  del usuario.
+
+
+  ### Módulo 12&#58; Integración con Skype Empresarial en línea
+  Este módulo describe las características de Skype Empresarial en línea. Explica cómo preparar un entorno local para una implementación híbrida de Skype Empresarial. También explica cómo configurar una implementación híbrida de Skype Empresarial.
+  #### Lecciones
+  - Visión general de Skype Empresarial en línea.
+  - Preparación de una implementación híbrida para Skype Empresarial.
+  - Configuración de un entorno híbrido de Skype Empresarial.
+
+
+  #### Laboratorio &#58; Diseño de una implementación híbrida de Skype Empresarial
+  - Diseño de un entorno híbrido de Skype Empresarial.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características de Skype Empresarial en línea
+
+  - Preparar un entorno local para una implementación híbrida de Skype Empresarial.
+
+  - Configurar una implementación híbrida de Skype Empresarial.
+
+
+  ### Módulo 13&#58; Planificación e implementación de una actualización del servidor de Skype Empresarial 2015
+  Este módulo describe cómo planificar una migración en paralelo con el servidor Lync 2010 y el servidor Lync 2013 a un servidor de Skype Empresarial 2015. También explica cómo ejecutar una actualización in-situ del servidor Lync 2013 al servidor de Skype Empresarial.
+  #### Lecciones
+  - Descripción general de las rutas de actualización y migración.
+  - Migración de Skype Empresarial 2015.
+  - Actualización in situ del servidor de Skype Empresarial 2015.
+
+
+  #### Laboratorio &#58; ejecución de actualización in situ del servidor Lync 2013 al servidor de Skype Empresarial 2015
+  - Instalación de las herramientas administrativas de Skype Empresarial.
+  - Ejecución de la actualización in situ del servidor Lync 2013 al servidor de Skype Empresarial 2015.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las rutas de migración y actualizaciones compatibles para el servidor de
+  Skype Empresarial.
+
+  - Ejecutar una actualización in situ del servidor Lync 2013 al servidor de Skype Empresarial.
+
+  - Describir cómo gestionar la experiencia del usuario durante una actualización.

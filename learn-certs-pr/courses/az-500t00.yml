@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Tecnologías de Seguridad de Microsoft Azure
+metadata:
+  title: 'Curso AZ-500T00-A: Tecnologías de Seguridad de Microsoft Azure'
+  description: 'Curso AZ-500T00-A: Tecnologías de Seguridad de Microsoft Azure'
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir clasificaciones de datos especializadas en Azure.
+- skill: Identificar los mecanismos de protección de datos de Azure.
+- skill: -Implementar métodos de cifrado de datos de Azure
+- skill: Protocolos de Internet seguros y cómo implementarlos en Azure
+- skill: Describir los servicios y características de seguridad de Azure.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  En este curso los estudiantes obtendrán el conocimiento y
+  habilidades necesarias para implementar controles de seguridad, mantener la postura de seguridad,
+  e identificar y remediar vulnerabilidades mediante el uso de una variedad de seguridad
+  herramientas. El curso cubre encriptación y automatización, virtualización y nube.
+  Arquitectura N-tier.
+
+  #### Perfil de audiencia
+  Los estudiantes deben tener al menos un año de experiencia práctica asegurando las cargas de trabajo de Azure y experiencia con controles de seguridad para las cargas de trabajo en Azure.
+prerequisitesSection: |-  
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/es-es/learn/certifications/azure-administrator)
+outlineSection: |-
+  ### Módulo 1&#58; Identidad y acceso
+  #### Lecciones
+  - Configuración de Azure Active Directory para cargas de trabajo y suscripciones de Azure
+  - Configurar Azure AD Privileged Identity Management
+  - Configurar la seguridad para una suscripción de Azure
+  
+  ### Módulo 2&#58; protección de la plataforma
+  #### Lecciones
+  - Comprender la seguridad en la nube
+  - Construye una red
+  - Red segura
+  - Implementar la seguridad del host
+  - Implementar seguridad de plataforma
+  - Implementar seguridad de suscripción
+
+
+  ### Módulo 3&#58; Operaciones de seguridad
+  #### Lecciones
+  - Configurar servicios de seguridad
+  - Configure las políticas de seguridad mediante Azure Security Center
+  - Administrar alertas de seguridad
+  - Responder y solucionar problemas de seguridad
+  - Crear líneas de base de seguridad
+
+
+  ### Módulo 4&#58; Datos y aplicaciones
+  #### Lecciones
+  - Configurar políticas de seguridad para administrar datos
+  - Configurar la seguridad para la infraestructura de datos
+  - Configurar el cifrado para datos en reposo
+  - Comprender la seguridad de la aplicación
+  - Implemente seguridad para el ciclo de vida de la aplicación
+  - Aplicaciones seguras
+  - Configurar y administrar Azure Key Vault

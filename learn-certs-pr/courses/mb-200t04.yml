@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Prueba y despliegue de Power Platform'
+metadata:
+  title: 'Curso MB-200T04-A: Dynamics 365: Prueba y despliegue de Power Platform'
+  description: 'Curso MB-200T04-A: Dynamics 365: Prueba y despliegue de Power Platform'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Habilitar y actualizar aplicaciones de origen.
+- skill: Instalar aplicaciones de terceros.
+- skill: Configurar soluciones administradas y no administradas.
+- skill: Actualizar y fabricar soluciones.
+- skill: Distribuir soluciones.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform ayuda a las organizaciones a optimizar sus operaciones al automatizar las tareas de rutina y estandarizar las mejores prácticas. Esta capacitación proporciona una descripción general de alto nivel de las capacidades de Microsoft Dynamics 365 y Power Platform y proporciona una base para otras ofertas de capacitación de Microsoft Dynamics 365 y Power Platform.
+  
+  En este curso, nuestros expertos reconocidos a nivel mundial guían a los estudiantes a través de las soluciones de gestión y su implementación.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Familiaridad con las aplicaciones comerciales y el deseo de personalizarlas e implementarlas para los negocios.
+outlineSection: |-
+  ### Módulo 1&#58; Gestionar instancias y aplicaciones
+  En este módulo, los estudiantes aprenderán cómo habilitar y actualizar aplicaciones de terceros, instalar aplicaciones de terceros y configurarlas utilizando portales de administración.
+  #### Lecciones
+  - Visión general
+  - Administrar aplicaciones
+  - Resumen del módulo
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Habilitar y actualizar aplicaciones de origen
+  - Instalar aplicaciones de terceros
+
+
+  ### Módulo 2&#58; Administrar soluciones
+  En este módulo, los estudiantes aprenderán cómo crear, administrar e implementar soluciones.
+  #### Lecciones
+  - Conceptos de solución
+  - Planificación y creación de soluciones
+  - Trabajar con componentes de solución
+  - Distribuir soluciones
+  - Trabajar con soluciones administradas
+  - Resumen del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear, gestionar e implementar personalizaciones con soluciones
+
+
+  ### Módulo 3&#58; Consideraciones adicionales de implementación
+  En este módulo, los estudiantes aprenderán cómo configurar para dispositivos móviles e implementar componentes como Microsoft Flow.
+  #### Lecciones
+  - Configurar
+  - Configuración de configuración móvil
+  - Configuración móvil
+  - Resumen del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar para dispositivos móviles
+  - Implementar componentes
+
+
+  ### Módulo 4&#58; Documentación y pruebas
+  En este módulo, los estudiantes aprenderán cómo diseñar planes de prueba y realizar ajustes de rendimiento.
+  #### Lecciones
+  - Crear planes de prueba
+  - Prueba de interfaz de usuario
+  - Optimización y ajuste del rendimiento
+  - Documentación
+  - Comprometerse con el cliente
+  - Resumen del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear y usar planes de prueba
+  - Localizar herramientas de ajuste de rendimiento

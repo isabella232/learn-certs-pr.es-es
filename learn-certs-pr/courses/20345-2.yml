@@ -1,0 +1,283 @@
+### YamlMime:Course
+title: Diseño e implementación de Microsoft Exchange Server 2016/2019
+metadata:
+  title: 'Curso 20345-2-B: Diseño e implementación de Microsoft Exchange Server 2016/2019'
+  description: 'Curso 20345-2-B: Diseño e implementación de Microsoft Exchange Server 2016/2019'
+uid: course.20345-2
+courseNumber: '20345-2-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar las implementaciones de Exchange Server.
+- skill: Planificar e implementar el hardware, la virtualización, las bases de datos de los buzones y las carpetas públicas de Exchange Server.
+- skill: Planificar el transporte de mensajes en Exchange Server.
+- skill: los servicios de acceso de cliente en Exchange Server.
+- skill: Planificar e implementar los servicios de acceso de cliente en Exchange Server.
+- skill: Mantener Exchange Server utilizando Disponibilidad gestionada y Configuración de estado deseada (DSC).
+- skill: Planificar la seguridad de los mensajes y diseñar e implementar los Servicios de administración de derechos de Active Directory (AD RMS) y Microsoft Azure RMS en Exchange Server.
+- skill: Diseñar e implementar la retención y el archivo de mensajes.
+- skill: Diseñar e implementar políticas de prevención de pérdida de datos, retención local y exhibición de documentos electrónicos.
+- skill: Diseñar e implementa la coexistencia de mensajes entre las organizaciones de Exchange Server.
+- skill: Planificar e implementar la actualización de versiones anteriores de Exchange Server a Exchange Server 2019.
+- skill: Planificar una implementación híbrida de Exchange.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  Este curso proporciona a los administradores experimentados de Exchange Server el conocimiento para diseñar e implementar un entorno de mensajería de Exchange Server. El curso se nasa en cómo diseñar y configurar componentes avanzados en una implementación de Exchange Server, como resistencia del sitio, seguridad avanzada, cumplimiento, archivado y soluciones de descubrimiento, coexistencia con otras organizaciones de Exchange o Exchange en línea, y la migración desde versiones anteriores del servidor de Exchange. El curso también proporciona pautas, mejores prácticas y consideraciones que ayudarán a optimizar las implementaciones de Exchange Server.
+
+  #### Perfil de audiencia
+  La audiencia para este curso incluye profesionales de TI con experiencia en administradores de mensajes, arquitectos de mensajes o consultores. Este curso está diseñado para personas en un entorno empresarial que son responsables de diseñar e implementar soluciones de Exchange Server, incluidos los entornos que contienen versiones anteriores de Exchange Server o Exchange en línea. Se espera que los estudiantes que toman este curso tengan experiencia con Exchange Server 2019 o versiones anteriores de Exchange Server.
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que realicen este curso ya deben contar con los siguientes conocimientos técnicos&#58;
+   - Curso asistido 20345-1B&#58;Administración de Microsoft Exchange Server 2016/2019 o tener un conocimiento equivalente
+   - Mínimo de dos años de experiencia trabajando con cualquier versión de Exchange Server
+   - Mínimo de seis meses de experiencia trabajando con Exchange Server 2013 o Exchange Server 2016
+   - Mínimo de dos años de experiencia en la administración del sistema operativo Windows Server, incluido Windows Server 2016 o Windows Server 2019
+   - Mínimo de dos años de experiencia trabajando con los Servicios de dominio de Active Directory (AD DS)
+   - Mínimo de dos años de experiencia trabajando con resolución de nombres, incluido el Sistema de nombres de dominio (DNS)
+   - Experiencia trabajando con certificados, incluidos los certificados de infraestructura de clave pública (PKI)
+   - Experiencia trabajando con Windows PowerShell
+outlineSection: |-
+  ### Módulo 1&#58; Planificación de implementaciones de Exchange Server
+  Este módulo explica las características clave de Exchange Server y explica cómo reunir los requisitos empresariales. También explica cómo planificar una implementación de Exchange Server y la migración de mensajería unificada a Cloud Voicemail.
+  
+  #### Lecciones
+  - Nuevas características en Exchange Server 2019
+  - Recopilación de requisitos empresariales para una implementación de Exchange Server
+  - Planificación de una implementación de Exchange Server
+  - Planificación de la migración de mensajería unificada (UM) a Cloud Voicemail
+  
+  #### Laboratorio &#58; Planificación de implementaciones de Exchange Server 2019
+  - Evaluación de una infraestructura de mensajería existente.
+  - Identificación de requisitos
+  - Discusión &#58; Diseño de implementación para Exchange Server 2019
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las nuevas funciones en Exchange Server 2019.
+  - Describir cómo reunir los requisitos empresariales para una implementación de Exchange Server.
+  - Planificar una implementación de Exchange Server
+  - Planificar cómo migrar Exchange Server 2016 UM a Cloud Voicemail
+
+
+  ### Módulo 2&#58; Planificación e implementación de servicios de buzones de Exchange Server
+  Este módulo explica cómo planificar e implementar hardware de Exchange Server, virtualización de Exchange Server, integración de Azure y carpetas públicas.
+  #### Lecciones
+  - Planificación de los requisitos de hardware de Exchange Server
+  - Planificación de Exchange Server para virtualización e integración de Microsoft Azure
+  - Planificación e implementación de carpetas públicas.
+
+
+  #### Laboratorio &#58; Planificación e implementación de los servidores de buzones, base de datos, y carpetas públicas de Exchange Server.
+  - Planificación de la configuración y ubicación del servidor de buzones
+  - Planificación de bases de datos de buzones
+  - Implementación de bases de datos de buzones
+  - Planificación e implementación de carpetas públicas.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar e implementar hardware de Exchange Server
+  - Planificar la virtualización de Exchange Server y la integración de Microsoft Azure
+  - Planificar e implementar carpetas públicas
+
+
+  ### Módulo 3&#58; Planificación del transporte de mensajes
+  Este módulo explica cómo planificar e implementar el enrutamiento de correo interno, así como desde y hacia Internet. Este módulo también describe tareas relacionadas con el transporte en la organización.
+  #### Lecciones
+  - Diseño de enrutamiento de mensajes
+  - Diseño de servicios de transporte.
+  - Diseño del perímetro de enrutamiento de mensajes
+  - Diseño e implementación de cumplimiento de transporte
+
+
+  #### Laboratorio &#58; Planificación del transporte de mensajes
+  - Planificación para un transporte de mensajes redundante y seguro
+  - Planificación para el cumplimiento del transporte
+  - Implementación de cumplimiento de transporte
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseñar enrutamiento de mensajes
+  - Diseñar servicios de transporte
+  - Diseñar enrutamiento de mensajes externos
+  - Diseñar e implementar el cumplimiento del transporte
+
+
+  ### Módulo 4&#58; Planificación e implementación de acceso de clientes
+  Este módulo explica cómo planificar e implementar clientes de Exchange Server, acceso de clientes, Microsoft Office en línea Server y la coexistencia de Microsoft SharePoint con Exchange Server. También explica el diseño e implementación del acceso de clientes externos.
+  #### Lecciones
+  - Planificación para clientes de Exchange Server
+  - Planificación para el acceso del cliente
+  - Planificación e implementación de Office en línea Server
+  - Planificación e implementación de la coexistencia de SharePoint 2019 con Exchange Server 2019
+  - Diseño de acceso de cliente externo
+
+
+  #### Laboratorio &#58; Planificación e implementación de soluciones de acceso para el cliente
+  - Planificación y configuración de espacios de nombres
+  - Planificación y configuración de opciones de servicios de acceso de clientes
+  - Planificación e implementación de Office en línea Server
+  - Planificación e implementación de proxy inverso
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar para clientes de Exchange Server
+  - Planificar el acceso del cliente
+  - Planificar e implementar Office en línea Server
+  - Planificar e implementar SharePoint con la coexistencia de Exchange Server
+  - Diseñar el acceso de cliente externo
+
+
+  ### Módulo 5&#58; Diseño e implementación de alta disponibilidad.
+  Este módulo explica cómo planificar e implementar una alta disponibilidad para Exchange Server. También explica cómo planificar el equilibrio de carga. Finalmente, explica cómo planificar e implementar la resistencia del sitio.
+  #### Lecciones
+  - Planificación de alta disponibilidad para Exchange Server
+  - Planificación del equilibrio de carga.
+  - Planificación del equilibrio de carga.
+
+
+  #### Laboratorio &#58; Diseño e implementación de alta disponibilidad.
+  - Planificación de alta disponibilidad y resistencia del sitio
+  - Creación de un DAG resistente al sitio
+  - Validación de la resistencia del sitio
+  - Creación de una copia de base de datos retrasada
+  - Recuperación de datos de una copia de base de datos retrasada
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar la alta disponibilidad para un servidor de Exchange
+  - Planificar el equilibrio de carga en una implementación de Exchange Server
+  - Planificar la resistencia del sitio en una implementación de Exchange Server
+
+
+  ### Módulo 6&#58; Mantenimiento de Exchange Server
+  Este módulo explica cómo mantener Exchange Server utilizando Managed Availability y DSC.
+  #### Lecciones
+  - Uso de disponibilidad gestionada para mejorar la alta disponibilidad
+  - Implementación de DSC
+
+
+  #### Laboratorio &#58; Mantenimiento de Exchange Server
+  - Uso de Windows PowerShell para investigar y configurar la disponibilidad administrada.
+  - Implementación de DSC
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Utilizar la disponibilidad administrada para mejorar la alta disponibilidad
+  - Implementar DSC
+
+
+  ### Módulo 7&#58; Diseño seguridad de mensajería
+  Este módulo explica cómo planificar la seguridad de la mensajería y cómo diseñar e implementar AD RMS y Azure RMS en una organización de Exchange Server.
+  #### Lecciones
+  - Planificación de seguridad de mensajería
+  - Diseño e implementación de AD RMS y Azure RMS
+
+
+  #### Laboratorio &#58; Diseño de seguridad de mensajería
+  - Planificación de seguridad de mensajería
+  - Implementación de AD, RMS
+  - Integración de AD, RMS con Exchange Server
+  - Creación de una regla de transporte de mensajes para proteger el correo electrónico
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar la seguridad de mensajería
+  - Diseñar e implementar de AD RMS y Azure RMS
+
+
+  ### Módulo 8&#58; Diseño e implementación de la retención y el archivo de mensajes
+  Este módulo explica el propósito del archivo y la gestión de registros de mensajes. También explica cómo diseñar e implementar el archivo local y la retención de mensajes.
+  #### Lecciones
+  - Descripción general de la gestión de archivos y mensajes
+  - Diseño de archivo in situ
+  - Diseño e implementación de retención de mensajes.
+
+
+  #### Laboratorio &#58; Diseño e implementación de la retención y el archivo de mensajes
+  - Diseño de retención y archivo de mensajes
+  - Implementación de retención de mensajes y archivo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar el propósito del archivo y la gestión de registros de mensajes
+  - Diseñar e implementar el archivo in situ
+  - Diseñar e implementar la retención de mensajes.
+
+
+  ### Módulo 9&#58; Diseño e implementación de cumplimiento de mensajería
+  Este módulo explica cómo diseñar e implementar políticas de prevención de pérdida de datos, retención local y exhibición de documentos electrónicos local.
+  #### Lecciones
+  - Diseño e implementación de políticas de prevención de pérdida de datos.
+  - Diseño e implementación de retención in situ
+  - Diseño e implementación de eDiscovery in situ
+
+
+  #### Laboratorio &#58; Diseño e implementación de cumplimiento de mensajería
+  - Diseño de cumplimiento de mensajería
+  - Implementación de prevención de pérdida de datos
+  - Implementación de eDiscovery en el lugar
+  - Comparación de la política de mensajería y las opciones de cumplimiento
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseñar e implementar datos de prevención
+  - Diseñar e implementar un soporte in situ
+  - Diseñar e implementar la exhibición de documentos electrónicos local
+
+
+  ### Módulo 10&#58; Diseño e implementación de la coexistencia de mensajería
+  Este módulo explica cómo diseñar e implementar la federación. También explica cómo diseñar la coexistencia entre organizaciones de Exchange Server. Finalmente, explica cómo diseñar e implementar movimientos de buzones Cross-forest
+  #### Lecciones
+  - Diseño e implementación de federación
+  - Diseño de la coexistencia entre organizaciones de intercambio
+  - Diseño e implementación de movimientos de buzones cross-forest
+
+
+  #### Laboratorio &#58; Implementación de coexistencia de mensajería
+  - Implementación de la coexistencia de enrutamiento de mensajes
+  - Migración de buzones de usuario
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseñar e implementar federación
+  - Diseñar la coexistencia entre organizaciones de Exchange Server
+  - Diseñar e implementar movimientos de buzones cross-forest
+
+
+  ### Módulo 11&#58; Actualización a Exchange Server 2019
+  Este módulo proporciona una descripción general de las opciones que tiene al elegir implementar Exchange Server 2019, y proporciona detalles sobre cómo actualizar una organización existente de Exchange Server 2013 o Exchange Server 2016 a Exchange Server 2019
+  #### Lecciones
+  - Planificación de una actualización de versiones anteriores de Exchange Server
+  - Implementación de la actualización de versiones anteriores de Exchange Server
+
+
+  #### Laboratorio &#58; Actualización de Exchange Server 2013 a Exchange Server 2019
+  - Documentación la organización de Exchange Server 2013
+  - Implementación de Exchange Server 2019
+  - Actualización de Exchange Server 2013 a Exchange Server 2019
+  - Eliminación de Exchange Server 2013
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar una actualización a Exchange Server 2019
+  - Implementar la actualización a Exchange Server 2019
+
+
+  ### Módulo 12&#58; Planificación de una implementación híbrida de Exchange Server
+  Este módulo explica los conceptos básicos de una implementación híbrida y cómo planificar la autenticación en una implementación híbrida. También explica cómo implementar Microsoft Azure Active Directory (Azure AD) Connect, un desarrollo híbrido y una funcionalidad avanzada para implementaciones híbridas.
+  #### Lecciones
+  - Conceptos básicos de una implementación híbrida
+  - Planificación e implementación de una implementación híbrida
+  - Implementar Azure AD Connect
+  - Implementación de una implementación híbrida
+  - Implementación de funcionalidad avanzada para implementaciones híbridas
+
+
+  #### Laboratorio &#58; Planificación de una implementación híbrida de Exchange
+  - Creación de un plan para la implementación híbrida de Exchange
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar los conceptos básicos de una implementación híbrida.
+  - Planificar la autenticación en un entorno híbrido.
+  - Implementar Azure AD Connect
+  - Ejecutar una implementación híbrida
+  - Implementar una funcionalidad avanzada para implementaciones híbridas

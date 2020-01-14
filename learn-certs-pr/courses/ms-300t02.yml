@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: Administrar SharePoint Online
+metadata:
+  title: 'Curso MS-300T02-A: Administrar SharePoint Online'
+  description: 'Curso MS-300T02-A: Administrar SharePoint Online'
+uid: course.ms-300t02
+courseNumber: 'MS-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir cómo configurar las propiedades del perfil de usuario
+- skill: Describir cómo administrar audiencias
+- skill: Describir cómo usar el Catálogo de aplicaciones para crear aplicaciones personalizadas
+- skill: Crear y administrar grupos de términos, conjuntos de términos y términos
+- skill: Describir la diferencia entre las experiencias de búsqueda modernas y clásicas.
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  En este curso aprenderá cómo administrar perfiles de usuario y aplicaciones con la configuración de permisos adecuada. También trataremos sobre cómo planear y configurar Metadatos Administrados, Servicios de Conectividad Empresarial, y buscar permitiendo que el contenido sea encontrado, consumido y gobernado en Office 365.
+
+  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización.
+
+  Este es el segundo de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300; Implementación de Microsoft 365 Teamwork.
+
+  #### Perfil de audiencia
+  Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
+
+  El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos. 
+  
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  - Experiencia con Windows PowerShell
+  - Conocimientos básicos de Active Directory y Azure AD
+  - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS)
+outlineSection: |-
+  ### Módulo 1&#58; Administrar perfiles de usuario y aplicaciones
+  Este módulo trata sobre perfiles de usuario y personalización en SharePoint Online. Explica cómo administrar los perfiles de usuario en SharePoint Online. También describir cómo usar el Catálogo de aplicaciones para hacer que las aplicaciones comerciales personalizadas estén disponibles para su SharePoint Online.
+  #### Lecciones
+  - Administrar perfiles de usuario
+  - Planificar y configurar personalizaciones y aplicaciones.
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo configurar las propiedades del perfil de usuario
+  - Describir cómo administrar audiencias
+  - Describir cómo usar el Catálogo de aplicaciones para crear aplicaciones personalizadas
+
+
+  ### Módulo 2&#58; Planificar y configurar metadatos gestionados y conectividad empresarial
+  Este módulo trata sobre los servicios de metadatos gestionados y conectividad empresarial. Introduce los conceptos de metadatos administrados, así como el proceso para importar conjuntos de términos. También describir cómo administrar los Servicios de conectividad empresarial y crear listas externas.
+  #### Lecciones
+  - Planificar y configurar metadatos gestionados
+  - Planificar y configurar los Servicios de conectividad empresarial (BCS) y el Servicio de almacenamiento seguro
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las funciones de los metadatos gestionados
+  - Crear y administrar grupos de términos, conjuntos de términos y términos
+  - Explicar los componentes clave de un modelo BDC
+  - Describir la arquitectura de alto nivel de BCS
+  - Explicar el propósito del Servicio de almacenamiento seguro
+
+
+  ### Módulo 3&#58; Planificar y configurar búsqueda
+  Este módulo trata sobre la aplicación de servicio de búsqueda empresarial. Proporciona detalles sobre la planificación y configuración de fuentes de contenido, cronogramas de rastreo y reglas de rastreo. También se analiza cómo proporcionar administración de búsqueda de una gama de componentes de búsqueda, como Reglas de consulta, Tipos de resultados y Plantillas de visualización.
+  #### Lecciones
+  - Descripción general de la búsqueda en SharePoint Online
+  Administrar la búsqueda
+
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la diferencia entre las experiencias de búsqueda modernas y clásicas
+  - Describir cómo planificar y configurar las fuentes de contenido
+  - Describir cómo administrar el esquema de búsqueda
+  - Explicar el uso y la implementación de las reglas de consulta
+  - Explicar el uso y la implementación de la fuente de resultados
+
+
+  ### Módulo 4&#58; Conclusión del curso
+
+  #### Laboratorio &#58; Importar conjuntos de términos

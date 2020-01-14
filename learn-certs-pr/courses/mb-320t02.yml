@@ -1,0 +1,150 @@
+### YamlMime:Course
+title: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations
+metadata:
+  title: 'Curso MB-320T02-A: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations'
+  description: 'Curso MB-320T02-A: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations'
+uid: course.mb-320t02
+courseNumber: 'MB-320T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente. 
+
+  Este curso trata sobre cómo configurar y usar la fabricación ajustada en Dynamics 365 for Finance and Operations.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Comenzar con producción ajustada
+  Este tema explica cómo comenzar con la fabricación ajustada en Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Conceptos y terminología
+  - Resumen del módulo
+
+
+  En esta lección, los estudiantes aprendieron a&#58;
+  - Comprender la producción ajustada
+  - Comprender los conceptos y la terminología de Lean
+
+
+  ### Módulo 2&#58; Configurar producción ajustada
+  Este tema explica cómo configurar la fabricación ajustada en Finance and Operations. Un escenario de manufactura esbelta generalmente es más que una acumulación de reglas Kanban no relacionadas o políticas de suministro de material. El flujo de material y productos a través de las celdas de trabajo y las ubicaciones para un escenario específico de producción o suministro puede describirse como una secuencia o pequeña red de actividades de proceso o transferencia, llamada flujo de producción. Los flujos de producción basados en actividades se introducen en Finance and Operations para establecer un contexto de producción y costo para varios escenarios de Kanban. Todas las reglas de Kanban están directamente conectadas a esta estructura predefinida. El modelo basado en actividades permite a los usuarios configurar una gama más amplia de escenarios que los respaldados por versiones anteriores de Lean Manufacturing para Finance and Operations, sin agregar complejidad para los trabajadores del taller porque todos los escenarios usan la misma interfaz de usuario basada en actividades.
+  #### Lecciones
+  - Introducción
+  - Configurar parámetros
+  - Crear flujos de valor y modelos de flujo de producción
+  - Crear flujos de producción
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En este módulo, los estudiantes aprendieron a&#58;
+  - Configurar parámetros
+  - Configurar flujos de valor
+  - Crear flujos de producción
+  - Configurar celdas de trabajo de producción ajustada
+
+
+  ### Módulo 3&#58; Crear y procesar reglas Kanban fijas
+  En Dynamics 365 for Finance and Operations, un Kanban se implementa como un marco para planificar, rastrear y procesar en base a señales Pull. Un Kanban es una parte esencial de un sistema de suministro pull, que es un elemento crítico de la producción/suministro Lean. Cuando se ha consumido un Kanban, se debe pasar (disparar) a la fuente de suministro para reponerlo. Esta fuente de suministro se define a través de las actividades de flujo de producción a las que está vinculado el Kanban. Las reglas de Kanban en Finance and Operations están vinculadas a los flujos de producción como la base que define las actividades de un Kanban. Las reglas de Kanban se pueden configurar para admitir una variedad de escenarios de fabricación a pedido y fabricación a pedido.
+  #### Lecciones
+  - Introducción
+  - Paneles Kanban
+  - Configurar una regla Kanban fija
+  - Procesar Kanbans fijos
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  Los estudiantes entendieron una descripción general de los Kanbans y los tipos Kanban, y aprendieron cómo configurar y procesar las reglas Kanban Fijas.
+
+
+  Los estudiantes aprendieron a configurar y trabajar con&#58;
+  - Reglas Kanban
+  - Kanbans de fabricación
+  - Kanbans de transporte
+  - Cantidad fija de Kanbans
+
+
+  ### Módulo 4&#58; Crear y procesar reglas de Kanban de eventos
+  En este módulo, tratamos los kanbans de eventos y las diferentes formas de activarlos.
+  #### Lecciones
+  - Introducción
+  - Configurar reglas de Kanban de eventos
+  - Configurar eventos de línea de ventas, Kanban, reposición de stock y lista de materiales
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  Los estudiantes aprendieron a configurar y procesar las reglas de Kanban de eventos.
+
+
+  Los estudiantes aprendieron a configurar y trabajar con&#58;
+  - Reglas Kanban
+  - Kanbans de fabricación
+  - Kanbans de transporte
+  - Crear y administrar el evento de línea de ventas Kanban
+  - Crear y administrar el evento de línea de lista de materiales Kanban
+  - Los estudiantes también entienden escenarios de muestra para procesos de Kanbans de eventos y diferentes tipos de Kanban de eventos.
+
+
+  ### Módulo 5&#58; Crear y procesar reglas Kanban programadas
+  Las órdenes planificadas de tipo Kanban se crean según la regla de Kanban y siguen la lógica y los horizontes estándar de Planificación maestra. La configuración de cobertura de elementos de Planificación maestra determina cómo se crean las órdenes planificadas y si se firman automática o manualmente. En este módulo discutimos el Kanban programado en Dynamics 365 para Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Configurar reglas Kanban programadas
+  - Comprender los cálculos de cantidad de Kanban y los Kanbans de circulación
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  Los estudiantes aprendieron a configurar y trabajar con&#58;
+  - Reglas Kanban
+  - Kanbans de fabricación
+  - Kanbans de transporte
+  - Crear y administrar Kanban programado
+  - Calendario de suministros
+  - Cálculos de cantidad Kanban
+
+
+  ### Módulo 6&#58; Configurar la subcontratación basada en actividades y los costos de flujo de producción
+  El principio básico de un flujo de producción no cambia cuando las actividades se subcontratan usando Finance and Operations; el material aún fluye entre ubicaciones, las actividades de proceso convierten el material en productos y las actividades de transferencia mueven material o productos de una ubicación a otra. En Dynamics 365 for Finance and Operations, existen dos enfoques para la subcontratación&#58; órdenes de producción y fabricación ajustada. El primer enfoque modela el trabajo de subcontratación como un servicio relacionado con una actividad de un flujo de producción. Es necesario configurar un tipo de grupo de costos, la subcontratación directa, para que los servicios de subcontratación no formen parte de una lista de materiales. La contabilidad de costos del trabajo subcontratado está completamente integrada en los nuevos costos de fabricación en Microsoft Dynamics 365 para Finance and Operations.
+  #### Lecciones
+  - Introducción
+  - Configurar la subcontratación basada en actividades
+  - Comprender el costo del flujo de producción
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+
+  En esta lección, los estudiantes aprendieron cómo&#58;
+  - Configurar la subcontratación basada en actividades
+  - Configurar la programación de producción y la subcontratación
+  - Designar vendedores como subcontratistas
+  - Configurar el costeo del flujo de producción
+
+
+  ### Módulo 7&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+
+  Los estudiantes habrán completado el curso.

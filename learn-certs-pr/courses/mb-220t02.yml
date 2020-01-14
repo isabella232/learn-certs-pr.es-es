@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: Configurar eventos y encuestas en Dynamics 365 for Marketing
+metadata:
+  title: 'Curso MB-220T02-A: Configurar eventos y encuestas en Dynamics 365 for Marketing'
+  description: 'Curso MB-220T02-A: Configurar eventos y encuestas en Dynamics 365 for Marketing'
+uid: course.mb-220t02
+courseNumber: 'MB-220T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar y administrar capacidades de planificación de eventos
+- skill: Crear mensajes de eventos, personalizar el portal de eventos y administrar registros e inscripciones
+- skill: Diseñar, configurar y distribuir encuestas
+- skill: Revisar y comprender información sobre eventos y encuestas
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Los eventos, seminarios web y encuestas son a menudo una parte crucial de cómo una organización de marketing llega a los clientes. Los eventos y seminarios web contienen muchas partes móviles y pueden ser complejos de administrar. Dynamics 365 for Marketing simplifica este proceso al reunir todos los datos de planificación en una ubicación central y al proporcionar canales de ejecución a través de un portal de eventos personalizable. Las encuestas a menudo se proporcionan después del evento, pero también se pueden utilizar durante todo el ciclo de vida del marketing para solicitar comentarios. A través de la solución Voz del cliente de Microsoft, las encuestas son fáciles de configurar, administrar, ejecutar y asociar a un evento.
+
+  Este curso cubrirá la planificación de eventos, incluida la configuración y administración de sesiones, oradores, pases, listas de espera, lugares, patrocinadores, proveedores, logística y alojamiento; así como la ejecución de eventos, como crear campos de registro personalizados, administrar registros y registros, y el portal de eventos; entonces el curso cubrirá la creación y distribución de encuestas. Finalmente, concluirá con los resultados del evento y la encuesta.
+
+  Aprenda toda la funcionalidad de eventos y encuestas dentro de Dynamics 365 for Marketing a través de demostraciones personalizadas, consulte sus preguntas de conocimiento y laboratorios de aprendizaje prácticos.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para profesionales de TI o marketing que desean aprender a aprovechar Dynamics 365 for Marketing para empresas.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Una comprensión de los conceptos básicos de Dynamics 365 y el conocimiento de los principios, estrategias y procedimientos de marketing.
+outlineSection: |-
+  ### Módulo 1&#58; Eventos
+  En este módulo, los estudiantes aprenderán cómo administrar la planificación y ejecución de eventos en Dynamics 365 for Marketing.
+  #### Lecciones
+  - Gestionar la planificación de eventos
+  - Administrar la ejecución de eventos
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear eventos en persona y seminarios web
+  - Configurar funciones de planificación de eventos como sesiones, oradores, pases para eventos, listas de espera, lugares y patrocinadores.
+  - Crear y gestionar eventos recurrentes
+  - Crear campos de registro personalizados
+  - Crear mensajes salientes de eventos
+  - Configurar y administrar el portal de eventos, el registro y la funcionalidad de registro
+
+
+  ### Módulo 2&#58; Voz del cliente
+  En este módulo, los estudiantes revisarán cómo configurar, diseñar y distribuir encuestas de Voz del Cliente en Dynamics 365 for Marketing.
+  #### Lecciones
+  - Crear encuestas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear un tema de encuesta reutilizable
+  - Crear, diseñar, previsualizar y publicar una encuesta
+  - Aprender a distribuir una encuesta a través de Dynamics 365 para canales de marketing
+  - Clonar, importar, traducir, cerrar, detener o eliminar una encuesta
+
+
+  ### Módulo 3&#58; Resultados
+  En el módulo de Resultados, los estudiantes revisarán el evento de marketing y la información de la encuesta.
+  #### Lecciones
+  - Revisar eventos y resultados de encuestas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Utilizar el panel de eventos para evaluar el resultado de los eventos.
+  - Ver los resultados de las encuestas

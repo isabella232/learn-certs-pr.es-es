@@ -1,0 +1,117 @@
+### YamlMime:Course
+title: Implementar la infraestructura de aplicaciones
+metadata:
+  title: 'Curso AZ-400T05-A: Implementar la infraestructura de aplicaciones'
+  description: 'Curso AZ-400T05-A: Implementar la infraestructura de aplicaciones'
+uid: course.az-400t05
+courseNumber: 'AZ-400T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aplicar infraestructura y configuración como principios de código
+- skill: Implementar y administrar la infraestructura con las tecnologías de automatización de Microsoft, como las plantillas ARM, PowerShell y la CLI de Azure
+- skill: Describir los modelos y servicios de implementación que están disponibles con Azure.
+- skill: Implementar y configurar un clúster de Kubernetes administrado
+- skill: Implementar y configurar la infraestructura con herramientas y servicios de terceros con Azure, como Chef, Puppet, Ansible, SaltStack y Terraform
+- skill: Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiadas para una tubería de lanzamiento y una infraestructura de aplicación.
+- skill: Implementar cumplimiento y seguridad en la infraestructura de su aplicación
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona conocimientos y habilidades para implementar una infraestructura de aplicaciones en las canalizaciones de DevOps. Los estudiantes aprenderán cómo implementar infraestructura como gestión de código y configuración, cómo aprovisionar infraestructura de Azure usando herramientas de automatización comunes y cómo implementar una infraestructura de aplicaciones usando diversos servicios de Azure y metodologías de implementación. Los estudiantes también aprenderán cómo integrar herramientas de implementación de terceros con Azure, como Chef y Puppet, para incorporar el cumplimiento y la seguridad en la tubería de lanzamiento.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en implementar la infraestructura de la aplicación y la administración y configuración de esa infraestructura, o en aprobar el examen de certificación de Microsoft Azure DevOps Solutions.
+prerequisitesSection: |-
+  Los estudiantes deben tener conocimientos fundamentales sobre Azure, experiencia con máquinas virtuales y contenedores, y cierta exposición a la automatización y las secuencias de comandos.
+  
+  La experiencia de trabajar en un entorno de desarrollo de software u operaciones con Windows o Linux sería útil, pero no es esencial.
+  
+  Los estudiantes también deben tener conocimiento de los procesos generales de desarrollo y despliegue de aplicaciones.
+outlineSection: |-
+  ### Módulo 1&#58; Infraestructura y configuración de Azure Tools
+  #### Lecciones
+  - Objetivos de aprendizaje
+  - Infraestructura como código y gestión de configuración
+  - Creación de recursos de Azure con plantillas ARM
+  - Creación de recursos de Azure con la CLI de Azure
+  - Creación de recursos de Azure con Azure PowerShell
+  - Herramientas de automatización adicionales
+  - Control de versiones
+  - Implementación de laboratorio en Azure usando plantillas ARM
+  - Preguntas de revisión del módulo
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Aplicar infraestructura y configuración como principios de código
+  - Implementar y administrar infraestructura utilizando tecnologías de automatización de Microsoft como plantillas ARM, PowerShell y CLI de Azure
+
+  ### Módulo 2&#58; Modelos y servicios de implementación de Azure
+  #### Lecciones
+  - Objetivos de aprendizaje
+  - Modelos y opciones de implementación
+  - Servicios de infraestructura como servicio de Azure (IaaS)
+  - Automatización de Azure con DevOps
+  - Configuración de estado deseada (DSC)
+  - Servicios de plataforma como servicio de Azure (PaaS)
+  - Azure Service Fabric
+  - Lab Azure Automation&#58; implementación de IaaS o PaaS
+  - Preguntas de revisión del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los modelos y servicios de implementación que están disponibles con Azure.
+
+
+  ### Módulo 3&#58; Crear y administrar la infraestructura de servicio de Kubernetes
+  #### Lecciones
+  - Objetivos de aprendizaje
+  - Servicio Azure Kubernetes
+  - Lab Deploy y Scale AKS Cluster
+  - Preguntas de revisión del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar y configurar un clúster de Kubernetes administrado
+
+
+  ### Módulo 4&#58; Herramientas de terceros y y de código abierto disponibles con Azure
+  #### Lecciones
+  - Objetivos de aprendizaje
+  - Chef
+  - Puppet
+  - Ansible
+  - Cloud-Init
+  - Terraform
+  - Provisión de laboratorio y configuración de una aplicación en Azure con X
+  - Preguntas de revisión del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar y configurar la infraestructura con herramientas y servicios de terceros con Azure, como Chef, Puppet, Ansible, SaltStack y Terraform
+
+
+  ### Módulo 5&#58; Implementar cumplimiento y seguridad en su infraestructura.
+  #### Lecciones
+  - Principios de seguridad y cumplimiento con DevOps
+  - Centro de seguridad de Azure
+  - Laboratorio Integre una extensión o herramienta de escaneo en un centro de seguridad / canalización de Azure DevOps
+  - Preguntas de revisión del módulo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiadas para una tubería de lanzamiento y una infraestructura de aplicación
+  - Implementar cumplimiento y seguridad en la infraestructura de su aplicación
+
+
+  ### Módulo 6&#58; Finalizacion del curso
+  #### Lecciones
+  - Examen final

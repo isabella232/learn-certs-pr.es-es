@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Crear e Implementar aplicaciones
+metadata:
+  title: 'Curso AZ-300T04-A: Crear e Implementar aplicaciones'
+  description: 'Curso AZ-300T04-A: Crear e Implementar aplicaciones'
+uid: course.az-300t04
+courseNumber: 'AZ-300T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Uso de comandos shell para crear una aplicación web del servicio de aplicaciones
+- skill: Crear tareas de fondo
+- skill: Uso de Swagger para documentar una API
+- skill: Crea un servicio confiable
+- skill: Crear una aplicación de actores confiables
+- skill: Práctico con colecciones confiables
+- skill: Comprender el registro de contenedor de Azure
+- skill: Usar instancias de Azure Container
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Este curso enseña a los profesionales de TI cómo crear soluciones de aplicaciones lógicas que integren aplicaciones, datos, sistemas y servicios en empresas u organizaciones mediante la automatización de tareas y procesos comerciales como flujos de trabajo. Logic Apps es el servicio en la nube en Azure que simplifica la forma de diseñar y crear soluciones escalables para la integración de aplicaciones, integración de datos, integración de sistemas, integración de aplicaciones empresariales (EAI) y comunicación de empresa a empresa (B2B), ya sea en la nube, en locales, o ambos.
+  
+  Los estudiantes también verán cómo Azure Service Fabric es una plataforma de sistemas distribuidos que facilita el empaquetado, la implementación y la administración de microservicios y contenedores escalables y confiables. Service Fabric también aborda los desafíos importantes en el desarrollo y la administración de aplicaciones nativas en la nube. Los desarrolladores y administradores pueden evitar problemas complejos de infraestructura y centrarse en implementar cargas de trabajo exigentes y de misión crítica que sean escalables, confiables y manejables. Service Fabric representa la plataforma de próxima generación para construir y administrar estas aplicaciones de nivel empresarial, escala 1 en la nube que se ejecutan en contenedores.
+  
+  Por último, verá cómo Azure Kubernetes Service (AKS) simplifica la implementación de un clúster de Kubernetes administrado en Azure. AKS reduce la complejidad y la sobrecarga operativa de administrar Kubernetes al descargar gran parte de esa responsabilidad en Azure. Como un servicio alojado de Kubernetes, Azure maneja tareas críticas como la supervisión y el mantenimiento del estado por usted.
+
+  #### Perfil de audiencia
+  Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
+outlineSection: |-
+  ### Módulo 1&#58; Crear aplicaciones web usando PaaS
+  Este módulo proporciona una descripción general de las aplicaciones web de Azure App Service para hospedar aplicaciones web, API REST Los temas incluyen lo siguiente&#58;utilizando comandos de shell para crear una aplicación web de App Service&#58; crear tareas en segundo plano&#58; usando Swagger para documentar una API&#58; así como una explicación de cómo las aplicaciones lógicas ayudan a crear soluciones que integran aplicaciones, datos, sistemas y servicios en empresas u organizaciones mediante la automatización de tareas y procesos comerciales
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Utilice los comandos de shell para crear una aplicación web del Servicio de aplicaciones
+  - Crear tareas de fondo
+  - Uso de Swagger para documentar una API
+
+
+  ### Módulo 2&#58; Crear aplicaciones y servicios que se ejecutan en Service Fabric
+  Este módulo proporciona una descripción general de Azure Service Fabric como una plataforma de sistemas distribuidos que facilita el empaquetado, la implementación y la administración de microservicios escalables y confiables. Este módulo también aborda los desafíos en el desarrollo y la administración de aplicaciones nativas en la nube.
+  Los temas adicionales incluyen&#58;crear un servicio confiable&#58; crear una aplicación de actores confiables&#58; y trabajando con colecciones confiables.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crea un servicio confiable
+  - Crear una aplicación de actores confiables
+  - Práctico con colecciones confiables
+
+
+  ### Módulo 3&#58; Uso del servicio Azure Kubernetes Este módulo se centra en Azure
+  Servicio Kubernetes (AKS) para implementar y administrar un clúster Kubernetes en Azure Los temas incluyen cómo reducir la sobrecarga operativa de la administración de Kubernetes al descargar gran parte de esa responsabilidad a Azure, como la supervisión y el mantenimiento del estado.
+  Los temas adicionales incluyen&#58;Azure Container Registry y Azure Container Instances.
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender el registro de contenedor de Azure
+  - Usar instancias de Azure Container

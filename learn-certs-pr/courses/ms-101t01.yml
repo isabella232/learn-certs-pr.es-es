@@ -1,0 +1,69 @@
+### YamlMime:Course
+title: Microsoft 365 Security Management
+metadata:
+  title: 'Curso MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Curso MS-101T01-A: Microsoft 365 Security Management'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Administrar métricas de seguridad
+- skill: Implemente soluciones de seguridad en Microsoft 365
+- skill: Planificar y configurar la protección de identidad de Azure AD
+- skill: Implementar Microsoft Secure Score
+- skill: Implementar Exchange Online Protection
+- skill: Implementar Advanced Threat Protection
+- skill: Gestionar archivos adjuntos y enlaces seguros
+- skill: Implementar Microsoft 365 Threat Intelligence
+- skill: Usar el Panel de seguridad de Microsoft 365
+- skill: Configurar Advanced Threat Analytics
+- skill: Implementar la seguridad de la aplicación en la nube
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Obtenga información sobre la administración de seguridad de Microsoft 365, que incluye cómo administrar sus métricas de seguridad, cómo habilitar la Protección de identidad de Azure AD, cómo configurar los servicios de seguridad de Microsoft 365 y la inteligencia de amenazas de Microsoft 365 del usuario.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
+prerequisitesSection: |-
+  - Completó un curso de administrador basado en roles, como Mensajería, Trabajo en equipo, Seguridad y cumplimiento, o Colaboración.
+  - Conocimiento competente de DNS y experiencia funcional básica con los servicios de Microsoft 365.
+  - Un conocimiento competente de las prácticas generales de TI.
+outlineSection: |-
+  ### Módulo 1&#58; Diseñar su inquilino de Microsoft 365
+  #### Lecciones
+  - Planificar una infraestructura local de Microsoft 365
+  - Planificar su solución de identidad y autenticación
+  
+  ### Módulo 2&#58; Configuración de su inquilino de Microsoft 365
+  #### Lecciones
+  - Planificar su experiencia de Microsoft 365
+  - Configurar su experiencia de Microsoft 365
+  - Aprovechar FastTrack y Servicios para socios
+  - Implementar sus servicios de dominio
+
+
+  ### Módulo 3&#58; Administrar su inquilino de Microsoft 365
+  #### Lecciones
+  - Configuración de roles de inquilinos
+  - Administrar el bienestar y los servicios del inquilino
+
+
+  ### Módulo 4&#58; Talleres prácticos
+
+  #### Laboratorio &#58; Administrar la seguridad de Microsoft 365
+  - Ejercicio 1&#58; Configurar su entorno de laboratorio
+  - Ejercicio 2&#58; Editar una política de enlaces seguros de ATP y crear una política de archivos adjuntos seguros
+  - Ejercicio 3&#58; Habilitar e instalar el Centro ATA

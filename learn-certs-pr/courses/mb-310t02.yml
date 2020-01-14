@@ -1,0 +1,154 @@
+### YamlMime:Course
+title: Configurar y usar cuentas por pagar, cuentas por cobrar y cobros en Finanzas y Operaciones
+metadata:
+  title: 'Curso MB-310T02-A: Configurar y usar cuentas a pagar, cuentas a cobrar y cobros en Finance and Operations'
+  description: 'Curso MB-310T02-A: Configurar y usar cuentas a pagar, cuentas a cobrar y cobros en Finance and Operations'
+uid: course.mb-310t02
+courseNumber: 'MB-310T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para elevar su desempeño financiero al aumentar la rentabilidad, optimizar la productividad de la fuerza laboral, reducir los gastos operativos, adaptarse rápidamente a los cambios de requisitos y agilizar la administración de activos.
+  
+  Este curso trata sobre cómo configurar y usar cuentas por pagar, cuentas por cobrar y cobros en Dynamics 365 for Finance and Operations.
+
+  #### Perfil de audiencia
+  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+prerequisitesSection: |-
+  Comprensión básica de los conceptos de ERP y CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar cuentas por pagar
+  Dynamics 365 for Finance and Operations ofrece una amplia funcionalidad para configurar diferentes opciones de pago de proveedores.
+  #### Lecciones
+  - Comprender la funcionalidad del grabador de tareas
+  - Configurar parámetros de cuentas por pagar
+  - Crear y mantener proveedores
+  - Configurar los cargos de cuentas por pagar
+  - Configurar y usar pago positivo
+  - Laboratorio de práctica
+  - Resumen del módulo
+  
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Configurar componentes de cuentas por pagar
+  - Crear y mantener un proveedor
+  - Configurar pagos de proveedores
+  - Configurar perfiles de contabilización de proveedores
+  - Configurar los cargos de cuentas por pagar
+
+  ### Módulo 2&#58; Realizar procedimientos diarios de cuentas por pagar
+  La compra de bienes para reventa, como materiales para fabricación o servicios, es una gran responsabilidad. El seguimiento de esas compras y el pago a los proveedores que suministran los productos es igual de desafiante. Las organizaciones deben monitorear de cerca las cuentas por pagar e implementar procedimientos para que la gerencia pueda obtener fácilmente la información financiera que necesitan para mantenerse informados sobre los cambios en los costos de los bienes. Para dar una visión precisa de la condición financiera del negocio, todos los gastos que afectan la ganancia neta se incluyen en las cuentas por pagar. Este módulo explica cómo administrar y aplicar prepagos, registrar facturas y procesar pagos.
+  #### Lecciones
+  - Introducción
+  - Procesar pedidos, facturas y pagos
+  - Gestionar y aplicar prepagos
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron que pueden ingresar facturas de proveedores manualmente o recibirlas electrónicamente a través de una entidad de datos. Después de ingresar o recibir las facturas, se pueden revisar y aprobar las facturas utilizando un diario de aprobación de Facturas o la página de facturas de proveedores. Además, aprendieron cómo usar la conciliación de facturas, las políticas de facturas de proveedores y el flujo de trabajo para automatizar el proceso de revisión de modo que las facturas que cumplan ciertos criterios se aprueben automáticamente y las facturas restantes se marquen para su revisión por un usuario autorizado. Los estudiantes también aprendieron a manejar prepagos a proveedores.
+
+  ### Módulo 3&#58; Usar distribución contable y validaciones de facturas
+  Este módulo explica cómo liquidar transacciones y deshacer la liquidación y distribuir fondos mediante el uso de distribuciones contables. Los estudiantes también aprenderán cómo realizar la conciliación de facturas. Las distribuciones contables se utilizan para definir cómo se contabilizará una cantidad, como por ejemplo cómo se contabilizarán los gastos, impuestos o cargos en una factura de proveedor. Cada monto que debe contabilizarse cuando se contabiliza la factura del proveedor tendrá una o más distribuciones contables.
+
+  #### Lecciones
+  - Introducción
+  - Liquidar transacciones y deshacer liquidaciones
+  - Distribuir fondos
+  - Configurar políticas de validación de facturas
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Liquidar transacciones y deshacer liquidaciones
+  - Distribuir fondos utilizando distribuciones contables
+  - Configurar políticas de validación de facturas
+
+
+  ### Módulo 4&#58; Configurar cuentas por cobrar
+  Es necesario configurar el módulo de Cuentas por cobrar para poder crear facturas de clientes, registrar albaranes, usar facturas de texto libre que no estén relacionadas con pedidos de ventas y, finalmente, recibir pagos utilizando varios tipos de pago diferentes, como efectivo, cheques, tarjetas de crédito y pagos electrónicos de clientes. Este módulo proporciona información sobre la configuración de componentes esenciales del módulo de Cuentas por cobrar y la configuración del cliente para una gestión eficiente de los clientes y las transacciones de clientes en Finanzas y Operaciones.
+
+  #### Lecciones
+  - Configurar cuentas por cobrar
+  - Crear y mantener clientes
+  - Configurar perfiles de contabilización de clientes
+  - Configurar los cargos de cuentas por cobrar
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Configurar componentes de cuentas por cobrar
+  - Crear y mantener un cliente
+  - Configurar pagos de clientes
+  - Configurar perfiles de contabilización de clientes
+  - Configurar los cargos de cuentas por cobrar
+
+
+  ### Módulo 5&#58; Realizar procedimientos diarios de cuentas por cobrar
+  Aprender a crear facturas de texto gratis, recibir pagos de clientes y depositar en el banco. Los estudiantes también aprenderán cómo reembolsar a un cliente por el monto del sobrepago o por cualquier otro motivo, como un escenario de devolución del cliente en el que el cliente debe reembolsar no solo el pago sino también el impuesto que se ha recaudado, utilizando reversiones y uso reversiones de transacciones en cuentas por cobrar. Los estudiantes también aprenderán cómo distribuir fondos utilizando distribuciones de contabilidad en una factura de texto libre.
+
+  #### Lecciones
+  - Crear facturas de texto gratis y registrar los pagos de los clientes
+  - Liquidar transacciones y deshacer liquidaciones
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  En este módulo los alumnos aprendieron&#58;
+  - Distribuir fondos utilizando distribuciones contables
+  - Crear facturas de texto gratis y registrar los pagos de los clientes
+  - Configurar facturas recurrentes
+  - Usar reversiones en cuentas por cobrar
+  - Procesar pedidos, registrar facturas y procesar pagos
+
+
+  ### Módulo 6&#58; Configurar crédito y cobros
+  Aunque la mayoría de los clientes pagan sus facturas a tiempo, uno debe poder procesar las facturas que no se pagan en su fecha de vencimiento. Este tema explica cómo administrar clientes morosos configurando el módulo de Crédito y cobros en Dynamics 365 para Finance and Operations. Para usar el módulo de Créditos y cobros, la configuración de las cuentas por cobrar ya debe estar completa.
+
+  #### Lecciones
+  - Introducción
+  - Configurar componentes de crédito y cobranzas
+  - Configurar y gestionar intereses
+  - Renunciar, restablecer o revertir
+  - Configurar y administrar cartas de cobro
+  - Laboratorio de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Configurar componentes de crédito y cobranzas
+  - Configurar informes de antigüedad, grupos de clientes, agentes de recopilación y definiciones de períodos de antigüedad
+  - Configurar y gestionar intereses
+  - Configurar y administrar cartas de cobro
+
+
+  ### Módulo 7&#58; Procesar crédito y cobros
+  Aunque la mayoría de los clientes pagan sus facturas a tiempo, uno debe poder procesar las facturas que no se pagan antes de su fecha de vencimiento. Este tema explica cómo procesar créditos y cobros.
+  #### Lecciones
+  - Introducción
+  - Comprender cómo procesar colecciones
+  - Administrar créditos y cobros de clientes
+  - Laboratorios de práctica
+  - Resumen del módulo
+
+  En este módulo, los estudiantes aprendieron sobre&#58;
+  - Resúmenes de cuenta de clientes
+  - Cómo procesar la recolección
+
+
+  ### Módulo 8&#58; Conclusión del curso
+  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
+  #### Lecciones
+  - Evaluación final
+  - Resumen del curso
+  - Encuesta posterior al curso
+
+  Los estudiantes habrán completado el curso.

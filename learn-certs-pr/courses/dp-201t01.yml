@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Diseñar una solución de datos de Azure
+metadata:
+  title: 'Curso DP-201T01-A: Diseñar una solución de datos de Azure'
+  description: 'Curso DP-201T01-A: Diseñar una solución de datos de Azure'
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+  En este curso, los estudiantes diseñarán varias tecnologías de plataforma de datos en soluciones que estén en línea con los requisitos comerciales y técnicos. Esto puede incluir escenarios de datos locales, en la nube e híbridos que incorporan datos relacionales, NoSQL o Data Warehouse. También aprenderán cómo diseñar arquitecturas de procesos utilizando una gama de tecnologías para transmisión de datos y lotes. Los estudiantes también explorarán cómo diseñar la seguridad de los datos, incluido el acceso a los datos, las políticas y los estándares de datos. También diseñarán soluciones de datos de Azure, que incluyen la optimización, disponibilidad y recuperación ante desastres de datos, procesamiento por lotes y soluciones de transmisión de datos.
+
+  #### Perfil de audiencia
+  La audiencia para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos que existen en Microsoft Azure.
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/es-es/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Implementación de una solución de datos de Azure
+outlineSection: |-
+  ### Módulo 1&#58; Consideraciones de arquitectura de plataforma de datos
+  En este módulo, los estudiantes aprenderán a diseñar y construir soluciones seguras, escalables y de alto rendimiento en Azure mediante el examen de los principios básicos que se encuentran en cada buena arquitectura. Aprenderán cómo usar principios clave en toda la arquitectura, independientemente de la elección de tecnología, puede ayudarlo a diseñar, construir y mejorar continuamente la arquitectura para el beneficio de una organización.
+  #### Lecciones
+  - Principios básicos de creación de arquitecturas
+  - Diseño con seguridad en mente
+  - Rendimiento y escalabilidad
+  - Diseño para disponibilidad y recuperabilidad
+  - Diseño para eficiencia y operaciones
+  - Caso de estudio
+  
+  #### Laboratorio &#58; Caso de estudio
+  - Diseño con seguridad en mente
+  Considerar el rendimiento y la escalabilidad
+  - Diseño para disponibilidad y recuperabilidad
+  - Diseño para eficiencia y operaciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diseño con seguridad en mente
+  Considerar el rendimiento y la escalabilidad
+  - Diseño para disponibilidad y recuperabilidad
+  - Diseño para eficiencia y operaciones
+
+
+  ### Módulo 2&#58; Arquitecturas de referencia de procesamiento por lotes de Azure
+  En este módulo, los estudiantes aprenderán el diseño de referencia y los patrones de arquitectura para lidiar con el procesamiento por lotes de datos. El estudiante estará expuesto a lidiar con el movimiento de datos de sistemas locales a un almacén de datos en la nube y cómo se puede automatizar. Los estudiantes también estarán expuestos a una arquitectura de inteligencia artificial y a cómo la plataforma de datos puede integrarse con una solución de inteligencia artificial.
+  #### Lecciones
+  - Arquitecturas Lambda desde una perspectiva de modo de lote
+  - Diseño de una solución de BI empresarial en Azure
+  - Automatizar las soluciones de BI empresarial en Azure
+  - Diseñar un bot conversacional de nivel empresarial en Azure
+
+
+  #### Laboratorio &#58; Diseñar un bot conversacional de nivel empresarial en Azure
+  - Diseño de una solución de BI empresarial en Azure
+  - Automatizar las soluciones de BI empresarial en Azure
+  - Automatizar las soluciones de BI empresarial en Azure
+
+  Después de completar este módulo, los estudiantes podrán;
+  - Comprender los principios básicos de la creación de arquitecturas.
+  - Describir las arquitecturas Lambda desde una perspectiva de modo de lote
+  - Diseño de una solución de BI empresarial en Azure
+  - Automatizar las soluciones de BI empresarial en Azure
+  - Diseñar un bot conversacional de nivel empresarial en Azure
+
+
+
+  ### Módulo 3&#58; Arquitecturas de referencia en tiempo real de zure
+  En este módulo, los estudiantes aprenderán el diseño de referencia y los patrones de arquitectura para lidiar con la transmisión de datos. Aprenderán cómo Event Hubs y Stream Analytics pueden ingerir datos de transmisión para proporcionar análisis de datos en tiempo real. También explorarán una arquitectura de ciencia de datos que transmite datos a Azure Databricks para realizar análisis de tendencias. Finalmente aprenderán cómo una arquitectura de Internet de las cosas (IoT) requerirá la plataforma de datos
+  #### Lecciones
+  - Describir las arquitecturas Lambda para una perspectiva en tiempo real
+  - Diseñar una canalización de procesamiento de flujo con Azure Stream Analytics
+  - Diseñar un flujo de procesamiento de flujo con Azure Databricks
+  - Crear una arquitectura de referencia de Azure IoT
+
+
+  #### Laboratorio &#58; Arquitecturas de referencia en tiempo real de Azure
+  - Diseñar una canalización de procesamiento de flujo con Azure Stream Analytics
+  - Diseñar un flujo de procesamiento de flujo con Azure Databricks
+  - Crear una arquitectura de referencia de Azure IoT
+
+  Después de completar este módulo, los estudiantes podrán;
+  - Describir las arquitecturas Lambda para una perspectiva en tiempo real
+  - Diseñar una canalización de procesamiento de flujo con Azure Stream Analytics
+  - Diseñar un flujo de procesamiento de flujo con Azure Databricks
+  - Crear una arquitectura de referencia de Azure IoT
+
+
+  ### Módulo 4&#58; Consideraciones de diseño de seguridad de la plataforma de datos
+  En este módulo, los estudiantes aprenderán cómo incorporar la seguridad en un diseño de arquitectura y aprenderán los puntos de decisión clave proporcionados en Azure para ayudar a crear un entorno seguro a través de todas las capas de arquitectura.
+  #### Lecciones
+  - Enfoque de seguridad de defensa en profundidad
+  - Gestión de identidad
+  - Protección de infraestructura
+  - Uso de cifrado
+  - Protección de nivel de red
+  - Seguridad de la aplicación
+
+
+  #### Laboratorio &#58; Consideraciones de diseño de seguridad de la plataforma de datos
+  - Enfoque de seguridad de defensa en profundidad
+  - Protección de identidad
+
+  Después de completar este módulo los , estudiantes podrán;
+  - Enfoque de seguridad de defensa en profundidad
+  - Gestión de identidad
+  - Protección de infraestructura
+  - Uso de cifrado
+  - Protección de nivel de red
+  - Seguridad de la aplicación
+
+
+  ### Módulo 5&#58; Diseño para Resiliencia y Escala
+  En este módulo, los estudiantes aprenderán servicios de escalado para manejar la carga. Aprenderán cómo identificar los cuellos de botella de la red y optimizar el rendimiento del almacenamiento son importantes para garantizar que los usuarios tengan la mejor experiencia. También aprenderán cómo manejar las fallas de infraestructura y servicio, recuperarse de la pérdida de datos y recuperarse de un desastre mediante el diseño de disponibilidad y capacidad de recuperación en la arquitectura.
+  #### Lecciones
+  - Ajuste de la capacidad de carga de trabajo escalando
+  - Optimizar el rendimiento de la red
+  - Diseño para almacenamiento optimizado y rendimiento de la base de datos
+  - Identificar cuellos de botella de rendimiento
+  - Diseñar una solución altamente disponible
+  - Incorporar recuperación ante desastres en arquitecturas
+  - Diseñar estrategias de copia de seguridad y restauración
+
+
+  #### Laboratorio &#58; Diseño para Resiliencia y Escala
+  - Ajuste de la capacidad de carga de trabajo escalando
+  - Diseño para almacenamiento optimizado y rendimiento de la base de datos
+  - Diseñar una solución altamente disponible
+  - Incorporar recuperación ante desastres en arquitecturas
+
+  Después de completar este módulo, los estudiantes podrán;
+  - Ajuste de la capacidad de carga de trabajo escalando
+  - Optimizar el rendimiento de la red
+  - Diseño para almacenamiento optimizado y rendimiento de la base de datos
+  - Identificar cuellos de botella de rendimiento
+  - Diseñar una solución altamente disponible
+  - Incorporar recuperación ante desastres en arquitecturas
+  - Diseñar estrategias de copia de seguridad y restauración
+
+
+  ### Módulo 6&#58; Diseño para eficiencia y operaciones
+  En este módulo, los estudiantes aprenderán cómo diseñar una arquitectura de Azure que sea eficiente desde el punto de vista operativo y minimice los costos al reducir el gasto, y comprenderán cómo diseñar arquitecturas que eliminen el desperdicio y les den una visibilidad completa de lo que se está utilizando en el entorno Azure de la organización .
+  #### Lecciones
+  - Maximización de la eficiencia de su entorno en la nube
+  - Utilizar el monitoreo y la analítica para obtener información operativa
+  - Utilizar la automatización para reducir el esfuerzo y el error
+
+
+  #### Laboratorio &#58; diseño para eficiencia y operaciones
+  - Maximificar la eficiencia de su entorno en la nube
+  - Utilizar el monitoreo y la analítica para obtener información operativa
+  - Utilizar la automatización para reducir el esfuerzo y el error
+
+  Después de completar este módulo, los estudiantes podrán;
+  - Maximificar la eficiencia de su entorno en la nube
+  - Utilizar el monitoreo y la analítica para obtener información operativa
+  - Utilizar la automatización para reducir el esfuerzo y el error

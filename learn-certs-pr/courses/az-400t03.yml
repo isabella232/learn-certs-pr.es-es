@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Implementar una entrega continua
+metadata:
+  title: 'Curso AZ-400T03-A: Implementar una entrega continua'
+  description: 'Curso AZ-400T03-A: Implementar una entrega continua'
+uid: course.az-400t03
+courseNumber: 'AZ-400T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diferenciar entre una versión y una implementación
+- skill: Definir los componentes de una tubería de lanzamiento
+- skill: Explicar las cosas a tener en cuenta al diseñar su estrategia de lanzamiento.
+- skill: Clasificar un lanzamiento frente a un proceso de lanzamiento y describir cómo controlar la calidad de ambos
+- skill: Describir el principio de las puertas de lanzamiento y cómo lidiar con las notas de lanzamiento y la documentación.
+- skill: Explicar los patrones de implementación, tanto en el sentido tradicional como en el moderno.
+- skill: Elegir una herramienta de administración de versiones
+- skill: Explicar la terminología utilizada en Azure DevOps y otras herramientas de administración de versiones
+- skill: Describir qué es una tarea de compilación y lanzamiento, qué puede hacer y algunas tareas de implementación disponibles
+- skill: Clasificar un agente, una cola de agentes y un grupo de agentes
+- skill: Explicar por qué a veces necesita múltiples trabajos de lanzamiento en una tubería de lanzamiento
+- skill: Diferenciar entre trabajo de liberación de múltiples agentes y configuraciones múltiples
+- skill: Usar variables de lanzamiento y variables de etapa en su canal de lanzamiento
+- skill: Implementar un entorno de forma segura utilizando una conexión de servicio
+- skill: Prueba de inserción en la tubería
+- skill: Enumerar las diferentes formas de inspeccionar el estado de su tubería y su liberación mediante el uso de alertas, enlaces de servicio e informes
+- skill: Crear una puerta de lanzamiento
+- skill: Describir los patrones de implementación.
+- skill: Implementar despliegue verde azul
+- skill: Implementar Lanzamiento Canario
+- skill: Implementar despliegue de exposición progresiva
+learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso proporciona los conocimientos y habilidades para implementar la entrega continua. Los estudiantes aprenderán cómo diseñar una estrategia de lanzamiento, configurar un flujo de trabajo de administración de lanzamiento e implementar un patrón de implementación apropiado.
+
+  #### Perfil de audiencia
+  Los estudiantes en este curso están interesados en implementar procesos DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Conocimientos fundamentales sobre Azure, control de versiones, desarrollo de software ágil y principios básicos de desarrollo de software. Sería útil tener experiencia en una organización que ofrece software.
+outlineSection: |-
+  ### Módulo 1&#58; Diseñar una estrategia de lanzamiento
+  #### Lecciones
+  - Introducción a la entrega continua
+  - Recomendaciones de estrategia de lanzamiento
+  - Construyendo una tubería de lanzamiento de alta calidad
+  - Elegir un patrón de despliegue
+  - Elegir la herramienta de gestión de lanzamiento correcta
+  
+  #### Laboratorio &#58; Construir una estrategia de lanzamiento
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Diferenciar entre un lanzamiento y una implementación
+  - Definir los componentes de una tubería de liberación
+  - Explicar los aspectos a tener en cuenta al diseñar tu estrategia de lanzamiento
+  - Clasificar un lanzamiento versus un proceso de lanzamiento y describa cómo controlar la calidad de ambos
+  - Describir el principio de las puertas de lanzamiento y cómo lidiar con las notas de lanzamiento y la documentación
+  - Explicar los patrones de implementación, tanto en el sentido tradicional como en el moderno.
+  - Elegir una herramienta de administración de versiones
+
+
+  ### Módulo 2&#58; Configurar un flujo de trabajo de administración de versiones
+  #### Lecciones
+  - Crear una tubería de lanzamiento
+  - Aprovisionar y configurar entornos
+  - Administrar y modularizar tareas y plantillas
+  - Integrar Secretos con la tubería de lanzamiento
+  - Configurar la integración automatizada y la automatización de pruebas funcionales
+  - Automatizar la inspección de salud
+
+
+  #### Laboratorio &#58; Automatizar las implementaciones de su infraestructura en la nube con Terraform y Azure Pipelines
+
+  #### Laboratorio &#58; Configuración de secretos en la tubería con Azure Key Vault
+
+  #### Laboratorio &#58; Configuración y ejecución de pruebas de carga
+
+  #### Laboratorio &#58; Configuración y ejecución de pruebas funcionales
+
+  #### Laboratorio &#58; Uso de Azure Monitor como puerta de lanzamiento
+
+  #### Laboratorio &#58; Crear un panel de lanzamiento
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar la terminología utilizada en Azure DevOps y otras herramientas de administración de versiones
+  - Describir qué es una tarea de compilación y lanzamiento, qué puede hacer y algunas tareas de implementación disponibles
+  - Clasificar un agente, una cola de agentes y un grupo de agentes
+  - Explicar por qué a veces necesita múltiples trabajos de lanzamiento en una tubería de lanzamiento
+  - Diferenciar entre trabajo de liberación de múltiples agentes y configuraciones múltiples
+  - Usar variables de lanzamiento y variables de etapa en su canal de lanzamiento
+  - Implementar un entorno de forma segura utilizando una conexión de servicio
+  - Prueba de inserción en la tubería
+  - Enumerar las diferentes formas de inspeccionar el estado de su tubería y su liberación mediante el uso de alertas, enlaces de servicio e informes
+  - Crear una puerta de lanzamiento
+
+
+  ### Módulo 3&#58; Implementar un patrón de implementación adecuado
+  #### Lecciones
+  - Introducción a los patrones de implementación
+  - Implementar la implementación de Blue Green
+  - Alternar funciones
+  - Lanzamientos de Canarios
+  - Lanzamiento oscuro
+  - Pruebas AB
+  - Despliegue de exposición progresiva
+
+
+  #### Laboratorio &#58; Implementaciones azul-verde
+
+  #### Laboratorio &#58; Gestor de tráfico
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir patrones de implementación
+  - Implementar la implementación de Blue Green
+  - Implementar lanzamiento de Canarias
+  - Implementar el despliegue de exposición progresiva

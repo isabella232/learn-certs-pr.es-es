@@ -6,9 +6,7 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El El contenido de este examen se actualizó el martes, 26 de noviembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.<br/><br/></div>
-  
-  Los candidatos para este examen analizan los requisitos para las soluciones AI, recomiendan las herramientas y tecnologías adecuadas, e implementan soluciones que cumplen con los requisitos de escabilidad y rendimiento....
+  Los candidatos para este examen analizan los requisitos para las soluciones AI, recomiendan las herramientas y tecnologías adecuadas, e implementan soluciones que cumplen con los requisitos de escabilidad y rendimiento.
   <br/>
 
   Los candidatos traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores AI para crear soluciones completas de extremo a extremo. Los candidatos diseñan e implementan aplicaciones AI y agentes que utilizan servicios cognitivos de Microsoft Azure y Azure Bot Service. Los candidatos pueden recomendar soluciones que utilizan tecnologías de código abierto.
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- l contenido de este examen se actualizó el martes, 26 de noviembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.
 - Analizar los requisitos de la solución (25-30%)
 - Diseñar soluciones AI (40-45%)
 - Implementar y monitorear soluciones AI (25-30%)

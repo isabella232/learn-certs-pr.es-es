@@ -30,12 +30,12 @@ products:
 exams:
 - uid: exam.62-193
 resources:
-- title: Innovative Teaching and Learning (ITL) Research project
-  description: Innovative Teaching and Learning (ITL) Research project
+- title: Proyecto de investigación de Enseñanza y aprendizaje innovadores (ITL)
+  description: Proyecto de investigación de Enseñanza y aprendizaje innovadores (ITL)
   href: https://education.microsoft.com/GetTrained/ITL-Research
-- title: Study Guide
-  description: Find training materials to prepare for the exam
+- title: Guía de estudio
+  description: Buscar materiales de formación para prepararse para el examen
   href: http://aka.ms/MCEStudyGuide
-- title: Exam Replay
-  description: Digital Kit for the Teach the Future Now Campaign (poster, data sheet, and MCE exam objective domain)
+- title: Repetición de examen
+  description: Kit digital para la campaña Enseñar el futuro ahora (póster, hoja de información y dominio objetivo del examen MCE)
   href: http://aka.ms/MCEAssets

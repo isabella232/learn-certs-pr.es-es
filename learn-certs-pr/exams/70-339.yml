@@ -28,13 +28,13 @@ locales:
 levels: 
 - intermediate
 skills:
-- Diseñar la infraestructura de SharePoint (del 15% al 20%)
-- Planificar la autenticación y la seguridad (del 15% al 20%)
-- Planificar la optimización de la carga de trabajo (del 15% al 20%)
-- Planificar soluciones de productividad (del 15% al 20%)
-- Administrar las capacidades de búsqueda (del 10% al 15%) 
-- Planificar y configurar servicios de nube (del 5% al 10%)
-- Supervisar y optimizar un entorno de SharePoint (del 10% al 15%)
+- Diseñar la infraestructura de SharePoint (15-20%)
+- Planificar la autenticación y la seguridad (15-20%)
+- Planificar la optimización de la carga de trabajo (15-20%)
+- Planificar soluciones de productividad (15-20%)
+- Administrar las capacidades de búsqueda (10-15%) 
+- Planificar y configurar servicios de nube (5-10%)
+- Supervisar y optimizar un entorno de SharePoint (10-15%)
 roles:
 - administrator
 products:

@@ -6,8 +6,6 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizó el lunes, 25 de noviembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.<br/><br/></div>
-
   Los candidatos para este examen son administradores de mensajería que implementan, configuran, gestionan, solucionan problemas, y monitorizan receptores, permisos, protección de correo, flujo de correo y carpetas públicas en entornos in situ y empresariales de la nube.
 
   Los administradores de mensajería son responsables de gestionar higiene, infraestructura de mensajería, configuración híbrida, migración, recuperación ante desastres, alta disponibilidad y acceso de clientes.
@@ -24,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el lunes, 25 de noviembre de 2019. Descargue a continuación el documento de aptitudes o destrezas medidas para ver qué cambió.
 - Planificar e implementar una configuración híbrida y migración (35-40%)
 - Asegurar el entorno de mensajería (40-45%)
 - Gestionar ajustes organizativos (15-20%)

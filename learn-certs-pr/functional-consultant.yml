@@ -1,0 +1,141 @@
+### YamlMime:Role 
+title: Consultores funcionales 
+metadata: 
+  title: Consultores funcionales 
+  description: Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.  
+uid: role.functional-consultant 
+summary: | 
+  Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.
+subTitle: Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.
+certificationPaths: 
+- title: Consultor funcional de servicio al cliente de Dynamics 365
+  linkedInKeywords: Consultor funcional de servicio al cliente de Dynamics 365
+  uid: certification-path.d365-functional-consultant-customer-service 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-customer-service
+    levels:
+    - intermediate
+    
+- title: Dynamics 365 Field Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Field Service Functional Consultant
+  uid: certification-path.d365-functional-consultant-field-service 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-field-service
+    levels:
+    - intermediate
+
+- title: Consultor funcional de Dynamics 365 Finance
+  linkedInKeywords: Consultor funcional de Dynamics 365 Finance
+  uid: certification-path.d365-functional-consultant-financials 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-financials
+    levels:
+    - intermediate
+
+
+- title: Consultor funcional de fabricación de Dynamics 365
+  linkedInKeywords: Consultor funcional de fabricación de Dynamics 365
+  uid: certification-path.d365-functional-consultant-manufacturing
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-manufacturing
+    levels:
+    - intermediate
+
+- title: Consultor funcional de marketing de Dynamics 365
+  linkedInKeywords: Consultor funcional de marketing de Dynamics 365
+  uid: certification-path.d365-functional-consultant-marketing 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-marketing
+    levels:
+    - intermediate
+
+- title: Consultor funcional de ventas de Dynamics 365
+  linkedInKeywords: Consultor funcional de ventas de Dynamics 365
+  uid: certification-path.d365-functional-consultant-sales 
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-sales
+    levels:
+    - intermediate
+
+- title: Consultor Funcional de Gestión de la Cadena de Suministro Dynamics 365
+  linkedInKeywords: Consultor Funcional de Gestión de la Cadena de Suministro Dynamics 365
+  uid: certification-path.d365-functional-consultant-supply-chain-management
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-functional-consultant-supply-chain-management
+    levels:
+    - intermediate
+
+certifications:
+- uid: certification.d365-functional-consultant-customer-service
+  requiredExams:
+  - uid: exam.mb-200
+  - uid: exam.mb-230  
+
+- uid: certification.d365-functional-consultant-field-service
+  requiredExams:
+  - uid: exam.mb-200
+  - uid: exam.mb-240
+
+- uid: certification.d365-functional-consultant-financials
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-310  
+
+
+- uid: certification.d365-functional-consultant-manufacturing
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-320  
+
+- uid: certification.d365-functional-consultant-marketing
+  requiredExams:
+  - uid: exam.mb-200
+  - uid: exam.mb-220  
+
+- uid: certification.d365-functional-consultant-sales
+  requiredExams:
+  - uid: exam.mb-200
+  - uid: exam.mb-210  
+
+- uid: certification.d365-functional-consultant-supply-chain-management
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-330  
+resources:
+- title: Guía de formación y certificaciones de Microsoft
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de formación y certificaciones
+  description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Certificación soporte
+  href: ../help.md
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.

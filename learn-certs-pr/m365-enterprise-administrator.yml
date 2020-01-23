@@ -11,13 +11,13 @@ subTitle: Los Administradores de Microsoft 365 Enterprise participan en la evalu
 levels:
 - advanced
 skills:
-- Diseñar e implementar servicios de Microsoft 365.
+- Diseñar e implementar servicios de Microsoft 365
 - Administrar la identidad de usuario y roles
-- Administrar el acceso y la autenticación. 
+- Administrar el acceso y la autenticación
 - Planificar las cargas de trabajo y aplicaciones de Office 365
-- Implementar servicios de dispositivos modernos.
-- Implementar la seguridad de Microsoft 365 y la gestión de amenazas.
-- Administrar el gobierno y el cumplimiento de Microsoft 365.
+- Implementar servicios de dispositivos modernos
+- Implementar la seguridad de Microsoft 365 y la gestión de amenazas
+- Administrar el gobierno y el cumplimiento de Microsoft 365
 roles:
 - administrator
 type: role-based

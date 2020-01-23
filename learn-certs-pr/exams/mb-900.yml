@@ -36,7 +36,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Aspectos fundamentales de Dynamics 365'
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Aspectos fundamentales de Dynamics 365.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

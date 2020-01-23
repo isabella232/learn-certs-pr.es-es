@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: Ingeniero de IA  
+metadata: 
+  title: Ingeniero de IA  
+  description: Los ingenieros de inteligencia artificial utilizan los servicios cognitivos, el aprendizaje automático y la minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft. 
+uid: role.ai-engineer 
+summary: | 
+  Los ingenieros de inteligencia artificial utilizan los servicios cognitivos, el aprendizaje automático y la minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft.
+subTitle: Los ingenieros de inteligencia artificial utilizan los servicios cognitivos, el aprendizaje automático y la minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft.
+certificationPaths: 
+- title: Azure AI Engineer
+  linkedInKeywords: Azure AI Engineer
+  uid: certification-path.azure-ai-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-ai-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-ai-engineer
+  requiredExams:
+  - uid: exam.ai-100
+resources:
+- title: Guía de formación y certificaciones de Microsoft
+  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de formación y certificaciones
+  description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Certificación soporte
+  href: ../help.md
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.

@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Data Scientist 
+title: Científicos de datos 
 metadata: 
-  title: Data Scientist 
-  description: Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems. 
+  title: Científicos de datos 
+  description: Los científicos de datos aplican las técnicas de aprendizaje automático para formar, evaluar e implementar modelos que resuelvan problemas empresariales. 
 uid: role.data-scientist 
 summary: | 
-  Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
-subTitle: Data Scientists apply machine learning techniques to train, evaluate, and deploy models that solve business problems.
+  Los científicos de datos aplican las técnicas de aprendizaje automático para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
+subTitle: Los científicos de datos aplican las técnicas de aprendizaje automático para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
 certificationPaths: 
 - title: Azure Data Scientist
   linkedInKeywords: Azure Data Scientist
@@ -30,6 +30,6 @@ resources:
 - title: Póster de formación y certificaciones
   description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: certificación soporte
+- title: Certificación soporte
   href: ../help.md
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.

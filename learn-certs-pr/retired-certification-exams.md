@@ -2,7 +2,6 @@
 title: Examen retirado de Microsoft | Documentos de Microsoft
 description: Examen retirado de Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

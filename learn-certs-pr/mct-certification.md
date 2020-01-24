@@ -2,7 +2,6 @@
 title: Conviértase en Microsoft Certified Trainer | Documentos de Microsoft
 description: Conviértase en Microsoft Certified Trainer 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Ofertas | Documentos de Microsoft
 description: Ofertas 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

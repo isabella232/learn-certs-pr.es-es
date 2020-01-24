@@ -2,7 +2,6 @@
 title: Ayuda de la certificación y los cursos de Microsoft | Documentos de Microsoft
 description: Ayuda de la certificación y los cursos de Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

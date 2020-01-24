@@ -2,7 +2,6 @@
 title: 'certificación-examen-políticas | Documentos de Microsoft'
 description: 'certificación-examen-políticas' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

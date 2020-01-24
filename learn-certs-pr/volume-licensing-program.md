@@ -2,7 +2,6 @@
 title: Capacitación de software para clientes de licencias por volumen | Documentos de Microsoft
 description: Capacitación de software para clientes de licencias por volumen
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

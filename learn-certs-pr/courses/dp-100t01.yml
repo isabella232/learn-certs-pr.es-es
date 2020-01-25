@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -26,7 +26,7 @@ summary: |-
   Este curso está dirigido a científicos de datos y personas con responsabilidades significativas en la capacitación y la implementación de modelos de aprendizaje automático.
 prerequisitesSection: |-
   Antes de asistir a este curso, los estudiantes deben tener;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/es-es/learn/certifications/azure-fundamentals).
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - Comprensión de la ciencia de datos, incluyendo cómo preparar datos, entrenar modelos y evaluar modelos competitivos para seleccionar el mejor.
   - Cómo programar en el lenguaje de programación Python y usar las bibliotecas de Python ;pandas, scikit-learn, matplotlib y seaborn.
 outlineSection: |-

@@ -7,7 +7,7 @@ uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -37,7 +37,7 @@ summary: |-
   La audiencia principal para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido desde la plataforma de datos. tecnologías que existen en Microsoft Azure.
 prerequisitesSection: |-
   Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/es-es/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Módulo 1&#58; Azure para el ingeniero de datos
   Este módulo explora cómo ha evolucionado el mundo de los datos y cómo las tecnologías de la plataforma de datos en la nube ofrecen nuevas oportunidades para que las empresas exploren sus datos de diferentes maneras. Los estudiantes obtendrán una visión general de las diversas tecnologías de plataforma de datos que están disponibles y cómo la función y las responsabilidades de un ingeniero de datos han evolucionado para funcionar en este nuevo mundo en beneficio de una organización.

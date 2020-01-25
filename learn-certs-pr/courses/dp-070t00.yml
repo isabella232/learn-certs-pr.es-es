@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Migrate on-premises MySQL to Azure SQL DB for MySQL
 - skill: Migrate on-premises PostgreSQL to Azure SQL DB for PostgreSQL
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

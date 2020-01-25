@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  Si aprobó [El examen 70-698](https://www.microsoft.com/es-es/learning/exam-70-698.aspx) antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop. Los candidatos para este examen son administradores que implementan, configuran, aseguran, administran y monitorizan dispositivos y aplicaciones del cliente en un entorno empresarial. Los candidatos administran la identidad, el acceso, las directivas, las actualizaciones y las aplicaciones.
+  Si aprobó [El examen 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop. Los candidatos para este examen son administradores que implementan, configuran, aseguran, administran y monitorizan dispositivos y aplicaciones del cliente en un entorno empresarial. Los candidatos administran la identidad, el acceso, las directivas, las actualizaciones y las aplicaciones.
   <br/>
 
   Como administrador, los candidatos suelen colaborar con un administrador de Microsoft 365 Enterprise para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna.
@@ -56,7 +56,7 @@ resources:
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
-  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
   description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

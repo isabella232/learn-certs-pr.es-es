@@ -6,12 +6,12 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  Esta certificación valida las habilidades necesarias para trasladar su empresa a la nube, aumentar la productividad y la flexibilidad de los usuarios, reducir la pérdida de datos y mejorar la seguridad de los datos para su organización. Esta certificación se puede usar para cumplir con uno de los requisitos para ser [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/es-es/learning/m365-enterprise-administrator.aspx)
+  Esta certificación valida las habilidades necesarias para trasladar su empresa a la nube, aumentar la productividad y la flexibilidad de los usuarios, reducir la pérdida de datos y mejorar la seguridad de los datos para su organización. Esta certificación se puede usar para cumplir con uno de los requisitos para ser [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
   
   Para ser un experto en soluciones de productividad de MCSE, complete los siguientes requisitos&#58;
   - Obtenga una certificación como requisito previo
-    - Opción de requisito previo 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/es-es/learning/mcsa-windows-server-certification.aspx)
-    - Opción de requisito previo 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/es-es/learning/mcsa-windows-server-2016-certification.aspx)
+    - Opción de requisito previo 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - Opción de requisito previo 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - Apruebe uno de los exámenes electivos.
     - [70-333&#58; Implementar Enterprise Voice con Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
@@ -53,4 +53,4 @@ resources:
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
-  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

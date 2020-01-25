@@ -9,7 +9,7 @@ summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL 31 DE MARZO DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</div>
   <br/>
    
-  Este examen está diseñado solo para candidatos que hayan realizado el [Examen 70-532&#58;](https://www.microsoft.com/es-es/learning/exam-70-532.aspx) Desarrollar Microsoft Azure Solutions. Si no ha realizado el Examen 532, no obtendrá un certificado al realizar este examen.
+  Este examen está diseñado solo para candidatos que hayan realizado el [Examen 70-532&#58;](https://www.microsoft.com/learning/exam-70-532.aspx) Desarrollar Microsoft Azure Solutions. Si no ha realizado el Examen 532, no obtendrá un certificado al realizar este examen.
   
   El examen de transición está pensado para personas que ya han demostrado habilidades en el dominio de contenido pasando el (los) exámen(es) existentes que los nuevos exámenes de certificación basados en roles estarán reemplazando. Cubren el delta entre la certificación actual y lo que esperamos que las personas que ganen la nueva certificación sean capaces de hacer. No deseamos volver a aplicar una prueba a las personas con el mismo contenido cuando ya han demostrado competencia aprobando el examen existente.
 
@@ -50,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
-  href: https://www.microsoft.com/es-es/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

@@ -17,7 +17,7 @@ skillsGained:
 - skill: Inspeccionar los paquetes de software de código abierto para garantizar el cumplimiento de la seguridad y la licencia para alinearse con los estándares corporativos
 - skill: Configurar la canalización de compilación para acceder a la seguridad del paquete y la calificación de la licencia
 - skill: Configurar el acceso seguro a las fuentes de paquetes
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

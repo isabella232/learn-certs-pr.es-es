@@ -16,7 +16,7 @@ skillsGained:
 - skill: Detallar las diversas API disponibles en Cognitive Services.
 - skill: Identificar cuándo usar el servicio Face API, Speech API o Language Understanding (LUIS).
 - skill: Describir la relación con Bot Framework y Azure Bot Services.
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

@@ -17,7 +17,7 @@ skillsGained:
 - skill: Diseñar un esquema de alerta para una solución alojada en Azure
 - skill: Seleccionar la opción de copia de seguridad adecuada para la infraestructura y los datos alojados en Azure.
 - skill: Automatizar el despliegue de recursos futuros para fines de recuperación o escalado de copias de seguridad
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

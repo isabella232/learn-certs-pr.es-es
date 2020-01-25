@@ -76,7 +76,7 @@ trainingSection:
     summary: Con Microsoft Learn, cualquiera puede dominar los conceptos básicos a su ritmo y horario. Ya sea que se trate de un solo módulo para aprender sobre una tarea central o explorar un tema por completo a través de una colección de módulos relacionados.
     browseLinks:
     - text: Explore todas las rutas de aprendizaje
-      url: https://docs.microsoft.com/es-es/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
   - image:
       alt: Hombre presentando a cuatro personas sentadas alrededor de una mesa
       src: /learn/certifications/images/image-working-group.jpg
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Encuentre un socio de aprendizaje de Microsoft
       summary: Nuestra red de socios de todo el mundo ofrece formación personalizada, flexible y basada en soluciones en tecnologías de Microsoft.
-      url: https://www.microsoft.com/es-es/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Soporte para certificaciones y exámenes
       summary: 'Obtenga ayuda a través de foros de soporte técnico: Un moderador del foro responderá en un día hábil, de lunes a viernes.'
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Certificaciones de Microsoft
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Beneficios de las certificaciones de Microsoft
     summary: Tras conseguir una certificación, el 23% de tecnólogos certificados de Microsoft informó de haber recibido un aumento de sueldo del 20%. Además, a los empleados con certificación, a menudo, se les encarga que supervisen a sus compañeros, lo que les pone en una posición privilegiada para conseguir un ascenso. Documentación técnica Valor de certificación de Person VUE 2017.
   items:

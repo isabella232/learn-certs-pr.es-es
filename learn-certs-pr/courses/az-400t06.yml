@@ -22,7 +22,7 @@ skillsGained:
 - skill: Analizar la telemetría para establecer una línea de base.
 - skill: Ejecutar revisiones del sitio en vivo y obtener los comentarios de las interrupciones del sistema.
 - skill: Ejecutar ajustes continuos para reducir las alertas sin sentido o inútiles.
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

@@ -14,7 +14,7 @@ skillsGained:
 - skill: Diseñar un conjunto de disponibilidad para una o más máquinas virtuales.
 - skill: Describir las diferencias entre los dominios de falla y actualización.
 - skill: Crear una plantilla ARM de VM Scale SeT
-learningPartnersLink: https://www.microsoft.com/es-es/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

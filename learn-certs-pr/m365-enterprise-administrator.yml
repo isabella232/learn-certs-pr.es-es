@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Enterprise Administrator Expert'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: 'Certificado de Microsoft 365: Enterprise Administrator Expert'
-  description: 'Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
+summary: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
 subTitle: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
 levels:
 - advanced

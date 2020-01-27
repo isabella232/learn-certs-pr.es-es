@@ -5,20 +5,21 @@ metadata:
   description: 'Examen AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   Este examen está diseñado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y cómo se ofrecen esos servicios con Microsoft Azure. El examen está pensado para candidatos sin conocimientos técnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube,  o que estén implicados en alguna medida en las soluciones y servicios basados en la nube, así como aquellos con un trasfondo técnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
+
 
   Este examen se puede realizar como un primer paso opcional en el aprendizaje de los servicios de la nube y en cómo dichos conceptos están ejemplificados por Microsoft Azure. Se puede realizar como un precursor para los exámenes de servicios de la nube de Microsoft Azure o Microsoft. Si bien sería una primera medida beneficiosa el validar el nivel de conocimiento fundamental, el tomar este examen no constituye un requisito indispensable antes de tomar otras certificaciones basadas en Azure.
 subTitle: 'Este examen mide su capacidad para comprender los siguientes conceptos: conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Examen%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Examen%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:

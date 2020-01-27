@@ -1,25 +1,28 @@
 ### YamlMime:Examination
-title: Planificación y configuración de una plataforma de mensajería
+title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Examen MS-200: Planificación y configuración de una plataforma de mensajería'
-  description: 'Examen MS-200: Planificación y configuración de una plataforma de mensajería'
+  title: 'Examen MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Examen MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
+summary: >-
   Los candidatos para este examen son administradores de mensajería que implementan, configuran, gestionan, solucionan problemas, y monitorizan receptores, permisos, protección de correo, flujo de correo y carpetas públicas en entornos in situ y empresariales de la nube.
+
 
   Los administradores de mensajería son responsables de gestionar higiene, infraestructura de mensajería, configuración híbrida, migración, recuperación ante desastres, alta disponibilidad y acceso de clientes.
 
+
   Los administradores de mensajería colaboran con Security Administrator y Microsoft 365 Enterprise Administrator para implementar una topología segura híbrida que cumpla con las necesidades comerciales de una organización moderna.
+
 
   El administrador de mensajería debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar la infraestructura de mensajería moderna; administrar la topología de flujo de correo; y gestionar los destinatarios y dispositivos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-200&examname=Examen%20MS-200:%20Planificación%20y%20configuración%20de%20una%20plataforma%20de%20mensajería&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-200&examname=Examen%20MS-200:%20Planificación%20y%20configuración%20de%20una%20plataforma%20de%20mensajería&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
@@ -28,10 +31,10 @@ skills:
 - Gestionar receptores y dispositivos (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-201
+products:
+- m365
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02

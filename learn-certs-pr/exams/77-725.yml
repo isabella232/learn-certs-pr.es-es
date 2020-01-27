@@ -1,20 +1,14 @@
 ### YamlMime:Examination
-title: 'Word 2016: Creación, colaboración y comunicación de documentos fundamentales'
+title: 'Word 2016: Core Document Creation, Collaboration and Communication'
 metadata:
-  title: 'Examen 77-725: Word 2016: Creación, colaboración y comunicación de documentos fundamentales'
-  description: 'Examen 77-725: Word 2016: Creación, colaboración y comunicación de documentos fundamentales'
+  title: 'Examen 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
+  description: 'Examen 77-725: Word 2016: Core Document Creation, Collaboration and Communication'
 uid: exam.77-725
 displayName: 77-725
-summary: |
-  Para superar el examen de Microsoft Word 2016, los candidatos deben tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Tendrán que demostrar la correcta aplicación de las características principales de Word 2016 mediante la creación y edición de documentos con dos o tres páginas para una variedad de finalidades y situaciones. Entre los ejemplos de documentos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial.
-
-  Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
-  - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos. 
-  - El formato del examen MOS 2016 incorpora varios proyectos. 
+summary: "Para superar el examen de Microsoft Word 2016, los candidatos deben tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Tendrán que demostrar la correcta aplicación de las características principales de Word 2016 mediante la creación y edición de documentos con dos o tres páginas para una variedad de finalidades y situaciones. Entre los ejemplos de documentos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial.\n\nLos exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;\n- Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos. \n- El formato del examen MOS 2016 incorpora varios proyectos. \n"
 subTitle: Para superar el examen de Microsoft Word 2016, los candidatos deben tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Tendrán que demostrar la correcta aplicación de las características principales de Word 2016 mediante la creación y edición de documentos con dos o tres páginas para una variedad de finalidades y situaciones. Entre los ejemplos de documentos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +27,8 @@ locales:
 - ru
 - th
 - tr
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Crear y administrar documentos (25-30%)
@@ -45,7 +40,6 @@ roles:
 - developer
 products:
 - office-word
-
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016

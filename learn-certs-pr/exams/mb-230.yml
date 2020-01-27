@@ -1,25 +1,29 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 para servicio al cliente
+title: Microsoft Dynamics 365 Customer Service
 metadata:
-  title: 'Examen MB-230: Microsoft Dynamics 365 para servicio al cliente'
-  description: 'Examen MB-230: Microsoft Dynamics 365 para servicio al cliente'
+  title: 'Examen MB-230: Microsoft Dynamics 365 Customer Service'
+  description: 'Examen MB-230: Microsoft Dynamics 365 Customer Service'
 uid: exam.mb-230
 displayName: MB-230
-summary: |-
+summary: >-
   Los candidatos para este examen son consultores funcionales de Dynamics 365 con experiencia en atención al cliente. Los candidatos son responsables de implementar soluciones omnicanal que se centran en el servicio, la calidad, confiabilidad, eficiencia y satisfacción del cliente.
+
   <br/>
 
+
   Los candidatos diseñan e implementan visualizaciones de gestión de servicios e informes provistos por el arquitecto de soluciones y en colaboración con él. Los candidatos colaboran con el administrador de Dynamics 365 para implementar y actualizar los componentes de la plataforma Power, incluido el conocimiento base, y Forms Pro.
-  
+
+
   Los candidatos deben contar conocimiento sólido aplicado para satisfacer las necesidades del usuario a través de atención al cliente de Dynamics 365, incluido el conocimiento profundo de casos, conocimiento base, colas, títulos, Acuerdos de Nivel de Servicio (SLA), visualizaciones y escritorio unificado de servicios.
-  
+
+
   Los candidatos deben comprender la terminología de la industria, las prioridades, las normas, metodologías, operaciones de atención al cliente y las mejores prácticas. Los candidatos deben incluir un entendimiento amplio del rol de aplicación de atención al cliente en relación con el paquete Dynamics 365 de aplicaciones junto con un entendimiento básico de la arquitectura de soluciones y el aseguramiento de la calidad.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la configuración; gestionar los casos y la base de conocimientos; administrar colas, derechos y SLAs; y configurar la voz del cliente.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20para%20servicio%20al%20cliente&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-230&examname=Examen%20MB-230:%20Microsoft%20Dynamics%20365%20para%20servicio%20al%20cliente&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Configurar voz del cliente (15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-customer-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-customer-service
 courses:
 - uid: course.mb-230t01
 paths:

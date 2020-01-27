@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word Expert (Word y Word 2019)
+title: Microsoft Word Expert (Word and Word 2019)
 metadata:
-  title: 'MO-101: Microsoft Word Expert (Word y Word 2019)'
-  description: 'MO-101: Microsoft Word Expert (Word y Word 2019)'
+  title: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
+  description: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
 uid: exam.mo-101
 displayName: MO-101
-summary: |-
-  Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de esperto de la industria y está lista para ingresar al mercado laboral. Pueden demostrar la aplicación correcta de las características principales de Word a nivel experto y pueden completar tareas de forma independiente.
+summary: Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de esperto de la industria y está lista para ingresar al mercado laboral. Pueden demostrar la aplicación correcta de las características principales de Word a nivel experto y pueden completar tareas de forma independiente.
 subTitle: Este examen mide la competencia en la creación y gestión de documentos profesionales para una variedad de propósitos y situaciones especializadas. El examen cubre la capacidad de personalizar los entornos de Word para satisfacer las necesidades del proyecto y mejorar la productividad. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Administrar las opciones y los ajustes de los documentos
@@ -23,7 +22,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:
@@ -41,4 +40,3 @@ resources:
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
-

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Arquitecto experto Azure Solutions'
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
-  title: 'Certificado por Microsoft: Arquitecto experto Azure Solutions'
-  description: 'Los arquitectos de soluciones Microsoft Azure deben tener experiencia en computación, redes, almacenamiento y seguridad para poder diseñar soluciones que funcionen con Azure.'
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: Los arquitectos de soluciones Microsoft Azure deben tener experiencia en computación, redes, almacenamiento y seguridad para poder diseñar soluciones que funcionen con Azure.
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Los arquitectos de soluciones Microsoft Azure deben tener experiencia en computación, redes, almacenamiento y seguridad para poder diseñar soluciones que funcionen con Azure.
+summary: Los arquitectos de soluciones Microsoft Azure deben tener experiencia en computación, redes, almacenamiento y seguridad para poder diseñar soluciones que funcionen con Azure.
 subTitle: Los arquitectos de soluciones Microsoft Azure deben tener experiencia en computación, redes, almacenamiento y seguridad para poder diseñar soluciones que funcionen con Azure.
 levels:
 - advanced

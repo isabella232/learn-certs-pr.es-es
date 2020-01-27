@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Developer (beta)'
+title: Microsoft Power Apps + Dynamics 365 Developer (beta)
 metadata:
   title: 'Examen MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
   description: 'Examen MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
 uid: exam.mb-400
 displayName: MB-400
-summary: |-
+summary: >-
   Los candidatos para este examen son Desarrolladores que trabajan con aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 para diseñar, dessarrollar, proteger y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 
+
   Los candidatos deben tener un sólido conocimiento aplicado de las aplicaciones basadas en modelos de Power Apps en Dynamics 365, que incluye una comprensión profunda de la personalización, configuración, integración y extensibilidad, así como de límites y restricciones. Los candidatos deben tener una comprensión básica de las prácticas de DevOps para las aplicaciones basadas en modelos de Power Apps en Dynamics 365. Los candidatos deben exponer, almacenar e informar sobre los datos.
+
 
   Los candidatos deben tener experiencia en desarrollo que incluye JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET y PowerBI.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes (CDS); crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-400&examname=Examen%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-400&examname=Examen%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 levels:
 - intermediate
 skills:
@@ -29,11 +31,11 @@ skills:
 - Desarrollar integraciones (10-15%)
 roles:
 - developer
+exams:
+- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-customer-engagement
-exams:
-- uid: exam.mb-200
 courses:
 - uid: course.mb-400t00
 paths:

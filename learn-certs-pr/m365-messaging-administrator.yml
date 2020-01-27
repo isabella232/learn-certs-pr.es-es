@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Messaging Administrator Associate'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Messaging Administrator Associate'
-  description: 'Los administradores de mensajería de Microsoft 365 implementan, configuran, gestionan y supervisan la infraestructura de mensajería, los permisos, el acceso al cliente, la protección del correo electrónico y el flujo de correos en entornos locales, híbridos y en la nube.'
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Los administradores de mensajería de Microsoft 365 implementan, configuran, gestionan y supervisan la infraestructura de mensajería, los permisos, el acceso al cliente, la protección del correo electrónico y el flujo de correos en entornos locales, híbridos y en la nube.
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los administradores de mensajería de Microsoft 365 implementan, configuran, gestionan y supervisan la infraestructura de mensajería, los permisos, el acceso al cliente, la protección del correo electrónico y el flujo de correos en entornos locales, híbridos y en la nube.
+summary: Los administradores de mensajería de Microsoft 365 implementan, configuran, gestionan y supervisan la infraestructura de mensajería, los permisos, el acceso al cliente, la protección del correo electrónico y el flujo de correos en entornos locales, híbridos y en la nube.
 subTitle: Los administradores de mensajería de Microsoft 365 implementan, configuran, gestionan y supervisan la infraestructura de mensajería, los permisos, el acceso al cliente, la protección del correo electrónico y el flujo de correos en entornos locales, híbridos y en la nube.
 levels:
 - intermediate

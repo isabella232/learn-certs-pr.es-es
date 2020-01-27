@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Administrador de Trabajo en Equipo Asociado'
+title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Administrador de Trabajo en Equipo Asociado'
-  description: 'Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.'
+  title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+  description: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
+summary: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
 subTitle: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
 levels:
 - intermediate

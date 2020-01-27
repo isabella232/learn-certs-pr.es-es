@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
-  description: 'Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+summary: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 subTitle: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 levels:
 - intermediate

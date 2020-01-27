@@ -5,20 +5,23 @@ metadata:
   description: 'Examen MB-300: Microsoft Dynamics 365: Core Finance and Operations'
 uid: exam.mb-300
 displayName: MB-300
-summary: |-
+summary: >-
   Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
+
   <br/>
 
+
   Los candidatos para este examen tienen una comprensión fundamental de los principios de contabilidad y operaciones financieras de negocios, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de administración de la cadena de suministro.
+
 
   Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Finanzas y Operaciones de Microsoft Dynamics 365, incluidas finanzas, fabricación y administración de la cadena de suministro.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: usar funcionalidades comunes y herramientas de implementación; configurar seguridad, procesos y opciones; realizar la migración de datos; y validar y apoyar la solución.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-300&examname=Examen%20MB-300:%20Microsoft%20Dynamics%20365:%20Core%20Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-300&examname=Examen%20MB-300:%20Microsoft%20Dynamics%20365:%20Core%20Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 levels:
 - intermediate
 skills:
@@ -28,14 +31,14 @@ skills:
 - Validar y asistir la solución (15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
-- dynamics-finance
 exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+products:
+- dynamics
+- dynamics-finance-operations
+- dynamics-finance
 courses:
 - uid: course.mb-300t01
 - uid: course.mb-300t02

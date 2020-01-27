@@ -5,20 +5,23 @@ metadata:
   description: 'Examen MB-700: Microsoft Dynamics 365. Finance and Operations Apps Solution Architect (beta)'
 uid: exam.mb-700
 displayName: MB-700
-summary: |-
+summary: >-
   Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
+
 
   Un arquitecto de soluciones es responsable de la integridad y la entrega exitosa del diseño completo de la solución. El arquitecto proporciona orientación crítica durante la preventa y el diseño, y realiza consultas durante el resto del ciclo de vida del proyecto para abordar los problemas que surgen durante la implementación.
 
+
   El arquitecto de soluciones debe tener una amplia gama de conocimientos y experiencia que abarque las necesidades comerciales y las capacidades del producto. El Arquitecto de soluciones debe tener una amplia experiencia funcional y técnica como rol de Desarrollador o Consultor funcional en uno de los siguientes&#58; Finanzas, fabricación o gestión de la cadena de suministro. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
-  
+
+
   <div style="color:red"><br/><strong>NOTE&#58; Este examen no estará disponible hasta el 27 de enero de 2020</strong></div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: identificar los requisitos de la solución; componentes de soluciones de diseño; y definir pruebas de solución y estrategias de gestión.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365.%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-700&examname=Examen%20MB-700:%20Microsoft%20Dynamics%20365.%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 levels:
 - advanced
 skills:

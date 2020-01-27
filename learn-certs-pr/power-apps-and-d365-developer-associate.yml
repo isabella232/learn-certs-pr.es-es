@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Power Apps + Dynamics 365 Developer Associate'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
-  title: 'Certificado por Microsoft: Power Apps + Dynamics 365 Developer Associate'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+summary: Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 subTitle: Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365.
 levels:
 - intermediate

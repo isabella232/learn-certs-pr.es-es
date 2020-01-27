@@ -1,22 +1,25 @@
 ### YamlMime:Examination
-title: 'Excel 2016 Expert: Interpretar los datos para ideas'
+title: 'Excel 2016 Expert: Interpreting Data for Insights'
 metadata:
-  title: 'Examen 77-728: Excel 2016 Expert: Interpretar los datos para ideas'
-  description: 'Examen 77-728: Excel 2016 Expert: Interpretar los datos para ideas'
+  title: 'Examen 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  description: 'Examen 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: |
+summary: >
   Los candidatos con nivel experto al examen Excel 2016 tendrán un conocimiento avanzado del entorno Excel y la capacidad de orientar a otros usuarios en el uso correcto de las características del programa.
+
 
   Podrán crear, administrar y distribuir hojas de cálculo profesionales para diversas finalidades y situaciones especializadas. Personalizan el entorno de Excel según las necesidades del proyecto y para mejorar la productividad. Entre los ejemplos de hojas de cálculo se incluyen plantillas empresariales personalizadas, gráficos financieros de varios ejes, tablas de amortización y programaciones de inventario. Los roles de los candidatos pueden incluir contables, analistas financieros, analistas de datos, empleados de banca comercial, etc.
 
+
   Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
+
   - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos.
+
   - El formato del examen MOS 2016 incorpora varios proyectos.
 subTitle: Los candidatos con nivel experto al examen Excel 2016 tendrán un conocimiento avanzado del entorno Excel y la capacidad de orientar a otros usuarios en el uso correcto de las características del programa.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,12 +30,13 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Administrar las opciones y los ajustes de los libros (10-15%)
-- Aplicar formatos de datos y diseños personalizados (20-25%) 
-- Creación de fórmulas avanzadas (35-40%) 
+- Aplicar formatos de datos y diseños personalizados (20-25%)
+- Creación de fórmulas avanzadas (35-40%)
 - Crear gráficos y tablas avanzados (25-30%)
 roles:
 - developer

@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: Desarrollar soluciones para Microsoft Azure
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Examen AZ-203: Desarrollar soluciones para Microsoft Azure'
-  description: 'Examen AZ-203: Desarrollar soluciones para Microsoft Azure'
+  title: 'Examen AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Examen AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   Los candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
+
   <br/>
 
+
   Los candidatos deberán ser hábiles al desarrollar aplicaciones y servicios usando las herramientas y tecnología Azure, incluido almacenamiento, seguridad, cómputos, y comunicaciones.
+
 
   Los candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube.
 subTitle: 'Este examen mide su capacidad para cumplir las siguientes funciones técnicas: desarrollar la infraestructura de Azure como un servicio de soluciones informáticas; desarrollar la plataforma de Azure como soluciones informáticas de servicio; Desarrollar para el almacenamiento en Azure; implementar la seguridad de Azure; monitorizar, solucionar los problemas y mejorar las soluciones; y conectarse a y consumir servicios de Azure y servicios de terceros.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-203&examname=Examen%20AZ-203:%20Desarrollar%20soluciones%20para%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-203&examname=Examen%20AZ-203:%20Desarrollar%20soluciones%20para%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -33,6 +36,8 @@ skills:
 - Conectarse a y consumir los servicios de Azure y los servicios de terceros 20-25%)
 roles:
 - developer
+exams:
+- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -44,8 +49,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-exams:
-- uid: exam.az-202
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02

@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Soluciones DevOps de Microsoft Azure
+title: Microsoft Azure DevOps Solutions
 metadata:
-  title: 'Examen AZ-400: Soluciones DevOps de Microsoft Azure'
-  description: 'Examen AZ-400: Soluciones DevOps de Microsoft Azure'
+  title: 'Examen AZ-400: Microsoft Azure DevOps Solutions'
+  description: 'Examen AZ-400: Microsoft Azure DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
-summary: |-
+summary: >-
   Los candidatos para este examen son profesionales de DevOps que combinan personas, procesos y tecnologías para entregar continuamente productos y servicios valiosos que satisfagan las necesidades del usuario final y los objetivos de negocios. Los profesionales de DevOps optimizan la entrega al maximizar las prácticas, mejorar las comunicaciones la colaboración, y la creación de automatización. Diseñan e implementan estrategias para el código de aplicación y la infraestructura, las cuales permiten la integración continua, las pruebas, la entrega, la monitorización y la retroalimentación.
+
 
   Los candidatos deben tener conocimiento de las prácticas de Agile. Los candidatos deben tener conocimiento de administración de Azure y desarrollo de Azure y ser expertos en al menos una de estas áreas. Los profesionales de DevOps de Azure deben poder diseñar e implementar las prácticas de DevOps para control de versiones, cumplimiento, infraestructura como código, gestión de configuración, creación, lanzamiento y pruebas mediante las tecnologías de Azure.
 subTitle: 'Este examen mide su capacidad para diseñar una estrategia DevOps e implementar lo siguiente: Procesos de desarrollo de DevOps; gestión de dependencia; infraestructura de aplicaciones; e integración continua, entrega y retroalimentación.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-400&examname=Examen%20AZ-400:%20Soluciones%20DevOps%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-400&examname=Examen%20AZ-400:%20Soluciones%20DevOps%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -37,12 +38,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -51,6 +46,12 @@ courses:
 - uid: course.az-400t05
 - uid: course.az-400t06
 - uid: course.az-400t07
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 relatedCertifications:
 - related:
     uid: certification.azure-devops

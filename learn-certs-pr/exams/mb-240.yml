@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 para servicio de campo
+title: Microsoft Dynamics 365 Field Service
 metadata:
-  title: 'Examen MB-240: Microsoft Dynamics 365 para servicio de campo'
-  description: 'Examen MB-240: Microsoft Dynamics 365 para servicio de campo'
+  title: 'Examen MB-240: Microsoft Dynamics 365 Field Service'
+  description: 'Examen MB-240: Microsoft Dynamics 365 Field Service'
 uid: exam.mb-240
 displayName: MB-240
-summary: |-
+summary: >-
   Los candidatos para este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en servicio de campo. Los candidatos son responsables de implementar soluciones que administran los recursos que completan el ciclo de vida del servicio de campo.
 
+
   Los candidatos implementan los procesos de servicio de campo diseñados en colaboración con equipos internos y externos. Esta colaboración incluye la configuración de las áreas de administración predeterminadas de la aplicación Field Service, la implementación de la solución Connected Field Service (IoT) y la aplicación móvil, y la implementación de las personalizaciones adicionales necesarias. Los candidatos son responsables de la configuración y la implementación de la aplicación Field Service junto con la aplicación central de servicio al cliente.
+
 
   Los candidatos deben conocer cómo configurar y personalizar los componentes de la aplicación Servicio de campo, incluidos los servicios de configuración, recursos, características, incidentes, integración de inventario, acuerdos de servicio, programación de recursos, órdenes de trabajo, tareas de servicio, roles de usuario de servicio de campo, configuración de servicio de campo , la solución Connected Field Service (IoT) y la configuración de la aplicación Field Service Mobile
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar aplicaciones de servicio de campo; gestionar las órdenes de trabajo; programar y despachar órdenes de trabajo; gestionar la movilidad del servicio de campo; gestionar el inventario y las compras; y gestionar activos y acuerdos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-240&examname=Examen%20MB-240:%20Microsoft%20Dynamics%20365%20para%20servicio%20de%20campo&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-240&examname=Examen%20MB-240:%20Microsoft%20Dynamics%20365%20para%20servicio%20de%20campo&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -28,11 +30,11 @@ skills:
 - Gestionar activos y acuerdos (10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-field-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-field-service
 courses:
 - uid: course.mb-240t01
 - uid: course.mb-240t02

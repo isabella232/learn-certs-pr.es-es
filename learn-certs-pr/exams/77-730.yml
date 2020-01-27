@@ -5,19 +5,18 @@ metadata:
   description: 'Examen 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |
+summary: >
   Para superar el examen de Access 2016, los candidatos deben tener un conocimiento básico del entorno de la aplicación. Tendrán que conocer los principios básicos para el diseño de bases de datos y ser capaces de completar tareas de forma independiente. Además, deben conocer y demostrar la correcta aplicación de las funciones principales de Access 2016, y tener la capacidad para crear y mantener los objetos básicos de una base de datos Access, como tablas, relaciones, formularios de entrada de datos, informes con varios niveles y consultas con varias tablas.
 
+
   Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
+
   - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos.
+
   - El formato del examen MOS 2016 incorpora varios proyectos.
 subTitle: Para superar el examen de Access 2016, los candidatos deben tener un conocimiento básico del entorno de la aplicación. Tendrán que conocer los principios básicos para el diseño de bases de datos y ser capaces de completar tareas de forma independiente. Además, deben conocer y demostrar la correcta aplicación de las funciones principales de Access 2016, y tener la capacidad para crear y mantener los objetos básicos de una base de datos Access, como tablas, relaciones, formularios de entrada de datos, informes con varios niveles y consultas con varias tablas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +26,11 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Crear y administrar una base de datos (20-25%)

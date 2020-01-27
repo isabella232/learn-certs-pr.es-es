@@ -1,12 +1,13 @@
 ### YamlMime:Examination
-title: Fundamentos de Microsoft 365
+title: Microsoft 365 Fundamentals
 metadata:
-  title: 'Examen MS-900: Fundamentos de Microsoft 365'
-  description: 'Examen MS-900: Fundamentos de Microsoft 365'
+  title: 'Examen MS-900: Microsoft 365 Fundamentals'
+  description: 'Examen MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   Este examen está diseñado para candidatos que buscan demostrar conocimientos fundamentales sobre las consideraciones y los beneficios de adoptar los servicios de nube en general y el modelo de nube de Software como servicio (SaaS). Este examen también cubrirá el conocimiento de las opciones disponibles y los beneficios obtenidos al implementar las ofertas de servicios en la nube de Microsoft 365.
+
 
   Este examen puede tomarse como un precursor de los exámenes de computación en la nube y tecnologías como Office 365, Microsoft Intune, Protección de información de Azure (AIP) y Windows 10.
 subTitle: Demuestre que entiende los conceptos de la nube; servicios y conceptos básicos de Microsoft 365; seguridad, cumplimiento, privacidad y confianza en Microsoft 365; y precios y soporte de Microsoft 365.
@@ -17,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-900&examname=Examen%20MS-900:%20Fundamentos%20de%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-900&examname=Examen%20MS-900:%20Fundamentos%20de%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -60,4 +61,3 @@ resources:
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
-

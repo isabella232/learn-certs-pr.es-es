@@ -1,31 +1,18 @@
 ### YamlMime:Examination
-title: Transición de Certificación del Desarrollador de Microsoft Azure
+title: Microsoft Azure Developer Certification Transition
 metadata:
-  title: 'Examen AZ-202: Transición de Certificación del Desarrollador de Microsoft Azure'
-  description: 'Examen AZ-202: Transición de Certificación del Desarrollador de Microsoft Azure'
+  title: 'Examen AZ-202: Microsoft Azure Developer Certification Transition'
+  description: 'Examen AZ-202: Microsoft Azure Developer Certification Transition'
 uid: exam.az-202
 displayName: AZ-202
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL 31 DE MARZO DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</div>
-  <br/>
-   
-  Este examen está diseñado solo para candidatos que hayan realizado el [Examen 70-532&#58;](https://www.microsoft.com/learning/exam-70-532.aspx) Desarrollar Microsoft Azure Solutions. Si no ha realizado el Examen 532, no obtendrá un certificado al realizar este examen.
-  
-  El examen de transición está pensado para personas que ya han demostrado habilidades en el dominio de contenido pasando el (los) exámen(es) existentes que los nuevos exámenes de certificación basados en roles estarán reemplazando. Cubren el delta entre la certificación actual y lo que esperamos que las personas que ganen la nueva certificación sean capaces de hacer. No deseamos volver a aplicar una prueba a las personas con el mismo contenido cuando ya han demostrado competencia aprobando el examen existente.
-
-  Los exámenes de transición cubren el nuevo contenido neto, contenido que no fue cubierto en totalidad, y contenido en aspectos de la tecnología que probablemente hayan cambiado desde que alguien realizó el examen. Como consecuencia, el examen de transición no es más corto que un examen normal pero está más enfocado en las tareas clave que no fueron evaluadas en el examen o certificación existente que está siendo reemplazado.
-
-  Los candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
-
-  Los candidatos deberán ser hábiles al desarrollar aplicaciones y servicios usando las herramientas y tecnología Azure, incluido almacenamiento, seguridad, cómputos, y comunicaciones.
-
-  Los candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL 31 DE MARZO DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</div>\n<br/>\n \nEste examen está diseñado solo para candidatos que hayan realizado el [Examen 70-532&#58;](https://www.microsoft.com/learning/exam-70-532.aspx) Desarrollar Microsoft Azure Solutions. Si no ha realizado el Examen 532, no obtendrá un certificado al realizar este examen.\n\nEl examen de transición está pensado para personas que ya han demostrado habilidades en el dominio de contenido pasando el (los) exámen(es) existentes que los nuevos exámenes de certificación basados en roles estarán reemplazando. Cubren el delta entre la certificación actual y lo que esperamos que las personas que ganen la nueva certificación sean capaces de hacer. No deseamos volver a aplicar una prueba a las personas con el mismo contenido cuando ya han demostrado competencia aprobando el examen existente.\n\nLos exámenes de transición cubren el nuevo contenido neto, contenido que no fue cubierto en totalidad, y contenido en aspectos de la tecnología que probablemente hayan cambiado desde que alguien realizó el examen. Como consecuencia, el examen de transición no es más corto que un examen normal pero está más enfocado en las tareas clave que no fueron evaluadas en el examen o certificación existente que está siendo reemplazado.\n\nLos candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.\n\nLos candidatos deberán ser hábiles al desarrollar aplicaciones y servicios usando las herramientas y tecnología Azure, incluido almacenamiento, seguridad, cómputos, y comunicaciones.\n\nLos candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube."
 subTitle: 'Este examen está diseñado solo para candidatos que hayan realizado el Examen 70-532: Desarrollar Microsoft Azure Solutions. Si no ha realizado el Examen 532, no obtendrá un certificado al realizar este examen.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 03/31/2019
 levels:
 - intermediate
 skills:
@@ -34,13 +21,12 @@ skills:
 - Proteger soluciones en la nube (5-10%)
 - Desarrollar un modelo de Azure Cloud (25-30%)
 - Implementar las soluciones de integración en la nube (15-20%)
-retirementDate: 03/31/2019
 roles:
 - developer
-products:
-- azure
 exams:
 - uid: exam.az-203
+products:
+- azure
 relatedCertifications:
 - related:
     uid: certification.azure-developer

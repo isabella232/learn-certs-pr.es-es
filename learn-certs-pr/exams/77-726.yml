@@ -9,6 +9,9 @@ summary: "Los candidatos de nivel experto para el examen de Word 2016 utilizan c
 subTitle: Los candidatos de nivel experto para el examen de Word 2016 utilizan con absoluto dominio las funciones avanzadas de Word 2016 de administración de documentos y contenido, así como el formato avanzado.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -17,6 +17,9 @@ summary: >
 subTitle: Para superar el examen de Access 2016, los candidatos deben tener un conocimiento básico del entorno de la aplicación. Tendrán que conocer los principios básicos para el diseño de bases de datos y ser capaces de completar tareas de forma independiente. Además, deben conocer y demostrar la correcta aplicación de las funciones principales de Access 2016, y tener la capacidad para crear y mantener los objetos básicos de una base de datos Access, como tablas, relaciones, formularios de entrada de datos, informes con varios niveles y consultas con varias tablas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

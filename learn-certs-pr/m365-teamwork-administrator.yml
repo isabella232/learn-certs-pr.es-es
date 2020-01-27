@@ -43,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Administrador de Trabajo en Equipo Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

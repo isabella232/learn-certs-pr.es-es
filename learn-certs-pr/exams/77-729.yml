@@ -9,6 +9,9 @@ summary: "Para superar el examen, los candidatos deben tener conocimientos bási
 subTitle: Para superar el examen, los candidatos deben tener conocimientos básicos del entorno PowerPoint y demostrar la correcta aplicación de PowerPoint 2016. Tendrán que crear, editar y mejorar las presentaciones y los pases de diapositivas. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

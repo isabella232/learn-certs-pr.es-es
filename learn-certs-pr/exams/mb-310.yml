@@ -16,7 +16,7 @@ summary: >-
   <br/>
 
 
-  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Finanzas de Microsoft Dynamics 365, incluidas finanzas, fabricación y administración de la cadena de suministro.
+  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Microsoft Dynamics 365 Finance, incluidas finanzas, fabricación y administración de la cadena de suministro.
 
 
   Los candidatos deben tener conocimiento de los principios y prácticas contables básicos.
@@ -25,7 +25,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-310&examname=Examen%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-310
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-310&examname=Examen%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:

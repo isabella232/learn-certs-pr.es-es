@@ -55,7 +55,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: Ruta de certificación de aprendizaje
-  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
+  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.

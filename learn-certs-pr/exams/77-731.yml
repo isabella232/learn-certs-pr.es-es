@@ -17,6 +17,9 @@ summary: >
 subTitle: Para superar el examen, los candidatos deben crear y editar mensajes de correo electrónico con un aspecto profesional, mantener calendarios con varias zonas horarias y programar tareas para una variedad de finalidades y situaciones. Utilizarán Outlook 2016 para mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

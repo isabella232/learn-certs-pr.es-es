@@ -32,7 +32,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: Ruta de certificación de aprendizaje
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Teams Administrator Associate.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Guía de capacitación y certificación
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.

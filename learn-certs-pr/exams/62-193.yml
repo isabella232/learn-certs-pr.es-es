@@ -12,6 +12,11 @@ summary: >-
   El MCE&#58; El examen de certificación para Technology Literacy for Educators es un examen de nivel intermedio pensado para que sea una forma válida de medir las competencias requeridas en el marco del 21st Century Learning Design (21CLD).
 subTitle: Los candidatos para este examen son personas que se preparan para convertirse en educadores de aula, educadores actualizados, profesores de formación al profesorado o escuelas para docentes, administradores educativos u otros profesionales que buscan proporcionar la validación de sus competencias.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -22,7 +27,6 @@ locales:
 - ru
 - pl
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2F62-193
 levels:
 - beginner
 skills:

@@ -33,7 +33,7 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Administrador de Seguridad Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

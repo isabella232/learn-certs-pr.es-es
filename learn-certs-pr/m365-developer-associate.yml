@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: Ruta de certificación de aprendizaje
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Desarrollador Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Desarrollador Asociado.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guía de capacitación y certificación
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.

@@ -15,7 +15,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-301&examname=Examen%20AZ-301:%20Diseño%20de%20Arquitectura%20de%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-301&examname=Examen%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:

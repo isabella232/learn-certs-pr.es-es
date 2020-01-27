@@ -9,6 +9,9 @@ summary: "Para superar el examen de Microsoft Word 2016, los candidatos deben te
 subTitle: Para superar el examen de Microsoft Word 2016, los candidatos deben tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Tendrán que demostrar la correcta aplicación de las características principales de Word 2016 mediante la creación y edición de documentos con dos o tres páginas para una variedad de finalidades y situaciones. Entre los ejemplos de documentos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

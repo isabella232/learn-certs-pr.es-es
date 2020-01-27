@@ -9,6 +9,9 @@ summary: "Para superar el examen de Microsoft Office Specialist Excel 2016, los 
 subTitle: Para superar el examen de Microsoft Office Specialist Excel 2016, los candidatos deben tener conocimientos básicos del entorno Excel y la capacidad de completar tareas de forma independiente. Además, deben conocer y demostrar la aplicación correcta de las funciones principales de Excel 2016. Los candidatos tendrán que crear y editar un libro con múltiples hojas y utilizar un elemento gráfico para representar los datos de manera visual. Entre los ejemplos de hojas de cálculo se incluyen presupuestos de apariencia profesional, estados financieros, gráficos de rendimiento del equipo, facturas de ventas y registros de entrada de datos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

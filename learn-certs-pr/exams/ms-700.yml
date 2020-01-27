@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-700&examname=Examen%20MS-700:%20Gestionar%20Equipos%20de%20Microsoft&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-700
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-700&examname=Examen%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-700
 levels:
 - intermediate
 skills:

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Certificación Asociado administrador de escritorios modernos'
-  description: 'Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+summary: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 subTitle: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 levels:
 - intermediate
@@ -41,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Asociado administrador de escritorios modernos.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

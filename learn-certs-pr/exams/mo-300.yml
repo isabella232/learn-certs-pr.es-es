@@ -5,15 +5,16 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: |-
-  Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de asociado de la industria y está lista para ingresar al mercado laboral Pueden demostrar la aplicación correcta de las características principales de PowerPoint y pueden completar tareas de forma independiente.
+summary: Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de asociado de la industria y está lista para ingresar al mercado laboral Pueden demostrar la aplicación correcta de las características principales de PowerPoint y pueden completar tareas de forma independiente.
 subTitle: Este examen mide la competencia para crear, editar y mejorar presentaciones y presentaciones de diapositivas, incluida la capacidad de crear y administrar presentaciones, insertar y dar formato a formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones y administrar presentaciones múltiples. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Administrar presentaciones
@@ -23,7 +24,7 @@ skills:
 - Aplicar transiciones y animaciones
 roles:
 - developer
-products: 
+products:
 - office
 - office-powerpoint
 relatedCertifications:
@@ -42,4 +43,3 @@ resources:
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
-

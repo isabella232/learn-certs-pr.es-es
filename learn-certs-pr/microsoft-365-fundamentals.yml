@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Certificado de fundamentos de Microsoft 365
+title: Microsoft 365 Certified Fundamentals
 metadata:
-  title: Certificado de fundamentos de Microsoft 365
-  description: 'Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.'
+  title: Microsoft 365 Certified Fundamentals
+  description: Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
+summary: Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
 subTitle: Demostrar que comprende las opciones disponibles en Microsoft 365 y los beneficios de adoptar servicios en la nube, el modelo en la nube de Software as a Service (SaaS) e implementar el servicio en la nube de Microsoft 365.
 levels:
 - beginner
@@ -32,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Fundamentales.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

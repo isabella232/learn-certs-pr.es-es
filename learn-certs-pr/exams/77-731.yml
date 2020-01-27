@@ -5,16 +5,21 @@ metadata:
   description: 'Examen 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |
+summary: >
   Para superar el examen, los candidatos deben crear y editar mensajes de correo electrónico con un aspecto profesional, mantener calendarios con varias zonas horarias y programar tareas para una variedad de finalidades y situaciones. Utilizarán Outlook 2016 para mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción.
 
+
   Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
+
   - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos.
+
   - El formato del examen MOS 2016 incorpora varios proyectos.
 subTitle: Para superar el examen, los candidatos deben crear y editar mensajes de correo electrónico con un aspecto profesional, mantener calendarios con varias zonas horarias y programar tareas para una variedad de finalidades y situaciones. Utilizarán Outlook 2016 para mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -25,7 +30,7 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+levels:
 - intermediate
 skills:
 - Administrar el entorno Outlook para una mayor productividad (20-25%)

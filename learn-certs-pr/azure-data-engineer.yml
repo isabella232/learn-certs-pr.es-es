@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Azure Data Engineer Associate'
+title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
-  title: 'Certificado por Microsoft: Azure Data Engineer Associate'
-  description: 'Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.'
+  title: 'Microsoft Certified: Azure Data Engineer Associate'
+  description: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
+summary: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
 subTitle: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.dp-201
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Data Engineer Associate.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Desarrollador Asociado'
+title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Desarrollador Asociado'
+  title: 'Microsoft 365 Certified: Developer Associate'
   description: Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
-  
+
+
   Los desarrolladores de Microsoft 365 son competentes en la identidad de Microsoft y Microsoft Graph. Tienen conocimientos generales sobre los elementos de IU (incluyéndose Adaptive Cards y UI Fabric), puntos de integración (incluyéndose Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), y para determinar los objetivos de la plataforma de cargas de trabajo.
 subTitle: Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 levels:
@@ -30,7 +31,7 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: Ruta de certificación de aprendizaje
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Desarrollador Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Desarrollador Asociado.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guía de capacitación y certificación
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.

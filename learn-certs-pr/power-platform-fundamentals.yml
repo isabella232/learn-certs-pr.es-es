@@ -5,8 +5,7 @@ metadata:
   description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+summary: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
 subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
 levels:
 - beginner

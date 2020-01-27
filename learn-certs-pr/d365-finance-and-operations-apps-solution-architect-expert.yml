@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Dynamics 365: Experto en arquitectura y soluciones de aplicaciones de operaciones y finanzas'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
-  title: 'Certificado por Microsoft: Dynamics 365: Experto en arquitectura y soluciones de aplicaciones de operaciones y finanzas'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
   description: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
+summary: >-
   Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
-  
+
+
   <div style="color:red"><br/><strong>NOTE&#58; Esta certificación no estará disponible hasta el 27 de enero de 2020</strong></div>
 subTitle: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
 levels:
@@ -21,9 +22,6 @@ roles:
 type: role-based
 products:
 - dynamics
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -33,6 +31,9 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 resources:
 - title: Guía de capacitación y certificación
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Certificado por Microsoft Fundamentos de Azure
+title: Microsoft Certified Azure Fundamentals
 metadata:
-  title: Certificado por Microsoft Fundamentos de Azure
-  description: 'Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.'
+  title: Microsoft Certified Azure Fundamentals
+  description: Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
+summary: Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
 subTitle: Demostrar que comprende los conceptos de la nube, los servicios Azure fundamentales, los precios y soporte de Azure, y los aspectos fundamentales de la seguridad, privacidad, cumplimiento y confianza de la nube.
 levels:
 - beginner
@@ -29,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Fundamentals.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

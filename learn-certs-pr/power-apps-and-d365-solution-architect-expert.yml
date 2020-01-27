@@ -1,14 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
 metadata:
-  title: 'Certificado por Microsoft: Power Apps + Dynamics 365 Solution Architect Expert'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
   description: Los arquitectos de soluciones para aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Los arquitectos de soluciones para aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.  
-  
-  <div style="color:red"><br/><strong>NOTE&#58; Esta certificación no estará disponible hasta el 27 de enero de 2020</strong></div>
+summary: "Los arquitectos de soluciones para aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.  \n\n<div style=\"color:red\"><br/><strong>NOTE&#58; Esta certificación no estará disponible hasta el 27 de enero de 2020</strong></div>"
 subTitle: Los arquitectos de soluciones para aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 levels:
 - advanced
@@ -22,9 +19,6 @@ type: role-based
 products:
 - dynamics
 - power-apps
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -33,9 +27,12 @@ prerequisites:
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false  
+  isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 resources:
 - title: Guía de capacitación y certificación
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.

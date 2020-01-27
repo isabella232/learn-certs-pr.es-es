@@ -1,25 +1,29 @@
 ### YamlMime:Examination
-title: Manejando los escritorios modernos
+title: Managing Modern Desktops
 metadata:
-  title: 'Examen MD-101: Manejo de computadoras modernas'
-  description: 'Examen MD-101: Manejo de computadoras modernas'
+  title: 'Examen MD-101: Managing Modern Desktops'
+  description: 'Examen MD-101: MManaging Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: |-
+summary: >-
   Si aprobó [El examen 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop. Los candidatos para este examen son administradores que implementan, configuran, aseguran, administran y monitorizan dispositivos y aplicaciones del cliente en un entorno empresarial. Los candidatos administran la identidad, el acceso, las directivas, las actualizaciones y las aplicaciones.
+
   <br/>
 
+
   Como administrador, los candidatos suelen colaborar con un administrador de Microsoft 365 Enterprise para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna.
+
   <br/>
+
 
   Los candidatos deben estar familiarizados con las cargas de trabajo de Microsoft 365 y deben ser competentes y tener experiencia en la implementación, configuración y mantenimiento de dispositivos y tecnologías Windows 10 y no Windows.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: implementar y actualizar los sistemas operativos; gestionar las políticas y perfiles; administrar y proteger los dispositivos; y gestionar las aplicaciones y los datos. Si aprobó el Examen 70-698 antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MD-101&examname=Examen%20MD-101:%20Manejo%20de%20computadoras%20modernas&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MD-101&examname=Examen%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Administrar aplicaciones y datos (25-30%)
 roles:
 - administrator
+exams:
+- uid: exam.md-100
 products:
 - m365
 - windows
-exams:
-- uid: exam.md-100
 courses:
 - uid: course.md-101t01
 - uid: course.md-101t02

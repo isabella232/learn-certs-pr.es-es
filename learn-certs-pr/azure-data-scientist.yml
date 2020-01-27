@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Azure Data Scientist Associate'
+title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
-  title: 'Certificado por Microsoft: Azure Data Scientist Associate'
-  description: 'Los científicos de datos de Azure aplican las técnicas de aprendizaje automático de Azure para formar, evaluar e implementar modelos que resuelvan problemas empresariales.'
+  title: 'Microsoft Certified: Azure Data Scientist Associate'
+  description: Los científicos de datos de Azure aplican las técnicas de aprendizaje automático de Azure para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los científicos de datos de Azure aplican las técnicas de aprendizaje automático de Azure para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
+summary: Los científicos de datos de Azure aplican las técnicas de aprendizaje automático de Azure para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
 subTitle: Los científicos de datos de Azure aplican las técnicas de aprendizaje automático de Azure para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
 levels:
 - intermediate
@@ -35,7 +34,7 @@ exams:
 - uid: exam.dp-100
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Data Scientist Associate.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Data Scientist Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

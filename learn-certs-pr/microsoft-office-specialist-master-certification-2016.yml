@@ -5,19 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.
-  
-  Para obtener una certificación Master de Microsoft Office Specialist, complete los siguientes requisitos&#58;
-
-  - Aprobar cada uno de los tres exámenes requeridos
-    - [77-726&#58; Word 2016 Experto&#58; Crear documentos para una comunicación efectiva](/learn/certifications/exams/77-726)
-    - [77-728&#58; Excel 2016 Experto&#58; Interpretación de datos para Insights](/learn/certifications/exams/77-728)
-    - [77-729&#58; PowerPoint 2016&#58; Diseño básico de presentación y habilidades de entrega](/learn/certifications/exams/77-729)
-  - Aprobar uno de los exámenes electivos 
-    - [77-730&#58; Access 2016&#58; Gestión básica de bases de datos, manipulación y habilidades de consulta](/learn/certifications/exams/77-730)
-    - [77-731&#58; Outlook 2016&#58; Habilidades básicas de comunicación, colaboración y correo electrónico](/learn/certifications/exams/77-731)
-  
+summary: "Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.\n\nPara obtener una certificación Master de Microsoft Office Specialist, complete los siguientes requisitos&#58;\n\n- Aprobar cada uno de los tres exámenes requeridos\n  - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)\n  - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)\n  - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)\n- Aprobar uno de los exámenes electivos \n  - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)\n  - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)"
 subTitle: Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.
 levels:
 - advanced
@@ -49,4 +37,3 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

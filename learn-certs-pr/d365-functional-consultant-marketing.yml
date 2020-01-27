@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Dynamics 365 for Marketing Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
-  title: 'Certificado por Microsoft: Dynamics 365 for Marketing Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.'
+  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
+summary: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
 subTitle: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
 levels:
 - intermediate
@@ -49,7 +48,7 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Dynamics 365 for Marketing Functional Consultant Associate.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

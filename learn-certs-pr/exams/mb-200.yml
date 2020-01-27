@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: Plataforma Microsoft Power + Dynamics 365 Core
+title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: 'Examen MB-200: Plataforma Microsoft Power + Dynamics 365 Core'
-  description: 'Examen MB-200: Plataforma Microsoft Power + Dynamics 365 Core'
+  title: 'Examen MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'Examen MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   Los candidatos para este examen son consultores funcionales que tienen acceso a las características y funcionalidad del producto con licencia empresarial. Como consultor funcional, el candidato conoce las versiones de paquetes de características pero no funciona principalmente con estos paquetes de productos.
+
   <br/>
 
+
   Los candidatos son principalmente responsables de configurar el sistema para cumplir con las necesidades de los clientes, al realizar tareas de diseño relacionadas con la implementación de nuevas características y funcionalidad, y al implementar y probar cambios del sistema.
+
 
   Los candidatos planifican el diseño funcional para soluciones, implementan un proceso de gestión del ciclo de vida de la aplicación (ALM), migrar datos y objetos a partir de legado y sistemas externos, integrar Power Platform con otros sistemas, y gestionar el entorno de Power Platform.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar descubrimiento, planificación y análisis; administrar el diseño de la experiencia del usuario; gestionar entidades y datos; implementar seguridad; implementar la integración; y realizar el despliegue y prueba de soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-200&examname=Examen%20MB-200:%20Plataforma%20Microsoft%20Power%20+%20Dynamics%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-200&examname=Examen%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
@@ -30,17 +33,17 @@ skills:
 - Realizar implementación y pruebas de soluciones (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
-- dynamics-marketing
-- dynamics-field-service
-- dynamics-customer-service
 exams:
 - uid: exam.mb-210
 - uid: exam.mb-220
 - uid: exam.mb-230
 - uid: exam.mb-240
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
 courses:
 - uid: course.mb-200t01
 - uid: course.mb-200t02

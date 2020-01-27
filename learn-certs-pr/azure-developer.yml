@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado por Microsoft: Azure Developer Associate'
+title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
-  title: 'Certificado por Microsoft: Azure Developer Associate'
-  description: 'Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.'
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+summary: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
 subTitle: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
 levels:
 - intermediate
@@ -56,7 +55,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: Ruta de certificación de aprendizaje
-  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Azure Developer Associate.'
+  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.

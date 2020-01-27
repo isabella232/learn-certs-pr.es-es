@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificado de Microsoft 365: Administrador de Seguridad Asociado'
+title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
-  title: 'Certificado de Microsoft 365: Administrador de Seguridad Asociado'
-  description: 'Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.'
+  title: 'Microsoft 365 Certified: Security Administrator Associate'
+  description: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+summary: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
 subTitle: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
 levels:
 - intermediate
@@ -34,7 +33,7 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Administrador de Seguridad Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

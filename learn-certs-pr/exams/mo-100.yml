@@ -1,19 +1,20 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word y Word 2019)
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word y Word 2019)'
-  description: 'MO-100: Microsoft Word (Word y Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  Un candidato que obtiene esta certificación tiene aproximadamente 150 horas de clases y experiencia práctica con el producto, tiene competencia probada en el nivel asociado a la industria y está listo para ingresar en el mercado laboral. Los candidatos pueden demostrar la aplicación correcta de las principales características de Word y pueden completar las tareas de manera independiente.
+summary: Un candidato que obtiene esta certificación tiene aproximadamente 150 horas de clases y experiencia práctica con el producto, tiene competencia probada en el nivel asociado a la industria y está listo para ingresar en el mercado laboral. Los candidatos pueden demostrar la aplicación correcta de las principales características de Word y pueden completar las tareas de manera independiente.
 subTitle: Este examen mide la competencia en la correcta aplicación de las características principales de Word mediante la creación y edición de documentos para una variedad de finalidades y situaciones. El examen cubre la habilidad de crear y mantener informes de apariencia profesional, boletines con varias columnas, curriculum vitae y correspondencia comercial.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Administrar documentos (20-25%)
@@ -25,7 +26,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

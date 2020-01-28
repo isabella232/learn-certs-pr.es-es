@@ -68,11 +68,11 @@ Aproveche importantes descuentos en los exámenes de Microsoft Certified Profess
 
 **P. ¿Puedo realizar un examen online con el vale de examen de un Exam Replay?**
 
-**R.** Sí, en los casos en los que la posibilidad de realizar el examen online esté disponible, se puede realizar con el vale de un Exam Replay. [Aprenda sobre los exámenes en línea](https://www.microsoft.com/es-es/learning/online-proctored-exams.aspx) para la certificación de Microsoft.
+**R.** Sí, en los casos en los que la posibilidad de realizar el examen online esté disponible, se puede realizar con el vale de un Exam Replay. [Aprenda sobre los exámenes en línea](https://www.microsoft.com/learning/online-proctored-exams.aspx) para la certificación de Microsoft.
 
 **P. ¿Puedo programar mi examen inicial y las repeticiones al mismo tiempo?**
 
-**R.** No, no puede inscribirse en la repetición del examen hasta que no haya realizado y aprobado el examen inicial. Para obtener más detalles, consulte la [directiva de repetición de exámenes de Microsoft Certification](https://www.microsoft.com/es-es/learning/certification-exam-policies.aspx).
+**R.** No, no puede inscribirse en la repetición del examen hasta que no haya realizado y aprobado el examen inicial. Para obtener más detalles, consulte la [directiva de repetición de exámenes de Microsoft Certification](https://www.microsoft.com/learning/certification-exam-policies.aspx).
 
 **P. ¿Cómo activo un Examen de Práctica y por cuánto tiempo es válido?**
 

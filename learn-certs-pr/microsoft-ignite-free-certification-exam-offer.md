@@ -64,7 +64,7 @@ Esta oferta incluye todos los exámenes de certificación de fundamentos, roles 
 - Esta oferta de examen no es transferible y es nula si la modifica, cambia o transfiere de alguna manera.
 - Esta oferta de examen solo se ofrece a personas que se hayan registrado y hayan asistido a un evento oficial de Microsoft Ignite 2019 o Microsoft Ignite The Tour 2019-2020.
 
-Para obtener información adicional, consulte los [Términos de uso de Microsoft](https://www.microsoft.com/es-es/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) completos.
+Para obtener información adicional, consulte los [Términos de uso de Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) completos.
 
 ## Preguntas frecuentes externas: oferta de examen gratis en MS Ignite y El recorrido
 
@@ -76,7 +76,7 @@ Para obtener información adicional, consulte los [Términos de uso de Microsoft
 
 **P: ¿Qué exámenes de certificación son elegibles para esta oferta?**
 
-**R:** Esta oferta incluye todos los exámenes de certificación de fundamentos, roles y especialidades de Microsoft. Para obtener una lista de los exámenes de certificación elegibles, consulte la sección "Exámenes elegibles para esta oferta" en nuestra página de información de la oferta: [https://docs.microsoft.com/es-es/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/es-es/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**R:** Esta oferta incluye todos los exámenes de certificación de fundamentos, roles y especialidades de Microsoft. Para obtener una lista de los exámenes de certificación elegibles, consulte la sección "Exámenes elegibles para esta oferta" en nuestra página de información de la oferta: [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **P: Si me registré para un evento elegible pero no asistí en persona, ¿puedo aún solicitar esta oferta?**
 
@@ -98,7 +98,7 @@ Para obtener información adicional, consulte los [Términos de uso de Microsoft
 
 **P: ¿Cómo programo mi examen gratis de esta oferta?**
 
-**R:** Para consultar las instrucciones sobre cómo programar su examen gratis, diríjase a [https://docs.microsoft.com/es-es/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/es-es/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**R:** Para consultar las instrucciones sobre cómo programar su examen gratis, diríjase a [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **P: Al verificar si soy elegible para obtener descuentos del examen, encontré un error que establece que no soy elegible porque soy un oficial del gobierno pero no lo soy. ¿Qué debo hacer?**
 
@@ -111,7 +111,7 @@ Para obtener información adicional, consulte los [Términos de uso de Microsoft
 **P: ¿Tengo la opción de realizar el examen programado en persona o en línea?**
 
 **R:** Si, tiene la opción de realizar el examen programado a través de Pearson Vue personalmente a un centro de formación local o en línea supervisado (OP). Para obtener más información sobre los exámenes en línea, consulte
-[https://www.microsoft.com/es-es/learning/online-exams.aspx](https://www.microsoft.com/es-es/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Política de cancelación y reprogramación
 
@@ -121,14 +121,14 @@ Para obtener información adicional, consulte los [Términos de uso de Microsoft
 
 **P: ¿Hay algún arancel cuando reprogramo o cancelo mi cita de examen?**
 
-**R:** No hay ningún cargo si reprograma o cancela su cita de examen al menos seis días hábiles anteriores a su cita. Si está dentro de los cinco días hábiles antes de la hora del examen y necesita reprogramarlo, deberá abonar un arancel de reprogramación. Si está dentro de los dos días de la hora del examen, no podrá reprogramar o cancelar su examen. Si no se presenta a su examen, pierde su examen gratis de esta oferta. Para obtener más información, consulte [Política de cancelación y reprogramación](https://docs.microsoft.com/es-es/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** No hay ningún cargo si reprograma o cancela su cita de examen al menos seis días hábiles anteriores a su cita. Si está dentro de los cinco días hábiles antes de la hora del examen y necesita reprogramarlo, deberá abonar un arancel de reprogramación. Si está dentro de los dos días de la hora del examen, no podrá reprogramar o cancelar su examen. Si no se presenta a su examen, pierde su examen gratis de esta oferta. Para obtener más información, consulte [Política de cancelación y reprogramación](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **P: ¿Qué ocurre si pierdo mi cita de examen y no la reprogramé ni la cancelé?**
 
-**R:** Si ha perdido la cita de examen y no la reprogramó ni la canceló al menos 24 horas antes de la cita programada, perderá su examen gratis de esta oferta. Para obtener más información, consulte [Política de cancelación y reprogramación](https://docs.microsoft.com/es-es/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Si ha perdido la cita de examen y no la reprogramó ni la canceló al menos 24 horas antes de la cita programada, perderá su examen gratis de esta oferta. Para obtener más información, consulte [Política de cancelación y reprogramación](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### Política de repetición
 
 **P: ¿Puedo repetir un examen gratis si desapruebo el primero utilizando la oferta de examen para certificación gratis?**
 
-**R:** No, la oferta es válida para un intento solamente y las repeticiones del examen se deben programar por separado. Para obtener más información sobre repetición de los exámenes de certificación, consulte nuestra [Política de repetición de exámenes](https://www.microsoft.com/es-es/learning/certification-exam-policies.aspx#policies-1).
+**R:** No, la oferta es válida para un intento solamente y las repeticiones del examen se deben programar por separado. Para obtener más información sobre repetición de los exámenes de certificación, consulte nuestra [Política de repetición de exámenes](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

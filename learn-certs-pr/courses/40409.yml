@@ -183,12 +183,12 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; flujos de llamadas y capacidad de administración
-  - * Ejercicio 1&#58; Prueba de la solución de llamadas PBX actual.
-  - * Ejercicio 2&#58; Habilitación de PBX en la nube con conectividad PSTN local
-  - * Ejercicio 3&#58; Prueba de PBX en la nube con conectividad PSTN local
+  - *Ejercicio 1&#58; Prueba de la solución de llamadas PBX actual.
+  - *Ejercicio 2&#58; Habilitación de PBX en la nube con conectividad PSTN local
+  - *Ejercicio 3&#58; Prueba de PBX en la nube con conectividad PSTN local
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  -* Explicar Cloud PBX con arquitecturas y escenarios de conectividad PSTN locales
+  - *Explicar Cloud PBX con arquitecturas y escenarios de conectividad PSTN locales
 
 
   ### Módulo 8&#58; Cloud PBX con conectividad PSTN en las instalaciones con Cloud Connector Edition
@@ -196,7 +196,7 @@ outlineSection: |-
   #### Lecciones
   - Introducción a Cloud Connector Edition
   - Planificación de la conectividad PSTN a través de Cloud Connector Edition
-  -Implementación de Cloud Connector Edition
+  - Implementación de Cloud Connector Edition
 
 
   #### Laboratorio &#58; Implementación de Cloud Connector Edition

@@ -78,7 +78,7 @@ outlineSection: |-
 
   ### Módulo 3&#58; Uso del servicio Azure Kubernetes Este módulo se centra en Azure
   Servicio Kubernetes (AKS) para implementar y administrar un clúster Kubernetes en Azure Los temas incluyen cómo reducir la sobrecarga operativa de la administración de Kubernetes al descargar gran parte de esa responsabilidad a Azure, como la supervisión y el mantenimiento del estado.
-  Los temas adicionales incluyen&#58;Azure Container Registry y Azure Container Instances.
+  Los temas adicionales incluyen&#58; Azure Container Registry y Azure Container Instances.
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender el registro de contenedor de Azure

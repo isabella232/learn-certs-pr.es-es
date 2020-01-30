@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Describir clasificaciones de datos especializadas en Azure.
 - skill: Identificar los mecanismos de protección de datos de Azure.
-- skill: -Implementar métodos de cifrado de datos de Azure
+- skill: Implementar métodos de cifrado de datos de Azure
 - skill: Protocolos de Internet seguros y cómo implementarlos en Azure
 - skill: Describir los servicios y características de seguridad de Azure.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx

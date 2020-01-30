@@ -53,7 +53,7 @@ outlineSection: |-
   - Identificar tareas a realizar por un ingeniero de datos
   - Finalizar los entregables de ingeniería de datos
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
@@ -75,7 +75,7 @@ outlineSection: |-
   - Explicar el almacenamiento de Data Lake
   - Cargar datos en Data Lake Store
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Azure Data Lake
@@ -97,7 +97,7 @@ outlineSection: |-
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
@@ -119,7 +119,7 @@ outlineSection: |-
   - Crear una aplicación .Net Core para Azure Cosmos DB con VS Code
   - Distribuir datos globalmente con Azure Cosmos DB
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Crear una base de datos Azure Cosmos DB creada a escala
   - Insertar y consultar datos en su base de datos Azure Cosmos DB
   - Crear una aplicación .NET Core Azure para Cosmos DB en Visual Studio Code
@@ -141,7 +141,7 @@ outlineSection: |-
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Usar Azure SQL Database
   - Describir Azure Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
@@ -161,7 +161,7 @@ outlineSection: |-
   - Ingestión de datos con Event Hubs
   - Procesamiento de datos con trabajos de Stream Analytics
 
-  Después de completar este módulo, los estudiantes#58;
+  Después de completar este módulo, los estudiantes&#58;
   - Explicar flujos de datos y procesamiento de eventos
   - Comprender la ingestión de datos con Event Hubs
   - Comprender el procesamiento de datos con los trabajos de Stream Analytics
@@ -180,7 +180,7 @@ outlineSection: |-
   - Componentes de Azure Data Factory
   - Azure Data Factory y Databricks
 
-  Después de completar este módulo, los estudiantes#58;
+  Después de completar este módulo, los estudiantes&#58;
   - Entender Azure Data Factory y Databricks
   - Componentes para entender Azure Data Factory
   - Explicar cómo funciona Azure Data Factory
@@ -203,7 +203,7 @@ outlineSection: |-
   - Asegurar almacenes de datos
   - Asegurar la transmisión de datos
 
-  Después de completar este módulo, los estudiantes#58;
+  Después de completar este módulo, los estudiantes&#58;
   - Tener una introducción a la seguridad
   - Comprender los componentes clave de seguridad
   - Comprender la seguridad de las cuentas de almacenamiento y el almacenamiento de Data Lake
@@ -226,7 +226,7 @@ outlineSection: |-
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos

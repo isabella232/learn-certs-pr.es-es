@@ -75,7 +75,7 @@ outlineSection: |-
   - Automatizar las soluciones de BI empresarial en Azure
   - Automatizar las soluciones de BI empresarial en Azure
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender los principios básicos de la creación de arquitecturas.
   - Describir las arquitecturas Lambda desde una perspectiva de modo de lote
   - Diseño de una solución de BI empresarial en Azure
@@ -98,7 +98,7 @@ outlineSection: |-
   - Diseñar un flujo de procesamiento de flujo con Azure Databricks
   - Crear una arquitectura de referencia de Azure IoT
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Describir las arquitecturas Lambda para una perspectiva en tiempo real
   - Diseñar una canalización de procesamiento de flujo con Azure Stream Analytics
   - Diseñar un flujo de procesamiento de flujo con Azure Databricks
@@ -120,7 +120,7 @@ outlineSection: |-
   - Enfoque de seguridad de defensa en profundidad
   - Protección de identidad
 
-  Después de completar este módulo los , estudiantes podrán;
+  Después de completar este módulo los , estudiantes podrán&#58;
   - Enfoque de seguridad de defensa en profundidad
   - Gestión de identidad
   - Protección de infraestructura
@@ -147,7 +147,7 @@ outlineSection: |-
   - Diseñar una solución altamente disponible
   - Incorporar recuperación ante desastres en arquitecturas
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Ajuste de la capacidad de carga de trabajo escalando
   - Optimizar el rendimiento de la red
   - Diseño para almacenamiento optimizado y rendimiento de la base de datos
@@ -170,7 +170,7 @@ outlineSection: |-
   - Utilizar el monitoreo y la analítica para obtener información operativa
   - Utilizar la automatización para reducir el esfuerzo y el error
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Maximificar la eficiencia de su entorno en la nube
   - Utilizar el monitoreo y la analítica para obtener información operativa
   - Utilizar la automatización para reducir el esfuerzo y el error

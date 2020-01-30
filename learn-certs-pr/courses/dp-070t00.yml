@@ -8,8 +8,8 @@ courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Migrate on-premises MySQL to Azure SQL DB for MySQL
-- skill: Migrate on-premises PostgreSQL to Azure SQL DB for PostgreSQL
+- skill: Migrar MySQL local a Azure SQL DB para MySQL
+- skill: Migrar PostgreSQL local a Azure SQL DB para PostgreSQL
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -91,4 +91,5 @@ outlineSection: |-
   - Migración de aplicaciones
   - Consideraciones posteriores a la migración
 
-  #### Lectura adicional. No se requiere lectura adicional para tomar este curso
+  #### Lectura adicional
+  - No se requiere lectura adicional para tomar este curso

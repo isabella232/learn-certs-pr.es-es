@@ -82,7 +82,7 @@ outlineSection: |-
   - Implementación de soluciones que usen Azure Event Hubs
   - Implementación soluciones que usen Azure Notification Hubs
 
-  Después de completar este módulo, los estudiantes#58&#58;
+  Después de completar este módulo, los estudiantes&#58;
   - Conocerán cómo funcionan los servicios y cómo integrarlos en sus soluciones
 
 
@@ -92,5 +92,5 @@ outlineSection: |-
   - Implementación de soluciones que utilicen Azure Service Bus
   - Implementación de soluciones que utilicen colas Azure Queue Storage
 
-  Después de completar este módulo, los estudiantes#58&#58;
+  Después de completar este módulo, los estudiantes&#58;
   - Entenderán cómo aprovechar los servicios basados en mensajes de Azure en sus soluciones

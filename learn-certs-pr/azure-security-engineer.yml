@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
+  description: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en la nube y entornos híbridos como parte de la infraestructura "end-to-end."
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
-subTitle: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
+summary: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en la nube y entornos híbridos como parte de la infraestructura "end-to-end."
+subTitle: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en la nube y entornos híbridos como parte de la infraestructura "end-to-end."
 levels:
 - intermediate
 skills:
@@ -39,7 +39,7 @@ resources:
 - title: Repetición de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: certificación soporte
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación

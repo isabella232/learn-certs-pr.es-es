@@ -10,7 +10,7 @@ summary: >-
 
 
   Los candidatos para este examen deben tener fuertes habilidades en secuencias de comandos y automatización; un profundo conocimiento de las redes, la virtualización y la arquitectura de N-tier en la nube; y una fuerte familiaridad con las capacidades de la nube, los productos y servicios de Microsoft Azure y otros productos y servicios de Microsoft.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar la identidad y el acceso; implementar la protección de la plataforma; administrar las operaciones de seguridad; y garantizar los datos y las aplicaciones.'
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar la identidad y el acceso; implementar la protección de la plataforma; administrar las operaciones de seguridad; y proteger los datos y las aplicaciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -56,7 +56,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite los servicios de alojamiento
   description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise la política para los exámenes y las preguntas frecuentes.
   href: ../certification-exam-policies.md

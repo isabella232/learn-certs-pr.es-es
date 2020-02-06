@@ -33,7 +33,7 @@ resources:
 - title: Repetición de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: certificación soporte
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación

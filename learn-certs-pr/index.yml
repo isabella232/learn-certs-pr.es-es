@@ -5,7 +5,7 @@ summary: Obtenga certificaciones que demuestren que está siguiendo el ritmo de 
 
 roles:
   - name: developer
-    summary: Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones en la nube.
+    summary: Los desarrolladores diseñan, construyen, prueban y mantienen soluciones en la nube.
     url: /learn/certifications/roles/developer
   - name: administrator
     summary: Los administradores implementan, supervisan y mantienen las soluciones de Microsoft.
@@ -20,7 +20,7 @@ roles:
     summary: Los científicos de datos aplican las técnicas de aprendizaje automático para formar, evaluar e implementar modelos que resuelvan problemas empresariales.
     url: /learn/certifications/roles/data-scientist
   - name: ai-engineer
-    summary: Los ingenieros de inteligencia artificial utilizan los servicios cognitivos, el aprendizaje automático y la minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft.
+    summary: Los ingenieros de inteligencia artificial utilizan Cognitive Services, Machine Learning, and Knowledge Mining para diseñar e implementar soluciones de inteligencia artificial de Microsoft.
     url: /learn/certifications/roles/ai-engineer
   - name: devops-engineer
     summary: Los ingenieros de DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
@@ -34,7 +34,7 @@ roles:
 
 
 certificationsSection:
-  title: Conviértase en certificado por Microsoft
+  title: Conviértase en Microsoft Certified
   summary: "Microsoft tiene rutas de certificación para muchos cargos laborales técnicos. Cada una de estas certificaciones consiste en pasar una serie de exámenes para obtener la certificación"
   tiers:
     - title: Certificaciones fundamentales

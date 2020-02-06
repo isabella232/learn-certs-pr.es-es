@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: Azure DevOps Engineer Expert'
-  description: Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+  description: Los profesionales de Azure DevOps unen a las personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
-subTitle: Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+summary: Los profesionales de Azure DevOps unen a las personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+subTitle: Los profesionales de Azure DevOps unen a las personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
 levels:
 - advanced
 skills:
@@ -55,13 +55,13 @@ resources:
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cuadro de certificación
-  description: Revise una descripción general de los principios básicos y las certificaciones basadas en roles y de especialidades.
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Repetición de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: certificación soporte
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

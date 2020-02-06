@@ -64,7 +64,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 - Poseer una calificación o certificación de Microsoft Certification actual aplicable para el programa MCT.
 (Vea a continuación la lista de certificaciones que califican)
 
-- Cumplir el requisito de formación mínimo de enseñanza en al menos una clase, validado mediante [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) O cualquier otra herramienta de estudio será aceptada.
+- Cumplir el requisito de formación mínimo de enseñanza en al menos una clase, validado mediante [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) O cualquier otra herramienta de estudio será aceptada.
 
 **Nota** Los requerimientos de renovación están sujetos a cambios.
 

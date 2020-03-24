@@ -2,17 +2,21 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
+  description: Microsoft 365 Enterprise Administrator participan en la evaluación, planificación, migración, implementación y administración de los servicios de Microsoft 365.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
+summary: |-
+  Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
+  
+  <div style='color&#58; red;'><br/>La certificación de expertos de soluciones de productividad MCSE se retirará el 30 de junio de 2020. Por lo tanto, la Certificación experta de soluciones de productividad MCSE no calificará como una opción de requisito previo para Certificación de Microsoft 365 Certified: Enterprise Administrator Expert, después del 30 de junio de 2021. (1 año después del retiro de MCSE).</div>
 subTitle: Los Administradores de Microsoft 365 Enterprise participan en la evaluación, planificación, migración, implementación y gestión de servicios de Microsoft 365.
 levels:
 - advanced
 skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Diseñar e implementar servicios de Microsoft 365
-- Administrar la identidad de usuario y roles
-- Administrar el acceso y la autenticación
+- Administrar la identidad del usuario y las funciones
+- Administrar acceso y autenticación
 - Planificar las cargas de trabajo y aplicaciones de Office 365
 - Implementar servicios de dispositivos modernos
 - Implementar la seguridad de Microsoft 365 y la gestión de amenazas
@@ -22,8 +26,6 @@ roles:
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02
@@ -49,17 +51,17 @@ exams:
 - uid: exam.ms-100
 - uid: exam.ms-101
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

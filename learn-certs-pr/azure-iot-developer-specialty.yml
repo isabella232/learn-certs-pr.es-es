@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure IoT Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure IoT Developer Specialty'
+  description: Demostrar que comprende cómo implementar los servicios de Azure que forman una solución de IoT, incluido el análisis de datos, el procesamiento de datos, las opciones de almacenamiento de datos y las opciones de servicio de plataforma como servicio. Los desarrolladores de IoT deben poder reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución de IoT.
+uid: certification.azure-iot-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Demostrar que comprende cómo implementar los servicios de Azure que forman una solución de IoT, incluido el análisis de datos, el procesamiento de datos, las opciones de almacenamiento de datos y las opciones de servicio de plataforma como servicio. Los desarrolladores de IoT deben poder reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución de IoT.
+subTitle: Demostrar que comprende cómo implementar los servicios de Azure que forman una solución de IoT, incluido el análisis de datos, el procesamiento de datos, las opciones de almacenamiento de datos y las opciones de servicio de plataforma como servicio. Los desarrolladores de IoT deben poder reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución de IoT.
+levels:
+- intermediate
+skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
+- Implementar la infraestructura de la solución IoT
+- Aprovisionar y administrar dispositivos
+- Implementar Edge
+- Procesar y administrar datos
+- Monitorear, solucionar problemas y soluciones loT 
+- Implementación de medidas de seguridad
+roles:
+- developer
+type: specialty
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
+exams:
+- uid: exam.az-220
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx

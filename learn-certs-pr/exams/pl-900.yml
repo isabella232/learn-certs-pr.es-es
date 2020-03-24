@@ -1,29 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Power Platform Fundamentals (beta)
+title: 'Microsoft Power Platform Fundamentals'
 metadata:
-  title: 'Examen PL-900: Microsoft Power Platform Fundamentals (beta)'
-  description: 'Examen PL-900: Microsoft Power Platform Fundamentals (beta)'
+  title: 'Exam PL-900: Microsoft Power Platform Fundamentals'
+  description: 'Exam PL-900: Microsoft Power Platform Fundamentals'
 uid: exam.pl-900
 displayName: PL-900
-summary: >-
+summary: |-
   Los candidatos para este examen son usuarios que aspiran a mejorar la productividad mediante la automatización de los procesos comerciales, el análisis de datos para producir información comercial y la actuación más eficaz mediante la creación de experiencias de aplicaciones simples.
-
-
-  Este examen cubre los siguientes &#58; describir los componentes de Power Platform &#58; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), conectores y generador de IA; describir escenarios de nube cruzada con representación en Microsoft 365, Dynamics 365, Microsoft Azure y servicios de terceros; identificar beneficios y capacidades de Power Platform; identificar la funcionalidad básica y el valor comercial de los componentes de Power Platform; implementar soluciones simples con Microsoft Flow, Power BI y AI Builder; y crear una aplicación básica en un entorno sin código.
-subTitle: Este examen mide su capacidad para comprender el valor comercial de Power Platform; comprender los componentes centrales de Power Platform; demostrar el valor comercial de Power BI; y demostrar el valor comercial de Microsoft Flow.
+  
+  Este examen cubre los siguientes: describir los componentes de Power Platform: Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), conectores y generador de IA; describir escenarios de nube cruzada con representación en Microsoft 365, Dynamics 365, Microsoft Azure y servicios de terceros; identificar beneficios y capacidades de Power Platform; identificar la funcionalidad básica y el valor comercial de los componentes de Power Platform; implementar soluciones simples con Microsoft Automate, Power BI y AI Builder; y crear una aplicación básica en un entorno sin código.
+subTitle: Este examen mide su capacidad para comprender el valor comercial de Power Platform; comprender los componentes centrales de Power Platform; demostrar el valor comercial de Power BI; y demostrar el valor comercial de Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Examen%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+providers:
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
 - Comprender el valor comercial de Power Platform (20-25%)
-- Comprender los componentes principales de Power Platform (25-30%)
+- Comprender los componentes principales de Power Platform (20-25%)
 - Demostrar el valor comercial de Power BI (15-20%)
-- Demostrar el valor comercial de Power Apps (15-20%)
-- Demostrar el valor comercial de Microsoft Flow (15-20%)
+- Demostrar el valor comercial de Power Apps (20-25%)
+- Demostrar el valor comercial de Power Automate (15-20%)
 roles:
 - developer
 products:
@@ -36,21 +39,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-fundamentals
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
-  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md

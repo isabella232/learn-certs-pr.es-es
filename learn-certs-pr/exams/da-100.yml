@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Analyzing Data with Microsoft Power BI (beta)
+metadata:
+  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+uid: exam.da-100
+displayName: DA-100
+summary: |-
+  Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI. Como expertos en la materia, los analistas de datos son responsables de diseñar y construir modelos de datos escalables, limpiar y transformar datos, y habilitar capacidades analíticas avanzadas que brindan un valor comercial significativo a través de visualizaciones de datos fáciles de comprender. Los analistas de datos también colaboran con las partes interesadas clave en los mercados verticales para ofrecer información relevante basada en los requisitos comerciales identificados.
+  <br/>
+
+  El analista de datos debe tener una comprensión fundamental de los repositorios de datos y el procesamiento de datos tanto en las instalaciones como en la nube.
+
+  <div style='color&#58; red;'><br/><strong>Nota&#58; Esta examen Beta no estará disponible hasta el 2 de abril de 2020.</strong> Esta información no es definitiva y puede haber cambios menores una vez que se lanza la examen.</div>
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: preparar los datos; modelar los datos; visualizar los datos; analizar los datos; e implementar y mantener entregables.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Preparar los datos (20 -25%)
+- Modelar los datos (25 -30%)
+- Visualizar los datos (20 -25%)
+- Analizar los datos (10 -15%)
+- Implementar y mantener entregables (10 -15%)
+roles:
+- data-analyst
+products:
+- power-bi
+relatedCertifications:
+- related:
+    uid: certification.data-analyst-associate
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

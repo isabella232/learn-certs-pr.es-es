@@ -1,12 +1,13 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
-subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Flow y la creación de un panel de control de Power BI.
+summary: |-
+  Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
+subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
 levels:
 - beginner
 skills:
@@ -14,7 +15,7 @@ skills:
 - Comprender los componentes principales de Power Platform
 - Demostrar el valor comercial de Power BI
 - Demostrar el valor comercial de Power Apps
-- Demostrar el valor comercial de Microsoft Flow
+- Demostrar el valor comercial de Power Automate
 roles:
 - business-user
 - functional-consultant
@@ -29,17 +30,20 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

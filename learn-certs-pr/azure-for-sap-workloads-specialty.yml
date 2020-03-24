@@ -1,28 +1,33 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
   description: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
+summary: |-
+  Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
 subTitle: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
 levels:
 - advanced
 skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Migrar SAP Workloads a Azure
 - Diseñar una solución de Azure para admitir cargas de trabajo de SAP
-- Compilar e implementar cargas de trabajo de Azure SAP
+- Compilar e implementar cargas de trabajo de Azure para SAP
 - Validar la infraestructura de Azure para SAP Workload
 - Operacionalizar Azure SAP Architecture
 roles:
 - administrator
 - solution-architect
-type: role-based
+type: specialty
 products:
 - azure
 courses:
 - uid: course.az-120t00
+paths:
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.sap-certified-offerings-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
@@ -30,14 +35,14 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
+- title: Póster de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

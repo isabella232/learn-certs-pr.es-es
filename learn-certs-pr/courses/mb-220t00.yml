@@ -1,0 +1,157 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Marketing
+metadata:
+  title: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+  description: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+uid: course.mb-220t00
+courseNumber: 'MB-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar ajustes avanzados
+- skill: Administrar contenido de marketing plantillas e integraciones
+- skill: Crear y gestionar clientes potenciales
+- skill: Diseñar y crear formularios y páginas de marketing
+- skill: Crear y administrar segmentos
+- skill: Configurar y lanzar recorridos de clientes
+- skill: Crear y gestionar eventos
+- skill: Distribuir y analizar encuestas.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Este curso revisará la configuración de la aplicación de marketing necesaria para impulsar el crecimiento del negocio. También se sumergirá en la gestión de leads, formularios y páginas de marketing, segmentación y mensajes de marketing por correo electrónico. Todas estas piezas están unidas mediante un diseño interactivo de viaje del cliente, incluida la configuración de eventos y encuestas.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para profesionales de TI o marketing que desean aprender a aprovechar Dynamics 365 for Marketing para empresas.
+prerequisitesSection: |-
+  Conocimiento de la plataforma Dynamics 365 y comprensión de los principios básicos de marketing.
+outlineSection: |-
+  ### Módulo 1&#58; Configuración de la aplicación de marketing
+  En este módulo, aprenderá sobre configuraciones avanzadas, contenido de marketing, plantillas e integraciones en Dynamics 365 for Marketing.
+  #### Lecciones
+  - Configurar ajustes avanzados
+  - Administrar contenido de marketing y plantillas
+  - Administrar las integraciones de LinkedIn y Power BI
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar ajustes avanzados como organización, gestión empresarial y contenido.
+  - Administrar contenido de marketing y plantillas.
+
+
+  ### Módulo 2&#58; Clientes potenciales
+  Este módulo revisará cómo crear, administrar y calificar clientes potenciales.
+  #### Lecciones
+  - Crear y gestionar clientes potenciales
+  - Evaluar la disponibilidad de ventas
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear y gestionar clientes potenciales.
+  - Sincronizar clientes potenciales de LinkedIn.
+  - Evaluar la preparación de ventas usando modelos de puntuación.
+
+
+  ### Módulo 3&#58; Formularios y páginas de marketing
+  Este módulo cubrirá cómo crear formularios y páginas de marketing.
+  #### Lecciones
+  - Crear formularios de marketing
+  - Crear páginas de marketing
+  - Administrar marketing en internet
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear formularios de marketing e incrustarlos en páginas de marketing.
+  - Crear una página de marketing.
+  - Obtener una vista previa validar y poner en marcha una página de marketing.
+  - Crear formularios de marketing y plantillas de página.
+
+
+  ### Módulo 4&#58; Segmentos y listas
+  Este módulo cubrirá cómo administrar segmentos, centros de suscripción, listas y doble suscripción.
+  #### Lecciones
+  - Crear y administrar segmentos
+  - Crear y administrar centros de subscripción
+  - Participación doble
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar segmentos estáticos y dinámicos.
+  - Crear una lista de suscripción.
+  - Configurar una página del centro de suscripción.
+  - Configurar y habilitar un proceso de doble suscripción.
+
+
+  ### Módulo 5&#58; Correos electrónicos de marketing
+  Este módulo cubrirá cómo crear mensajes de correo electrónico en Dynamics 365 Marketing.
+  #### Lecciones
+  - Crear mensaje de correo electrónico
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear y diseñar mensajes de correo electrónico.
+  - Obtener una vista previa validar e iniciar con mensajes de correo electrónico.
+  - Guardar un mensaje de correo electrónico como plantilla.
+
+
+  ### Módulo 6&#58; Recorridos del cliente
+  Este módulo revisará el proceso de creación del recorrido del cliente.
+  #### Lecciones
+  - Crear recorridos de clientes
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear un recorrido del cliente desde una plantilla.
+  - Identificar mosaicos y propiedades del recorrido del cliente.
+  - Validar y emitir un recorrido del cliente.
+  - Crear un recorrido de cliente basado en la cuenta.
+  - Comprender las características del calendario de marketing.
+
+
+  ### Módulo 7&#58; Información
+  Este módulo demostrará cómo ver, comprender y administrar los conocimientos de los clientes.
+  #### Lecciones
+  - Perspectivas de marketing
+  - Perspectivas del cliente
+  - Perspectivas de ejecución de marketing
+  - Perspectivas de gestión de clientes potenciales
+  - Perspectivas de marketing en Internet
+
+  Después de completar este módulo, tú podrán&#58;
+  - Localizar perspectivas.
+  - Comprender información de marketing como contacto, segmento, recorrido del cliente, correo electrónico de marketing y clientes potenciales.
+
+
+  ### Módulo 8&#58; Eventos
+  En este módulo, aprenderá a administrar la planificación y ejecución de eventos en Dynamics 365 for Marketing.
+  #### Lecciones
+  - Gestionar la planificación de eventos
+  - Administrar la ejecución de eventos
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear eventos en persona y seminarios web.
+  - Configure funciones de planificación de eventos como sesiones, oradores, pases de eventos, listas de espera y lugares.
+  - Crear y gestionar eventos recurrentes.
+
+
+  ### Módulo 9&#58; Encuestas
+  En este módulo, revisará cómo configurar, diseñar y distribuir encuestas en Dynamics 365 for Marketing.
+  #### Lecciones
+  - Crear encuestas
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear un tema de encuesta reutilizable.
+  - Crear, diseñar, previsualizar y publicar una encuesta.
+
+
+  ### Módulo 10&#58; Resultados
+  En el módulo Resultados, revisará el evento de marketing y la información de la encuesta.
+  #### Lecciones
+  - Revisar eventos y resultados de encuestas
+
+  Después de completar este módulo, tú podrán&#58;
+  - Utilizar el panel de eventos para evaluar el resultado de sus eventos.

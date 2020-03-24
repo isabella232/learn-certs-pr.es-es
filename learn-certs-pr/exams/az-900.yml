@@ -1,24 +1,25 @@
 ### YamlMime:Examination
 title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Examen AZ-900: Microsoft Azure Fundamentals'
-  description: 'Examen AZ-900: Microsoft Azure Fundamentals'
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: >-
-  Este examen está diseñado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y cómo se ofrecen esos servicios con Microsoft Azure. El examen está pensado para candidatos sin conocimientos técnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube,  o que estén implicados en alguna medida en las soluciones y servicios basados en la nube, así como aquellos con un trasfondo técnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizará el jueves, 28 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.</div>
+  
+  Este examen está diseñado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y cómo se ofrecen esos servicios con Microsoft Azure. El examen está pensado para candidatos sin conocimientos técnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube, o que estén implicados en alguna medida en las soluciones y servicios basados en la nube, así como aquellos con un trasfondo técnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
 
   Este examen se puede realizar como un primer paso opcional en el aprendizaje de los servicios de la nube y en cómo dichos conceptos están ejemplificados por Microsoft Azure. Se puede realizar como un precursor para los exámenes de servicios de la nube de Microsoft Azure o Microsoft. Si bien sería una primera medida beneficiosa el validar el nivel de conocimiento fundamental, el tomar este examen no constituye un requisito indispensable antes de tomar otras certificaciones basadas en Azure.
 subTitle: 'Este examen mide su capacidad para comprender los siguientes conceptos: conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Examen%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
   - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -27,6 +28,7 @@ locales:
 levels:
 - beginner
 skills:
+- El contenido de este examen se actualizará el 28 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
 - Comprender los conceptos de la nube (15-20%)
 - Comprender los servicios centrales de Azure (30-35%)
 - Comprender la seguridad, privacidad, cumplimiento y confianza (25-30%)
@@ -43,21 +45,24 @@ relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Ruta de certificación de aprendizaje
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Fundamentals.'
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite los servicios de alojamiento
-  description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
-  description: Revise la política para los exámenes y las preguntas frecuentes.
+  description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md

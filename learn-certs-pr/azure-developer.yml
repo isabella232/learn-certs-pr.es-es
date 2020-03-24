@@ -2,20 +2,20 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen las soluciones de la nube, como por ejemplo, las aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+  description: 'Microsoft Azure Developers diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
-subTitle: Los desarrolladores de Microsoft Azure diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+summary: |-
+  Microsoft Azure Developers diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
+subTitle: Microsoft Azure Developers diseñan, crean, prueban y mantienen soluciones de la nube, como aplicaciones y servicios, asociaciones con arquitectos de soluciones en la nube, DBA en la nube, administradores de la nube y clientes para implementar estas soluciones.
 levels:
 - intermediate
 skills:
-- Desarrollar la infraestructura de Azure como una Solución informática de servicio
-- Desarrollar la plataforma de Azure como una Solución informática de servicio
+- Desarrollar soluciones informáticas de Azure
 - Desarrollar para el almacenamiento en Azure
 - Implementar la seguridad de Azure
-- Monitorizar, solucionar los problemas y mejorar las soluciones
-- Conectarse a y consumir los servicios de Azure y los servicios de terceros
+- Supervisar, solucionar problemas y optimizar soluciones de Azure
+- Coactarse y consumir los servicios de Azure y los servicios de terceros
 roles:
 - developer
 type: role-based
@@ -52,22 +52,22 @@ paths:
 - uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
 exams:
-- uid: exam.az-203
+- uid: exam.az-204
 resources:
-- title: Ruta de certificación de aprendizaje
-  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft Certified: Azure Developer Associate.'
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de certificación
-  description: Consulte sobre la descripción general de los fundamentos, las certificaciones basadas en funciones y especialidades.
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

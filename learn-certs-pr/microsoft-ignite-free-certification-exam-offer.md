@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 04/11/2019
+ms.date: 11/04/2019
 ms.author: micsullivan
 ---
 # Microsoft Ignite and Microsoft Ignite The Tour: Oferta de examen de certificación gratuita
@@ -19,7 +19,7 @@ Gracias por asistir a Microsoft Ignite 2019 o un evento de Microsoft Ignite The 
 
 Si asistió a Microsoft Ignite 2019 o un evento de Microsoft Ignite The Tour 2019-2020, puede participar para recibir un examen gratuito de certificación de fundamentos, roles o especialidad de Microsoft. La oferta de examen gratuito está disponible para canjear desde el comienzo del evento al que asiste y es válida durante 180 días después del último día del evento. Si no programa un examen dentro de ese plazo, no podrá canjear su oferta.  
 
-## Cómo reclamar su examen gratis
+## <a name="how-to-claim-your-free-exam"></a> Cómo reclamar su examen gratis
 
 Dado que esta es una oferta digital, le pedimos que verifique su asistencia al evento mediante la misma cuenta social utilizada para registrarse (ver paso 7 a continuación) al momento de programar su examen en línea. Si se registró como grupo, asegúrese de haber completado el perfil de su registro a eventos. Para asistentes de MS Ignite 2019, diríjase a [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); para asistentes al The Tour, diríjase a [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)Nombre de la ciudad, por ejemplo [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) para completar su perfil de evento.
 
@@ -41,7 +41,7 @@ Para realizar capturas paso a paso, [ver aquí](https://query.prod.cms.rt.micros
 
 Para problemas al programar su examen, obtenga ayuda a través de [foros de soporte de Microsoft Certification](https://trainingsupport.microsoft.com/es-es/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). Un moderador de foro responderá en el trascurso de un día hábil.
 
-## Exámenes elegibles para esta oferta
+## <a name="eligible-exams-for-this-offer"></a> Exámenes elegibles para esta oferta
 
 Esta oferta incluye todos los exámenes de certificación de fundamentos, roles y especialidades de Microsoft. Los exámenes elegibles se enumeran a continuación.
 
@@ -136,4 +136,4 @@ Para obtener información adicional, consulte los [Términos de uso de Microsoft
 
 **P: ¿Puedo repetir un examen gratis si desapruebo el primero utilizando la oferta de examen para certificación gratis?**
 
-**R:** No, la oferta es válida para un intento solamente y las repeticiones del examen se deben programar por separado. Para obtener más información sobre repetición de los exámenes de certificación, consulte nuestra [Política de repetición de exámenes](https://www.microsoft.com/es-es/learning/certification-exam-policies.aspx#policies-1).
+**R:** No, la oferta es válida para un intento solamente y las repeticiones del examen se deben programar por separado. Para obtener más información sobre repetición de los exámenes de certificación, consulte nuestra [Política de repetición de exámenes](/learn/certifications/certification-exam-policies#security-policies).

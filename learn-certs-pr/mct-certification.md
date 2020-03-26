@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 26/11/2019
+ms.date: 11/26/2019
 ms.author: micsullivan
 ---
 # Conviértase en Microsoft Certified Trainer
@@ -29,11 +29,11 @@ Además, tendrá acceso a [MCT Central](https://www.microsoft.com/en-us/learning
 
 [Explore todos los beneficios disponibles para los MCT.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## Requisitos
+## <a name="mctinfoheading-3"></a> Requisitos
 
 MCT es un programa para educadores de todo el mundo que impartan formación sobre las Microsoft technologies. Si dispone de la certificación o cualificación correspondiente, y le apasiona impartir formación sobre las Microsoft technologies, le recomendamos que considere la posibilidad de presentar una solicitud.
 
-Para obtener información detallada acerca de los requisitos del programa MCT, revise la guía y el acuerdo del programa MCT en la sección [del proceso de solicitud](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) de esta página.
+Para obtener información detallada acerca de los requisitos del programa MCT, revise la guía y el acuerdo del programa MCT en la sección [del proceso de solicitud](#mctinfoheading-4) de esta página.
 
 
 ### Requisitos de registro en el programa MCT
@@ -107,7 +107,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
  
 **Nota** Las certificaciones y calificaciones de Microsoft aplicables para el programa MCT están sujetas a cambios. Toda nueva certificación en base a roles se elegirá para el Programa MCT una vez que se publique. Las certificaciones que se hayan retirado serán elegibles para el programa MCT hasta 6 meses después de la fecha de retiro [Aprenda más sobre las certificaciones que se retiran](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## Proceso de solicitud
+## <a name="mctinfoheading-4"></a> Proceso de solicitud
 
 Si está interesado en acreditarse como MCT, consulte la guía del programa MCT y el acuerdo del programa MCT para conocer los términos de participación.
 
@@ -185,7 +185,7 @@ Los participantes en MCT Alumni pueden volver a incorporarse al programa MCT cua
 
 Para volver a participar en MCT:
 
-- **Asegúrese de cumplir con los requisitos del programa MCT** descritos en la sección [Requisitos](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de esta página. Consulte en su transcripción las certificaciones y calificaciones de Microsoft actuales aplicables para el programa MCT.
+- **Asegúrese de cumplir con los requisitos del programa MCT** descritos en la sección [Requisitos](#mctinfoheading-3) de esta página. Consulte en su transcripción las certificaciones y calificaciones de Microsoft actuales aplicables para el programa MCT.
 - **Solicite el registro en el programa MCT.** MCT Alumni puede proporcionar un comprobante de la certificación de habilidades de formación que se han obtenido antes de solicitar la participación en el programa MCT, o puede enviar una referencia que valide al menos un año de experiencia en formación. Esta referencia puede ser de un antiguo cliente, directivo o compañero de trabajo.
 
 ## MCT y Programa MCT Alumni

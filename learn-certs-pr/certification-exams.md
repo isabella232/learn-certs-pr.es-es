@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 22/08/2019
+ms.date: 08/22/2019
 ms.author: micsullivan
 ---
 # Acerca de los exámenes de certificación de Microsoft
@@ -64,96 +64,96 @@ A fin de proteger la seguridad del examen y el valor de nuestras certificaciones
 #### Pantalla activa (0:44)
 
 <div>
-	<a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
-	<br/>
+    <a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
+    <br/>
 </div>
 
 
 #### Mejor respuesta (0:20)
 
 <div>
-	<a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
-	<br/>
+    <a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
+    <br/>
 </div>
 
 
 #### Generación de lista (0:45)
 
 <div>
-	<a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
-	<br/>
+    <a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
+    <br/>
 </div>
 
 
 #### Casos prácticos (1:13)
 
 <div>
-	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
-	<br/>
+    <a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
+    <br/>
 </div>
 
 
 #### Arrastrar y soltar (0:37)
 
 <div>
-	<a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
-	<br/>
+    <a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
+    <br/>
 </div>
 
 
 #### Zona activa (0:17)
 
 <div>
-	<a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
-	<br/>
+    <a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
+    <br/>
 </div>
 
 
 #### Elección múltiple (0:37)
 
 <div>
-	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
-	<br/>
+    <a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
+    <br/>
 </div>
 
 
 #### Elecciones múltiples repetidas (0:20)
 
 <div>
-	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
-	<br/>
+    <a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
+    <br/>
 </div>
 
 
 #### Respuesta corta (0:29)
 
 <div>
-	<a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
-	<br/>
+    <a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
+    <br/>
 </div>
 
 
 #### Labs (2:58)
 
 <div>
-	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
-	<br/>
+    <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
+    <br/>
 </div>
 
 
 #### Revisión de marca (0:33)
 
 <div>
-	<a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
-	<br/>
+    <a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
+    <br/>
 </div>
 
 
 #### Pantalla de revisión (1:36)
 
 <div>
-	<a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
-	<br/>
+    <a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
+    <br/>
 </div>
 
 

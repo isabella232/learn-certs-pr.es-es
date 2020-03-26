@@ -509,7 +509,7 @@ El proceso de impugnación se ha implantado a fin de ayudar a identificar y corr
 
 Valoramos sus comentarios y nos basamos en ellos para lograr que los exámenes de Microsoft Certification tengan el mayor grado de validez y pertinencia posible.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Adaptación especial al presentarse a los exámenes
+## <a name="special-accommodations-when-taking-exams"></a> Adaptación especial al presentarse a los exámenes
 
 ### Exámenes realizados a través de Pearson VUE:
 

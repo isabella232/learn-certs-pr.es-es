@@ -2,44 +2,46 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (AI), realidad mixta (MR); Power Platform, conceptos de nube; seguridad de nube; Seguridad de Dynamics 365; Common Data Service; informes de Dynamics 365; Integraciones de Dynamics 365; empleo de la nube.
+  description: Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (IA); realidad mixta (MR); la plataforma de energía; conceptos de nubes; seguridad en la nube; Seguridad de Dynamics 365; Servicio de datos comunes; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (AI), realidad mixta (MR); Power Platform, conceptos de nube; seguridad de nube; Seguridad de Dynamics 365; Common Data Service; informes de Dynamics 365; Integraciones de Dynamics 365; empleo de la nube.
-subTitle: Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (AI), realidad mixta (MR); Power Platform, conceptos de nube; seguridad de nube; Seguridad de Dynamics 365; Common Data Service; informes de Dynamics 365; Integraciones de Dynamics 365; empleo de la nube.
+summary: |-
+  Demostrar que comprende Microsoft Dynamics 365; inteligencia artificial (IA); realidad mixta (MR); la plataforma de energía; conceptos de nubes; seguridad en la nube; Seguridad de Dynamics 365; Servicio de datos comunes; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.
+subTitle: Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (IA); realidad mixta (MR); la plataforma de energía; conceptos de nubes; seguridad en la nube; Seguridad de Dynamics 365; Servicio de datos comunes; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.
 levels:
 - beginner
 skills:
-- Comprender Dynamics 365
-- Comprender los conceptos de la nube
-- Comprender implementaciones y lanzamientos
+- Identificar componentes de la plataforma Microsoft para Dynamics 365
+- Comprender la inteligencia artificial y la realidad mixta para Dynamics 365
+- Comprender las aplicaciones basadas en modelos
+- Comprender las aplicaciones de Finanzas y Operaciones de Dynamics 365
 roles:
 - functional-consultant
 type: fundamentals
 products:
 - dynamics
 courses:
-- uid: course.mb-900t01
+- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
 exams:
-- uid: exam.mb-900
+- uid: exam.mb-901
 resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
+- title: Póster de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

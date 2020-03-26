@@ -1,38 +1,38 @@
 ### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
-  title: 'Examen DP-200: Implementing an Azure Data Solution'
-  description: 'Examen DP-200: Implementing an Azure Data Solution'
+  title: 'Exam DP-200: Implementing an Azure Data Solution'
+  description: 'Exam DP-200: Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizará el martes, 31 de marzo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  
   Los candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas para identificar y cumplir con los requisitos de datos a fin de implementar soluciones de datos que utilizan los servicios de datos de Azure.
 
+   Los ingenieros de datos de Azure son responsables de las tareas de implementación relacionadas con datos que incluyen proporcionar servicios de almacenamiento de datos, introducir streaming y datos de lotes, transformar datos, implementar requisitos de seguridad, implementar políticas de retención de datos, identificar cuellos de botella de rendimiento y acceder a fuentes externas de datos.
 
-  Los ingenieros de datos de Azure son responsables de las tareas de implementación relacionadas con datos que incluyen proporcionar servicios de almacenamiento de datos, introducir streaming y datos de lotes, transformar datos, implementar requisitos de seguridad, implementar políticas de retención de datos, identificar cuellos de botella de rendimiento y acceder a fuentes externas de datos.
-
-
-  Los candidatos para este examen deben poder implementar soluciones de datos que utilizan los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (antiguamente Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks y Azure Blob storage.
+  Los candidatos para este examen deben poder implementar soluciones de datos que utilizan los siguientes servicios de Azure: Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (antiguamente Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks y Azure Blob storage.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar soluciones de almacenamiento de datos; administrar y desarrollar el procesamiento de datos; y monitorear y optimizar soluciones de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DP-200&examname=Examen%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el martes, 31 de marzo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Implementar soluciones de almacenamiento de datos (40-45%)
 - Gestionar y desarrollar procesamiento de datos (25-30%)
 - Monitorear y optimizar soluciones de datos (30-35%)
 roles:
 - data-engineer
-exams:
-- uid: exam.dp-201
 products:
 - azure
 - azure-cosmos-db
@@ -45,6 +45,8 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
+exams:
+- uid: exam.dp-201
 courses:
 - uid: course.dp-200t01
 paths:
@@ -62,23 +64,26 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Azure Data Engineer Associate.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar adaptaciones
   description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md

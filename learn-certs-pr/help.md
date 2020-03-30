@@ -1,4 +1,4 @@
----
+﻿---
 title: Ayuda de la certificación y los cursos de Microsoft | Microsoft Docs
 description: Ayuda de la certificación y los cursos de Microsoft
 documentationcenter: NA
@@ -14,6 +14,8 @@ ms.author: micsullivan
 ¿Tiene preguntas sobre las certificaciones y los cursos de Microsoft? Visite [Microsoft Learn](/learn/certifications/) donde encontrará las respuestas a la mayoría de las preguntas sobre cursos de Microsoft, exámenes de certificación, Microsoft Official Courses (MOC) y mucho más.
 
 ¿Aún tiene preguntas? Consulte nuestras opciones de soporte a continuación.
+
+Tenga en cuenta que estamos experimentando tiempos de respuesta más largos de lo esperado para los clientes que buscan soporte de Certificación y Capacitación. Agradecemos su paciencia mientras trabajamos para atender todas las consultas lo más rápido posible.
 
 ## Ayuda de certificación
 

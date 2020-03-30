@@ -1,16 +1,18 @@
-### YamlMime:Certification
+﻿### YamlMime:Certification
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Azure AI Engineers utilizan Servicios Cognitivos,  Machine Learning, y Knowledge Mining para diseñar e implementar soluciones de IA de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
+  description: 'Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure AI Engineers utilizan Servicios Cognitivos,  Machine Learning, y Knowledge Mining para diseñar e implementar soluciones de IA de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
-subTitle: Azure AI Engineers utilizan Servicios Cognitivos,  Machine Learning, y Knowledge Mining para diseñar e implementar soluciones de IA de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
+summary: |-
+  Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
+subTitle: Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
 levels:
 - intermediate
 skills:
-- Analizar los requisitos de la solución
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
+- Analizar los requisitos de la solución.
 - Diseñar soluciones AI
 - Implementar y monitorear soluciones AI
 roles:
@@ -26,29 +28,25 @@ products:
 courses:
 - uid: course.ai-100t01
 paths:
-- uid: learn.data-ai.publish-experiment-with-ml-studio
-- uid: learn.data-ai.translate-speech-with-speech-services
-- uid: learn.data-ai.classify-images-with-vision-services
 - uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.data-ai.translate-speech-with-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.data-ai.classify-images-with-vision-services
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-100
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure AI Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
+- title: Póster de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

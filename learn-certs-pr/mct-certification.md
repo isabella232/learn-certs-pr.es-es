@@ -1,5 +1,5 @@
----
-title: Conviértase en Microsoft Certified Trainer | Documentos de Microsoft
+﻿---
+title: Conviértase en Microsoft Certified Trainer | Microsoft Docs'
 description: Conviértase en Microsoft Certified Trainer 
 documentationcenter: NA 
 author: bipach
@@ -37,6 +37,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 
 
 ### Requisitos de registro en el programa MCT
+
 - Poseer una calificación o certificación de Microsoft Certification actual aplicable para el programa MCT. 
 (Vea a continuación la lista de certificaciones que califican)
 - Demostrar habilidades de formación verificadas por uno de los siguientes:
@@ -76,7 +77,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
@@ -97,7 +98,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (Se retira el 30 de junio de 2020), Microsoft Dynamics 365 for Operations (Se retira el 30 de junio de 2020), SQL 2016 BI Development (Se retira el 30 de junio de 2020), SQL 2016 Database Administration (Se retira el 30 de junio de 2020), SQL 2016 Database Development (Se retira el 30 de junio de 2020), SQL Server 2012/2014 (Se retira el 30 de junio de 2020), Universal Windows Platform (Se retira el 30 de junio de 2020), Web Applications (Se retira el 30 de junio de 2020), Windows Server 2012 (Se retira el 30 de junio de 2020), o Windows Server 2016 (Se retira el 30 de junio de 2020)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (Se retira el 30 de junio de 2020), Data Management and Analytics (Se retira el 30 de junio de 2020), Productivity (Se retira el 30 de junio de 2020), o Core Infrastructure (Se retira el 30 de junio de 2020)
@@ -134,8 +135,8 @@ Si es Microsoft Office Specialist y no dispone de una Microsoft Certification ID
 Utilice la herramienta de inscripción para MCT para:
 
 - **Revisar los requisitos del programa MCT y firmar la guía y el contrato del programa MCT.** Mediante la firma electrónica se valida su conformidad con los términos y las condiciones del acuerdo de MCT.
-- **Actualizar la información de su perfil.** La información de contacto que proporciona se usa para la comunicación por parte de MCT.
-- **Indicar su situación laboral.** Si es empleado de un Learning Partner o Microsoft Imagine Academy, necesitará el número de ID del Learning Partner o Microsoft Imagine Academy.
+-**Actualizar la información de su perfil.** La información de contacto que proporciona se usa para la comunicación por parte de MCT.
+**Indicar su situación laboral.** Si es empleado de un Learning Partner o Microsoft Imagine Academy, necesitará el número de ID del Learning Partner o Microsoft Imagine Academy.
 - **Seleccionar el método de pago.** Las tarifas del programa varían, en función de su país/región y de su situación laboral. Para conocer las cuotas de participación en MCT y MCT Alumni de su país o región, utilice la herramienta de búsqueda al final de la página.
 
 **Nota** Si es empleado de un Learning Partner y su empresa se hará cargo del pago de sus gastos del programa MCT, siga estos pasos:
@@ -185,7 +186,7 @@ Los participantes en MCT Alumni pueden volver a incorporarse al programa MCT cua
 
 Para volver a participar en MCT:
 
-- **Asegúrese de cumplir con los requisitos del programa MCT** descritos en la sección [Requisitos](#mctinfoheading-3) de esta página. Consulte en su transcripción las certificaciones y calificaciones de Microsoft actuales aplicables para el programa MCT.
+- **Asegúrese de cumplir con los requisitos del programa MCT descritos en la sección [Requisitos](#mctinfoheading-3) de esta página.** Consulte en su transcripción las certificaciones y calificaciones de Microsoft actuales aplicables para el programa MCT.
 - **Solicite el registro en el programa MCT.** MCT Alumni puede proporcionar un comprobante de la certificación de habilidades de formación que se han obtenido antes de solicitar la participación en el programa MCT, o puede enviar una referencia que valide al menos un año de experiencia en formación. Esta referencia puede ser de un antiguo cliente, directivo o compañero de trabajo.
 
 ## MCT y Programa MCT Alumni

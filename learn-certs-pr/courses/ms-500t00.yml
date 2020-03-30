@@ -1,0 +1,360 @@
+﻿### YamlMime:Course
+title: Microsoft 365 Security Administration
+metadata:
+  title: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+  description: 'Course MS-500T00-A: Microsoft 365 Security Administration'
+uid: course.ms-500t00
+courseNumber: 'MS-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Administrar el acceso de usuarios y grupos en Microsoft 365.
+- skill: Describir y administrar las características de Azure Identity Protection.
+- skill: Planificar e implementar Azure AD Connect.
+- skill: Gestionar identidades sincronizadas.
+- skill: Describir y usar el acceso condicional.
+- skill: Describir los vectores de amenazas de ciberataques.
+- skill: Describir las soluciones de seguridad para Microsoft 365.
+- skill: Usar Microsoft Secure Score para evaluar su postura de seguridad.
+- skill: Configurar varios servicios avanzados de protección contra amenazas para Microsoft 365.
+- skill: Configurar Advanced Threat Analytics.
+- skill: Planificar e implementar dispositivos móviles seguros.
+- skill: Implementar la gestión de derechos de información.
+- skill: Mensajes seguros en Office 365.
+- skill: Configurar directivas de prevención de pérdida de datos.
+- skill: Implementar y administrar Cloud App Security.
+- skill: Implementar la protección de información de Windows para dispositivos.
+- skill: Planificar e implementar un sistema de archivo y retención de datos.
+- skill: Crear y gestionar una investigación de descubrimiento electrónico.
+- skill: Gestionar solicitudes de sujetos de datos GDPR.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-500
+summary: |-
+  En este curso aprenderá cómo asegurar el acceso de los usuarios a los recursos de su organización. El curso cubre la protección de contraseña de usuario, la autenticación multifactor, cómo habilitar la Protección de identidad de Azure, cómo configurar y usar Azure AD Connect, y le presenta el acceso condicional en Microsoft 365.
+  Aprenderá sobre las tecnologías de protección contra amenazas que ayudan a proteger su entorno Microsoft 365. Específicamente, aprenderá acerca de los vectores de amenazas y las soluciones de seguridad de Microsoft para mitigar las amenazas. Aprenderá sobre Secure Score, la protección de Exchange Online, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection y la gestión de amenazas.
+  En este curso aprenderá sobre las tecnologías de protección de la información que ayudan a proteger su entorno Microsoft 365. Este curso analiza el contenido administrado por los derechos de información, el cifrado de mensajes, así como las etiquetas, políticas y reglas que admiten la prevención de pérdida de datos y la protección de la información.
+  Finalmente, en este curso aprenderá sobre el archivado y la retención en Microsoft 365, así como sobre el gobierno de datos y cómo realizar búsquedas e investigaciones de contenido. Este curso cubre las políticas y etiquetas de retención de datos, la administración de registros en el lugar para SharePoint, la retención de correo electrónico y cómo realizar búsquedas de contenido que admitan investigaciones de descubrimiento electrónico.
+
+  #### Perfil de audiencia
+  El Microsoft 365 Security Administrator colabora con el Microsoft 365 Enterprise Administrator, las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización.
+  Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos.
+  El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y los entornos híbridos. Este rol tiene fuertes habilidades y experiencia con protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
+  - Comprensión conceptual básica de Microsoft Azure.
+  - Experiencia con dispositivos Windows 10.
+  - Experiencia con Office 365.
+  - Conocimientos básicos de autorización y autenticación.
+  - Conocimientos básicos de redes informáticas.
+  - Conocimiento práctico de la gestión de dispositivos móviles.
+outlineSection: |-
+  ### Módulo 1&#58; Protección de usuarios y grupos
+  Este módulo explica cómo administrar cuentas de usuario y grupos en Microsoft 365. Le presenta Privileged Identity Management en Azure AD, así como también Identity Protection. El módulo establece las bases para el resto del curso.
+  #### Lecciones
+  - Conceptos de gestión de identidad y acceso
+  - Seguridad Zero Trust
+  - Cuentas de usuario en Microsoft 365
+  - Roles de administrador y grupos de seguridad en Microsoft 365
+  - Gestión de contraseñas en Microsoft 365
+  - Protección de identidad de Azure AD
+
+
+  #### Laboratorio&#58; Inicializar su inquilino de prueba
+  - Configure su inquilino de Microsoft 365
+
+
+  #### Laboratorio&#58; Configurar la gestión de identidad privilegiada
+  - Descubrir y administrar recursos de Azure
+  - Asignar roles de Directory
+  - Activar y desactivar roles PIM
+  - Roles de directorio (general)
+  - Flujos de trabajo de recursos PIM
+  - Ver el historial de auditoría de los roles de Azure AD en PIM
+
+  Después de completar este módulo, tú podrán&#58;
+  - Crear y administrar cuentas de usuario.
+  - Describir y usar roles de administrador de Microsoft 365
+  - Planificar las políticas de contraseña y autenticación
+  - Describir los conceptos de seguridad Zero Trust.
+  - Implemente la autenticación multifactor en Office 365
+  - Habilitar Azure Identity Protection
+
+
+  ### Módulo 2&#58; Sincronización de identidad
+  Este módulo explica conceptos relacionados con la sincronización de identidades para Microsoft 365.  Específicamente, se centra en Azure AD Connect y en la administración de la sincronización de directorios para garantizar que las personas adecuadas se conecten a su sistema Microsoft 365.
+  #### Lecciones
+  - Introducción a la sincronización de identidad
+  - Planificación de Azure AD Connect
+  - Implementar Azure AD Connect
+  - Gestionar identidades sincronizadas
+  - Introducción a las identidades federadas
+
+
+  #### Laboratorio&#58; Implementación de sincronización de identidad
+  - Configurar su organización para la sincronización de identidad
+
+  Después de completar este módulo, tú podrán&#58;
+  - Describir las opciones de autenticación para Microsoft 365.
+  - Explicar la sincronización de directorios
+  - Planificar sincronización de directorios
+  - Describir y usar Azure AD Connect.
+  - Configurar los requisitos previos de Azure AD Connect
+  - Gestionar usuarios y grupos con sincronización de directorios.
+  - Describir la federación de Active Directory.
+
+
+  ### Módulo 3&#58; Gestión de Acceso
+  Este módulo explica el acceso condicional para Microsoft 365 y cómo se puede usar para controlar el acceso a los recursos en su organización. El módulo también explica el control de acceso basado en roles (RBAC) y las soluciones para acceso externo.
+  #### Lecciones
+  - Acceso condicional
+  - Administrar el acceso al dispositivo
+  - Control de acceso basado en roles (RBAC)
+  - Soluciones para acceso externo
+
+
+  #### Laboratorio&#58; Usar acceso condicional para habilitar MFA
+  - Piloto de autenticación MFA (requiere MFA para aplicaciones específicas)
+  - Acceso condicional de MFA (completar un despliegue de MFA)
+
+  Después de completar este módulo, tú podrán&#58;
+  - Describir el concepto de acceso condicional.
+  - Describir y usar políticas de acceso condicional.
+  - Planificar el cumplimiento de dispositivos.
+  - Configurar usuarios y grupos condicionales.
+  - Configurar el control de acceso basado en roles
+
+
+  ### Módulo 4&#58; Seguridad en Microsoft 365
+  Este módulo explica las diversas amenazas de ciberataque que existen.  Luego le presenta las soluciones de Microsoft utilizadas para mitigar esas amenazas.  El módulo finaliza con una explicación de Microsoft Secure Score y cómo se puede usar para evaluar e informar la postura de seguridad de su organización.
+  #### Lecciones
+  - Vectores de amenazas y violaciones de datos
+  - Estrategia y principios de seguridad.
+  - Security Solutions en Microsoft 365
+  - Microsoft Secure Score
+
+
+  #### Laboratorio&#58; Use Microsoft Secure Score
+  - Mejore su puntuación de seguridad en el Centro de seguridad de Microsoft 365
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir varias técnicas que los atacantes utilizan para comprometer las cuentas de los usuarios a través del correo electrónico
+  - Describir las técnicas que usan los atacantes para obtener control sobre los recursos.
+  - Enumerar los tipos de amenazas que se pueden evitar mediante el uso de Exchange Online Protection y Office 365 ATP.
+  - Describir los beneficios de Secure Score y qué tipo de servicios se pueden analizar.
+  - Describa cómo usar Secure Score para identificar brechas en su actual postura de seguridad de Microsoft 365.
+
+
+  ### Módulo 5&#58; Advanced Threat Protection
+  Este módulo explica las diversas tecnologías y servicios de protección contra amenazas disponibles para Microsoft 365. El módulo cubre la protección de mensajes a través de Exchange Online Protection, Azure Advanced Threat Protection y Windows Defender Advanced Threat Protection.
+  #### Lecciones
+  - Exchange Online Protection
+  - Office 365 Advanced Threat Protection
+  - Administrar archivos adjuntos seguros
+  - Gestión de enlaces seguros
+  - Azure Advanced Threat Protection
+  - Microsoft Defender Advanced Threat Protection
+
+
+  #### Laboratorio&#58; Administrar los servicios de seguridad de Microsoft 365
+  - implementar las directrices ATP
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la canalización antimalware a medida que Exchange Online Protection analiza el correo electrónico.
+  - Describir cómo Safe Attachments se usa para bloquear el malware de día cero en archivos adjuntos de correo electrónico y documentos.
+  - Describir cómo Safe Links protege a los usuarios de URL maliciosas incrustadas en correos electrónicos y documentos que apuntan
+  - Configurar Azure Advanced Threat Protection.
+  - Configurar Windows Defender ATP.
+
+
+  ### Módulo 6&#58; Administración de amenazas
+  Este módulo explica Microsoft Threat Management, que le proporciona las herramientas para evaluar y abordar las amenazas cibernéticas y formular respuestas. Aprenderá a usar el panel de seguridad y Azure Sentinel para Microsoft 365. El módulo también explica y configura Microsoft Advanced Threat Analytics.
+  #### Lecciones
+  - Usar el panel de seguridad
+  - Investigación y respuesta a amenazas de Microsoft 365
+  - Azure Sentinel para Microsoft 365
+  - Configurar Advanced Threat Analytics
+
+
+  #### Laboratorio&#58; Usar el simulador de ataque
+  - Realizar un ataque simulado de Spear phishing
+  - Realizar ataques de contraseña simulados
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo Threat Explorer puede usarse para investigar amenazas y ayudar a proteger a su inquilino.
+  - Describir cómo Security Dashboard brinda a los ejecutivos de nivel C información sobre los principales riesgos y tendencias.
+  - Describir qué es Advanced Thread Analytics (ATA) y qué requisitos se necesitan para implementarlo.
+  - Configurar Advanced Threat Analytics.
+  - Usar el simulador de ataque en Microsoft 365.
+  - Describir cómo se puede usar Azure Sentinel para Microsoft 365.
+
+
+  ### Módulo 7&#58; Movilidad
+  Este módulo se enfoca en asegurar dispositivos móviles y aplicaciones.  Aprenderá sobre la administración de dispositivos móviles y cómo funciona con Microsoft Intune. También aprenderá sobre cómo Intune y Azure AD se pueden usar para proteger las aplicaciones móviles.
+  #### Lecciones
+  - Plan para la gestión de aplicaciones móviles
+  - Plan para la gestión de dispositivos móviles
+  - Implementar la administración de dispositivos móviles
+  - Registrar dispositivos en la administración de dispositivos móviles
+
+
+  #### Laboratorio&#58; configurar Azure AD para Intune
+  - habilitar la administración de dispositivos
+  - configurar Azure AD para Intune
+  - Crear políticas de Intune
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las consideraciones de la aplicación móvil.
+  - Usar Intune para administrar aplicaciones móviles.
+  - Gestionar dispositivos con MDM.
+  - Configurar dominios para MDM.
+  - Administrar políticas de seguridad del dispositivo.
+  - Inscripción de dispositivos a MDM.
+  - Configurar un rol de administrador de inscripción de dispositivos.
+
+
+  ### Módulo 8&#58; Protección de la información
+  El módulo explica cómo implementar Azure Information Protection y Windows Information Protection.
+  #### Lecciones
+  - Conceptos de protección de la información
+  - Protección de la información de Azure
+  - Protección de información avanzada
+  - Protección de la información de Windows
+
+
+  #### Laboratorio&#58; Implementar Azure Information Protection y Windows Information Protection
+  - Implementación de Azure Information Protection
+  - Implementación de Windows Information Protection
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar etiquetas y políticas para Azure Information Protection.
+  - Configurar los ajustes avanzados del servicio AIP para las plantillas de Servicios de administración de derechos (RMS).
+  - Planificar una implementación de las políticas de protección de la información de Windows.
+
+
+  ### Módulo 9&#58; Gestión de derechos y cifrado
+  Este módulo explica la gestión de derechos de información en Exchange y SharePoint. El módulo también describe las tecnologías de cifrado utilizadas para proteger los mensajes.
+  #### Lecciones
+  - Gestión de derechos de información
+  - Extensión segura de correo multipropósito de Internet
+  - Cifrado de mensajes de Office 365
+
+
+  #### Laboratorio&#58; Configurar el cifrado de mensajes de Office 365 (OME)
+  - Configurar el cifrado de mensajes de Office 365
+  - Validar la gestión de derechos de información
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las diferentes opciones de cifrado de Microsoft 365.
+  - Describir el uso de S/MIME.
+  - Describir y habilitar el cifrado de mensajes de Office 365.
+
+
+  ### Módulo 10&#58; Prevención de pérdida de datos
+  Este módulo se centra en la prevención de pérdida de datos en Microsoft 365.  Aprenderá cómo crear políticas, editar reglas y personalizar notificaciones de usuario para proteger sus datos.
+  #### Lecciones
+  - Prevención de pérdida de datos explicada
+  - Políticas de prevención de pérdida de datos
+  - Políticas personalizadas de DLP
+  - Crear una política DLP para proteger documentos
+  - Consejos de política
+
+
+  #### Laboratorio&#58; Implementar políticas de prevención de pérdida de datos
+  - Administrar políticas de DLP
+  - Probsr las directivas MRM y DLP
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la prevención de pérdida de datos (DLP, por sus siglas en inglés).
+  - Usar plantillas de políticas para implementar políticas DLP para la información de uso común.
+  - Configurar las reglas correctas para proteger el contenido.
+  - Describir cómo modificar las reglas existentes de las políticas DLP.
+  - Configurar la opción de anulación de usuario a una regla DLP.
+  - Explicar cómo SharePoint Online crea propiedades rastreadas a partir de documentos.
+
+
+  ### Módulo 11&#58; Seguridad de aplicaciones en la nube
+  Este módulo se centra en la seguridad de las aplicaciones en la nube en Microsoft 365.  El módulo explicará el descubrimiento de la nube, los conectores de la aplicación, las políticas y las alertas. Aprenderá cómo funcionan estas características para proteger sus aplicaciones en la nube.
+  #### Lecciones
+  - Seguridad de aplicaciones en la nube explicada
+  - Uso de información de seguridad de aplicaciones en la nube
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir Cloud App Security.
+  - Explicar cómo implementar Cloud App Security.
+  - Controlar sus aplicaciones en la nube con políticas.
+  - Usar el Catálogo de aplicaciones en la nube.
+  - Usar el panel de Cloud Discovery.
+  - Administrar permisos de aplicaciones en la nube.
+
+
+  ### Módulo 12&#58; Cumplimiento en Microsoft 365
+  Este módulo se centra en el gobierno de datos en Microsoft 365. El módulo le presentará al Administrador de cumplimiento y analizará el Reglamento Global de Protección de Datos (GDPR).
+  #### Lecciones
+  - Plan de requisitos de cumplimiento
+  - Construir muros éticos en Exchange Online
+  - Administrar la retención en el correo electrónico
+  - Solucionar problemas de gobernanza de datos
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar los roles de seguridad y cumplimiento.
+  - Describir lo que debe tener en cuenta para RGPD.
+  - Describir qué es un muro ético en Exchange y cómo funciona.
+  - Trabajar con etiquetas de retención en buzones
+  - Describir las políticas de retención con mensajes de correo electrónico y carpetas de correo electrónico.
+  - Explicar cómo se calcula la edad de retención de los elementos.
+  - Reparar las políticas de retención que no funcionan como se esperaba.
+
+
+  ### Módulo 13&#58; Archivado y Retención
+  Este módulo explica conceptos relacionados con la retención y el archivo de datos para Microsoft 365, incluidos Exchange y SharePoint.
+
+  #### Lecciones
+  - Archivado en Microsoft 365
+  - Retención en Microsoft 365
+  - Políticas de retención en el Centro de cumplimiento de Microsoft 365
+  - Archivo y retención en Exchange
+  - Gestión de registros locales en SharePoint
+
+
+  #### Laboratorio&#58; Cumplimiento y retención
+  - Inicializar cumplimiento
+  - Configurar etiquetas y políticas de retención
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la diferencia entre el Archivo local y la Gestión de registros.
+  - Explicar cómo se archivan los datos en Exchange.
+  - Explicar cómo funciona una política de retención.
+  - Crear una política de retención.
+  - Activar y desactivar el archivado local.
+  - Crear etiquetas de retención útiles.
+
+
+  ### Módulo 14&#58; Búsqueda de contenido e investigación
+  Este módulo se centra en la búsqueda de contenido y las investigaciones.  El módulo cubre cómo usar eDiscovery para realizar investigaciones avanzadas de datos de Microsoft 365. También cubre los registros de auditoría y analiza las solicitudes de sujetos de datos de GDPR.
+  #### Lecciones
+  - Búsqueda de contenido
+  - Auditoría de investigaciones de registro
+  - eDiscovery avanzado
+
+
+  #### Laboratorio&#58; Administrar búsquedas e investigaciones
+  - Investigar sus datos de Microsoft 365
+  - Realizar una solicitud del interesado
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo usar la búsqueda de contenido.
+  - Diseñar una búsqueda de contenido.
+  - Configurar el filtrado de permisos de búsqueda.
+  - Configurar políticas de auditoría.
+  - Introducir los criterios para buscar en el registro de auditoría.
+  - Describir eDiscovery avanzado en Microsoft 365.
+  - Ver el registro avanzado de eventos de exhibición de documentos electrónicos.

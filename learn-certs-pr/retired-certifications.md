@@ -1,4 +1,4 @@
----
+﻿---
 title: Certificaciones retiradas de Microsoft | Microsoft Docs
 description: Certificaciones retiradas de Microsoft
 documentationcenter: NA
@@ -61,22 +61,22 @@ Amplíe las secciones siguientes para ver la lista de certificaciones retiradas 
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MCSA: CRM Dynamics Technical | 31 de diciembre de 2018 |
-| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx) | 31 de diciembre de 2018 |
-| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx) | 31 de diciembre de 2018 |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx) | 30 de abril de 2019 |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx) | 30 de abril de 2019 |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx) | 30 de junio de 2019 |
-| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx) | 30 de junio de 2019 |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx) | 30 de junio de 2019 |
+| MCSA: Dynamics CRM Dynamics Technical | 31 de diciembre de 2018 |
+| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31 de diciembre de 2018  |
+| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31 de diciembre de 2018  |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30 de abril de 2019     |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30 de abril de 2019     |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 de junio de 2019      |
+| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 de junio de 2019      |
+| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 de junio de 2019      |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 de diciembre de 2018 |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx) | 30 de abril de 2019 |
+| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 de diciembre de 2018  |
+| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 de abril de 2019     |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 de septiembre de 2018 |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | lunes, 30 de septiembre de 2019 |
 | MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 de agosto de 2019     |
 ___

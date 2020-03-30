@@ -103,6 +103,14 @@ Los centros de pruebas de estos tres países deben confirmar y registrar que cad
 
 **Importante: Si no es residente legal en India, China o Pakistán, no podrá presentarse a ningún examen de Microsoft Certification del país en cuestión.**
 
+### Pruebas para ciudadanos de Eslovenia o que tengan identificación de ciudadanía eslovena
+
+Debido a las leyes de privacidad en Eslovenia, Pearson VUE no puede entregar exámenes supervisados ​​en línea a candidatos que viven en Eslovenia o que tienen identificación de ciudadanía eslovena. Estos candidatos pueden tomar exámenes en un Centro de Pruebas Pearson VUE (PVTC).
+
+Los candidatos que residen en Eslovenia solo recibirán la opción de entrega del Centro de exámenes como opción cuando programen un examen.
+
+- Los candidatos que residen fuera de Eslovenia pueden ver la supervisión en línea como una opción de prueba disponible, sin embargo, no podrán completar con éxito la prueba cuando presenten la identificación de ciudadanía eslovena (pasaporte u otra identificación) como prueba de identificación. Estos candidatos deben programar un examen en un Pearson VUE Test Center (PVTC).
+
 ### Repetición de pruebas de los candidatos a petición de Microsoft
 
 1. Microsoft se reserva el derecho a pedir en cualquier momento a cualquiera de los candidatos que repita las pruebas si sospecha que ha tenido lugar alguna actividad fraudulenta o descubre anomalías en las pruebas.
@@ -229,9 +237,9 @@ Este Acuerdo se celebra en la fecha de su aceptación entre usted ("**Usted**" )
 
 7. **PROPIEDAD Y DERECHOS RESERVADOS**
 
-    7,1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
+    7.1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
 
-    7,2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
+    7.2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
 
 
 ## Microsoft Certification Program Agreement
@@ -246,11 +254,10 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
    4. "***Microsoft Certification***" supone haber superado los exámenes necesarios, cumplir y mantener la conformidad de todos los requisitos de certificación y de renovación de la certificación para utilizar el Logotipo o las Credenciales correspondientes. La lista actual de Microsoft Certifications se encuentra en [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
    5. Con "***Credenciales de Microsoft Certification***" o "***Credenciales***" se hace referencia al título completo o abreviado de una certificación de Microsoft Certification específica para representar el cumplimiento de los requisitos para dicha certificación por parte de una persona.
    6. "***Examen de Microsoft Certification***" o "***Examen***" se refiere a un examen de certificación de Microsoft diseñado para ayudar a validar las aptitudes de una persona con respecto a una tecnología concreta de Microsoft sobre la que versa el Examen en cuestión.
-   
 
 2. MICROSOFT CERTIFICATION
    1. *Cómo obtener y conservar una certificación de Microsoft Certification*. Para obtener y conservar una certificación de Microsoft Certification, debe hacer lo siguiente:
-          
+
         1. Aprobar los Exámenes necesarios y cumplir los requisitos de certificación y renovación de la certificación correspondiente de [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based),
         2. Aceptar los términos y condiciones de este Acuerdo,
         3. Cumplir los términos y condiciones de la versión actual del Acuerdo, todos los requisitos del Programa, y
@@ -493,21 +500,36 @@ Descargar: [Transcript Service Application](https://query.prod.cms.rt.microsoft.
 
 ## <a name="policies-5"></a> Impugnación de preguntas de los exámenes de Microsoft Certification
 
-[Cada pregunta de examen se revisa detenidamente](https://www.microsoft.com/learning/certification-exams.aspx) por parte de un tribunal de especialistas en tecnología y funciones de trabajo, quienes revisan la precisión, claridad y relevancia de cada pregunta. Si cree que una pregunta específica de un examen de Microsoft Certification no es válida, puede solicitar una evaluación de dicha pregunta siguiendo los pasos que se describen a continuación. Debe presentar un formulario de impugnación de preguntas del examen dentro de los 30 días de realizar el examen.
+Los exámenes de certificación de Microsoft están diseñados para garantizar que los candidatos que aprueben los exámenes y obtengan nuestras certificaciones hayan demostrado los niveles de competencia requeridos en los dominios de habilidades. Cada pregunta del examen de Microsoft Certification es revisada cuidadosamente por un panel de expertos técnicos y de funciones de trabajo para determinar la precisión técnica, la claridad y la relevancia. Si cree que una pregunta en un examen de Microsoft Certification es inexacta, puede solicitar una evaluación de la pregunta a través del proceso de desafío del elemento del examen, diseñado para ayudar a identificar y corregir preguntas problemáticas. Sin embargo, incluso si una pregunta es defectuosa de alguna manera, no podemos suponer que la habría respondido correctamente si no hubiera sido así, por lo tanto, la mayoría de los exámenes no se vuelven a calificar. En estos casos, proporcionamos a los candidatos la oportunidad de repetir el examen de forma gratuita.
 
-**Nota**: Nota no utilice el proceso de impugnación de preguntas del examen para proporcionar comentarios sobre las preguntas del examen beta. Las preguntas del examen beta se modifican con frecuencia de algún modo en los comentarios recibidos durante este proceso y se pueden eliminar del inventario de preguntas. Si tiene más comentarios sobre un examen Beta que no haya podido realizar durante el período de comentarios, envíe sus comentarios a [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+### Criterios para aceptar un desafío de elemento de examen:
 
-### Pasos para la impugnación de preguntas del examen
+- El examen debe haberse realizado dentro de los últimos 30 días calendario (no días hábiles).
+- Solicitudes de revisiones de puntajes.
+- Desafío en un elemento específico en el examen.
 
-1. Publique su impugnación de preguntas del examen en el [Foro de soporte de Microsoft Certification](https://aka.ms/MCPForum).
-2. Dentro de 1 ó 2 días hábiles, el agente del foro suministrará un **formulario de impugnación de preguntas** para que complete. El formulario incluye información específica sobre cómo enviar la impugnación.
-   - Las impugnaciones de preguntas del examen solo se aceptan si presenta el formulario de impugnación de preguntas del examen completado al agente del foro 30 días como máximo después de haber realizado el examen.
-   - No se aceptan las impugnaciones de preguntas para los exámenes que se vayan a retirar en un plazo de seis meses.
-3. Dentro de 4 a 6 semanas, el agente del foro proporcionará los resultados de su impugnación de las preguntas del examen.
+### Los desafíos de elementos de examen no se aceptarán para los siguientes criterios:
 
-El proceso de impugnación se ha implantado a fin de ayudar a identificar y corregir preguntas problemáticas. En la mayoría de los casos, sin embargo, los exámenes no vuelven a puntuarse, ya que Microsoft debe asegurarse de que los candidatos que aprueben los exámenes y obtengan las certificaciones demuestren los niveles de competencia requeridos en todas las áreas de habilidades. Aunque se formule una pregunta de forma incorrecta, no podemos suponer que la habría respondido correctamente si no hubiera estado formulada de esa forma. En estos casos, proporcionamos a los candidatos la oportunidad de repetir el examen de forma gratuita.
+- Desafíos para todo el examen.
+- Desafíos basados ​​en materiales de estudio (pruebas de práctica, guías de estudio, materiales de capacitación, etc.)
+- Desafíos a la adecuación de una pregunta.
+- La presentación es más de 30 días calendario (no días hábiles) después de que se realizó el examen.
+- Desafíos específicos en problemas técnicos experimentados en un centro de pruebas.
+- Desafíos que no se envían a través de este formulario.
+- Desafíos para las metodologías de puntuación (por ejemplo, el gráfico de barras no representa mi puntuación real).
+- Desafíos al formato del examen (estándar, tipo, adaptativo).
+- Desafíos para los exámenes beta. Si tiene más comentarios sobre un examen Beta que no haya podido realizar durante el período de comentarios, envíe sus comentarios a [mslcd@microsoft.com](mailto:mslcd@microsoft.com). 
 
-Valoramos sus comentarios y nos basamos en ellos para lograr que los exámenes de Microsoft Certification tengan el mayor grado de validez y pertinencia posible.
+### Proceso de desafío de elemento de examen:
+
+1. Revise nuestros criterios para aceptar y no aceptar un desafío de elemento de examen.
+2. Complete y envíe el [formulario de desafío del elemento de examen](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
+3. El equipo de certificación de Microsoft revisará su envío para verificar que esté completo.  
+   a. Si está incompleto, se le pedirá que proporcione más información.  
+   b. Si está completo, el equipo de Microsoft Certification lo revisará. Una revisión lleva aproximadamente dos semanas.
+4. Una vez que se complete la revisión, se le notificará el resultado.
+
+Gracias por su interés en ayudar a que los exámenes de Microsoft Certification sean lo más válidos y relevantes posible.
 
 ## <a name="special-accommodations-when-taking-exams"></a> Adaptación especial al presentarse a los exámenes
 
@@ -592,7 +614,7 @@ Microsoft Certified Trainers trabajan con muchos candidatos cuando se preparan p
 - Imprima la sección de Habilidades medidas de la página. 
 - Revise la lista completa. Piense en cada tema. Si es un experto en un tema concreto, resáltelo o táchelo. 
 - Vea lo que queda. Ahora empieza a hacer una investigación orientada. Busque artículos específicos en Internet de cada tema que no haya destacado.
-    - Utilice fuentes autorizadas, como docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com y el centro de soporte de Office 365.
+  - Utilice fuentes autorizadas, como docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com y el centro de soporte de Office 365.
 
 También es posible que quiera preguntar a otros cómo realizan esas tareas, leer documentación técnica, MSDN o TechNet para obtener información adicional acerca de las tareas incluidas en el examen y/o explorar los recursos proporcionados en la sección "Materiales de preparación" de la página de Información del examen que le enlazará con los cursos en línea, microcursos y opciones disponibles y un portal donde podrá encontrar opciones de formación dirigida por un instructor en su zona.
 
@@ -944,11 +966,11 @@ Cuando inicie el examen, verá una pantalla que le indica cuántos elementos, es
 
 Después de iniciar el examen, responderá todas las preguntas tradicionales (por ejemplo, opción múltiple, arrastrar y soltar, lista de compilación, etc.) en el examen a medida que se cargan los laboratorios. Los laboratorios serán la última sección del examen. Tenga en cuenta lo siguiente:
 
-- Después de abandonar cualquier sección del examen (por ejemplo, estudios de caso o laboratorios), no puede volver atrás. Sin embargo, al final de la mayoría de las secciones, tiene la oportunidad de revisar sus respuestas (su examen puede incluir una sección que no se puede revisar; esto se observa al comienzo de la sección). **El tiempo del examen NO se detiene mientras revisa las respuestas. Asegúrese de administrar el tiempo;prestar atención al tiempo Y a la cantidad de preguntas restantes.**
+- Después de abandonar cualquier sección del examen (por ejemplo, estudios de caso o laboratorios), no puede volver atrás. Sin embargo, al final de la mayoría de las secciones, tiene la oportunidad de revisar sus respuestas (su examen puede incluir una sección que no se puede revisar; esto se observa al comienzo de la sección). **El tiempo del examen NO se detiene mientras revisa las respuestas. Asegúrese de administrar el tiempo;prestar atención al tiempo Y a la cantidad de preguntas restantes.
 
 - Cada examen contiene una o dos secciones/laboratorios de rendimiento con múltiples tareas que debe completar. La investigación muestra que las tareas tardan aproximadamente 4 veces más en completarse que un elemento tradicional. Administre su tiempo para que le quede tiempo suficiente para completar los laboratorios. Nos hemos asegurado de que los candidatos que administran su tiempo sabiamente tengan tiempo más que suficiente para completar los laboratorios.
 
-- El número de laboratorios y tareas en El examen se proporciona en la página de descripción general que precede al primer laboratorio. ¡Léala! Y a continuación, administre su tiempo respectivamente.
+El número de laboratorios y tareas en El examen se proporciona en la página de descripción general que precede al primer laboratorio. ¡Léala! Y a continuación, administre su tiempo respectivamente.
 
 - NO espere que las tareas se ejecuten antes de pasar a otra tarea. En algunos casos, necesita ejecutar algo antes de poder completar otra tarea, pero esto se notará en la tarea, y habrá otras tareas en las que puede estar trabajando mientras se ejecuta esa tarea. **No pierda tiempo esperando que se ejecuten las tareas**. Pase a otra actividad que no dependa de esa tarea para poder optimizar el tiempo de su examen. En algunos casos, comenzar una tarea puede ser suficiente para puntuar (por ejemplo, crear un recurso en Azure); puede dejar que se ejecute la tarea en segundo plano mientras trabajar en otras tareas. Incluimos una nota en la lista de tareas informándole que solo necesita comenzar la tarea. Puede pasar a otras tareas o incluso abandonar la sección (pasar al siguiente laboratorio si corresponde o finalizar el examen) sin ser penalizado. **Lea la tarea atentamente. Haga lo que sea necesario para resolver el problema planteado en la tarea.**
 
@@ -993,7 +1015,7 @@ Si su laboratorio se inicia con una pantalla blanca en blanco, intente abrir una
 
 **Tuve algunos problemas con mis laboratorios. ¿Cómo le informo a Microsoft?**
 
-Si tiene problemas con los laboratorios, puede escalarlos a través de nuestro proceso de impugnación de preguntas del [examen](#policies-5). Si bien no podemos brindar una explicación específica de su experiencia, nuestra investigación en su experiencia nos ayudará a identificar las causas raíz e identificar soluciones que mejorarán la experiencia para todos.
+Si tiene problemas con los laboratorios, puede escalarlos a través de nuestro [proceso de impugnación de preguntas del examen](#policies-5). Si bien no podemos brindar una explicación específica de su experiencia, nuestra investigación en su experiencia nos ayudará a identificar las causas raíz e identificar soluciones que mejorarán la experiencia para todos.
 
 **Tuve algunos problemas con mis laboratorios. ¿Cómo solicito una nueva calificación?**
 

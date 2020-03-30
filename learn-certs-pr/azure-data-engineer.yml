@@ -1,15 +1,17 @@
-### YamlMime:Certification
+﻿### YamlMime:Certification
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
+  description: 'Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
+summary: |-
+  Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
 subTitle: Los ingenieros de datos Azure diseñan e implementan la gestión, la monitorización, la seguridad y privacidad de los datos mediante la pila completa de los servicios Azure para satisfacer las necesidades comerciales.
 levels:
 - intermediate
 skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Implementar soluciones de almacenamiento de datos
 - Administrar y desarrollar el procesamiento de datos
 - Monitorear y optimizar soluciones de datos
@@ -42,27 +44,22 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Data Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
+- title: Póster de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.

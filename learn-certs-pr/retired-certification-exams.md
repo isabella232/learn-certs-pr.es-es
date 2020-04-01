@@ -1,141 +1,184 @@
 ---
-title: Examen retirado de Microsoft | Documentos de Microsoft
-description: Examen retirado de Microsoft
+title: Microsoft Retired Exam | Microsoft Docs
+description: Microsoft Retired Exam
 documentationcenter: NA
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Exámenes programados para retirarse
+Exámenes programados para retirarse
 
 Busque exámenes que se retirarán durante los próximos 12 meses, enumerados por tecnología. (La siguiente información está sujeta a cambios).
 
 | Se retira el 30 de junio de 2020 | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Personalización y configuración de Microsoft Dynamics 365 |  |
-| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Desarrollo, extensiones e implementación para Microsoft Dynamics 365 para finanzas y operaciones |  |
+| [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
+| [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
+| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 |  |
+| [70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016 |  |
+| [70-357](https://www.microsoft.com/learning/exam-70-357.aspx): Developing Mobile Apps |  |
+| [70-410](https://www.microsoft.com/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012 |  |
+| [70-411](https://www.microsoft.com/learning/exam-70-411.aspx): Administering Windows Server 2012 |  |
+| [70-412](https://www.microsoft.com/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services  |  |
+| [70-413](https://www.microsoft.com/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure |  |
+| [70-414](https://www.microsoft.com/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure |  |
+| [70-417](https://www.microsoft.com/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012 |  |
+| [70-461](https://www.microsoft.com/learning/exam-70-461.aspx): Querying Microsoft SQL Server 2012/2014 |  |
+| [70-462](https://www.microsoft.com/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012/2014 Databases |  |
+| [70-463](https://www.microsoft.com/learning/exam-70-463.aspx): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |  |
+| [70-464](https://www.microsoft.com/learning/exam-70-464.aspx): Developing Microsoft SQL Server Databases |  |
+| [70-465](https://www.microsoft.com/learning/exam-70-465.aspx): Designing Database Solutions for Microsoft SQL Server |  |
+| [70-466](https://www.microsoft.com/learning/exam-70-466.aspx): Implementing Data Models and Reports with Microsoft SQL Server |  |
+| [70-467](https://www.microsoft.com/learning/exam-70-467.aspx): Designing Business Intelligence Solutions with Microsoft SQL Server |  |
+| [70-480](https://www.microsoft.com/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3 |  |
+| [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
+| [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
+| [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack |  |
+| [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
+| [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
+| [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
+| [70-742](https://www.microsoft.com/learning/exam-70-742.aspx): Identity with Windows Server 2016 |  |
+| [70-743](https://www.microsoft.com/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016 |  |
+| [70-744](https://www.microsoft.com/learning/exam-70-744.aspx): Securing Windows Server 2016 |  |
+| [70-745](https://www.microsoft.com/learning/exam-70-745.aspx): Implementing a Software-Defined Datacenter |  |
+| [70-761](https://www.microsoft.com/learning/exam-70-761.aspx): Querying Data with Transact-SQL |  |
+| [70-762](https://www.microsoft.com/learning/exam-70-762.aspx): Developing SQL Databases |  |
+| [70-764](https://www.microsoft.com/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure |  |
+| [70-765](https://www.microsoft.com/learning/exam-70-765.aspx): Provisioning SQL Databases |  |
+| [70-767](https://www.microsoft.com/learning/exam-70-767.aspx): Implementing a Data Warehouse using SQL |  |
+| [70-768](https://www.microsoft.com/learning/exam-70-768.aspx): Developing SQL Data Models |  |
+| [70-777](https://www.microsoft.com/learning/exam-70-777.aspx): Implementing Microsoft Azure Cosmos DB Solutions |  |
+| [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI |  |
+| [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel |  |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
-| Se retira el 31 de diciembre de 2019 | |
+| Se retira el 31 de mayo de 2020 | |
 | --- | --- |
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Gestión de proyectos y carteras con Microsoft PPM |  |
-| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Administrar Microsoft System Center Configuration Manager y la integración de servicios en la nube |  |
-| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): Gestión de activos de software (SAM) - Núcleo |  |
-| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Fabricación OEM e implementación para Windows 10 |  |
-| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM Online Deployment |  |
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM Personalización y configuración |  |
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM Installation |  |
-| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 Online Deployment |  |
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 Installation |  |
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Personalización y configuración de Microsoft Dynamics CRM 2016 |  |
-| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
-| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
-| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 para ventas |  |
-| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 para Talento |  |
+| [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
 ## Exámenes retirados recientemente
 
-Para utilizarlos como referencia, los exámenes retirados durante el último año contendrán un enlace a su página de información del examen durante un periodo de 12 meses
+Para utilizarlos como referencia, los exámenes retirados durante el último año contendrán un enlace a su página de información del examen durante un periodo de 12 meses.
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Infraestructura e implementación de Microsoft Azure | 1 de mayo de 2019
-| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Integración y seguridad de Microsoft Azure | 1 de mayo de 2019
-| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Transición de certificación de administrador de Microsoft Azure | 30 de junio de 2019
-| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure Developer Core Solutions (publicado el 24 de septiembre de 2018) | 3 de enero de 2019
-| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure Developer Advanced Solutions (publicado el 24 de septiembre de 2018) | 3 de enero de 2019
-| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure Developer Certification Transition (publicado el 24 de septiembre de 2018) | 31 de marzo de 2019
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 de mayo de 2019
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 de mayo de 2019
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 30 de junio de 2019
+| AZ-200 | Microsoft Azure Developer Core Solutions (publicado el 24 de septiembre de 2018) | 3 de enero de 2019
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (publicado el 24 de septiembre de 2018) | 3 de enero de 2019
+| AZ-202 | Microsoft Azure Developer Certification Transition (publicado el 24 de septiembre de 2018) | 31 de marzo de 2019
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 de junio de 2019
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 de septiembre de 2019
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 de septiembre de 2019
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 de diciembre de 2017
-| 70-247 | Configurar e implementar una nube privada | 31 de diciembre de 2017
-| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Core Solutions of Microsoft SharePoint Server 2013 | 31 de marzo de 2019
-| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Advanced Solutions of Microsoft SharePoint Server 2013 | 31 de marzo de 2019
-| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Core Solutions of Microsoft Exchange Server 2013 | 31 de marzo de 2019
-| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Soluciones avanzadas de Microsoft Exchange Server 2013 | 31 de marzo de 2019
-| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identidades y requisitos | 30 de abril de 2019
-| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Habilitación de los servicios de Office 365 | 30 de abril de 2019
-| 70-398 | Planificación y administración de dispositivos en la empresa: | 31 de julio de 2018
-| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Diseño e implementación de soluciones de la plataforma de datos en la nube | 30 de junio de 2019
+| 70-247 | Configuring and Deploying a Private Cloud | 31 de diciembre de 2017
+| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 de marzo de 2019
+| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 31 de marzo de 2019
+| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 31 de marzo de 2019
+| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 31 de marzo de 2019
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 30 de abril de 2019
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 30 de abril de 2019
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 31 de diciembre de 2019
+| 70-398 | Planning for and Managing Devices in the Enterprise | 31 de julio de 2018
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 30 de junio de 2019
 | [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 30 de junio de 2019
-| 70-488 | Desarrollar SharePoint Server 2013 Core Solutions | 31 de julio de 2018
-| 70-489 | Desarrollar SharePoint Server 2013 Advanced Solutions | 31 de julio de 2018
-| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Administración Visual Studio Team Foundation Server | 31 de diciembre de 2018
-| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Prueba de software con Visual Studio | 31 de diciembre de 2018
-| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Entregar valor constante con Visual Studio | 31 de diciembre de 2018
-| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Desarrollar Microsoft Azure Solutions | 31 de diciembre de 2018
-| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Implementar Microsoft Azure Infrastructure Solutions | 31 de diciembre de 2018
-| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Diseñar Microsoft Azure Solutions | 31 de diciembre de 2017
-| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Diseñar Microsoft Azure Solutions | 31 de diciembre de 2018
-| 70-680 | Windows 7, Configuración | 31 de julio de 2018
+| 70-488 | Developing SharePoint Server 2013 Core Solutions | 31 de julio de 2018
+| 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 31 de julio de 2018
+| 70-496 | Administering Visual Studio Team Foundation Server | 31 de diciembre de 2018
+| 70-497 | Software Testing with Visual Studio | 31 de diciembre de 2018
+| 70-498 | Delivering Continuous Value with Visual Studio | 31 de diciembre de 2018
+| 70-532 | Developing Microsoft Azure Solutions | 31 de diciembre de 2018
+| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 de diciembre de 2018
+| 70-534 | Architecting Microsoft Azure Solutions | 31 de diciembre de 2017
+| 70-535 | Architecting Microsoft Azure Solutions | 31 de diciembre de 2018
+| 70-680 | Windows 7, Configuring | 31 de julio de 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 de julio de 2018
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 de julio de 2018
-| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Implementar Windows Desktops and Enterprise Applications | 31 de marzo de 2019
+| 70-695 | Deploying Windows Desktops and Enterprise Applications | 31 de marzo de 2019
 | 70-696 | Administrar System Center Configuration Manager and Intune | 31 de marzo de 2018
-| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configurar Windows Devices | 30 de abril de 2019
-| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Instalar y configurar Windows 10 | 31 de marzo de 2019
-| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analizar macrodatos coh Microsoft R | 30 de junio de 2019
-| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Realizar Cloud Data Science con Azure Machine Learning | 30 de junio de 2019
-| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Realizar ingeniería de datos en Microsoft Azure HDInsight | 30 de junio de 2019
-| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Realizar ingeniería de macrodatos en Microsoft Cloud Services | 30 de junio de 2019
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Gestionar proyectos con Microsoft Project 2013 | 31 de julio de 2019
-| 74-344 | Gestionar Programas y Proyectos con Project Server 2013 | 31 de diciembre de 2017
-| 74-409 | Virtualización del servidor con Windows Server Hyper-V and System Center | 31 de julio de 2018
-| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Fundamentales de la nube | 30 de septiembre de 2019
-| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introducción a Programació mediante idiomas basados en bloques (Touch Develop) | 7 de agosto de 2019
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 30 de abril de 2019
+| 70-698 | Installing and Configuring Windows 10 | 31 de marzo de 2019
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31 de diciembre de 2019
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 31 de diciembre de 2019
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 31 de diciembre de 2017
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 30 de junio de 2019
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 30 de junio de 2019
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 30 de junio de 2019
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 30 de junio de 2019
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31 de julio de 2019
+| 74-344 | Managing Programs and Projects with Project Server 2013 | 31 de diciembre de 2017
+| 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 de julio de 2018
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 de septiembre de 2019
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 de agosto de 2019
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 31 de diciembre de 2017
+| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 de diciembre de 2019
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 de diciembre de 2019
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 de diciembre de 2019
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 31 de diciembre de 2019
+| MB2-709 | Microsoft Dynamics Marketing | 31 de diciembre de 2017
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 31 de diciembre de 2019
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 31 de diciembre de 2019
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 31 de diciembre de 2019
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | 31 de diciembre de 2019
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | 31 de diciembre de 2019
 | [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 30 de junio de 2019
 | [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 de junio de 2019
 | [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 31 de agosto de 2019
 | [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 de agosto de 2019
 | [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 30 de junio de 2019
-| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Instalación y Configuración | 31 de diciembre de 2017
-| MB6-890 | Microsoft Dynamics AX Introducción al desarrollo | 31 de diciembre de 2017
-| MB6-892 | Microsoft Dynamics AX Distribución y Comercio | 31 de diciembre de 2017
+| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 31 de diciembre de 2017
+| MB6-890 | Microsoft Dynamics AX Development Introduction | 31 de diciembre de 2017
+| MB6-892 | Microsoft Dynamics AX Distribution and Trade | 31 de diciembre de 2017
 | MB6-893 | Microsoft Dynamics AX Financials | 31 de diciembre de 2017
-| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Gestión Financiera en Microsoft Dynamics 365 para Finance and Operations | 31 de agosto de 2019
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31 de agosto de 2019
 | [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31 de agosto de 2019
 
 ## Otros exámenes retirados
 
 | ITPro/Developer | | |
 | --- | --- | --- |
-| 70-086 | Implementación y soporte de Microsoft Systems Management Server 2.0 | 2008
-| 70-089 | Diseño, implementación y administración de Microsoft Systems Management Server 2003 | 31 de octubre de 2010
-| 70-123 | Planificación, implementación y mantenimiento de un programa Software Asset Management (SAM) | 31 de octubre de 2010
-| 70-158 | Microsoft Forefront Identity & Access Management, Configuración | 31 de julio de 2015
-| 70-162 | TS: Forefront Protection for EndPoint and Server, Configuración | 31 de julio de 2012
-| 70-169 | TS: Windows Small Business Server 7, Configuración | 31 de julio de 2013
-| 70-177 | TS: Microsoft Project Server 2010, Configuración | 31 de julio de 2015
+| 70-086 | Implementing and Supporting Microsoft Systems Management Server 2.0 | 2008
+| 70-089 | Designing, Implementing, and Managing Microsoft Systems Management Server 2003 | 31 de octubre de 2010
+| 70-123 | Planning, Implementing, and Maintaining a Software Asset Management (SAM) Program | 31 de octubre de 2010
+| 70-158 | Microsoft Forefront Identity & Access Management, Configuring | 31 de julio de 2015
+| 70-162 | TS: Forefront Protection for EndPoint and Server, Configuring | 31 de julio de 2012
+| 70-169 | TS: Windows Small Business Server 7, Configuring | 31 de julio de 2013
+| 70-177 | TS: Microsoft Project Server 2010, Configuring | 31 de julio de 2015
 | 70-178 | TS: Managing Projects with Microsoft Project 2010 | 31 de julio de 2015
 | 70-181 | TS: Windows Embedded Compact 7 | 31 de julio de 2013
-| 70-210 | Instalación, configuración y administración de Microsoft Windows 2000 Professional | 2008
-| 70-214 | Implementación y administración de seguridad en una red de Microsoft Windows 2000 | 2008
-| 70-215 | Instalación, configuración y administración de Microsoft Windows 2000 Server | 2008
-| 70-216 | Implementación y administración de seguridad en una red de Microsoft Windows 2000 | 2008
+| 70-210 | Installing, Configuring, and Administering Microsoft Windows 2000 Professional | 2008
+| 70-214 | Implementing and Administering Security in a Microsoft Windows 2000 Network | 2008
+| 70-215 | Installing, Configuring, and Administering Microsoft Windows 2000 Server | 2008
+| 70-216 | Implementing and Administering a Microsoft Windows 2000 Network Infrastructure | 2008
 | 70-217 | Implementing and Administering a Microsoft Windows 2000 Directory Services Infrastructure | 2008
-| 70-218 | Gestionar Microsoft Windows 2000 Network Environment | 2008
-| 70-219 | Diseñar Microsoft Windows 2000 Directory Services Infrastructure | 2008
-| 70-220 | Diseñar seguridad para Microsoft Windows 2000 Network | 2008
-| 70-221 | Diseñar Microsoft Windows 2000 Network Infrastructure | 2008
-| 70-222 | Migrar de Microsoft Windows NT 4.0 to Microsoft Windows 2000 | 2008
-| 70-223 | Instalar, Configurar y Administrar Microsoft Clustering Services mediante Microsoft Windows 2000 Advanced Server | 2008
-| 70-224 | Instalación, configuración y administración de Microsoft Windows 2000 Server | 2008
-| 70-225 | Diseño e implementación de Messaging Infrastructure con Microsoft Exchange 2000 Server | 2008
+| 70-218 | Managing a Microsoft Windows 2000 Network Environment | 2008
+| 70-219 | Designing a Microsoft Windows 2000 Directory Services Infrastructure | 2008
+| 70-220 | Designing Security for a Microsoft Windows 2000 Network | 2008
+| 70-221 | Designing a Microsoft Windows 2000 Network Infrastructure | 2008
+| 70-222 | Migrating from Microsoft Windows NT 4.0 to Microsoft Windows 2000 | 2008
+| 70-223 | Installing, Configuring, and Administering Microsoft Clustering Services by Using Microsoft Windows 2000 Advanced Server | 2008
+| 70-224 | Installing, Configuring, and Administering Microsoft Exchange 2000 Server | 2008
+| 70-225 | Designing and Deploying a Messaging Infrastructure with Microsoft Exchange 2000 Server | 2008
 | 70-226 | Designing Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies | 2008
-| 70-227 | Instalar, Configurar y Administrar Microsoft Internet Security and Acceleration (ISA) Server 2000, Enterprise Edition | 2008
-| 70-228 | Instalar, Configurar y Administrar Microsoft SQL Server 2000 Enterprise Edition | 31 de marzo de 2009
-| 70-229 | Diseñar e Implementar bases de datos con Microsoft SQL Server 2000 Enterprise Edition | 31 de marzo de 2009
-| 70-230 | Diseñar e Implementar Soluciones con Microsoft BizTalk Server 2000, Enterprise Edition | 2008
-| 70-232 | Implementar y Mantener soluciones web disponibles con Microsoft Windows 2000 Server Technologies and Microsoft Application Center 2000 | 2008
-| 70-234 | Diseñar e Implementar soluciones con Microsoft Commerce Server 2000 | 2008
+| 70-227 | Installing, Configuring, and Administering Microsoft Internet Security and Acceleration (ISA) Server 2000, Enterprise Edition | 2008
+| 70-228 | Installing, Configuring, and Administering Microsoft SQL Server 2000 Enterprise Edition | 31 de marzo de 2009
+| 70-229 | Designing and Implementing Databases with Microsoft SQL Server 2000 Enterprise Edition | 31 de marzo de 2009
+| 70-230 | Designing and Implementing Solutions with Microsoft BizTalk Server 2000, Enterprise Edition | 2008
+| 70-232 | Implementing and Maintaining Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies and Microsoft Application Center 2000 | 2008
+| 70-234 | Designing and Implementing Solutions with Microsoft Commerce Server 2000 | 2008
 | 70-235 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | 30 de junio de 2011
 | 70-236 | TS: Exchange Server 2007, Configuring | 30 de septiembre de 2012
 | 70-237 | Pro: Designing Messaging Solutions with Microsoft Exchange Server 2007 | 30 de septiembre de 2012
@@ -177,9 +220,9 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 31 de marzo de 2011
 | 70-354 | Universal Windows Platform – App Architecture and UX/UI | 30 de septiembre de 2017
 | 70-355 | Universal Windows Platform – App Data, Services, and Coding Patterns | 30 de septiembre de 2017
-| 70-383 | Renovación de la certificación de MCSE: SharePoint | 31 de marzo de 2017
-| 70-384 | Renovación de la certificación de MCSE: Communication | 31 de marzo de 2017
-| 70-385 | Renovación de la certificación de MCSE: Messaging | 31 de marzo de 2017
+| 70-383 | Recertification for MCSE: SharePoint | 31 de marzo de 2017
+| 70-384 | Recertification for MCSE: Communication | 31 de marzo de 2017
+| 70-385 | Recertification for MCSE: Messaging | 31 de marzo de 2017
 | 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 31 de julio de 2013
 | 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 31 de julio de 2013
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 30 de septiembre de 2011
@@ -192,32 +235,32 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | 70-442 | PRO: Designing and Optimizing Data Access by Using Microsoft SQL Server 2005 | 30 de junio de 2011
 | 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 30 de junio de 2011
 | 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 30 de junio de 2011
-| 70-444 | TS: Plataforma Bing Maps, desarrollo de aplicación | 31 de diciembre de 2011
-| 70-445 | TS: Microsoft SQL Server 2005, Inteligencia de Negocios ‒ Desarrollo y mantenimiento | 30 de junio de 2011
-| 70-446 | PRO: Diseñar una solución de inteligencia comercial usando Microsoft SQL Server 2005 | 30 de junio de 2011
-| 70-447 | ACTUALIZACIÓN: MCDBA habilidades para ser MCITP Database Administrator usando Microsoft SQL Server 2005 | 30 de junio de 2011
+| 70-444 | TS: Bing Maps Platform, Application Development | 31 de diciembre de 2011
+| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 30 de junio de 2011
+| 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 30 de junio de 2011
+| 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 30 de junio de 2011
 | 70-448 | Microsoft SQL Server 2008, Business Intelligence Development and Maintenance | 31 de julio de 2016
 | 70-450 | PRO: Designing, Optimizing, and Maintaining a Database Administrative Solution Using Microsoft SQL Server 2008 | 31 de julio de 2015
 | 70-451 | PRO: Designing Database Solutions and Data Access Using Microsoft SQL Server 2008 | 31 de julio de 2015
 | 70-452 | PRO: Microsoft SQL Server 2008, Designing a Business Intelligence Solution | 31 de julio de 2013
-| 70-453 | Actualización: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 31 de julio de 2012
-| 70-454 | Actualización: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 31 de julio de 2012
-| 70-455 | Actualización: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 31 de julio de 2012
+| 70-453 | Upgrade: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 31 de julio de 2012
+| 70-454 | Upgrade: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 31 de julio de 2012
+| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 31 de julio de 2012
 | 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 1 | 31 de julio de 2016
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 31 de julio de 2016
-| 70-459 | Transición a su MCITP: Administrador de bases de datos 2008 o MCITP: Desarrollador de bases de datos 2008 a MCSE: Plataforma de datos | 31 de enero de 2016
-| 70-460 | Transición a su MCITP: Desarrollador de inteligencia comercial 2008 a MCSE: Business Intelligence | 31 de enero de 2016
-| 70-469 | Renovación de la certificación de MCSE: Plataforma de datos | 31 de marzo de 2017
-| 70-470 | Renovación de la certificación de MCSE: Business Intelligence | 31 de marzo de 2017
-Aspectos esenciales del desarrollo de Windows Store Apps con HTML5 y JavaScript | 30 de septiembre de 2016
+| 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 31 de enero de 2016
+| 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 31 de enero de 2016
+| 70-469 | Recertification for MCSE: Data Platform | 31 de marzo de 2017
+| 70-470 | Recertification for MCSE: Business Intelligence | 31 de marzo de 2017
+| 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 30 de septiembre de 2016
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 30 de septiembre de 2016
 | 70-484 | Essentials of Developing Windows Store Apps Using C# | 30 de septiembre de 2016
 | 70-485 | Advanced Windows Store App Development Using C# | 30 de septiembre de 2016
-| 70-490 | Renovación de certificación para MCSD: Windows Store Apps Using HTML5 | 31 de marzo de 2017
-| 70-491 | Renovación de certificación para MCSD: Windows Store Apps Using C# | 31 de marzo de 2017
-| 70-492 | Actualizar su MCPD: Web Developer 4 a MCSD: Web Applications | 30 de septiembre de 2016
-| 70-494 | Renovación de certificación para MCSD: Web Applications | 31 de marzo de 2017
-| 70-499 | Renovación de certificación para MCSD: Application Lifecycle Management | 31 de marzo de 2017
+| 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31 de marzo de 2017
+| 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 31 de marzo de 2017
+| 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 30 de septiembre de 2016
+| 70-494 | Recertification for MCSD: Web Applications | 31 de marzo de 2017
+| 70-499 | Recertification for MCSD: Application Lifecycle Management | 31 de marzo de 2017
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 31 de marzo de 2011
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 31 de octubre de 2010
 | 70-502 | TS: Microsoft .NET Framework 3.5 - Windows Presentation Foundation | 31 de julio de 2013
@@ -231,9 +274,9 @@ Aspectos esenciales del desarrollo de Windows Store Apps con HTML5 y JavaScript 
 | 70-513 | TS: Windows Communication Foundation Development with Microsoft .NET Framework 4 | 31 de julio de 2016
 | 70-515 | TS: Web Applications Development with Microsoft .NET Framework 4 | 31 de julio de 2016
 | 70-516 | TS: Accessing Data with Microsoft .NET Framework 4 | 31 de julio de 2016
-| 70-517 | Renovación de certificación para MCSD: SharePoint Applications | 31 de marzo de 2017
-| 70-521 | Actualización: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 31 de julio de 2014
-| 70-523 | Actualización: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 31 de julio de 2014
+| 70-517 | Recertification for MCSD: SharePoint Applications | 31 de marzo de 2017
+| 70-521 | Upgrade: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 31 de julio de 2014
+| 70-523 | Upgrade: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 31 de julio de 2014
 | 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 30 de junio de 2011
 | 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 30 de junio de 2011
 | 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 30 de junio de 2011
@@ -246,24 +289,24 @@ Aspectos esenciales del desarrollo de Windows Store Apps con HTML5 y JavaScript 
 | 70-547 | PRO: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework | 30 de junio de 2011
 | 70-548 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 30 de junio de 2011
 | 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 30 de junio de 2011
-| 70-551 | ACTUALIZACIÓN: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 30 de junio de 2011
-| 70-552 | ACTUALIZACIÓN: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 30 de junio de 2011
-| 70-553 | ACTUALIZACIÓN: Habilidades MCSD Microsoft .NET a MCPD desarrollador de aplicaciones empresariales usando Microsoft .NET Framework: Parte 1 | 30 de junio de 2011
-| 70-554 | ACTUALIZACIÓN: Habilidades MCSD Microsoft .NET a MCPD desarrollador de aplicaciones empresariales usando Microsoft .NET Framework: Parte 1 | 30 de junio de 2011
-| 70-555 | TS: Microsoft Office Groove 2007, Configuración | 30 de junio de 2011
-| 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Aplicaciones | 30 de junio de 2011
-| 70-557 | TS: Microsoft Forefront Client y Server, Configuración | 30 de junio de 2011
-| 70-558 | ACTUALIZACIÓN: Habilidades MCAD a MCTS Windows Applications usando Microsoft .NET Framework | 30 de junio de 2011
-| 70-559 | ACTUALIZACIÓN: Habilidades MCAD a MCTS Web Applications usando Microsoft .NET Framework | 30 de junio de 2011
-| 70-561 | TS: Microsoft .NET Framework 3.5, Desarrollo de aplicaciones con ADO.NET | 31 de julio de 2013
-| 70-562 | TS: Microsoft .NET Framework 3.5, Desarrollo de aplicaciones con ASP.NET | 31 de julio de 2013
-| 70-563 | Pro: Diseño y desarrollo de aplicaciones Windows usando Microsoft .NET Framework 3.5 | 31 de julio de 2013
+| 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 30 de junio de 2011
+| 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 30 de junio de 2011
+| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Part 1 | 30 de junio de 2011
+| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Part 1 | 30 de junio de 2011
+| 70-555 | TS: Microsoft Office Groove 2007, Configuring | 30 de junio de 2011
+| 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Applications | 30 de junio de 2011
+| 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 30 de junio de 2011
+| 70-558 | ACTUALIZACIÓN: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 30 de junio de 2011
+| 70-559 | ACTUALIZACIÓN: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 30 de junio de 2011
+| 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application Development | 31 de julio de 2013
+| 70-562 | TS: Microsoft .NET Framework 3.5, ASP.NET Application Development | 31 de julio de 2013
+| 70-563 | Pro: Designing and Developing Windows Applications Using the Microsoft .NET Framework 3.5 | 31 de julio de 2013
 | 70-564 | PRO: Designing and Developing ASP.NET Applications Using the Microsoft .NET Framework 3.5 | 31 de julio de 2013
 | 70-565 | PRO: Designing and Developing Enterprise Applications Using the Microsoft .NET Framework 3.5 | 31 de julio de 2013
-| 70-566 | ACTUALIZACIÓN: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 31 de julio de 2012
-| 70-567 | ACTUALIZACIÓN: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 31 de julio de 2012
-| 70-568 | ACTUALIZACIÓN: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Parte 1 | 31 de julio de 2012
-| 70-569 | ACTUALIZACIÓN: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Parte 2 | 31 de julio de 2012
+| 70-566 | UPGRADE: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 31 de julio de 2012
+| 70-567 | UPGRADE: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 31 de julio de 2012
+| 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 | 31 de julio de 2012
+| 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 2 | 31 de julio de 2012
 | 70-571 | TS: Microsoft Windows Embedded CE 6.0 Application Development | 31 de julio de 2013
 | 70-573 | TS: Microsoft SharePoint 2010, Application Development | 31 de julio de 2016
 | 70-576 | PRO: Designing and Developing Microsoft SharePoint 2010 Applications | 31 de julio de 2016
@@ -286,10 +329,10 @@ Aspectos esenciales del desarrollo de Windows Store Apps con HTML5 y JavaScript 
 | 70-633 | TS: Microsoft Office Project Server 2007, Managing Projects | 31 de enero de 2013
 | 70-634 | Pro: Microsoft Office Project Server 2007, Managing Projects and Programs | 31 de enero de 2013
 | 70-635 | TS: Microsoft Deployment Toolkit 2008, Desktop Deployment | 31 de julio de 2013
-| 70-639 | TS: Microsoft Office Project Server 2007, Configuración | 31 de enero de 2013
-| 70-640 | TS: Windows Server 2008 Active Directory, Configuración | 31 de julio de 2017
-| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuración | 31 de julio de 2017
-| 70-643 | TS: Windows Server 2008 Applications Infrastructure, Configuración | 31 de julio de 2015
+| 70-639 | TS: Microsoft Office Project Server 2007, Configuring | 31 de enero de 2013
+| 70-640 | TS: Windows Server 2008 Active Directory, Configuring | 31 de julio de 2017
+| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuring | 31 de julio de 2017
+| 70-643 | TS: Windows Server 2008 Applications Infrastructure, Configuring | 31 de julio de 2015
 | 70-646 | Pro: Windows Server 2008, Server Administrator | 31 de julio de 2017
 | 70-647 | Pro: Windows Server 2008, Enterprise Administrator | 31 de julio de 2015
 | 70-648 | Upgrading your MCSA on Windows Server 2003 to Windows Server 2008, Technology Specialist | 31 de julio de 2013
@@ -324,12 +367,12 @@ Aspectos esenciales del desarrollo de Windows Store Apps con HTML5 y JavaScript 
 | 70-691 | Windows Server 2008 HPC Environments, Developing | 31 de julio de 2013
 | 70-692 | Upgrading Your Windows XP Skills to MCSA Windows 8 | 31 de diciembre de 2016
 | 70-693 | Pro: Windows Server 2008 R2, Virtualization Administrator | 31 de julio de 2015
-| 70-694 | Virtualizing Enterprise Desktops and Apps | 31 de enero de 2017
-Windows Server 2003, actualización de las habilidades en MCSA especialización de la seguridad | 31 de enero de 2013
+| 70-694 | Virtualizing Enterprise Desktops and Apps | 31 de julio de 2017
+| 70-699 | Windows Server 2003, MCSA Security Specialization Skills Update | 31 de julio de 2013
 | 70-734 | OEM Preinstallation for Windows 10 | 31 de agosto de 2017
-| 70-980 | Renovación de la certificación de MCSE: Server Infrastructure | 31 de marzo de 2017
-| 70-981 | Renovación de la certificación de MCSE: Private Cloud | 31 de marzo de 2017
-| 70-982 | Renovación de la certificación de MCSE: Desktop Infrastructure | 5 de octubre de 2015
+| 70-980 | Recertification for MCSE: Server Infrastructure | 31 de marzo de 2017
+| 70-981 | Recertification for MCSE: Private Cloud | 31 de marzo de 2017
+| 70-982 | Recertification for MCSE: Desktop Infrastructure | 5 de octubre de 2015
 | 74-131 | Designing a Microsoft Office Enterprise Project Management (EPM) Solution | 31 de octubre de 2010
 | 74-132 | Deploying a Portal Solution with Microsoft SharePoint Products and Technologies | 31 de octubre de 2010
 | 74-133 | Customizing Portal Solutions with Microsoft SharePoint Products and Technologies | 31 de octubre de 2010
@@ -345,10 +388,10 @@ Windows Server 2003, actualización de las habilidades en MCSA especialización 
 | 74-338 | Lync 2013 Depth Support Engineer | 30 de marzo de 2016
 | 74-353 | Windows UX Design | 31 de enero de 2015
 | 74-404 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 31 de mayo de 2012
-| 74-544 | TS: Plataforma Bing Maps, desarrollo de aplicación | 31 de diciembre de 2011
-| 74-674 | Implantando servicios de planificación de valor empresarial | 31 de julio de 2015
-| 74-675 | Microsoft Response Point, Configuración | 30 de junio de 2011
-| 74-676 | TS: Fast Enterprise Search Platform, Desarrollo | 31 de julio de 2012
+| 74-544 | TS: Bing Maps Platform, Application Development | 31 de diciembre de 2011
+| 74-674 | Delivering Business Value Planning Services | 31 de julio de 2015
+| 74-675 | Microsoft Response Point, Configuring | 30 de junio de 2011
+| 74-676 | TS: Fast Enterprise Search Platform, Developing | 31 de julio de 2012
 | 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 31 de diciembre de 2017
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 31 de julio de 2013
 | 74-697 | OEM Preinstallation | 31 de enero de 2016
@@ -357,13 +400,13 @@ Windows Server 2003, actualización de las habilidades en MCSA especialización 
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 30 de septiembre de 2011
 | 88-961 | MCM: SharePoint Server 2010: Week 1 | 25 de agosto de 2013
 | 88-962 | MCM: SharePoint Server 2010: Week 2 | 25 de agosto de 2013
-| 88-963 | MCM: SharePoint Server 2010: Semana 3 | 25 de agosto de 2013
+| 88-963 | MCM: SharePoint Server 2010: Week 3 | 25 de agosto de 2013
 | 88-972 | MCM: SharePoint Server 2010: Lab Exam | 25 de agosto de 2013
-| 88-973 | MCM: SharePoint Server 2010, Examen de actualización de conocimiento | 25 de agosto de 2013
+| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 25 de agosto de 2013
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 1 de enero de 2014
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1 de enero de 2014
-| 88-968 | Examen de conocimiento de Lync Server 2010 | 1 de enero de 2014
-| 88-969 | Examen de laboratorio de Lync Server 2010 | 1 de enero de 2014
+| 88-968 | Lync Server 2010 Knowledge Exam | 1 de enero de 2014
+| 88-969 | Lync Server 2010 Lab Exam | 1 de enero de 2014
 | 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31 de diciembre de 2013
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1 de enero de 2014
 | 98-362 | Windows Development Fundamentals | 31 de julio de 2014
@@ -468,15 +511,15 @@ Windows Server 2003, actualización de las habilidades en MCSA especialización 
 | MB6-703 | Microsoft Dynamics AX 2012 R3 Trade and Logistics | 31 de diciembre de 2016
 | MB6-704 | Microsoft Dynamics AX 2012 R3 CU8 Development Introduction | 31 de diciembre de 2016
 | MB6-817 | AX 2009 Trade & Logistics | 6 de enero de 2014
-| MB6-818 | AX 2009 Financials | 6 de enero de 2014
-| MB6-819 | AX 2009 Development Introduction | 6 de enero de 2014
+| MB6-818 | AX 2009 Financials | lunes, 6 de enero de 2014
+| MB6-819 | AX 2009 Development Introduction | lunes, 6 de enero de 2014
 | MB6-820 | AX 2009 Installation & Configuration | 6 de enero de 2014
-| MB6-821 | AX 2009 MorphX Solution Development | 6 de enero de 2014
-| MB6-822 | AX 2009 Production | 6 de enero de 2014
-| MB6-823 | AX 2009 Project Series | 6 de enero de 2014
-| MB6-824 | AX 2009 Human Resource Management | 6 de enero de 2014
-| MB6-825 | AX 2009 Enterprise Portal Development | 6 de enero de 2014
-| MB6-826 | AX 2009 Product Builder | 6 de enero de 2014
+| MB6-821 | AX 2009 MorphX Solution Development | lunes, 6 de enero de 2014
+| MB6-822 | AX 2009 Production | lunes, 6 de enero de 2014
+| MB6-823 | AX 2009 Project Series | lunes, 6 de enero de 2014
+| MB6-824 | AX 2009 Human Resource Management | lunes, 6 de enero de 2014
+| MB6-825 | AX 2009 Enterprise Portal Development | lunes, 6 de enero de 2014
+| MB6-826 | AX 2009 Product Builder | lunes, 6 de enero de 2014
 | MB6-827 | AX 2009 Payroll | 3 de junio de 2011
 | MB6-869 | Microsoft Dynamics AX 2012 Development | 31 de julio de 2015
 | MB6-870 | Microsoft Dynamics AX 2012 Trade and Logistics | 31 de julio de 2015
@@ -506,7 +549,7 @@ Windows Server 2003, actualización de las habilidades en MCSA especialización 
 | MB7-838 | NAV 2009 Installation & Configuration | 30 de junio de 2014
 | MB7-839 | NAV 2009 Core Setup and Finance | 30 de junio de 2014
 | MB7-840 | NAV 2009 C/SIDE Introduction | 30 de junio de 2014
-| MB7-841 | NAV 2009 C/SIDE Solution Development | 30 de junio de 2014
+| MB7-841 | NAV 2009 C/SIDE Solution Development | lunes, 30 de junio de 2014
 | MB7-842 | NAV 2009 Trade & Inventory | 30 de junio de 2014
 | MB7-843 | NAV 2009 Warehouse Management | 30 de junio de 2014
 | MB7-846 | NAV 2009 Relationship Management | 30 de junio de 2014

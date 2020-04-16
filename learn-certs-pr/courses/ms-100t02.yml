@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 Gestión de inquilinos y servicios
+title: Microsoft 365 Tenant & Service Management
 metadata:
-  title: 'Curso MS-100T02-A: Microsoft 365 Gestión de inquilinos y servicios'
-  description: 'Curso MS-100T02-A: Microsoft 365 Gestión de inquilinos y servicios'
+  title: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  description: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -30,7 +30,7 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Obtener información acerca de la administración de servicios e inquilinos de Microsoft 365, incluido cómo planificar, administrar y personalizar los servicios e inquilinos de Microsoft 365 de una organización.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -43,15 +43,13 @@ outlineSection: |-
   - Planificar una infraestructura local de Microsoft 365
   - Planificar su solución de identidad y autenticación
   
-  
   ### Módulo 2&#58; Configuración de su inquilino de Microsoft 365
   #### Lecciones
   - Planificar su experiencia de Microsoft 365
   - Configurar su experiencia de Microsoft 365
   - Aprovechar FastTrack y Servicios para socios
   - Implementar sus servicios de dominio
-
-
+  
   ### Módulo 3&#58; Administrar su inquilino de Microsoft 365
   #### Lecciones
   - Configuración de roles de inquilinos
@@ -65,3 +63,4 @@ outlineSection: |-
   - Ejercicio 2&#58; Administrar usuarios, grupos y administración de Microsoft 365
   - Ejercicio 3&#58; Configurar gestión de derechos y cumplimiento
   - Ejercicio 4&#58; Supervisar y solucionar problemas de Microsoft 365
+

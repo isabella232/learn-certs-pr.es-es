@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administración de acceso de clientes y flujo de correo
+title: Managing Client Access and Mail Flow
 metadata:
-  title: 'Curso MS-200T02-A: Administración de acceso de clientes y flujo de correo'
-  description: 'Curso MS-200T02-A: Administración de acceso de clientes y flujo de correo'
+  title: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
+  description: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
 uid: course.ms-200t02
 courseNumber: 'MS-200T02-A'
 hoursToComplete: 48
@@ -33,7 +33,7 @@ exams:
 - uid: exam.ms-200
 summary: |-
   En este curso aprenderá cómo Microsoft Exchange Server proporciona acceso a los buzones de los usuarios para muchos clientes diferentes. Debido a que todos los clientes de mensajería acceden a los buzones de Exchange Server a través de los servicios de acceso de clientes, examinaremos cómo planificar, configurar y administrar los servicios de acceso de clientes en Exchange Server. Dado que el uso de teléfonos inteligentes y tabletas para la mensajería se ha vuelto muy popular, y debido a que muchos usuarios de teléfonos inteligentes usan sus dispositivos de manera intensiva para correo electrónico, calendario, tareas y otros fines de colaboración, también aprenderá a administrar dispositivos móviles. Este curso también describe la planificación y configuración del transporte de mensajes en una organización de Exchange Server. Aprenderá a planificar, configurar y administrar servicios de transporte para proporcionar una comunicación eficiente entre sus servidores de Exchange, Exchange Online y otros servidores de correo en Internet. Finalmente, aprenderá cómo solucionar problemas de los servicios de transporte cuando ocurren problemas en diferentes escenarios para que pueda proporcionar a su organización una infraestructura de mensajería saludable y confiable.
-
+  
   #### Perfil de audiencia
   El administrador de mensajería implementa, configura, administra y
   soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas tanto en entornos empresariales locales como en la nube. Las responsabilidades incluyen la gestión de la higiene de mensajes, la infraestructura de mensajería y la configuración y migración híbridas. El administrador de mensajería también implementa y administra la recuperación ante desastres, la alta disponibilidad y el acceso del cliente. Para implementar una topología híbrida segura que satisfaga las necesidades comerciales de una organización moderna, el administrador de mensajería debe colaborar con el administrador de seguridad y el administrador de Microsoft 365 Enterprise. El administrador de mensajería debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
@@ -50,12 +50,12 @@ outlineSection: |-
   - Administrar dispositivos del cliente
   - Configuración de Outlook en la web
   - Solucionar problemas de acceso de cliente
+  
   ### Módulo 2&#58; Administrar dispositivos móviles
   #### Lecciones
   - Políticas de buzones de dispositivos móviles
   - Administrar el acceso a dispositivos móviles
-
-
+  
   ### Módulo 3&#58; Gestionar la ruta de transporte
   #### Lecciones
   - Descripción general de los servicios de transporte
@@ -80,3 +80,4 @@ outlineSection: |-
   - Habilitar y deshabilitar ActiveSync para varios buzones
   - Habilitar y deshabilitar el acceso MAPI a un único buzón
   - Activación y desactivación del acceso MAPI a múltiples buzones
+

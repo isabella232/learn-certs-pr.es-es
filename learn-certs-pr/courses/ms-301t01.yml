@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementación de infraestructura de SharePoint 2019
+title: Implementing SharePoint 2019 Infrastructure
 metadata:
-  title: 'Curso MS-301T01-A: Implementación de infraestructura de SharePoint 2019'
-  description: 'Curso MS-301T01-A: Implementación de infraestructura de SharePoint 2019'
+  title: 'Course MS-301T01-A: Implementing SharePoint 2019 Infrastructure'
+  description: 'Course MS-301T01-A: Implementing SharePoint 2019 Infrastructure'
 uid: course.ms-301t01
 courseNumber: 'MS-301T01-A'
 hoursToComplete: 48
@@ -32,19 +32,19 @@ exams:
 - uid: exam.ms-301
 summary: |-
   SharePoint Server 2019 está diseñado para satisfacer las demandas de los estilos de trabajo modernos. Proporciona las nuevas experiencias modernas para los usuarios, que son intuitivas y familiares en SharePoint Online. En este curso aprenderá cómo implementar y configurar SharePoint Server 2019. También trataremos cómo planear y configurar SharePoint en las instalaciones de autenticación y seguridad para proteger el medio ambiente. También aprenderá cómo administrar el contenido de SharePoint para alinearse con la arquitectura de información moderna. 
-  
-  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización. 
-  
-  Este es el primero de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301; Implementación de SharePoint Server Hybrid.
 
+  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización. 
+
+  Este es el primero de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301&#58; Implementación de SharePoint Server Hybrid.
+  
   #### Perfil de audiencia
   Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio. 
-  
+
   El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos. 
-  
-  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios: Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Experiencia con Windows PowerShell
   - Comprensión básica de la administración de SQL Server
   - Conocimientos básicos de redes, incluido DNS
@@ -58,13 +58,11 @@ outlineSection: |-
   - Planear una granja de SharePoint
   - SharePoint 2019
   - Instalar y administrar granja de SharePoint
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir la función MinRole en SharePoint 2019
   - Describir cómo instalar y configurar SharePoint 2019
   - Describir cómo implementar alta disponibilidad para SharePoint
   - Planificar las copias de seguridad y la restauración de conjunto de servidores
-
 
   ### Módulo 2&#58; SharePoint Authentication and Security
   Este módulo trata sobre la autenticación y seguridad de SharePoint. Introduce diferentes métodos de autenticación en SharePoint 2019.
@@ -101,3 +99,4 @@ outlineSection: |-
   ### Módulo 4&#58; Conclusión del curso
 
   #### Laboratorio &#58; Crear y configurar aplicaciones web
+

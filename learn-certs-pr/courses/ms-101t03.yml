@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administración de dispositivos de Microsoft 365
+title: Microsoft 365 Device Management
 metadata:
-  title: 'Curso MS-101T03-A: Administración de dispositivos de Microsoft 365'
-  description: 'Curso MS-101T03-A: Administración de dispositivos de Microsoft 365'
+  title: 'Course MS-101T03-A: Microsoft 365 Device Management'
+  description: 'Course MS-101T03-A: Microsoft 365 Device Management'
 uid: course.ms-101t03
 courseNumber: 'MS-101T03-A'
 hoursToComplete: 24
@@ -35,8 +35,8 @@ products:
 exams:
 - uid: exam.ms-101
 summary: |-
-  Este curso es una introducción al mundo de la administración de dispositivos de Microsoft 365: desde el establecimiento de Microsoft Intune hasta la inscripción de dispositivos en Intune, el monitoreo de los dispositivos y el control de lo que los usuarios pueden hacer desde los dispositivos inscritos mediante el uso de políticas de acceso condicional. Si ya está administrando dispositivos mediante una herramienta de administración de dispositivos tradicional como Configuration Manager, será interesante saber cómo pasar sin problemas a la administración moderna, en qué dispositivos administra Intune y cómo uno puede beneficiarse de la administración de dispositivos nuevos,capacidades como ser: cumplimiento, acceso condicional y piloto automático de Windows para implementar nuevos dispositivos desde la nube.
-
+  Este curso es una introducción al mundo de la administración de dispositivos de Microsoft 365&#58; desde el establecimiento de Microsoft Intune hasta la inscripción de dispositivos en Intune, el monitoreo de los dispositivos y el control de lo que los usuarios pueden hacer desde los dispositivos inscritos mediante el uso de políticas de acceso condicional. Si ya está administrando dispositivos mediante una herramienta de administración de dispositivos tradicional como Configuration Manager, será interesante saber cómo pasar sin problemas a la administración moderna, en qué dispositivos administra Intune y cómo uno puede beneficiarse de la administración de dispositivos nuevos,capacidades como ser&#58; cumplimiento, acceso condicional y piloto automático de Windows para implementar nuevos dispositivos desde la nube.
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -52,15 +52,13 @@ outlineSection: |-
   - Introducción Microsoft Store para empresas
   - Plan para la gestión de aplicaciones móviles
   
-  
   ### Módulo 2&#58; Planificación de su estrategia de implementación de Windows 10
   #### Lecciones
   - Escenarios de implementación de Windows 10
   - Planificación de su estrategia de activación de suscripción de Windows 10
   - Resolver errores de actualización de Windows 10
   - Introducción a Windows Analytics
-
-
+  
   ### Módulo 3&#58; Implementación de gestión de dispositivos móviles
   #### Lecciones
   - Planificar la gestión de dispositivos móviles
@@ -82,3 +80,4 @@ outlineSection: |-
   - Ejercicio 3&#58; Crear políticas de Intune
   - Ejercicio 4&#58; Registrar un dispositivo con Windows 10
   - Ejercicio 5&#58; Administrar y monitorear un dispositivo en Intune
+

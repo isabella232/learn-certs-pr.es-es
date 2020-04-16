@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configuración central en Dynamics 365 for Finance and Operations
+title: Core configuration in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-300T02-A: Configuración central en Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-300T02-A: Configuración central en Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T02-A: Core configuration in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T02-A: Core configuration in Dynamics 365 for Finance and Operations'
 uid: course.mb-300t02
 courseNumber: 'MB-300T02-A'
 hoursToComplete: 24
@@ -21,8 +21,7 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Las organizaciones usan Dynamics 365 for Finance and Operations para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos.
-
+  Las organizaciones usan Dynamics 365 for Finance and Operations para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos. 
   Este curso trata sobre cómo configurar los componentes principales de Microsoft Dynamics 365 for Finance and Operations.
 
   #### Perfil de audiencia
@@ -40,9 +39,9 @@ outlineSection: |-
   - Configurar calendarios e intervalos de fechas
   - Laboratorios de práctica
   - Resumen del módulo
-  
-  Los estudiantes han aprendido cómo crear una entidad legal y generar secuencias numéricas, manualmente o mediante un asistente. Los estudiantes también configuraron calendarios e intervalos de fechas. Además, aprendieron a crear jerarquías organizacionales, aplicar propósitos y configurar políticas para optimizar las políticas comerciales y las estructuras de informes.
 
+  Los estudiantes han aprendido cómo crear una entidad legal y generar secuencias numéricas, manualmente o mediante un asistente. Los estudiantes también configuraron calendarios e intervalos de fechas. Además, aprendieron a crear jerarquías organizacionales, aplicar propósitos y configurar políticas para optimizar las políticas comerciales y las estructuras de informes.
+  
   ### Módulo 2&#58; Administrar usuarios y seguridad
   Microsoft Dynamics 365 for Finance and Operations tiene una variedad de opciones de seguridad y configuración para ayudar a mantener seguros los datos confidenciales. Todo esto significa que los usuarios pueden permanecer enfocados en sus roles, mientras que el sistema se mantiene lo más optimizado posible.
   Saber cómo implementar diferentes opciones de seguridad ayudará a las empresas a cubrir sus requisitos de seguridad. Cuando se comprende la arquitectura de seguridad de Finanzas y Operaciones, se puede personalizar más fácilmente la seguridad para que se ajuste a los requisitos de una empresa.
@@ -54,7 +53,6 @@ outlineSection: |-
   - Configurar trabajos por lotes y alertas
   - Laboratorios de práctica
   - Resumen del módulo
-  
 
   En este módulo, los estudiantes tendrán&#58;
   - Entendió la arquitectura de seguridad de Finanzas y Operaciones
@@ -72,9 +70,9 @@ outlineSection: |-
   - Crear y mantener plantillas de registro
   - Laboratorios de práctica
   - Resumen del módulo
-  
 
-  Los estudiantes ahora han aprendido cómo usar y aplicar las opciones de usuario, crear personalización y exportar personalización para ser utilizada por otros usuarios, utilizando la función de personalización de Finanzas y Operaciones. También aprendieron la diferencia entre personalización y adaptación. En particular, cómo la personalización ayuda a ahorrar tiempo en la personalización de valores de campo de uso frecuente y permite la creación y el mantenimiento de plantillas de registro.
+
+  Los estudiantes ahora han aprendido cómo usar y aplicar las opciones de usuario, crear personalización y exportar personalización para ser utilizada por otros usuarios, utilizando la función de personalización de Finanzas y Operaciones. También aprendieron la diferencia entre personalización y adaptación. In particular, how personalization helps save time personalizing often-used field values and allows for creation and maintenance of record templates.
 
   ### Módulo 4&#58; Implementar características comunes de integración
   Microsoft Dynamics 365 se integra con muchos otros programas comunes; por ejemplo, correo electrónico, Microsoft Office y Power BI.
@@ -87,7 +85,7 @@ outlineSection: |-
   - Integrar datos en Servicios de datos comunes para aplicaciones
   - Laboratorios de práctica
   - Resumen del módulo
-  
+
 
   En este módulo, los estudiantes habrán aprendido cómo usar la integración de Microsoft Office en Dynamics 365 para Finanzas y Operaciones, configurar el correo electrónico (SMTP/Exchange) y crear y mantener plantillas de correo electrónico para estandarizar los mensajes al enviar correos electrónicos a los clientes. Al configurar las funciones de impresión en red, las impresoras de red corporativas se pueden utilizar de forma remota. Finalmente, este módulo proporcionó una descripción general de cómo integrar datos de múltiples fuentes en Common Data Service for Apps e integrar los datos a Dynamics 365 for Finance and Operations utilizando el espacio de trabajo de Administración de datos.
 
@@ -97,6 +95,7 @@ outlineSection: |-
   - Evaluación final
   - Resumen del curso
   - Encuesta posterior al curso
-  
+
 
   Los estudiantes habrán completado el curso.
+

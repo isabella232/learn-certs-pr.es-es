@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar una solución de datos de Azure
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Curso DP-200T01-A: Implementar una solución de datos de Azure'
-  description: 'Curso DP-200T01-A: Implementar una solución de datos de Azure'
+  title: 'Course DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Course DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -30,30 +30,27 @@ exams:
 - uid: exam.dp-200
 summary: |-
   En este curso, los estudiantes implementarán varias tecnologías de plataforma de datos en soluciones que están en línea con los requisitos técnicos y comerciales, incluidos escenarios de datos locales, en la nube e híbridos que incorporan datos relacionales y NoSQL. También aprenderán cómo procesar datos utilizando una gama de tecnologías e idiomas para la transmisión de datos y lotes.
-
   Los estudiantes también explorarán cómo implementar la seguridad de los datos, incluida la autenticación, autorización, políticas de datos y estándares. También definirán e implementarán el monitoreo de soluciones de datos tanto para el almacenamiento de datos como para las actividades de procesamiento de datos. Finalmente, administrarán y solucionarán las soluciones de datos de Azure que incluyen la optimización y la recuperación ante desastres de datos, procesamiento por lotes y soluciones de transmisión de datos.
-
+  
   #### Perfil de audiencia
   La audiencia principal para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido desde la plataforma de datos. tecnologías que existen en Microsoft Azure.
 prerequisitesSection: |-
   Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
-  ### Módulo 1&#58; Azure para el ingeniero de datos
+  ### Module  1&#58; Azure para el ingeniero de datos
   Este módulo explora cómo ha evolucionado el mundo de los datos y cómo las tecnologías de la plataforma de datos en la nube ofrecen nuevas oportunidades para que las empresas exploren sus datos de diferentes maneras. Los estudiantes obtendrán una visión general de las diversas tecnologías de plataforma de datos que están disponibles y cómo la función y las responsabilidades de un ingeniero de datos han evolucionado para funcionar en este nuevo mundo en beneficio de una organización.
   #### Lecciones
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
   - Describir los casos de uso de la nube en un estudio de caso
-
   #### Laboratorio &#58; Azure para el ingeniero de datos
   - Identificar el mundo en evolución de los datos.
   - Determinar los servicios de Azure Data Platform
   - Identificar tareas a realizar por un ingeniero de datos
   - Finalizar los entregables de ingeniería de datos
-
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
@@ -75,14 +72,14 @@ outlineSection: |-
   - Explicar el almacenamiento de Data Lake
   - Cargar datos en Data Lake Store
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Azure Data Lake
   - Cargar datos en Azure Data Lake
 
 
-  ### Módulo 3&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
+  ### Module  3&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
   Este módulo presenta a los estudiantes los Azure Databricks y cómo un ingeniero de datos trabaja con él para permitir que una organización realice proyectos de Team Data Science. Aprenderán los fundamentos de los cuadernos Azure Databricks y Apache Spark; cómo aprovisionar el servicio y los espacios de trabajo; y cómo realizar la tarea de preparación de datos que puede contribuir al proyecto de ciencia de datos.
   #### Lecciones
   - Explicar Azure Databricks
@@ -97,7 +94,7 @@ outlineSection: |-
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
@@ -119,7 +116,7 @@ outlineSection: |-
   - Crear una aplicación .Net Core para Azure Cosmos DB con VS Code
   - Distribuir datos globalmente con Azure Cosmos DB
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Crear una base de datos Azure Cosmos DB creada a escala
   - Insertar y consultar datos en su base de datos Azure Cosmos DB
   - Crear una aplicación .NET Core Azure para Cosmos DB en Visual Studio Code
@@ -141,7 +138,7 @@ outlineSection: |-
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Usar Azure SQL Database
   - Describir Azure Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
@@ -175,7 +172,7 @@ outlineSection: |-
   - Azure Data Factory y Databricks
 
 
-  #### Laboratorio &#58; Orquestando el movimiento de datos con Azure Data Factory
+  #### Laboratorio &#58;Orquestando el movimiento de datos con Azure Data Factory
   - Explicar cómo funciona Data Factory
   - Componentes de Azure Data Factory
   - Azure Data Factory y Databricks
@@ -226,8 +223,9 @@ outlineSection: |-
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, los estudiantes podrán;
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
+

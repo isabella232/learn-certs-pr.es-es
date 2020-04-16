@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations
+title: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-320T02-A: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations'
-  description: 'Curso MB-320T02-A: Configurar y usar la fabricación ajustada en Dynamics 365 para Finance and Operations'
+  title: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t02
 courseNumber: 'MB-320T02-A'
 hoursToComplete: 24
@@ -21,7 +21,6 @@ exams:
 - uid: exam.mb-320
 summary: |-
   Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente. 
-
   Este curso trata sobre cómo configurar y usar la fabricación ajustada en Dynamics 365 for Finance and Operations.
 
   #### Perfil de audiencia
@@ -35,8 +34,6 @@ outlineSection: |-
   - Introducción
   - Conceptos y terminología
   - Resumen del módulo
-
-
   En esta lección, los estudiantes aprendieron a&#58;
   - Comprender la producción ajustada
   - Comprender los conceptos y la terminología de Lean
@@ -148,3 +145,4 @@ outlineSection: |-
 
 
   Los estudiantes habrán completado el curso.
+

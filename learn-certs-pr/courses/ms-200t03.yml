@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestión de alta disponibilidad de mensajería y recuperación ante desastres
+title: Managing Messaging High Availability and Disaster Recovery
 metadata:
-  title: 'Curso MS-200T03-A: Gestión de alta disponibilidad de mensajería y recuperación ante desastres'
-  description: 'Curso MS-200T03-A: Gestión de alta disponibilidad de mensajería y recuperación ante desastres'
+  title: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
+  description: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
 uid: course.ms-200t03
 courseNumber: 'MS-200T03-A'
 hoursToComplete: 48
@@ -31,9 +31,9 @@ exams:
 - uid: exam.ms-200
 summary: |-
   En este curso, los estudiantes aprenderán sobre las soluciones tradicionales y modernas para la alta disponibilidad de mensajes y la recuperación ante desastres. Los sistemas de mensajería se han vuelto cada vez más complejos, dada la abundancia de nuevas características que se han agregado en los últimos años, así como la creciente importancia dada a la disponibilidad y la recuperación ante desastres. Los enfoques tradicionales para la alta disponibilidad y la recuperación ante desastres todavía están presentes y existen principalmente en la capa de hardware, como los sistemas RAID para almacenamiento, replicación de dispositivos en bloque y soluciones de archivo que utilizan almacenamiento externo. Si bien Microsoft Exchange admite estos enfoques tradicionales, también ofrece soluciones que modernizan la alta disponibilidad y la recuperación ante desastres al proporcionar soluciones directamente integradas en los sistemas de mensajería. Esto incluye cosas tales como la replicación continua y las soluciones de retención que se crean directamente dentro de las bases de datos de mensajes. Esto ahorra a los administradores mucho tiempo y esfuerzo al mantener diferentes capas de soluciones extranjeras en hardware y software.
-  
-  En este curso, los estudiantes recibirán una introducción a cada solución, aprenderán cuándo usar una u otra, cómo planificar una implementación y cómo realizar la implementación real.
 
+  En este curso, los estudiantes recibirán una introducción a cada solución, aprenderán cuándo usar una u otra, cómo planificar una implementación y cómo realizar la implementación real.
+  
   #### Perfil de audiencia
   El administrador de mensajería implementa, configura, administra y
   soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y
@@ -58,13 +58,13 @@ outlineSection: |-
   - Alta disponibilidad para el servicio de acceso de cliente
   - Alta disponibilidad para el transporte
   - Implementar la resistencia del sitio
+  
   ### Módulo 2&#58; Gestionar la recuperación ante desastres
   #### Lecciones
   - Planificación para la recuperación de desastres
   - Implementar estrategias de respaldo
   - Restaurar buzones, bases de datos y servidores
-
-
+  
   ### Módulo 3&#58; Administrar carpetas públicas
   #### Lecciones
   - Planificar la jerarquía de carpetas públicas
@@ -77,3 +77,4 @@ outlineSection: |-
   #### Laboratorio &#58; Gestión de carpetas públicas y recuperación ante desastres
   - Ejercicio 1&#58; Solución de problemas de flujo de correo y conectividad
   - Ejercicio 2&#58; Recuperación ante desastres mediante eDiscovery y reservas in situ
+

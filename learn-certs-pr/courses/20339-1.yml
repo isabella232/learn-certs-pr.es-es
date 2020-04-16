@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: Planificar y administrar SharePoint 2016
+title: Planning and Administering SharePoint 2016
 metadata:
-  title: 'Curso 20339-1-A: Planificar y administrar SharePoint 2016'
-  description: 'Curso 20339-1-A: Planificar y administrar SharePoint 2016'
+  title: 'Course 20339-1A: Planning and Administering SharePoint 2016'
+  description: 'Course 20339-1A: Planning and Administering SharePoint 2016'
 uid: course.20339-1
-courseNumber: '20339-1-A'
+courseNumber: '20339-1A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -35,56 +35,53 @@ exams:
 - uid: exam.70-339
 summary: |-
   Este curso de cinco días le proporcionará los conocimientos y habilidades para planificar y administrar un entorno en Microsoft SharePoint 2016. El curso le enseña cómo implementar, administrar y solucionar problemas en el entorno de SharePoint. Este curso también ofrece pautas, buenas prácticas y consideraciones que le ayudarán a optimizar su implementación de SharePoint.
-
   Este es el primero de una secuencia de dos cursos para profesionales de TI y está alineado con la certificación SharePoint 2016 IT Pro.
 
   #### Perfil de audiencia
   El curso está dirigido a profesionales de TI con experiencia que estén interesados en aprender cómo instalar, configurar, implementar y administrar instalaciones de SharePoint 2016 en un centro de datos o en la nube.
-  
-  Los estudiantes suelen tener más de un año de experiencia práctica* con la planificación y el mantenimiento de SharePoint y dos años de experiencia con otras tecnologías centrales de las que depende SharePoint, incluido el servidor Windows 2012 R2 o posterior, servicios de información de Internet (IIS), el servidor de Microsoft SQL 2014 o posterior, Servicios de dominio de Active Directory (AD DS) y servicios de infraestructura de red.  
-  
+
+  Los estudiantes suelen tener más de un año de experiencia práctica* con la planificación y el mantenimiento de SharePoint y dos años de experiencia con otras tecnologías centrales de las que depende SharePoint, incluido el servidor Windows 2012 R2 o posterior, servicios de información de Internet (IIS), el servidor de Microsoft SQL 2014 o posterior, Servicios de dominio de Active Directory (AD DS) y servicios de infraestructura de red.
+
   El candidato mínimamente calificado normalmente&#58;
-  - es un profesional de TI que planifica, implementa y mantiene una implementación de servidores múltiples de SharePoint 2016.
+  -es un profesional de TI que planifica, implementa y mantiene una implementación de servidores múltiples de SharePoint 2016.
   - Tiene un conocimiento práctico de, y preferiblemente con experiencia práctica, SharePoint en línea.
-  - Tiene una amplia familiaridad con las cargas de trabajo de SharePoint.
+  -Tiene una amplia familiaridad con las cargas de trabajo de SharePoint.
   - Tiene experiencia con la gestión de la continuidad del negocio, incluida la copia de seguridad de datos, la restauración y la alta disponibilidad.
   - Tiene experiencia con tecnologías de autenticación y seguridad.
   - Tiene experiencia con Windows PowerShell.
   *La experiencia práctica o la experiencia laboral debe provenir de un rol basado en soluciones en el que el candidato ha trabajado en múltiples soluciones en el espacio de SharePoint que incluye la gestión de documentos, la gestión de contenido y la búsqueda.
 prerequisitesSection: |-
-  Antes de asistir a este curso, los estudiantes deben tener conocimiento de&#58;
+  Antes de asistir a este curso,
+  los estudiantes deben tener conocimiento de&#58;
   - Gestión de software en un entorno de servidor empresarial Windows 2012 R2 o el servidor de Windows 2012 R2
   - Implementación y administración de aplicaciones de forma nativa, virtual y en la nube.
   - Administración de IIS.
   - Configuración de AD DS para su uso en autenticación, autorización y como almacén de usuarios.
-  - Administración de una aplicación de forma remota mediante Windows PowerShell 4.0.
+  -Administración de una aplicación de forma remota mediante Windows PowerShell 4.0.
   - Gestión de bases de datos y roles de servidor en SQL Server.
   - Conexión de aplicaciones al servidor de SQL.
   - Implementación de seguridad basada en reclamo.
   - Uso de máquinas virtuales Microsoft Hyper-V.
-
   Un candidato ideal para este curso debe tener al menos un año de experiencia en la implementación y administración de varias granjas de servidores de SharePoint 2013 en una gran empresa Debido a que muchos clientes no se han actualizado desde SharePoint 2010, un candidato también puede tener al menos dos años de experiencia con SharePoint 2010. Sin embargo, también deben comprender las diferencias entre SharePoint 2010 y SharePoint 2013, particularmente en términos de hibridación.
 outlineSection: |-
-  ### Módulo 1&#58; Introducción a SharePoint 2016
+  ### Módulo 1&#58; Introducción a SharePoint 2016.
   Este módulo describe la estructura y capacidades de un entorno de SharePoint y los principales cambios para los profesionales de TI en SharePoint 2016. Este módulo también describe las opciones disponibles para implementar SharePoint 2016.
   #### Lecciones
   - Componentes clave de una implementación de SharePoint
   - Nuevas características en SharePoint 2016
   - Opciones de implementación de SharePoint 2016
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Identificar la arquitectura y las capacidades de SharePoint 2016.
   - Identificar características nuevas y obsoletas en SharePoint 2016.
   - Identificar las opciones de implementación para SharePoint 2016.
 
-
-  ### Módulo 2&#58; Diseño de una arquitectura de información
+  ### Módulo 2&#58; Diseño de una arquitectura de información.
   Este módulo describe cómo reunir los requisitos comerciales y los elementos clave de un proyecto de arquitectura de información exitoso. Este módulo también explica cómo estructurar la información dentro de una implementación de SharePoint 2016 y facilitar su búsqueda y recuperación.
   #### Lecciones
   - Identificación de los requisitos comerciales
   - Comprensión de los requisitos comerciales
   - Organización de información en SharePoint 2016
-  - Planificación de la capacidad de descubrimiento
+  - Planificación de la capacidad de descubrimiento.
 
 
   #### Laboratorio &#58; Diseño de una arquitectura de información - Primera parte
@@ -95,10 +92,8 @@ outlineSection: |-
   - Diseño de una taxonomía empresarial.
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Explicar cómo a comprensión de los requisitos comerciales impulsa
-  el diseño de una arquitectura de información organizacional.
-  - Describir los componentes clave disponibles en SharePoint
-  2016 para implementar una arquitectura de información.
+  - Explicar cómo a comprensión de los requisitos comerciales impulsa el diseño de una arquitectura de información organizacional.
+  - Describir los componentes clave disponibles en SharePoint 2016 para implementar una arquitectura de información.
   - Planificar un descubrimiento como parte de una Implementación de arquitectura de información.
 
 
@@ -115,10 +110,11 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Asignar los requisitos empresariales a los componentes de arquitectura de SharePoint 2016.
-  - Explicar la importancia de la documentación y describir las opciones para documentando la arquitectura lógica.
+  - Explicar la importancia de la documentación y describir las opciones para
+  documentando la arquitectura lógica.
 
 
-  ### Módulo 4&#58; Diseñar una arquitectura física
+  ### Módulo 4&#58; Diseñar una arquitectura física.
   Este módulo describe los requisitos de diseño físico para SharePoint 2016 y los componentes físicos necesarios para cumplir con el diseño de la arquitectura física. También explica las topologías de la granja de servidores de SharePoint y describe cómo asignar un diseño de arquitectura lógica a un diseño de arquitectura física.
   #### Lecciones
   - Diseño de componentes físicos para implementaciones de SharePoint
@@ -131,17 +127,16 @@ outlineSection: |-
   - Diseño de una arquitectura física.
   - Desarrollo de un diagrama de diseño de arquitectura física.
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir los requisitos para los componentes físicos necesarios
-  para una implementación de SharePoint 2016.
-  - Describir los requisitos para los componentes de soporte necesarios
-  para una implementación exitosa de SharePoint 2016.
+  Después
+  De completar este módulo, los estudiantes podrán&#58;
+  - Describir los requisitos para los componentes físicos necesarios para una implementación de SharePoint 2016.
+  - Describir los requisitos para los componentes de soporte necesarios para una implementación exitosa de SharePoint 2016.
   - Identificar topologías de granja de SharePoint.
   - Asignar un diseño de arquitectura lógica a un diseño de arquitectura física.
 
 
-  ### Módulo 5&#58; Instalación y configuración de SharePoint 2016
-  Este módulo explica cómo instalar SharePoint 2016 en diferentes topologías, ejecutar la instalación y configurar un entorno de SharePoint 2016. Este módulo también explica cómo configurar las configuraciones centrales de nivel de granja en una implementación de SharePoint 2016.
+  ### Módulo 5&#58; Instalación y configuración de SharePoint 2016.
+  Este módulo explica cómo instalar SharePoint 2016 en diferentes topologías, ejecutar la instalación y configurar un entorno de SharePoint 2016. Este módulo también explica cómo configurar las configuraciones centrales de nivel de granja en una implementación de SharePoint 2016
   #### Lecciones
   - Instalación de SharePoint 2016
   - Instalación de scripts y configuración de SharePoint
@@ -152,20 +147,20 @@ outlineSection: |-
   - Aprovisionamiento de una granja de SharePoint 2016
 
 
-  #### Laboratorio &#58; Implementación y configuración de SharePoint 2016: segunda parte
+  #### Laboratorio &#58; Implementación y configuración de SharePoint 2016&#58; segunda parte
   - Configuración de correo electrónico entrante
   - Configuración de correo electrónico saliente
   - Configuración de la integración con el servidor de Office en línea.
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después
+  De completar este módulo, los estudiantes podrán&#58;
   - Instalar SharePoint 2016.
   - Implementar y configurar SharePoint 2016.
-  - Instruir la instalación y configuración de
-  SharePoint 2016.
+  - Instruir la instalación y configuración de SharePoint 2016.
   - Configurar las opciones de la granja de SharePoint 2016.
 
 
-  ### Módulo 6&#58; Creación de aplicaciones web y colecciones de sitios
+  ### Módulo 6&#58; Creación de aplicaciones web y colecciones de sitios.
   Este módulo explica cómo crear aplicaciones web en SharePoint 2016 y cómo configurar estas aplicaciones. También explica cómo crear y configurar colecciones de sitios en SharePoint 2016 y SharePoint en línea.
   #### Lecciones
   - Creación de aplicaciones web
@@ -178,25 +173,26 @@ outlineSection: |-
   - Configuración de aplicación web
 
 
-  #### Laboratorio &#58; Creación y configuración de las colecciones de sitio
-  - Creación y configuración de colecciones de sitio.
+  #### Laboratorio &#58; Creación y configuración de las colecciones de sitio.
+  - Creación y configuración de las colecciones de sitio.
   - Creación de colección de sitio en una nueva base de datos de contenido
   - Uso de la creación rápida de la colección de sitios
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después
+  De completar este módulo, los estudiantes podrán&#58;
   - Crear aplicaciones web.
   - Configurar aplicaciones web.
   - Crear y configurar colecciones de sitios.
 
 
-  ### Módulo 7&#58; Planificación y configuración de aplicaciones de servicio
+  ### Módulo 7&#58; Planificación y configuración de aplicaciones de servicio.
   Este módulo describe la arquitectura de la aplicación de servicio en SharePoint 2016 y cómo aprovisionar y administrar aplicaciones de servicio.
   #### Lecciones
   - Introducción a la arquitectura de la aplicación de servicio.
   - Creación y configuración de aplicaciones de servicio
 
 
-  #### Laboratorio &#58; Planificación y configuración de aplicaciones de servicio
+  #### Laboratorio &#58; Planificación y configuración de aplicaciones de servicio.
   - Aprovisionamiento de una aplicación de servicio de metadatos administrados con Administración central
   - Aprovisionamiento de una aplicación de servicio de metadatos administrados con Windows PowerShell
   - Configuración de la aplicación de servicio de servicios de automatización de Word para la conversión de documentos
@@ -204,7 +200,7 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar los componentes clave y las topologías para una arquitectura de aplicación de servicio de SharePoint 2016.
-  - Planificar para cuentas de servicio y dependencias de aplicaciones de servicio.
+  Planificar para cuentas de servicio y dependencias de aplicaciones de servicio.
   - Comprender el propósito de asignar aplicaciones de servicios a los requisitos comerciales.
   - Describir cómo aprovisionar y administrar aplicaciones de servicio de SharePoint 2016
 
@@ -259,7 +255,7 @@ outlineSection: |-
   - Configuración de seguridad a nivel de granja
 
 
-  #### Laboratorio &#58; Aseguramiento de una implementación de SharePoint 2016
+  #### Laboratorio &#58; Aseguramiento de una implementación de SharePoint 2016.
   - Configuración de la seguridad de comunicación del servidor de SharePoint
   - Consolidación de una granja de servidores de SharePoint
   - Configuración de tipos de archivos bloqueados
@@ -295,14 +291,14 @@ outlineSection: |-
   - Configurar la aplicación de servicio de metadatos administrados en SharePoint 2016.
 
 
-  ### Módulo 12&#58; Configuración de perfiles de usuarios
+  ### Módulo 12&#58; Configuración de perfiles de usuarios.
   Este módulo explica cómo configurar la aplicación de servicio de perfil de usuario y cómo administrar los perfiles de usuario y el público.
   #### Lecciones
   - Configuración de la aplicación de servicio de perfil de usuario
   - Gestión de perfiles de usuarios y audiencias.
 
 
-  #### Laboratorio &#58; Configuración de perfiles de usuarios
+  #### Laboratorio &#58; Configuración de perfiles de usuarios.
   - Configuración de la aplicación de servicio de perfil de usuario
   - Configuración de importación y sincronización de directorios
 
@@ -344,7 +340,7 @@ outlineSection: |-
   - Administrar la experiencia de búsqueda en SharePoint 2016.
 
 
-  ### Módulo 14&#58; Monitoreo y mantenimiento de un entorno de SharePoint 2016
+  ### Módulo 14&#58; Monitoreo y mantenimiento de un entorno de SharePoint 2016.
   Este módulo explica cómo implementar un plan de monitoreo para SharePoint 2016 y cómo optimizar el rendimiento de una implementación de SharePoint 2016. También explica cómo planificar y configurar el almacenamiento en caché de SharePoint. Además, explica cómo identificar y resolver problemas en un entorno de SharePoint 2016.
   #### Lecciones
   - Supervisión de un entorno de SharePoint 2016
@@ -353,14 +349,14 @@ outlineSection: |-
   - Solución de problemas de un entorno de SharePoint 2016
 
 
-  #### Laboratorio &#58; Supervisión de una implementación de SharePoint 2016
+  #### Laboratorio &#58; Supervisión de una implementación de SharePoint 2016.
   - Configuración de la recopilación de datos de uso y salud
   - Configuración del registro de diagnóstico de SharePoint
   - Configuración de reglas de Health Analyzer
   - Revisión de datos de uso y salud
 
 
-  #### Laboratorio &#58; Investigación de los tiempos de carga de página
+  ####Laboratorio &#58; Investigación de los tiempos de carga de página
   - Análisis del tráfico de red
   - Análisis del rendimiento de la página de SharePoint
 
@@ -368,5 +364,6 @@ outlineSection: |-
   - Desarrollar e implementar un plan de monitoreo para un entorno de SharePoint 2016.
   - Ajustar y optimizar una granja de servidores de SharePoint 2016 de forma continua
   - Planificar y configurar el almacenamiento en caché para mejorar el rendimiento de una implementación de SharePoint 2016.
-  
+
   Solucionar problemas de errores y otros problemas en una implementación de SharePoint 2016
+

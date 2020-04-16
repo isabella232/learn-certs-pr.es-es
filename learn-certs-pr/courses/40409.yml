@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: Implementación de cargas de trabajo de voz para Skype Empresarial en línea y Server 2015
+title: Deploying Voice Workloads for Skype for Business Online and Server 2015
 metadata:
-  title: 'Curso 40409-A: Implementación de cargas de trabajo de voz para Skype Empresarial en línea y Server 2015'
-  description: 'Curso 40409-A: Implementación de cargas de trabajo de voz para Skype Empresarial en línea y Server 2015'
+  title: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
+  description: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
 uid: course.40409
 courseNumber: '40409-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Describir las diversas cargas de trabajo de voz disponibles con Skype Empresarial en línea y Skype Empresarial Server 2015.
-- skill: Evaluar una red en preparación para una solución de voz de Skype Empresarial Server 2015 o Skype Empresarial en línea.
-- skill: Implementar y configurar una solución de voz de Skype Empresarial que combine Skype Empresarial en línea y Skype Empresarial Enterprise Voice.
+- skill: Describir las diversas cargas de trabajo de voz disponibles con Skype for Business en línea y Skype for Business Server 2015.
+- skill: Evaluar una red en preparación para una solución de voz de Skype for Business Server 2015 o Skype for Business en línea.
+- skill: Implementar y configurar una solución de voz de Skype for Business que combine Skype for Business en línea y Skype for Business Enterprise Voice.
 - skill: Implementar y configurar Cloud PBX con llamadas PSTN.
 - skill: Configurar Enterprise V local
 - skill: Implementar y configurar Cloud PBX con conectividad PSTN local.
-- skill: Integrar Skype Empresarial Server 2015 con infraestructuras de voz que no sean de Microsoft.
+- skill: Integrar Skype for Business Server 2015 con infraestructuras de voz que no sean de Microsoft.
 - skill: Planificar y trabajar Cloud Connector Edition.
-- skill: Configurar características que amplíen la funcionalidad de Skype Empresarial Enterprise Voice (local), como servidores de información de ubicación y grupos de respuesta.
+- skill: Configurar características que amplíen la funcionalidad de Skype for Business Enterprise Voice (local), como servidores de información de ubicación y grupos de respuesta.
 - skill: Optimizar las comunicaciones de voz en una red TCP / IP.
-- skill: Uso de Metodología de calidad de llamadas y las herramientas e informes de monitoreo de Skype Empresarial Server 2015.
-- skill: Solucionar los problemas de las comunicaciones de voz de Skype Empresarial en línea y Skype Empresarial Server 2015 Enterprise Voice (local).
+- skill: Uso de Metodología de calidad de llamadas y las herramientas e informes de monitoreo de Skype for Business Server 2015.
+- skill: Solucionar los problemas de las comunicaciones de voz de Skype for Business en línea y Skype for Business Server 2015 Enterprise Voice (local).
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,40 +32,37 @@ products:
 exams:
 - uid: exam.70-333
 summary: |-
-  Este curso de cinco días dirigido por un instructor enseña cómo diseñar, planificar e implementar las diversas soluciones de voz disponibles con Skype Empresarial en línea y Skype Empresarial Server 2015. Este curso le proporcionará los conocimientos y habilidades para configurar y administrar Cloud PBX con llamadas PSTN, Cloud PBX con conectividad PSTN local, Cloud Connector Edition y Enterprise Voice local. Este curso también proporcionará procedimientos, pautas, mejores prácticas y otras consideraciones importantes que lo ayudarán a implementar, optimizar y solucionar problemas de las soluciones de voz de Skype Empresarial en línea y Skype Empresarial Server 2015. This course helps students prepare for the Microsoft 70-333 exam "Enterprise Voice Implementation with Skype for Business Server 2015."
-
+  Este curso de cinco días dirigido por un instructor enseña cómo diseñar, planificar e implementar las diversas soluciones de voz disponibles con Skype for Business en línea y Skype for Business Server 2015. Este curso le proporcionará los conocimientos y habilidades para configurar y administrar Cloud PBX con llamadas PSTN, Cloud PBX con conectividad PSTN local, Cloud Connector Edition y Enterprise Voice local. Este curso también proporcionará procedimientos, pautas, mejores prácticas y otras consideraciones importantes que lo ayudarán a implementar, optimizar y solucionar problemas de las soluciones de voz de Skype for Business en línea y Skype for Business Server 2015. This course helps students prepare for the Microsoft 70-333 exam “Enterprise Voice Implementation with Skype for Business Server 2015."
+  
   #### Perfil de audiencia
-  Este curso está dirigido a consultores de TI y profesionales de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones para comunicaciones unificadas (UC) y necesitan traducir los requisitos comerciales en arquitecturas técnicas y diseños para soluciones de UC. También está destinado al personal de soporte encargado de mantener las soluciones UC. El alumno debe estar familiarizado con las tecnologías de Skype Empresarial Server 2015 o Lync Server 2013 y los estándares de telecomunicaciones y componentes de red que admiten la configuración e implementación de arquitecturas de Skype Empresarial.
+  Este curso está dirigido a consultores de TI y profesionales de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones para comunicaciones unificadas (UC) y necesitan traducir los requisitos comerciales en arquitecturas técnicas y diseños para soluciones de UC. También está destinado al personal de soporte encargado de mantener las soluciones UC. El alumno debe estar familiarizado con las tecnologías de Skype for Business Server 2015 o Lync Server 2013 y los estándares de telecomunicaciones y componentes de red que admiten la configuración e implementación de arquitecturas de Skype for Business.
 prerequisitesSection: |-
-  - Experiencia con las tecnologías de Skype Empresarial Server 2015 o Lync Server 2013 y familiaridad con los escenarios de migración compatibles.
-  - Competencia en la planificación e implementación de las soluciones Skype Empresarial Server 2015 y Skype Empresarial en línea para usuarios finales, dispositivos terminales, telefonía, audio / video y conferencias web, seguridad, alta disponibilidad y recuperación ante desastres.
-  - Capacidad para monitorear y solucionar problemas de Skype Empresarial Server 2015 a un nivel básico utilizando herramientas de monitoreo y solución de problemas de Microsoft (Snooper, servicio de registro centralizado (CLS), Indicadores clave de salud (KHI))
-  - Competencia con los Servicios de dominio de Active Directory, redes de datos, Servicios de dominio de Azure Active Directory, sincronización de directorios y estándares de telecomunicaciones y componentes de red que admiten la configuración e implementación de arquitecturas de Skype Empresarial
-  - Familiaridad con los requisitos y el proceso para integrar Skype Empresarial Server 2015 con Microsoft Exchange Server y Office 365
+  - Experiencia con las tecnologías de Skype for Business Server 2015 o Lync Server 2013 y familiaridad con los escenarios de migración compatibles.
+  - Competencia en la planificación e implementación de las soluciones Skype for Business Server 2015 y Skype for Business en línea para usuarios finales, dispositivos terminales, telefonía, audio / video y conferencias web, seguridad, alta disponibilidad y recuperación ante desastres.
+  - Capacidad para monitorear y solucionar problemas de Skype for Business Server 2015 a un nivel básico utilizando herramientas de monitoreo y solución de problemas de Microsoft (Snooper, servicio de registro centralizado (CLS), Indicadores clave de salud (KHI))
+  - Competencia con los Servicios de dominio de Active Directory, redes de datos, Servicios de dominio de Azure Active Directory, sincronización de directorios y estándares de telecomunicaciones y componentes de red que admiten la configuración e implementación de arquitecturas de Skype for Business
+  - Familiaridad con los requisitos y el proceso para integrar Skype for Business Server 2015 con Microsoft Exchange Server y Office 365
   - Conocimiento de las siguientes tecnologías &#58; Windows, Windows Server e Hyper-V, QoS, TCP / IP, equilibrio de carga de red, PowerShell, comprensión del protocolo de inicio de sesión (SIP) (conceptos básicos de telefonía que incluyen enlace SIP, puerta de enlace y controlador de borde de sesión (Interconexiones SBC) y arquitecturas de implementación de centralitas privadas (PBX).
 outlineSection: |-
   ### Módulo 1&#58; Introducción a las cargas de trabajo de voz
-  El diseño de una solución de voz de Skype Empresarial requiere la comprensión de muchas tecnologías. Con los últimos servicios de voz basados en la nube de Microsoft, los clientes ahora tienen aún más flexibilidad para implementar una solución de voz para su empresa, pero con esa flexibilidad vienen otras complejidades que deben ser entendidas. En este módulo, aprenderá sobre conceptos básicos de VoIP, cómo evolucionaron desde las primeras tecnologías de telefonía, así como los servicios de Office 365 y la entrada de Microsoft en el mundo de la voz. También aprenderá sobre las ofertas de voz locales y basadas en la nube ahora disponibles como parte del conjunto de productos Skype Empresarial.
+  El diseño de una solución de voz de Skype for Business requiere la comprensión de muchas tecnologías. Con los últimos servicios de voz basados en la nube de Microsoft, los clientes ahora tienen aún más flexibilidad para implementar una solución de voz para su empresa, pero con esa flexibilidad vienen otras complejidades que deben ser entendidas. En este módulo, aprenderá sobre conceptos básicos de VoIP, cómo evolucionaron desde las primeras tecnologías de telefonía, así como los servicios de Office 365 y la entrada de Microsoft en el mundo de la voz. También aprenderá sobre las ofertas de voz locales y basadas en la nube ahora disponibles como parte del conjunto de productos Skype for Business.
   #### Lecciones
   - Descripción general de la voz
   - Diseño de cargas de trabajo de voz
   - Skype para el ecosistema empresarial
   - Conceptos básicos y enrutamiento SIP
-  
   #### Laboratorio &#58; Personalización del entorno de laboratorio
   - Configuración de la organización local
-
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir las diferentes opciones disponibles en varias arquitecturas de voz posibles con Skype Empresarial Server 2015 y Skype Empresarial en línea.
+  - Describir las diferentes opciones disponibles en varias arquitecturas de voz posibles con Skype for Business Server 2015 y Skype for Business en línea.
   - Explicar cómo las tecnologías en la nube están cambiando el diseño, implementación y administración de arquitecturas de voz.
   - Relacionar su experiencia previa con lo que aprenderán durante el curso.
 
-
   ### Módulo 2&#58; Evaluación de las opciones de implementación de red y voz
-  En este módulo, aprenderá cómo realizar una evaluación de preparación de la red para una implementación de Skype Empresarial Server 2015 o Skype Empresarial en línea. Este módulo coincide con la fase del Plan del Marco de Operaciones de Skype (SOF). Específicamente, este módulo se alinea con las etapas de visión, evaluación y diseño. Aprenderá sobre las características y funciones de Skype Empresarial en línea y Skype Empresarial Server 2015. También aprenderá las arquitecturas compatibles para Skype Empresarial en línea y Skype Empresarial Server 2015
+  En este módulo, aprenderá cómo realizar una evaluación de preparación de la red para una implementación de Skype for Business Server 2015 o Skype for Business en línea. Este módulo coincide con la fase del Plan del Marco de Operaciones de Skype (SOF). Específicamente, este módulo se alinea con las etapas de visión, evaluación y diseño. Aprenderá sobre las características y funciones de Skype for Business en línea y Skype for Business Server 2015. También aprenderá las arquitecturas compatibles para Skype for Business en línea y Skype for Business Server 2015
   #### Lecciones
   - Planificación y evaluación de redes
-  - Características y funcionalidad de Skype Empresarial
+  - Características y funcionalidad de Skype for Business
   - Planificación de su solución de PBX en la nube
 
 
@@ -77,13 +74,14 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir las fases de la evaluación de la red.
-  - Identificar los planes de Skype Empresarial en línea
+  -Identificar los planes de Skype for Business en línea
   - Describir las arquitecturas de voz compatibles.
   - Elegir una arquitectura de voz para un escenario dado.
 
 
   ### Módulo 3&#58; Configuración de dominio dividido
-  En este módulo, aprenderá qué significa el término dominio dividido y qué describe en relación con el producto Skype Empresarial. También aprenderá los beneficios del dominio dividido, los requisitos previos necesarios para implementar este entorno y cómo aprovisionar a los usuarios una vez que se haya configurado. Finalmente, aprenderá a solucionar problemas comunes.
+  En este módulo, aprenderá qué significa el término dominio dividido y qué describe en relación con el producto Skype for Business. También aprenderá los beneficios del dominio dividido, los requisitos previos necesarios para implementar este entorno y cómo aprovisionar a los usuarios una vez que se haya configurado. Finalmente, aprenderá a solucionar problemas comunes.
+
   #### Lecciones
   - Descripción del dominio dividido
   - Requisitos de dominio dividido
@@ -92,27 +90,27 @@ outlineSection: |-
   - Solución de problemas relacionados con el dominio dividido
 
 
-  #### Laboratorio &#58; Configuración de dominio dividido con Skype Empresarial en línea
-  - Configuración de dominio dividido con Skype Empresarial en línea
-  - Mover usuarios a Skype Empresarial en línea
-  - Verificación de la experiencia del usuario de Skype Empresarial de dominio dividido
-  - Gestión de usuarios en Skype Empresarial en línea
+  #### Laboratorio &#58; Configuración de dominio dividido con Skype for Business en línea
+  Configuración de dominio dividido con Skype for Business en línea
+  - Mover usuarios a Skype for Business en línea
+  - Verificación de la experiencia del usuario de Skype for Business de dominio dividido
+  - Gestión de usuarios en Skype for Business en línea
 
-  Después de completar este módulo, los estudiantes podrán implementar y configurar un entorno en el que los usuarios de un dominio se dividan entre usar Skype Empresarial Server 2015 y Skype Empresarial en línea.
+  Después de completar este módulo, los estudiantes podrán implementar y configurar un entorno en el que los usuarios de un dominio se dividan entre usar Skype for Business Server 2015 y Skype for Business en línea.
 
   ### Módulo 4&#58; Cloud PBX con con llamadas y conferencias PSTN
-  Cloud PBX es una solución PBX basada en Microsoft que se ofrece en Office 365. Cloud PBX permite a las organizaciones eliminar su infraestructura PBX existente y migrar la funcionalidad PBX, así como los números de teléfono existentes, a Office 365. Las llamadas de la red telefónica pública conmutada (PSTN) proporcionan una conexión PSTN para los usuarios a través de los planes de llamadas de Microsoft. La conferencia PSTN se ha integrado en la capacidad de Reuniones en línea de Skype Empresarial en Office 365 que permite a los usuarios crear, administrar y organizar sus propias reuniones en línea con la integración PSTN para facilitar el acceso telefónico.
+  Cloud PBX es una solución PBX basada en Microsoft que se ofrece en Office 365. Cloud PBX permite a las organizaciones eliminar su infraestructura PBX existente y migrar la funcionalidad PBX, así como los números de teléfono existentes, a Office 365. Las llamadas de la red telefónica pública conmutada (PSTN) proporcionan una conexión PSTN para los usuarios a través de los planes de llamadas de Microsoft. La conferencia PSTN se ha integrado en la capacidad de Reuniones en línea de Skype for Business en Office 365 que permite a los usuarios crear, administrar y organizar sus propias reuniones en línea con la integración PSTN para facilitar el acceso telefónico.
   #### Lecciones
   - Cloud PBX con funciones de llamadas PSTN
   - Funciones de conferencia y reunión PSTN
-  - Conferencia de acceso telefónico local de Skype Empresarial 2015
+  - Conferencia de acceso telefónico local de Skype for Business 2015
 
 
   #### Laboratorio &#58; Configuración de PBX en la nube con llamadas PSTN
-  - Habilitación de usuarios para llamadas PSTN en Skype Empresarial en línea
+  - Habilitación de usuarios para llamadas PSTN en Skype for Business en línea
   - Uso de las funciones de llamadas PSTN en línea
   - Habilitación de usuarios para conferencias PSTN en línea
-  - Uso de conferencias PSTN en Skype Empresarial en línea
+  - Uso de conferencias PSTN en Skype for Business en línea
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir Cloud PBX con funciones de llamadas PSTN y conferencias
@@ -121,7 +119,7 @@ outlineSection: |-
 
 
   ### Módulo 5&#58; Enterprise Voice(local)
-  En este módulo, aprenderá sobre Skype Empresarial Server 2015 Enterprise Voice Enterprise Voice es una solución de comunicaciones unificadas entregada por Skype Empresarial Server 2015. Enterprise Voice permite a las organizaciones enviar y recibir llamadas a través de la red telefónica conmutada públicamente (PSTN). Aprenderá a configurar componentes de voz como planes de marcado, políticas de voz y rutas que son una parte integral de la solución Enterprise Voice.
+  En este módulo, aprenderá sobre Skype for Business Server 2015 Enterprise Voice Enterprise Voice es una solución de comunicaciones unificadas entregada por Skype for Business Server 2015. Enterprise Voice permite a las organizaciones enviar y recibir llamadas a través de la red telefónica conmutada públicamente (PSTN). Aprenderá a configurar componentes de voz como planes de marcado, políticas de voz y rutas que son una parte integral de la solución Enterprise Voice.
   #### Lecciones
   - Diseño de Enterprise Voice
   - Configuración de Enterprise Voice
@@ -140,15 +138,15 @@ outlineSection: |-
   - Configurar el plan de marcado de Londres
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Diseñar e implementar Skype Empresarial Enterprise Voice.
+  - Diseñar e implementar Skype for Business Enterprise Voice.
   - Configurar los ajustes de Enterprise Voice, incluidos los planes de marcado, la política de voz, el uso de PSTN, las rutas de voz, las líneas troncales y los planes de numeración para DID y extensiones.
-  - Describir el enrutamiento de voz de Skype Empresarial.
-  - Integrar la mensajería unificada de Exchange con Skype Empresarial Server 2015.
-  - Configurar las funciones de voz del cliente de Skype Empresarial.
+  - Describir el enrutamiento de voz de Skype for Business.
+  - Integrar la mensajería unificada de Exchange con Skype for Business Server 2015.
+  - Configurar las funciones de voz del cliente de Skype for Business.
 
 
   ### Módulo 6&#58; Conectividad PSTN
-  Un componente clave para una organización exitosa es la capacidad de comunicarse entre empleados internos y clientes y socios. Para que esto suceda, las organizaciones necesitan unir las comunicaciones entre sus sistemas de comunicaciones internas, como Skype Empresarial Server 2015 y la red telefónica pública conmutada, utilizando un Intercambio de sucursal pública (PBX), una puerta de enlace o un proveedor de servicios de Internet (ISP) existente. La conexión a la PSTN permite a los usuarios empresariales realizar y recibir llamadas desde números externos utilizando el mismo cliente de Skype Empresarial utilizado para llamadas internas. Además, los empleados pueden aprovechar la amplia gama de características de Skype Empresarial para mejorar sus interacciones de comunicación con usuarios externos conectados a través de la PSTN.
+  Un componente clave para una organización exitosa es la capacidad de comunicarse entre empleados internos y clientes y socios. Para que esto suceda, las organizaciones necesitan unir las comunicaciones entre sus sistemas de comunicaciones internas, como Skype for Business Server 2015 y la red telefónica pública conmutada, utilizando un Intercambio de sucursal pública (PBX), una puerta de enlace o un proveedor de servicios de Internet (ISP) existente. La conexión a la PSTN permite a los usuarios empresariales realizar y recibir llamadas desde números externos utilizando el mismo cliente de Skype for Business utilizado para llamadas internas. Además, los empleados pueden aprovechar la amplia gama de características de Skype for Business para mejorar sus interacciones de comunicación con usuarios externos conectados a través de la PSTN.
   #### Lecciones
   - Conexión a la PSTNPSTN
   - Conexión a la PBX existente
@@ -164,12 +162,12 @@ outlineSection: |-
   #### Laboratorio &#58; Configuración de la integración con una IP-PBX
   - Configuración de ajustes de voz de empresa para Londres
   - Configuración del enrutamiento interno troncal
-  - Investigación de la configuración de integración de Skype Empresarial Server 2015
+  - Investigación de la configuración de integración de Skype for Business Server 2015
   - Programación de la configuración de integración IP-PBX
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Planificar la función del servidor de mediación.
-  - Conectar Skype Empresarial Server 2015 a la PSTN.
+  - Conectar Skype for Business Server 2015 a la PSTN.
   - Implementar enrutamiento de interfuncionamiento M&#58;N
   - Definir una ruta confiable para las llamadas utilizando la PSTN.
   - Describir la llamada a través del trabajo.
@@ -178,6 +176,7 @@ outlineSection: |-
 
   ### Módulo 7&#58; Cloud PBX l con conectividad PSTN en las instalaciones utilizando una implementación existente
   Este módulo analiza la implementación y configuración de Cloud PBX con una RTPC local con una implementación existente. Con muchas opciones de implementación, los estudiantes deben estar familiarizados con los diferentes métodos y opciones de conectividad. La implementación de Cloud PBX requiere un inquilino con Office 365 y una infraestructura de red que se pueda utilizar para los usuarios en una oficina o en una conexión a Internet pública. Es importante recordar que la conferencia de acceso telefónico local debe implementarse a través de la conferencia PSTN o el proveedor de audio conferencia (ACP). La conectividad PSTN local con Cloud Connector Edition se tratará en el próximo módulo.
+
   #### Lecciones
   - Flujos de llamadas y capacidad de administración
 
@@ -192,7 +191,7 @@ outlineSection: |-
 
 
   ### Módulo 8&#58; Cloud PBX con conectividad PSTN en las instalaciones con Cloud Connector Edition
-  Las empresas que tienen una solución de voz local que no incluye Skype Empresarial Server 2015 o Lync Server 2013 aún pueden integrar su solución actual con Skype Empresarial en línea aprovechando Cloud Connector Edition (CCE). Es importante elegir la topología correcta para CCE para cumplir con los requisitos de voz de una organización. Este módulo revisará las diferentes topologías compatibles y proporcionará orientación sobre el proceso de implementación.
+  Las empresas que tienen una solución de voz local que no incluye Skype for Business Server 2015 o Lync Server 2013 aún pueden integrar su solución actual con Skype for Business en línea aprovechando Cloud Connector Edition (CCE). Es importante elegir la topología correcta para CCE para cumplir con los requisitos de voz de una organización. Este módulo revisará las diferentes topologías compatibles y proporcionará orientación sobre el proceso de implementación.
   #### Lecciones
   - Introducción a Cloud Connector Edition
   - Planificación de la conectividad PSTN a través de Cloud Connector Edition
@@ -220,7 +219,7 @@ outlineSection: |-
   ### Módulo 9&#58; Funciones de llamadas mejoradas y requisitos del dispositivo
   Enterprise Voice proporciona una serie de características locales específicas, como estacionamiento de llamadas, números no asignados, conferencias PSTN y grupos de respuesta. También se basa en el escenario de implementación de Enterprise Voice básico presentado anteriormente en el curso.
 
-  Para usar Enterprise Voice, debe conocer las diversas aplicaciones de Enterprise Voice y cómo implementarlas y configurarlas. Explorará el Servicio de grupo de respuesta de Skype Empresarial Server (RGS) con cierta profundidad, incluidos componentes como grupos de agentes RGS, colas RGS, grupos de búsqueda o flujos de trabajo básicos y flujos de trabajo de respuesta de voz interactiva. Además, debe poder describir el método de enrutamiento de Attendant.
+  Para usar Enterprise Voice, debe conocer las diversas aplicaciones de Enterprise Voice y cómo implementarlas y configurarlas. Explorará el Servicio de grupo de respuesta de Skype for Business Server (RGS) con cierta profundidad, incluidos componentes como grupos de agentes RGS, colas RGS, grupos de búsqueda o flujos de trabajo básicos y flujos de trabajo de respuesta de voz interactiva. Además, debe poder describir el método de enrutamiento de Attendant.
 
   #### Lecciones
   - Servicio de almacenamiento de llamadas
@@ -244,14 +243,15 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar las diversas funciones de voz.
-  - Configurar las funciones de llamadas que amplían la funcionalidad de Skype Empresarial Enterprise Voice.
+  - Configurar las funciones de llamadas que amplían la funcionalidad de Skype for Business Enterprise Voice.
   - Configurar la distribución de llamadas con grupos de respuesta.
   - Informar la ubicación de los dispositivos con el Servicio de Información de ubicación.
-  - Administrar dispositivos en Skype Empresarial Server 2015.
+  - Administrar dispositivos en Skype for Business Server 2015.
 
 
   ### Módulo 10&#58; Requerimientos de red
-  En este módulo, aprenderá cómo optimizar las comunicaciones de voz en una red planificando el consumo de la red e implementando tecnologías de optimización de ancho de banda como el control de admisión de llamadas (CAC), la calidad de servicio (QoS) y las redes definidas por software (SDN). También aprenderá las pilas de medios disponibles para Skype Empresarial Server 2015 y Skype Empresarial en línea.
+  En este módulo, aprenderá cómo optimizar las comunicaciones de voz en una red planificando el consumo de la red e implementando tecnologías de optimización de ancho de banda como el control de admisión de llamadas (CAC), la calidad de servicio (QoS) y las redes definidas por software (SDN). También aprenderá las pilas de medios disponibles para Skype for Business Server 2015 y Skype for Business en línea.
+
   #### Lecciones
   - Pilas de medios
   - Modelado de tráfico
@@ -263,7 +263,7 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Administración de la calidad de voz
-  - Introducción de información en la calculadora de ancho de banda de Skype Empresarial
+  - Introducción de información en la calculadora de ancho de banda de Skype for Business
   - Revisión de resultados calculados
   - Configuración de calidad de servicio
   - Verificación de la aplicación de calidad de servicio
@@ -271,14 +271,14 @@ outlineSection: |-
   - Análisis de valores DSCP y rangos de puertos para priorizar el tráfico de red (ejercicio adicional)
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Explicar las pilas de medios disponibles para Skype Empresarial Server 2015 y Skype Empresarial en línea.
+  - Explicar las pilas de medios disponibles para Skype for Business Server 2015 y Skype for Business en línea.
   - Planificar el consumo de red.
   - Optimizar las comunicaciones de voz en una red.
   - Implementar tecnologías de optimización de ancho de banda, como control de admisión de llamadas (CAC), calidad de servicio (QoS) y redes definidas por software (SDN).
 
 
   ### Módulo 11&#58; Monitoreo y mantenimiento de la calidad de voz
-  Afirmar, lograr y mantener la calidad de las llamadas es imprescindible para una implementación exitosa de Skype Empresarial especialmente para las cargas de trabajo de voz y conferencias. Este módulo detallará la Metodología de calidad de llamadas de Microsoft como un proceso y un conjunto de herramientas que se pueden utilizar para lograr estos objetivos. Call Quality Scorecard, junto con el guión que lo acompaña y el Tablero de control de calidad de llamadas, se describirán como herramientas adicionales para medir y mantener los objetivos de calidad de llamadas establecidos por una organización. El módulo también mostrará cómo aprovechar las herramientas y conjuntos de datos nativos de Skype Empresarial para ayudar a solucionar problemas y mejorar aún más la calidad de la implementación.
+  Afirmar, lograr y mantener la calidad de las llamadas es imprescindible para una implementación exitosa de Skype for Business especialmente para las cargas de trabajo de voz y conferencias. Este módulo detallará la Metodología de calidad de llamadas de Microsoft como un proceso y un conjunto de herramientas que se pueden utilizar para lograr estos objetivos. Call Quality Scorecard, junto con el guión que lo acompaña y el Tablero de control de calidad de llamadas, se describirán como herramientas adicionales para medir y mantener los objetivos de calidad de llamadas establecidos por una organización. El módulo también mostrará cómo aprovechar las herramientas y conjuntos de datos nativos de Skype for Business para ayudar a solucionar problemas y mejorar aún más la calidad de la implementación.
   #### Lecciones
   - Metodología de calidad de llamadas
   - Panel de control de calidad de llamadas
@@ -287,7 +287,7 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Implementación del panel de control de calidad de llamadas, análisis de informes y captura de KHI
-  - Instalación del panel de control de calidad de llamadas de Skype
+  Instalación del panel de control de calidad de llamadas de Skype
   - Uso del panel de control de calidad de llamadas de Skype
   - Analizar informes detallados de sesión punto a punto
   - Solucionar problemas de informes de calidad de medios
@@ -300,11 +300,11 @@ outlineSection: |-
 
 
   ### Módulo 12&#58; Solución de problemas de voz
-  La resolución de problemas es una habilidad básica que se requiere para admitir las implementaciones de Skype Empresarial Server. La infraestructura de Skype Empresarial se puede implementar en una variedad de topologías, como se ha descrito a lo largo de este curso. La infraestructura de Skype Empresarial se puede implementar en Skype Empresarial, los administradores deben estar familiarizados con las herramientas principales y los métodos de solución de problemas que son específicos de Skype Empresarial en línea y Skype Empresarial Server 2015. Variedad de topologías , como se ha descrito en este documento. Este módulo presentará herramientas y metodologías para solucionar problemas del cliente de Skype Empresarial, Skype Empresarial Server 2015 y Skype Empresarial en línea. Se explorarán varios escenarios para familiarizarse con algunos de los problemas comunes que enfrentan los administradores.
+  La resolución de problemas es una habilidad básica que se requiere para admitir las implementaciones de Skype for Business Server. La infraestructura de Skype for Business se puede implementar en una variedad de topologías, como se ha descrito a lo largo de este curso. La infraestructura de Skype for Business se puede implementar en Skype for Business, los administradores deben estar familiarizados con las herramientas principales y los métodos de solución de problemas que son específicos de Skype for Business en línea y Skype for Business Server 2015. Este módulo presentará herramientas y metodologías para solucionar problemas del cliente de Skype for Business, Skype for Business Server 2015 y Skype for Business en línea. Se explorarán varios escenarios para familiarizarse con algunos de los problemas comunes que enfrentan los administradores.
   #### Lecciones
   - Solución de problemas de calidad de llamadas
   - Escenarios de solución de problemas
-  - Solución de problemas de Skype Empresarial Voice en línea
+  - Solución de problemas de Skype for Business Voice en línea
   - Solución de problemas de teléfonos IP
 
 
@@ -320,8 +320,9 @@ outlineSection: |-
   - Identificar herramientas de solución de problemas.
   - Identificar escenarios de solución de problemas.
   - Utilizar la metodología de solución de problemas para investigar, diagnosticar y remediar problemas de calidad de llamadas.
-  - Solucionar problemas comunes de clientes de Skype Empresarial en línea.
+  - Solucionar problemas comunes de clientes de Skype for Business en línea.
   - Solucionar problemas de teléfonos IP.
 
   #### Lectura adicional
   Ninguno
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Security Management
 metadata:
-  title: 'Curso MS-101T01-A: Microsoft 365 Security Management'
-  description: 'Curso MS-101T01-A: Microsoft 365 Security Management'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -34,7 +34,7 @@ exams:
 - uid: exam.ms-101
 summary: |-
   Obtenga información sobre la administración de seguridad de Microsoft 365, que incluye cómo administrar sus métricas de seguridad, cómo habilitar la Protección de identidad de Azure AD, cómo configurar los servicios de seguridad de Microsoft 365 y la inteligencia de amenazas de Microsoft 365 del usuario.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -53,8 +53,7 @@ outlineSection: |-
   - Configurar su experiencia de Microsoft 365
   - Aprovechar FastTrack y Servicios para socios
   - Implementar sus servicios de dominio
-
-
+  
   ### Módulo 3&#58; Administrar su inquilino de Microsoft 365
   #### Lecciones
   - Configuración de roles de inquilinos
@@ -67,3 +66,4 @@ outlineSection: |-
   - Ejercicio 1&#58; Configurar su entorno de laboratorio
   - Ejercicio 2&#58; Editar una política de enlaces seguros de ATP y crear una política de archivos adjuntos seguros
   - Ejercicio 3&#58; Habilitar e instalar el Centro ATA
+

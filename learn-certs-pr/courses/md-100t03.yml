@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Proteger Windows 10
+title: Protecting Windows 10
 metadata:
-  title: 'Curso MD-100T03-A: Proteger Windows 10'
-  description: 'Curso MD-100T03-A: Proteger Windows 10'
+  title: 'Course MD-100T03-A: Protecting Windows 10'
+  description: 'Course MD-100T03-A: Protecting Windows 10'
 uid: course.md-100t03
 courseNumber: 'MD-100T03-A'
 hoursToComplete: 24
@@ -27,11 +27,11 @@ exams:
 - uid: exam.md-100
 summary: |-
   En este curso, los estudiantes aprenderán cómo proteger el sistema operativo Windows 10 y proteger los datos en el dispositivo. Los estudiantes serán introducidos a los métodos comunes utilizados para la autenticación y el control de acceso. Este curso enseñará cómo configurar permisos de archivos y carpetas y crear políticas de seguridad. A los estudiantes también se les presentarán los diferentes tipos de amenazas externas y cómo aprovechar funciones como el cifrado y los firewalls, así como herramientas como Windows Defender.
-
+  
   #### Perfil de audiencia
   Los candidatos a este examen son profesionales de TI que realizan la instalación, configuración, gestión local general y mantenimiento de los servicios principales de Windows 10. Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la nube.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Conocimientos básicos de redes informáticas y conceptos de hardware.
   - Comprensión básica del sistema operativo y los conceptos de aplicación.
   - Experiencia con el uso del sistema operativo Windows.
@@ -43,14 +43,12 @@ outlineSection: |-
   - Configuración de UAC
   - Implementación del registro del dispositivo
   - Autenticación
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir los diferentes métodos para proteger los datos y el sistema operativo Windows 10.
   - Describir los diferentes tipos de cuentas de usuario y servicio.
   - Configurar Windows Hello.
   - Configurar el control de la cuenta de usuario.
-
-
+  
   ### Módulo 2&#58; Configuración de acceso a datos y uso
   En este módulo, los estudiantes aprenderán sobre los permisos. Este módulo cubrirá consideraciones para diferentes sistemas de archivos. Los estudiantes aprenderán cómo configurar los permisos de archivos y carpetas, así como las carpetas compartidas. El módulo concluirá con la configuración de ajustes a través de métodos como la política local y de grupo.
   #### Lecciones
@@ -104,3 +102,4 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Laboratorio calificado
+

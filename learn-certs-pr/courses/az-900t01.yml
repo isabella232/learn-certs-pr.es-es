@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals (1 día)
+title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals (1 día)'
-  description: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals (1 día)'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -11,7 +11,7 @@ skillsGained:
 - skill: Comprender conceptos generales de computación en la nube
 - skill: Comprender los servicios principales disponibles con Microsoft Azure
 - skill: Comprender la seguridad, la privacidad, el cumplimiento y la confianza con Microsoft Azure
-- skill: Comprender los precios y los modelos de soporte disponibles con Microsoft
+- skill: Comprender los modelos de precios y soporte disponibles con Microsoft
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -25,10 +25,9 @@ exams:
 - uid: exam.az-900
 summary: |-
   Este curso proporcionará conocimiento de nivel básico de los servicios en la nube y cómo esos servicios se proporcionan con Microsoft Azure. El curso se puede tomar como un primer paso opcional para aprender sobre los servicios en la nube y Microsoft Azure, antes de continuar con los cursos de Microsoft Cloud o Microsoft Cloud Services.
-  
   El curso cubrirá conceptos generales de computación en la nube, así como modelos y servicios generales de computación en la nube, como la nube pública, privada e híbrida, e Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y
   También cubrirá algunos servicios y soluciones centrales de Azure, así como servicios clave de Azure en relación con la seguridad, la privacidad, el cumplimiento y la confianza. Finalmente cubrirá los precios y los servicios de soporte disponibles con Azure.
-
+  
   #### Perfil de audiencia
   No hay requisitos previos para tomar este curso. Está dirigido a cualquier persona que quiera aprender más sobre Microsoft Azure.
 prerequisitesSection: |-
@@ -41,10 +40,8 @@ outlineSection: |-
   - ¿Por qué los servicios en la nube?
   - Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y Software
   - Modelos de nube pública, privada e híbrida
-
   Después de completar este módulo, los estudiantes&#58;
   - Comprender conceptos generales de computación en la nube
-
 
   ### Módulo 2&#58; Servicios principales de Azure
   En este módulo aprenderá los servicios básicos disponibles con Microsoft Azure.
@@ -58,7 +55,7 @@ outlineSection: |-
   - Comprender los servicios principales disponibles con
   Microsoft Azure
 
-  ### Módulo 3&#58; Seguridad, privacidad, cumplimiento y confianza
+  ### Module  3&#58; Seguridad, privacidad, cumplimiento y confianza
   En este módulo, aprenderá sobre seguridad, privacidad, cumplimiento y confianza con Microsoft Azure.
   #### Lecciones
   - Asegurar la conectividad de red en Azure

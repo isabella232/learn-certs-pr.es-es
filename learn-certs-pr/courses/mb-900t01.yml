@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Dynamics 365 fundamentals
 metadata:
-  title: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
-  description: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -36,15 +36,14 @@ outlineSection: |-
   - Aplicaciones para operaciones unificadas
   - Power Platform
   - Conceptos básicos de la aplicación
-
+  
   ### Módulo 2&#58; Conceptos de nube
   En este módulo, trataremos conceptos de nube de alto nivel e introducimos la oferta de nube de Microsoft, Azure, examinando su relación con Dynamics 365.
   #### Lecciones
   - Descripción general de la arquitectura de la nube
   - Diferentes tipos de servicios en la nube disponibles
   - Comparar las ofertas en la nube con las ofertas locales correspondientes
-
-
+  
   ### Módulo 3&#58; Administrar implementaciones y lanzamientos
   En este módulo, cubrimos consideraciones importantes de implementación, incluidos tipos de implementaciones, cadencias de lanzamiento y diseño de modelos de seguridad.
   #### Lecciones
@@ -61,3 +60,4 @@ outlineSection: |-
   - Encontrar y trabajar con un compañero
   - Opciones de licencia
   - Preparación
+

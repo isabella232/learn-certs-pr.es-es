@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Dynamics 365 for customer engagement for customer service
 metadata:
-  title: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
-  description: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  title: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  description: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
 uid: course.mb-230t01
 courseNumber: 'MB-230T01-A'
 hoursToComplete: 24
@@ -29,9 +29,8 @@ exams:
 - uid: exam.mb-230
 summary: |-
   Microsoft Dynamics 365 for Customer Service ofrece a cualquier organización una oportunidad para el éxito del cliente. El uso de herramientas como la creación automática de casos y la gestión de colas libera tiempo para dedicar donde se pueda lograr un mayor impacto, directamente con los clientes.
-
   Nuestro equipo de expertos reconocidos a nivel mundial lleva a los estudiantes paso a paso, desde la creación de casos, la interacción con los clientes y la resolución de esos casos. Una vez que se resuelvan esos casos, los estudiantes aprenderán del análisis de datos los detalles clave para ayudar a resolver casos similares más rápido o evitar nuevos problemas por completo.
-
+  
   #### Perfil de audiencia
   Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
@@ -46,12 +45,10 @@ outlineSection: |-
   - Lección 4&#58; AI para servicio
   - Lección 5&#58; Configurar servicio al cliente
   - Lección 6&#58; Resumen del módulo
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Instalar y configurar la aplicación de servicio al cliente.
   - Identificar escenarios comunes de servicio al cliente.
-
-
+  
   ### Módulo 2&#58; Gestión de caso
   En este módulo, los estudiantes aprenderán cómo abrir y resolver casos de servicio al cliente, tanto manualmente como con automatización.
   #### Lecciones
@@ -91,3 +88,4 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Crear y gestionar contenido de conocimiento
+

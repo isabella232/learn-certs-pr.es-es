@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Orden de trabajo y ejecución de entrega para Dynamics 365 for Field Service
+title: Work order and delivery execution for Dynamics 365 for Field Service
 metadata:
-  title: 'Curso MB-240T02-A: Orden de trabajo y ejecución de entrega para Dynamics 365 for Field Service'
-  description: 'Curso MB-240T02-A: Orden de trabajo y ejecución de entrega para Dynamics 365 for Field Service'
+  title: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
+  description: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
 uid: course.mb-240t02
 courseNumber: 'MB-240T02-A'
 hoursToComplete: 24
@@ -26,12 +26,10 @@ products:
 exams:
 - uid: exam.mb-240
 summary: |-
-  Muchas organizaciones confían en las fuerzas de trabajo móviles para entregar sus productos y servicios a sus clientes. Dynamics 365 for Field Service ayuda a las organizaciones a posicionarse mejor en el mercado al proporcionar una variedad de herramientas que ayudan a identificar y programar recursos de manera eficiente, así como a administrar cargas de trabajo para trabajadores móviles. 
-
-  Este curso equipará a los estudiantes con las habilidades necesarias para ejecutar, identificar y configurar los componentes clave que se utilizan para entregar el Servicio de campo y las soluciones móviles. Los temas clave incluyen la identificación de un ciclo de vida típico de orden de trabajo, así como las consideraciones organizativas que impulsarán las decisiones de configuración. Además, este curso se centrará en los componentes que se usan comúnmente en relación con las órdenes de trabajo, incluidos los acuerdos, los componentes de inventario, las compras y las estrategias de movilidad.
-
+  Muchas organizaciones confían en las fuerzas de trabajo móviles para entregar sus productos y servicios a sus clientes. Dynamics 365 for Field Service ayuda a las organizaciones a posicionarse mejor en el mercado al proporcionar una variedad de herramientas que ayudan a identificar y programar recursos de manera eficiente, así como a administrar cargas de trabajo para trabajadores móviles.
+   
+  Este curso equipará a los estudiantes con las habilidades necesarias para ejecutar, identificar y configurar los componentes clave que se utilizan para entregar el Servicio de campo y las soluciones móviles. Los temas clave incluyen la identificación de un ciclo de vida típico de orden de trabajo, así como las consideraciones organizativas que impulsarán las decisiones de configuración. Además, este curso se centrará en los componentes que se usan comúnmente en relación con las órdenes de trabajo, incluidos los acuerdos, los componentes de inventario, las compras y las estrategias de movilidad.     
   Este curso ayuda a los estudiantes a comprender mejor el panorama general y los objetivos finales centrados en la entrega y ejecución de órdenes de trabajo que ayudan a diseñar soluciones más eficientes que se alineen con los objetivos del cliente y de la organización.
-
 prerequisitesSection: |-
   Comprensión básica de las características, la funcionalidad y la navegación de Dynamics 365.
 outlineSection: |-
@@ -40,8 +38,6 @@ outlineSection: |-
   - Configurar órdenes de trabajo de servicio de campo
   - Crear órdenes de trabajo
   - Gestión de órdenes de trabajo
-
-
   ### Módulo 2&#58; Acuerdos de servicio de campo
   #### Lecciones
   - Uso de acuerdos de servicio de campo
@@ -62,3 +58,4 @@ outlineSection: |-
   - Instalar e implementar proyectos móviles de servicio de campo
   - Administrar proyectos móviles
   - Implementar el cliente móvil
+

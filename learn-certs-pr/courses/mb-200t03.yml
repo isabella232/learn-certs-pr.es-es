@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Integraciones de Power Platform'
+title: 'Dynamics 365: Power Platform integrations'
 metadata:
-  title: 'Curso MB-200T03-A: Dynamics 365: Integraciones de Power Platform'
-  description: 'Curso MB-200T03-A: Dynamics 365: Integraciones de Power Platform'
+  title: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+  description: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
 uid: course.mb-200t03
 courseNumber: 'MB-200T03-A'
 hoursToComplete: 24
@@ -30,9 +30,8 @@ exams:
 - uid: exam.mb-200
 summary: |-
   Microsoft Power Platform ayuda a las organizaciones a optimizar sus operaciones al automatizar las tareas de rutina y estandarizar las mejores prácticas. Esta capacitación proporciona una descripción general de alto nivel de las capacidades de Microsoft Dynamics 365 y Power Platform y proporciona una base para otras ofertas de capacitación de Microsoft Dynamics 365 y Power Platform.
-
   En este curso, nuestros expertos reconocidos a nivel mundial guían a los estudiantes a través de las diversas opciones de integración disponibles y cómo usarlas en escenarios del mundo real.
-
+  
   #### Perfil de audiencia
   Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
@@ -45,18 +44,16 @@ outlineSection: |-
   - Integración de correo electrónico
   - Integración de Outlook
   - Resumen del módulo
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Identificar integraciones comunes
   - Configurar y usar la integración de correo electrónico
-
-
+  
   ### Módulo 2&#58; Integración con Office
   En este módulo, los estudiantes aprenderán cómo integrarse con productos comunes de Office para incluir OneNote, Word y Excel.
   #### Lecciones
   - Plantillas
   - SharePoint
-  - Equipos de Microsoft
+  - Microsoft Teams
   - Integraciones Adicionales
   - Resumen del módulo
 
@@ -78,3 +75,4 @@ outlineSection: |-
   - Importar y exportar datos
   - Crear y usar mapas de datos
   - Realizar eliminación masiva
+

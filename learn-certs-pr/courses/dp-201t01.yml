@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Diseñar una solución de datos de Azure
+title: Designing an Azure Data Solution
 metadata:
-  title: 'Curso DP-201T01-A: Diseñar una solución de datos de Azure'
-  description: 'Curso DP-201T01-A: Diseñar una solución de datos de Azure'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -30,15 +30,15 @@ exams:
 - uid: exam.dp-201
 summary: |-
   En este curso, los estudiantes diseñarán varias tecnologías de plataforma de datos en soluciones que estén en línea con los requisitos comerciales y técnicos. Esto puede incluir escenarios de datos locales, en la nube e híbridos que incorporan datos relacionales, NoSQL o Data Warehouse. También aprenderán cómo diseñar arquitecturas de procesos utilizando una gama de tecnologías para transmisión de datos y lotes. Los estudiantes también explorarán cómo diseñar la seguridad de los datos, incluido el acceso a los datos, las políticas y los estándares de datos. También diseñarán soluciones de datos de Azure, que incluyen la optimización, disponibilidad y recuperación ante desastres de datos, procesamiento por lotes y soluciones de transmisión de datos.
-
+  
   #### Perfil de audiencia
   La audiencia para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos que existen en Microsoft Azure.
 prerequisitesSection: |-
   Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
   - DP-200&#58; Implementación de una solución de datos de Azure
 outlineSection: |-
-  ### Módulo 1&#58; Consideraciones de arquitectura de plataforma de datos
+  ### Módulo 1&#58;Consideraciones de arquitectura de plataforma de datos
   En este módulo, los estudiantes aprenderán a diseñar y construir soluciones seguras, escalables y de alto rendimiento en Azure mediante el examen de los principios básicos que se encuentran en cada buena arquitectura. Aprenderán cómo usar principios clave en toda la arquitectura, independientemente de la elección de tecnología, puede ayudarlo a diseñar, construir y mejorar continuamente la arquitectura para el beneficio de una organización.
   #### Lecciones
   - Principios básicos de creación de arquitecturas
@@ -47,19 +47,16 @@ outlineSection: |-
   - Diseño para disponibilidad y recuperabilidad
   - Diseño para eficiencia y operaciones
   - Caso de estudio
-  
   #### Laboratorio &#58; Caso de estudio
   - Diseño con seguridad en mente
-  Considerar el rendimiento y la escalabilidad
+  - Considerar el rendimiento y la escalabilidad
   - Diseño para disponibilidad y recuperabilidad
   - Diseño para eficiencia y operaciones
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Diseño con seguridad en mente
-  Considerar el rendimiento y la escalabilidad
+  - Considerar el rendimiento y la escalabilidad
   - Diseño para disponibilidad y recuperabilidad
   - Diseño para eficiencia y operaciones
-
 
   ### Módulo 2&#58; Arquitecturas de referencia de procesamiento por lotes de Azure
   En este módulo, los estudiantes aprenderán el diseño de referencia y los patrones de arquitectura para lidiar con el procesamiento por lotes de datos. El estudiante estará expuesto a lidiar con el movimiento de datos de sistemas locales a un almacén de datos en la nube y cómo se puede automatizar. Los estudiantes también estarán expuestos a una arquitectura de inteligencia artificial y a cómo la plataforma de datos puede integrarse con una solución de inteligencia artificial.
@@ -105,7 +102,7 @@ outlineSection: |-
   - Crear una arquitectura de referencia de Azure IoT
 
 
-  ### Módulo 4&#58; Consideraciones de diseño de seguridad de la plataforma de datos
+  ### Module 4&#58; Consideraciones de diseño de seguridad de la plataforma de datos
   En este módulo, los estudiantes aprenderán cómo incorporar la seguridad en un diseño de arquitectura y aprenderán los puntos de decisión clave proporcionados en Azure para ayudar a crear un entorno seguro a través de todas las capas de arquitectura.
   #### Lecciones
   - Enfoque de seguridad de defensa en profundidad
@@ -174,3 +171,4 @@ outlineSection: |-
   - Maximificar la eficiencia de su entorno en la nube
   - Utilizar el monitoreo y la analítica para obtener información operativa
   - Utilizar la automatización para reducir el esfuerzo y el error
+

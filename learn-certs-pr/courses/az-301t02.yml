@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Diseñar una solución de plataforma de datos
+title: Designing a Data Platform Solution
 metadata:
-  title: 'Curso AZ-301T02-A: Diseñar una solución de plataforma de datos'
-  description: 'Curso AZ-301T02-A: Diseñar una solución de plataforma de datos'
+  title: 'Course AZ-301T02-A: Designing a Data Platform Solution'
+  description: 'Course AZ-301T02-A: Designing a Data Platform Solution'
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
@@ -50,23 +50,21 @@ exams:
 - uid: exam.az-301
 summary: |-
   Aprender a comparar y contrastar varias opciones de base de datos en Azure, identificar opciones de transmisión de datos para la ingesta de datos a gran escala e identificar opciones de almacenamiento de datos a largo plazo.
-
+  
   #### Perfil de audiencia
   Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
 outlineSection: |-
   ### Módulo 1&#58; Respaldar soluciones de Azure con Azure Storage
   Este módulo describe cuántos servicios de Azure usan el servicio Azure Storage como almacén de respaldo para otra solución de aplicación en Azure. El módulo se sumerge en consideraciones críticas cuando se usa Azure Storage como un servicio suplementario para una solución completa de Azure.
-  
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Determine la opción de precio ideal para Azure Storage en función de los requisitos de una solución.
+  - Determinar la opción de precio ideal para Azure Storage en función de los requisitos de una solución.
   - Identificar umbrales de rendimiento para el servicio Azure Storage.
   - Determinar el tipo de blobs de almacenamiento que se utilizarán para componentes de solución específicos.
   - Usar el servicio Azure Files para operaciones SMB.
   - Identificar soluciones que puedan beneficiarse del uso de dispositivos físicos o virtuales StorSimple.
-
+  
   ### Módulo 2&#58; Comparación de opciones de base de datos en Azure
   Este módulo compara las diversas opciones de almacenamiento de datos relacionales y no relacionales disponibles en Azure Las opciones se exploran como grupos, como bases de datos relacionales (Azure SQL Database, MySQL y PostgreSQL en Azure), no relacionales (Azure Cosmos DB y Tablas de almacenamiento), transmisión (Stream Analytics) y almacenamiento (Data Factory, Data Warehouse, y Data Lake).
-
   #### Laboratorio &#58; Implementación de instancias de bases de datos en Azure
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comparar y contrastar los servicios de monitoreo para aplicaciones, la plataforma Azure y las redes.
@@ -83,3 +81,4 @@ outlineSection: |-
   - Diseñar un esquema de alerta para una solución alojada en Azure
   - Seleccionar la opción de copia de seguridad adecuada para la infraestructura y los datos alojados en Azure.
   - Automatizar el despliegue de recursos futuros para fines de recuperación o escalado de copias de seguridad
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Comprender la infraestructura de mensajería moderna
+title: Understanding the Modern Messaging Infrastructure
 metadata:
-  title: 'Curso MS-200T01-A: Comprender la infraestructura de mensajería moderna'
-  description: 'Curso MS-200T01-A: Comprender la infraestructura de mensajería moderna'
+  title: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
+  description: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
 uid: course.ms-200t01
 courseNumber: 'MS-200T01-A'
 hoursToComplete: 48
@@ -30,7 +30,7 @@ exams:
 - uid: exam.ms-200
 summary: |-
   En este curso, los estudiantes aprenderán sobre la arquitectura de la infraestructura moderna de mensajería con Exchange Server y Exchange Online y cómo implementar la mensajería en diferentes escenarios y organizaciones. Se les guiará a través del proceso de implementación inicial y se les presentarán las herramientas de administración de mensajes. Los estudiantes aprenderán cómo crear y administrar diferentes tipos de destinatarios, y cómo crear y administrar bases de datos de buzones de Exchange Server, que sirven como ubicaciones de almacenamiento para todos los datos de mensajería. Finalmente, se les presentará la configuración organizacional de la infraestructura de mensajería, como cómo administrar la autenticación para su entorno de mensajería, cómo configurar las cuotas para los usuarios de la organización y cómo configurar el intercambio de la organización con la federación.
-
+  
   #### Perfil de audiencia
   El administrador de mensajería implementa, configura, administra y
   soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y
@@ -55,14 +55,12 @@ outlineSection: |-
   - Implementación de infraestructura de mensajería moderna
   - Administrar la infraestructura de mensajería moderna
   
-  
   ### Módulo 2&#58; Administrar objetos y recursos del destinatario
   #### Lecciones
   - Destinatarios del intercambio
   - Crear y administrar destinatarios de Exchange
   - Gestionar direcciones de correo electrónico, listas y recursos
-
-
+  
   ### Módulo 3&#58; Administrar bases de datos de buzones
   #### Lecciones
   - Bases de datos de buzones en Exchange Server
@@ -86,3 +84,4 @@ outlineSection: |-
   - Crear un grupo de distribución local
   - Crear un grupo de distribución en la nube
   - Crear un grupo de Office 365
+

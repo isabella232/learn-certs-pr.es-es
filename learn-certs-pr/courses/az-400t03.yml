@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar una entrega continua
+title: Implementing Continuous Delivery
 metadata:
-  title: 'Curso AZ-400T03-A: Implementar una entrega continua'
-  description: 'Curso AZ-400T03-A: Implementar una entrega continua'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -11,7 +11,7 @@ skillsGained:
 - skill: Diferenciar entre una versión y una implementación
 - skill: Definir los componentes de una tubería de lanzamiento
 - skill: Explicar las cosas a tener en cuenta al diseñar su estrategia de lanzamiento.
-- skill: Clasificar un lanzamiento frente a un proceso de lanzamiento y describir cómo controlar la calidad de ambos
+- skill: Clasificar un lanzamiento versus un proceso de lanzamiento y describa cómo controlar la calidad de ambos
 - skill: Describir el principio de las puertas de lanzamiento y cómo lidiar con las notas de lanzamiento y la documentación.
 - skill: Explicar los patrones de implementación, tanto en el sentido tradicional como en el moderno.
 - skill: Elegir una herramienta de administración de versiones
@@ -25,9 +25,9 @@ skillsGained:
 - skill: Prueba de inserción en la tubería
 - skill: Enumerar las diferentes formas de inspeccionar el estado de su tubería y su liberación mediante el uso de alertas, enlaces de servicio e informes
 - skill: Crear una puerta de lanzamiento
-- skill: Describir los patrones de implementación.
-- skill: Implementar despliegue verde azul
-- skill: Implementar Lanzamiento Canario
+- skill: Describir patrones de implementación.
+- skill: Implementar la implementación de Blue Green
+- skill: Implementar lanzamiento de Canarias
 - skill: Implementar despliegue de exposición progresiva
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -46,7 +46,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   Este curso proporciona los conocimientos y habilidades para implementar la entrega continua. Los estudiantes aprenderán cómo diseñar una estrategia de lanzamiento, configurar un flujo de trabajo de administración de lanzamiento e implementar un patrón de implementación apropiado.
-
+  
   #### Perfil de audiencia
   Los estudiantes en este curso están interesados en implementar procesos DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -59,18 +59,16 @@ outlineSection: |-
   - Construyendo una tubería de lanzamiento de alta calidad
   - Elegir un patrón de despliegue
   - Elegir la herramienta de gestión de lanzamiento correcta
-  
   #### Laboratorio &#58; Construir una estrategia de lanzamiento
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Diferenciar entre un lanzamiento y una implementación
-  - Definir los componentes de una tubería de liberación
-  - Explicar los aspectos a tener en cuenta al diseñar tu estrategia de lanzamiento
-  - Clasificar un lanzamiento versus un proceso de lanzamiento y describa cómo controlar la calidad de ambos
+  - Diferenciar entre una versión y una implementación
+  - Definir los componentes de una tubería de lanzamiento
+  - Explicar las cosas a tener en cuenta al diseñar su estrategia de lanzamiento.
+  - Clasificar un lanzamiento frente a un proceso de lanzamiento y describir cómo controlar la calidad de ambos
   - Describir el principio de las puertas de lanzamiento y cómo lidiar con las notas de lanzamiento y la documentación
   - Explicar los patrones de implementación, tanto en el sentido tradicional como en el moderno.
   - Elegir una herramienta de administración de versiones
-
-
+  
   ### Módulo 2&#58; Configurar un flujo de trabajo de administración de versiones
   #### Lecciones
   - Crear una tubería de lanzamiento
@@ -120,7 +118,8 @@ outlineSection: |-
 
   #### Laboratorio &#58; Gestor de tráfico
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir patrones de implementación
+  Describir patrones de implementación
   - Implementar la implementación de Blue Green
   - Implementar lanzamiento de Canarias
-  - Implementar el despliegue de exposición progresiva
+  - Implementar despliegue de exposición progresiva
+

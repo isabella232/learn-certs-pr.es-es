@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Habilitación de equipos de Microsoft para colaboración
+title: Enabling Microsoft Teams for Collaboration
 metadata:
-  title: 'Curso MS-300T03-A: Habilitación de equipos de Microsoft para colaboración'
-  description: 'Curso MS-300T03-A: Habilitación de equipos de Microsoft para colaboración'
+  title: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
+  description: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
 uid: course.ms-300t03
 courseNumber: 'MS-300T03-A'
 hoursToComplete: 24
@@ -31,19 +31,16 @@ exams:
 - uid: exam.ms-300
 summary: |-
   Microsoft Teams es el centro del trabajo en equipo en Microsoft 365. En este curso aprenderá a planificar, implementar y administrar equipos de Microsoft. Específicamente, este curso trata la relación de los equipos con SharePoint, OneDrive y los grupos de Office 365. Proporciona las mejores prácticas para la adopción e implementación de equipos dentro de su organización. También cubre cómo establecer políticas de invitados y gobierno de datos para los datos de sus equipos.
-
   Este curso está diseñado para profesionales de TI que administran e implementan equipos de Microsoft en su organización. 
-  
-  Este es el tercero de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300; Implementación de Microsoft 365 Teamwork.
+
+  Este es el tercero de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300&#58; Implementación de Microsoft 365 Teamwork.
 
   #### Perfil de audiencia
   Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
-
   El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
-
   El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Conocimientos básicos de Active Directory y Azure AD
   - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS)
   - Experiencia con Windows PowerShell
@@ -55,7 +52,6 @@ outlineSection: |-
   - Desplegar equipos
   - Equipos y canales
   - Autenticación y acceso
-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar cómo Teams interactúa con SharePoint Online, Exchange Online y OneDrive
@@ -87,6 +83,7 @@ outlineSection: |-
 
   ### Módulo 3&#58; Gestionar el entorno de los equipos
   Este módulo se centra en la gestión de equipos de Microsoft.  Específicamente, discutimos la seguridad y el cumplimiento, así como la privacidad y el gobierno de los datos.  Si bien este curso no cubre las llamadas de voz explícitamente, este módulo trata temas relacionados con la calidad del servicio.
+
   #### Lecciones
   - Privacidad y gobernanza
   - Seguridad y cumplimiento
@@ -100,3 +97,4 @@ outlineSection: |-
   - Describir el enfoque de Microsoft para la privacidad de datos en Office 365
   - Ver informes de Office 365 que miden el uso de Teams
   - Habilitar la calidad de servicio para los equipos de Microsoft
+

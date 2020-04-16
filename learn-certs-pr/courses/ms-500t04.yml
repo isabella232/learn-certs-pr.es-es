@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administrar el cumplimiento integrado de Microsoft 365
+title: Administering Microsoft 365 Built-in Compliance
 metadata:
-  title: 'Curso MS-500T04-A: Administrar el cumplimiento integrado de Microsoft 365'
-  description: 'Curso MS-500T04-A: Administrar el cumplimiento integrado de Microsoft 365'
+  title: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+  description: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
@@ -29,12 +29,12 @@ exams:
 - uid: exam.ms-500
 summary: |-
   Las políticas internas y los requisitos externos para la retención e investigación de datos pueden ser necesarios para su organización. En este curso aprenderá sobre el archivado y la retención en Microsoft 365, así como sobre el gobierno de datos y cómo realizar búsquedas e investigaciones de contenido. Específicamente, este curso cubre las políticas y etiquetas de retención de datos, la administración de registros en el lugar para SharePoint, la retención de correo electrónico y cómo realizar búsquedas de contenido que admitan investigaciones de descubrimiento electrónico. El curso también ayuda a su organización a prepararse para el Reglamento Global de Protección de Datos (GDPR).
-  
+
   #### Perfil de audiencia
   Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
-  
+
   Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos. 
-  
+
   El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
 prerequisitesSection: |-
   Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
@@ -53,12 +53,10 @@ outlineSection: |-
   - Políticas de retención en el Centro de seguridad y cumplimiento
   - Archivo y retención en Exchange
   - Gestión de registros locales en SharePoint
-
   #### Laboratorio &#58; Archivado y Retención
   - Crear y licenciar usuarios en su organización
   - Configurar etiquetas y políticas de retención
   - Políticas de retención de MRM
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir el gobierno de datos en Microsoft 365.
   - Describir la diferencia entre el Archivo local y la Gestión de registros.
@@ -114,3 +112,4 @@ outlineSection: |-
   - Analizar datos en eDiscovery avanzado.
   - Visualización del registro de eventos de eDiscovery avanzado.
   - Utilizar Express Analytics.
+

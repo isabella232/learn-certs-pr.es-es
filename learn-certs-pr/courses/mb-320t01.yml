@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations
+title: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-320T01-A: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-320T01-A: Configure y use fabricación discreta en Dynamics 365 for Finance and Operations'
+  title: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t01
 courseNumber: 'MB-320T01-A'
 hoursToComplete: 48
@@ -21,7 +21,7 @@ exams:
 - uid: exam.mb-320
 summary: |-
   Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente. Este curso trata sobre cómo configurar y usar la fabricación discreta en Dynamics 365 for Finance and Operations.
-
+  
   #### Perfil de audiencia
   Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
@@ -36,8 +36,7 @@ outlineSection: |-
   - Comprender la planificación de la capacidad
   - Libro mayor y módulo de control de producción
   - Laboratorios de práctica
-  - Resumen
-
+  - Summary
   En este módulo los estudiantes aprendieron sobre&#58;
   - Metodologías discretas, ajustadas y de fabricación de procesos
   - Fabricación unificada
@@ -46,7 +45,6 @@ outlineSection: |-
   - Interconectividad entre el libro mayor y los módulos de control de producción
   - Grupo de producción
   - Cómo trabajar con claves de asignación
-
 
   ### Módulo 2&#58; Comenzar con la fabricación discreta
   Aunque los procesos de fabricación de cada entidad jurídica son únicos, dependiendo de la naturaleza del entorno de producción, los elementos conceptuales centrales que se utilizan en el módulo de control de producción son con frecuencia muy similares.
@@ -163,3 +161,4 @@ outlineSection: |-
 
 
   Los estudiantes habrán completado el curso.
+

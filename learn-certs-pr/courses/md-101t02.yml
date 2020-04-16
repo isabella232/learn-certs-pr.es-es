@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administrar escritorios y dispositivos modernos
+title: Managing Modern Desktops and Devices
 metadata:
-  title: 'Curso MD-101T02-A: Administrar escritorios y dispositivos modernos'
-  description: 'Curso MD-101T02-A: Administrar escritorios y dispositivos modernos'
+  title: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+  description: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
 uid: course.md-101t02
 courseNumber: 'MD-101T02-A'
 hoursToComplete: 48
@@ -27,7 +27,8 @@ products:
 exams:
 - uid: exam.md-101
 summary: |-
-  Como la demanda de las organizaciones para permitir que las fuerzas de trabajo sean más móviles, la
+  Como
+  la demanda de las organizaciones para permitir que las fuerzas de trabajo sean más móviles, la
   función de un administrador de escritorio ya no se trata solo de la administración "de escritorio".
   Dado que BYOD se está volviendo común y la necesidad de que los empleados tengan acceso a la línea
   de aplicaciones comerciales en dispositivos personales, el alcance de la administración de escritorio debe
@@ -37,11 +38,12 @@ summary: |-
   Intune en una organización y cómo usarlo para administrar
   escritorios y dispositivos. Los estudiantes también aprenderán sobre los métodos para la implementación y
   administración de aplicaciones y aplicaciones basadas en navegador.
-
+  
   #### Perfil de audiencia
   Modern Desktop Administrator (MDA) implementa, configura, asegura, administra y monitorea dispositivos y aplicaciones cliente en un entorno empresarial. Las responsabilidades incluyen la gestión de identidad, acceso, políticas, actualizaciones y aplicaciones. La MDA colabora con el administrador de la empresa M365 para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna. El MDA debe estar familiarizado con las cargas de trabajo de M365 y debe tener fuertes habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows 10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las tecnologías de administración local.
 prerequisitesSection: |-
-  El Administrador de escritorio moderno debe estar familiarizado con las cargas de trabajo de M365 y debe tener
+  El
+  Administrador de escritorio moderno debe estar familiarizado con las cargas de trabajo de M365 y debe tener
   sólidas habilidades y experiencia en la implementación, configuración y mantenimiento de dispositivos con Windows
   10 y que no sean Windows. El rol de MDA se centra en los servicios en la nube en lugar de las
   tecnologías de administración local.
@@ -51,15 +53,12 @@ outlineSection: |-
   #### Lecciones
   - Opciones de gestión de dispositivos
   - Administrar la inscripción e inventario de dispositivos Intune
-  
   #### Laboratorio &#58; Laboratorio de práctica - Inscripción y gestión de dispositivos
   - Instalación de la herramienta de análisis de migración MDM (MMAT)
   - Obtener licencias Intune y Azure AD Premium y habilite la administración de dispositivos
   - Inscripción de dispositivos en Intune
   - Administrar dispositivos en Intune
   - Crear informes de inventario de dispositivos
-
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir los beneficios y métodos para migrar a cogestión
   - Implementar un MDM con Microsoft Intune
@@ -124,3 +123,4 @@ outlineSection: |-
   - Crear y asignar perfiles de dispositivo
   - Configurar el perfil de usuario y la redirección de carpetas
   - Monitorear e informar sobre dispositivos usando Intune y Windows Analytics
+

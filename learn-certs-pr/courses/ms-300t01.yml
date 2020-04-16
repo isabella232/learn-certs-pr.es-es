@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administrar los servicios de contenido de Office 365
+title: Managing Office 365 Content Services
 metadata:
-  title: 'Curso MS-300T01-A: Administrar los servicios de contenido de Office 365'
-  description: 'Curso MS-300T01-A: Administrar los servicios de contenido de Office 365'
+  title: 'Course MS-300T01-A: Managing Office 365 Content Services'
+  description: 'Course MS-300T01-A: Managing Office 365 Content Services'
 uid: course.ms-300t01
 courseNumber: 'MS-300T01-A'
 hoursToComplete: 48
@@ -11,7 +11,7 @@ skillsGained:
 - skill: Configurar colecciones de sitios de SharePoint
 - skill: Administrar los límites de almacenamiento de la colección de sitios
 - skill: Implemente el cliente de sincronización de OneDrive For Business
-- skill: Use la directiva de grupo para controlar la configuración del cliente de sincronización de OneDrive
+- skill: Usar la directiva de grupo para controlar la configuración del cliente de sincronización de OneDrive
 - skill: Administrar el intercambio externo de datos en SharePoint Online y OneDrive para la Empresa
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -30,19 +30,15 @@ exams:
 - uid: exam.ms-300
 summary: |-
   El contenido es el activo digital más crítico para cada organización. En este curso aprenderá a planificar, configurar y administrar SharePoint Site Collection y OneDrive for Business para habilitar servicios de contenido modernos que transforman el ciclo de vida del contenido. Específicamente, este curso analiza la estructura moderna del sitio de SharePoint, como los sitios centrales de SharePoint. Proporciona las mejores prácticas para la adopción e implementación de OneDrive para la Empresa dentro de su organización. También cubre el uso compartido, la seguridad y la supervisión en SharePoint Online y OneDrive para empresas.
-
   Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización. 
-
-  Este es el primero de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300; Implementación de Microsoft 365 Teamwork.
+  Este es el primero de una serie de cuatro cursos para el administrador de trabajo en equipo. Estos cursos ayudan a prepararse para el examen MS-300&#58; Implementación de Microsoft 365 Teamwork.
 
   #### Perfil de audiencia
   Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
-
   El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
-
   El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Experiencia con Windows PowerShell
   - Conocimientos básicos de Active Directory y Azure AD
   - Conocimientos básicos de la administración de dispositivos móviles y sistemas operativos alternativos (Android y macOS)
@@ -65,6 +61,7 @@ outlineSection: |-
 
   ### Módulo 2&#58; Configurar y administrar OneDrive para la Empresa
   Este módulo explica cómo planificar la implementación de OneDrive para la Empresa. Trata diferentes enfoques para implementar OneDrive para la Empresa en función de diferentes escenarios. También presenta las capacidades para administrar contenido en OneDrive para la Empresa.
+
   #### Lecciones
   - Descripción general de OneDrive para la Empresa
   - Implementar OneDrive para la Empresa
@@ -81,6 +78,8 @@ outlineSection: |-
 
   ### Módulo 3&#58; Uso compartido, seguridad y supervisión en SharePoint y OneDrive
   Este módulo se centra en compartir, seguridad y monitoreo en SharePoint y OneDrive.  Específicamente, trataremos la planificación y administración del uso compartido externo, así como el control de acceso en SharePoint y OneDrive.  También analiza cómo usar el Centro de administración de Office 365 para monitorear las actividades en SharePoint en línea y OneDrive para la Empresa.
+
+
   #### Lecciones
   - Administrar el uso compartido en SharePoint y OneDrive
   - Administrar la seguridad en SharePoint y OneDrive
@@ -96,3 +95,4 @@ outlineSection: |-
   ### Módulo 4&#58; Conclusión del curso
 
   #### Laboratorio &#58; Crear y configurar la colección de sitios
+

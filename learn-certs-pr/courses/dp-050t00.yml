@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Migrar cargas de trabajo SQL a Azure
+title: Migrate SQL workloads to Azure
 metadata:
-  title: 'Curso DP-050T00-A: Migrar cargas de trabajo SQL a Azure'
-  description: 'Curso DP-050T00-A: Migrar cargas de trabajo SQL a Azure'
+  title: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+  description: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
 uid: course.dp-050t00
 courseNumber: 'DP-050T00-A'
 hoursToComplete: 48
@@ -24,14 +24,14 @@ products:
 - azure
 summary: |-
   En este curso, los estudiantes explorarán los objetivos de la modernización de la plataforma de datos y cómo es adecuado para los requisitos comerciales dados. También explorarán cada etapa del proceso de modernización de la plataforma de datos y definirán qué tareas están involucradas en cada etapa, como la fase de evaluación y planificación. Los estudiantes también aprenderán las herramientas de migración disponibles y cómo son adecuadas para cada etapa del proceso de migración de datos.
-  El alumno aprenderá a migrar a las tres plataformas de destino para cargas de trabajo basadas en SQL; Azure Virtual Machines, Azure SQL Databases e Azure SQL Database Managed Instances. El alumno aprenderá los beneficios y las limitaciones de cada plataforma de destino y cómo se pueden utilizar para cumplir con los requisitos comerciales y técnicos para las cargas de trabajo SQL modernas. El alumno explorará los cambios que deben realizarse en las aplicaciones basadas en SQL existentes, para que puedan aprovechar al máximo las plataformas de datos modernas en Azure SQL.
-
+  El alumno aprenderá a migrar a las tres plataformas de destino para cargas de trabajo basadas en SQL; Azure Virtual Machines, Azure SQL Databases e Azure SQL Database Managed Instances. El alumno aprenderá los beneficios y las limitaciones de cada plataforma de destino y cómo se pueden utilizar para cumplir con los requisitos comerciales y técnicos para las cargas de trabajo SQL modernas. El alumno explorará los cambios que deben realizarse en las aplicaciones basadas en SQL existentes, para que puedan aprovechar al máximo las plataformas de datos modernas en Azure.SQL
+  
   #### Perfil de audiencia
   La audiencia para este curso son profesionales de datos y arquitectos de datos que desean aprender sobre la migración de tecnologías de plataformas de datos que existen en Microsoft Azure y cómo las cargas de trabajo basadas en SQL existentes pueden migrarse y modernizarse.
-  La audiencia secundaria para este curso son personas que administran plataformas de datos o desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos existentes SQL.
+  La audiencia secundaria para este curso son personas que administran plataformas de datos o desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos existentes.SQL
 prerequisitesSection: |-
   Además de su experiencia profesional en SQL Server, los estudiantes que toman esta capacitación deben tener un conocimiento técnico equivalente a los siguientes cursos&#58;
-  - Azure fundamentals
+  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Módulo 1&#58; Introducción a la modernización de la plataforma de datos
   En este módulo, los estudiantes aprenderán el propósito de la modernización de la plataforma de datos y describirán los beneficios que la modernización de la plataforma de datos puede aportar a una organización. Luego, los estudiantes aprenderán las diversas etapas de los proyectos de migración de una plataforma de datos para comprender lo que implica cada etapa para maximizar las posibilidades de un proyecto de modernización de plataforma de Datos exitoso. Finalmente, los estudiantes explorarán las diversas rutas de migración de datos para comprender cómo cada enfoque es diferente y por qué elegiría un enfoque de migración sobre otro.
@@ -39,17 +39,14 @@ outlineSection: |-
   - Comprender la modernización de la plataforma de datos
   - Comprender las etapas de la migración.
   - Rutas de migración de datos
-  
   #### Laboratorio &#58; Introducción a la modernización de la plataforma de datos
   - Comprender la modernización de la plataforma de datos
   - Comprender las etapas de la migración.
   - Rutas de migración de datos
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender la modernización de la plataforma de datos
   - Comprender las etapas de la migración.
   - Rutas de migración de datos
-
 
   ### Módulo 2&#58; Elija las herramientas adecuadas para la migración de datos
   En este módulo, se presentará al alumno la Guía de migración de datos como punto de partida para la fuente de información que su organización debe utilizar para obtener orientación paso a paso para modernizar Luego aprenderán el valor del Kit de herramientas de planificación y evaluación de Microsoft para ayudar a descubrir los activos de datos que existen actualmente en sus entornos.
@@ -122,9 +119,10 @@ outlineSection: |-
   - Configuración de aplicaciones y optimización
 
 
-  #### Laboratorio &#58; Migrar las cargas de trabajo de SQL a la instancia administrada de Azure SQL Database
+  #### Laboratorio &#58;Migrar las cargas de trabajo de SQL a la instancia administrada de Azure SQL Database
   Después de completar este módulo, los estudiantes podrán&#58;
   - Evaluar escenarios de migración a la instancia administrada de la base de datos SQL
   - Migración a instancia administrada de base de datos SQL
   - Carga y mudanza de datos a la instancia administrada de la base de datos SQL
   - Configuración de aplicaciones y optimización
+

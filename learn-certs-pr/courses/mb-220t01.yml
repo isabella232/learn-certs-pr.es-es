@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configure los ajustes y la funcionalidad principal en Dynamics 365 for Marketing
+title: Configure settings and core functionality in Dynamics 365 for Marketing
 metadata:
-  title: 'Curso MB-220T01-A: Configurar los ajustes y la funcionalidad principal en Dynamics 365 para Marketing'
-  description: 'Curso MB-220T01-A: Configurar los ajustes y la funcionalidad principal en Dynamics 365 para Marketing'
+  title: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
+  description: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
 uid: course.mb-220t01
 courseNumber: 'MB-220T01-A'
 hoursToComplete: 72
@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Configurar configuración avanzada
 - skill: Administrar contenido de marketing, plantillas e integraciones
-- skill: Crear y administrar clientes potenciales
+- skill: Crear y gestionar clientes potenciales
 - skill: Evaluar la preparación de ventas a través de modelos de puntuación
 - skill: Diseñar y crear formularios y páginas de marketing
 - skill: Crear y administrar segmentos, centros de suscripción, listas y doble suscripción
@@ -31,11 +31,9 @@ exams:
 - uid: exam.mb-220
 summary: |-
   La transformación del marketing, la organización y el crecimiento comienzan aquí. Con Dynamics 365 for Marketing, las perspectivas pueden convertirse en relaciones comerciales. Encontrar y fomentar más clientes potenciales listos para las ventas yendo más allá del marketing básico por correo electrónico. Conectar ventas y marketing, automatizar procesos y tomar decisiones más inteligentes para maximizar el ROI de marketing.
-
   Este curso revisa la configuración de la aplicación de marketing necesaria para comenzar. Se sumerge en la creación, gestión y puntuación de clientes potenciales. A partir de ahí, el curso cubre la creación de formularios y páginas de marketing. Luego, los estudiantes aprenden cómo dividir clientes potenciales y contactos a través de la segmentación para ayudar a enfocar los esfuerzos de marketing. A continuación, los estudiantes aprenden cómo crear mensajes de marketing por correo electrónico utilizando la funcionalidad avanzada del diseñador. Luego, todas las piezas se unen con el recorrido del cliente. Dynamics 365 for Marketing permite que los recorridos de los clientes creen un modelo que ayude a guiar a los miembros de un segmento de marketing seleccionado a través de este proceso mediante el uso de mensajes automáticos, generación de actividades, puntos de decisión interactivos y más. Finalmente, los estudiantes aprenden a ver, comprender y administrar los conocimientos de los clientes.
-
   Aprenda todas las configuraciones y la funcionalidad principal dentro de Dynamics 365 for Marketing a través de demostraciones personalizadas, consulte preguntas de conocimiento y prácticas de laboratorio de aprendizaje.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para profesionales de TI o marketing que desean aprender a aprovechar Dynamics 365 for Marketing para empresas.
 prerequisitesSection: |-
@@ -48,11 +46,9 @@ outlineSection: |-
   - Configurar ajustes avanzados
   - Administrar contenido de marketing y plantillas
   - Administrar las integraciones de LinkedIn y Power BI
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Configurar opciones avanzadas, como&#58; organización, gestión empresarial, contenido, marketing y configuración de eventos.
   - Administrar contenido de marketing y plantillas  
-
 
   ### Módulo 2&#58; Clientes potenciales
   Este módulo revisará cómo crear, administrar y calificar clientes potenciales.
@@ -99,7 +95,7 @@ outlineSection: |-
   - Obtener una vista previa, validar e iniciar con mensajes de correo electrónico
   - Guardar un mensaje de correo electrónico como plantilla
 
-
+  
   ### Módulo 6&#58; Recorridos del cliente
   Este módulo revisará el proceso de creación del recorrido del cliente.
   #### Lecciones
@@ -125,3 +121,4 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Localizar perspectivas
   - Comprender las ideas de marketing, tales como&#58; contacto, segmento, recorrido del cliente, correo electrónico de marketing, cliente potencial, puntuación de clientes potenciales, formulario de marketing, página de marketing, sitio web y URL de redireccionamiento
+

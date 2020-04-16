@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Conectarse a y consumir servicios de Azure y servicios de terceros
+title: Connect to and consume Azure and third-party services
 metadata:
-  title: 'Curso AZ-203T06-A: Conectarse y consumir los servicios de Azure y los servicios de terceros'
-  description: 'Curso AZ-203T06-A: Conectarse y consumir los servicios de Azure y los servicios de terceros'
+  title: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
+  description: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -29,19 +29,18 @@ exams:
 - uid: exam.az-203
 summary: |-
   Este curso tiene que ver con la comunicación entre aplicaciones y servicios. Los estudiantes aprenderán cómo crear y administrar su propio APls utilizando API Management, y cómo utilizar los distintos servicios basados en eventos y mensajes en Azure dentro de las soluciones de desarrollo. A lo largo del curso, los estudiantes aprenden cómo crear e integrar estos recursos mediante el Portal de Azure, la CLI de Azure, REST y el código de la aplicación.
-
   #### Perfil de audiencia
   - Los estudiantes en este curso están interesados en el desarrollo de Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
   - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
-  - Se recomienda que los estudiantes tengan alguna experiencia con PowerShell o la CLI de Azure, trabajando en el portal de Azure y con al menos un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este curso se presentan en C # .NET.
+  - Se recomienda que los estudiantes tengan alguna experiencia con PowerShell o la CLI de Azure, trabajando en el portal de Azure y con al menos un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este curso se presentan en C# .NET.
 prerequisitesSection: |-
   - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este
-  curso asume que los estudiantes saben codificar y tienen un .
+  curso asume que los estudiantes saben codificar y tienen un.
   conocimiento fundamental de Azure
   - Se recomienda que los estudiantes tengan alguna experiencia con
   PowerShell o CLI de Azure, trabajando en el portal de Azure y con al menos
   un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este
-  curso se presentan en C # .NET.
+  curso se presentan en C# .NET.
 outlineSection: |-
   ### Módulo 1&#58; Desarrollar una aplicación lógica de servicio de aplicaciones
   Logic Apps ayuda a crear soluciones que integran aplicaciones, datos, sistemas y servicios en empresas u organizaciones mediante la automatización de tareas y procesos comerciales como flujos de trabajo. Este módulo cubre lo que son y cómo crearlos.
@@ -50,16 +49,14 @@ outlineSection: |-
   - Creación de aplicaciones lógicas utilizando Visual Studio
   - Creación de conectores personalizados para aplicaciones lógicas
   - Creación de plantillas personalizadas para aplicaciones lógicas
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender cómo crear y administrar aplicaciones lógicas de Azure
-
+  
   ### Módulo 2&#58; Integración de Azure Search en soluciones.
   Azure Search es una solución en la nube de búsqueda como servicio que brinda a los desarrolladores API y herramientas para agregar una rica experiencia de búsqueda sobre contenido privado y heterogéneo en aplicaciones web, móviles y empresariales. En este módulo, los estudiantes aprenderán cómo integrar Azure Search en sus soluciones.
   #### Lecciones
   - Creación y consulta de un índice de búsqueda de Azure
   - Búsqueda de texto completo en Azure Search
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Aprovisionar el servicio, cree un índice, cargue datos y ejecute búsquedas
 
@@ -94,3 +91,4 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes&#58;
   - Entenderán cómo aprovechar los servicios basados en mensajes de Azure en sus soluciones
+

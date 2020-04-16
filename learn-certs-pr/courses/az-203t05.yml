@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Monitorizar, solucionar problemas y optimizar las soluciones de Azure
+title: Monitor, troubleshoot, and optimize Azure solutions
 metadata:
-  title: 'Curso AZ-203T05-A: Monitorizar, solucionar problemas y optimizar las soluciones de Azure'
-  description: 'Curso AZ-203T05-A: Monitorizar, solucionar problemas y optimizar las soluciones de Azure'
+  title: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
+  description: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
 uid: course.az-203t05
 courseNumber: 'AZ-203T05-A'
 hoursToComplete: 24
@@ -29,30 +29,26 @@ exams:
 - uid: exam.az-203
 summary: |-
   En este curso los estudiantes adquirirán el conocimiento y las habilidades necesarias para asegurar que las operaciones alojadas en Azure funcionen de manera efectiva y según lo previsto. Los estudiantes aprenderán cómo funciona Azure Monitor y cómo usar herramientas como Log Analytics y Application Insights para comprender mejor lo que ocurre en su aplicación. Los estudiantes aprenderán además a implementar ajuste automático de escala, instrumentar sus soluciones para aceptar la supervisión y el registro y a utilizar Azure Cache y las opciones de CDN para mejorar la experiencia del usuario final.
-
   #### Perfil de audiencia
   - Los estudiantes en este curso están interesados en el desarrollo de Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
   - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
 prerequisitesSection: |-
   - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
-  - Se recomienda que los estudiantes tengan alguna experiencia con PowerShell o la CLI de Azure, trabajando en el portal de Azure y con al menos un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este curso se presentan en C # .NET.
+  - Se recomienda que los estudiantes tengan alguna experiencia con PowerShell o la CLI de Azure, trabajando en el portal de Azure y con al menos un lenguaje de programación compatible con Azure. La mayoría de los ejemplos en este curso se presentan en C# .NET.
 outlineSection: |-
   ### Módulo 1&#58; Introducción a Azure Monitor
   Azure Monitor es el servicio central que incluye todas las herramientas que necesita para monitorear y optimizar su solución.
   #### Lecciones
   - Descripción general de Azure Monitor
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Entender cómo funciona Azure Monitor
   - Saber dónde y cómo Azure Monitor recopila datos
-
   ### Módulo 2&#58; Desarrollar código para admitir la escalabilidad de aplicaciones y servicios.
   Este módulo cubre cómo escalan las aplicaciones y cómo manejar algunos problemas.
   #### Lecciones
   - Implementación de auto escala
   - Implementación de códigos que se dirigen a instancias de de fallos en aplicación.
   - Implementación de códigos que maneja fallas transitorias
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender los patrones de auto escala y las mejores prácticas para escalar sus soluciones
   - Utilizar la CLI de Azure para comunicarse con una copia específica de un recurso
@@ -70,7 +66,7 @@ outlineSection: |-
   - Usar paneles y otras herramientas para monitorear y solucionar problemas de su aplicación
 
 
-  ### Módulo 4&#58; Integración de almacenamiento en caché y la entrega de contenido dentro de las soluciones
+  ### Module  4&#58; Integración de almacenamiento en caché y la entrega de contenido dentro de las soluciones
   Este módulo muestra a los estudiantes cómo aprovechar Azure Cache para Redis y Azure CDN para entregar activos a los usuarios más rápidamente.
   #### Lecciones
   - Azure Cache para Redis
@@ -79,3 +75,4 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Entender cómo Azure Cache para Redis opera y cómo configurar e interactuar con el.
   - Administración de Azure CDN
+

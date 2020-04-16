@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Características comunes principales de Dynamics 365 for Finance and Operations
+title: Core common features of Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-300T01-A: Características comunes principales de Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-300T01-A: Características comunes principales de Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
 uid: course.mb-300t01
 courseNumber: 'MB-300T01-A'
 hoursToComplete: 24
@@ -22,7 +22,6 @@ exams:
 - uid: exam.mb-300
 summary: |-
   Las organizaciones usan Dynamics 365 for Finance and Operations para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos. 
-
   Este curso trata los componentes principales de Microsoft Dynamics 365 para Finanzas y Operaciones.
 
   #### Perfil de audiencia
@@ -39,9 +38,8 @@ outlineSection: |-
   - Introducción a la gestión de empleados
   - Introducción a la gestión de la cadena de suministro
   - Resumen del módulo
-  
   Los estudiantes comprenderán qué es Finance and Operations, y las industrias que respalda. Estarán familiarizados con los módulos en Finanzas y Operaciones, y el propósito de las características de esos módulos y cómo respaldan las áreas específicas de la industria.
-
+  
   ### Módulo 2&#58; Comenzar con los servicios de ciclo de vida
   Microsoft Dynamics Lifecycle Services (LCS) es un espacio de trabajo colaborativo que los clientes y sus socios usan para administrar Dynamics 365 para proyectos de Finanzas y Operaciones desde la preventa, la implementación y, finalmente, el entorno de producción, ya sea en la nube o en las instalaciones. Proporciona listas de verificación y herramientas que ayudan a administrar el proyecto, incluidas metodologías que pueden ayudar a administrar el proceso de implementación.
   #### Lecciones
@@ -53,7 +51,6 @@ outlineSection: |-
   - Aprender a usar la herramienta de automatización de Regression Suite
   - Laboratorios de práctica
   - Resumen del módulo
-
   Los estudiantes podrán&#58;
   - Comprender la funcionalidad y las herramientas de LCS para Finanzas y Operaciones
   - Reutilizar los activos existentes, copiar y compartir datos
@@ -133,3 +130,4 @@ outlineSection: |-
   - Encuesta posterior al curso
 
   Los estudiantes habrán concluido el curso.
+

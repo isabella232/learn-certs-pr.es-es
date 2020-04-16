@@ -1,14 +1,14 @@
 ### YamlMime:Course
-title: Implementar procesos de desarrollo DevOps
+title: Implementing DevOps Development Processes
 metadata:
-  title: 'Curso AZ-400T01-A: Implementar procesos de desarrollo DevOps'
-  description: 'Curso AZ-400T01-A: Implementar procesos de desarrollo DevOps'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Describir los beneficios de usar el control de fuente
+- skill: Describa los beneficios de usar control de fuentes
 - skill: Migrar de TFVC a Git
 - skill: Scale Git para Enterprise DevOps
 - skill: Implementar y gestionar infraestructura de versión
@@ -31,7 +31,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   Este curso proporciona los conocimientos y habilidades para implementar procesos DevOps. Los estudiantes aprenderán cómo usar el control de fuente, escalar Git para una empresa e implementar y administrar la infraestructura de compilación.
-
+  
   #### Perfil de audiencia
   Los estudiantes en este curso están interesados en implementar procesos DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -45,12 +45,11 @@ outlineSection: |-
   - Introducción a Azure Repos
   - Migración de Team Foundation Version Control (TFVC) a Git
   - Autenticación de tu Git Repos
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describa los beneficios de usar control de fuentes
-  - Migrar de TFVC a G
-
-  ### Módulo 2&#58; Git de escala para DevOps empresarial
+  - Migrar de TFVC a Git
+  
+  ### Module 2&#58; Git de escala para DevOps empresarial
   #### Lecciones
   - Cómo estructurar tu repositorio Git
   - Flujos de trabajo de ramificación Git
@@ -60,7 +59,6 @@ outlineSection: |-
   - Versión Git
   - Proyectos públicos
   - Archivos en Git
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Scale Git para Enterprise DevOps
 
@@ -106,3 +104,4 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar una estrategia de DevOps móvil
+

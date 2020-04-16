@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar Dynamics 365 Field Service
+title: Configuring Dynamics 365 Field Service
 metadata:
-  title: 'Curso MB-240T01-A: Configurar Dynamics 365 Field Service'
-  description: 'Curso MB-240T01-A: Configurar Dynamics 365 Field Service'
+  title: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
 uid: course.mb-240t01
 courseNumber: 'MB-240T01-A'
 hoursToComplete: 24
@@ -30,7 +30,6 @@ summary: |-
   Dynamics 365 for Field Service ayuda a las organizaciones a posicionarse mejor en el mercado al proporcionar una variedad de herramientas que ayudan a identificar y programar recursos y administrar cargas de trabajo para trabajadores móviles. Este curso proporcionará a los estudiantes con las habilidades necesarias para identificar y configurar los componentes clave que se utilizan para entregar el Servicio de campo y las soluciones móviles. Los temas clave incluyen la identificación de las consideraciones organizativas que impulsarán las decisiones de configuración y los aspectos de configuración comunes. 
 
   Este curso ayuda a los estudiantes a comprender mejor el panorama general y los objetivos finales centrados en implementaciones que ayudan a diseñar soluciones más eficientes que se alineen con los objetivos del cliente y de la organización.
-
 prerequisitesSection: |-
   Comprensión básica de las características, la funcionalidad y la navegación de Dynamics 365.
 outlineSection: |-
@@ -45,8 +44,7 @@ outlineSection: |-
   - Mapeo e información de ubicación
   - Configuración de componentes de recursos
   - Definición de preferencias de cuenta
-
-
+  
   ### Módulo 3&#58; Definir y configurar recursos que se pueden reservar
   #### Lecciones
   - Definición de recursos reservables
@@ -58,3 +56,4 @@ outlineSection: |-
   - Creación de incidentes
   - Uso de tareas de servicio
   - Definición de productos, servicios y habilidades
+

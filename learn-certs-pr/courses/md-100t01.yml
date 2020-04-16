@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Instalar Windows 10
+title: Installing Windows 10
 metadata:
-  title: 'Curso MD-100T01-A: Instalar Windows 10'
-  description: 'Curso MD-100T01-A: Instalar Windows 10'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
@@ -25,19 +25,21 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  En este curso, los estudiantes aprenderán cómo apoyar las tareas de instalación
+  En
+  este curso, los estudiantes aprenderán cómo apoyar las tareas de instalación
   asociadas con Windows 10. Los estudiantes desarrollarán habilidades que incluyen aprender
   a instalar y personalizar los sistemas operativos Windows 10. Los estudiantes también
   aprenderán sobre el nuevo modelo de servicio de Windows y los métodos para mantener Windows
   actualizado. El curso concluirá con tareas comunes posteriores a la instalación.
-
+  
   #### Perfil de audiencia
-  Los candidatos para este examen son profesionales de TI que realizan la instalación, configuración,
+  Los candidatos
+  para este examen son profesionales de TI que realizan la instalación, configuración,
   administración local general y mantenimiento de los servicios principales de Windows 10.
   Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la
   nube.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Conocimientos básicos de redes informáticas y conceptos de hardware.
   - Comprensión básica del sistema operativo y los conceptos de aplicación.
   - Experiencia con el uso del sistema operativo Windows.
@@ -53,8 +55,6 @@ outlineSection: |-
   #### Laboratorio &#58; Instación de Windows 10
   - Actualización de Windows 7 a Windows 10
   - Migración de la configuración del usuario
-
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender las diferentes ediciones y características de Windows 10
   - Comprender las opciones de instalación del cliente de Windows 10
@@ -110,3 +110,4 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Laboratorio calificado
+

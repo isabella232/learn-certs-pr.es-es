@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementación de Microsoft 365 Threat Protection
+title: Implementing Microsoft 365 Threat Protection
 metadata:
-  title: 'Curso MS-500T02-A: Implementación de Microsoft 365 Threat Protection'
-  description: 'Curso MS-500T02-A: Implementación de Microsoft 365 Threat Protection'
+  title: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
+  description: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
 uid: course.ms-500t02
 courseNumber: 'MS-500T02-A'
 hoursToComplete: 24
@@ -30,12 +30,12 @@ exams:
 - uid: exam.ms-500
 summary: |-
   La protección contra amenazas ayuda a detener ataques dañinos con seguridad integrada y automatizada. En este curso aprenderá sobre las tecnologías de protección contra amenazas que ayudan a proteger su entorno de Microsoft 365. Específicamente, aprenderá acerca de los vectores de amenazas y las soluciones de seguridad de Microsoft para ellos. Aprenderá sobre Secure Score, la protección de Exchange Online, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection y cómo usar Microsoft 365 Threat Intelligence. También analiza la seguridad de dispositivos móviles y aplicaciones. El objetivo de este curso es ayudarlo a configurar su implementación de Microsoft 365 para lograr la postura de seguridad deseada.
-  
+
   #### Perfil de audiencia
   Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
-  
+
   Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos.
-  
+
   El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
 prerequisitesSection: |-
   Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
@@ -52,7 +52,6 @@ outlineSection: |-
   - Vectores de amenazas y violaciones de datos
   - Soluciones de seguridad para Microsoft 365
   - Microsoft Secure Score
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir varias técnicas que los hackers usan para comprometer las cuentas de los usuarios a través del correo electrónico.
   - Describir las técnicas que usan los hackers para obtener control sobre los recursos.
@@ -60,7 +59,7 @@ outlineSection: |-
   - Describir cómo Microsoft 365 Threat Intelligence puede ser beneficioso para los oficiales y administradores de seguridad de su organización.
   - Describir los beneficios de Secure Score y qué tipo de servicios se pueden analizar.
   - Describir cómo usar la herramienta para identificar brechas entre su estado actual y dónde le gustaría estar con respecto a la seguridad.
-
+  
   ### Módulo 2&#58; Advanced Threat Protection
   Este módulo explica las diversas tecnologías y servicios de protección contra amenazas disponibles en Microsoft 365. Específicamente, el módulo cubre la protección de mensajes a través de Exchange Online Protection, Azure Advanced Threat Protection y Windows Defender Advanced Threat Protection.
   #### Lecciones
@@ -70,7 +69,6 @@ outlineSection: |-
   - Gestión de enlaces seguros
   - Azure Advanced Threat Protection
   - Windows Defender Advanced Threat Protection
-
 
   #### Laboratorio &#58; Protección avanzada contra amenazas
   - Configurar su entorno de laboratorio
@@ -123,3 +121,4 @@ outlineSection: |-
   - Definir la política de inscripción de dispositivos corporativos.
   - Inscripción de dispositivos a MDM.
   - Configurar un rol de administrador de inscripción de dispositivos.
+

@@ -1,27 +1,27 @@
 ### YamlMime:Course
-title: Implementación de retroalimentación continua
+title: Implementing Continuous Feedback
 metadata:
-  title: 'Curso AZ-400T06-A: Implementación de retroalimentación continua'
-  description: 'Curso AZ-400T06-A: Implementación de retroalimentación continua'
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Diseñar prácticas para medir la satisfacción del usuario final
+- skill: Diseño de prácticas para medir la satisfacción del usuario final.
 - skill: Diseñar procesos para capturar y analizar los comentarios de los usuarios de fuentes externas
 - skill: Diseño de enrutamiento para los datos del informe de fallas de la aplicación cliente
 - skill: Recomendar herramientas y tecnologías de monitoreo.
 - skill: Recomendar herramientas de seguimiento de uso del sistema y características.
-- skill: Configurar la integración de informes de errores para aplicaciones cliente.
-- skill: Desarrollar paneles de monitoreo y estado.
-- skill: Implemente el enrutamiento para los datos del informe de fallas de la aplicación cliente
-- skill: Implementar herramientas para rastrear el uso del sistema, el uso de características y el flujo
+- skill: Configurar la integración de informes de fallas para aplicaciones cliente
+- skill: Desarrollar paneles de control y estado
+- skill: Implementar el enrutamiento para los datos del informe de bloqueo de la aplicación cliente
+- skill: Implementación de herramientas para rastrear el uso del sistema, el uso de funciones y el flujo
 - skill: Integrar y configurar sistemas de tickets con el sistema de gestión de trabajo del equipo de desarrollo
-- skill: Analizar alertas para establecer una línea de base.
-- skill: Analizar la telemetría para establecer una línea de base.
+- skill: Análisis de alertas para establecer una línea de base
+- skill: Análisis de telemetría para establecer una línea de base
 - skill: Ejecutar revisiones del sitio en vivo y obtener los comentarios de las interrupciones del sistema.
-- skill: Ejecutar ajustes continuos para reducir las alertas sin sentido o inútiles.
+- skill: Realizar ajustes continuos para reducir alertas sin sentido o no procesables
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -39,7 +39,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   Este curso proporciona el conocimiento y las habilidades para implementar retroalimentación continua. Los estudiantes aprenderán cómo recomendar y diseñar mecanismos de retroalimentación del sistema, implementar un proceso para enrutar la retroalimentación del sistema a los equipos de desarrollo y optimizar los mecanismos de retroalimentación.
-
+  
   #### Perfil de audiencia
   Los estudiantes en este curso están interesados en implementar procesos DevOps o en aprobar el examen de certificación de soluciones de Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -52,17 +52,14 @@ outlineSection: |-
   - Diseño de prácticas para medir la satisfacción del usuario final.
   - Diseño de procesos para capturar y analizar los comentarios de los usuarios.
   - Proceso de diseño para automatizar el análisis de aplicaciones.
-  
   #### Laboratorio &#58; Integración entre Azure DevOps y Teams
-
   #### Laboratorio &#58; Banderas de funciones
   Después de completar este módulo, los estudiantes podrán&#58;
   - Diseño de prácticas para medir la satisfacción del usuario final.
   - Diseñar procesos para capturar y analizar los comentarios de los usuarios de fuentes externas
-  - Diseñar el enrutamiento para los datos del informe de fallas de la aplicación cliente
+  - Diseño de enrutamiento para los datos del informe de fallas de la aplicación cliente
   - Recomendar herramientas y tecnologías de monitoreo
-  - Recomendar herramientas de seguimiento del uso del sistema y funciones
-
+  - Recomendar herramientas de seguimiento de uso del sistema y características.
 
   ### Módulo 2&#58; implementar el proceso para enrutar la retroalimentación del sistema a los equipos de desarrollo.
   #### Lecciones
@@ -92,3 +89,4 @@ outlineSection: |-
   - Análisis de telemetría para establecer una línea de base
   - Ejecutar revisiones del sitio en vivo y obtener los comentarios de las interrupciones del sistema.
   - Realizar ajustes continuos para reducir alertas sin sentido o no procesables
+

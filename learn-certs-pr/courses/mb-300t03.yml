@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Migración de datos y preparación para salir en vivo con Dynamics 365 for Finance and Operations
+title: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-300T03-A: Migración de datos y preparación para salir en vivo con Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-300T03-A: Migración de datos y preparación para salir en vivo con Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
 uid: course.mb-300t03
 courseNumber: 'MB-300T03-A'
 hoursToComplete: 24
@@ -22,26 +22,25 @@ exams:
 - uid: exam.mb-300
 summary: |-
   Las organizaciones usan Dynamics 365 for Finance and Operations para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos.
-
   Este curso trata sobre la migración de datos y la preparación para la puesta en marcha de Microsoft Dynamics 365 for Finance and Operations.
-
+  
   #### Perfil de audiencia
   Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
   Comprensión básica de los conceptos de ERP y CRM.
 outlineSection: |-
-  ### Módulo 1&#58; Preparar datos para la migración y migrar datos
+  ### M?dulo 1&#58; Preparar datos para la migración y migrar datos
   Esta unidad explora patrones de integración, escenarios y soluciones para Finance and Operations. Aunque esta unidad no incluye detalles técnicos sobre cómo usar o configurar cada patrón de integración o cómo trabajar con código de muestra, siempre es conveniente conocer las herramientas de integración disponibles.
   #### Lecciones
   - Introducción
   - Comprender la función BYOD
   - Realizar una migración de prueba y validar la salida
-  - Resumen del módulo
-  
-  Cuando llega el momento de la migración de datos, cuanto más se sepa, más fácil será controlar la complejidad operativa y reducir los costos. La continuidad del negocio del cliente debe ser la prioridad. En este módulo, los estudiantes aprenderán cómo preparar los datos para una migración exitosa mediante la identificación de factores importantes, como los sistemas heredados y los datos estáticos y comunes.
-  
-  
-  En este módulo, los estudiantes aprendieron cómo&#58;
+  - Resumen del m?dulo
+
+  Cuando llega el momento de la migración de datos, cuanto más se sepa, más fácil será controlar la complejidad operativa y reducir los costos. La continuidad del negocio del cliente debe ser la prioridad. En este m?dulo, los estudiantes aprenderán cómo preparar los datos para una migración exitosa mediante la identificación de factores importantes, como los sistemas heredados y los datos estáticos y comunes.
+
+
+  En este m?dulo, los estudiantes aprendieron cómo&#58;
   - Elegir una estrategia de integración de datos (importación/exportación)
   - Identificar escenarios y herramientas de migración comunes en Finance and Operations
   - Comprenda la función de traer su propia base de datos (BYOD)
@@ -53,10 +52,9 @@ outlineSection: |-
   - Generar mapeo de campo entre las estructuras de datos de origen y destino
   - Realizar una migración de prueba y validar la salida
   - Dar soporte a la transición entre los sistemas existentes y migrados
-
-
-  ### Módulo 2&#58; Usar gestión de datos
-  En este módulo, los estudiantes obtendrán una visión general de los conceptos básicos de la plataforma de gestión de datos. Los estudiantes también aprenderán cómo importar y exportar datos en Dynamics 365 for Finance and Operations utilizando el espacio de trabajo de administración de datos.
+  
+  ### M?dulo 2&#58; Usar gestión de datos
+  En este m?dulo, los estudiantes obtendrán una visión general de los conceptos básicos de la plataforma de gestión de datos. Los estudiantes también aprenderán cómo importar y exportar datos en Dynamics 365 for Finance and Operations utilizando el espacio de trabajo de administración de datos.
 
   Finalmente, aprenderán a usar las funciones de integración asíncrona recurrente de la plataforma de gestión de datos. El marco de administración de datos se puede usar para administrar entidades de datos y paquetes de entidades de datos en Finance and Operations.
   #### Lecciones
@@ -66,10 +64,10 @@ outlineSection: |-
   - Plantillas en gestión de datos
   - Importar, exportar y copiar datos en una entidad legal
   - Laboratorios de práctica
-  - Resumen del módulo
-  
+  - Resumen del m?dulo
 
-  En este módulo, los estudiantes aprendieron cómo&#58;
+
+  En este m?dulo, los estudiantes aprendieron cómo&#58;
   - Identificar el patrón correcto para un escenario determinado para usar la plataforma de gestión de datos para la integración mediante el uso de entidades de datos
   - Trabajar con el espacio de trabajo de gestión de datos
   - Exportar datos de una entidad legal
@@ -78,7 +76,7 @@ outlineSection: |-
   - Limpiar las tablas de ensayo
 
 
-  ### Módulo 3&#58; Realizar pruebas de aceptación del usuario
+  ### M?dulo 3&#58; Realizar pruebas de aceptación del usuario
   Para probar y evaluar la solución del cliente antes de la puesta en marcha, es necesario tener un entorno de Dynamics 365 for Finance and Operations que tenga todas las configuraciones y posibles personalizaciones a través de extensiones.
 
   Siempre es beneficioso tener una metodología para garantizar que la creación y las pruebas se organicen y planifiquen adecuadamente para escenarios de casos de prueba cortos, eficientes y centrados en roles.
@@ -86,10 +84,10 @@ outlineSection: |-
   - Introducción
   - Crear y realizar casos de prueba para la aceptación del usuario
   - Laboratorio de práctica
-  - Resumen del módulo
-  
+  - Resumen del m?dulo
 
-  En este módulo, los estudiantes aprendieron sobre&#58;
+
+  En este m?dulo, los estudiantes aprendieron sobre&#58;
   - Cómo entender la correlación entre casos de prueba y requisitos comerciales
   - Mejores prácticas para registrar casos de prueba
   - Grabador de tareas
@@ -98,7 +96,7 @@ outlineSection: |-
   - Cómo ejecutar pruebas
 
 
-  ### Módulo 4&#58; Preparación para la puesta en marcha
+  ### M?dulo 4&#58; Preparación para la puesta en marcha
   Todo el trabajo duro se convierte en un éxito al trasladar la solución implementada en Dynamics 365 for Finance and Operations al entorno de producción. Esta es una etapa crucial y final de esta emocionante experiencia de completar una implementación.
 
   El objetivo es un cliente satisfecho, una solución de calidad y tranquilidad durante esta importante fase, que se conoce como puesta en marcha. No se puede garantizar el éxito sin saber cómo prepararse para la puesta en marcha de Finance and Operations y la etapa final de implementación.
@@ -106,10 +104,10 @@ outlineSection: |-
   #### Lecciones
   - Introducción
   - Prepararse para la puesta en marcha
-  - Resumen del módulo
-  
+  - Resumen del m?dulo
 
-  En este módulo, los estudiantes habrán aprendido cómo&#58;
+
+  En este m?dulo, los estudiantes habrán aprendido cómo&#58;
   - Prepararse para la puesta en marcha
   - Completar la metodología de Lifecycle Services (LCS)
   - Realizar pruebas de aceptación del usuario (UAT) para su solución
@@ -117,12 +115,13 @@ outlineSection: |-
   - Solicitar el entorno de producción.
 
 
-  ### Módulo 5&#58; Conclusión del curso
+  ### M?dulo 5&#58; Conclusión del curso
   Evaluación final y resumen del curso, así como una encuesta posterior al curso.
   #### Lecciones
   - Evaluación final
   - Resumen del curso
   - Encuesta posterior al curso
-  
+
 
   Los estudiantes habrán completado el curso.
+

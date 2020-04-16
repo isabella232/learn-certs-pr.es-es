@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: Dynamics 365 for customer engagement for sales
+title: Microsoft Dynamics 365 Sales
 metadata:
-  title: 'Curso MB-210T01-A: Dynamics 365 for customer engagement for sales'
-  description: 'Curso MB-210T01-A: Dynamics 365 for customer engagement for sales'
+  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
-courseNumber: 'MB-210T01-A'
+courseNumber: 'MB-210T01'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -28,9 +28,8 @@ exams:
 - uid: exam.mb-210
 summary: |-
   Microsoft Dynamics 365 for Sales es una aplicación de extremo a extremo para administrar el manejo de clientes y clientes potenciales; ayuda a rastrear los datos contra los objetivos de ventas, automatizando las mejores prácticas, aprendiendo de los datos y más.
-
   Nuestro equipo de expertos reconocidos a nivel mundial lleva a los estudiantes paso a paso, desde el líder hasta la oportunidad y el trato cerrado. Usando las opciones de automatización y personalización disponibles de la aplicación, los estudiantes aprenderán cómo permitir que el personal de ventas sea su ser más productivo.
-
+  
   #### Perfil de audiencia
   Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
@@ -42,12 +41,9 @@ outlineSection: |-
   - Resumen de ventas
   - Configuración de ventas
   - Resumen del módulo
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Instalar y configurar la aplicación de ventas
   - Identificar escenarios de ventas comunes
-
-
   ### Módulo 2&#58; Trabajando con oportunidades
   En este módulo, los estudiantes aprenderán cómo administrar registros de datos de clientes, usar herramientas de ventas integradas y aprovechar una oportunidad.
   #### Lecciones
@@ -90,3 +86,4 @@ outlineSection: |-
   - Crear y usar objetivos
   - Integrar con PowerBI
   - Habilitar la funcionalidad de AI de ventas
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Configuring Windows 10
 metadata:
-  title: 'Curso MD-100T02-A: Configurar Windows 10'
-  description: 'Curso MD-100T02-A: Configurar Windows 10'
+  title: 'Course MD-100T02-A: Configuring Windows 10'
+  description: 'Course MD-100T02-A: Configuring Windows 10'
 uid: course.md-100t02
 courseNumber: 'MD-100T02-A'
 hoursToComplete: 48
@@ -27,17 +27,22 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  En este curso, los estudiantes aprenderán cómo apoyar las tareas de configuración asociadas con Windows 10. Los estudiantes desarrollarán habilidades que incluyen la administración de almacenamiento, archivos, controladores e impresoras, así como también cómo configurar la
+  En
+  este curso, los estudiantes aprenderán cómo apoyar las tareas de configuración
+  asociadas con Windows 10. Los estudiantes desarrollarán habilidades que incluyen la administración de
+  almacenamiento, archivos, controladores e impresoras, así como también cómo configurar la
   conectividad de red para Windows 10. Este curso también cubrirá la administración e implementación de
   aplicaciones.
-
+  
   #### Perfil de audiencia
-  Los candidatos para este examen son profesionales de TI que realizan la instalación, configuración,
+  Los candidatos
+  para este examen son profesionales de TI que realizan la instalación, configuración,
   administración local general y mantenimiento de los servicios principales de Windows 10.
   Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la
   nube.
 prerequisitesSection: |-
-  Los candidatos para este examen son profesionales de TI que realizan la instalación, configuración,
+  Los candidatos
+  para este examen son profesionales de TI que realizan la instalación, configuración,
   administración local general y mantenimiento de los servicios principales de Windows 10.
   Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la
   nube.
@@ -52,8 +57,7 @@ outlineSection: |-
   - Instalar un controlador de dispositivo
   - Describir conceptos de gestión de impresoras
   - Configurar la impresión del lado del cliente y administrar las propiedades del servidor de impresión
-
-
+  
   ### Módulo 2&#58; Configurar redes
   En este módulo, los estudiantes aprenderán sobre conceptos de redes. Este módulo presentará IPv4 e IPv6 y conceptos como DNS.  Los estudiantes aprenderán cómo establecer las configuraciones de red en Windows, así como también aprenderán sobre las tecnologías de red inalámbricas. El módulo concluirá con métodos para administrar Windows de forma remota.
   #### Lecciones
@@ -118,3 +122,4 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Laboratorio calificado
+

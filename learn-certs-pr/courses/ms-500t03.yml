@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementación de Microsoft 365 Information Protection
+title: Implementing Microsoft 365 Information Protection
 metadata:
-  title: 'Curso MS-500T03-A: Implementación de Microsoft 365 Information Protection'
-  description: 'Curso MS-500T03-A: Implementación de Microsoft 365 Information Protection'
+  title: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  description: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
@@ -32,9 +32,8 @@ summary: |-
   
   #### Perfil de audiencia
   Este curso es para el rol de administrador de seguridad de Microsoft 365. Este rol colabora con el Administrador corporativo de Microsoft 365 las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización. 
-  
+
   Este rol asegura proactivamente los entornos empresariales de Microsoft 365. Las responsabilidades incluyen responder a amenazas, implementar, administrar y monitorear soluciones de seguridad y cumplimiento para el entorno de Microsoft 365. Responden a incidentes, investigaciones y aplicación de la gobernanza de datos.
-  
   El administrador de seguridad de Microsoft 365 está familiarizado con las cargas de trabajo de Microsoft 365 y tiene fuertes habilidades y experiencia con la protección de identidad, protección de información, protección contra amenazas, gestión de seguridad y gobierno de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
 prerequisitesSection: |-
   Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
@@ -54,12 +53,10 @@ outlineSection: |-
   - Protección de la información de Azure
   - Protección de información avanzada
   - Protección de la información de Windows
-
   #### Laboratorio &#58; Prevención de pérdida de datos
   - Crear y licenciar usuarios en su organización
   - Configurar la inscripción automática de MDM
   - Configurar AIP y WIP
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir las diferentes opciones de cifrado de Microsoft 365.
   - Describir el uso de S/MIME.
@@ -113,3 +110,4 @@ outlineSection: |-
   - Usar el panel de Cloud Discovery.
   - Prepárese para Office 365 Cloud App Security.
   - Administrar permisos de aplicaciones en la nube.
+

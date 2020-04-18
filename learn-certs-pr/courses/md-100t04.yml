@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Mantener Windows 10
+title: Maintaining Windows 10
 metadata:
-  title: 'Curso MD-100T04-A: Mantener Windows 10'
-  description: 'Curso MD-100T04-A: Mantener Windows 10'
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
 uid: course.md-100t04
 courseNumber: 'MD-100T04-A'
 hoursToComplete: 24
@@ -28,11 +28,11 @@ exams:
 - uid: exam.md-100
 summary: |-
   En este curso, los estudiantes aprenderán cómo administrar y solucionar problemas de Windows 10. Este curso profundizará en la arquitectura y las herramientas utilizadas para administrar, monitorear y solucionar problemas del sistema operativo, las aplicaciones y el hardware. Los estudiantes aprenderán sobre la metodología proactiva y de solución de problemas, y cómo identificar y mitigar problemas comunes.
-
+  
   #### Perfil de audiencia
   Los candidatos a este examen son profesionales de TI que realizan la instalación, configuración, gestión local general y mantenimiento de los servicios principales de Windows 10. Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la nube.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Conocimientos básicos de redes informáticas y conceptos de hardware.
   - Comprensión básica del sistema operativo y los conceptos de aplicación.
   - Experiencia con el uso del sistema operativo Windows.
@@ -42,12 +42,9 @@ outlineSection: |-
   #### Lecciones
   - Solución de problemas de Windows
   - Herramientas de solución de problemas
-  
   #### Laboratorio &#58; Laboratorio de práctica&#58; Monitoreo de Windows 10
   - Monitoreo de eventos
   - Monitoreo de confiabilidad y rendimiento
-
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir la arquitectura de Windows
   - Describir las etapas clave en la resolución de problemas
@@ -120,3 +117,4 @@ outlineSection: |-
 
 
   #### Laboratorio &#58; Laboratorio calificado
+

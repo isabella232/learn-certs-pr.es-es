@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Windows 10
 metadata:
-  title: 'Curso MD-100T00-A: Windows 10'
-  description: 'Curso MD-100T00-A: Windows 10'
+  title: 'Course MD-100T00-A: Windows 10'
+  description: 'Course MD-100T00-A: Windows 10'
 uid: course.md-100t00
 courseNumber: 'MD-100T00-A'
 hoursToComplete: 120
@@ -34,7 +34,7 @@ exams:
 - uid: exam.md-100
 summary: |-
   En este curso, los estudiantes aprenderán a admitir y configurar escritorios de Windows 10 en un entorno organizacional. Los estudiantes desarrollarán habilidades que incluyen aprender a instalar, personalizar y actualizar los sistemas operativos Windows 10. Los estudiantes aprenderán cómo administrar el almacenamiento, los archivos y los dispositivos, y cómo configurar la conectividad de red para Windows 10. Los estudiantes también aprenderán cómo proteger el sistema operativo Windows 10 y proteger los datos en el dispositivo. Finalmente, los estudiantes aprenderán cómo administrar y solucionar problemas de Windows 10.
-
+  
   #### Perfil de audiencia
   Los candidatos a este examen son profesionales de TI que realizan la instalación, configuración, gestión local general y mantenimiento de los servicios principales de Windows 10. Los candidatos también pueden estar familiarizados con escenarios empresariales y servicios integrados en la nube.
 prerequisitesSection: |-
@@ -50,17 +50,13 @@ outlineSection: |-
   - Opciones de implementación
   - Actualización a Windows 10
   - Herramientas de implementación
-  
   #### Laboratorio &#58;  Actualización in situ de Win7 a Win 10
-
   #### Laboratorio &#58; Migración de la configuración de usuario con USMT
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender las diferentes ediciones y características de Windows 10.
   - Comprender las opciones de instalación del cliente de Windows 10.
   - Practica la instalación de Windows 10.
   - Migrar contenido con la Herramienta de migración de estado de usuario.
-
 
   ### Módulo 2&#58; Configuración y personalización posteriores a la instalación
   Este módulo cubre tareas comunes posteriores a la instalación en Windows 10. Los estudiantes aprenderán a personalizar la interfaz de usuario, así como a usar el panel de control y la aplicación de configuración para configurar los ajustes comunes del sistema operativo. Este curso también presentará a los estudiantes a Windows PowerShell.  Este módulo cubrirá cómo funcionan los controladores de dispositivos. También se les presentará a los estudiantes la administración y configuración de periféricos de hardware como impresoras.
@@ -78,11 +74,10 @@ outlineSection: |-
   #### Laboratorio &#58; Uso de PowerShell para configurar Windows
 
   #### Laboratorio &#58; Administrar impresoras locales y de red
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Personaliza la interfaz de usuario de Windows 10
   - Configurar ajustes específicos del dispositivo, como planes de energía y opciones de dispositivos móviles.
-  - Use el panel de control de Windows y la aplicación de configuración para configurar los ajustes.
+  - Usar el panel de control de Windows y la aplicación de configuración para configurar los ajustes
   - Realizar tareas con Windows PowerShell.
   - Describir conceptos relacionados con los controladores.
   - Describir conceptos de gestión de impresoras.
@@ -313,3 +308,4 @@ outlineSection: |-
   - Solucionar problemas y remediar problemas de controladores.
   - Solucionar problemas de periféricos
   - Diagnosticar y reemplazar hardware.
+

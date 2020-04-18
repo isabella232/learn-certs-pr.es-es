@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Diseñar una estrategia de infraestructura
+title: Designing an Infrastructure Strategy
 metadata:
-  title: 'Curso AZ-301T04-A: Diseñar una estrategia de infraestructura'
-  description: 'Curso AZ-301T04-A: Diseñar una estrategia de infraestructura'
+  title: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
+  description: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
 uid: course.az-301t04
 courseNumber: 'AZ-301T04-A'
 hoursToComplete: 24
@@ -47,7 +47,7 @@ exams:
 - uid: exam.az-301
 summary: |-
   Aprenda a describir estrategias de DNS e IP para redes virtuales en Azure, compare las opciones de conectividad para conectividad ad-hoc e híbrida, distribuya el tráfico de red a través de múltiples cargas utilizando equilibradores de carga y diseñe un escenario de conectividad híbrida entre la nube y las instalaciones.
-
+  
   #### Perfil de audiencia
   Los arquitectos exitosos de Cloud Solutions comienzan este rol con experiencia práctica en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
 outlineSection: |-
@@ -57,10 +57,9 @@ outlineSection: |-
   - Localizar y consultar la documentación de Patrones de diseño en la nube.
   - Localizar y hacer referencia al Centro de arquitectura de Azure
   - Describir varios patrones extraídos de los patrones de diseño de la nube.
-
+  
   ### Módulo 2&#58; Creación de aplicaciones de servidor basadas en IaaS de Azure (ADSK)
   Este módulo identifica las cargas de trabajo que se implementan idealmente usando los servicios de Infraestructura como servicio en Azure. El módulo se centra en los conjuntos de escalas de máquinas virtuales (VM) y los servicios de VM en Azure y cómo implementar mejor las cargas de trabajo en estos servicios utilizando las mejores prácticas y características como los conjuntos de disponibilidad.
-
   #### Laboratorio &#58; Creación de aplicaciones de servidor basadas en IaaS de Azure.
   Después de completar este módulo, los estudiantes podrán&#58;
   - Diseñar un conjunto de disponibilidad para una o más máquinas virtuales.
@@ -88,3 +87,4 @@ outlineSection: |-
   - Comparar las colas de almacenamiento de colas de servicio de autobuses.
   - Identificar cuándo usar Azure Functions o Logic Apps para componentes de integración en una solución.
   - Describir las diferencias entre IoT Hubs, Event Hubs y Time Series Insights
+

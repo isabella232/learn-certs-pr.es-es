@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+uid: course.mb-240t00
+courseNumber: 'MB-240T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar los componentes clave involucrados en las implementaciones de servicios de campo.
+- skill: Definir los productos y servicios que se entregarán a los clientes.
+- skill: Determinar qué opciones de precios usar en escenarios específicos.
+- skill: Determinar qué recursos se requieren.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 Field Service ayuda a las organizaciones a posicionarse mejor en el mercado al proporcionar una variedad de herramientas que ayudan a identificar y programar recursos y administrar cargas de trabajo para trabajadores móviles. Este curso proporcionará a los estudiantes con las habilidades necesarias para identificar y configurar los componentes clave que se utilizan para entregar el Servicio de campo y las soluciones móviles. Los temas clave incluyen la identificación de las consideraciones organizativas que impulsarán las decisiones de configuración y los aspectos de configuración comunes.
+  Este curso ayuda a los estudiantes a comprender mejor el panorama general y los objetivos finales centrados en implementaciones que ayudan a diseñar soluciones más eficientes que se alineen con los objetivos del cliente y de la organización.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para profesionales de TI con experiencia o interés en ofrecer soluciones de servicio de campo para clientes de gran escala.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar servicio de campo
+  En este módulo introductorio, presentaremos conceptos clave de Dynamics 365 Field Service, incluidos productos, servicios y códigos impositivos.
+  #### Lecciones
+  - Introducción a la configuración del servicio de campo
+  - Definición de productos y servicios
+  - Definir códigos de impuestos
+
+  Tú podrán&#58;
+  - Crear y gestionar productos y servicios.
+  - Configurar los códigos de impuestos para su organización
+
+
+  ### Módulo 2&#58; Configuración de programación de recursos
+  En este módulo, exploraremos el concepto de programación de recursos y aprenderemos cómo configurar el sistema para programar recursos de manera eficiente.
+  #### Lecciones
+  - Mapeo e información de ubicación
+  - Configuración de componentes de recursos
+  - Definición de preferencias de cuenta
+
+  Tú podrán&#58;
+  - Configurar la programación de recursos para su organización
+  - Definir preferencias de cuenta
+  - Habilitar mapeo de ubicación
+
+
+  ### Módulo 3&#58; Definición y configuración de recursos reservables
+  En este módulo, aprenderemos cómo crear y administrar recursos reservables, incluidos grupos de recursos y equipos.
+  #### Lecciones
+  - Definición de recursos reservables
+  - Grupos de recursos equipos e instalaciones
+
+  Tú podrán&#58;
+  - Definir recursos reservables
+  - Crear grupos y equipos
+  - Administrar registros de instalaciones
+
+
+  ### Módulo 4&#58; Configurar incidentes
+  En este módulo, aprenderemos cómo los incidentes pueden mejorar la eficiencia de programación y la consistencia de su organización.
+  #### Lecciones
+  - Crear un incidente
+  - Uso de tareas de servicio
+
+  Tú podrán&#58;
+  - Crear un incidente para tareas de servicio comunes
+  - Programar mediante incidentes
+
+
+  ### Módulo 5&#58; Gestión de inventario y órdenes de trabajo
+  En este módulo, aprenderemos cómo crear y usar órdenes de trabajo para programar recursos.
+  #### Lecciones
+  - Configurar las órdenes de trabajo del servicio de campo
+  - Crear órdenes de trabajo
+  - Gestión de órdenes de trabajo
+
+  Tú podrán&#58;
+  - Configurar las órdenes de trabajo
+  - Programar recursos mediante órdenes de trabajo
+
+
+  ### Módulo 6&#58; Acuerdos de servicio de campo
+  En este módulo, presentaremos acuerdos y aprenderemos cómo configurarlos para su organización.
+  #### Lecciones
+  - Uso de acuerdos de servicios de campo
+  - Configurar reservas
+  - Configurar facturas
+
+  Tú podrán&#58;
+  - Usar un acuerdo para programar órdenes de trabajo
+  - Generar facturas para clientes
+
+
+  ### Módulo 7&#58; Inventario y compras
+  En este módulo, aprenderemos sobre la gestión de los activos de los clientes.
+  #### Lecciones
+  - Administrar activos de clientes
+  - Administrar inventario
+  - Compras y devoluciones
+
+  Tú podrán&#58;
+  - Crear registros de activos del cliente
+  - Gestionar inventario, compras y devoluciones
+
+
+  ### Módulo 8&#58; Servicio de campo móvil
+  En este módulo, aprenderemos cómo usar y configurar la aplicación móvil Field Service para una fuerza laboral móvil.
+  #### Lecciones
+  - Descripción general del cliente móvil
+  - Instalar e implementar proyectos móviles de servicio de campo
+  - Gestionar proyectos móviles
+  - Implementar el cliente móvil
+
+  Tú podrán&#58;
+  - Gestionar proyectos móviles
+  - Instalar e implementar el cliente móvil
+  - Describir el valor de la aplicación móvil para una fuerza laboral móvil
+
+
+  ### Módulo 9&#58; Universal Resource Scheduling
+  En este módulo, presentaremos el concepto de Programación universal de recursos y describiremos cómo se puede aprovechar para una organización.
+  #### Lecciones
+  - Descripción general y configuración de URS
+  - Entidades habilitadoras para URS
+  - Personalizar entidades para URS
+
+  Tú podrán&#58;
+  - Describir la programación universal de recursos
+  - Habilitar una entidad para URS
+
+
+  ### Módulo 10&#58; Administrar opciones de programación
+  En este módulo, aprenderemos cómo usar el tablero de programación para reprogramar, sustituir recursos y programar grupos y tripulaciones.
+  #### Lecciones
+  - Uso del tablero de programación
+  - Programar objetos
+  - Reprogramación y sustitución de recursos
+  - Programar grupos y equipos
+
+  Tú podrán&#58;
+  - Configurar y usar el tablero de programación para programar recursos
+  - Reprogramar órdenes de trabajo
+  - Sustituir recursos
+
+
+  ### Módulo 11&#58; Personalizar el tablero de programación
+  En este módulo, aprenderemos cómo configurar la tabla de programación para satisfacer mejor las necesidades de la organización o la agenda.
+  #### Lecciones
+  - Configurar el panel
+  - Crear tableros de programación adicionales
+  - Usar vistas para mejorar el tablero de programación
+  - Configuración de consultas y filtros del tablero de programación
+  - Trabajar con grupos de requisitos
+
+  Tú podrán&#58;
+  - Personalizar el tablero de horarios
+  - Crear tableros adicionales
+  - Agregar vistas a un tablero de programación
+
+
+  ### Módulo 12&#58; Opciones de programación avanzadas
+  En este módulo, profundizaremos en las opciones para personalizar la programación de órdenes de trabajo basadas en requisitos comerciales únicos
+  #### Lecciones
+  - Trabajar con la optimización de la programación de recursos.
+  - Definición de objetivos de optimización
+  - Definición de ámbitos de optimización
+  - Definición de perfiles de optimización
+  - Programación de recursos únicos
+
+  Tú podrán&#58;
+  - Definir la optimización para una organización.
+  - Programar recursos únicos

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-320T03-A: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations'
-  description: 'Curso MB-320T03-A: Configurar y usar procesos de fabricación en Dynamics 365 para Finance and Operations'
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t03
 courseNumber: 'MB-320T03-A'
 hoursToComplete: 24
@@ -22,7 +22,6 @@ exams:
 summary: |-
   Las organizaciones usan Dynamics 365 for Finance and Operations para funcionar de manera más inteligente con operaciones conectadas seleccionando los procesos de fabricación más adecuados, mejorando los procedimientos operativos, simplificando la gestión de recursos, acelerando la entrega de productos y aumentando la calidad y la satisfacción del cliente.
   Este curso trata sobre cómo configurar y usar la fabricación de procesos en Dynamics 365 for Finance and Operations.
-
 prerequisitesSection: |-
   Comprensión básica de los conceptos de ERP y CRM.
 outlineSection: |-
@@ -36,14 +35,12 @@ outlineSection: |-
   - Configurar proveedores aprobados
   - Laboratorios de práctica
   - Resumen del módulo
-  
   En este módulo los alumnos aprendieron&#58;
   - Comprender la fabricación de procesos
   - Comprender la gestión de fórmulas
   - Comprender los coproductos y subproductos
   - Comprender a los proveedores aprobados
-
-
+  
   ### Módulo 2&#58; Identificar y configurar atributos de lote para la fabricación de procesos
   Este tema explica cómo configurar los atributos de lote en Finance and Operations.
 
@@ -87,3 +84,4 @@ outlineSection: |-
 
 
   Los estudiantes habrán completado el curso.
+

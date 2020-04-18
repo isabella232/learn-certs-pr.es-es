@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Power Platform Fundamentals
+metadata:
+  title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+  description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+uid: course.pl-900t00
+courseNumber: 'PL-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-900
+summary: ""
+prerequisitesSection: |-
+  No hay requisitos previos para este curso.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Power Platform
+  Conozca los componentes de Power Platform, las formas de conectar datos y cómo las organizaciones pueden aprovechar esta tecnología para
+  #### Lecciones
+  - Información general de Power Platform
+  - Resumen del módulo
+  
+  Conozca los componentes y características de Power Platform
+  - Identifique cuándo usar cada aplicación de componentes de Power Platform para crear soluciones comerciales
+  - Conozca el valor de usar Power Platform para crear soluciones comerciales
+
+  ### Módulo 2&#58; Comience con Power Apps
+  Conozca el valor y las capacidades de PowerApps, y las formas en que otras organizaciones han aprovechado esta tecnología para crear aplicaciones simples para sus negocios.
+  #### Lecciones
+  - Descripción general de Power Apps
+  - Cómo construir una solución de aplicación
+
+
+  #### Laboratorio &#58; Cómo construir una aplicación básica de Canvas 1
+  - Crear la aplicación Staff Canvas
+  - Completar la aplicación
+  
+  #### Laboratorio &#58; Cómo construir una aplicación básica de Canvas 2
+  - Crear aplicación de seguridad de Canvas
+
+  Conozca qué es Power Apps y su valor comercial
+  - Aprenda cómo otras organizaciones digitalizan sus procesos usando Power Apps
+  - Vea Power Apps en acción y conozca las opciones para crear su primera aplicación
+
+
+  ### Módulo 3&#58; Introducción a Common Data Service
+  Common Data Service le permite profundizar en soluciones de datos potentes y escalables en la nube. Conozca qué hace que Common Data Service funcione y cómo puede funcionar con Power Platform para crear soluciones comerciales únicas y eficientes.
+  #### Lecciones
+  - Información general de Common Data Service
+  - Resumen del módulo
+
+
+  #### Laboratorio &#58; Modelado de datos
+  - Crear entorno y solución
+  - Crear entidades y relaciones
+  - Importar datos
+  
+  Explicar qué entornos, entidades, campos y relaciones están en Common Data Service.
+  - Describir la diferencia entre Common Data Service y Common Data Model.
+  - Explicar los casos de uso y las limitaciones de las reglas de negocio y los flujos de procesos.
+
+
+  ### Módulo 4&#58; Comenzar con Power Automate
+  Descubra cómo los usuarios pueden aprovechar Power Automate para mejorar la eficicacia y la productividad del negocio.
+  #### Lecciones
+  - Descripción general de Power Automate
+  - Cómo construir una solución automatizada
+
+
+  #### Laboratorio &#58; Construya un flujo simple
+  - Crear flujo de notificación de visita
+  - Crear flujo de barrido de seguridad
+
+  Conozca el valor comercial y las características de Power Automate
+  - Vea cómo funciona Power Automate y se ve desde la perspectiva del usuario
+  - Construir un flujo simple
+
+
+  ### Módulo 5&#58; Comience con Power BI
+  Aprenda cómo las organizaciones pueden usar Power BI para limpiar, mostrar y comprender datos fácilmente para garantizar decisiones mejor informadas.
+  #### Lecciones
+  - Información general de Power BI
+  - Cómo construir un panel simple
+
+
+  #### Laboratorio &#58; Cree un Power BI Report
+  Describa el valor comercial y las características de Power BI
+  - Vea cómo funciona y se ve Power BI desde la perspectiva del usuario
+  - Aprenda a crear un panel simple de Power BI

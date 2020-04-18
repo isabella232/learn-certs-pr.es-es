@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementación de aplicaciones de servicio de SharePoint 2019
+title: Implementing SharePoint 2019 Service Applications
 metadata:
-  title: 'Curso MS-301T02-A: Implementación de aplicaciones de servicio de SharePoint 2019'
-  description: 'Curso MS-301T02-A: Implementación de aplicaciones de servicio de SharePoint 2019'
+  title: 'Course MS-301T02-A: Implementing SharePoint 2019 Service Applications'
+  description: 'Course MS-301T02-A: Implementing SharePoint 2019 Service Applications'
 uid: course.ms-301t02
 courseNumber: 'MS-301T02-A'
 hoursToComplete: 48
@@ -36,19 +36,19 @@ exams:
 - uid: exam.ms-301
 summary: |-
   SharePoint Server 2019 está diseñado para satisfacer las demandas de los estilos de trabajo modernos. Proporciona las nuevas experiencias modernas para los usuarios, que son intuitivas y familiares en SharePoint Online. En este curso aprenderá a planificar, configurar y administrar aplicaciones de servicio en SharePoint 2019, como metadatos administrados, servicios de conectividad empresarial y búsqueda empresarial.
-  
-  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización.
-  
-  Este es el segundo de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301; Implementación de SharePoint Server Hybrid.
 
+  Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de trabajo en equipo en su organización.
+
+  Este es el segundo de una serie de cuatro cursos para el administrador de trabajo en equipo, Estos cursos ayudan a prepararse para el examen MS-301&#58; Implementación de SharePoint Server Hybrid.
+  
   #### Perfil de audiencia
   Este curso es para el rol de administrador de trabajo en equipo de Microsoft 365. El rol es responsable de configurar, implementar y administrar las cargas de trabajo de Office 365 y Azure que se centran en una colaboración y adopción eficiente y efectiva. Ellos administran las aplicaciones, los servicios y la infraestructura de soporte para cumplir con los requisitos comerciales. El administrador conoce y puede diferenciar entre productos y servicios, pero es posible que no administre directamente cada producto o servicio.
-  
+
   El administrador de Teamwork debe poder implementar, administrar, migrar y proteger SharePoint (en línea, local e híbrido), OneDrive y Equipos.
-  
-  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios: Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
+
+  El administrador de trabajo en equipo tiene una comprensión fundamental de los puntos de integración con las siguientes aplicaciones y servicios&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner y Project. El administrador entiende cómo integrar aplicaciones y servicios de terceros, incluidas las aplicaciones de línea de negocio.
 prerequisitesSection: |-
-  Los estudiantes deben comenzar este curso con las siguientes habilidades.&#58;
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
   - Experiencia con Windows PowerShell.
   - Comprensión básica de la administración de SQL Server.
   - Conocimientos básicos de redes, incluido DNS.
@@ -62,7 +62,6 @@ outlineSection: |-
   - Aplicaciones de servicio de SharePoint y flujo de trabajo
   - Planificar y configurar los Servicios de conectividad empresarial (BCS) y el Almacén seguro
   - Planificar y configurar perfiles de usuario
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar los componentes clave de un modelo BDC.
   - Describir la arquitectura de alto nivel de BCS.
@@ -75,10 +74,9 @@ outlineSection: |-
   - Describir cómo configurar Mis sitios en SharePoint 2019.
   - Describir cómo configurar la aplicación de servicio de perfil de usuario.
   - Describir cómo planear la importación y sincronización de SharePoint Active Directory.
-
+  
   ### Módulo 2&#58; Planificar y configurar metadatos gestionados
   Este módulo trata sobre las funcionalidades integrales, como el Servicio de metadatos administrados, los tipos de contenido y los conjuntos de términos, que le permiten crear y difundir una arquitectura de información. Introduce el propósito de los tipos de contenido, así como los conceptos detrás del servicio de metadatos administrados, incluidas las taxonomías, los conjuntos de términos y las palabras clave empresariales.
-
   #### Lecciones
   - Administrar tipos de contenido
   - Metadatos gestionados
@@ -115,3 +113,4 @@ outlineSection: |-
   ### Módulo 4&#58; Conclusión del curso
 
   #### Laboratorio &#58; Configurar la búsqueda empresarial
+

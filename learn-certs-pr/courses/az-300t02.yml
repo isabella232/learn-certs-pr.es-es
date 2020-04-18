@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar cargas de trabajo y seguridad
+title: Implementing Workloads and Security
 metadata:
-  title: 'Curso AZ-300T02-A: Implementar cargas de trabajo y seguridad'
-  description: 'Curso AZ-300T02-A: Implementar cargas de trabajo y seguridad'
+  title: 'Course AZ-300T02-A: Implementing Workloads and Security'
+  description: 'Course AZ-300T02-A: Implementing Workloads and Security'
 uid: course.az-300t02
 courseNumber: 'AZ-300T02-A'
 hoursToComplete: 24
@@ -45,32 +45,28 @@ exams:
 - uid: exam.az-300
 summary: |-
   Este curso enseña a los profesionales de TI cómo descubrir, evaluar, planificar e implementar una migración de recursos locales Los estudiantes aprenderán cómo usar Azure Migrate para realizar la fase de descubrimiento y evaluación que es crítica para una migración exitosa. Los estudiantes también aprenderán cómo usar Azure Site Recovery para realizar la migración real de las cargas de trabajo a Azure. El curso se centra principalmente en el uso de ASR en una infraestructura Hyper-V para preparar y completar el proceso de migración. 
-  
-  Además, los estudiantes aprenderán cómo implementar funciones informáticas sin servidor como Azure Functions, Event Grid y Service Bus. Los estudiantes aprenderán cómo Azure Multi-Factor Authentication ayuda a proteger el acceso a datos y aplicaciones, ayudando a satisfacer la demanda de los clientes de un proceso de inicio de sesión simple. Además, los estudiantes aprenderán cómo usar la Administración de identidad privilegiada de Azure Active Directory para administrar, controlar y monitorear el acceso a los recursos de Azure dentro de su organización.
-  
-  Vea cómo administrar y mantener la infraestructura para las aplicaciones y servicios web centrales que los desarrolladores crean e implementan. Los estudiantes aprenderán cómo se usa el Servicio de aplicaciones de Azure como una oferta de Plataforma como servicio (PaaS) para implementar aplicaciones en la nube y dispositivos móviles.
-  
+  Además, los estudiantes aprenderán cómo implementar funciones informáticas sin servidor como Azure Functions, Event Grid y Service Bus. Los estudiantes aprenderán cómo Azure Multi-Factor Authentication ayuda a proteger el acceso a datos y aplicaciones, ayudando a satisfacer la demanda de los clientes de un proceso de inicio de sesión simple. Además, los estudiantes aprenderán cómo usar la Administración de identidad privilegiada de Azure Active Directory para administrar, controlar y monitorear el acceso a los recursos de Azure dentro de su organización
+  Vea cómo administrar y mantener la infraestructura para las aplicaciones y servicios web centrales que los desarrolladores crean e implementan. Los estudiantes aprenderán cómo se usa el Servicio de aplicaciones de Azure como una oferta de Plataforma como servicio (PaaS) para implementar aplicaciones en la nube y dispositivos móviles
   Por último, los estudiantes podrán ver cómo implementar funciones de red avanzadas como Application Gateway; cómo configurar el equilibrio de carga; integración de redes locales con redes virtuales de Azure; y cómo usar Network Watcher para monitorear y solucionar problemas.
-
+  
   #### Perfil de audiencia
   Los arquitectos exitosos de Azure Solutions comienzan este rol con experiencia en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, facturación y redes.
 outlineSection: |-
   ### Módulo 1&#58; Evaluar y realizar la migración de servidor a Azure
   Este módulo cubre la migración de cargas de trabajo a un nuevo entorno, ya sea otro centro de datos o una nube pública, y establece objetivos claros para la migración. Los objetivos incluyen tanto objetivos centrados en la tecnología como en el negocio para las migraciones, y los beneficios para el negocio de una organización. Las actividades incluyen componentes del proceso &#58; de migración de Azure para crear un proyecto, crear un recopilador, evaluar la preparación y estimar los costos. Además, recibirá una descripción general de Azure Site Recovery (ASR) que incluye escenarios de extremo a extremo.
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Evaluar y realizar la migración de servidor a Azure
 
 
   ### Módulo 2&#58; Implementación y administración de servicios de aplicaciones
-  Este módulo incluye los siguientes temas&#58; Implementación de aplicaciones web&#58; Gestión de aplicaciones web&#58; Seguridad del servicio de aplicaciones&#58; Conceptos de computación sin servidor&#58; Gestión de cuadrícula de eventos&#58; Servicio de gestión de bus&#58; y la aplicación de gestión lógica.
+  Este módulo incluye los siguientes temas&#58; &#58; Implementación de aplicaciones web&#58; Gestión de aplicaciones web&#58; Seguridad del servicio de aplicaciones&#58; Conceptos de computación sin servidor&#58; Gestión de cuadrícula de eventos&#58; Servicio de gestión de bus&#58; y la aplicación de gestión lógica
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar y administrar los servidores de aplicación
 
 
   ### Módulo 3&#58; Redes virtuales avanzadas
-  Este módulo incluye los siguientes temas&#58; Azure Load Balancer&#58; Azure Application Gateway&#58; Conexiones VPN de sitio a sitio&#58; así como también una descripción general de ExpressRoute, que permite a las compañías extender redes locales a la nube de Microsoft a través de una conexión privada dedicada facilitada por un proveedor de conectividad.
+  Este módulo incluye los siguientes temas&#58; &#58; Azure Load Balancer&#58; Azure Application Gateway&#58; Conexiones VPN de sitio a sitio&#58; así como también una descripción general de ExpressRoute, que permite a las compañías extender redes locales a la nube de Microsoft a través de una conexión privada dedicada facilitada por un proveedor de conectividad.
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar redes virtuales avanzadas
@@ -81,3 +77,4 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Identidades seguras con Azure AD.
+

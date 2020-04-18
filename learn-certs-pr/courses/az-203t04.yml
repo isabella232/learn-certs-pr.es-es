@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar seguridad Azure
+title: Implement Azure security
 metadata:
-  title: 'Curso AZ-203T04-A: Implementar la seguridad de Azure'
-  description: 'Curso AZ-203T04-A: Implementar la seguridad de Azure'
+  title: 'Course AZ-203T04-A: Implement Azure security'
+  description: 'Course AZ-203T04-A: Implement Azure security'
 uid: course.az-203t04
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 24
@@ -29,7 +29,6 @@ exams:
 - uid: exam.az-203
 summary: |-
   En este curso, los estudiantes obtendrán el conocimiento y las habilidades necesarias para incluir los servicios de autenticación y autorización de Azure en sus soluciones de desarrollo Los estudiantes aprenderán cómo se administra y utiliza la identidad en las soluciones de Azure mediante el uso de la plataforma de identidad de Microsoft. Los estudiantes también aprenderán sobre el control de acceso (autorización basada en reclamos y control de acceso basado en roles) y cómo implementar soluciones de datos seguras. A lo largo del curso, los estudiantes aprenden a crear e integrar estos recursos mediante el uso de la CLI de Azure, REST y el código de la aplicación.
-
   #### Perfil de audiencia
   - Los estudiantes en este curso están interesados en el desarrollo de Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
   - Los estudiantes deben tener 1-2 años de experiencia como desarrolladores. Este curso asume que los estudiantes saben codificar y tienen un conocimiento fundamental de Azure.
@@ -45,18 +44,16 @@ outlineSection: |-
   - Implementación de identidades administradas para recursos de Azure
   - Implementación de a autenticación mediante el uso de certificados, autenticación basada en formularios o ToolKit
   - Implementación de la autenticación multifactor
-  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender la arquitectura de la plataforma de identidad de Microsoft
   - Implementar la autenticación OAuth2 en sus soluciones
-  - Utilizar Azure Key Quality para almacenar y recuperar información de autenticación
-
+  Utilizar Azure Key Quality para almacenar y recuperar información de autenticación
+  
   ### Módulo 2&#58; Implementación de control de acceso.
   Este módulo cubre el control de acceso basado en reclamos y roles.
   #### Lecciones
   - Autorización basada en reclamos
   - Autorización de control de acceso basado en roles (RBAC)
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Utilizar la autorización basada en notificaciones en sus soluciones de desarrollo.
   - Administrar el acceso a los recursos utilizando RBAC a través de la API REST
@@ -74,3 +71,4 @@ outlineSection: |-
   - Comprender las opciones de cifrado
   - Cifrar datos con cifrado de datos transparente
   - Administrar y utilizar claves de cifrado mediante el uso de la clave de Azure Vault
+

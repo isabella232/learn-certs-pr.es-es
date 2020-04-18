@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Identity Management
 metadata:
-  title: 'Curso MS-100T03-A: Microsoft 365 Identity Management'
-  description: 'Curso MS-100T03-A: Microsoft 365 Identity Management'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
@@ -35,7 +35,7 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Obtenga información sobre Microsoft 365 Identity Management, que incluye cómo administrar grupos de seguridad de usuarios y licencias para identidades en la nube, y cómo planificar e implementar la sincronización de identidades, identidades federadas, aplicaciones y acceso externo.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -48,14 +48,11 @@ outlineSection: |-
   - Administrar cuentas de usuario y licencias en Microsoft 365
   - Administrar roles de administrador y grupos de seguridad en Microsoft 365
   - Gestión de contraseñas en Microsoft 365
-  
-  
   #### Laboratorio &#58; Administrar su entorno de identidad de Microsoft 365
   - Ejercicio 1&#58; Configurar su entorno de laboratorio
   - Ejercicio 2&#58; Administrar su entorno de identidad de Microsoft 365 utilizando el centro de administración de Microsoft 365
   - Ejercicio 3&#58; Administrar su entorno de identidad de Microsoft 365 con Windows PowerShell
-
-
+  
   ### Módulo 2&#58; Planificación e implementación de sincronización de identidad
   #### Lecciones
   - Introducción a la sincronización de identidad
@@ -66,7 +63,7 @@ outlineSection: |-
 
   #### Laboratorio &#58; Implementación de sincronización de identidad
   - Ejercicio 1&#58; Configurar su organización para la sincronización de identidad
-  - Ejercicio 2&#58; Implementación de sincronización de identidad
+  - Ejercicio 2 - Implementación de sincronización de identidad
 
 
   ### Módulo 3&#58; Planificación e implementación de identidades federadas
@@ -81,3 +78,4 @@ outlineSection: |-
   - Implementar aplicaciones en Azure AD
   - Configurar el proxy de aplicación de Azure AD
   - Diseñar soluciones para acceso externo
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Fundamentos de Microsoft 365
+title: Microsoft 365 Fundamentals
 metadata:
-  title: 'Curso MS-900T01-A: Fundamentos de Microsoft 365'
-  description: 'Curso MS-900T01-A: Fundamentos de Microsoft 365'
+  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
@@ -41,7 +41,7 @@ summary: |-
 prerequisitesSection: |-
   Este curso está diseñado
   para profesionales de TI que aspiran a implementar y administrar servicios en la nube en su
-  organización. Los estudiantes deben tener los siguientes antecedentes;
+  organización. Los estudiantes deben tener los siguientes antecedentes&#58;
   - Conocimientos generales de TI o cualquier experiencia general trabajando en un entorno de TI
   - Experiencia general (nivel de ventas) en los productos locales de Microsoft correspondientes, como Exchange Server, SharePoint, Office Professional, AD RMS y otros
   - Experiencia en abordar los requisitos comerciales/legales/de seguridad para TI
@@ -51,11 +51,9 @@ outlineSection: |-
   - Principios de computación en la nube
   - Servicios en la nube de Microsoft
   - Migrar a servicios en la nube
-  
   #### Laboratorio &#58; Cloud Fundamentals
   - Ejercicio 1&#58; Determinar el modelo de nube apropiado (laboratorio en papel)
-
-
+  
   ### Módulo 2&#58; Servicios principales de Microsoft 365
   #### Lecciones
   - Servicios principales de Microsoft 365
@@ -95,3 +93,4 @@ outlineSection: |-
   - Ejercicio 1&#58; Explorar interfaces para facturación y suscripciones
   - Ejercicio 2&#58; Agregar licencias de prueba al inquilino
   - Ejercicio 3&#58; Revisar las opciones de soporte
+

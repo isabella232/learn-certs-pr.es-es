@@ -1,0 +1,63 @@
+﻿### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+uid: exam.mb-901
+displayName: MB-901
+summary: |-
+  Este examen cubrirá el posicionamiento y los beneficios de adoptar Dynamics 365.
+  
+  Los candidatos deben tener una comprensión funcional de las capacidades de Dynamics 365 y la computación en la nube de Microsoft.
+
+  Los candidatos de este examen deben tener conocimientos generales o experiencia laboral relevante en un entorno de tecnología de la información (IT). Los candidatos también deben tener una comprensión básica de los escenarios de negocios y experiencia en el cumplimiento de los requisitos comerciales, legales y de seguridad para proyectos de IT.
+subTitle: Este examen mide su capacidad para comprender Microsoft Dynamics 365; inteligencia artificial (IA); realidad mixta (MR); la plataforma de energía; conceptos de nubes; seguridad en la nube; seguridad basada en roles en Dynamics 365; Servicio de datos comunes; marco de gestión de datos; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
+locales:
+- en
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
+- beginner
+skills:
+- Identificar componentes de la plataforma Microsoft para Dynamics 365 (30-35%)
+- Comprender la inteligencia artificial y la realidad para Dynamics 365 (10-15%)
+- Comprender las aplicaciones basadas en modelos (25-30%)
+- Comprender las aplicaciones de Finanzas y Operaciones de Dynamics 365 (25-30%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

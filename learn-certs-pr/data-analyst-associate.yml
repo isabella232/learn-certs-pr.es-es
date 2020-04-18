@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Data Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Data Analyst Associate'
+  description: 'Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI.'
+uid: certification.data-analyst-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI. Como expertos en la materia, los analistas de datos son responsables de diseñar y construir modelos de datos escalables, limpiar y transformar datos, y habilitar capacidades analíticas avanzadas que brindan un valor comercial significativo a través de visualizaciones de datos fáciles de comprender.
+  
+  <div style='color&#58; red;'><br/><strong>Nota&#58; Esta certificación no estará disponible hasta el 2 de abril de 2020.</strong> Esta información no es definitiva y puede haber cambios menores una vez que se lanza la certificación.</div>
+subTitle: Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI.
+levels:
+- intermediate
+skills:
+- Preparar los datos
+- Modelar los datos
+- Visualizar los datos
+- Analizar los datos
+- Implementar y mantener entregables
+roles:
+- data-analyst
+type: role-based
+products:
+- power-bi
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
+exams:
+- uid: exam.da-100
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx

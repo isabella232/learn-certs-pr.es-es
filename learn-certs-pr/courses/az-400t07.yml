@@ -1,18 +1,18 @@
 ### YamlMime:Course
-title: Diseño de una estrategia DevOps
+title: Designing a DevOps Strategy
 metadata:
-  title: 'Curso AZ-400T07-A: Diseño de una estrategia DevOps'
-  description: 'Curso AZ-400T07-A: Diseño de una estrategia DevOps'
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planifique la transformación con objetivos y plazos compartidos.
-- skill: Seleccionar un proyecto e identifique las métricas y los KPI del proyecto.
+- skill: Planificar la transformación con objetivos y plazos compartidos.
+- skill: Seleccionar un proyecto e identificar las métricas y los KPI del proyecto.
 - skill: Crear un equipo y una estructura organizativa ágil.
 - skill: Desarrollar una estrategia de calidad del proyecto.
-- skill: Planificar prácticas de desarrollo seguras y reglas de cumplimiento
+- skill: Planificar prácticas de desarrollo seguras y normas de cumplimiento.
 - skill: Migrar y consolidar artefactos.
 - skill: Migrar e integrar medidas de control de fuente
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -32,7 +32,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   Este curso proporciona los conocimientos y habilidades para diseñar una estrategia DevOps. Los estudiantes aprenderán cómo planificar la transformación, seleccionar un proyecto y crear estructuras de equipo. Los estudiantes también aprenderán cómo desarrollar estrategias de calidad y seguridad. También se cubrirá la planificación para migrar y consolidar artefactos y el control de origen.
-
+  
   #### Perfil de audiencia
   Los estudiantes en este curso están interesados en planificar proyectos de DevOps o en aprobar el examen de certificación de Microsoft Azure DevOps Solutions.
 prerequisitesSection: |-
@@ -45,14 +45,12 @@ outlineSection: |-
   - Planificación de transformación
   - Selección de proyectos
   - Estructuras de equipo
-  
   #### Laboratorio &#58; Planificación ágil y gestión de porfolios con Azure Boards
   Después de completar este módulo, los estudiantes podrán&#58;
   - Planificar la transformación con objetivos y plazos compartidos.
   - Seleccionar un proyecto e identificar las métricas y los KPI del proyecto
   - Crear un equipo y una estructura organizativa ágil
-
-
+  
   ### Módulo 2&#58; Planificación de calidad y seguridad
   En este módulo, los estudiantes aprenderán sobre el desarrollo de una estrategia de calidad y la planificación para un desarrollo seguro.
   #### Lecciones
@@ -77,3 +75,4 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Migrar y consolidar artefactos
   - Migrar e integrar medidas de control de fuente
+

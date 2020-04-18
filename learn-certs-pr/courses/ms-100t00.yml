@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Identidad y servicios de Microsoft 365
+title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Curso MS-100T00-A: Identidad y servicios de Microsoft 365'
-  description: 'Curso MS-100T00-A: Identidad y servicios de Microsoft 365'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -28,11 +28,11 @@ products:
 exams:
 - uid: exam.ms-100
 summary: |-
-  Este curso cubre tres elementos centrales de la administración empresarial de Microsoft 365: administración de inquilinos y servicios de Microsoft 365, administración de Office 365 y administración de identidad de Microsoft 365.
+  Este curso cubre tres elementos centrales de la administración empresarial de Microsoft 365&#58; administración de inquilinos y servicios de Microsoft 365, administración de Office 365 y administración de identidad de Microsoft 365.
   En la administración de servicios e inquilinos de Microsoft 365, examinará todos los componentes clave que deben planificarse al diseñar su inquilino de Microsoft 365. Una vez que se complete esta fase de planificación, aprenderá cómo configurar su inquilino de Microsoft 365, incluido su perfil de organización, opciones de suscripción de inquilino, servicios de componentes, cuentas y licencias de usuario y grupos de seguridad. Finalmente, aprenderá cómo administrar su inquilino, que incluye la configuración de los roles de inquilino y la administración de la salud y los servicios de su inquilino.
   Con su inquilino de Microsoft 365 ahora firmemente en su lugar, examinará los componentes clave de la administración de Office 365. Esto comienza con una descripción general de la funcionalidad del producto Office 365, que incluye Exchange Online, SharePoint Online, Microsoft Teams, recursos adicionales del producto y administración de dispositivos. Luego pasará a la configuración de Office 365, con un enfoque principal en la configuración de la conectividad del cliente de Office a Office 365. Finalmente, examinará cómo administrar las implementaciones de Office 365 ProPlus, desde las instalaciones de clientes controladas por el usuario hasta las implementaciones centralizadas de Office 365 ProPlus. Terminará esta sección aprendiendo cómo configurar Office Telemetry y Microsoft Analytics.
   El curso concluye con un examen en profundidad de la sincronización de identidad de Microsoft 365, con un enfoque en Azure Active Directory Connect. Aprenderá cómo planificar e implementar Azure AD Connect, cómo administrar identidades sincronizadas y cómo implementar la administración de contraseñas en Microsoft 365 mediante la autenticación multifactor y la administración de contraseñas de autoservicio. Esta sección finaliza con una mirada integral sobre la implementación de aplicaciones y acceso externo. Aprenderá cómo agregar y administrar aplicaciones en Azure Active Directory, incluido cómo configurar aplicaciones de múltiples inquilinos. Luego examinará cómo configurar el Proxy de aplicación de Azure AD, incluido cómo instalar y registrar un conector y cómo publicar una aplicación local para acceso remoto. Finalmente, examinará cómo diseñar y administrar soluciones para acceso externo. Esto incluye orientación sobre licencias para la colaboración B2B de Azure AD, la creación de un usuario colaborativo y la resolución de problemas de una colaboración B2B.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -50,14 +50,13 @@ outlineSection: |-
   
   ### Módulo 2&#58; Configuración de su inquilino de Microsoft 365
   #### Lecciones
-  - Planificación de su experiencia de Microsoft 365
+  - Planificar su experiencia de Microsoft 365
   - Configurar su experiencia de Microsoft 365
   - Administrar cuentas de usuario y licencias en Microsoft 365
   - Gestionar grupos de seguridad en Microsoft 365
   - Implementar sus servicios de dominio
   - Aprovechar FastTrack y Servicios para socios
-
-
+  
   ### Módulo 3&#58; Laboratorio 1 - Configuración de su inquilino de Microsoft 365
 
   #### Laboratorio &#58; Configuración de su inquilino de Microsoft 365
@@ -138,3 +137,4 @@ outlineSection: |-
   - Implementar aplicaciones en Azure AD
   - Configurar el proxy de aplicación de Azure AD
   - Diseñar soluciones para acceso externo
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Programación universal de recursos para Dynamics 365 for Field Service
+title: Universal Resource Scheduling for Dynamics 365 for Field Service
 metadata:
-  title: 'Curso MB-240T03-A: Programación universal de recursos para Dynamics 365 for Field Service'
-  description: 'Curso MB-240T03-A: Programación universal de recursos para Dynamics 365 for Field Service'
+  title: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
+  description: 'Course MB-240T03-A: Universal Resource Scheduling for Dynamics 365 for Field Service'
 uid: course.mb-240t03
 courseNumber: 'MB-240T03-A'
 hoursToComplete: 24
@@ -28,11 +28,10 @@ exams:
 - uid: exam.mb-240
 summary: |-
   Cualquier organización que requiera recursos para ejecutar servicios necesita poder identificar y programar eficientemente en función de los requisitos definidos por las necesidades de la organización. La solución Universal Resource Scheduling de Dynamics 365 permite a las organizaciones administrar y programar estos recursos de manera más efectiva al proporcionar un conjunto de herramientas configurable.
-
+  
   Este curso equipará a los estudiantes con las habilidades necesarias para configurar y consumir las herramientas disponibles para administrar de manera más eficiente los recursos de la organización. Los temas clave incluyen la identificación de dónde comenzar, así como las consideraciones organizativas que impulsarán las decisiones de programación de recursos. Un enfoque principal estará en cómo aprovechar mejor las herramientas disponibles para ubicar y programar recursos, como usar el tablero de programación y el asistente de programación. Además, examinaremos escenarios de personalización, como habilitar elementos para la programación, definir opciones de tablero de programación, trabajar con múltiples tableros de programación y ampliar la funcionalidad central de programación.     
 
   Este curso ayuda a los estudiantes a comprender mejor lo que es importante para las organizaciones al programar recursos y se enfoca en consideraciones de implementación que ayudan a diseñar soluciones más eficientes que se alineen con los objetivos del cliente y de la organización. 
-
 prerequisitesSection: |-
   Comprensión básica de las características, la funcionalidad y la navegación de Dynamics 365.
 outlineSection: |-
@@ -41,8 +40,7 @@ outlineSection: |-
   - Descripción general y configuración de Universal Resource Scheduling (URS)
   - Entidades habilitadoras para URS
   - Personalización de entidades y consideraciones de automatización
-
-
+  
   ### Módulo 2&#58; Administrar opciones de programación
   #### Lecciones
   - Uso del tablero de programación
@@ -66,3 +64,4 @@ outlineSection: |-
   - Definición de objetivos de optimización
   - Definición de ámbitos de optimización
   - Definición de perfiles de optimización
+

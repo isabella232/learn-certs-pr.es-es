@@ -1,31 +1,33 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Microsoft Azure Administrator
 metadata:
-  title: 'Examen AZ-103: Microsoft Azure Administrator'
-  description: 'Examen AZ-103: Microsoft Azure Administrator'
+  title: 'Exam AZ-103: Microsoft Azure Administrator'
+  description: 'Exam AZ-103: Microsoft Azure Administrator'
 uid: exam.az-103
 displayName: AZ-103
-summary: >-
-  A partir del 1 de mayo de 2019, solo debe aprobar el examen AZ-103 para obtener esta certificación. Este nuevo examen combina las habilidades cubiertas en AZ-100 y AZ-101 (que se retiró el 1 de mayo de 2019), y, en su mayoría, el nuevo examen proviene de AZ-100.
-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ -104, ESTARÁ DISPONIBLE EL 31 DE MARZO DE 2020 APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el 30 de junio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  
+  A partir del 1 de mayo de 2019, solo debe aprobar el Exam AZ-103 para obtener esta certificación. Este nuevo examen combina las habilidades cubiertas en AZ-100 y AZ-101 (que se retiró el 1 de mayo de 2019), y, en su mayoría, el nuevo examen proviene de AZ-100.
 
   Los candidatos para este examen son administradores de Azure que administrar servicios de cloud que van desde capacidad en cloud de almacenamiento, la seguridad, las redes y la computación. Los candidatos tienen un gran conocimiento de cada servicio de todo el ciclo de vida de la TI y reciben solicitudes de servicios de infraestructuras, aplicaciones y entornos. Realizan recomendaciones de servicios a utilizar para un rendimiento y escala óptima, así como la provisión, el tamaño, el monitor y ajustar recursos según sea adecuado.
 
-
-  Los candidatos a este examen para deben tener experiencia usando PowerShell, la interfaz de línea de comandos, Azure Portal, plantillas ARM, sistemas operativos, virtualización, infraestructura de cloud, estructuras de almacenamiento y redes
+  Los candidatos a este examen para deben tener experiencia usando PowerShell, la interfaz de línea de comandos, Azure Portal, plantillas ARM, sistemas operativos, virtualización, infraestructura de cloud, estructuras de almacenamiento y redes.
 subTitle: 'A partir del 1 de mayo de 2019, solo debe aprobar el examen AZ-103 para obtener esta certificación. Este nuevo examen combina las habilidades cubiertas en AZ-100 y AZ-101 (que se retiró el 1 de mayo de 2019), y, en su mayoría, el nuevo examen proviene de AZ-100. Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar suscripciones y recursos de Azure; implementar y administrar el almacenamiento; implementar y administrar máquinas virtuales; configurar y administrar redes virtuales; y administrar identidades.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-103&examname=Examen%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Faz-103
 levels:
 - intermediate
 skills:
+- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-104, ESTARÁ DISPONIBLE EL 31 DE MARZO DE 2020 APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el 30 de junio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Administrar suscripciones y recursos de Azure (15-20%)
 - Implementar y administrar el almacenamiento (15-20%)
 - Implementación y administración de máquinas virtuales (VMs) (15-20%)
@@ -43,32 +45,39 @@ products:
 courses:
 - uid: course.az-103t00
 paths:
-- uid: learn.secure-your-cloud-data
 - uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
 - uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: Ruta de certificación de aprendizaje
-  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Póster de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite los servicios de alojamiento
-  description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Solicitar adaptaciones
+  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
-  description: Revise la política para los exámenes y las preguntas frecuentes.
+  description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md

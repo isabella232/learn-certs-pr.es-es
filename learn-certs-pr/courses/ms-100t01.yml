@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administración de Office 365
+title: Office 365 Management
 metadata:
-  title: 'Curso MS-100T01-A: Office 365 Management'
-  description: 'Curso MS-100T01-A: Office 365 Management'
+  title: 'Course MS-100T01-A: Office 365 Management'
+  description: 'Course MS-100T01-A: Office 365 Management'
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48
@@ -27,7 +27,7 @@ exams:
 - uid: exam.ms-100
 summary: |-
   Obtenga información sobre Office 365 Management, incluidos los componentes clave de Office 365, cómo mover una organización a Office 365, cómo configurar Office 365 y cómo administrar las implementaciones de Office 365 ProPlus.
-
+  
   #### Perfil de audiencia
   Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador basadas en roles de Microsoft 365.
 prerequisitesSection: |-
@@ -42,15 +42,12 @@ outlineSection: |-
   - Teams
   - Recursos adicionales
   
-  
   ### Módulo 2&#58; Configuración de su inquilino de Microsoft 365
   #### Lecciones
   - Planificación de su red con Office 365
   - Planificación de la configuración de su servicio
   - Planificación de su entorno híbrido
   - Planificación de su migración a Office 365
-
-
   ### Módulo 3&#58; Configurar Office 365
   #### Lecciones
   - Descripción general del cliente de Office 365
@@ -73,3 +70,4 @@ outlineSection: |-
   - Ejercicio 3&#58; Administrar las instalaciones de Office 365 ProPlus dirigidas por el usuario
   - Ejercicio 4&#58; Administrar una instalación centralizada de Office 365 ProPlus
   - Ejercicio 5&#58; Implementar y configurar componentes de telemetría de Office
+

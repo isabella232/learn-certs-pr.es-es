@@ -1,18 +1,21 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: 'Exam DP-100: Diseño e implementación de una solución de Data Science en Azure'
+  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Fase 1&#58; El contenido de este examen se actualizará el viernes, 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  </div>
+
   Los científicos de datos de Azure aplican sus conocimientos de ciencia de datos y aprendizaje para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure; en particular, con Azure Machine Learning Service. Esto implica planear y crear un entorno de trabajo adecuado para las cargas de trabajo de ciencia de datos en Azure, ejecutar experimentos de datos y capacitar modelos predictivos, administrar y optimizar modelos e implementar modelos de aprendizaje automático en la producción.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar un espacio de trabajo de Azure Machine Learning; ejecutar experimentos y entrenar modelos; optimizar y gestionar modelos; e implementar y consumir modelos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -21,10 +24,10 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el viernes, 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
-- Configurar un espacio de trabajo de Azure Machine Learning (30-35%) 
-- Ejecutar experimentos y entrenar modelos (25-30%) 
-- Optimizar y administrar modelos (20-25%) 
+- El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- Configurar un espacio de trabajo de Azure Machine Learning (30-35%)
+- Ejecutar experimentos y entrenar modelos (25-30%)
+- Optimizar y administrar modelos (20-25%)
 - Implementar y consumir (20-25%)
 roles:
 - data-scientist
@@ -42,7 +45,7 @@ resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -54,9 +57,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

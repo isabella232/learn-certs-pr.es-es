@@ -36,16 +36,16 @@ exams:
 - uid: exam.mb-300
 summary: |-
   Este curso analiza&#58;
-  - Características comunes básicas de Dynamics 365 para Finanzas y Operaciones
-  - Configuración central en Dynamics 365 para Finanzas y Operaciones
-  - Migración de datos y preparación para salir en vivo con Dynamics 365 for Finance and Operations
-  Las organizaciones usan Dynamics 365 for Finance and Operations para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos.
-  Este curso analiza los componentes principales y la configuración de Microsoft Dynamics 365 para Finanzas y Operaciones, y la migración de datos y la preparación para la puesta en marcha.
+  - Características comunes básicas de Dynamics 365 para Finanzas
+  - Configuración central en Dynamics 365 para Finanzas
+  - Migración de datos y preparación para salir en vivo con Dynamics 365 Finance
+  Las organizaciones usan Dynamics 365 for Finance para reducir los costos operativos y responder rápidamente a las necesidades cambiantes del negocio. Esta solución permite a las organizaciones alcanzar estos objetivos.
+  Este curso analiza los componentes principales y la configuración de Microsoft Dynamics 365 para Finanzas y la migración de datos y la preparación para la puesta en marcha.
 
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Consultor Funcional de Finanzas de Dynamics 365 es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
-  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  Antes de asistir a este curso, los estudiantes deben tener;
   - Conocimiento general de Microsoft Windows
   - La capacidad de usar Dynamics 365 for Finance and Operations para el procesamiento básico
   - Conocimiento general de las funciones básicas del dispositivo móvil y la navegación.
@@ -322,3 +322,4 @@ outlineSection: |-
   - Encuesta posterior al curso
 
   Tú habrán completado el curso.
+

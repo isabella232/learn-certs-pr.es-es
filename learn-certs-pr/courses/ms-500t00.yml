@@ -1,4 +1,4 @@
-﻿### YamlMime:Course
+### YamlMime:Course
 title: Microsoft 365 Security Administration
 metadata:
   title: 'Course MS-500T00-A: Microsoft 365 Security Administration'
@@ -80,7 +80,7 @@ outlineSection: |-
   - Flujos de trabajo de recursos PIM
   - Ver el historial de auditoría de los roles de Azure AD en PIM
 
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Crear y administrar cuentas de usuario.
   - Describir y usar roles de administrador de Microsoft 365
   - Planificar las políticas de contraseña y autenticación
@@ -102,7 +102,7 @@ outlineSection: |-
   #### Laboratorio&#58; Implementación de sincronización de identidad
   - Configurar su organización para la sincronización de identidad
 
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Describir las opciones de autenticación para Microsoft 365.
   - Explicar la sincronización de directorios
   - Planificar sincronización de directorios
@@ -125,7 +125,7 @@ outlineSection: |-
   - Piloto de autenticación MFA (requiere MFA para aplicaciones específicas)
   - Acceso condicional de MFA (completar un despliegue de MFA)
 
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Describir el concepto de acceso condicional.
   - Describir y usar políticas de acceso condicional.
   - Planificar el cumplimiento de dispositivos.
@@ -358,3 +358,4 @@ outlineSection: |-
   - Introducir los criterios para buscar en el registro de auditoría.
   - Describir eDiscovery avanzado en Microsoft 365.
   - Ver el registro avanzado de eventos de exhibición de documentos electrónicos.
+

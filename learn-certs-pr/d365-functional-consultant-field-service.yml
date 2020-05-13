@@ -2,18 +2,21 @@
 title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
-  description: Los consultores funcionales de Microsoft Dynamics 365 for Field Service configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
+  description: 'Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).'
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los consultores funcionales de Microsoft Dynamics 365 for Field Service configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
-subTitle: Los consultores funcionales de Microsoft Dynamics 365 for Field Service configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
+subTitle: Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
 levels:
 - intermediate
 skills:
 - Realizar Descubrimiento, Planificación y Análisis
 - Administrar el diseño de la experiencia del usuario
 - Administrar entidades y datos
-- Implementación de medidas de seguridad
+- Implementar seguridad
 - Implementar integración
 - Realizar implementación y pruebas de soluciones
 - Configurar aplicaciones de servicio de campo
@@ -47,18 +50,19 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

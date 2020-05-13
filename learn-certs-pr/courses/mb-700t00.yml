@@ -5,7 +5,20 @@ metadata:
   description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: Definir áreas de habilidades para la función de arquitecto de soluciones
+- skill: Explicar las recomendaciones de instancias y modelos de implementación de Microsoft
+- skill: Comprender la solución de nube, CDM y CDS
+- skill: Obtener más información sobre Licencias, AppSource y Soporte para Dynamics 365
+- skill: Usar los servicios del ciclo de vida como arquitecto de soluciones
+- skill: Conocer las consideraciones para diseñar la solución Dynamics 365
+- skill: Comprender los conceptos y herramientas utilizados para la gestión de datos.
+- skill: Explicar las opciones de integración y eventos comerciales sobre soluciones
+- skill: Conocer las opciones disponibles en localización de soluciones, cumplimiento e informes
+- skill: Tener conversaciones arquitectónicas sobre extensibilidad, seguridad y rendimiento.
+- skill: Saber qué es la gestión del ciclo de vida de la aplicación ALM
+- skill: Identificar oportunidades para pruebas automatizadas y el uso de RSAT
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  Este curso está desarrollado para aquellos futuros y nuevos aspirantes en la función de arquitecto de soluciones. Este curso proporciona la información técnica que se centra en la arquitectura de la aplicación y las habilidades técnicas para comenzar su recorrido hacia esta función. Este curso no cubrirá las habilidades industriales y las habilidades de entrega requeridas para esta función.
+
+  #### Perfil de audiencia
+
+  La audiencia para este curso debe tener experiencia previa con enfoque funcional o técnico en Dynamics 365&#58; Aplicaciones de finanzas y operaciones. Principalmente para aquellos aquellos futuros y nuevos aspirantes en la función de arquitecto de soluciones. 
+prerequisitesSection: |-
+  Debe completar la ruta de aprendizaje del arquitecto de soluciones para arquitectos de soluciones&#58; [aquí](https://docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### Módulo 1&#58; Introducción
+
+  ### Módulo 2&#58; La función de arquitecto
+
+  ### Módulo 3&#58; Entorno, Instancias y Modelos de Implementación
+
+  ### Módulo 4&#58; Solución de nube, CDM y CDS
+
+  ### Módulo 5&#58; Licencias, AppSource y Soporte
+
+  ### Módulo 6&#58; Servicios de ciclo de vida 
+
+  ### Módulo 7&#58; Soluciones para diseñar soluciones Dynamics 365
+
+  ### Módulo 8&#58; Gestión de datos
+
+  ### Módulo 9&#58; Integración y Eventos Comerciales
+
+  ### Módulo 10&#58; Localización, Cumplimiento e Informes
+
+  ### Módulo 11&#58; Extensibilidad
+
+  ### Módulo 12&#58; Seguridad
+
+  ### Módulo 13&#58; Rendimiento
+
+  ### Módulo 14&#58; Gestión del Ciclo de Vida de aplicaciones 
+
+  ### Módulo 15&#58; Pruebas automatizadas y RSAT
+
+  ### Módulo 16&#58; Áreas adicionales para arquitectos
+

@@ -6,45 +6,49 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server. El administrador de la base de datos de Azure usa una variedad de métodos y herramientas para realizar las operaciones diarias, incluida la aplicación de conocimientos sobre el uso de T -SQL para fines de administración administrativa.
-  
-  <div style='color&#58; red;'><br/><strong>Nota&#58; Esta certificación no estará disponible hasta el 2 de abril de 2020.</strong> Esta información no es definitiva y puede haber cambios menores una vez que se lanza la certificación.</div>
 subTitle: El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server.
 levels:
 - intermediate
 skills:
-- Planificar e implementar recursos de la plataforma de datos. 
-- Implementar un entorno seguro 
-- Monitorear y optimizar recursos operativos 
-- Optimizar el desempeño de solicitudes 
+- Planificar e implementar recursos de plataformas de datos.
+- Implementar un entorno seguro
+- Monitorear y optimizar recursos operativos
+- Optimizar desempeño de solicitudes
 - Realizar automatización de tareas
-- Planificar e implementar un entorno de alta disponibilidad y recuperación ante desastres (HADR) 
-- Realizar la administración utilizando T -SQL
+- Planificar e implementar un entorno de alta disponibilidad y recuperación ante desastres (HADR)
+- Realizar administración mediante T-SQL
 roles:
-- administrator
+- database-administrator
 type: role-based
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
 resources:
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

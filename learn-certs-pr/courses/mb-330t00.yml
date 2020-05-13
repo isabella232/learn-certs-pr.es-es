@@ -25,9 +25,9 @@ summary: |-
   Este curso analiza la gestión de la cadena de suministro en el conjunto de aplicaciones Dynamics 365
 
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Consultor Funcional de Finanzas de Dynamics 365 es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 outlineSection: |-
-  ### Módulo 1&#58; Administración de suministros
+  ### Módule 1&#58; Administración de suministros
   Para configurar el inventario, primero deben comprender las operaciones diarias del inventario. En esta lección, primero trataremos las operaciones de inventario de entrada y salida.
 
   Este módulo explica cómo configurar los componentes del inventario para los procesos de gestión de la cadena de suministro en Finance and Operations.
@@ -355,7 +355,7 @@ outlineSection: |-
   - Laboratorios de práctica
   - Resumen del módulo
 
-  Planificación del transporte
+  - Planificación del transporte
   - Enrutamiento
   - Clasificación
   - Operaciones entrantes
@@ -371,3 +371,4 @@ outlineSection: |-
   - Encuesta posterior al curso
 
   Tú habrán completado el curso.
+

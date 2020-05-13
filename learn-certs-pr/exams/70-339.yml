@@ -6,8 +6,11 @@ metadata:
 uid: exam.70-339
 displayName: 70-339
 summary: |-
-  <div style='color&#58; red;'>Este examen se retira el 30 de junio de 2020. Un examen de reemplazo puede estar disponible. Para obtener más información, visite nuestro blog: <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> revise nuestras publicaciones de retiros de examen. Nota: Todo el contenido está en inglés a menos que se indique lo contrario<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
   El examen está dirigido a profesionales de TI con experiencia que instalan, configuran, implementan y administran las instalaciones de SharePoint 2016 en un centro de datos y en la nube. Los candidatos cuentan, por lo general, con más de cuatro años de experiencia en la planificación y el mantenimiento de SharePoint y otras tecnologías principales de las que depende SharePoint, incluido Windows Server 2008 R2 o posterior, Internet Information Services (IIS), SQL Server 2008 R2 o posterior, Active Directory y servicios de infraestructura de red.
 
   Los candidatos también deben tener experiencia en la administración de la continuidad del negocio, que incluye la copia de seguridad, la restauración y la alta disponibilidad de datos, además de experiencia en las tecnologías de seguridad y autenticación. La experiencia de PowerShell tiene alta preferencia.
@@ -27,17 +30,18 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+levels:
 - intermediate
 skills:
 - 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
-- Diseñar SharePoint infrastructure (15-20%)
+- Diseñar SharePoint infrastructure (15 -20%)
 - Planificar autenticación y seguridad (15-20%)
 - Planificar la optimización de la carga de trabajo (15-20%)
 - Planifique soluciones de productividad (15-20%)
 - Gestionar capacidades de búsqueda (10-15%)
-- Planificar y configurar servicios de nube (5–10%)
-- Supervisar y optimizar un entorno de SharePoint (10–15%)
+- Planificar y configurar servicios de nube (5-10%)
+- Supervisar y optimizar un entorno de SharePoint (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -55,9 +59,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

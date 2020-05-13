@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: Microsoft Azure IoT Developer (beta)
+title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Microsoft Azure IoT Developer es responsable de la implementación y codificación necesarias para crear y mantener la parte de la nube y el borde de una solución de IoT. Además de configurar y mantener los dispositivos mediante el uso de servicios en la nube, el Desarrollador de IoT también configura los dispositivos físicos. El Desarrollador de IoT es responsable de mantener los dispositivos durante todo el ciclo de vida.
 
   El desarrollador de IoT implementa diseños para soluciones de IoT, que incluyen topología de dispositivos, conectividad, depuración y seguridad. El Desarrollador de IoT implementa cómputo / contenedores y configura la red del dispositivo. El desarrollador de IoT implementa diseños para soluciones para administrar canalizaciones de datos, incluido el monitoreo y la transformación de datos en relación con IoT. El desarrollador de IoT trabaja con ingenieros de datos y otras partes interesadas para garantizar una integración empresarial exitosa.
 
   Los desarrolladores de IoT deben tener una buena comprensión de cómo implementar los servicios de Azure que forman una solución de IoT, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos y opciones de servicio como plataforma. Los desarrolladores de IoT deben ser capaces de reconocer las configuraciones de configuración del servicio IoT de Azure dentro de la porción de código de una solución IoT y realizar tareas específicas de codificación de IoT en al menos un lenguaje compatible con Azure, incluidos C#, Node, C o Python.
-  
-  <div style='color&#58; red;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
-subTitle: Este examen mide su capacidad para implementar la infraestructura de la solución IoT; aprovisionamiento y gestión de dispositivos; implementar soluciones en dispositivos Azure IoT Edge; procesar y gestionar datos; supervisar, solucionar problemas y optimizar soluciones de IoT; e implementar seguridad.
+subTitle: 'Este examen mide su capacidad para implementar la infraestructura de la solución IoT; aprovisionamiento y gestión de dispositivos; implementar soluciones en dispositivos Azure IoT Edge; procesar y gestionar datos; supervisar, solucionar problemas y optimizar soluciones de IoT; e implementar seguridad.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
@@ -22,13 +22,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Implementar la infraestructura de la solución IoT (15-20%)
-- Aprovisionar y administrar dispositivos (20-25%) 
+- Aprovisionar y administrar dispositivos (20-25%)
 - Implementar Edge (15-20%)
 - Procesar y administrar datos (15-20%)
 - Monitorear, solucionar problemas y soluciones loT (15-20%)
-- Implementar seguridad (15-10%)
+- Implementar seguridad (15-20%)
 roles:
 - developer
 products:
@@ -37,28 +36,34 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Soporte para exámenes de certificación
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

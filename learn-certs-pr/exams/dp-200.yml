@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
   title: 'Exam DP-200: Implementing an Azure Data Solution'
@@ -6,18 +6,21 @@ metadata:
 uid: exam.dp-200
 displayName: DP-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>El contenido de este examen se actualizará el martes, 31 de marzo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el 31 de marzo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  </div>
+
   Los candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas para identificar y cumplir con los requisitos de datos a fin de implementar soluciones de datos que utilizan los servicios de datos de Azure.
 
-   Los ingenieros de datos de Azure son responsables de las tareas de implementación relacionadas con datos que incluyen proporcionar servicios de almacenamiento de datos, introducir streaming y datos de lotes, transformar datos, implementar requisitos de seguridad, implementar políticas de retención de datos, identificar cuellos de botella de rendimiento y acceder a fuentes externas de datos.
+  Los ingenieros de datos de Azure son responsables de las tareas de implementación relacionadas con datos que incluyen proporcionar servicios de almacenamiento de datos, introducir streaming y datos de lotes, transformar datos, implementar requisitos de seguridad, implementar políticas de retención de datos, identificar cuellos de botella de rendimiento y acceder a fuentes externas de datos.
 
   Los candidatos para este examen deben poder implementar soluciones de datos que utilizan los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (antiguamente Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks y Azure Blob storage.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar soluciones de almacenamiento de datos; administrar y desarrollar el procesamiento de datos; y monitorear y optimizar soluciones de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
@@ -26,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el martes, 31 de marzo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el 31 de marzo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.
 - 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Implementar soluciones de almacenamiento de datos (40-45%)
 - Gestionar y desarrollar procesamiento de datos (25-30%)
@@ -64,7 +67,7 @@ resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -76,9 +79,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

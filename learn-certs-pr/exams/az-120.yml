@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: 'Planning and Administering Microsoft Azure for SAP Workloads'
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los candidatos para este examen son arquitectos e ingenieros que conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP. Los candidatos hacen recomendaciones sobre los servicios y ajustan los recursos según sea apropiado para una resistencia, rendimiento, escala, provisión, tamaño y monitoreo óptimos.
 
   Los arquitectos de Azure para SAP Workloads deben tener una amplia experiencia y conocimiento de aplicaciones SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, servidores OS para aplicaciones y bases de datos SAP, Azure Portal, plantillas ARM, sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, diseño de alta disponibilidad, diseño de recuperación ante desastres, conceptos de protección de datos y redes.
@@ -14,9 +16,12 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para cumplir las siguientes tareas técnicas: Migrar SAP Workloads a Azure; diseñar una solución Azure para admitir SAP Workload; compilar e implementar Azure SAP Workloads; validar la infraestructura Azure para SAP Workload; y hacer operativa la arquitectura de Azure SAP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
@@ -24,13 +29,14 @@ skills:
 - Migrar SAP Workloads a Azure (10-15%)
 - Diseñar una solución de Azure para admitir cargas de trabajo de SAP (20-25%)
 - Compilar e implementar cargas de trabajo de Azure para SAP (35-40%)
-- Validar la infraestructura de Azure para SAP (10-15%)
-- Hacer operativa la arquitectura de Azure SAP (10-15%)
+- Validar la infraestructura de Azure para SAP Workloads (10-15%)
+- Operacionalizar Azure SAP Architecture (10-15%)
 roles:
 - solution-architect
 - devops-engineer
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -44,7 +50,7 @@ resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -56,9 +62,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

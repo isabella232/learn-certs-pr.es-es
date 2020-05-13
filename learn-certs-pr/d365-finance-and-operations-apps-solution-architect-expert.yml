@@ -5,15 +5,15 @@ metadata:
   description: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
-
-
-  <div style="color:red"><br/><strong>NOTE&#58; Esta certificación no estará disponible hasta el 27 de enero de 2020</strong></div>
 subTitle: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores confiables que consultan con organizaciones y miembros del equipo de implementación para refinar las necesidades comerciales en una solución bien definida y rentable.
 levels:
 - advanced
 skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Identificar los requisitos de la solución
 - Diseñar componentes de solución
 - Definir estrategias de prueba y gestión de soluciones
@@ -22,6 +22,13 @@ roles:
 type: role-based
 products:
 - dynamics
+courses:
+- uid: course.mb-700t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -31,22 +38,20 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 resources:
 - title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

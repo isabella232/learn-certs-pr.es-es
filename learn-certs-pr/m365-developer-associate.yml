@@ -2,18 +2,20 @@
 title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
-  description: Developer Associate diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
+  description: Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: >-
-  Developer Associate diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
 
+  Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 
-  Developer Associate son competentes en la identidad de Microsoft y Microsoft Graph. Tienen conocimientos generales sobre los elementos de IU (incluyéndose Adaptive Cards y UI Fabric), puntos de integración (incluyéndose Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), y para determinar los objetivos de la plataforma de cargas de trabajo.
-subTitle: Developer Associate diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
+  Los desarrolladores de Microsoft 365 son competentes en la identidad de Microsoft y Microsoft Graph. Tienen conocimientos generales sobre los elementos de IU (incluyéndose Adaptive Cards y UI Fabric), puntos de integración (incluyéndose Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), y para determinar los objetivos de la plataforma de cargas de trabajo.
+subTitle: Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 levels:
 - intermediate
 skills:
+- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Implementar identidad de Microsoft
 - Cree aplicaciones con Microsoft Graph
 - Extender y personalizar SharePoint
@@ -34,21 +36,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vc
 exams:
 - uid: exam.ms-600
 resources:
-- title: Ruta de certificación de aprendizaje
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Desarrollador Asociado.'
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

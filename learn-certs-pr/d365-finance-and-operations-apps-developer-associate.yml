@@ -5,12 +5,15 @@ metadata:
   description: Los desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 implementan y amplían aplicaciones para cumplir con los requisitos del negocio. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 implementan y amplían aplicaciones para cumplir con los requisitos del negocio. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 implementan y amplían aplicaciones para cumplir con los requisitos del negocio. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
 subTitle: Los desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 implementan y amplían aplicaciones para cumplir con los requisitos del negocio.
 levels:
 - intermediate
 skills:
-- Usar funcionalidades comunes y herramientas de implementación.
+- Usar funcionalidades comunes y herramientas de implementación
 - Configurar seguridad, procesos y opciones
 - Realizar la migración de datos
 - Validar y asistir la solución
@@ -46,18 +49,22 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-500
 resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
 - title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

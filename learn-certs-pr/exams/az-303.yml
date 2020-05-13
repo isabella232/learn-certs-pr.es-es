@@ -6,11 +6,13 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los candidatos para este examen son Arquitectos de Azure Solution que aconsejan a los participantes interesados y traducen requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deben tener experiencia avanzada y conocimiento de las operaciones de TI, incluidas las redes, la virtualización, la identidad, la seguridad, la continuidad del negocio, la recuperación ante desastres, la plataforma de datos, el presupuesto y el gobierno. Este cargo requiere administrar cómo las decisiones en cada área afectan una solución global.
-  
+
   Los candidatos deben tener habilidades de nivel experto en la administración de Azure y tener experiencia con los procesos de desarrollo de Azure y los procesos DevOps.
-  
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTA&#58; ESTE EXAMEN, AZ -304, ESTARÁ DISPONIBLE EL martes, 28 de abril de 2020 APROXIMADAMENTE.</div>
+
+  <div style='red; font-weight&#58; bold;'><br/>NOTA&#58; este examen estará disponible el 29 de junio de 2020 aproximadamente.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar y monitorear una infraestructura de Azure; implementar soluciones de gestión y seguridad; implementar soluciones para aplicaciones; e implementar y administrar plataformas de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
@@ -20,10 +22,10 @@ locales:
 levels:
 - advanced
 skills:
-- Implementar y monitorear una infraestructura de Azure (50 -55%)
-- Implementar soluciones de administración y seguridad (25 -30%)
-- Implementar soluciones para aplicaciones (10 -15%)
-- Implementar y administrar plataformas de datos (10 -15%)
+- Implementar y monitorear una infraestructura de Azure (50-55%)
+- Implementar soluciones de administración y seguridad (25-30%)
+- Implementar soluciones para aplicaciones (10-15%)
+- Implementar y administrar plataformas de datos (10-15%)
 roles:
 - solution-architect
 products:
@@ -35,24 +37,25 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Soporte para exámenes de certificación
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

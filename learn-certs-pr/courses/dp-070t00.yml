@@ -21,31 +21,35 @@ products:
 - sql-server
 summary: |-
   Este curso permitirá a los estudiantes comprender Azure SQL Database y educar a los estudiantes sobre lo que se requiere para migrar las cargas de trabajo de MySQL y PostgreSQL a Azure SQL Database.
-  
+
   #### Perfil de audiencia
   La audiencia principal para este curso son los desarrolladores de bases de datos que planean migrar sus cargas de trabajo de MySQL o Postgres DB a Azure SQL DB.
   La audiencia secundaria para este curso son los administradores de MySQL / Postgres para crear conciencia sobre las características y beneficios de Azure SQL DB.
 prerequisitesSection: |-
   Además de su experiencia profesional, los estudiantes que realicen este curso ya deben contar con los siguientes conocimientos técnicos&#58;
-  - Algunos conocimientos de sistemas de gestión de bases de datos relacionales de código abierto como Postgres y / o MySQL, administración de SQL, técnicas de copia de seguridad y recuperación, es decir, volcado de datos de la tabla
+  - Algunos conocimientos de sistemas de gestión de bases de datos relacionales de código abierto como Postgres y/o MySQL, administración de SQL, técnicas de copia de seguridad y recuperación, es decir, volcado de datos de la tabla
 outlineSection: |-
-  ### Module  1&#58; Migrar a Azure SQL DB para MySQL y PostgreSQL
+  ### Módulo 1&#58; Migrar a Azure SQL DB para MySQL y PostgreSQL
   Este módulo describe los beneficios y la arquitectura de Azure SQL DB.
   #### Lecciones
   - Describir de forma general las bases de datos OSS
   - Cargas de trabajo comunes de la base de datos OSS
   - Desafíos del cliente en la migración
-  #### Laboratorio &#58; Crear bases de datos OSS de origen
+
+
+  #### Laboratorio&#58; Crear bases de datos OSS de origen
   - Instalación del servidor de base de datos de migración Postgres
   - Instalación del servidor de base de datos de migración MySQL
   - Copias de seguridad / volcado de datos de Postgres / MySQ
   - Restauración de volcado de datos
+
   Después de completar este módulo los , estudiantes podrán&#58;
   - Describir de forma general las bases de datos OSS
   - Cargas de trabajo comunes de la base de datos OSS
   - Desafíos del cliente en la migración
 
-  ### Module  2&#58; Migrar de MySQL local a Azure SQL DB para MySQL
+
+  ### Módulo 2&#58; Migrar de MySQL local a Azure SQL DB para MySQL
   Este módulo describe los beneficios y el proceso de migrar las cargas de trabajo de MySQL a Azure SQL DB
   #### Lecciones
   - Configurar y administrar Azure SQL DB para MySQL
@@ -54,7 +58,7 @@ outlineSection: |-
   - Consideraciones posteriores a la migración
 
 
-  #### Laboratorio &#58; Migración de cargas de trabajo de MySQL DB a Azure SQL DB
+  #### Laboratorio&#58; Migración de cargas de trabajo de MySQL DB a Azure SQL DB
   - Migración de cargas de trabajo de MySQL DB a Azure SQL DB
   - Definir bases de datos de origen y destino
   - Realizar migración
@@ -76,7 +80,7 @@ outlineSection: |-
   - Consideraciones posteriores a la migración
 
 
-  #### Laboratorio &#58; Migración de cargas de trabajo de PostgreSQL DB a Azure SQL DB
+  #### Laboratorio&#58; Migración de cargas de trabajo de PostgreSQL DB a Azure SQL DB
   - Configurar Azure SQL DB para PostgreSQL
   - Definir bases de datos de origen y destino
   - Realizar migración
@@ -89,5 +93,6 @@ outlineSection: |-
   - Consideraciones posteriores a la migración
 
   #### Lectura adicional
+
   No se requiere lectura adicional para tomar este curso
 

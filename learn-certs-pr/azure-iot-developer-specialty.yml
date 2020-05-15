@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Demostrar que comprende cómo implementar los servicios de Azure que forman una solución de IoT, incluido el análisis de datos, el procesamiento de datos, las opciones de almacenamiento de datos y las opciones de servicio de plataforma como servicio. Los desarrolladores de IoT deben poder reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución de IoT.
 subTitle: Demostrar que comprende cómo implementar los servicios de Azure que forman una solución de IoT, incluido el análisis de datos, el procesamiento de datos, las opciones de almacenamiento de datos y las opciones de servicio de plataforma como servicio. Los desarrolladores de IoT deben poder reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución de IoT.
 levels:
@@ -16,8 +18,8 @@ skills:
 - Aprovisionar y administrar dispositivos
 - Implementar Edge
 - Procesar y administrar datos
-- Monitorear, solucionar problemas y soluciones loT 
-- Implementación de medidas de seguridad
+- Monitorear, solucionar problemas y soluciones loT
+- Implementar seguridad
 roles:
 - developer
 type: specialty
@@ -27,22 +29,28 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
 resources:
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

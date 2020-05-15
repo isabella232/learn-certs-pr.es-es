@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Microsoft Azure Administrator (beta)
 metadata:
   title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
@@ -6,29 +6,33 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  
   El administrador de Azure implementa, administra y supervisa las redes de identidad, gobierno, almacenamiento, informática y virtual en un entorno de nube. El administrador de Azure aprovisionará, dimensionará, supervisará y ajustará los recursos según corresponda.
   
   Los candidatos deben tener un mínimo de seis meses de experiencia práctica en la administración de Azure. Los candidatos deben tener un sólido conocimiento de los servicios principales de Azure, las cargas de trabajo de Azure, la seguridad y el gobierno. Los candidatos para este examen deben tener experiencia en el uso de PowerShell, la interfaz de línea de comandos, Azure Portal y plantillas ARM.
   
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTA&#58; este examen estará disponible el 31 de marzo de 2020 aproximadamente.</div>
+  <div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: administrar las identidades y el gobierno de Azure; implementar y administrar el almacenamiento; implementar y administrar recursos informáticos de Azure; configurar y administrar redes virtuales; y supervisar y hacer una copia de seguridad de los recursos de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Administrar las identidades y el gobierno de Azure (15-20%) 
+- Administrar las identidades y el gobierno de Azure (15-20%)
 - Implementar y administrar el almacenamiento (10-15%)
-- Implementar y administrar recursos informáticos de Azure (25-30%) 
-- Configurar y administrar redes virtuales (30-35%) 
+- Implementar y administrar recursos informáticos de Azure (25-30%)
+- Configurar y gestionar redes virtuales (30-35%)
 - Monitorear y realizar copias de seguridad de los recursos de Azure (10-15%)
 roles:
 - administrator
 products:
 - azure
+courses:
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -43,12 +47,12 @@ paths:
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-administrator
 resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -60,9 +64,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Este curso aborda la fabricación en el conjunto de aplicaciones Dynamics 365: discreta, fabricación ajustada y producción
+  Este curso aborda la fabricación en el conjunto de aplicaciones Dynamics 365&#58; discreta, fabricación ajustada y producción
 
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Consultor Funcional de Finanzas de Dynamics 365 es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
   - Habilidades básicas de fabricación
   - Habilidades básicas de Dynamics 365
@@ -66,7 +66,7 @@ outlineSection: |-
   - Proceso de producción de estatuas
   - Etapas de producción
   - Lista de materiales (BOM)
-  - Recursos
+  - Resources
   - Rutas y operaciones
 
 
@@ -350,3 +350,4 @@ outlineSection: |-
   - Resumen del curso
 
   Usted ha completado el curso
+

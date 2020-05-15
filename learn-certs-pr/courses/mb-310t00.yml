@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-310
 summary: |-
-  Este curso cubre los aspectos financieros de Dynamics 365 : configurar y usar componentes financieros esenciales, cuentas por pagar, cuentas por cobrar, cobros, presupuestos, activos fijos y funcionalidad adicional
+  Este curso cubre los aspectos financieros de Dynamics 365&#58; configurar y usar componentes financieros esenciales, cuentas por pagar, cuentas por cobrar, cobros, presupuestos, activos fijos y funcionalidad adicional
 
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 for Finance and Operations es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Consultor Funcional de Finanzas de Dynamics 365 es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
 prerequisitesSection: |-
   Habilidades básicas de contabilidad Competencias principales en Dynamics 365 Core
 outlineSection: |-
@@ -49,7 +49,7 @@ outlineSection: |-
 
   Ahora ha aprendido sobre diferentes tipos de monedas en Finanzas y Operaciones. Usted también
 
-  ### Módulo 3 &#58; Crear calendarios fiscales, años y períodos
+  ### Módulo 3&#58; Crear calendarios fiscales, años y períodos
   Antes de contabilizar las transacciones, un nuevo año fiscal debe dividirse en períodos. Esto se debe a que las transacciones no pueden contabilizarse a menos que se cree un período para la fecha de contabilización y se comparta entre múltiples entidades legales. Un beneficio de compartir calendarios fiscales es que esto admite múltiples calendarios fiscales para cada entidad jurídica.
 
   El año fiscal en Finance and Operations puede establecerse en cualquier duración y dividirse en cualquier cantidad de períodos..
@@ -329,7 +329,7 @@ outlineSection: |-
   - Laboratorios de práctica
   - Resumen del módulo
 
-  Resúmenes de cuenta de clientes
+  - Resúmenes de cuenta de clientes
   - Cómo procesar la recolección
 
 
@@ -528,3 +528,4 @@ outlineSection: |-
   - Encuesta posterior al curso
 
   Tú habrán completado el curso.
+

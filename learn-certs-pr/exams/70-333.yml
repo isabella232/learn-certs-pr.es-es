@@ -6,8 +6,10 @@ metadata:
 uid: exam.70-333
 displayName: 70-333
 summary: |-
-  <div style='color&#58; red;'>Este examen se retira el 30 de junio de 2020. Un examen de reemplazo puede estar disponible. Para obtener más información, visite nuestro blog: <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> revise nuestras publicaciones de retiros de examen. Nota: Todo el contenido está en inglés a menos que se indique lo contrario<br/><br/></div>
-  
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
   Los candidatos a este examen son consultores de TI y profesionales de consultoría de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones de comunicaciones unificadas. Los candidatos deben ser capaces de transformar los requisitos empresariales en un diseño y arquitectura técnica para una solución de comunicaciones unificadas. Los candidatos deben tener un mínimo de dos años de experiencia en las tecnologías Skype Empresarial y estar familiarizados con los escenarios de migración admitidos. Los candidatos deben dominar la implementación de soluciones Skype Empresarial para servidores y Skype Empresarial Online para usuarios finales, dispositivos de endpoint, telefonía, conferencias de audio/vídeo y web, seguridad y alta disponibilidad. Los candidatos también deben saber cómo supervisar y resolver los problemas de Skype Empresarial con las herramientas de Microsoft. Adicionalmente, deben dominar los Servicios de dominio de Active Directory, las redes de datos y los estándares y componentes de telecomunicaciones que soportan la configuración de Skype for Business. Los candidatos deben estar familiarizados con los requisitos para la integración de Skype Empresarial en Microsoft Exchange Server y Office 365.
 subTitle: Los candidatos a este examen son consultores de TI y profesionales de consultoría de telecomunicaciones que diseñan, planifican, implementan y mantienen soluciones de comunicaciones unificadas. Los candidatos deben ser capaces de transformar los requisitos empresariales en un diseño y arquitectura técnica para una solución de comunicaciones unificadas. Los candidatos deben tener un mínimo de dos años de experiencia en las tecnologías Skype Empresarial y estar familiarizados con los escenarios de migración admitidos. Los candidatos deben dominar la implementación de soluciones Skype Empresarial para servidores y Skype Empresarial Online para usuarios finales, dispositivos de endpoint, telefonía, conferencias de audio/vídeo y web, seguridad y alta disponibilidad. Los candidatos también deben saber cómo supervisar y resolver los problemas de Skype Empresarial con las herramientas de Microsoft. Adicionalmente, deben dominar los Servicios de dominio de Active Directory, las redes de datos y los estándares y componentes de telecomunicaciones que soportan la configuración de Skype for Business. Los candidatos deben estar familiarizados con los requisitos para la integración de Skype Empresarial en Microsoft Exchange Server y Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -17,13 +19,14 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=3
 locales:
 - en
 - ja
-levels: 
+levels:
 - advanced
 skills:
 - 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
-- Planificar y diseñar Skype for Business con Enterprise Voice (30 -35%)
-- Implementar y configurar Enterprise Voice (30 -35%)
-- Administrar y solucionar problemas de Enterprise Voice (30 -35%)
+- Planificar y diseñar Skype for Business con Enterprise Voice (30-35%)
+- Implementar y configurar Enterprise Voice (30-35%)
+- Administrar y solucionar problemas de Enterprise Voice (30-35%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -40,9 +43,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

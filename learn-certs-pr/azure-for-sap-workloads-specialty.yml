@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
 subTitle: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
 levels:
@@ -15,7 +17,7 @@ skills:
 - Migrar SAP Workloads a Azure
 - Diseñar una solución de Azure para admitir cargas de trabajo de SAP
 - Compilar e implementar cargas de trabajo de Azure para SAP
-- Validar la infraestructura de Azure para SAP Workload
+- Validar la infraestructura de Azure para SAP Workloads
 - Operacionalizar Azure SAP Architecture
 roles:
 - administrator
@@ -23,6 +25,7 @@ roles:
 type: specialty
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -36,7 +39,7 @@ resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -48,3 +51,4 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

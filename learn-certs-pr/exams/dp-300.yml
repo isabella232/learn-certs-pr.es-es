@@ -6,13 +6,15 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los candidatos para este examen son administradores de bases de datos y especialistas en administración de datos que administran bases de datos relacionales locales y en la nube creadas sobre los servicios de datos de Microsoft SQL Server y Microsoft Azure.
-  
+
   El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server. El administrador de la base de datos de Azure usa una variedad de métodos y herramientas para realizar las operaciones diarias, incluida la aplicación de conocimientos sobre el uso de T -SQL para fines de administración administrativa.
-  
+
   Esta función es responsable de la gestión, disponibilidad, seguridad y supervisión del rendimiento y la optimización de las soluciones modernas de bases de datos relacionales. Esta función funciona con la del Ingeniero de datos de Azure para administrar los aspectos operativos de las soluciones de la plataforma de datos.
-  
-  <div style='color&#58; red;'><br/><strong>Nota&#58; Esta examen Beta no estará disponible hasta el 2 de abril de 2020.</strong> Esta información no es definitiva y puede haber cambios menores una vez que se lanza la beta examen.</div>
+
+  <div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: planificar e implementar recursos de la plataforma de datos; implementar un ambiente seguro; supervisar y optimizar recursos operativos; optimizar el rendimiento de la consulta; realizar la automatización de tareas; planificar e implementar un entorno de Alta disponibilidad y recuperación ante desastres (HADR); y realizar la administración utilizando T -SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -30,35 +32,39 @@ skills:
 - Planificar e implementar un entorno de Alta disponibilidad y recuperación ante desastres (HADR) (15-20%)
 - Realizar administración mediante T -SQL (10-15%)
 roles:
-- administrator
+- database-administrator
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Soporte para exámenes de certificación
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

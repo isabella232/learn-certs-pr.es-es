@@ -1,15 +1,19 @@
 ### YamlMime:Examination
 title: Microsoft 365 Fundamentals
 metadata:
-  title: 'Examen MS-900: Microsoft 365 Fundamentals'
-  description: 'Examen MS-900: Microsoft 365 Fundamentals'
+  title: 'Exam MS-900: Microsoft 365 Fundamentals'
+  description: 'Exam MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el 14 de abril de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  </div>
+
   Este examen está diseñado para candidatos que buscan demostrar conocimientos fundamentales sobre las consideraciones y los beneficios de adoptar los servicios de nube en general y el modelo de nube de Software como servicio (SaaS). Este examen también cubrirá el conocimiento de las opciones disponibles y los beneficios obtenidos al implementar las ofertas de servicios en la nube de Microsoft 365.
 
-
-  Este examen puede tomarse como un precursor de los exámenes de computación en la nube y tecnologías como Office 365, Microsoft Intune, Protección de información de Azure (AIP) y Windows 10.
+  Este examen puede tomarse como un precursor de los exámenes de computación en la nube y tecnologías como Office 365, Microsoft Intune, Azure Information Protection (AIP) y Windows 10.
 subTitle: Demuestre que entiende los conceptos de la nube; servicios y conceptos básicos de Microsoft 365; seguridad, cumplimiento, privacidad y confianza en Microsoft 365; y precios y soporte de Microsoft 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -18,17 +22,18 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-900&examname=Examen%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- Comprender los conceptos de la nube (15-20%)
-- Entender los servicios y conceptos básicos de Microsoft 365 (30-35%)
-- Comprender la seguridad, el cumplimiento, la privacidad y la confianza en Microsoft 365 (25-30%)
-- Comprenda los precios y soporte de Microsoft 365 (25-30%)
+- El contenido de este examen se actualizó el 14 de abril de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Describir conceptos de nube (15-20%)
+- Describir los servicios y conceptos básicos de Microsoft 365 (30-35%)
+- Describir seguridad, cumplimiento, privacidad y opciones de confianza en Microsoft 365 (25-30%)
+- Describir las opciones de soporte y precios de Microsoft 365 (25-30%)
 roles:
 - administrator
 products:
@@ -44,20 +49,24 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Fundamentales.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
-- title: Guía de formación y certificación
-  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

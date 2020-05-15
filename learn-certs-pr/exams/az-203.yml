@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
   title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
@@ -6,8 +6,11 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-204">AZ-204</a>, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el domingo, 31 de mayo de 2020. Nota: Todo el contenido está en inglés a menos que se indique lo contrario<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-204">AZ-204</a>, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el lunes, 31 de agosto de 2020. Nota&#58; Los exámenes se retian a las 11&#58;59 hora estándar del centro<br/><br/></div>
+  </div>
+
   Los candidatos para este examen son Azure Developers que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
   <br/>
 
@@ -15,7 +18,7 @@ summary: |-
 
   Los candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube.
 
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTA&#58; Obtendrá las siguientes certificaciones si aprueba este examen&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
+  <div style='font-weight&#58; bold;'><br/>NOTA&#58; Obtendrá las siguientes certificaciones si aprueba este examen&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'Este examen mide su capacidad para cumplir las siguientes funciones técnicas: desarrollar la infraestructura de Azure como un servicio de soluciones informáticas; desarrollar la plataforma de Azure como soluciones informáticas de servicio; Desarrollar para el almacenamiento en Azure; implementar la seguridad de Azure; monitorizar, solucionar los problemas y mejorar las soluciones; y conectarse a y consumir servicios de Azure y servicios de terceros.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
@@ -25,19 +28,19 @@ locales:
 - zh-cn
 - ko
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-204, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el domingo, 31 de mayo de 2020. Descargue el documento medido de habilidades a continuación para ver información detallada sobre los cambios.
+- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-204, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el lunes, 31 de agosto de 2020. Descargue el documento medido de habilidades a continuación para ver información detallada sobre los cambios.'
 - Desarrollar la infraestructura de Azure como una Solución informática de servicio (10-15%)
 - Desarrollar la plataforma de Azure como una Solución informática de servicio (20-25%)
 - Desarrollar almacenamiento Azure (15-20%)
 - Implementar la seguridad de Azure (10-15%)
 - Monitorizar, solucionar los problemas y mejorar las soluciones (10-15%)
 - Conectarse a y consumir los servicios de Azure y los servicios de terceros (20-25%)
-retirementDate: 31/05/2020
+retirementDate: 08/31/2020
 roles:
 - developer
 products:
@@ -78,7 +81,7 @@ resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -90,9 +93,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

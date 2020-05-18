@@ -41,13 +41,11 @@ outlineSection: |-
   - Azure Active Directory
   - Usuarios y grupos
 
-
   #### Laboratorio&#58; Administrar identidades de Azure Active Directory
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Asegurar y administrar identidades con Azure Active Directory.
   - Implementar y gestionar usuarios y grupos.
-
 
   ### Módulo 2&#58; Gobernanza y cumplimiento
   En este módulo, aprenderá a administrar sus suscripciones y cuentas, implementar políticas de Azure y usar el Control de acceso basado en roles.
@@ -67,7 +65,6 @@ outlineSection: |-
   - Implementar la Política de Azure, incluidas las políticas personalizadas.
   - Usar RBAC para asignar permisos.
 
-
   ### Módulo 3&#58; Administración de Azure
   En este módulo, aprenderá sobre las herramientas que usa un administrador de Azure para administrar su infraestructura. Esto incluye el portal de Azure, Cloud Shell, Azure PowerShell, CLI y plantillas de gestor de recursos Este módulo incluye&#58;
   #### Lecciones
@@ -75,7 +72,6 @@ outlineSection: |-
   - Portal de Azure y Cloud Shell
   - Azure PowerShell y CLI
   - Plantillas de ARM
-
 
   #### Laboratorio&#58; Administrar recursos de Azure mediante el portal de Azure
 
@@ -90,7 +86,6 @@ outlineSection: |-
   - Usar el portal de Azure Portal y Cloud Shell.
   - Usar Azure PowerShell y CLI.
   - Usar plantillas ARM para implementar recursos.
-
 
   ### Módulo 4&#58; Redes virtuales
   En este módulo, aprenderá sobre conceptos básicos de redes virtuales como redes virtuales y subredes, direccionamiento IP, grupos de seguridad de red, Azure Firewall y Azure DNS.
@@ -117,7 +112,6 @@ outlineSection: |-
   - VNet Peering
   - VPN Gateway Connections
   - ExpressRoute y Virtual WAN
-
 
   #### Laboratorio&#58; Implementar conectividad entre sitios
 
@@ -173,7 +167,6 @@ outlineSection: |-
   - Disponibilidad de máquinas virtuales
   - Extensiones de máquinas virtuales
 
-
   #### Laboratorio&#58; Gestionar máquinas virtuales
 
   Después de completar este módulo, los estudiantes podrán&#58;
@@ -190,7 +183,6 @@ outlineSection: |-
   - Azure App Service
   - Container Services
   - Azure Kubernetes Service
-
 
   #### Laboratorio&#58; Implementar Web Apps
 
@@ -210,7 +202,6 @@ outlineSection: |-
   - Archivo y copias de seguridad de carpetas
   - Copias de seguridad de máquinas virtuales
 
-
   #### Laboratorio&#58; Implementar protección de datos
 
   Después de completar este módulo, los estudiantes podrán&#58;
@@ -225,7 +216,6 @@ outlineSection: |-
   - Alertas de Azure
   - Log Analytics
   - Network Watcher
-
 
   #### Laboratorio&#58; Implementar supervisión
 

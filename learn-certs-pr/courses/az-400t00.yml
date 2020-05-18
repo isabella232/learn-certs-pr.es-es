@@ -387,7 +387,6 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir los modelos y servicios de implementación que están disponibles con Azure
 
-
   ### Módulo 17&#58; Crear y administrar la infraestructura de servicio de Kubernetes
   #### Lecciones
   - Azure Kubernetes Service
@@ -396,7 +395,6 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar y configurar un clúster de Kubernetes administrado
-
 
   ### Módulo 18&#58; Infraestructura de terceros como herramientas de código disponibles con Azure
   #### Lecciones

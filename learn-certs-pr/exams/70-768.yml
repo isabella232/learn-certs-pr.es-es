@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Developing SQL Data Models
+metadata:
+  title: 'Exam 70-768: Developing SQL Data Models'
+  description: 'Exam 70-768: Developing SQL Data Models'
+uid: exam.70-768
+displayName: 70-768
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Este examen está dirigido a desarrolladores de inteligencia empresarial (BI) que se centran en la creación de soluciones de BI que requieren la implementación de modelos de datos multidimensionales, la implementación y el mantenimiento de cubos OLAP y la implementación de modelos de datos tabulares.
+subTitle: Este examen está dirigido a desarrolladores de inteligencia empresarial (BI) que se centran en la creación de soluciones de BI que requieren la implementación de modelos de datos multidimensionales, la implementación y el mantenimiento de cubos OLAP y la implementación de modelos de datos tabulares.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
+practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Diseño de un modelo semántico de inteligencia empresarial (BI) multidimensional (25-30%)
+- Diseño de un modelo semántico de BI tabular (20-25%)
+- Desarrollo de consultas mediante expresiones multidimensionales (MDX) y expresiones de análisis de datos (DAX) (15-20%)
+- Configuración y mantenimiento de SQL Server Analysis Services (SSAS) (30-35%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20768
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-business-intelligence-certification
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

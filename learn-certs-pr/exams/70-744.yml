@@ -1,0 +1,65 @@
+### YamlMime:Examination
+title: Securing Windows Server 2016
+metadata:
+  title: 'Exam 70-744: Securing Windows Server 2016'
+  description: 'Exam 70-744: Securing Windows Server 2016'
+uid: exam.70-744
+displayName: 70-744
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen protegen los entornos de Windows Server 2016. Los candidatos están familiarizados con los métodos y las tecnologías utilizados para endurecer los entornos de servidor y proteger las infraestructuras de Virtual Machine mediante Virtual Machine protegidas y con cifrado y tejido protegido.
+
+  Los candidatos gestionan la protección de Active Directory y las infraestructuras de Identity y gestionan las identidades privilegiadas usando estrategias Just in Time (JIT) y Just Enough Administration (JEA), además de implementar las estaciones de trabajo de acceso privilegiado (PAW) y proteger los servidores usando la solución de contraseña de administrador local (LAPS).
+
+  Los candidatos deben poder utilizar soluciones de detección de amenazas como acceso a auditorías, implementar análisis avanzados de amenazas (ATA), implementar soluciones de Operations Management Suite (OMS) e identificar soluciones para cargas de trabajo específicas.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Hay actualizaciones del examen en vigor a partir del 2 de noviembre de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 744.</div>
+subTitle: Los candidatos a este examen protegen los entornos de Windows Server 2016. Los candidatos están familiarizados con los métodos y las tecnologías utilizados para endurecer los entornos de servidor y proteger las infraestructuras de Virtual Machine mediante Virtual Machine protegidas y con cifrado y tejido protegido.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
+practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-744&examname=Securing%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-744
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Implementar soluciones de endurecimiento del servidor (25-30%)
+- Proteger una infraestructura de virtualización (5-10%)
+- Proteger una infraestructura de red (10-15%)
+- Gestionar las identidades privilegiadas (25-30%)
+- Implementar soluciones de detección de amenazas (15-20%)
+- Implemente seguridad específica de la carga de trabajo (5-10%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20744
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

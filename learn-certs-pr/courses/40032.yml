@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprender las infraestructuras de redes
+- skill: Comprender el hardware de red
+- skill: Comprender los protocolos y los servicios
+- skill: Comprender las capas de seguridad
+- skill: Comprender la seguridad del sistema operativo
+- skill: Comprender la seguridad de red
+- skill: Comprender el software de seguridad
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  Este paquete doble de capacitación de cinco días lo ayuda a prepararse para los exámenes 98-366 y 98-367 de Microsoft Technology Associate, y a comprender estos temas&#58; Infraestructuras de red, hardware de red, protocolos y servicios, capas de seguridad, seguridad del sistema operativo, seguridad de red, software de seguridad. Estos cursos aprovechan el mismo contenido que se encuentra en el Microsoft Official Academic Course (MOAC) para estos exámenes.
+
+  #### Perfil de audiencia
+  Microsoft Technology Associate (MTA) es el conjunto de exámenes de certificación tecnológica más reciente de Microsoft que valida el conocimiento fundamental necesario para comenzar a desarrollar una carrera profesional utilizando las tecnologías de Microsoft. Este programa proporciona un punto de entrada apropiado para una futura carrera en tecnología y asume cierta experiencia práctica o capacitación, pero no asume experiencia en el trabajo.
+prerequisitesSection: |-
+  No hay requisitos previos para tomar este curso.
+outlineSection: |-
+  ### Módulo 1&#58; Comprender las redes de área local
+
+
+  ### Módulo 2&#58; Definir las redes con el modelo OSI
+
+
+  ### Módulo 3&#58; Comprender las redes cableadas e inalámbricas
+
+
+  ### Módulo 4&#58; Comprender el Protocolo de Internet
+
+
+  ### Módulo 5&#58; Implementación de TCP/IP en la línea de comando
+
+
+  ### Módulo 6&#58; Trabajar con servicios de red
+
+
+  ### Módulo 7&#58; Comprender las redes de área amplia
+
+
+  ### Módulo 8&#58; Definición de infraestructuras de red y seguridad de red
+
+
+  ### Módulo 9&#58; Comprender las capas de seguridad
+
+
+  ### Módulo 10&#58;Autenticación, Autorización y Contabilidad
+
+
+  ### Módulo 11&#58; Comprender las políticas de seguridad
+
+
+  ### Módulo 12&#58; Comprender la seguridad de red
+
+
+  ### Módulo 13&#58; Proteger el servidor y el cliente
+

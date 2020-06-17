@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Windows Server Administration Fundamentals
+metadata:
+  title: 'Exam 98-365: Windows Server Administration Fundamentals'
+  description: 'Exam 98-365: Windows Server Administration Fundamentals'
+uid: exam.98-365
+displayName: 98-365
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos a este examen están familiarizados con los conceptos y las tecnologías de administración de Windows Server. Los candidatos deben tener experiencia práctica con Windows Server, redes basadas en Windows, Active Directory, administración de cuentas y herramientas, y conceptos para la recuperación de sistemas.
+
+  <div style='font-weight&#58; bold;'><br/>Hay actualizaciones del examen en vigor a partir del miércoles, 31 de enero de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 98-365.</div>
+subTitle: Los candidatos a este examen están familiarizados con los conceptos y las tecnologías de administración de Windows Server. Los candidatos deben tener experiencia práctica con Windows Server, redes basadas en Windows, Active Directory, administración de cuentas y herramientas, y conceptos para la recuperación de sistemas.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Conocimientos sobre la instalación de servidores (10-15%)
+- Conocimientos sobre los roles de servidor (25-30%)
+- Conocimientos sobre Active Directory (20-25%)
+- Conocimientos sobre almacenamiento (10–15%)
+- Conocimientos sobre la administración del rendimiento de servidores (10-15%)
+- Conocimientos sobre el mantenimiento de servidores (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-server-administration-fundamentals
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

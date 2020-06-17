@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Windows Operating System Fundamentals
+metadata:
+  title: 'Exam 98-349: Windows Operating System Fundamentals'
+  description: 'Exam 98-349: Windows Operating System Fundamentals'
+uid: exam.98-349
+displayName: 98-349
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos a este examen deben conocer los conceptos básicos del sistema operativo Windows en un entorno de Windows 10.
+
+  <div style='font-weight&#58; bold;'><br/>A fecha de 31 de agosto de 2016, este examen incluye actualizaciones para Windows 10, incluida la deinstalación de herramientas no compatibles con Windows 10. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 98-349.</div>
+subTitle: Los candidatos a este examen deben conocer los conceptos básicos del sistema operativo Windows en un entorno de Windows 10.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Comprensión de la configuración del sistema operativo (15–20%)
+- Instalación y actualización de los sistemas cliente (15–20%)
+- Administración de aplicaciones (15–20%)
+- Administración de archivos y carpetas (15–20%)
+- Administración de dispositivos (15–20%)
+- Comprensión del mantenimiento del sistema operativo (15–20%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40349
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-operating-system-fundamentals
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

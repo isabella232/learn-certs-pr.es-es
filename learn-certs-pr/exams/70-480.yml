@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Programming in HTML5 with JavaScript and CSS3
+metadata:
+  title: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+  description: 'Exam 70-480: Programming in HTML5 with JavaScript and CSS3'
+uid: exam.70-480
+displayName: 70-480
+summary: |+
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos para este examen son desarrolladores con al menos un año de experiencia en desarrollo con HTML en un modelo basado en objetos y conducido por eventos y lógica esencial de programación para diversos tipos de aplicación, plataformas de software y hardware usando JavaScript.
+
+  Los candidatos deben comprender bien lo siguiente&#58;
+  - Gestionar el flujo del programa y los eventos
+  - Programación asincronizada
+  - Validación de datos y trabajar con recopilaciones de datos incluyendo JQuery
+  - Procesar los errores y excepciones
+  - Grupos y colecciones
+  - Trabajar con variables, operadores y expresiones
+  - Trabajar con prototipos y métodos
+  - Declaraciones de iteraciones y decisiones
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Hay actualizaciones del examen en vigor a partir del 14 de diciembre de 2017. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 480.</div>
+subTitle: Los candidatos para este examen son desarrolladores con al menos un año de experiencia en desarrollo con HTML en un modelo basado en objetos y conducido por eventos y lógica esencial de programación para diversos tipos de aplicación, plataformas de software y hardware usando JavaScript.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
+practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-480&examname=Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-480
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Implementar y manipular estructuras y objetos de los documentos (20-25%)
+- Implementar del flujo de programa (25-30%)
+- Acceder y asegurar los datos (25-30%)
+- Usar CSS3 en aplicaciones (25-30%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20480
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos para este examen son desarrolladores de aplicaciones que trabajan con Java 6 SE o posterior, estudiantes de secundaria o post-secundaria de desarrollo de software, o desarrolladores de software principiantes.
+
+  Los candidatos deben tener al menos 150 horas de instrucción o experiencia práctica con Java, estén familiarizados con sus funciones y capacidades, y comprendan cómo escribir, depurar y mantener código Java bien documentado.
+subTitle: Los candidatos para este examen son desarrolladores de aplicaciones que trabajan con Java 6 SE o posterior, estudiantes de secundaria o post-secundaria de desarrollo de software, o desarrolladores de software principiantes.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Comprender los aspectos fundamentales de Java (15-20%)
+- Trabajar con tipos de datos, variables y expresiones (40-45%)
+- Implementar control de flujo (15-20%)
+- Realizar programación orientada en objetos (10-15%)
+- Compilación y depuración del código (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

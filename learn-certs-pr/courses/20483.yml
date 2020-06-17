@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: Programming in C#
+metadata:
+  title: 'Course 20483-C: Programming in C#'
+  description: 'Course 20483-C: Programming in C#'
+uid: course.20483
+courseNumber: '20483-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir la sintaxis central y las características de Visual C#.
+- skill: Crear métodos, manejar excepciones y describir los requisitos de supervisión de aplicaciones a gran escala.
+- skill: Implementar la estructura básica y los elementos esenciales de una aplicación de escritorio típica.
+- skill: Crear clases, defina e implemente interfaces, y crear y usar colecciones genéricas.
+- skill: Usar la herencia para crear una jerarquía de clases y extender una clase de .NET Framework.
+- skill: Leer y escribir datos utilizando la entrada/salida de archivos y flujos, y serializar y deserializar datos en diferentes formatos.
+- skill: Crear y usar un modelo de datos de entidad para acceder a una base de datos y usar LINQ para consultar datos.
+- skill: Acceder y consultar datos remotos utilizando los tipos en el espacio de nombres System.Net y WCF Data Services.
+- skill: Crear una interfaz gráfica de usuario utilizando XAML.
+- skill: Mejorar el rendimiento y el tiempo de respuesta de las aplicaciones mediante el uso de tareas y operaciones asincrónicas.
+- skill: Integrar bibliotecas no administradas y componentes dinámicos en una aplicación de Visual C#.
+- skill: Examinar los metadatos de los tipos mediante la reflexión, cree y usar atributos personalizados, generar código en tiempo de ejecución y administrar versiones de ensamblaje.
+- skill: Cifrar y descifrar datos mediante el cifrado simétrico y asimétrico.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.70-483
+summary: |-
+  Este curso de capacitación enseña a los desarrolladores las habilidades de programación que se requieren para que los desarrolladores creen aplicaciones de Windows utilizando el lenguaje Visual C#. Durante sus cinco días en el aula, los estudiantes revisan los conceptos básicos de la estructura del programa Visual C#, la sintaxis del lenguaje y los detalles de implementación, y luego consolidan sus conocimientos durante la semana a medida que crean una aplicación que incorpora varias características de .NET Framework 4.7.
+
+  #### Perfil de audiencia
+  Este curso está dirigido a desarrolladores experimentados que ya tienen experiencia en programación en C, C ++, JavaScript, Objective-C, Microsoft Visual Basic o Java y entienden los conceptos de programación orientada a objetos. Este curso no está diseñado para estudiantes que son nuevos en la programación. Está dirigido a desarrolladores profesionales con al menos un mes de experiencia en programación en un entorno orientado a objetos.
+prerequisitesSection: |-
+  Los desarrolladores que asisten a este curso ya deberían haber adquirido una experiencia limitada usando C# para completar tareas básicas de programación. Más específicamente, los estudiantes deben tener experiencia práctica en el uso de C# que demuestre su comprensión de lo siguiente&#58;
+  - Cómo nombrar, declarar, inicializar y asignar valores a variables dentro de una aplicación.
+  - Cómo usar&#58; operadores aritméticos para realizar cálculos aritméticos con una o más variables; operadores relacionales para probar la relación entre dos variables o expresiones; operadores lógicos para combinar expresiones que contienen operadores relacionales.
+  - Cómo crear la sintaxis de código para declaraciones de programación simples usando palabras clave del lenguaje C# y reconocer errores de sintaxis usando el IDE de Visual Studio.
+  - Cómo crear una estructura de ramificación simple usando una declaración IF.
+  - Cómo crear una estructura de bucle simple usando una instrucción para iterar a través de una matriz de datos.
+  - Cómo usar el IDE de Visual Studio para localizar errores lógicos simples.
+  - Cómo crear una función que acepte argumentos (parámetros y devuelva un valor de un tipo especificado).
+  - Cómo diseñar y construir una interfaz de usuario simple utilizando controles estándar de la caja de herramientas de Visual Studio.
+  - Cómo conectarse a una base de datos de SQL Server y los conceptos básicos sobre cómo recuperar y almacenar datos.
+  - Cómo ordenar datos en un bucle.
+  - Cómo reconocer las clases y los métodos utilizados en un programa.
+outlineSection: |-
+  ### Módulo 1&#58; Revisión de la sintaxis de Visual C#
+  Microsoft .NET Framework versión 4.7 proporciona una plataforma de desarrollo integral que puede usar para construir, implementar y administrar aplicaciones y servicios. Al usar .NET Framework, puede crear aplicaciones visualmente atractivas, permitir una comunicación fluida a través de los límites de la tecnología y brindar soporte para una amplia gama de procesos de negocios.
+
+  En este módulo, aprenderá sobre algunas de las características principales proporcionadas por .NET Framework y Microsoft Visual Studio. También aprenderá sobre algunas de las construcciones principales de Visual C# que le permiten comenzar a desarrollar aplicaciones .NET Framework.
+
+  #### Lecciones
+  - Descripción general de la aplicación de escritura mediante Visual C#
+  - Tipos de datos, operadores y expresiones
+  - Construcciones del lenguaje de programación Visual C#
+
+
+  #### Laboratorio&#58; Implementación de la funcionalidad editar para la lista de estudiantes
+  - Implementación de la funcionalidad insertar para la lista de estudiantes
+  - Implementación de la funcionalidad eliminar para la lista de estudiantes
+  - Mostrar la edad de un estudiante
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la arquitectura de las aplicaciones .NET Framework y las características que proporcionan Visual Studio 2017 y Visual C#.
+  - Usar tipos de datos, operadores y expresiones básicos de Visual C#.
+  - Utilizar construcciones estándar de Visual C#.
+
+  ### Módulo 2&#58; Creación de métodos, manejo de excepciones y aplicaciones de supervisión
+  Las aplicaciones generalmente consisten en unidades lógicas de funcionalidad que realizan funciones específicas, como proporcionar acceso a datos o activar algún procesamiento lógico. Visual C# es un lenguaje orientado a objetos y utiliza el concepto de métodos para encapsular unidades lógicas de funcionalidad. Un método puede ser tan simple o complejo como desee y, por lo tanto, es importante tener en cuenta qué sucede con el estado de su aplicación cuando se produce una excepción en un método.
+
+  En este módulo, aprenderá cómo crear y usar métodos y cómo manejar excepciones. También aprenderá a usar el registro y el seguimiento para registrar los detalles de cualquier excepción que ocurra.
+
+  #### Lecciones
+  - Crear e invocar métodos
+  - Creación de métodos sobrecargados y uso de parámetros opcionales y de salida
+  - Manejo de excepciones
+  - Supervisión de aplicaciones
+
+
+  #### Laboratorio&#58; Ampliación de la funcionalidad de la aplicación de inscripción de clase
+  - Refactorización el Código de Inscripción
+  - Validación de información del estudiante
+  - Guardar cambios en la lista de clase
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear e invocar métodos.
+  - Crear métodos sobrecargados y usar parámetros opcionales.
+  - Manejo de excepciones.
+  - Supervisar las aplicaciones mediante el registro, el seguimiento y la creación de perfiles.
+
+  ### Módulo 3&#58; Tipos básicos y construcciones de Visual C#
+  Para crear aplicaciones efectivas utilizando Windows Presentation Foundation (WPF) u otras plataformas .NET Framework, primero debe aprender algunas construcciones básicas de Visual C#. Necesita saber cómo crear estructuras simples para representar los elementos de datos con los que está trabajando. Debe saber cómo organizar estas estructuras en colecciones para poder agregar elementos, recuperar elementos e iterar sobre ellos. Finalmente, necesita saber cómo suscribirse a eventos para poder responder a las acciones de sus usuarios.
+
+  En este módulo, aprenderá a crear y usar estructuras y enumeraciones, organizar datos en colecciones y crear y suscribirse a eventos.
+
+  #### Lecciones
+  - Implementación de estructuras y enumeraciones
+  - Organización de datos en colecciones
+  - Manejo de eventos
+
+
+  #### Laboratorio&#58; Escribir el código para la aplicación del prototipo de grados
+  - Agregar lógica de navegación a la aplicación Prototipos de grados
+  - Creación de tipos de datos para almacenar información de usuarios y calificaciones
+  - Mostrar información de usuarios y calificaciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear y usar estructuras y enumeraciones.
+  - Usar clases de recopilación para organizar datos.
+  - Crear y suscribirse a eventos.
+
+  ### Módulo 4&#58; Crear clases e implementar colecciones de tipos seguros
+  En este módulo, aprenderá a usar interfaces y clases para definir y crear sus propios tipos personalizados y reutilizables. También aprenderá cómo crear y usar colecciones de cualquier tipo enumerables y seguras.
+  #### Lecciones
+  - Crear clases
+  - Definición e implementación de interfaces
+  - Implementación de colecciones de tipo seguro
+
+
+  #### Laboratorio&#58; Agregar validación de datos y seguridad de tipo a la aplicación
+  - Implementar las estructuras de maestro, estudiante y grado como clases
+  - Agregar validación de datos a la clase de calificación
+  - Mostrar estudiantes en orden de nombres
+  - Permitir a los maestros modificar datos de clase y grado
+
+  Después de completar este módulo, podrá&#58;
+  - Crear e instanciar clases.
+  - Crear e instanciar interfaces.
+  - Usar genéricos para crear colecciones de tipos seguros.
+
+
+  ### Módulo 5&#58; Crear una jerarquía de clases mediante el uso de herencia
+  En este módulo, aprenderá a usar la herencia para crear jerarquías de clases y extender los tipos de .NET Framework.
+  #### Lecciones
+  - Crear jerarquías de clases
+  - Extender las clases de .NET Framework
+
+
+  #### Laboratorio&#58; Refactorizar la funcionalidad común en la clase de usuario
+  Refactorizar la funcionalidad común en la clase de usuario
+  - Implementar la complejidad de la contraseña mediante un método abstracto
+  - Crear la excepción personalizada ClassFullException
+
+  Después de completar este módulo, podrá&#58;
+  - Crear clases base y clases derivadas mediante el uso de la herencia.
+  - Crear clases que hereden de las clases de .NET Framework.
+
+
+  ### Módulo 6&#58; Leer y escribir datos locales
+  En este módulo, aprenderá a leer y escribir datos utilizando operaciones de E/S del sistema de archivos transaccionales, cómo serializar y deserializar datos al sistema de archivos, y cómo leer y escribir datos en el sistema de archivos mediante el uso de flujos.
+  #### Lecciones
+  - Lectura y escritura de archivos
+  - Serialización y deserialización de datos
+  - Realización de E/S mediante el uso de secuencias
+
+
+  #### Laboratorio&#58; Generar el informe de calificaciones
+  - Serialización de datos para el informe de calificaciones como XML
+  - Vista preliminar del informe de calificaciones
+  - Continuar los datos de calificación serializados en un archivo
+
+  Después de completar este módulo, podrá&#58;
+  - Leer y escribir datos hacia y desde el sistema de archivos mediante el uso de E/S de archivo.
+  - Convertir datos en un formato que pueda escribirse o leerse desde un archivo u otra fuente de datos.
+  - Usar transmisiones para enviar y recibir datos hacia o desde un archivo o fuente de datos.
+
+
+  ### Módulo 7&#58; Acceder a base de datos
+  En este módulo, aprenderá cómo crear y usar modelos de datos de entidad (EDM) y cómo consultar muchos tipos de datos mediante la consulta integrada de lenguaje (LINQ).
+  #### Lecciones
+  - Creación y uso de modelos de datos de entidad
+  - Consulta de datos mediante LINQ
+
+
+  #### Laboratorio&#58; Recuperar y modificar datos de calificaciones
+  - Crear un modelo de datos de entidad a partir de la base de datos de la Escuela de Bellas Artes
+  - Actualización de datos de estudiantes y calificaciones mediante el marco de la entidad
+  - Ampliación del modelo de datos de entidad para validar datos
+
+  Después de completar este módulo, podrá&#58;
+  - Crear, usar y personalizar un EDM.
+  - Consultar datos mediante LINQ.
+
+
+  ### Módulo 8&#58; Acceder a datos remotos
+  En este módulo, aprenderá a usar las clases de solicitud y respuesta en el espacio de nombres System.Net para manipular directamente las fuentes de datos remotas. También aprenderá a usar los Servicios de datos de Windows Communication Foundation (WCF) para exponer y consumir un modelo de datos de entidad (EDM) en la web.
+  #### Lecciones
+  - Acceso a datos a través de la web
+  - Acceso a datos mediante el uso de servicios conectados de ODa
+
+
+  #### Laboratorio&#58; Recuperar y modificar datos de calificaciones de manera remota
+  - Creación de un servicio de datos WCF para la base de datos SchoolGrades
+  - Integración del servicio de datos en la aplicación
+  - Recuperación de fotografías de estudiantes a través de la Web (si el tiempo lo permite)
+
+  Después de completar este módulo, podrá&#58;
+  - Enviar y recibir datos de servicios web y otras fuentes de datos remotas.
+  - Acceder a los datos utilizando WCF Data Services.
+
+
+  ### Módulo 9&#58; Diseño de la interfaz de usuario para una aplicación gráfica
+  En este módulo, aprenderá a usar el Lenguaje de marcado de aplicación extensible (XAML) y Windows Presentation Foundation (WPF) para crear interfaces de usuario atractivas.
+  #### Lecciones
+  - Uso de XAML para diseñar una interfaz de usuario
+  - Controles vinculantes a datos
+
+
+  #### Laboratorio&#58; Personalización de fotografías de estudiantes y diseño de la aplicación
+  - Personalización de la apariencia de fotografías de estudiantes
+  - Diseño de la vista de inicio de sesión
+  - Animación del control de StudentPhoto (si el tiempo lo permite)
+
+  Después de completar este módulo, podrá&#58;
+  - Usar XAML para diseñar una interfaz de usuario.
+  - Vincular un control XAML a datos.
+  - Aplicar estilos a una interfaz de usuario XAML.
+
+
+  ### Módulo 10&#58; Mejorar el rendimiento de la aplicación y la capacidad de respuesta
+  En este módulo, aprenderá cómo mejorar el rendimiento de sus aplicaciones distribuyendo sus operaciones en varios subprocesos.
+  #### Lecciones
+  - Implementación de tareas múltiples
+  - Realización de operaciones asincrónicas
+  - Sincronización de acceso concurrente a datos
+
+
+  #### Laboratorio&#58; Mejorar la capacidad de respuesta y el rendimiento de la aplicación
+  - Asegurarse de que la interfaz de usuario permanece receptiva al recuperar los datos del profesor
+  - Proporcionar retroalimentación visual durante operaciones de larga duración
+
+  Después de completar este módulo, podrá&#58;
+  - Usar la Biblioteca de tareas paralelas para implementar la multitarea.
+  - Realizar operaciones de larga duración sin bloquear hilos.
+  - Controlar cómo múltiples hilos pueden acceder a los recursos simultáneamente.
+
+
+  ### Módulo 11&#58; Integración con código no administrado
+  En este módulo, aprenderá cómo interoperar código no administrado en sus aplicaciones y cómo asegurarse de que su código libere recursos no administrados.
+  #### Lecciones
+  - Crear y usar objetos dinámicos
+  - Administrar la vida útil de los objetos y controlar los recursos no administrados
+
+
+  #### Laboratorio&#58; Actualización el informe de calificaciones
+  - Generar el informe de calificaciones con Word
+  - Controlar la vida útil de los objetos de Word mediante la implementación del patrón de eliminación
+
+  Después de completar este módulo, podrá&#58;
+  - Integrar el código no administrado en una aplicación de Microsoft Visual C# utilizando el Dynamic Language Runtime (DLR).
+  - Controlar la vida útil de los recursos no administrados y asegurarse de que su aplicación libere recursos.
+
+
+  ### Módulo 12&#58; Crear tipos y ensamblados reutilizables
+  En este módulo, aprenderá cómo consumir ensamblados existentes mediante el uso de la reflexión y cómo agregar metadatos adicionales a los tipos y miembros de tipo mediante el uso de atributos. También aprenderá cómo generar código en tiempo de ejecución utilizando el Modelo de objeto de documento de código (CodeDOM) y cómo asegurarse de que sus ensamblajes estén firmados y versionados, y disponibles para otras aplicaciones, utilizando el caché de ensamblados global (GAC).
+  #### Lecciones
+  - Examen de metadatos de objetos
+  - Crear y usar atributos personalizados
+  - Generar código administrado
+  - Versiones, firma y despliegue de ensamblados
+
+
+  #### Laboratorio&#58; Especificar los datos a incluir en el informe de calificaciones
+  - Crear y aplicar el atributo IncludeInReport
+  - Actualizar el informe
+  - Almacenamiento de los grados. Conjunto de servicios públicos centralmente (si el tiempo lo permite)
+
+  Después de completar este módulo, podrá&#58;
+  - Utilizar la reflexión para inspeccionar y ejecutar ensamblados.
+  - Crear y consumir atributos personalizados.
+  - Generar código administrado en tiempo de ejecución mediante CodeDOM.
+  - Versionar, firmar e implementar sus ensamblados en el GAC.
+
+
+  ### Módulo 13&#58; Cifrar y descifrar datos
+  En este módulo, aprenderá cómo implementar el cifrado simétrico y asimétrico y cómo usar hashes para generar representaciones matemáticas de sus datos. También aprenderá cómo crear y administrar certificados X509 y cómo usarlos en el proceso de cifrado asimétrico.
+  #### Lecciones
+  - Implementación de cifrado simétrico
+  - Implementación de cifrado asimétrico
+
+
+  #### Laboratorio&#58; Cifrar y descifrar el informe de calificaciones
+  - Cifrar el informe de calificaciones
+  - Cifrar el informe de calificaciones
+
+  Después de completar este módulo, podrá&#58;
+  - Cifrar datos mediante el cifrado simétrico.
+  - Cifrar datos mediante el cifrado asimétrico.
+

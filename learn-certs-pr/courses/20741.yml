@@ -1,0 +1,284 @@
+### YamlMime:Course
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Course 20741-B: Networking with Windows Server 2016'
+  description: 'Course 20741-B: Networking with Windows Server 2016'
+uid: course.20741
+courseNumber: '20741-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar e implementar una red IPv4.
+- skill: Implementar el Protocolo de configuración dinámica de host (DHCP).
+- skill: Implementar IPv6.
+- skill: Implementar el Sistema de nombres de dominio (DNS).
+- skill: Implementar y gestionar la administración de direcciones IP (IPAM).
+- skill: Plan de acceso remoto.
+- skill: Implementar DirectAccess.
+- skill: Implementar redes privadas virtuales (VPN).
+- skill: Implementar redes para sucursales.
+- skill: Configurar características de red avanzadas.
+- skill: Implementar redes definidas por software.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-741
+summary: |-
+  Este curso de 5 días en el aula proporciona las habilidades de red fundamentales necesarias para implementar y admitir Windows Server 2016 en la mayoría de las organizaciones. Cubre los fundamentos de IP, las tecnologías de acceso remoto y el contenido más avanzado, incluida la red definida por software.
+
+  #### Perfil de audiencia
+  Este curso está dirigido a profesionales de TI existentes que tienen algunos conocimientos y experiencia en redes y están buscando un curso único que brinde información sobre las tecnologías de redes básicas y avanzadas en Windows Server 2016. El público típicamente incluiría&#58;
+  - Administradores de red que buscan reforzar las habilidades existentes y aprender sobre los nuevos cambios y la funcionalidad de la tecnología de redes en Windows Server 2016.
+  - Administradores de sistemas o infraestructura con conocimientos generales de redes que buscan obtener conocimientos y habilidades de redes básicas y avanzadas en Windows Server 2016.
+
+  El público secundario para este curso son aquellos profesionales de TI que buscan tomar el examen MCSA 70-741&#58; Redes con Windows Server 2016.
+prerequisitesSection: |-
+  Además de la experiencia profesional, los estudiantes que asisten a esta capacitación ya deben tener los siguientes conocimientos técnicos&#58;
+  - Experiencia trabajando con Windows Server 2008 o Windows Server 2012
+  - Experiencia trabajando en un entorno empresarial de infraestructura de Windows Server
+  - Conocimiento del modelo de interconexión de sistemas abiertos (OSI)
+  - Comprensión de los componentes y tecnologías centrales de la infraestructura de red, tales como cableado, enrutadores, concentradores y conmutadores
+  - Familiaridad con las topologías y arquitecturas de redes, tales como redes de área local (LAN), redes de área amplia (WAN) y redes inalámbricas
+  - Algunos conocimientos básicos de pila de protocolos TCP/IP, direccionamiento y resolución de nombres
+  - Experiencia y conocimiento de Hyper-V y virtualización
+  - Experiencia práctica trabajando con los sistemas operativos cliente de Windows, como Windows 8.1 o Windows 10
+
+  Los estudiantes pueden cumplir con los requisitos previos al asistir al siguiente curso, o si tienen conocimientos y habilidades equivalentes a&#58;
+  - [10967A&#58; Fundamentos de una infraestructura de servidor de Windows](https://www.microsoft.com/learning/course.aspx?cid=10967)
+outlineSection: |-
+  ### Módulo 1&#58; Planificación e implementación de una red IPv4
+  Este módulo también explica cómo usar las herramientas y técnicas de red fundamentales para configurar y solucionar problemas de redes basadas en IPv4.
+  #### Lecciones
+  - Planificación de direccionamiento IPv4
+  - Configuración de un host IPv4
+  - Gestión y solución de problemas de conectividad de red IPv4
+
+
+  #### Laboratorio &#58; Planificación de una red IPv4
+  - Planificación de las asignaciones de direcciones IPv4
+
+
+  #### Laboratorio &#58; Implementación y solución de problemas de una red IPv4
+  - Verificación de IPv4
+  - Solución de problemas de IPv4
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planifique el direccionamiento IPv4.
+  - Configurar un host IPv4.
+  - Gestionar y solucionar problemas de conectividad de red IPv4
+
+
+  ### Módulo 2&#58; Implementación de DHCP
+  Este módulo explica cómo planificar e implementar DHCP para admitir la infraestructura IPv4.
+  #### Lecciones
+  - Descripción general de la función del servidor DHCP
+  - Implementación de DHCP
+  - Gestión y solución de problemas de DHCP
+
+
+  #### Laboratorio &#58; Implementación de DHCP
+  - Planificación de una implementación de servidor DHCP
+  - Implementación de la configuración DHCP
+  - Validación de la implementación de DHCP
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar el rol del servidor DHCP.
+  - Implementar DHCP.
+  - Administrar y solucionar problemas de DHCP.
+
+
+  ### Módulo 3&#58; Implementación de IPv6
+  Este módulo explica cómo implementar IPv6 y cómo integrar redes IPv6 e IPv4.
+  #### Lecciones
+  - Descripción general del direccionamiento IPv6
+  - Configuración de un host IPv6
+  - Implementación de la coexistencia IPv6 e IPv4
+  - Transición de IPv4 a IPv6
+
+
+  #### Laboratorio &#58; Configuración y evaluación de tecnologías de transición IPv6
+  - Revisión de la configuración predeterminada de IPv6
+  - Implementación de DHCPv6
+  - Configuración de la integración de red mediante ISATAP
+  - Configuración de conectividad nativa IPv6
+  - Configuración de conectividad 6to4
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características y beneficios de IPv6.
+  - Configurar un host IPv6.
+  - Implementar la coexistencia entre redes IPv4 e IPv6.
+  - Transición de una red IPv4 a una red IPv6.
+
+
+  ### Módulo 4&#58; Implementación de DNS
+  Este módulo explica cómo instalar, configurar y solucionar problemas de DNS dentro de la red de la organización.
+  #### Lecciones
+  - Implementación de servidores DNS
+  - Configuración de zonas en DNS
+  - Configuración de la resolución de nombres entre zonas DNS
+  - Configuración de la integración de DNS con los Servicios de dominio de Active Directory (AD DS)
+  - Configuración avanzada de DNS
+
+
+  #### Laboratorio &#58; Planificación e implementación de la resolución de nombres utilizando DNS
+  - Planificación de la resolución de nombres DNS
+  - Implementación de servidores y zonas DNS
+
+
+  #### Laboratorio &#58; Integrar DNS con Active Directory
+  - Integración de DNS con Active Directory
+
+
+  #### Laboratorio &#58; Configuración de ajustes avanzados de DNS
+  - Configuración de políticas de DNS
+  - Validación de la implementación de DNS
+  - Solución de problemas de DNS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar servidores DNS.
+  - Configurar zonas en DNS.
+  - Configurar la resolución de nombres entre zonas DNS.
+  - Configurar la integración de DNS con AD DS.
+  - Configurar ajustes avanzados de DNS
+
+
+  ### Módulo 5&#58; Implementación y gestión de IPAM
+  Este módulo explica cómo implementar y administrar la función IPAM en Windows Server 2016. Este módulo también explica cómo usar IPAM para administrar servicios como DHCP y DNS.
+  #### Lecciones
+  - Descripción general de IPAM
+  - Implementación de IPAM
+  - Gestión de espacios de direcciones IP mediante IPAM
+
+
+  #### Laboratorio &#58; Implementación de IPAM
+  - Instalación de la función del servidor IPAM
+  - Aprovisionamiento del servidor IPAM
+  - Gestión de espacios de direcciones IP mediante IPAM
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la funcionalidad y los componentes de IPAM.
+  - Implementar IPAM.
+  - Administrar espacios de direcciones IP mediante IPAM.
+
+
+  ### Módulo 6&#58; Acceso remoto en Windows Server 2016
+  Este módulo explica cómo planificar el acceso remoto en Windows Server 2016 y cómo implementar el Proxy de aplicación web.
+  #### Lecciones
+  - Descripción general del acceso remoto
+  - Implementación del proxy de aplicación web
+
+
+  #### Laboratorio &#58; Implementación de Proxy de aplicación web
+  - Implementación de Proxy de aplicación web
+  - Validación de la implementación del Proxy de aplicación web
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el acceso remoto.
+  - Implementar proxy de aplicación web.
+
+
+  ### Módulo 7&#58; Implementación de DirectAccess
+  Este módulo explica cómo implementar y administrar DirectAccess en Windows Server 2016.
+  #### Lecciones
+  - Descripción general de DirectAccess
+  - Implementar DirectAccess utilizando el Asistente para introducción
+  - Implementación y administración de una infraestructura avanzada de DirectAccess
+
+
+  #### Laboratorio &#58; Implementación de DirectAccess mediante el Asistente para introducción
+  - Verificación de la preparación para una implementación de DirectAccess
+  - Configuración de DirectAccess
+  - Validación de la implementación de DirectAccess
+
+
+  #### Laboratorio &#58; Implementar una solución avanzada de DirectAccess
+  - Preparación del entorno para DirectAccess
+  - Implementación de la infraestructura avanzada de DirectAccess
+  - Validación de la implementación de DirectAccess
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar DirectAccess y cómo funciona.
+  - Implementar DirectAccess utilizando el Asistente para introducción.
+  - Implementar y administrar una infraestructura avanzada de DirectAccess.
+
+
+  ### Módulo 8&#58; Implementación de VPN
+  Este módulo explica cómo implementar y administrar el acceso remoto en Windows Server 2016 mediante el uso de VPN.
+  #### Lecciones
+  - Planificación de VPN
+  - Implementación de VPN
+
+
+  #### Laboratorio &#58; Implementación de VPN
+  - Implementación de VPN
+  - Validación de la implementación de VPN
+  - Solución de problemas de acceso VPN
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar una solución VPN.
+  - Implementar VPN.
+
+
+  ### Módulo 9&#58; Implementación de redes para sucursales
+  Este módulo explica cómo implementar servicios de red para sucursales.
+  #### Lecciones
+  - Funciones de red y consideraciones para sucursales
+  - Implementación del Sistema de archivos distribuidos (DFS) para sucursales
+  - Implementación de BranchCache para sucursales
+
+
+  #### Laboratorio &#58; Implementación de DFS para sucursales
+  - Implementación de DFS
+  - Validar la implementación
+
+
+  #### Laboratorio &#58; Implementación de BranchCache
+  - Implementación de BranchCache
+  - Validar la implementación
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características y consideraciones de red para las sucursales.
+  - Implementar DFS para sucursales.
+  - Implementar BranchCache para sucursales.
+
+
+  ### Módulo 10&#58; Configurar características de red avanzadas
+  Este módulo explica cómo implementar una infraestructura de red avanzada.
+  #### Lecciones
+  - Descripción general de las funciones de red de alto rendimiento
+  - Configuración de funciones de red avanzadas de Microsoft Hyper-V
+
+
+  #### Laboratorio &#58; Configuración de funciones de red avanzadas de Hyper-V
+  - Creación y uso de conmutadores virtuales Hyper-V
+  - Configuración y uso de las funciones avanzadas de un conmutador virtual
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las mejoras de red de alto rendimiento en Windows Server 2016.
+  - Configurar las funciones avanzadas de red de Microsoft Hyper-V.
+
+
+  ### Módulo 11&#58; Implementación de redes definidas por software
+  Este módulo explica cómo implementar SDN.
+  #### Lecciones
+  - Descripción general de SDN.
+  - Implementación de virtualización de red
+  - Implementación de controlador de red
+
+
+  #### Laboratorio &#58; Implementación de controlador de red
+  - Preparación para implementar el controlador de red
+  - Implementación del controlador de red
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir SDN.
+  - Implementar virtualización de red.
+  - Implementar controlador de red.
+

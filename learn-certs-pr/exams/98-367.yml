@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Security Fundamentals
+metadata:
+  title: 'Exam 98-367: Security Fundamentals'
+  description: 'Exam 98-367: Security Fundamentals'
+uid: exam.98-367
+displayName: 98-367
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Este examen valida que un candidato tiene habilidades y conocimientos fundamentales sobre seguridad. También puede servir de trampolín para los exámenes de Microsoft Certified Solutions Associate (MCSA). Se recomienda que los candidatos se familiaricen con los conceptos y las tecnologías aquí descritas tomando parte en los cursos de formación pertinentes. Los candidatos deberán tener experiencia práctica con Windows Server, redes basadas en Windows, Active Directory, productos antimalware, firewall, dispositivos y topologías de red, y puertos de red.
+
+  <div style='font-weight&#58; bold;'><br/>Desde el 23 de junio de 2016, este examen incluye actualizaciones de Windows 10, además de actualizaciones de seguridad y términos de amenaza. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 98-367.</div>
+subTitle: Este examen valida que un candidato tiene habilidades y conocimientos fundamentales sobre seguridad. También puede servir de trampolín para los exámenes de Microsoft Certified Solutions Associate (MCSA). Se recomienda que los candidatos se familiaricen con los conceptos y las tecnologías aquí descritas tomando parte en los cursos de formación pertinentes. Los candidatos deberán tener experiencia práctica con Windows Server, redes basadas en Windows, Active Directory, productos antimalware, firewall, dispositivos y topologías de red, y puertos de red.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
+practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Comprensión de las capas de seguridad (25–30%)
+- Comprensión de la seguridad del sistema operativo (35–40%)
+- Comprensión de la seguridad de red (20–25%)
+- Comprensión del software de seguridad (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40367
+relatedCertifications:
+- related:
+    uid: certification.mta-security-fundamentals
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

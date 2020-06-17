@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planificar una solución BI.
+- skill: Planificar infraestructura BI de SQL Server.
+- skill: Diseñar un almacén de datos.
+- skill: Diseñar una solución de extraer, transformar y cargar (ETL).
+- skill: Diseñar modelos de datos analíticos.
+- skill: Planificar una solución de entrega BI.
+- skill: Diseñar una solución de informar servicios.
+- skill: Diseñar una solución de informes basada en Microsoft Excel.
+- skill: Planificar una solución de BI de SharePoint Server.
+- skill: Supervisar y optimizar soluciones de datos.
+- skill: Operar una solución BI.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  Este curso de capacitación enseña a los profesionales de bases de datos e inteligencia empresarial (BI) cómo planificar y diseñar una solución de BI basada en Microsoft SQL Server 2014 y otras tecnologías de Microsoft BI.
+
+  #### Perfil de audiencia
+  Este curso no está diseñado para estudiantes que son nuevos en las tecnologías de BI de SQL Server 2014; Está dirigido a profesionales de BI con experiencia en la implementación de soluciones con SQL Server database Engine, SQL Server Integration Services, SQL Server Analysis Services y SQL Server Reporting Services.
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que realicen este curso ya deben contar con los siguientes conocimientos técnicos&#58;
+  - Una comprensión básica del modelado dimensional (esquema en estrella) para almacenes de datos
+  - Conocimientos básicos de hardware del servidor
+  - La capacidad de crear paquetes de Integration Services que incluyen flujos de control y flujos de datos
+  - La capacidad de crear un cubo multidimensional básico con Analysis Services
+  - La capacidad de crear un modelo tabular básico con PowerPivot y Analysis Services
+  - La capacidad de crear informes de Reporting Services con Report Designer
+  - La capacidad de implementar autenticación y permisos en el motor de base de datos de SQL Server, Analysis Services y Reporting Services
+  - Familiaridad con las aplicaciones de SharePoint Server y Microsoft Office, particularmente Excel
+outlineSection: |-
+  ### Módulo 1&#58; Planificación una solución BI
+  Este módulo permite a los estudiantes planificar los componentes de una solución BI.
+  #### Lecciones
+  - Elementos de una solución BI
+  - Planificar un proyecto BI
+  - La plataforma de Microsoft BI
+
+
+  #### Laboratorio&#58; Planificar soluciones BI
+  Después de completar este módulo, podrá&#58;
+  - Describir los componentes de una solución BI.
+  - Identificar los componentes de una solución BI.
+  - Planificar un proyecto BI.
+
+
+  ### Módulo 2&#58; Planificación de la infraestructura de inteligencia empresarial de SQL Server
+  Este módulo describe cómo usar la infraestructura de BI adecuada para el plan dado un conjunto de parámetros de BI.
+  #### Lecciones
+  - Consideraciones de la infraestructura de BI
+  - Planificación del hardware del almacén de datos
+
+
+  #### Laboratorio&#58; Planificar infraestructura de BI
+  Después de completar este módulo, podrá&#58;
+  - Describir los componentes de una infraestructura de BI y dónde los usaría.
+  - Planificar los requisitos de hardware de la implementación de un almacén de datos.
+
+
+  ### Módulo 3&#58; Diseñar un almacén de datos
+  Este módulo describe cómo diseñar un almacén de datos dado un conjunto de requisitos del usuario.
+  #### Lecciones
+  - Descripción general del diseño del almacén de datos
+  - Diseñar de tablas de dimensiones
+  - Diseñar Tablas de resultados
+
+
+  #### Laboratorio&#58; Diseñar un esquema lógico de almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Diseñar un almacén de datos.
+  - Diseñar de tablas de dimensiones.
+  - Diseñar Tablas de resultados.
+  - Diseñar un esquema lógico para un almacén de datos.
+
+
+  ### Módulo 4&#58; Diseñar una solución ETL
+  Esta lección describe cómo diseñar una solución de extracción, transformación y carga (ETL).
+  #### Lecciones
+  - Descripción general de ETL
+  - Planificar para extracción de datos
+  - Planificar para transformaciones de datos
+  - Planificar para carga de datos
+
+
+  ### Laboratorio&#58; Diseñar una solución ETL
+  Después de completar este módulo, podrá&#58; 
+  - Describir los componentes de una solución ETL.
+  - Diseñar una solución ETL.
+
+
+  ### Módulo 5&#58; Diseñar modelos de datos analíticos
+  Este módulo describe cómo diseñar modelos de datos analíticos para escenarios de BI específicos.
+  #### Lecciones
+  - Introducción a modelos de datos analíticos
+  - Diseñar modelos de datos analíticos.
+
+
+  ### Laboratorio&#58; Diseñar modelos de datos analíticos
+
+  #### Laboratorio&#58; Diseñar dimensiones y jerarquías
+  Después de completar este módulo, podrá&#58;
+  - Describir las características de un modelo de datos analíticos.
+  - Diseñar un modelo de datos analíticos.
+
+
+  ### Módulo 6&#58; Planificar una solución de entrega BI
+  Este módulo describe cómo elegir una solución de entrega adecuada para un escenario dado.
+  #### Lecciones
+  - Consideraciones para entrega de BI
+  - Escenarios comunes de informes
+  - Elegir una herramienta de información
+
+
+  ### Laboratorio&#58; Planificar una solución de entrega de BI
+  Después de completar este módulo, podrá&#58;
+  - Describir los componentes de una solución de entrega de BI.
+  - Describir algunos escenarios de informes comunes.
+  - Elegir una solución de entrega adecuada para un escenario particular.
+
+
+  ### Módulo 7&#58; Diseñar una solución de servicios de informes
+  Este módulo describe cómo diseñar una solución de servicios de informes.
+  #### Lecciones
+  - Planificación de una solución de informes
+  - Diseñar informes
+  - Planificación de consistencia de informes
+
+
+  ### Laboratorio&#58; Diseñar una solución de servicios de informes
+  Después de completar este módulo, podrá&#58;
+  - Planificar para una solución de servicios de informes.
+  - Diseñar informes para soluciones de servicios de informes.
+  - Planificar para consistencia de informes
+
+
+  ### Módulo 8&#58; Diseñar una solución de informes basada en Excel
+  En este módulo, los estudiantes aprenderán a diseñar una solución de informes utilizando Excel.
+  #### Lecciones
+  - Uso de Excel para informes y análisis de datos
+  - PowerPivot en Excel
+  - Power View en Excel
+
+
+  ### Laboratorio&#58; Diseñar una solución de informes de Excel
+  Después de completar este módulo, podrá&#58;
+  - Describir las características clave de las soluciones de informes de Excel.
+  - Usar PowerPivot en Excel para crear informes.
+  - Usar Power View en Excel para crear informes.
+
+
+  ### Módulo 9&#58; Planificación de una solución BI de SharePoint Server
+  Este módulo introduce el uso de SharePoint Server como una solución de BI.
+  #### Lecciones
+  - Introducción a SharePoint Server como plataforma de BI
+  - Planificación de seguridad para una solución de BI de SharePoint Server
+  - Planificación de la configuración de servicios de información
+  - Planificación de configuración de PowerPivot
+  - Planificación para servicios de PerformancePoint
+
+
+  #### Laboratorio&#58; Implementar una solución BI de SharePoint Server
+
+  ### Laboratorio&#58; Implementar servicios de PerformancePoint
+  Después de completar este módulo, podrá&#58;
+  - Describir los componentes de una solución BI de SharePoint Server.
+  - Planificar seguridad para una solución de BI de SharePoint Server.
+  - Planificar soluciones de informes para una solución de BI de SharePoint Server.
+  - Describir los componentes de una solución de PerformancePoint.
+  - Implementar servicios de PerformancePoint.
+
+
+  ### Módulo 10&#58; Supervisar y optimizar una solución BI
+  Al finalizar este módulo, podrá optimizar y supervisar una solución BI.
+  #### Lecciones
+  - Descripción general de supervisión de BI
+  - Supervisar y optimizar el almacén de datos
+  - Supervisar y analizar servicios de análisis
+  - Supervisar y optimizar servicios de informes
+
+
+  #### Laboratorio&#58; Supervisar y optimizar una solución BI
+  Después de completar este módulo, podrá&#58;
+  - Describir las opciones para supervisar y optimizar una solución BI.
+  - Poder supervisar y optimizar una solución BI.
+
+
+  ### Módulo 11&#58; Operar una solución BI
+  Al finalizar este módulo, podrá planificar las operaciones de administración y mantenimiento de una solución BI.
+  #### Lecciones
+  - Descripción general de operaciones de BI
+  - Operaciones de ETL
+  - Operaciones del almacén de datos
+  - Operaciones de servicios de análisis
+  - Informar operaciones de Servicios
+
+
+  #### Laboratorio&#58; Operar una solución BI
+  Después de completar este módulo, podrá&#58;
+  - Describir los componentes que se administrarán en una solución BI.
+  - Poder gestionar los componentes de una solución BI.
+

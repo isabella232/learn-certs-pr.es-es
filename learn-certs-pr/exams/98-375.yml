@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Este examen está dirigido a los candidatos que deseen validar sus aptitudes básicas en el desarrollo de aplicaciones de cliente con HTML5 que se ejecutarán en los dispositivos táctiles actuales (PC, tabletas y teléfonos). A pesar de que a menudo se piensa que el código HTML es una tecnología web que se reproduce en un navegador para producir una interfaz de usuario, este examen se centra en el uso de HTML5, CSS3 y JavaScript para desarrollar aplicaciones de cliente. Antes de realizar este examen, los candidatos deben tener un conocimiento básico sólido sobre los temas indicados en la guía de preparación, incluidos CSS y JavaScript. Se recomienda que los candidatos estén familiarizados con los conceptos y tengan cierta experiencia práctica con las tecnologías relacionadas, ya sea asistiendo a los cursos de formación correspondientes o trabajando con los tutoriales y ejemplos disponibles en MSDN y en Microsoft Visual Studio.
+subTitle: Este examen está dirigido a los candidatos que deseen validar sus aptitudes básicas en el desarrollo de aplicaciones de cliente con HTML5 que se ejecutarán en los dispositivos táctiles actuales (PC, tabletas y teléfonos). A pesar de que a menudo se piensa que el código HTML es una tecnología web que se reproduce en un navegador para producir una interfaz de usuario, este examen se centra en el uso de HTML5, CSS3 y JavaScript para desarrollar aplicaciones de cliente. Antes de realizar este examen, los candidatos deben tener un conocimiento básico sólido sobre los temas indicados en la guía de preparación, incluidos CSS y JavaScript. Se recomienda que los candidatos estén familiarizados con los conceptos y tengan cierta experiencia práctica con las tecnologías relacionadas, ya sea asistiendo a los cursos de formación correspondientes o trabajando con los tutoriales y ejemplos disponibles en MSDN y en Microsoft Visual Studio.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Administración del ciclo de vida de la aplicación (20-25%)
+- Construir la interface de usuario (UI) usando HTML5 (25-30%)
+- Dar formato a la interface de usuario usando Cascading Style Sheets (CSS) (20-25%)
+- Codificar usando JavaScript (30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

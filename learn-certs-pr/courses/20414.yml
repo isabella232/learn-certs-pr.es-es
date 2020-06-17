@@ -1,0 +1,277 @@
+### YamlMime:Course
+title: Implementing an Advanced Server Infrastructure
+metadata:
+  title: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+  description: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+uid: course.20414
+courseNumber: '20414-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir un centro de datos empresarial.
+- skill: Planificar e implementar una estrategia de virtualización del servidor con System Center 2012.
+- skill: Planificar e implementar la infraestructura de red y almacenamiento requerida para implementar una infraestructura de servidor virtualizada.
+- skill: Planificar e implementar máquinas virtuales en Windows Hyper-V®.
+- skill: Planificar e implementar una solución de administración de virtualización mediante System Center 2012.
+- skill: Planificar e implementar una estrategia de supervisión del servidor con las herramientas de Windows Server 2012 y con Microsoft System Center 2012 - Operations Manager.
+- skill: Planificar e implementar una aplicación y una infraestructura de servicios de archivos que esté altamente disponible.
+- skill: Planificar e implementar una infraestructura de servidor de alta disponibilidad utilizando las funciones de clúster de conmutación por error en Windows Server 2012.
+- skill: Planificar e implementar una estrategia de continuidad del negocio en un entorno Windows Server 2012.
+- skill: Planificar e implementar una implementación de PKI y planificar e implementar una solución de administración de certificados.
+- skill: Planificar e implementar la implementación de un servidor AD FS y el acceso a la aplicación para notificaciones.
+- skill: Planificar e implementar Control de acceso dinámico, Workplace Join y Carpetas de trabajo.
+- skill: Planificar y poner en marcha una implementación de AD RMS, planificar y administrar las plantillas y el acceso de AD RMS, y planificar e implementar el acceso externo a los servicios de AD RMS.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-414
+summary: |-
+  Obtener instrucciones prácticas y practicar la planificación, el diseño y la implementación de una infraestructura empresarial física y lógica de Windows Server® 2012 R2 en este curso oficial de 5 días de Microsoft. Este curso es la segunda parte de una serie de dos cursos que proporciona las habilidades y el conocimiento necesarios para diseñar e implementar una infraestructura de Windows Server 2012 R2 en un entorno empresarial. Los dos cursos cubren colectivamente el diseño, la planificación, la implementación, la seguridad, el monitoreo, la automatización y la virtualización de una infraestructura de servidor empresarial. Este curso cubre el conocimiento y las habilidades para planificar e implementar una infraestructura segura de alta disponibilidad con enfoque en el Servicio de federación Active Directory® (AD FS), la infraestructura de clave pública (PKI) y los Servicios de administración de derechos de Active Directory (AD RMS). También aprenderá las habilidades necesarias para planificar e implementar máquinas virtuales, incluido el autoservicio y la automatización de las implementaciones de máquinas virtuales, así como planificar e implementar una estrategia de supervisión que incluya Microsoft® System Center 2012 R2-Operations Manager. Este curso se asigna directamente y es la opción preferida para la preparación práctica para Microsoft Certified Solutions Expert (MCSE)&#58; Examen 414&#58; Implementación de una infraestructura de servidor avanzada, que es el quinto de los cinco exámenes necesarios para MCSE&#58; Certificación de infraestructura de servidor. 
+
+  NOTA&#58; Los laboratorios de este curso se basan en Windows Server 2012 R2 y System Center 2012 R2. Este curso está diseñado para profesionales de TI con experiencia que admiten empresas medianas y grandes y tienen experiencia en la administración de Windows Server 2012 R2 y tienen un MCSA&#58; Certificación de Windows Server 2012 o habilidades equivalentes.
+
+  #### Perfil de audiencia
+  Este curso está dirigido a profesionales de la tecnología de la información (TI) que son responsables de planificar, diseñar e implementar una infraestructura física y lógica de Windows Server 2012 para empresas y servicios de dominio de Active Directory (AD DS), incluidos los servicios de red. Los candidatos normalmente tienen experiencia en sistemas operativos anteriores de Windows Server y tienen certificación de Windows Server 2012 (MCSA) o habilidades equivalentes.
+  El público secundario para este curso serán candidatos profesionales de TI que buscan tomar el examen 70-414&#58; Implementación de una infraestructura de servidor empresarial avanzada, como un elemento independiente o como parte del requisito para la certificación MCSE.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Cierto conocimiento de TCP/IP y conceptos de redes.
+  - Comprensión de Windows Server 2012 y AD DS, incluida la planificación, el diseño y la implementación.
+  - Comprensión de scripts y archivos por lotes.
+  - Comprensión de conceptos de seguridad como autenticación y autorización.
+  - Cierto conocimiento de las herramientas de implementación, empaquetado y creación de imágenes.
+  - Experiencia trabajando en equipo o en equipo virtual.
+  - Haber tenido la certificación MCSA de Windows Server 2012, así como información en el curso 20413C&#58; Diseño e implementación de una infraestructura de servidor empresarial.
+outlineSection: |-
+  ### Módulo 1&#58; Descripción general de la administración en un centro de datos empresarial
+  En este módulo, los estudiantes podrán describir el centro de datos de la empresa y cómo usar System Center 2012 para administrar el centro de datos de la empresa.
+  #### Lecciones
+  - Descripción general del centro de datos empresariales
+  - Descripción general de los componentes de Microsoft System Center 2012 R2
+
+
+  #### Laboratorio&#58; Consideraciones para implementar un centro de datos empresarial
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir un centro de datos empresarial.
+  - Describir cómo los componentes de System Center 2012 se pueden usar para administrar un centro de datos empresarial.
+
+
+  ### Módulo 2&#58; Planificación e implementación de una estrategia de virtualización de servidores
+  En este módulo, los estudiantes podrán planificar e implementar una estrategia de virtualización del servidor utilizando System Center 2012.
+  #### Lecciones
+  - Planificación de una implementación de VMM
+  - Planificación e implementación de un entorno de host de virtualización de servidores
+
+
+  #### Laboratorio&#58; Planificación e implementación de una estrategia de virtualización de servidores
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar un entorno de virtualización de servidor basado en Windows Server 2012 Hyper-V y System Center 2012- Virtual Machine Manager (VMM).
+  - Implementar un entorno de virtualización de servidor basado en Windows Server 2012 Hyper-V y VMM.
+
+
+  ### Módulo 3&#58; Planificación e implementación de redes y almacenamiento para virtualización
+  En este módulo, los estudiantes podrán planificar e implementar la infraestructura de red y almacenamiento requerida para implementar una infraestructura de servidor virtualizado.
+  #### Lecciones
+  - Planificación de una infraestructura de almacenamiento para virtualización
+  - Implementación de una infraestructura de almacenamiento para virtualización
+  - Planificación e implementación de una infraestructura de red para la virtualización
+  - Planificación e implementación de virtualización de redes
+
+
+  #### Laboratorio&#58; Planificación e implementación de redes virtuales y almacenamiento
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar las opciones de almacenamiento disponibles para máquinas virtuales.
+  - Configurar el almacenamiento iSCSI en Windows Server 2012 y cómo administrar el almacenamiento desde VMM.
+  - Planificar e implementar una infraestructura de red para la virtualización del servidor.
+  - Planificar e implementar la virtualización de red en Hyper-V y VMM.
+
+
+  ### Módulo 4&#58; Planificación e implementación de máquinas virtuales
+  En este módulo, los estudiantes podrán planificar e implementar máquinas virtuales en Windows Hyper-V.
+  #### Lecciones
+  - Planificación de una configuración de máquina virtual
+  - Preparación para implementaciones de máquinas virtuales con VMM
+  - Implementación de máquinas virtuales
+  - Planificación e implementación de la réplica de Hyper-V
+
+
+  #### Laboratorio&#58; Planificación e implementación de una estrategia de implementación y gestión de máquinas virtuales
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar una configuración de máquina virtual.
+  - Planificar y configurar los perfiles y plantillas de VMM que se pueden usar para implementar una implementación de VMM.
+  - Planificar e implementar la réplica de Hyper-V.
+
+
+  ### Módulo 5&#58; Planificación e implementación de una solución de administración de virtualización
+  En este módulo, los estudiantes podrán planificar e implementar una solución de administración de virtualización mediante System Center 2012.
+  #### Lecciones
+  - Planificación e implementación de automatización con System Center 2012
+  - Planificación e implementación de System Center 2012 Administration
+  - Planificación e implementación de opciones de autoservicio en System Center 2012
+  - Planificación e implementación de actualizaciones en una infraestructura de virtualización de servidores
+
+
+  #### Laboratorio&#58; Planificación e implementación de una solución de administración para virtualización
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar la automatización de un entorno de máquina virtual con System Center 2012.
+  - Planificar un modelo de administración delegada en System Center 2012.
+  - Planificar el autoservicio y la automatización de un entorno de máquina virtual con System Center 2012.
+  - Planificar e implementar actualizaciones para hosts Hyper-V usando VMM.
+
+
+  ### Módulo 6&#58; Planificación e implementación de una estrategia de supervisión del servidor
+  En este módulo, los estudiantes podrán planificar e implementar una estrategia de supervisión del servidor utilizando las herramientas de Windows Server 2012 y el Administrador de operaciones.
+  #### Lecciones
+  - Planificación de la supervisión en Windows Server 2012
+  - Información general del Operations Manager
+  - Planificación y configuración de componentes de supervisión
+  - Configuración de la integración con VMM
+
+
+  #### Laboratorio&#58; Implementación de una estrategia de supervisión del servidor
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar una estrategia de supervisión utilizando las herramientas de Windows Server 2012.
+  - Describir los componentes de Operations Manager y describir cómo se puede usar Operations Manager para supervisar servidores físicos y virtuales.
+  - Planificar y configurar paquetes de administración, notificaciones e informes.
+  - Configurar la integración de Operations Manager y VMM.
+
+
+  ### Módulo 7&#58; Planificación e implementación de alta disponibilidad para servicios de archivos y aplicaciones
+  En este módulo, los estudiantes podrán planificar e implementar una infraestructura de servicios de archivos y aplicaciones que esté altamente disponible.
+  #### Lecciones
+  - Planificación e implementación de espacios de almacenamiento
+  - Planificación e implementación de un DFS
+  - Planificación e implementación de NLB
+
+
+  #### Laboratorio&#58; Planificación e implementación de alta disponibilidad para servicios de archivos y aplicaciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar e implementar una infraestructura de almacenamiento de alta disponibilidad utilizando espacios de almacenamiento.
+  - Planificar e implementar una implementación de servicios de archivos de alta disponibilidad utilizando DFS.
+  - Planificar e implementar alta disponibilidad para aplicaciones que utilizan NLB.
+
+
+  ### Módulo 8&#58; Planificación e implementación de una infraestructura de alta disponibilidad mediante clústeres de conmutación por error
+  En este módulo, los estudiantes podrán planificar e implementar una infraestructura de servidor de alta disponibilidad mediante el uso de las características de clúster de conmutación por error en Windows Server 2012.
+  #### Lecciones
+  - Planificación de una infraestructura para clústeres de conmutación por error
+  - Implementación de clústeres de conmutación por error
+  - Planificación e implementación de actualizaciones para clústeres de conmutación por error
+  - Integración de clústeres de conmutación por error con la virtualización del servidor
+  - Planificación de un clúster de conmutación por error multisitio
+
+
+  #### Lab&#58; Planificación e implementación de una infraestructura de alta disponibilidad mediante clústeres de conmutación por error
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar el clúster de conmutación por error.
+  - Implementar el clúster de conmutación por error.
+  - Planificar e implementar actualizaciones utilizando Cluster-Aware Updating (CAU).
+  - Planificar e implementar el clúster de conmutación por error para máquinas virtuales Hyper-V.
+
+
+  ### Módulo 9&#58; Planificación e implementación de una estrategia de continuidad del negocio
+  En este módulo, los estudiantes podrán planificar e implementar una estrategia de continuidad comercial en un entorno de Windows Server 2012.
+  #### Lecciones
+  - Descripción general de la planificación de continuidad del negocio
+  - Planificación e implementación de estrategias de respaldo
+  - Planificación e implementación de la recuperación
+  - Planificación e implementación de copias de seguridad y recuperación de máquinas virtuales
+
+
+  #### Laboratorio&#58; Implementación de una estrategia de copia de seguridad de máquina virtual con DPM
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los requisitos y estrategias de alto nivel para implementar una estrategia de continuidad del negocio.
+  - Planificar estrategias de respaldo para una variedad de roles de Windows.
+  - Planificar e implementar la recuperación de servidores y datos.
+  - Planificar e implementar una estrategia de copia de seguridad y recuperación de máquina virtual.
+
+
+  ### Módulo 10&#58; Planificación e implementación de una infraestructura de clave pública
+  En este módulo, los estudiantes podrán planificar e implementar una implementación de PKI, y planificar e implementar una solución de administración de certificados.
+  #### Lecciones
+  - Planificación e implementación del despliegue de una autoridad de certificación
+  - Planificación e implementación de plantillas de certificado
+  - Planificación e implementación de la distribución y revocación de certificados
+  - Planificación e implementación de archivo y recuperación clave
+
+
+  #### Laboratorio&#58; Planificación e implementación de una infraestructura de servicios de certificados de Active Directory
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar e implementar una jerarquía de implementación de CA en AD CS.
+  - Diseñar e implementar una estrategia para configurar y mantener plantillas de certificados.
+  - Diseñar e implementar una estrategia para distribuir y revocar certificados.
+  - Planificar e implementar claves privadas y recuperación de certificados.
+
+
+  ### Módulo 11&#58; Planificación e implementación de una infraestructura de federación de identidades
+  En este módulo, los estudiantes podrán planificar e implementar una implementación de servidor AD FS y acceso a aplicaciones con conocimiento de reclamos.
+  #### Lecciones
+  - Planificación e implementación de una infraestructura de servidor AD FS
+  - Planificación e implementación de proveedores de notificaciones AD FS y usuarios de confianza
+  - Planificación e implementación de notificaciones AD FS y reglas de notificación
+  - Planificación e implementación de proxy de aplicación web
+
+
+  #### Laboratorio&#58; Planificación e implementación de una infraestructura AD FS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar e implementar una infraestructura de servidor AD FS.
+  - Planificar e implementar proveedores de notificaciones AD FS y usuarios de confianza.
+  - Planificar e implementar notificaciones AD FS y reglas de notificaciones.
+  - Planificar e implementar el Proxy de aplicación web con integración de AD FS.
+
+
+  ### Módulo 12&#58; Planificación e implementación del acceso a datos para usuarios y dispositivos
+  En este módulo, los estudiantes podrán planificar e implementar el Control de acceso dinámico (DAC), Workplace Join y las Carpetas de trabajo.
+  #### Lecciones
+  - Planificación e implementación de DAC
+  - Planificación de Workplace Join
+  - Planificación de carpetas de trabajo
+
+
+  #### Laboratorio&#58; Implementación de DAC y asistencia para acceso denegado
+
+  #### Laboratorio&#58; Implementación de carpetas de trabajo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Planificar e implementar DAC.
+  - Describir e implementar Work Place Join.
+  - Planificar una implementación de Carpetas de trabajo.
+
+
+  ### Módulo 13&#58; Planificación e implementación de una infraestructura de gestión de derechos de información
+  En este módulo, los estudiantes podrán planificar e implementar una implementación de AD RMS, planificar y administrar plantillas y acceso de AD RMS, y planificar e implementar el acceso externo a los servicios de AD RMS.
+  #### Lecciones
+  - Descripción general de AD RMS
+  - Planificación e implementación de un clúster AD RMS
+  - Planificación e implementación de plantillas y políticas de AD RMS
+  - Planificación e implementación de acceso externo a servicios AD RMS
+  - Planificación e implementación de integración AD RMS con control de acceso dinámico
+
+
+  #### Laboratorio&#58; Planificación e implementación de una infraestructura AD RMS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir qué es AD RMS y los escenarios comerciales que aborda AD RMS.
+  - Planificar, implementar y administrar un clúster de AD RMS.
+  - Planificar e implementar plantillas y políticas de AD RMS.
+  - Planificar e implementar el acceso externo a los servicios de AD RMS.
+  - Planificar la integración de AD RMS y DAC.
+

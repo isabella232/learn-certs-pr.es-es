@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Implementing a Software-Defined Datacenter
+metadata:
+  title: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+  description: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+uid: exam.70-745
+displayName: 70-745
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen son profesionales de las TI responsables de implementar un Software-Defined DataCenter (SDDC) con Windows Server 2016 y Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
+
+  Estos candidatos son responsables de implementar y gestionar infraestructuras SCVMM de alta disponibilidad, así como de implementar los componentes de redes, computación y almacenamiento definido por software. También son responsables de gestionar y configurar las cargas de datos del arrendatario, implementar y gestionar contenedores y realizar tareas básicas de supervisión y mantenimiento mediante System Center Operations Manager (SCOM). Los candidatos a este examen son también responsables de determinar e implementar opciones de continuidad empresarial generales y de recuperación ante desastres.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Hay actualizaciones del examen en vigor a partir del 15 de junio de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 745.</div>
+subTitle: Los candidatos a este examen son profesionales de las TI responsables de implementar un Software-Defined DataCenter (SDDC) con Windows Server 2016 y Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+locales:
+- en
+levels:
+- advanced
+skills:
+- Planificar e implementar la infraestructura principal del Virtual Machine Manager del Centro del Sistema (VMM)
+- Implementar redes definidas por software (SDN)
+- Implementación de almacenamiento definido por software
+- Implementar soluciones de computación de centro de datos con Virtual Machine Manager (VMM)
+- Proteger su centro de datos definido por software
+- Monitorizar y mantener el centro de datos definido por software
+roles:
+- administrator
+products:
+- windows-system-center
+courses:
+- uid: course.20745
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

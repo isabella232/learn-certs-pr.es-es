@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Designing Database Solutions for Microsoft SQL Server
+metadata:
+  title: 'Exam 70-465: Designing Database Solutions for Microsoft SQL Server'
+  description: 'Exam 70-465: Designing Database Solutions for Microsoft SQL Server'
+uid: exam.70-465
+displayName: 70-465
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Este examen está dirigido a para profesionales de bases de datos que diseñan y crean soluciones de bases de datos en la empresa. Entre sus responsabilidades, se incluyen la creación de planes y diseños de estructura de bases de datos, almacenamiento, objetos y servidores de bases de datos. También se ocupan de planificar el entorno de ejecución de la solución de base de datos.
+
+  <div style='font-weight&#58; bold;'><br/>A partir del 18 de febrero de 2016, este examen incluye contenido que cubre tanto SQL Server 2012 como 2014. Tome en cuenta que este examen no incluye preguntas sobre funciones o capacidades que solo están presentes en el producto SQL Server 2012. Para obtener más información, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUO">descargue y revise este documento</a>.</div>
+subTitle: Este examen está dirigido a para profesionales de bases de datos que diseñan y crean soluciones de bases de datos en la empresa. Entre sus responsabilidades, se incluyen la creación de planes y diseños de estructura de bases de datos, almacenamiento, objetos y servidores de bases de datos. También se ocupan de planificar el entorno de ejecución de la solución de base de datos.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Diseñar una estructura de base de datos (25-30%)
+- Diseño de bases de datos y objetos de base de datos (30-35%)
+- Diseñar seguridad de base de datos (10-15%)
+- Diseñar una solución de resolución de problemas y optimización (25-30%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20465
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

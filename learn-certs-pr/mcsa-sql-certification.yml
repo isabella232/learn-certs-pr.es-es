@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'MCSA: SQL Server 2012/2014'
+metadata:
+  title: 'MCSA: SQL Server 2012/2014'
+  description: 'MCSA: SQL Server 2012/2014'
+uid: certification.mcsa-sql-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Esta certificación se retirará el 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  </div>
+
+  Esta certificación demuestra sus habilidades y sus amplios conocimientos en el desarrollo y el mantenimiento de la nueva generación de entornos críticos.
+subTitle: Esta certificación demuestra sus habilidades y sus amplios conocimientos en el desarrollo y el mantenimiento de la nueva generación de entornos críticos.
+levels:
+- advanced
+skills:
+- none
+roles:
+- database-administrator
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20461
+- uid: course.20462
+- uid: course.20463
+exams:
+- uid: exam.70-461
+- uid: exam.70-462
+- uid: exam.70-463
+resources:
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

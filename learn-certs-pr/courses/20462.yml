@@ -1,0 +1,259 @@
+### YamlMime:Course
+title: Administering Microsoft® SQL Server® 2014 Databases
+metadata:
+  title: 'Course 20462-D: Administering Microsoft® SQL Server® 2014 Databases'
+  description: 'Course 20462-D: Administering Microsoft® SQL Server® 2014 Databases'
+uid: course.20462
+courseNumber: '20462-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir las tareas y herramientas básicas de administración de la base de datos.
+- skill: Instalar y configurar SQL Server 2014.
+- skill: Configurar bases de datos y almacenamiento de SQL Server.
+- skill: Planificar e implementar una estrategia de respaldo.
+- skill: Restaurar bases de datos desde copias de seguridad.
+- skill: Importar y exportar datos.
+- skill: Supervisar SQL Server.
+- skill: Supervisar la actividad de SQL Server.
+- skill: Gestionar la seguridad del servidor SQL.
+- skill: Auditar el acceso a datos y cifrar datos.
+- skill: Realizar mantenimiento continuo de la base de datos.
+- skill: Automatizar el mantenimiento de SQL Server con SQL Server Agent Jobs.
+- skill: Configurar el correo electrónico de base de datos, alertas y notificaciones.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-462
+summary: |-
+  Este curso de cinco días dirigido por un instructor proporciona a los estudiantes el conocimiento y las habilidades para mantener una base de datos de Microsoft SQL Server 2014. El curso se enfoca en enseñar a las personas cómo usar las características y herramientas del producto SQL Server 2014 relacionadas con el mantenimiento de una base de datos.
+
+  Nota&#58; Este curso está diseñado para clientes interesados en aprender SQL Server 2012 o SQL Server 2014. Cubre las nuevas características en SQL Server 2014, pero también las capacidades importantes en la plataforma de datos de SQL Server.
+
+  #### Perfil de audiencia
+  El público principal para este curso son personas que administran y mantienen bases de datos de SQL Server. Estas personas son responsables de realizar la administración y el mantenimiento de la base de datos, o trabajan en entornos donde las bases de datos juegan un papel clave en su trabajo principal.
+
+  El público secundario para este curso son personas que desarrollan aplicaciones que entregan contenido desde bases de datos de SQL Server.
+prerequisitesSection: |-
+  Este curso requiere que cumpla con los siguientes requisitos&#58;
+  - Conocimientos básicos del sistema operativo Microsoft Windows y su funcionalidad principal.
+  - Conocimiento práctico de Transact-SQL. 
+  - Conocimiento práctico de bases de datos relacionales. 
+  - Algo de experiencia en diseño de bases de datos.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a la administración de bases de datos SQL Server 2014
+  Este módulo presenta la plataforma Microsoft SQL Server 2014. Describe los componentes, ediciones y versiones de SQL Server 2014, y las tareas que un administrador de base de datos realiza comúnmente para una instancia de SQL Server.
+  #### Lecciones
+  - Descripción general de la administración de la base de datos
+  - Introducción a la plataforma SQL Server
+  - Herramientas y técnicas de gestión de bases de datos
+
+
+  #### Laboratorio&#58; Usar las herramientas administrativas de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Describir la plataforma SQL Server. 
+  - Describir tareas comunes de administración de bases de datos. 
+  - Utilizar las herramientas de administración de SQL Server.
+
+
+  ### Módulo 2&#58; Instalar y configurar SQL Server 2014
+  Este módulo explica cómo evaluar los requisitos de recursos para SQL Server 2014 y cómo instalarlo.
+  #### Lecciones
+  - Planificación de la instalación de SQL Server
+  - Instalación de SQL Server 2014
+  - Configuración posterior a la instalación
+
+
+  #### Laboratorio&#58; Instalar SQL Server 2014
+  Después de completar este módulo, podrá&#58; 
+  - Planificar una instalación de SQL Server 2014. 
+  - Instalar SQL Server 2014. 
+  - Realizar tareas de configuración posteriores a la instalación.
+
+
+  ### Módulo 3&#58; Trabajar con bases de datos y almacenamiento
+  Este módulo describe cómo se almacenan los datos en bases de datos, cómo crear bases de datos, cómo administrar archivos de bases de datos y cómo moverlos. También se analizan otras tareas relacionadas con el almacenamiento, incluida la administración de la base de datos tempdb y el uso de dispositivos de almacenamiento rápido para extender la caché de la agrupación de almacenamiento intermedio del SQL Server.
+  #### Lecciones
+  - Introducción al almacenamiento de datos con SQL Server
+  - Gestión de almacenamiento para bases de datos del sistema
+  - Gestión de almacenamiento para bases de datos del usuario
+  - Mover archivos de base de datos
+  - Configuración de la extensión del grupo de búferes
+
+
+  #### Laboratorio&#58; Administrar el almacenamiento de la base de datos
+  Después de completar este módulo, podrá&#58; 
+  - Describa cómo SQL Server almacena datos. 
+  - Gestionar el almacenamiento de las bases de datos del sistema. 
+  - Gestionar el almacenamiento de bases de datos de usuarios. 
+  - Mover archivos de base de datos. 
+  - Configurar la extensión de grupos de búferes.
+
+
+  ### Módulo 4&#58; Planificación e implementación de una estrategia de respaldo
+  En este módulo, considerará cómo crear una estrategia de respaldo que esté alineada con las necesidades de la organización, y aprenderá cómo realizar las operaciones de respaldo requeridas por esa estrategia.
+  #### Lecciones
+  - Comprender los modelos de recuperación de SQL Server
+  - Planificación de una estrategia de respaldo
+  - Hacer copia de seguridad de bases de datos y registros de transacciones
+  - Uso de opciones de copia de seguridad
+  - Garantizar la fiabilidad de la copia de seguridad
+
+
+  #### Laboratorio&#58; Copia de seguridad de bases de datos de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Describir cómo funcionan los registros de transacciones de la base de datos y cómo afectan la recuperación de la base de datos. 
+  - Planificar una estrategia de respaldo para una base de datos de SQL Server. 
+  - Hacer copias de seguridad de bases de datos y registros de transacciones. 
+  - Realizar copias de seguridad de solo copias, comprimidas y cifradas. 
+  - Maximizar la fiabilidad de la copia de seguridad.
+
+
+  ### Módulo 5&#58; Restaurar bases de datos de SQL Server 2014
+  En este módulo, verá cómo restaurar las bases de datos del sistema y de los usuarios y cómo implementar la recuperación a partir de un momento.
+  #### Lecciones
+  - Comprender el proceso de restauración
+  - Restaurar bases de datos
+  - Escenarios de restauración avanzada
+  - Trabajar con recuperación a partir de un momento.
+
+
+  #### Laboratorio&#58; Restauración de bases de datos de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Explicar el proceso de restauración. 
+  - Restaurar bases de datos. 
+  - Realizar operaciones de restauración avanzadas. 
+  - Realizar una recuperación a partir de un momento.
+
+
+  ### Módulo 6&#58; Importar y exportar datos
+  En este módulo, explorará brevemente herramientas y técnicas para poder importar y exportar datos hacia y desde SQL Server.
+  #### Lecciones
+  - Introducción a la transferencia de datos
+  - Importar y exportar datos de tablas
+  - Copiar o mover una base de datos
+
+
+  #### Laboratorio&#58; Importar y exportar datos
+  Después de completar este módulo, podrá&#58; 
+  - Describir herramientas y técnicas para transferir datos.
+  - Importar y exportar datos.
+  - Copiar o mover una base de datos.
+
+
+  ### Módulo 7&#58; Supervisión de SQL Server 2014
+  Este módulo explica cómo usar tres de las herramientas más utilizadas&#58; monitor de actividad, vistas y funciones de gestión dinámica (DMV y DMF) y monitor de rendimiento.
+  #### Lecciones
+  - Introducción a la supervisión de SQL Server
+  - Vistas y funciones de gestión dinámica
+  - Monitor de rendimiento
+
+
+  #### Laboratorio&#58; Supervisión de SQL Server 2014
+  Después de completar este módulo, podrá&#58; 
+  - Describir las consideraciones para monitorear el SQL Server y usar el monitor de actividad. 
+  - Usar vistas y funciones de administración dinámica para monitorear el SQL Server. 
+  - Utilice el monitor de rendimiento para supervisar SQL Server.
+
+
+  ### Módulo 8&#58; Seguimiento de la actividad del SQL Server
+  Este módulo describe cómo usar los procedimientos almacenados de SQL Server Profiler y SQL Trace para capturar información sobre SQL Server, y cómo usar esa información para solucionar problemas y optimizar las cargas de trabajo de SQL Server.
+  #### Lecciones
+  - Seguimiento de la actividad de carga de trabajo de SQL Server
+  - Usar seguimientos
+
+
+  #### Laboratorio&#58; Seguimiento de la actividad de carga de trabajo de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Seguir actividad en SQL Server
+  - Utilizar los seguimientos capturados para hacer pruebas, solucionar problemas y optimizar el rendimiento de la base de datos.
+
+
+  ### Módulo 9&#58; Administrar la SQL Server Security
+  En este módulo, aprenderá sobre los conceptos centrales en los que se basa la arquitectura de seguridad de SQL Server y cómo administrar la seguridad a nivel de servidor y base de datos.
+  #### Lecciones
+  - Introducción a SQL Server Security
+  - Gestión de la seguridad a nivel del servidor
+  - Gestión de entidades de seguridad de nivel de base de datos
+  - Gestión de permisos de bases de datos
+
+
+  #### Laboratorio&#58; Administrar la seguridad de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Describir los conceptos básicos de seguridad en la arquitectura de seguridad de SQL Server. 
+  - Administrar la seguridad a nivel del servidor. 
+  - Administrar principios de seguridad a nivel de base de datos. 
+  - Administrar permisos de base de datos.
+
+
+  ### Módulo 10&#58; Auditoría de acceso a datos y cifrado de datos
+  Este módulo describe las opciones disponibles para la auditoría en SQL Server, cómo usar y administrar la función de auditoría de SQL Server y cómo implementar el cifrado.
+  #### Lecciones
+  - Auditoría del acceso a datos en SQL Server
+  - Implementación de Auditoría de SQL Server
+  - Implementación de Auditoría de SQL Server
+
+
+  #### Laboratorio&#58; Auditoría de acceso a datos y cifrado de datos
+  Después de completar este módulo, podrá&#58; 
+  - Describir las opciones para auditar el acceso a datos. 
+  - Implementar auditoría de SQL Server. 
+  - Administrar la auditoría de SQL Server. 
+  - Implementar cifrado de datos transparente.
+
+
+  ### Módulo 11&#58; Realizar mantenimiento continuo de la base de datos
+  Este módulo describe las tareas comunes de mantenimiento de la base de datos que debe realizar un DBA y muestra cómo automatizar estas tareas mediante planes de mantenimiento.
+  #### Lecciones
+  - Garantizar la integridad de la base de datos
+  - Mantener índices
+  - Automatizar el mantenimiento rutinario de la base de datos
+
+
+  #### Laboratorio&#58; Realizar mantenimiento continuo de la base de datos
+  Después de completar este módulo, podrá&#58; 
+  - Asegurar la integridad de la base de datos utilizando DBCC CHECKDB. 
+  - Mantener índices. 
+  - Configurar planes de mantenimiento de bases de datos.
+
+
+  ### Módulo 12&#58; Automatizar la gestión de SQL Server 2014
+  Este módulo describe cómo usar el SQL Server Agent para automatizar trabajos, cómo configurar contextos de seguridad para trabajos y cómo implementar trabajos de servidores múltiples.
+  #### Lecciones
+  - Automatización de la gestión de SQL Server
+  - Implementación de SQL Server Agent Jobs
+  - Gestión de SQL Server Agent Jobs
+  - Gestión de contextos de seguridad de pasos de trabajo
+  - Gestionar trabajos en múltiples servidores
+
+
+  #### Laboratorio&#58; Automatización de la gestión de SQL Server
+  Después de completar este módulo, podrá&#58; 
+  - Describir métodos para automatizar la administración de SQL Server. 
+  - Crear trabajos, tipos de pasos de trabajo y programas. 
+  - Gestionar SQL Server Agent jobs. 
+  - Configurar contextos de seguridad laboral. 
+  - Configurar servidores maestros y de destino.
+
+
+  ### Módulo 13&#58; supervisión de SQL Server 2014 mediante alertas y notificaciones
+  Este módulo cubre la configuración del correo de la base de datos, alertas y notificaciones.
+  #### Lecciones
+  - Supervisión de errores de SQL Server
+  - Configuración del correo de la base de datos
+  - Configuración de operadores, alertas y notificaciones
+
+
+  #### Laboratorio&#58; Supervisión de SQL Server mediante alertas y notificaciones
+  Después de completar este módulo, podrá&#58; 
+  - Configurar el correo de la base de datos. 
+  - Supervisar errores de SQL Server.
+  - Configurar operadores, alertas y notificaciones
+

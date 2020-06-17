@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Retail
+metadata:
+  title: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+  description: 'Exam MB6-897: Microsoft Dynamics 365 for Retail'
+uid: exam.mb-6-897
+displayName: MB6-897
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen son socios de Microsoft Dynamics 365 que configuran y usan la funcionalidad de la aplicación en Microsoft Dynamics 365 para ventas y proporcionan soporte para la aplicación.
+
+  Los candidatos habitualmente tienen una comprensión sólida de las operaciones de venta al por menor y los PDV, e implementan, mantienen y utilizan Microsoft Dynamics 365 para ventas.
+subTitle: Los candidatos a este examen son socios de Microsoft Dynamics 365 que configuran y usan la funcionalidad de la aplicación en Microsoft Dynamics 365 para ventas y proporcionan soporte para la aplicación.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=MB6-897&examname=Microsoft%20Dynamics%20365%20for%20Retail&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-897
+locales:
+- en
+levels:
+- beginner
+skills:
+- Instalar y configurar los parámetros organizativos (20-25%)
+- Instalar y configurar un punto de venta (10-15%)
+- Instalar y configurar los productos (15-20%)
+- Administrar operaciones de ventas al por menor (15-20%)
+- Realizar actividades de ventas al por menor (25-30%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

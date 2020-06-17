@@ -1,0 +1,244 @@
+### YamlMime:Course
+title: Implementing a Data Warehouse with Microsoft® SQL Server® 2014
+metadata:
+  title: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+  description: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+uid: course.20463
+courseNumber: '20463-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir conceptos de almacenamiento de datos y consideraciones de arquitectura
+- skill: Seleccionar una plataforma de hardware adecuada para un almacén de datos
+- skill: Diseñar e implementar un almacén de datos
+- skill: Implementar Data Flow en un paquete SSIS
+- skill: Implementar Control Flow en un paquete SSIS
+- skill: Depurar y solucionar problemas de paquetes SSIS
+- skill: Implementación de una solución de ETL que admita la extracción de datos incrementales
+- skill: Implementación de una solución de ETL que admita la carga de datos incrementales
+- skill: Implementar limpieza de datos mediante using Microsoft Data Quality Services
+- skill: Implementar Master Data Services para aplicar la integridad de los datos
+- skill: Extender SSIS con guiones y componentes personalizados
+- skill: Implementar y configurar paquetes SSIS
+- skill: Describir cómo las soluciones de BI pueden consumir datos del almacén de datos
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-463
+summary: |-
+  Este curso describe cómo implementar una plataforma de almacenamiento de datos para admitir una solución de BI. Los estudiantes aprenderán cómo crear un almacén de datos con Microsoft® SQL Server® 2014, implementar ETL con SQL Server Integration Services y validar y limpiar datos con SQL Server Data Quality Services y SQL Server
+  Servicios de datos maestros.
+
+  Nota&#58; Este curso está diseñado para clientes interesados ​​en aprender SQL Server 2012 o SQL Server 2014. Cubre las nuevas características en SQL Server 2014, pero también las capacidades importantes en la plataforma de datos de SQL Server.
+
+  #### Perfil de audiencia
+  Este curso está dirigido a profesionales de bases de datos que necesitan cumplir una función de desarrollador de Business Intelligence. Tendrán que centrarse en el trabajo práctico creando soluciones de BI, incluida la implementación de Data Warehouse, ETL y limpieza de datos. Entre las principales responsabilidades se incluyen&#58;
+  - Implementar un almacén de datos.
+  - Desarrollar paquetes SSIS para extracción, transformación y carga de datos.
+  - Aplicar la integridad de los datos mediante el uso de Servicios de datos maestros.
+  - Limpiar datos mediante el uso de servicios de calidad de datos.
+prerequisitesSection: |-
+  Este curso requiere que cumpla con los siguientes requisitos&#58;
+  - Al menos 2 años de experiencia trabajando con bases de datos relacionales, incluyendo&#58; 
+    - Diseñar una base de datos normalizada. 
+    - Crear tablas y relaciones. Consultar con Transact-SQL. 
+    - Cierta exposición a construcciones de programación básicas (como bucles y ramificaciones).
+    
+  Es deseable conocer las prioridades comerciales clave, como los ingresos, la rentabilidad y la contabilidad financiera.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Data Warehousing
+  Este módulo proporciona una introducción a los componentes clave de una solución de almacenamiento de datos y las consideraciones de alto nivel que debe tener en cuenta al embarcarse en un proyecto de almacenamiento de datos.
+  #### Lecciones
+  - Descripción general de almacén de datos
+  - Consideraciones para una solución de almacén de datos
+
+
+  #### Laboratorio&#58; Explorar una solución de almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir los elementos clave de una solución de almacenamiento de datos
+  - Describir las consideraciones clave para un proyecto de almacenamiento de datos
+
+
+  ### Módulo 2&#58; Consideraciones de hardware del almacén de datos
+  Este módulo analiza las consideraciones para seleccionar hardware y distribuir las instalaciones de SQL Server entre servidores.
+  #### Lecciones
+  - Consideraciones para construir un almacén de datos
+  - Aplicaciones y arquitecturas de referencia del almacén de datos
+
+
+  #### Laboratorio&#58; Planificación de la infraestructura del almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir las consideraciones clave para la infraestructura de BI.
+  - Planificar infraestructura del almacén de datos.
+
+
+  ### Módulo 3&#58; Diseño e implementación de un almacén de datos
+  Este módulo describe las consideraciones clave para el diseño lógico de un almacén de datos y luego analiza las mejores prácticas para su implementación física.
+  #### Lecciones
+  - Diseño lógico para un almacén de datos
+  - Diseño físico para un almacén de datos
+
+
+  #### Laboratorio&#58; Implementar un esquema de almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir un proceso para diseñar un modelo dimensional para un almacén de datos 
+  - Diseñar tablas de dimensiones para un almacén de datos
+  - Diseñar tablas de resultados para un almacén de datos
+  - Diseñar e implementar estructuras efectivas de datos físicos para un almacén de datos
+
+
+  ### Módulo 4&#58; Crear una solución ETL con SSIS
+  Este módulo analiza las consideraciones para implementar un proceso ETL, y luego se enfoca en los Servicios de integración de Microsoft SQL Server (SSIS) como una plataforma para construir soluciones ETL.
+  #### Lecciones
+  - Introducción a ETL con SSIS
+  - Explorar fuentes de datos
+  - Implementar flujo de datos
+
+
+  #### Laboratorio&#58; Implementación de flujo de datos en un paquete SSIS
+  Después de completar este módulo, podrá&#58;
+  - Describir las características clave de SSIS. 
+  - Explorar los datos de origen para una solución ETL. 
+  - Implementar un flujo de datos mediante SSIS
+
+
+  ### Módulo 5&#58; Implementar flujo de control en un paquete SSIS
+  Este módulo describe cómo implementar soluciones ETL que combinan múltiples tareas y lógica de flujo de trabajo.
+  #### Lecciones
+  - Introducción a flujo de control
+  - Creación de paquetes dinámicos
+  - Uso de contenedores
+  - Consistencia de gestión
+
+
+  #### Laboratorio&#58; Implementar flujo de control en un paquete SSIS
+
+  #### Laboratorio&#58; Uso de transacciones y puntos de control
+  Después de completar este módulo, podrá&#58;
+  - Implementar flujo de control con tareas y restricciones de precedencia 
+  - Crear paquetes dinámicos que incluyan variables y parámetros. 
+  - Usar contenedores en un flujo de control de paquete
+  - Aplicar coherencia con las transacciones y los puntos de control
+
+
+  ### Módulo 6&#58; Depurar y solucionar problemas con paquetes SSIS
+  Este módulo describe cómo puede depurar paquetes para encontrar la causa de los errores que ocurren durante la ejecución. Luego, analiza la funcionalidad de registro integrada en SSIS que puede usar para registrar eventos con el fin de solucionar problemas. Finalmente, el módulo describe enfoques comunes para manejar errores en el flujo de control y flujo de datos.
+  #### Lecciones
+  - Depurar un paquete SSIS
+  - Registro de eventos del paquete SSIS
+  - Manejo de errores en un paquete SSIS
+
+
+  ### Laboratorio&#58; Depurar y solucionar problemas con paquetes SSIS
+  Después de completar este módulo, podrá&#58;
+  - Depurar un paquete SSIS
+  - Implementar registros para un paquete SSIS
+  - Manejar errores en un paquete SSIS
+
+
+  ### Módulo 7&#58; Implementar una solución de extracción de datos
+  Este módulo describe las técnicas que puede usar para implementar un proceso de actualización incremental del almacén de datos.
+  #### Lecciones
+  - Planificación de extracción de datos
+  - Extracción de datos modificados
+
+
+  #### Laboratorio&#58; Extraer datos modificados
+  Después de completar este módulo, podrá&#58;
+  - Planificar extracción de datos
+  - Extraer datos modificados
+
+
+  ### Módulo 8&#58; Cargar datos en un almacén de datos
+  Este módulo describe las técnicas que puede usar para implementar un proceso de carga en un almacén de datos.
+  #### Lecciones
+  - Planificación de cargas de datos
+  - Uso de SSIS para cargas incrementales
+  - Uso de técnicas de carga de Transact-SQL
+
+
+  #### Laboratorio&#58; Cargar un almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir las consideraciones para la planificación de cargas de datos.
+  - Utilizar SQL Server Integration Services (SSIS) para cargar datos nuevos y modificados en un almacén de datos.
+  - Utilizar las técnicas de Transact-SQL para cargar datos en un almacén de datos.
+
+  ### Módulo 9&#58; Aplicar calidad de datos
+  Asegurar la alta calidad de los datos es esencial para que los resultados del análisis de datos sean confiables. SQL Server 2014 incluye Servicios de calidad de datos (DQS) para proporcionar un proceso asistido por ordenador para la limpieza de valores de datos, así como para identificar y eliminar entidades de datos duplicadas. Este proceso reduce la carga de trabajo del administrador de datos al mínimo mientras mantiene la interacción humana para garantizar resultados precisos.
+  #### Lecciones
+  - Introducción a calidad de datos
+  - Uso de servicios de calidad de datos para limpiar datos
+  - Uso de servicios de calidad de datos para combinar datos
+
+
+  #### Laboratorio&#58; Limpiar datos
+
+  #### Laboratorio&#58; Deduplicar datos
+  Después de completar este módulo, podrá&#58;
+  - Describir cómo DQS puede ayudarlo a administrar la calidad de los datos.
+  - Usar DQS para limpiar sus datos.
+  - Usar DQS para combinar datos.
+
+  ### Módulo 10&#58; Servicios de datos maestros
+  Servicios de datos maestros proporciona una manera para que las organizaciones estandaricen y mejoren la calidad, consistencia y confiabilidad de los datos que guían las decisiones comerciales clave. Este módulo presenta Servicios de datos maestros y explica los beneficios de usarlos.
+  #### Lecciones
+  - Introducción a Servicios de datos maestros
+  - Implementar un modelo de Servicios de datos maestros
+  - Administrar datos maestros
+  - Crear un centro de datos maestros
+
+
+  ### Laboratorio&#58; Implementar servicios de datos maestros
+  Después de completar este módulo, podrá&#58;
+  - Describir los conceptos clave de Servicios de datos maestros.
+  - Implementar un modelo de Servicios de datos maestros.
+  - Usar las herramientas de Servicios de datos maestros para administrar datos maestros.
+  - Usar las herramientas de Servicios de datos maestros para crear un centro de datos maestros.
+
+  ### Módulo 11&#58; Ampliar los servicios de integración de SQL Server
+  Este módulo describe las técnicas que puede usar para ampliar SSIS. El módulo no está diseñado para ser una guía completa para desarrollar soluciones SSIS personalizadas, sino para proporcionar una conciencia de los pasos fundamentales necesarios para usar componentes y guiones personalizados en un proceso ETL, basado en SSIS.
+  #### Lecciones
+  - Usar guiones en SSIS
+  - Usar componentes personalizados en SSIS
+
+
+  #### Laboratorio&#58; Usar componentes personalizados
+  Después de completar este módulo, podrá&#58;
+  - Incluir guiones personalizados en un paquete SSIS.
+  - Describir cómo se pueden usar componentes personalizados para extender SSIS.
+
+  ### Módulo 12&#58; Implementar y configurar paquetes SSIS
+  Los servicios de integración de Microsoft SQL Server (SSIS) proporcionan herramientas que facilitan la implementación de paquetes en otro equipo. Las herramientas de implementación también administran las dependencias, como las configuraciones y los archivos que necesita el paquete. En este módulo, aprenderá a usar estas herramientas para instalar paquetes y sus dependencias en un equipo de destino.
+  #### Lecciones
+  - Descripción general de implementación de SSIS
+  - Implementar proyectos de SSIS
+  - Planificar ejecución del paquete SSIS
+
+
+  ### Laboratorio&#58; Implementar y configurar paquetes SSIS
+  Después de completar este módulo, podrá&#58;
+  - Describir consideraciones para la implementación de SSIS.
+  - Implementar proyectos de SSIS.
+  - Planificar ejecución del paquete SSIS.
+
+  ### Módulo 13&#58; Consumir datos en un almacén de datos
+  Este módulo presenta BI, que describe los componentes de Microsoft SQL Server que puede usar para crear una solución de BI, y las herramientas del cliente con las que los usuarios pueden crear informes y analizar datos.
+  #### Lecciones
+  - Introducción a Inteligencia comercial
+  - Inteligencia comercial empresarial
+  - IB de Autoservicio y macrodatos
+
+
+  #### Laboratorio&#58; Usar un almacén de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir BI y escenarios comunes de BI.
+  - Describir cómo se puede usar un almacén de datos en escenarios de BI empresarial.
+  - Describir cómo se puede usar un almacén de datos en escenarios de BI de autoservicio.
+

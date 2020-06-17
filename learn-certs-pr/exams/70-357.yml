@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Developing Mobile Apps
+metadata:
+  title: 'Exam 70-357: Developing Mobile Apps'
+  description: 'Exam 70-357: Developing Mobile Apps'
+uid: exam.70-357
+displayName: 70-357
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen son desarrolladores con experiencia que diseñan y desarrollan aplicaciones de Windows 10 para implementarlas en la Windows Store o en la Windows Store para empresas.
+
+  Los candidatos normalmente tienen más de dos años de experiencia en el desarrollo de aplicaciones Windows con C# y XAML, además de experiencia con WPF o Silverlight para Windows Phone. Los candidatos también deben tener experiencia en el patrón de diseño Model-View-ViewModel (MVVM) y en Entity Framework, además de en las tecnologías de autenticación. Tener experiencia en Visual Studio 2015 es muy recomendable.
+subTitle: Los candidatos a este examen son desarrolladores con experiencia que diseñan y desarrollan aplicaciones de Windows 10 para implementarlas en la Windows Store o en la Windows Store para empresas.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
+practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+- ru
+levels:
+- intermediate
+skills:
+- Desarrollo de un diseño de página XAML para una interfaz de usuario adaptativa (10–15%)
+- Implementación de la navegación de la página y los eventos del ciclo de vida (10–15%)
+- Implementación del acceso a los datos y el enlace de datos (20–25%)
+- Implementación de detección de funciones para codificación adaptativa (10–15%)
+- Gestión de entradas de datos de usuarios e interacciones personalizadas de usuarios (10–15%)
+- Gestión de la autenticación y gestión de identidad (10–15%)
+- Implementación de notificaciones, tareas en segundo plano y componentes reutilizables (15–20%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

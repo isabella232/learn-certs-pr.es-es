@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Developing Microsoft SQL Server 2014 Databases
+metadata:
+  title: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+  description: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+uid: course.20464
+courseNumber: '20464-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Introducir toda la plataforma de SQL Server y sus principales herramientas. Cubrirá ediciones, versiones, conceptos básicos de los oyentes de la red y conceptos de servicios y cuentas de servicios.
+- skill: Determinar los tipos de datos apropiados que se utilizarán al diseñar tablas, convertir datos entre tipos de datos y crear tipos de datos de alias.
+- skill: 'Conocer las buenas prácticas de diseño con respecto a las tablas de SQL Server y ser capaz de crear tablas con T-SQL. (Nota: las tablas particionadas no están cubiertas).'
+- skill: Implementar las restricciones PRIMARY KEY, FOREIGN KEY, DEFAULT, CHECK y UNIQUE, e investigar las restricciones en cascada de FOREIGN KEY.
+- skill: Determinar estrategias apropiadas de una sola columna e índices compuestos.
+- skill: Crear tablas como montones y tablas con índices agrupados. Considerar también el diseño de una tabla y sugerir una estructura adecuada.
+- skill: Leer e interpretar datos de elementos comunes de los planes de ejecución.
+- skill: Diseñar índices efectivos no agrupados.
+- skill: Diseño e implementación de vistas
+- skill: Diseñar e implementar procedimientos almacenados.
+- skill: Trabajar con tipos de tabla, parámetros con valores de tabla y usar la instrucción MERGE para crear procedimientos almacenados que actualicen los almacenes de datos.
+- skill: Diseñar e implementar funciones, tanto escalares como con valores de tabla. (Describir también dónde pueden conducir a problemas de rendimiento).
+- skill: Realizar una investigación básica de una situación de punto muerto y aprender cómo los niveles de aislamiento de transacciones afectan la concurrencia de aplicaciones.
+- skill: Utilizar tanto el código tradicional de manejo de errores T-SQL como el manejo estructurado de excepciones.
+- skill: Diseñar e implementar los activadores DML
+- skill: Aprender los usos apropiados para la integración de SQL CLR e implementar un ensamblado .NET existente en SQL Server.
+- skill: Almacenar datos y esquemas XML en SQL Server.
+- skill: Realizar consultas básicas sobre datos XML en SQL Server.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-464
+summary: |-
+  Este curso de 5 días dirigido por un instructor presenta SQL Server 2014 y describe el diseño de tablas lógicas, la indexación y los planes de consulta. También se centra en la creación de objetos de base de datos, incluidas vistas, procedimientos almacenados, junto con parámetros y funciones. Otros aspectos comunes de la codificación de procedimientos, como los índices, la concurrencia, el manejo de errores y los activadores también están incluidos en este curso. Este curso lo ayuda a prepararse para el examen 70-464.
+
+  Nota&#58; Este curso está diseñado para clientes interesados ​​en aprender SQL Server 2012 o SQL Server 2014. Cubre las nuevas características en SQL Server 2014, pero también las capacidades importantes en la plataforma de datos de SQL Server.
+
+  #### Perfil de audiencia
+  El público principal para este curso son los profesionales de TI que desean adquirir habilidades en las características y tecnologías de productos de SQL Server 2014 para implementar una base de datos. 
+
+  Los públicos secundarios para este curso son personas que son desarrolladores de otras plataformas de productos o versiones anteriores de SQL Server que buscan ser expertos en la implementación de una base de datos SQL Server 2014.
+prerequisitesSection: |-
+  Este curso requiere que cumpla con los siguientes requisitos&#58;
+  - Conocimiento para redacción de consultas de T-SQL.
+  - Conocimiento de conceptos básicos de bases de datos relacionales.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Desarrollo de bases de datos
+  Este módulo presenta el desarrollo de la base de datos y las tareas clave que un desarrollador de bases de datos normalmente realizaría.
+  #### Lecciones
+  - Introducción a la plataforma SQL Server
+  - Tareas de desarrollo de bases de datos de SQL Server
+
+
+  ### Laboratorio&#58; Introducción a Desarrollo de bases de datos
+  Después de completar este módulo, podrá&#58;
+  - Describir la arquitectura y las ediciones de SQL Server 2012. 
+  - Trabajar con las herramientas de SQL Server tools.
+  - Configurar Servicios de SQL Server.
+
+
+  ### Módulo 2&#58; Diseñar e implementar tablas
+  Este módulo explica cómo diseñar, crear y modificar tablas. También se centra en trabajar con esquemas.
+  #### Lecciones
+  - Diseñar tablas
+  - Tipos de datos
+  - Trabajar con esquemas
+  - Crear y modificar tablas
+  - Particionar datos
+  - Comprimir datos
+
+
+  #### Laboratorio&#58; Diseñar e implementar tablas
+  Después de completar este módulo, podrá&#58;
+  - Diseñar tablas.
+  - Trabajar con esquemas.
+  - Crear y modificar tablas.
+
+
+  ### Módulo 3&#58; Garantizar la integridad de los datos a través de restricciones
+  Este módulo explica cómo hacer cumplir la integridad de los datos e implementar la integridad del dominio para mantener datos de alta calidad. También se enfoca en implementar Entidad e Integridad Referencial.
+  #### Lecciones
+  - Aplicar integridad de Datos
+  - Implementar integridad de Dominio
+  - Implementar integridad de Entidad e Integridad Referencial.
+
+
+  ### Laboratorio&#58; Garantizar la integridad de los datos a través de restricciones
+  Después de completar este módulo, podrá&#58;
+  - Explicar las opciones disponibles para aplicar la integridad de los datos y los niveles a los que deben aplicarse.
+  - Implementar integridad de dominio.
+  - Implementar integridad de entidad e integridad referencial.
+
+
+  ### Módulo 4&#58; Introducción a Indexación
+  Este módulo describe el concepto de índice y analiza la selectividad, la densidad y las estadísticas. Cubre las opciones de tipo de datos apropiadas y las opciones en torno a las estructuras de índice compuesto.
+  #### Lecciones
+  - Conceptos básicos de indexación
+  - Tipos de datos e índices
+  - Columna única e índices compuestos
+
+
+  ### Laboratorio&#58; Implementar índices
+  Después de completar este módulo, podrá&#58;
+  - Describir conceptos básicos de indexación. 
+  - Elegir los tipos de datos apropiados para los índices.
+  - Diseñar e implementar índices agrupados y no agrupados.
+
+
+  ### Módulo 5&#58; Diseñar de estrategias de índice optimizadas
+  Este módulo explica los índices de cobertura y la cláusula INCLUDE, así como el uso de espaciado interno, sugerencias y estadísticas. El módulo también cubre el uso del Asesor de ajuste de motor de base de datos y las vistas de administración dinámica relacionadas con el índice para evaluar las estrategias de indexación.
+  #### Lecciones
+  - Cubrir índices
+  - Administrar índices
+  - Trabajar con planes de ejecución
+  - Usar DTE
+
+
+  #### Laboratorio&#58; Diseñar estrategias de indexación optimizadas
+  Después de completar este módulo, podrá&#58;
+  - Describir los elementos de un plan de ejecución. 
+  - Diseñar estrategias de indexación efectivas.
+  - Supervisar su sistema para evaluar el rendimiento de su estrategia de indexación.
+
+
+  ### Módulo 6&#58; Índices de almacén de columnas
+  Este módulo explica los índices del almacén de columnas y cómo usarlos para maximizar el rendimiento y la escalabilidad de las aplicaciones de bases de datos.
+  #### Lecciones
+  - Introducción a índices de almacén de columnas
+  - Crear índices de almacén de columnas
+  - Trabajar con índices de almacén de columnas
+
+
+  #### Laboratorio&#58; Usar índices de almacén de columnas
+  Después de completar este módulo, podrá&#58;
+  - Crear índices de almacén de columnas.
+  - Describir las consideraciones para actualizar tablas con índices de almacén de columnas no agrupados.
+
+
+  ### Módulo 7&#58; Diseñar e implementar vistas
+  Este módulo presenta Vistas y explica cómo crear y administrar Vistas. También se centra en la consideración de rendimiento para Vistas.
+  #### Lecciones
+  - Introducción a Vistas
+  - Crear y administrar Vistas
+  - Consideraciones de rendimiento para Vistas
+
+
+  #### Laboratorio&#58; Diseñar e implementar Vistas
+  Después de completar este módulo, podrá&#58;
+  - Explicar la función de las vistas en el desarrollo de bases de datos. 
+  - Implementar vistas.
+  - Describir los impactos de las vistas relacionados con el rendimiento.
+
+
+  ### Módulo 8&#58; Diseñar e implementar Procedimientos almacenados
+  Este módulo describe las ventajas potenciales del uso de procedimientos almacenados junto con pautas para crearlos.
+  #### Lecciones
+  - Introducción a Procedimientos almacenados
+  - Trabajar con Procedimientos almacenados
+  - Implementar Procedimientos almacenados parameterizados
+  - Controlar contexto de ejecución
+
+
+  ### Laboratorio&#58; Diseñar e implementar Procedimientos almacenados
+  Después de completar este módulo, podrá&#58;
+  - Describir la función de los procedimientos almacenados y los beneficios potenciales de usarlos. 
+  - Trabajar con procedimientos almacenados. 
+  - Implementar procedimientos almacenados parameterizados.
+  - Controlar el contexto de ejecución de un procedimiento almacenado.
+
+
+  ### Módulo 9&#58; Diseñar e implementar funciones definidas por el usuario
+  Este módulo explica cómo diseñar e implementar funciones definidas por el usuario que imponen reglas comerciales o consistencia de datos, y cómo modificar y mantener las funciones existentes escritas por otros desarrolladores.
+  #### Lecciones
+  - Descripción general de funciones
+  - Diseñar e implementar funciones escalares
+  - Diseñar e implementar funciones valuadas por tablas
+  - Consideraciones de implementación para funciones
+  - Alternativas a funciones
+
+
+  ### Laboratorio&#58; Diseñar e implementar funciones definidas por el usuario
+  Después de completar este módulo, podrá&#58;
+  - Diseñar e implementar funciones escalares. 
+  - Diseñar e implementar funciones valuadas por tablas. 
+  - Describir consideraciones de implementación para funciones.
+  - Describir alternativas a funciones.
+
+
+  ### Módulo 10&#58; Responder a Manipulación de datos a través de activadores
+  Este módulo explica qué son los activadores DML y cómo se aplica la integridad de los datos. También se centra en los diferentes tipos de activadores disponibles y cómo definirlos en una base de datos.
+  #### Lecciones
+  - Diseñar activadores DML
+  - Implementar activadores DML
+  - Conceptos de activadores avanzados
+
+
+  ### Laboratorio&#58; Responder a Manipulación de datos a través de activadores
+  Después de completar este módulo, podrá&#58;
+  - Diseñar activadores DML. 
+  - Implementar activadores DML.
+  - Explicar los conceptos de activadores avanzados DML.
+
+
+  ### Módulo 11&#58; Uso de Tablas en memoria
+  Este módulo cubre la creación de tablas en memoria y procedimientos almacenados nativos y analiza las ventajas y desventajas de usar tablas en memoria.
+  #### Lecciones
+  - Tablas en memoria
+  - Procedimientos almacenados nativos
+
+
+  #### Laboratorio&#58; OLTP en memoria
+  Después de completar este módulo, podrá&#58;
+  - Diseñar e implementar tablas optimizadas por memoria.
+  - Crear procedimientos almacenados nativos.
+
+
+  ### Módulo 12&#58; Implementación de código administrado en SQL Server 2014
+  Este módulo explica cómo usar el código integrado CLR para crear objetos de base de datos definidos por el usuario que son administrados por .NET Framework.
+  #### Lecciones
+  - Introducción a integración SQL CLR
+  - Importar y configurar ensamblados
+  - Implementar integración SQL CLR
+
+
+  ### Laboratorio&#58; Implementación de código administrado en SQL Server 2014
+  Después de completar este módulo, podrá&#58;
+  - Explicar la importancia de la integración SQL Server CLR. 
+  - Importar y configurar ensamblados.
+  - Implementar objetos que se hayan creado dentro de ensamblados .NET.
+
+
+  ### Módulo 13&#58; Almacenamiento y consulta de datos XML en SQL Server
+  Este módulo presenta XML y muestra cómo se pueden almacenar datos XML en SQL Server y luego consultarlos, incluidas las consultas escritas en un lenguaje llamado XQuery.
+  #### Lecciones
+  - Introducción a esquemas XML y XML
+  - Almacenar datos y esquemas XML en SQL Server.
+  - Implementar el tipo de dato XML
+  - Uso de T-SQL para XML Statement
+  - Introducción con XQuery
+
+
+  ### Laboratorio&#58; Almacenamiento y consulta de datos XML en SQL Server 2014
+  Después de completar este módulo, podrá&#58;
+  - Describir esquemas XML y XML.
+  - Almacenar datos XML y esquemas XML asociados en SQL Server.
+  - Implementar el tipo de dato XML en SQL Server. 
+  - Uso de T-SQL para XML Statement. 
+  - Trabajar con consultas básicas XQuery.
+  - Descifrar XML en un formulario relacional.
+
+
+  ### Módulo 14&#58; Trabajar con datos espaciales de SQL Server 2014
+  Este módulo presenta datos espaciales y explica cómo trabajar con los tipos de datos espaciales de SQL Server.
+  #### Lecciones
+  - Introducción a datos espaciales
+  - Trabajar con tipos de datos espaciales de SQL Server
+  - Uso de datos espaciales en aplicaciones
+
+
+  #### Laboratorio&#58; Trabajar con datos espaciales de SQL Server
+  Después de completar este módulo, podrá&#58;
+  - Describir la importancia de los datos espaciales y los estándares de la industria relacionados con ellos. 
+  - Explicar cómo almacenar datos espaciales en SQL Server.
+  - Realizar cálculos y consultar datos espaciales de SQL Server.
+
+
+  ### Módulo 15&#58; Incorporar archivos de datos en bases de datos
+  #### Lecciones
+  - Consultar datos con Procedimientos almacenados
+  - Implementar FILESTREAM y tablas de archivos
+  - Buscar archivos de datos
+
+
+  #### Laboratorio&#58; Implementar una solución para almacenar archivos de datos
+

@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Administering a SQL Database Infrastructure
+metadata:
+  title: 'Exam 70-764: Administering a SQL Database Infrastructure'
+  description: 'Exam 70-764: Administering a SQL Database Infrastructure'
+uid: exam.70-764
+displayName: 70-764
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Este examen está dirigido a profesionales de bases de datos que realizan tareas de instalación, mantenimiento y configuración. Otras responsabilidades son&#58; configuración de sistemas de bases de datos, comprobación del funcionamiento eficaz de dichos sistemas y almacenamiento, copia de seguridad y protección de los datos contra el acceso no autorizado.
+subTitle: 'Este examen está dirigido a profesionales de bases de datos que realizan tareas de instalación, mantenimiento y configuración. Otras responsabilidades son: configuración de sistemas de bases de datos, comprobación del funcionamiento eficaz de dichos sistemas y almacenamiento, copia de seguridad y protección de los datos contra el acceso no autorizado.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfJx
+practiceTestUrl: http://www.mindhub.com/70-764-Administering-SQL-Database-Infrastructure-p/mu-70-764_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
+locales:
+- en
+levels:
+- advanced
+skills:
+- Configuración del acceso y la auditoría de datos (20-25%)
+- Administración de las copias de seguridad y restauración de las bases de datos (20-25%)
+- Administración y supervisión de las instancias de SQL Server (35-40%)
+- Administración de la alta disponibilidad y recuperación ante desastres (20-25%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20764
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+- related:
+    uid: certification.mcsa-sql2016-database-administration-certification
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

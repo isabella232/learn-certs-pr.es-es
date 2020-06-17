@@ -1,0 +1,49 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 for Talent
+metadata:
+  title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+  description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
+uid: exam.mb-6-898
+displayName: MB6-898
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen son socios de Microsoft Dynamics 365 que configuran y usan la funcionalidad de la aplicación en Microsoft Dynamics 365 for Talent y proporcionan soporte para la aplicación. Este examen también es adecuado para el personal de ventas con formación en soluciones empresariales que desee demostrar sus conocimientos funcionales de la aplicación Microsoft Dynamics 365 for Talent.
+
+  Los candidatos generalmente deben tener una sólida comprensión de la gestión del capital humano, los procesos operativos de recursos humanos y la experiencia en la implementación, el mantenimiento y el uso de los Microsoft Dynamics 365 for Talent.
+
+  <div style='font-weight&#58; bold;'><br/>El exam MB6-898 se aplica a la versión de abril de 2018 de Dynamics 365 for Talent. Para obtener la información más actualizada sobre el producto, consulte&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+subTitle: Los candidatos a este examen son socios de Microsoft Dynamics 365 que configuran y usan la funcionalidad de la aplicación en Microsoft Dynamics 365 for Talent y proporcionan soporte para la aplicación. Este examen también es adecuado para el personal de ventas con formación en soluciones empresariales que desee demostrar sus conocimientos funcionales de la aplicación Microsoft Dynamics 365 for Talent.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
+locales:
+- en
+levels:
+- beginner
+skills:
+- Comprender el entorno de Dynamics 365 para Talento (45-50%)
+- Instalar y usar la aplicación de Talento (50-55%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

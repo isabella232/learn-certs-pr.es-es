@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Implementing Data Models and Reports with Microsoft SQL Server
+metadata:
+  title: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
+  description: 'Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server'
+uid: exam.70-466
+displayName: 70-466
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Este examen está dirigido a desarrolladores de Business Intelligence (BI) que se centran en la creación de soluciones de BI que requieren la implementación de modelos de datos multidimensionales, la implementación y el mantenimiento de cubos OLAP y la creación de presentaciones de información empleadas en la toma de decisiones de negocio.
+
+  <div style='font-weight&#58; bold;'><br/>A partir del 18 de febrero de 2016, este examen incluye contenido que cubre tanto SQL Server 2012 como 2014. Tome en cuenta que este examen no incluye preguntas sobre funciones o capacidades que solo están presentes en el producto SQL Server 2012. Para obtener más información, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU">descargue y revise este documento</a>.</div>
+subTitle: Este examen está dirigido a desarrolladores de Business Intelligence (BI) que se centran en la creación de soluciones de BI que requieren la implementación de modelos de datos multidimensionales, la implementación y el mantenimiento de cubos OLAP y la creación de presentaciones de información empleadas en la toma de decisiones de negocio.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Construir una base de datos multidimensional de servicios de análisis (35-40%)
+- Administrar, mantener y solucionar problemas de una base de datos de SQL Server Analysis Services (SSAS) (15-20%)
+- Construir un modelo de datos tabular (15-20%)
+- Crear un informe con SQL Server Reporting Services (SSRS) (25-30%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20466
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

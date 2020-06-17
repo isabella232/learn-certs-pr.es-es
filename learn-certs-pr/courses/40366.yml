@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Networking Fundamentals: MTA Exam 98-366'
+metadata:
+  title: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+  description: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+uid: course.40366
+courseNumber: '40366-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprender las infraestructuras de redes
+- skill: Comprender el hardware de red
+- skill: Comprender los protocolos y los servicios
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-361
+summary: |-
+  Este curso de capacitación de MTA de tres días lo ayuda a prepararse para el Examen de Asociado Tecnológico de Microsoft 98-366 y a comprender estos temas&#58; Infraestructuras de red, hardware de red y protocolos y servicios. Este curso aprovecha el mismo contenido que se encuentra en el Curso Académico Oficial de Microsoft (MOAC) para este examen. Este curso está actualizado para admitir Windows 10.
+
+  #### Perfil de audiencia
+  Microsoft Technology Associate (MTA) es el conjunto de exámenes de certificación tecnológica más reciente de Microsoft que valida el conocimiento fundamental necesario para comenzar a desarrollar una carrera profesional utilizando las tecnologías de Microsoft. Este programa proporciona un punto de entrada apropiado para una futura carrera en tecnología y asume cierta experiencia práctica o capacitación, pero no asume experiencia en el trabajo.
+prerequisitesSection: |-
+  No hay requisitos previos para tomar este curso.
+outlineSection: |-
+  ### Módulo 1&#58; Comprender las redes de área local
+
+  ### Módulo 2&#58; Definir las redes con el modelo OSI
+
+  ### Módulo 3&#58; Comprender las redes cableadas e inalámbricas
+
+  ### Módulo 4&#58; Comprender el Protocolo de Internet
+
+  ### Módulo 5&#58; Implementación de TCP/IP en la línea de comando
+
+  ### Módulo 6&#58; Trabajar con servicios de red
+
+  ### Módulo 7&#58; Comprender las redes de área amplia
+
+  ### Módulo 8&#58; Definición de infraestructuras de red y seguridad de red
+

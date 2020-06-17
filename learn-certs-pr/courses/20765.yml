@@ -1,0 +1,230 @@
+### YamlMime:Course
+title: Provisioning SQL Databases
+metadata:
+  title: 'Course 20765-C: Provisioning SQL Databases'
+  description: 'Course 20765-C: Provisioning SQL Databases'
+uid: course.20765
+courseNumber: '20765-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprovisionar un servidor de base de datos
+- skill: Actualizar SQL Server
+- skill: Configurar SQL Server
+- skill: Administrar bases de datos y archivos (compartido)
+- skill: Aprovisionar, migrar y gestionar bases de datos en la nube
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-765
+summary: |-
+  Este curso está diseñado para enseñar a los estudiantes cómo aprovisionar bases de datos de SQL Server tanto en las instalaciones como en SQL Azure.
+
+  #### Perfil de audiencia
+  El público principal para este curso son personas que administran y mantienen bases de datos de SQL Server. Estas personas son responsables de realizar la administración y el mantenimiento de la base de datos, o trabajan en entornos donde las bases de datos juegan un papel clave en su trabajo principal.
+
+  Las audiencias secundarias para este curso son personas que desarrollan aplicaciones que proporcionan contenido desde bases de datos de SQL Server.
+prerequisitesSection: |-
+  Este curso requiere que cumpla con los siguientes requisitos&#58;
+  - Conocimientos básicos del sistema operativo Microsoft Windows y su funcionalidad principal.
+  - Conocimiento práctico de Transact-SQL. 
+  - Conocimiento práctico de bases de datos relacionales. 
+  - Algo de experiencia en diseño de bases de datos.
+outlineSection: |-
+  ### Módulo 1&#58; Componentes de SQL Server
+  Este módulo describe los diversos componentes y versiones de SQL Server.
+  #### Lecciones
+  - Introducción a SQL Server Platform
+  - Descripción general de la arquitectura de SQL Server
+  - Servicios de SQL Server y opciones de configuración
+  
+  Después de completar este módulo, podrá&#58; 
+  - Describir los componentes y versiones de SQL Server.
+  - Describir la arquitectura de SQL Server y el uso de recursos.
+  - Describir los servicios de SQL Server y cómo administrar la configuración de esos servicios.
+
+
+  ### Módulo 2&#58; Instalar SQL Server
+  Este módulo describe el proceso para instalar SQL Server 2016.
+  #### Lecciones
+  - Consideraciones para el servidor de instalación de SQL
+  - Archivos TempDB
+  - Instalación de SQL Server
+  - Instalación automatizada
+
+
+  #### Laboratorio &#58; Instalar SQL Server
+  - Preparación para instalar SQL Server
+  - Instalar una instancia de SQL Server
+  - Realizar verificaciones posteriores a la instalación
+  - Instalación automatizada
+
+  Después de completar este módulo, podrá&#58; 
+  - Describir las consideraciones al instalar SQL Server.
+  - Describir archivos TempDB.
+  - Instalar SQL Server.
+  - Automatizar una instalación de SQL Server.
+
+
+  ### Módulo 3&#58; Actualización de SQL Server a SQL Server 2017
+  Este módulo describe el proceso para actualizar a SQL Server 2017.
+  #### Lecciones
+  - Requisitos de actualización
+  - Actualizar los servicios de SQL Server
+  - Actualización de lado a lado&#58; Migración de datos y aplicaciones de SQL Server
+
+
+  #### Laboratorio &#58; Actualización de SQL Server
+  - Crear los inicios de sesión de la aplicación
+  - Restaurar las copias de seguridad de la base de datos TSQL
+  - Usuarios huérfanos y nivel de compatibilidad de bases de datos
+
+  Después de completar este módulo, podrá&#58; 
+  - Describir los requisitos de actualización para SQL Server. 
+  - Actualizar SQL Server.
+  - Migrar datos y aplicaciones de SQL Server.
+
+
+  ### Módulo 4&#58; Trabajar con bases de datos
+  Este módulo describe las bases de datos del sistema preinstaladas, la estructura física de las bases de datos y las opciones de configuración más comunes relacionadas con ellas.
+  #### Lecciones
+  - Introducción al almacenamiento de datos con SQL Server
+  - Gestión de almacenamiento para bases de datos del sistema
+  - Gestión de almacenamiento para bases de datos del usuario
+  - Mover y copiar archivos de base de datos
+  - Extensión de la agrupación de almacenamiento intermedio
+
+
+  #### Laboratorio &#58; Administrar el almacenamiento de la base de datos
+  - Configuración de almacenamiento tempdb
+  - Crear bases de datos
+  - Adjuntar una base de datos
+  - Habilitar la extensión de la agrupación de almacenamientos intermedios
+
+  Después de completar este módulo, podrá&#58; 
+  - Describir el almacenamiento de datos con SQL Server.
+  - Administrar almacenamiento para bases de datos del sistema.
+  - Administrar almacenamiento para bases de datos de usuario.
+  - Mover y copiar archivos de base de datos.
+  - Describir y usar extensiones de agrupación de almacenamientos intermedios.
+
+
+  ### Módulo 5&#58; Realizar mantenimiento de la base de datos
+  Este módulo cubre los planes de mantenimiento de la base de datos.
+  #### Lecciones
+  - Garantizar la integridad de la base de datos
+  - Mantener índices
+  - Automatizar el mantenimiento rutinario de la base de datos
+
+
+  #### Laboratorio &#58; Realizar mantenimiento de la base de datos
+  - Usar DBCC CHECKDB para verificar la integridad de la base de datos
+  - Reconstruir índices
+  - Crear un plan de mantenimiento de base de datos
+
+  Después de completar este módulo, podrá&#58; 
+  - Garantizar la integridad de la base de datos.
+  - Mantener índices.
+  - Automatizar el mantenimiento rutinario de la base de datos.
+
+
+  ### Módulo 6&#58; Opciones de almacenamiento de base de datos
+  Describir las opciones de almacenamiento de SQL Server.
+  #### Lecciones
+  - Rendimiento de almacenamiento de SQL Server
+  - Compartir archivos SMB
+  - Almacenamiento de SQL Server en Microsoft Azure
+  - Stretch Database
+
+
+  #### Laboratorio &#58; Implementación de Stretch Database
+  - Ejecutar Stretch Database Advisor
+  - Implementar Stretch Database
+
+  Después de completar este módulo, podrá&#58; 
+  - Describir el rendimiento del almacenamiento de SQL Server.
+  - Describir SMB Fileshare. 
+  - Explicar el almacenamiento de SQL Server en Microsoft Azure.
+  - Describir Stretch Database.
+
+
+  ### Módulo 7&#58; Planear implementar SQL Server en Microsoft Azure
+  Este módulo describe cómo planear implementar SQL Server en Azure.
+  #### Lecciones
+  - Máquinas virtuales de SQL Server en Azure
+  - Almacenamiento Azure
+  - Autenticación de Azure SQL
+  - Implementación de una base de datos Azure SQL
+
+
+  #### Laboratorio &#58; Planificar e implementar una base de datos SQL Azure
+  - Planificar una base de datos SQL Azure, redes, niveles de rendimiento, seguridad
+  - Aprovisionar una base de datos Azure SQL
+  - Conectar a una base de datos SQL de Azure
+
+  Después de completar este módulo, podrá&#58; 
+  - Describir las máquinas virtuales de SQL Server en Azure.
+  - Describir Azure Storage. 
+  - Explicar la autenticación, la auditoría y el cumplimiento de Azure SQL.
+  - Implementar una base de datos SQL Azure.
+
+
+  ### Módulo 8&#58; Migración de bases de datos a Azure SQL Database
+  Este módulo describe cómo migrar bases de datos a Azure SQL Database.
+  #### Lecciones
+  - Herramientas de prueba de migración de base de datos
+  - Problemas de compatibilidad de migración de base de datos
+  - Migración de una base de datos de SQL Server a Azure SQL Database
+
+
+  #### Laboratorio &#58; Migración de bases de datos de SQL Server a Azure
+  - Realizar pruebas de migración
+  - Migrar una base de datos de SQL Server a Azure SQL Database
+  - Probar una base de datos migrada
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir varias herramientas de prueba de migración de bases de datos.
+  - Explicar problemas de compatibilidad de migración de base de datos.
+  - Migrar una base de datos de SQL Server a Azure SQL Database.
+
+  ### Módulo 9&#58; Implementación de SQL Server en una máquina virtual de Microsoft Azure
+  Este módulo describe cómo implementar SQL Server en máquinas virtuales de Microsoft Azure.
+  #### Lecciones
+  - Implementación de SQL Server en una máquina virtual de Azure
+  - La base de datos de implementación en un asistente de máquina virtual de Microsoft Azure
+
+
+  #### Laboratorio &#58; Implementación de SQL Server en una máquina virtual de Azure
+  - Aprovisionar una máquina virtual de Azure
+  - Usar el Asistente de implementación de base de datos en máquina virtual de Azure
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar SQL Server en una máquina virtual de Azure.
+  - Usar la base de datos de implementación en un asistente de máquina virtual de Microsoft Azure.
+  - Configurar conexiones de SQL Server
+
+
+  ### Módulo 10&#58; Administrar bases de datos en la nube
+  Este módulo describe cómo administrar SQL Server en Azure.
+  #### Lecciones
+  - Administración de la seguridad de la base de datos SQL de Azure
+  - Configurar el almacenamiento de Azure
+  - Automatización Azure
+
+
+  #### Laboratorio &#58; Administrar bases de datos en la nube
+  - Agregar enmascaramiento de datos
+  - Usar la automatización de Azure para detener las máquinas virtuales
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar la seguridad de la base de datos SQL Azure.
+  - Configurar el almacenamiento de Azure.
+  - Implementar Azure Automation.
+

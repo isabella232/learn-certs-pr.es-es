@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+metadata:
+  title: 'Course 40035-A: Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+  description: 'Course 40035-A: Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+uid: course.40035
+courseNumber: '40035-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprender la programación central
+- skill: Comprender la programación orientada a objetos
+- skill: Comprender el desarrollo general de software
+- skill: Comprender las aplicaciones web
+- skill: Comprender las aplicaciones de escritorio
+- skill: Comprender base de datos
+- skill: Comprender los conceptos de .NET Framework
+- skill: Comprender espacios de nombres y clases en .NET Framework
+- skill: Comprender la compilación de .NET Code
+- skill: Comprender clases de E/S en .NET Framework
+- skill: Conocimiento seguridad
+- skill: Comprender lenguages de .NET
+- skill: Comprender gestión de memoria
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- dotnet
+exams:
+- uid: exam.98-361
+summary: |-
+  Este curso de capacitación de dos días de cinco días lo ayuda a prepararse para los exámenes 98-361 y 98-372 de Microsoft Technology Associate, y a comprender estos temas &#58; Programación básica, programación orientada a objetos, desarrollo general de software, aplicaciones web, aplicaciones de escritorio, bases de datos, conceptos de .NET Framework, espacios de nombres y clases en .NET Framework, compilación de códigos .NET, clases de E/S en .NET Framework, seguridad, Lenguajes .NET y gestión de memoria. Estos cursos aprovechan el mismo contenido que se encuentra en el Microsoft Official Academic Course (MOAC) para estos exámenes.
+
+  #### Perfil de audiencia
+  Microsoft Technology Associate (MTA) es el conjunto de exámenes de certificación tecnológica más reciente de Microsoft que valida el conocimiento fundamental necesario para comenzar a desarrollar una carrera profesional utilizando las tecnologías de Microsoft. Este programa proporciona un punto de entrada apropiado para una futura carrera en tecnología y asume cierta experiencia práctica o capacitación, pero no asume experiencia en el trabajo.
+prerequisitesSection: |-
+  No hay requisitos previos para tomar este curso.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a la programación
+
+
+  ### Módulo 2&#58; Introducción a la programación orientada a objetos
+
+
+  ### Módulo 3&#58; Comprender el desarrollo general de software
+
+
+  ### Módulo 4&#58; Comprender las aplicaciones web
+
+
+  ### Módulo 5&#58; Comprender las aplicaciones de escritorio
+
+
+  ### Módulo 6&#58; Comprender base de datos
+
+
+  ### Módulo 7&#58; Entender la programación orientada a objetos
+
+
+  ### Módulo 8&#58; Entender el acceso y la administración de datos
+
+
+  ### Módulo 9&#58; Entender los eventos y las excepciones
+
+
+  ### Módulo 10&#58; Entender la compilación e implementación del código
+
+
+  ### Módulo 11&#58; Entender clases de E/S de entrada/salida
+
+
+  ### Módulo 12&#58; Entender seguridad
+

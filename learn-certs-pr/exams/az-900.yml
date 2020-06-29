@@ -7,13 +7,17 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 28 de mayo de 2020. NOTA&#58; las actualizaciones que se anunciaron antes del 15 de abril de 2020 se implementarán el 15 de septiembre de 2020. Las actualizaciones ahora planificadas para el 28 de mayo son actualizaciones menores de redacción; descargue el documento de aptitudes evaluadas a continuación para ver qué cambiará el 28 de mayo.
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
 
-  Este examen está diseñado para candidatos que quieren demostrar un - nivel de conocimiento fundamental de los servicios de nube y cómo se ofrecen esos servicios con Microsoft Azure. El examen está pensado para candidatos sin conocimientos técnicos, como por ejemplo, las personas implicadas en la venta o compra de soluciones y servicios basados en la nube, o que estén implicados en alguna medida en las soluciones y servicios basados en la nube, así como aquellos con un trasfondo técnico que deban validar su nivel de conocimientos acerca de los servicios en la nube. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
+  Los candidatos para este examen deben tener un conocimiento fundamental de los servicios en la nube y cómo se proporcionan esos servicios con Microsoft Azure.
 
-  Este examen se puede realizar como un primer paso opcional en el aprendizaje de los servicios de la nube y en cómo dichos conceptos están ejemplificados por Microsoft Azure. Se puede realizar como un precursor para los exámenes de servicios de la nube de Microsoft Azure o Microsoft. Si bien sería una primera medida beneficiosa el validar el nivel de conocimiento fundamental, el tomar este examen no constituye un requisito indispensable antes de tomar otras certificaciones basadas en Azure.
+  El examen de Fundamentos de Azure es una oportunidad para demostrar el conocimiento de los conceptos de la nube, los servicios básicos de Azure, los precios de Azure, el SLA y el ciclo de vida, y los fundamentos de la seguridad, la privacidad, el cumplimiento y la confianza en la nube.
+
+  Este examen está dirigido a personas que comienzan a trabajar con soluciones y servicios basados en la nube. Los candidatos deben poder demostrar un conocimiento fundamental de los conceptos de la nube, así como de los servicios, cargas de trabajo, seguridad, privacidad, precios y soporte de Azure. Además, debe estar familiarizado con los conceptos de redes, almacenamiento, proceso, soporte de aplicaciones y desarrollo de aplicaciones.
+
+  Azure Fundamentals se puede usar para prepararse para otras certificaciones de Azure basadas en roles o especializadas, pero no es un requisito previo para ninguna de ellas.
 subTitle: 'Este examen mide su capacidad para comprender los siguientes conceptos: conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -23,6 +27,8 @@ providers:
   examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 - ja
@@ -31,31 +37,29 @@ locales:
 levels:
 - beginner
 skills:
-- 'El contenido de este examen se actualizará el 28 de mayo de 2020. NOTA: las actualizaciones que se anunciaron antes del 15 de abril de 2020 se implementarán el 15 de septiembre de 2020. Las actualizaciones ahora planificadas para el 28 de mayo son actualizaciones menores de redacción; descargue el documento de aptitudes evaluadas a continuación para ver qué cambiará el 28 de mayo.'
-- Comprender los conceptos de la nube (15-20%)
-- Comprender los servicios centrales de Azure (30-35%)
-- Comprender la seguridad, privacidad, cumplimiento y confianza (25-30%)
-- Comprender la fijación de precios y el soporte de Azure (20-25%)
+- El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Describir conceptos de nube (15-20%)
+- Describir los servicios principales de Azure (30-35%)
+- Describir seguridad, privacidad, cumplimiento y confianza (25-30%)
+- Describir los acuerdos de nivel de servicio de precios de Azure y los ciclos de vida (20-25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para exámenes de certificación
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.

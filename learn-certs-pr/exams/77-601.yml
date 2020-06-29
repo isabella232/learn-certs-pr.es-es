@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Word 2007'
+metadata:
+  title: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+  description: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+uid: exam.77-601
+displayName: 77-601
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos para este examen deben tener el equivalente de seis meses a un año de experiencia práctica en la creación de productos empresariales con Microsoft Office Word 2007 y pueden tener experiencia con versiones anteriores de Office Word. Estos candidatos tienen fortalezas especialmente en la creación, personalización y organización de documentos mediante el uso de formato y contenido visual que sea apropiado para la información presentada. También tienen fortalezas en la revisión, el intercambio y la protección de contenido.
+subTitle: Los candidatos para este examen deben tener el equivalente de seis meses a un año de experiencia práctica en la creación de productos empresariales con Microsoft Office Word 2007 y pueden tener experiencia con versiones anteriores de Office Word. Estos candidatos tienen fortalezas especialmente en la creación, personalización y organización de documentos mediante el uso de formato y contenido visual que sea apropiado para la información presentada. También tienen fortalezas en la revisión, el intercambio y la protección de contenido.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57w
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-601&examname=MOS:%20Using%20Microsoft%20Office%20Word%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-601
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- Crear y personalizar documentos (25-30%)
+- Dar formato al contenido (25-30%)
+- Trabajar con contenido visual (10–15%)
+- Organizar contenido (15–20%)
+- Revisar documentos (10–15%)
+- Compartir y asegurar contenido (5–10%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

@@ -8,14 +8,14 @@ displayName: MB-240
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 19 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 19 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en servicio de campo. Los candidatos son responsables de implementar soluciones que administran los recursos que completan el ciclo de vida del servicio de campo.
 
   Los candidatos implementan los procesos de servicio de campo diseñados en colaboración con equipos internos y externos. Esta colaboración incluye la configuración de las áreas de administración predeterminadas de la aplicación Field Service, la implementación de la solución Connected Field Service (IoT) y la aplicación móvil, y la implementación de las personalizaciones adicionales necesarias. Los candidatos son responsables de la configuración y la implementación de la aplicación Field Service junto con la aplicación central de servicio al cliente.
 
-  Los candidatos deben conocer cómo configurar y personalizar los componentes de la aplicación Servicio de campo, incluidos los servicios de configuración, recursos, características, incidentes, integración de inventario, acuerdos de servicio, programación de recursos, órdenes de trabajo, tareas de servicio, roles de usuario de servicio de campo, configuración de servicio de campo , la solución Connected Field Service (IoT) y la configuración de la aplicación Field Service Mobile
+  Los candidatos deben conocer cómo configurar y personalizar los componentes de la aplicación Servicio de campo, incluidos los servicios de configuración, recursos, características, incidentes, integración de inventario, acuerdos de servicio, programación de recursos, órdenes de trabajo, tareas de servicio, roles de usuario de servicio de campo, configuración de servicio de campo, la solución Connected Field Service (IoT) y la configuración de la aplicación Field Service Mobile
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar aplicaciones de servicio de campo; gestionar las órdenes de trabajo; programar y despachar órdenes de trabajo; gestionar la movilidad del servicio de campo; gestionar el inventario y las compras; y gestionar activos y acuerdos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,6 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizó el, 19 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Configurar aplicaciones de servicio de campo (20-25%)
 - Administrar órdenes de trabajo (15-20%)
 - Programar y enviar órdenes de trabajo (20-25%)
@@ -50,11 +51,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

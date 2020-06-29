@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
 
-  Los arquitectos de soluciones para aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
+  Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 
   Un Arquitecto de soluciones tiene conocimiento funcional y técnico de las aplicaciones basadas en modelos de Power Platform en Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing y Dynamics 365 Sales, soluciones de nube de Microsoft relacionadas y otras tecnologías de terceros. Un arquitecto de soluciones aplica el conocimiento y la experiencia a través de un compromiso. El arquitecto de soluciones realiza un trabajo preventivo y proactivo para aumentar el valor de la inversión del cliente y promover el bienestar de la organización. Este rol requiere la capacidad de identificar oportunidades para resolver problemas comerciales.
 
   Los arquitectos de soluciones tienen experiencia en disciplinas funcionales y técnicas de Power Platform y aplicaciones basadas en modelos en Dynamics 365. Los arquitectos de soluciones deben poder facilitar las decisiones de diseño en el desarrollo, la configuración, la integración, la infraestructura, la seguridad, la disponibilidad, el almacenamiento y la gestión de cambios. Este rol equilibra las necesidades comerciales de un proyecto mientras cumple con los requisitos funcionales y no funcionales.
-
-  <div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la visión de la solución y el análisis de requisitos; diseñe una solución; e implementar la solución.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Realizar el análisis de la visión y los requisitos de la solución (30-35%)
 - Diseñar una solución (45-50%)
 - Implementar la solución (20-25%)
@@ -42,13 +39,13 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

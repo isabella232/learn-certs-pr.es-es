@@ -12,20 +12,19 @@ summary: |-
 
   Los candidatos deben tener habilidades de nivel experto en la administración de Azure y tener experiencia con los procesos de desarrollo de Azure y los procesos DevOps.
 
-  <div style='red; font-weight&#58; bold;'><br/>NOTA&#58; este examen estará disponible el 29 de junio de 2020 aproximadamente.</div>
+  <div style='red; font-weight&#58; bold;'><br/>NOTA&#58; Este examen estará disponible alrededor del 29 de Junio de 2020.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar y monitorear una infraestructura de Azure; implementar soluciones de gestión y seguridad; implementar soluciones para aplicaciones; e implementar y administrar plataformas de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
 levels:
 - advanced
 skills:
-- Implementar y monitorear una infraestructura de Azure (50-55%)
-- Implementar soluciones de administración y seguridad (25-30%)
-- Implementar soluciones para aplicaciones (10-15%)
-- Implementar y administrar plataformas de datos (10-15%)
+- Implementar y monitorear una infraestructura de Azure (50 -55%)
+- Implementar soluciones de administración y seguridad (25 -30%)
+- Implementar soluciones para aplicaciones (10 -15%)
+- Implementar y administrar plataformas de datos (10 -15%)
 roles:
 - solution-architect
 products:
@@ -34,14 +33,11 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Acceso a Microsoft Learning Azure Passes para estudiantes de socios autorizados de Microsoft Learning
 
-<div style='color&#58; red;'><font color="red">En respuesta al coronavirus (COVID-19), Microsoft está <a href="https://azure.microsoft.com/blog/">priorizando la capacidad</a> Azure donde más se necesita. Para respaldar esta política, hemos eliminado las suscripciones de Azure Pass del mercado de software del curso y el portal de MCT Azure Pass indefinidamente.</font></div>
+<div style='color&#58; red;'><font color="red">Microsoft WWL ha restablecido el acceso a los pases de Azure. Tenga en cuenta que esta es una solución que no es SLA y que algunas regiones pueden estar experimentando restricciones de recursos.<br/><br/>La interfaz de Azure proporcionará comentarios sobre qué regiones y tamaños son compatibles y si hay demandas significativas para la región seleccionada. Considere usar otra región compatible con la suscripción que no experimente demandas significativas o restricciones de tamaño.<br/><br/>Para obtener más información sobre soluciones alternativas respaldadas por SLA, comuníquese con uno de los Hosters de laboratorio autorizados (ALH) que actualmente proporciona acceso a Azure.</font></div>
 
-Última actualización: **26 de marzo de 2020**
+Última actualización: **5 de junio de 2020**
 
 Microsoft ofrece a sus estudiantes acceso a un Microsoft Azure Pass gratuito de 30 días cuando se inscriben en un curso elegible relacionado con Azure mediante los cursos oficiales de Microsoft. Los pases para estudiantes solo pueden ser obtenidos por el Microsoft Learning Partner autorizado a través de Courseware Marketplace, y está directamente vinculado a la compra de un curso MOC, con un límite de un pase por curso MOC ordenado. No habrá disponible ningún otro mecanismo para obtener pases para estudiantes. Si un Socio de aprendizaje solicita un curso MOC pero no selecciona el Pase de Azure que está disponible con el curso en el momento de la compra, el Socio tendrá la opción de regresar a Courseware Marketplace y, posteriormente, solicitar ese Pase si es necesario.
 
@@ -42,7 +42,6 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: Intelligent Vending Machines
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -50,10 +49,8 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 40512 Microsoft Cloud Workshop: App Modernization
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40517 Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse
 - 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
@@ -62,12 +59,9 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
-- 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
@@ -85,7 +79,9 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
+- AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -94,8 +90,9 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - AZ-220T00 Microsoft Azure IoT Developer
 - AZ-300T0X Azure Solutions Architect - Technologies courses
 - AZ-301T0X Azure Solutions Architect - Design courses
+- AZ-303T00 Microsoft Azure Architect Technologies
+- AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
-- AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
 - AZ-900T00 Microsoft Azure Fundamentals (2 Day)
 - DP-050T00 Migrate SQL workloads to Azure
@@ -104,10 +101,8 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
-- MB-300T00 Microsoft Finance and Operations Core
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
 Nota: Esta lista está sujeta a cambios y los títulos pueden agregarse o eliminarse de esta lista a medida que se lanzan nuevas versiones o cursos y se retiran versiones y cursos anteriores.

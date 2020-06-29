@@ -2,19 +2,35 @@
 title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Expert (Office 365 and Office 2019)'
-  description: Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist Certificación de Experto en múltiples programas de programas de Office.
+  description: 'Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist: Expert en múltiples programas de Office.'
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist&#58; Expert; en múltiples programas de Office.
-subTitle: Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist Certificación de Experto en múltiples programas de programas de Office.
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
+
+  Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist&#58; Expert en múltiples programas de Office.
+
+  Para obtener una certificación Microsoft Office Specialist Expert, complete los siguientes requisitos&#58;
+
+  - Obtenga una certificación de Microsoft Office Specialist Associate aprobando tres de los siguientes exámenes de Asociado&#58;
+    - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+    - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+    - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+    - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+
+  - Aprobar dos de los siguientes tres exámenes de expertos&#58;
+    - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)
+    - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)
+    - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)
+subTitle: 'Demuestre que posee las habilidades avanzadas necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist: Expert en múltiples programas de Office.'
 levels:
-- intermediate
+- advanced
 skills:
-- Microsoft Word Expert (Word y Word 2019)
-- Microsoft Excel Expert (Excel y Excel 2019)
-- Microsoft Access Expert (Access y Access 2019) (próximamente)
+- Microsoft Word Expert (Word and Word 2019)
+- Microsoft Excel Expert (Excel and Excel 2019)
+- Microsoft Access Expert (Access and Access 2019)
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office
@@ -26,16 +42,18 @@ prerequisites:
 exams:
 - uid: exam.mo-101
 - uid: exam.mo-201
+- uid: exam.mo-500
 resources:
 - title: Guía de formación y certificaciones de Microsoft
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

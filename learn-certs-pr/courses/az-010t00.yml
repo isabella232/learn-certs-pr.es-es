@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-103
+- uid: exam.az-104
+summary: |-
+  Este curso de dos días está diseñado para administradores de AWS Sysops interesados en aprender cómo Azure es diferente de AWS y cómo se administra Azure. Los temas principales de los talleres son Administración de Azure, Redes de Azure, Azure Compute, Almacenamiento de Azure y Gobernanza en Azure. Este taller combina la lectura con ejercicios prácticos y discusión/revisión. Durante el taller, los estudiantes construirán una arquitectura de extremo a extremo que demuestre las características principales tratadas en el curso.
+
+  #### Perfil de audiencia
+  La audiencia para este curso es un administrador asociado de AWS Sysops o equivalente. Esta persona tiene uno o dos años de experiencia en implementación, administración y operaciones de AWS. Los estudiantes que toman este curso están interesados en aprender cómo Azure es diferente de AWS y cómo se administra Azure. Los estudiantes también pueden estar interesados en tomar el examen de certificación AZ-103 Microsoft Azure Administrator o el examen AZ-900 Azure Fundamentals.
+prerequisitesSection: |-
+  Los exitosos AWS Sysops comienzan este curso con experiencia en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, soluciones de identidad y redes. Específicamente, los estudiantes deben tener&#58;
+  - Un conocimiento práctico de cómo construir comandos CLI, incluido el uso de las páginas de ayuda para determinar los parámetros y la estructura de comandos adecuados.
+  - Comprensión de los conceptos de red virtual, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls, puertas de enlace y tecnologías de cifrado.
+  - Comprensión de las máquinas virtuales, cómo se usan y las opciones de configuración, como el rendimiento de la CPU y los discos.
+  - Comprensión de conceptos de almacenamiento virtual como cuentas de almacenamiento, blobs, archivos compartidos y tipos de disco.
+  - Comprensión de los conceptos de gobernanza, incluido el control de acceso basado en roles, la gestión de identidad y la protección de identidad.
+outlineSection: |-
+  ### Módulo 1&#58; Administración de Azure
+  En este módulo, aprenderá sobre las herramientas y los conceptos principales necesarios para administrar Azure. Los temas incluyen&#58; Administrador de recursos, Grupos de recursos, Portal de Azure, CLI de Azure, Plantillas de Azure, Cloud Shell, Azure Marketplace y Azure PowerShell.
+
+
+  ### Módulo 2&#58; Redes de Azure
+  En este módulo, aprenderá sobre las funciones de red de Azure. Los temas incluyen&#58; Regiones de Azure, redes y subredes virtuales, direccionamiento IP, grupos de seguridad de red, emparejamiento de red virtual, conexiones de red virtual a red virtual, ExpressRoute, equilibradores de carga y Network Watcher.
+
+
+  ### Módulo 3&#58; Azure Compute
+  En este módulo, aprenderá a configurar y supervisar máquinas virtuales de Azure. Los temas incluyen&#58; Máquinas virtuales de Azure, creación de máquinas virtuales, tamaños de máquinas virtuales, discos de máquinas virtuales, zonas de disponibilidad, conjuntos de disponibilidad, conexiones de VM de Windows, conexiones de VM de Linux, monitor de Azure y alertas de Azure.
+
+
+  ### Módulo 4&#58; Azure Storage
+  En este módulo, aprenderá sobre las características y la implementación del almacenamiento de Azure. Los temas incluyen&#58; Cuentas de almacenamiento, Blob Storage, Blob Performance Levels, File Shares, File Sync, Data Box, Content Delivery Network, firmas de acceso compartido y puntos de conexión de servicio.
+
+
+  ### Módulo 5&#58; Azure Identity
+  En este módulo, aprenderá sobre las soluciones de identidad de Azure. Los temas incluyen&#58; Dominios de Azure, Control de acceso basado en roles, Azure Active Directory, Autenticación multifactor, Protección de identidad de Azure AD y Política de Azure.
+

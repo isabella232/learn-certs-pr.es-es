@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
-  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   Un arquitecto de soluciones es responsable de la integridad y la entrega exitosa del diseño completo de la solución. El arquitecto proporciona orientación crítica durante la preventa y el diseño, y realiza consultas durante el resto del ciclo de vida del proyecto para abordar los problemas que surgen durante la implementación.
 
   El arquitecto de soluciones debe tener una amplia gama de conocimientos y experiencia que abarque las necesidades comerciales y las capacidades del producto. El Arquitecto de soluciones debe tener una amplia experiencia funcional y técnica como rol de Desarrollador o Consultor funcional en uno de los siguientes&#58; Finanzas, fabricación o gestión de la cadena de suministro. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
-
-  <div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: identificar los requisitos de la solución; componentes de soluciones de diseño; y definir pruebas de solución y estrategias de gestión.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -24,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Identificar los requisitos de la solución (30-35%)
+- Identificar los requisitos de la solución (30 -35%)
 - Diseñar componentes de solución (40-45%)
 - Definir estrategias de prueba y gestión de soluciones (25-30%)
 roles:
@@ -39,11 +37,14 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: course.20743
+courseNumber: '20743-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalar y configurar Windows Server 2016.
+- skill: Describir el almacenamiento en Windows Server 2016.
+- skill: Implementar servicios de directorio.
+- skill: Implementación de Active Directory Federation Services (AD FS).
+- skill: Describir las redes.
+- skill: Implementar Hyper-V.
+- skill: Configurar características de red avanzadas.
+- skill: Implementar redes definidas por software.
+- skill: Implementar acceso remoto.
+- skill: Implementar y administrar contenedores de Windows e Hyper-V.
+- skill: Implementar el clúster de conmutación por error.
+- skill: Implemente el clúster de conmutación por error utilizando máquinas virtuales.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-743
+summary: |-
+  Este curso de cinco días dirigido por un instructor explica cómo implementar y configurar las nuevas características y funcionalidades de Windows Server 2016. Este curso es para profesionales de tecnología de la información (TI) que desean actualizar sus habilidades técnicas de Windows Server 2008 o Windows Server 2012 a Windows Server 2016. Este curso supone un alto nivel de conocimiento sobre las tecnologías y habilidades anteriores de Windows Server equivalentes a las de Microsoft Certified Solutions Associate (MCSA)&#58; Credencial de Windows Server 2008 o Windows Server 2012.
+
+  Este curso no es un curso de actualización del producto, que detalla las consideraciones para migrar y actualizar estudiantes&#58; entorno específico para Windows Server 2016. Por el contrario, este curso proporciona actualizaciones de los conocimientos y habilidades existentes de Windows Server del estudiante, en lo que respecta a Windows Server 2016.
+
+  #### Perfil de audiencia
+  Este curso es para profesionales de TI con experiencia en administradores de sistemas Windows Server 2012 o Windows Server 2008, con experiencia en el mundo real trabajando en un entorno empresarial Windows Server 2008 R2 o Windows Server 2008. Además, los estudiantes deberían haber obtenido la credencial MCSA para Windows Server 2008 o Windows Server 2012, o deberían tener un conocimiento equivalente. 
+
+  Además, los profesionales de TI que planean tomar los exámenes de Microsoft Certified Solutions Expert (MCSE) pueden estar interesados en este curso, como preparación para los exámenes MCSA, que son un requisito previo para las especialidades de MCSE.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Dos o más años de experiencia en la implementación y administración de entornos Windows Server 2012 o Windows Server 2008, experiencia de NS con las tareas diarias de administración y mantenimiento de la administración del sistema de Windows Server 2012 o Windows Server 2008.
+  - Experiencia con tecnologías de red de Windows e implementación.
+  - Experiencia con tecnologías e implementación de Active Directory.
+  - Experiencia con las tecnologías de virtualización e implementación de Windows Server.
+  - Conocimiento equivalente a las credenciales MCSA de Windows Server 2008 o Windows Server 2012.
+outlineSection: |-
+  ### Módulo 1&#58; Instalación y configuración de Windows Server 2016
+  Este módulo explica cómo instalar y realizar la configuración posterior a la instalación de los servidores de Windows Server 2016.
+  #### Lecciones
+  - Presentación de Windows Server 2016
+  - Instalación de Windows Server 2016
+  - Configuración de Windows Server 2016
+  - Preparación para actualizaciones y migraciones
+  - Migración de roles de servidor y cargas de trabajo
+  - Modelos de activación de Windows Server
+
+
+  #### Laboratorio &#58; Instalación y configuración de Server Core
+  - Instalación de Server Core
+  - Completar tareas posteriores a la instalación en Windows Server 2016 Core
+  - Realización de gestión remota
+
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Explicar Windows Server 2016.
+  - Instalar Windows Server 2016.
+  - Configurar Windows Server 2016.
+  - Prepararse para actualizaciones y migraciones.
+  - Migrar roles de servidor y cargas de trabajo.
+  - Describir los modelos de activación de Windows Server.
+
+
+  ### Módulo 2&#58; Descripción general del almacenamiento en Windows Server 2016
+  Este módulo explica cómo configurar el almacenamiento en Windows Server 2016.
+  #### Lecciones
+  - Descripción general del almacenamiento en Windows Server 2016
+  - Implementación de deduplicación de datos
+  - Configuración de almacenamiento iSCSI.
+  - Configuración de la función de espacios de almacenamiento en Windows Server 2016
+
+
+  #### Laboratorio &#58; Implementación y gestión de almacenamiento
+  - Implementación del Administrador de recursos del servidor de archivos (FSRM)
+  - Implementación de deduplicación de datos
+  - Configuración de almacenamiento iSCSI
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar el almacenamiento en Windows Server 2016.
+  - Implementar la desduplicación de datos.
+  - Configuración de almacenamiento iSCSI
+  - Configurar la función Espacios de almacenamiento en Windows Server 2016.
+
+
+  ### Módulo 3&#58; Implementación de servicios de directorio
+  Este módulo explica cómo implementar la función de servicios de directorio.
+  #### Lecciones
+  - Implementación de controladores de dominio de Active Directory
+  - Implementación de cuentas de servicio
+  - Azure AD
+
+
+  #### Laboratorio &#58; Implementación y administración de AD DS
+  - Clonar un controlador de dominio
+  - Implementación de cuentas de servicio
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar controladores de dominio AD DS.
+  - Implementar cuentas de servicio.
+  - Explicar Azure AD.
+
+
+  ### Módulo 4&#58; Implementación de AD FS
+  Este módulo explica cómo implementar una implementación de AD FS.
+  #### Lecciones
+  - Descripción general de AD FS
+  - Implementación de AD FS
+  - Implementación de AD FS para una sola organización
+  - Implementación de Proxy de aplicación web
+  - Implementación de SSO con servicios en línea de Microsoft
+
+
+  #### Laboratorio &#58; Implementación de AD FS
+  - Instalación y configuración de AD FS
+  - Configurar una aplicación interna para AD FS
+
+
+  #### Laboratorio &#58; Implementación de Proxy de aplicación web
+  - Implementación de Proxy de aplicación web
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  Describir AD FS.
+  - Implementar AD FS.
+  - Implementar AD FS para una sola organización.
+  - Implementar proxy de aplicación web
+  - Implementar SSO con los servicios en línea de Microsoft.
+
+
+  ### Módulo 5&#58; Implementación de servicios de red
+  Este módulo explica cómo configurar funciones avanzadas para el Protocolo de configuración dinámica de host (DHCP) y configurar la Administración de direcciones IP (IPAM).
+  #### Lecciones
+  - Descripción general de las mejoras de redes
+  - Implementación de IPAM
+  - Administrar espacios de direcciones IP con IPAM
+
+
+  #### Laboratorio &#58; Implementación de servicios de red
+  - Configuración de políticas de DNS
+  - Configuración de conmutación por error DHCP
+  - Configuración de IPAM
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las mejoras de redes.
+  - Implementar la gestión de direcciones IP.
+  - Administrar espacios de direcciones IP con IPAM.
+
+
+  ### Módulo 6&#58; Implementación de la de Hyper-V
+  Este módulo explica cómo instalar y configurar máquinas virtuales Hyper-V.
+  #### Lecciones
+  - Configuración de la función Hyper-V en Windows Server 2016
+  - Configuración del almacenamiento de Hyper-V
+  - Configuración de redes de Hyper-V
+  - Configuración de máquinas virtuales Hyper-V
+
+
+  #### Laboratorio &#58; Implementación de virtualización de servidores con Hyper-V
+  - Instalación de la función del servidor Hyper-V
+  - Configuración de redes virtuales
+  - Crear y configurar una máquina virtual
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar el rol de Hyper-V en Windows Server 2016.
+  - Configurar almacenamiento de Hyper-V.
+  - Configuración de la red de Hyper-V.
+  - Configurar máquinas virtuales Hyper-V.
+
+
+  ### Módulo 7&#58; Configurar características de red avanzadas
+  Este módulo explica cómo implementar una infraestructura de red avanzada.
+  #### Lecciones
+  -Descripción general de las funciones de red de alto rendimiento
+  - Configuración de funciones avanzadas de red Hyper-V
+
+
+  #### Laboratorio &#58; Configuración de funciones de red avanzadas de Hyper-V
+  - Creación y uso de conmutadores virtuales Hyper-V
+  - Configuración y uso de las funciones avanzadas de un conmutador virtual
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las funciones de red de alto rendimiento.
+  - Configurar funciones avanzadas de red Hyper-V.
+
+
+  ### Módulo 8&#58; Implementación de redes definidas por software
+  Este módulo explica cómo implementar redes definidas por software.
+  #### Lecciones
+  - Descripción general de SDN
+  - Implementación de virtualización de red
+  - Implementación de controlador de red
+
+
+  #### Laboratorio &#58; Implementación de controlador de red
+  - Preparación para implementar el controlador de red
+  - Implementación del controlador de red
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las redes definidas por software.
+  - Implementar virtualización de red.
+  - Implementar controlador de red.
+
+
+  ### Módulo 9&#58; Implementación de acceso remoto
+  Este módulo explica cómo configurar la conectividad para usuarios remotos mediante la función DirectAccess.
+  #### Lecciones
+  - Descripción del acceso remoto
+  - Implementación de DirectAccess
+  - Implementación de VPN
+
+
+  #### Laboratorio &#58; Implementación de DirectAccess
+  - Configuración de DirectAccess utilizando el Asistente de inicio
+  - Prueba de DirectAccess
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir soluciones y tecnologías comunes de acceso remoto.
+  - Implementar DirectAccess.
+  - Implementar VPN.
+
+
+  ### Módulo 10&#58; Implementación y administración de contenedores de Windows e Hyper-V
+  Este módulo proporciona una descripción general de los contenedores de Windows Server 2016. Además, explica cómo implementar, instalar, configurar y administrar contenedores en Windows Server 2016.
+  #### Lecciones
+  - Descripción general de contenedores en Windows Server 2016
+  - Preparación para contenedores
+  - Instalación, configuración y administración de contenedores mediante Docker
+
+
+  #### Laboratorio &#58; Instalar y configurar contenedores
+  - Instalación de Docker Enterprise Edition para Windows Server 2016
+  - Instalación y configuración de un contenedor IIS
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir contenedores en Windows Server 2016.
+  - Explicar cómo desplegar contenedores.
+  - Explicar cómo instalar, configurar y administrar contenedores con Docker.
+
+
+  ### Módulo 11&#58; Implementación de clústeres de conmutación por error
+  Este módulo explica cómo implementar el clúster de conmutación por error para proporcionar alta disponibilidad para servicios y aplicaciones de red.
+  #### Lecciones
+  - Descripción general del clúster de conmutación por error
+  - Implementación de un clúster de conmutación por error
+  - Configuración de aplicaciones y servicios de alta disponibilidad en un clúster de conmutación por error
+  - Mantenimiento de un clúster de conmutación por error
+  - Implementación de un clúster extendido
+
+
+  #### Laboratorio &#58; Implementación de clústeres de conmutación por error
+  - Configuración de almacenamiento iSCSI
+  - Configuración de un clúster de conmutación por error
+  - Implementación y configuración de un servidor de archivos de alta disponibilidad
+  - Validar la implementación de un servidor de archivos de alta disponibilidad
+  - Configuración de CAU en el clúster de conmutación por error
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el concepto de clúster de conmutación por error.
+  - Implementar un clúster de conmutación por error.
+  - Configurar aplicaciones y servicios de alta disponibilidad en un clúster de conmutación por error.
+  - Mantener un clúster de conmutación por error.
+  - Implementar un clúster de conmutación por error extendido.
+
+
+  ### Módulo 12&#58; Implementación de clústeres de conmutación por error con Windows Server 2016 Hyper-V
+  Este módulo explica cómo implementar y administrar máquinas virtuales Hyper-V en un clúster de conmutación por error.
+  #### Lecciones
+  - Descripción general de la integración de Hyper-V Server 2016 con clústeres de conmutación por error
+  - Implementación de máquinas virtuales Hyper-V en clústeres de conmutación por error.
+  - Implementación de la migración de máquina virtual Windows Server 2016 Hyper-V
+  - Implementación de la réplica de Hyper-V
+
+
+  #### Laboratorio &#58; Implementación de clústeres de conmutación por error con Windows Server 2016 Hyper-V
+  - El entorno de prueba de clúster de conmutación por error de Hyper-V
+  -Configurar la réplica de Hyper-V
+  - Configuración de un clúster de conmutación por error para Hyper-V
+  - Configuración de una máquina virtual altamente disponible
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo Windows Server 2016 Hyper-V se integra con el clúster de conmutación por error.
+  - Implementar máquinas virtuales Hyper-V en clústeres de conmutación por error.
+  - Implementar la migración de máquina virtual Hyper-V.
+  - Implementar la réplica de Hyper-V.
+

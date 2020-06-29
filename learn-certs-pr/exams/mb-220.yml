@@ -8,14 +8,14 @@ displayName: MB-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 19 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 19 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en Marketing. Los candidatos son responsables de implementar soluciones que atraigan y conviertan clientes potenciales, desarrollen el conocimiento de la marca, estandaricen los mensajes omnicanal y brinden perspectivas de marketing.
+  Los candidatos para este examen son consultores funcionales de Dynamics 365 Customer Engagement con experiencia en Marketing. Los candidatos son responsables de implementar soluciones que atraigan y conviertan clientes potenciales, desarrollen el conocimiento de la marca, estandaricen los mensajes omnicanal y brinden perspectivas de marketing.
 
-  Los candidatos son responsables de configurar y expandir la aplicación de marketing principal para incluir marketing por correo electrónico, configuración, recorridos interactivos del cliente, desarrollo de oportunidades con experiencias personalizadas, integración con LinkedIn, eventos, voz del cliente, páginas de destino, segmentación y puntuación, y mantenimiento del Cumplimiento del Reglamento General de Protección de Datos (GDPR).
+  Los candidatos son responsables de configurar y expandir la aplicación de marketing principal para incluir marketing por correo electrónico, configuración, recorridos interactivos del cliente, desarrollo de oportunidades con experiencias personalizadas, integración con LinkedIn, eventos, encuestas, páginas de destino, segmentación y puntuación, y mantenimiento del Cumplimiento del Reglamento General de Protección de Datos (GDPR).
 
-  Los candidatos deben tener algún conocimiento de los principios de marketing y el rol de la aplicación de Marketing en relación con el conjunto de aplicaciones de Microsoft Dynamics 365, incluida la integración con las aplicaciones de Microsoft Dynamics 365 y Office 365. Los candidatos deben comprender la terminología de la industria, las prioridades, las iniciativas comunes, los estándares, las metodologías y las mejores prácticas.
+  Los candidatos deben tener algún conocimiento de los principios de marketing y el rol de la aplicación de Marketing en relación con el conjunto de aplicaciones de Dynamics 365, incluida la integración con las aplicaciones de Dynamics 365 y Office 365. Los candidatos deben comprender la terminología de la industria, las prioridades, las iniciativas comunes, los estándares, las metodologías y las mejores prácticas.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar aplicaciones de marketing; gestionar segmentos y listas; crear y gestionar formularios y páginas de marketing; gestionar clientes potenciales; crear y gestionar correos electrónicos de marketing; gestionar los viajes de los clientes; gestionar eventos y webinars; y configurar y analizar las respuestas de los clientes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 19 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, 19 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Configurar aplicaciones de marketing (5-10%)
 - Administrar segmentos y listas (10-15%)
 - Crear y administrar formularios de marketing y páginas (10-15%)
@@ -55,11 +55,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

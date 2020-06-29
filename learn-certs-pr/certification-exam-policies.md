@@ -15,7 +15,7 @@ En todo el mundo, socios y clientes confían en que Microsoft ofrezca los exáme
 
 ## <a name="security-policies"></a> Directivas de seguridad y repetición
 
-Microsoft ha implantado directivas específicas que abordan las áreas de seguridad pertinentes a los exámenes de Microsoft Certified Professional (MCP).
+Microsoft ha implantado directivas específicas que abordan las áreas de seguridad pertinentes a los exámenes de Microsoft Certification.
 
 ### Prohibiciones para los candidatos
 
@@ -51,22 +51,20 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
 
 ### Directiva sobre repetición de exámenes
 
-1. Directiva sobre repetición de exámenes para Microsoft Certified Professional (MCP)
+1. General directiva de repetición de exámenes de certificación de Microsoft
     1. Si un candidato no supera el examen en el primer intento, deberá esperar al menos 24 horas para poder repetirlo.
     2. Si un candidato no supera el examen en el segundo intento, deberá esperar al menos 14 días para poder repetirlo por tercera vez.
-    3. Asimismo, se impone un período de espera de 14 días para poder repetir el examen por cuarta y quinta vez. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses empieza el día en el que se repite el quinto examen no aprobado. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha. Para realizar un examen más de cinco veces al año o para tener el tiempo entre los intentos renunciados, un candidato debe enviar una solicitud y obtener permiso previo de Microsoft. Las solicitudes se deben enviar a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Estas solicitudes deben incluir la siguiente información:
+    3. Asimismo, se impone un período de espera de 14 días para poder repetir el examen por cuarta y quinta vez. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses comienza desde el primer intento. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha. Para realizar un examen más de cinco veces al año o para tener el tiempo entre los intentos renunciados, un candidato debe enviar una solicitud y obtener permiso previo de Microsoft. Las solicitudes se deben enviar a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Estas solicitudes deben incluir la siguiente información:
         - MCID
         - Nombre
         - Correo electrónico
         - Número de examen
-    4. Si un candidato supera un examen, ya no podrá repetirlo. Microsoft se reserva el derecho a poner algunos exámenes disponibles para repetir. Para obtener una lista completa de los exámenes que se pueden repetir anualmente, haga clic [aquí](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 2. Directiva sobre repetición de exámenes para Microsoft Technology Associate (MTA) y Microsoft Certified Educator (MCE)
     1. Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 horas para poder repetirlo.
     2. Si un candidato no logra superar el examen en la segunda convocatoria, deberá esperar al menos siete días para poder repetir el examen por tercera vez.
     3. Se impone un período de espera de siete días para cualquier repetición posterior del examen.
-    4. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses empieza el día en el que se repite el quinto examen no aprobado. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha.
-    5. Si un candidato supera un examen de MTA, ya no podrá repetirlo.
+    4. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses comienza desde el primer intento. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha.
 
 3. Directiva sobre repetición de exámenes para Microsoft Office Specialist (MOS)
     1. Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 horas para poder repetirlo.
@@ -75,12 +73,9 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
     4. No hay ningún límite anual en la cantidad de intentos en el mismo examen.
     5. Si un candidato supera un examen de Office, podrá volver a realizarlo.
 
-4. Directiva sobre repetición de exámenes beta para MCP
+4. Directiva sobre repetición de exámenes beta
     1. Los exámenes Beta se pueden tomar solo una vez durante el período beta. Si el candidato aprueba el examen, cuenta para el crédito de la certificación. Si el candidato suspende el examen, se puede volver a hacerlo según las políticas anteriores.
     2. Esta directiva sustituye la directiva general sobre repeticiones.
-5. Excepciones a la directiva de repetición específicas de exámenes
-    1. En algunos casos, Microsoft puede tener directivas especiales para exámenes en concreto.
-    2. Microsoft se reserva el derecho a poner algunos exámenes disponibles para repetir. Para ver una lista completa de los exámenes que se pueden repetir anualmente, haga clic en [aquí](https://www.microsoft.com/learning/exam-certification-retakes.aspx).
 
 ### Cierres del centro de pruebas por motivos de seguridad
 
@@ -97,19 +92,19 @@ Microsoft utilizará el análisis posterior de los datos como base de una acció
 
 ### Pruebas fuera del país
 
-**Para poder presentarse a un examen de Microsoft Certification en un centro de pruebas de Pearson VUE en India, China o Pakistán, debe ser residente legal de dicho país. Si es residente legal de dicho país, tenga en cuenta los siguientes aspectos:**
+**Para poder presentarse a un examen de Microsoft Certification en un centro de pruebas de en India, China o Pakistán, debe ser residente legal de dicho país. Si es residente legal de dicho país, tenga en cuenta los siguientes aspectos:**
 
-Los centros de pruebas de estos tres países deben confirmar y registrar que cada uno de los candidatos de Microsoft Certification ha presentado una prueba documentada de residencia legal en el país en cuestión. Para verificar el estado de país de residencia, es necesario que el candidato aporte dos documentos de identificación originales (no fotocopias) válidos (no caducados), un documento de identificación principal (emitido por el gobierno con nombre, fotografía y firma) y otro documento de identificación secundario (con nombre y firma).
+Los centros de pruebas de estos tres países deben confirmar y registrar que cada uno de los candidatos de Microsoft Certification ha presentado una prueba documentada de residencia legal en el país en cuestión. Para verificar el estado del país de residencia, es necesario que el candidato aporte dos documentos de identificación originales (no fotocopias) válidos (no caducados), un documento de identificación principal (emitido por el gobierno con nombre, fotografía y firma) y otro documento de identificación secundario (con nombre y firma).
 
 **Importante: Si no es residente legal en India, China o Pakistán, no podrá presentarse a ningún examen de Microsoft Certification del país en cuestión.**
 
 ### Pruebas para ciudadanos de Eslovenia o que tengan identificación de ciudadanía eslovena
 
-Debido a las leyes de privacidad en Eslovenia, Pearson VUE no puede entregar exámenes supervisados ​​en línea a candidatos que viven en Eslovenia o que tienen identificación de ciudadanía eslovena. Estos candidatos pueden tomar exámenes en un Centro de Pruebas Pearson VUE (PVTC).
+Debido a las leyes de privacidad en Eslovenia, los exámenes supervisados en línea no se pueden aplicar a los candidatos que viven en Eslovenia o que tienen identificación de ciudadanía eslovena. Estos candidatos pueden tomar exámenes en un centro de exámenes.
 
 Los candidatos que residen en Eslovenia solo recibirán la opción de entrega del Centro de exámenes como opción cuando programen un examen.
 
-- Los candidatos que residen fuera de Eslovenia pueden ver la supervisión en línea como una opción de prueba disponible, sin embargo, no podrán completar con éxito la prueba cuando presenten la identificación de ciudadanía eslovena (pasaporte u otra identificación) como prueba de identificación. Estos candidatos deben programar un examen en un Pearson VUE Test Center (PVTC).
+- Los candidatos que residen fuera de Eslovenia pueden ver la supervisión en línea como una opción de prueba disponible, sin embargo, no podrán completar con éxito la prueba cuando presenten la identificación de ciudadanía eslovena (pasaporte u otra identificación) como prueba de identificación. Estos candidatos deben programar un examen en un centro de exámenes.
 
 ### Repetición de pruebas de los candidatos a petición de Microsoft
 
@@ -128,16 +123,16 @@ A fin de velar por la seguridad y la integridad, Microsoft se reserva el derecho
 
 Aproximadamente 400 personas pueden hacer el examen beta a una tarifa reducida. Para aprovechar esta tarifa reducida, necesita un código beta que debe introducir como parte de su pago durante el registro. Para obtener este código, puede:
 
-1. Unirse a nuestra base de datos de Perfiles SME. Los miembros cuyas habilidades estén en línea con el área del contenido del examen recibirán un correo electrónico con este código, que es único para este grupo. Si es miembro de nuestra base de datos de SME, el acceso temprano a la versión beta requiere que mantenga su perfil actualizado, ya que apuntamos a la distribución de estos códigos a quienes tienen habilidades relacionadas con el nuevo examen. (El programa de base de datos de perfiles SME se encuentra en [Microsoft Collaborate](https://aka.ms/collaborate). Consulte la publicación del blog [¡Ayúdenos a crear exámenes y contenido de aprendizaje!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) ¡Únase a nuestra base de datos de PYME hoy!)
+1. Unirse a nuestra base de datos de Perfiles SME. Los miembros cuyas habilidades estén en línea con el área del contenido del examen recibirán un correo electrónico con este código, que es único para este grupo. Si es miembro de nuestra base de datos de SME, el acceso temprano a la versión beta requiere que mantenga su perfil actualizado, ya que apuntamos a la distribución de estos códigos a quienes tienen habilidades relacionadas con el nuevo examen. (El programa de base de datos de perfiles SME se encuentra en [Microsoft Collaborate](https://aka.ms/collaborate). Consulte la publicación del blog [¡Ayúdenos a crear exámenes y contenido de aprendizaje!](/learn/certifications/posts/help-us-create-exams-and-learning-content) ¡Únase a nuestra base de datos de PYME hoy!)
 2. Vea los anuncios en Microsoft Learn o en nuestro [blog de la comunidad](https://www.microsoft.com/en-us/learning/community-blog.aspx) para obtener información sobre los próximos exámenes beta. Estas publicaciones contendrán un código que se puede usar para recibir un descuento en el examen. Estas publicaciones se hacen generalmente el día en que se abre el registro para un examen beta. Este código es diferente al enviado a los SME que forman parte de nuestra base de datos.
 
 Tenga en cuenta que los puestos son limitados y están disponibles por orden de llegada, y que los exámenes beta no se entregan en China, India, Pakistán o Turquía por razones de seguridad.
 
-En agradecimiento por participar en el proceso beta, recibirá un cupón de 25% de descuento de Pearson VUE aproximadamente 6 semanas después de que se publica el examen. Estos cupones son provistos por VUE y se envían a la dirección de correo que utilizó cuando se registró en el examen. Si no recibe su cupón de 25% de descuento dentro de las 6 semanas en que se publica el examen, envíe un correo a [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+Como agradecimiento por participar en el proceso beta, recibirá un cupón de descuento del 25% del proveedor de entrega del examen aproximadamente 6 semanas después de que el examen se publique. Estos comprobantes los proporciona el proveedor de entrega del examen y se envían a la dirección de correo electrónico que utilizó cuando se registró para el examen. Si no recibe su cupón de descuento del 25% dentro de las 6 semanas posteriores a la fecha de publicación del examen, comuníquese con Atención al cliente del proveedor que imparte del examen.
 
 ## Precio académico de los exámenes
 
-Los precios académicos de los exámenes de Microsoft Certified Professional (MCP) están disponibles en la mayoría de países (excepto en la India y en China).
+Los precios académicos de los exámenes de Microsoft Certified Professional están disponibles en la mayoría de países (excepto en la India y en China).
 
 Para poder optar a los precios académicos, debe verificar su estado de estudiante antes de programar su examen.
 
@@ -172,7 +167,7 @@ Updated: Mayo de 2018
 
 **LEA ATENTAMENTE ESTE ACUERDO DE EXAMEN DE CERTIFICACIÓN DE MICROSOFT (“ACUERDO”). AL HACER CLIC EN EL BOTÓN “SÍ”, CONFIRMA TENER AUTORIZACIÓN PARA SUSCRIBIR ESTE ACUERDO Y ACEPTA TODOS LOS TÉRMINOS Y CONDICIONES DEL MISMO. SI NO ESTÁ DE ACUERDO, SELECCIONE “NO”. DEBE SELECCIONAR “SÍ” PARA HACER EL EXAMEN DE CERTIFICACIÓN DE MICROSOFT.**
 
-Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**” ) y Microsoft Corporation (“***Microsoft***”).
+Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**”) y Microsoft Corporation (“***Microsoft***”).
 
 1. **CONFIDENCIALIDAD**
 
@@ -202,9 +197,9 @@ Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**�
 
 3. **POLÍTICAS DE EXAMEN**
 
-    Usted es responsable exclusivamente de comprender y cumplir las políticas y procedimientos de examen de Microsoft Certification que se encuentran en [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx), así como las políticas y procedimientos del proveedor del examen.
+    Usted es responsable exclusivamente de comprender y cumplir las políticas y procedimientos de examen de Microsoft Certification que se encuentran en [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies), así como las políticas y procedimientos del proveedor del examen.
 
-    Puede consultar la Microsoft Exam Retake Policy y otros procedimientos de examen de Microsoft y de prueba en [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx). Puede obtener más información sobre las políticas y los procedimientos del proveedor del Examen en el sitio web de dicho proveedor.
+    Puede consultar la Microsoft Exam Retake Policy y otros procedimientos de examen de Microsoft y de prueba en [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies). Puede obtener más información sobre las políticas y los procedimientos del proveedor del Examen en el sitio web de dicho proveedor.
 
     Tiene tres (30) días después de realizar un examen para impugnar su puntuación de ese examen.
 
@@ -237,9 +232,9 @@ Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**�
 
 7. **PROPIEDAD Y DERECHOS RESERVADOS**
 
-    7,1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
+    7.1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
 
-    7,2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
+    7.2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
 
 
 ## Microsoft Certification Program Agreement
@@ -251,7 +246,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
    1. El término "***Filial***" hace referencia a cualquier entidad jurídica que posea una parte, que sea propiedad de una parte o que sea propiedad común junto con una parte. El término “poseer” significa tener más del 50 % de la propiedad o el derecho para dirigir la gestión de la entidad.
    2. "***Microsoft Certified Website"*** hace referencia al sitio web de Microsoft exclusivo para los Microsoft Certified Professionals.
    3. El término "***Microsoft***" se refiere a la entidad de Microsoft indicada en la sección 12.4.
-   4. "***Microsoft Certification***" supone haber superado los exámenes necesarios, cumplir y mantener la conformidad de todos los requisitos de certificación y de renovación de la certificación para utilizar el Logotipo o las Credenciales correspondientes. La lista actual de Microsoft Certifications se encuentra en [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
+   4. "***Microsoft Certification***" supone haber superado los exámenes necesarios, cumplir y mantener la conformidad de todos los requisitos de certificación y de renovación de la certificación para utilizar el Logotipo o las Credenciales correspondientes. La lista actual de Microsoft Certifications se encuentra en [Microsoft Certifications](https://docs.microsoft.com/learn/certifications/browse/?type=role-based).
    5. Con "***Credenciales de Microsoft Certification***" o "***Credenciales***" se hace referencia al título completo o abreviado de una certificación de Microsoft Certification específica para representar el cumplimiento de los requisitos para dicha certificación por parte de una persona.
    6. "***Examen de Microsoft Certification***" o "***Examen***" se refiere a un examen de certificación de Microsoft diseñado para ayudar a validar las aptitudes de una persona con respecto a una tecnología concreta de Microsoft sobre la que versa el Examen en cuestión.
    
@@ -259,12 +254,12 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 2. MICROSOFT CERTIFICATION
    1. *Cómo obtener y conservar una certificación de Microsoft Certification*. Para obtener y conservar una certificación de Microsoft Certification, debe hacer lo siguiente:
           
-        1. Aprobar los Exámenes necesarios y cumplir los requisitos de certificación y renovación de la certificación correspondiente de [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based),
+        1. Aprobar los Exámenes necesarios y cumplir los requisitos de certificación y renovación de la certificación correspondiente de [Microsoft Certification](https://docs.microsoft.com/learn/certifications/browse/?type=role-based),
         2. Aceptar los términos y condiciones de este Acuerdo,
         3. Cumplir los términos y condiciones de la versión actual del Acuerdo, todos los requisitos del Programa, y
         4. Cumplir todos los requisitos adicionales de la certificación de Microsoft Certification correspondiente.
 
-   2. *Cambios en los requisitos de Microsoft Certification*: Microsoft puede, a su entera discreción, cambiar los requisitos de Microsoft Certification (tanto los iniciales como los permanentes) en cualquier momento publicando dichos cambios en el sitio web de cursos y certificaciones de Microsoft o en el [sitio web de la formación y certificación de Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) or on the [Microsoft Certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based). Dispondrá de tres (3) meses naturales completos desde que Microsoft publique los cambios para cumplir cualquier requisito adicional. Su derecho a utilizar una Credencial en particular puede anularse si no cumple cualquier requisito adicional de certificación o de renovación de una certificación relacionado con una Credencial en particular.
+   2. *Cambios en los requisitos de Microsoft Certification*: Microsoft puede, a su exclusivo criterio, cambiar los requisitos de Certificación de Microsoft (tanto los iniciales como los actuales) en cualquier momento publicando dichos cambios en el [sitio web de Certificación de Microsoft](https://docs.microsoft.com/learn/certifications/browse/?type=role-based). Dispondrá de tres (3) meses naturales completos desde que Microsoft publique los cambios para cumplir cualquier requisito adicional. Su derecho a utilizar una Credencial en particular puede anularse si no cumple cualquier requisito adicional de certificación o de renovación de una certificación relacionado con una Credencial en particular.
 
    3. *Incumplimiento del Acuerdo del examen*.
 
@@ -306,7 +301,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
 7. CAMBIOS
 
-   Microsoft se reserva el derecho (a) a actualizar y cambiar el Acuerdo y las Directrices, (b) a cambiar el Programa o cualquier aspecto relacionado con él en cualquier momento, incluido el derecho a retirar las Credenciales, cambiar los requisitos de certificación y cambiar las ventajas y requisitos del Programa, y (c) a interrumpir el Programa. Microsoft publicará los cambios en el [sitio web Microsoft Certification](https://www.microsoft.com/learning/program-membership.aspx). Usted es el responsable de consultar los sitios web Microsoft Certified Professional de manera regular para comprobar si se han producido cambios. Los cambios son efectivos en la fecha de publicación. Los cambios no se aplican de forma retroactiva.
+   Microsoft se reserva el derecho (a) a actualizar y cambiar el Acuerdo y las Directrices, (b) a cambiar el Programa o cualquier aspecto relacionado con él en cualquier momento, incluido el derecho a retirar las Credenciales, cambiar los requisitos de certificación y cambiar las ventajas y requisitos del Programa, y (c) a interrumpir el Programa. Microsoft publicará los cambios en el [sitio web Microsoft Certification](/learn/certifications/). Usted es el responsable de consultar los sitios web Microsoft Certified Professional de manera regular para comprobar si se han producido cambios. Los cambios son efectivos en la fecha de publicación. Los cambios no se aplican de forma retroactiva.
 
 8. AUSENCIA DE GARANTÍAS
 
@@ -317,11 +312,11 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
    EN LA MEDIDA EN QUE LA LEY APLICABLE LO PERMITA, MICROSOFT Y SUS FILIALES NO SERÁN RESPONSABLES EN NINGÚN CASO DE NINGÚN DAÑO DIRECTO, INDIRECTO, ESPECIAL, IMPREVISTO, EMERGENTE, PUNITIVO O EJEMPLAR QUE PUDIERA OCASIONAR EL PROGRAMA O ESTUVIERA RELACIONADO CON ÉL (YA SEA POR LAS VENTAJAS DEL PROGRAMA, LA FINALIZACIÓN O CUALQUIER OTRA CAUSA), CON SU MICROSOFT CERTIFICATION, CON LA NO CONSECUCIÓN DE LA MICROSOFT CERTIFICATION, O EL USO O LA IMPOSIBILIDAD DE USO DE LAS CREDENCIALES. ESTA EXCLUSIÓN SE APLICARÁ CON INDEPENDENCIA DE LA TEORÍA JURÍDICA EN QUE SE BASE CUALQUIER RECLAMACIÓN DE DICHOS DAÑOS, AUNQUE LAS PARTES HUBIERAN SIDO INFORMADAS DE LA POSIBILIDAD DE QUE SE PRODUJERAN LOS DAÑOS.
 
 
-10. INDEMNIZACIÓN
+10. INDEMNIZACION
 
     Usted se compromete a defender, indemnizar y salvaguardar a Microsoft y a sus Filiales frente a todas las reclamaciones, demandas, costes, responsabilidades, sentencias, pérdidas, gastos y daños ("***Reclamación***") (incluidos los honorarios de abogados) de terceros que puedan surgir de o estar relacionados con (a) su participación en el Programa; (b) su uso de cualquier Logotipo o Credencial de cualquier manera incoherente con las condiciones de este Acuerdo; (c) el rendimiento, la promoción, la venta o la distribución de sus servicios, o (d) la rescisión de este Acuerdo por parte de Microsoft con arreglo a las condiciones del Acuerdo. En el caso de que Microsoft le solicitara alguna indemnización según lo estipulado en el Acuerdo, Microsoft le notificará sin demora y por escrito los daños que se le reclaman y cuya indemnización solicita, y le permitirá, a su propia discreción, responder y defenderse ante dicha Reclamación mediante el asesor que Microsoft acepte. No podrá presentar ninguna Reclamación en nombre de Microsoft sin obtener primero su permiso por escrito, el cual no se denegará de forma irrazonable, y no podrá publicar la resolución sin el previo consentimiento por escrito de Microsoft. Microsoft se reserva el derecho, a su propia discreción, de asumir el control único de la defensa de una Reclamación de estas características con el asesor jurídico que elija. Si actúa de este modo, cualquier resolución de la Reclamación que requiera el pago por parte de usted quedará sujeta a su autorización previa por escrito. Si se le solicita, usted reembolsará todos los gastos razonables contraídos por Microsoft en la defensa de las Reclamaciones de dichas características, incluidos, a título meramente enunciativo, los honorarios y costes de abogados, así como cualquier sentencia o acuerdo de resolución de la Reclamación relacionado con lo anterior.
 
-11. RESCISIÓN
+11. RESCISION
 
     1. *Rescisión sin causa*: Cualquiera de las partes puede rescindir este Acuerdo en cualquier momento, sin motivo, con notificación previa y por escrito a la otra parte con treinta (30) días de antelación.
 
@@ -336,7 +331,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
         7. Usted falsea el estado de su certificación, asociación con los Microsoft Partners o cualquier otra relación con Microsoft. Según la gravedad de la falta de cumplimiento, es posible que pierda la certificación de manera permanente y sea expulsado del programa de Microsoft Certification. Si esto ocurre, perderá también de manera permanente sus credenciales de Microsoft Certification.
         
 
-    3. *Rescisión automática.* Este acuerdo se rescindirá de forma automática si usted pierde su estado en el programa de Microsoft Certification o si Microsoft cancela el Programa.
+    3. *Rescisión automática*: Este acuerdo se rescindirá de forma automática si usted pierde su estado en el programa de Microsoft Certification o si Microsoft cancela el Programa.
 
     4. *Efectos de la rescisión*: En todos los casos de rescisión de este Acuerdo, se cancelarán de inmediato todos los derechos que se le habían otorgado en el Programa. Con efecto inmediato, usted:
 
@@ -347,7 +342,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
     5. *Vigencia*: Las secciones 1, con todas las definiciones que contiene el Acuerdo, 2.3, 4.3, 4.4, 8, 9, 10, 11.4, 11.5 y 12 continuarán vigentes tras la rescisión de este Acuerdo. Usted acepta que Microsoft y sus Filiales y empresas subsidiarias no serán responsables frente a usted o a cualquier tercero por los costes o daños de cualquier tipo que pudieran resultar de (a) la rescisión de este Acuerdo conforme a sus condiciones y (b) su suspensión o cancelación del programa.
 
-12. MISCELÁNEO
+12. DISPOSICIONES VARIAS
     1. *Notificaciones*: Las notificaciones se enviarán por correo electrónico o postal. Las notificaciones dirigidas a Microsoft en relación con este Acuerdo deben enviarse a la entidad contratante de Microsoft indicada en la sección 12.4 que aparece a continuación, a la atención del Microsoft Certification Program. Las notificaciones dirigidas a usted en relación con este Acuerdo se le enviarán a la dirección de correo electrónico más reciente que nos proporcione. Es su responsabilidad mantener actualizada la información de la dirección (correo electrónico) de contacto proporcionada a Microsoft.
 
     2. *Sin exclusividad*: Su participación en este Programa es voluntaria. Nada de lo previsto en este Acuerdo le limita a la hora de dar soporte, promocionar, distribuir o utilizar tecnología que no es de Microsoft.
@@ -374,14 +369,14 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
            Microsoft Regional Sales Corporation   
            438B Alexandra Road #04-09/12   
            Block B, Alexandra Technopark   
-           Singapur 119968   
+           Singapore 119968   
 
        4. La entidad de Microsoft correspondiente a Japón es:   
 
            Microsoft Japan Company, Limited   
            Shinagawa Grand Central Tower   
            2-16-3, 2 Konan, Minato-ku,   
-           Tokio 108-0075   
+           Tokyo 108-0075   
            Japón
 
        5. La entidad de Microsoft correspondiente a Taiwán es:   
@@ -389,7 +384,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
            Microsoft Taiwan Corporation   
            8F, No 7, Sungren Rd.   
            Shinyi Chiu, Taipei   
-           Taiwán 110  
+           Taiwan 110  
 
        6. La entidad de Microsoft correspondiente a la República Popular China es:   
 
@@ -443,23 +438,23 @@ Es posible que reúna los requisitos para recibir créditos universitarios a tra
 
 **Microsoft Certification Exams**
 
-[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
+AZ-100: Infraestructura e implementación de Microsoft Azure
 
-[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
+AZ-101: Microsoft Azure Integration and Security
 
-[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/learn/certifications/exams/az-103)
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/learn/certifications/exams/az-203)
 
-[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/learn/certifications/exams/az-300)
 
-[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/learn/certifications/exams/az-301)
 
-[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
+[AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/learn/certifications/exams/az-400)
 
 ### Proceso para solicitar créditos
 
@@ -469,17 +464,17 @@ Paso 1: Complete la [solicitud](https://query.prod.cms.rt.microsoft.com/cms/api/
 
 **Verificación de opción de certificación 1 - Compartir una insignia:**
 
-- Paso 2: Inicie sesión en [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
+- Paso 2: Inicie sesión en [Microsoft Certification Dashboard](https://aka.ms/certdashboard)
 
 - Paso 3: Vaya a la sección Insignia del panel y siga los pasos para reclamar su insignia (si aún no lo ha hecho)
 
 - Paso 4: Siga los pasos para compartir su insignia a través de correo electrónico con [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-- Para obtener más información consulte: [Microsoft Exam and Certification Badges](https://www.microsoft.com/learning/badges.aspx)
+- Para obtener más información consulte: [Microsoft Exam and Certification Badges](/learn/certifications/badges)
 
 **Verificación de opción de certificación 2 - Compartir una transcripción**:
 
-- Paso 2: Inicie sesión en [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)
+- Paso 2: Inicie sesión en [Microsoft Certification Dashboard](https://aka.ms/certdashboard)
 
 - Paso 3: Vaya a la sección Transcripción y "Seleccione Compartir o descargar".
 
@@ -538,7 +533,7 @@ Gracias por su interés en ayudar a que los exámenes de Microsoft Certification
 
 Si necesita tiempo adicional porque el examen no está disponible en su idioma nativo, puede solicitar esto mediante la presentación del [formulario de inglés como segundo idioma](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga las instrucciones en el formulario. 
 
-Si necesita un equipo especial u otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). El Sistema de Solicitud de Ajustes Razonables es un sistema seguro en línea para solicitar adaptaciones y presentar documentación de respaldo.
+Si necesita un equipo especial o cualquier otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). El Sistema de Solicitud de Ajustes Razonables es un sistema seguro en línea para solicitar adaptaciones y presentar documentación de respaldo.
 
 - Si es el primer usuario del sistema de solicitud, deberá crear un nombre de usuario y contraseña. Para crear un nombre de usuario, haga clic en el enlace "Registrarse" en la pantalla de inicio de sesión. Tenga en cuenta que el sistema requiere que tenga una cuenta de correo electrónico activa.
 - Pearson VUE utiliza este sistema seguro porque se le solicitará que cargue la documentación de respaldo. Si aún no lo ha hecho, entregue a su evaluador (médico, psicólogo) una copia de las [Pautas para los evaluadores](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) de su discapacidad. Su evaluador debe asegurarse de que la documentación que proporciona cumple con nuestras pautas. En la mayoría de los casos, su evaluador será un psicólogo o médico que le administró una serie de pruebas psicológicas, educativas o médicas, y le proporcionó una copia de un informe de diagnóstico o una carta detallada.
@@ -552,13 +547,13 @@ Si necesita más tiempo porque el examen no está disponible en su idioma nativo
 
 ### <a name="cancellation-and-reschedule-policy"></a> Política de cancelación y reprogramación:
 
-<div><div style='color: red;'><font color='red'>Microsoft renunciará temporalmente a la tarifa de reprogramación y cancelación siempre que cancele sus exámenes dentro de las 24 horas previas a su cita programada.</font></div></div>
+<div><div style='color&#58; red;'><font color='red'>Microsoft renunciará temporalmente a la tarifa de reprogramación y cancelación siempre que cancele sus exámenes dentro de las 24 horas previas a su cita programada.</font></div></div>
 
 - No se producirá ningún recargo si cambia la fecha del examen o cancela una fecha concreta al menos 6 días hábiles antes de la fecha prevista para el examen.
 - Si cancela el examen o cambia la fecha del examen 5 días antes de la fecha prevista, se aplicará un recargo.
-- Si no se presenta a la cita de examen ni reprograma o cancela la cita al menos 24 horas antes de la fecha programada, perderá la totalidad de la cuota desembolsada para el examen. Los días hábiles son de lunes a viernes, sin incluir los días festivos de carácter global en Pearson VUE.
+- Si no se presenta a la cita de examen ni reprograma o cancela la cita al menos 24 horas antes de la fecha programada, perderá la totalidad de la cuota desembolsada para el examen. Los días hábiles son de lunes a viernes, sin incluir los días festivos de carácter global.
 
-La reprogramación o cancelación de su cita programada para el examen se puede hacer a través del [Panel de certificación](https://microsoft.com/learning/dashboard).
+La reprogramación o cancelación de su cita programada para el examen se puede hacer a través del [Panel de certificación](https://aka.ms/certdashboard).
 
 ## Preguntas frecuentes
 
@@ -581,23 +576,23 @@ El número de preguntas de cada examen puede variar a medida que los actualizamo
 
 **¿Qué formatos de exámenes y tipos de preguntas se usarán en el examen que voy a realizar?**
 
-Debido a que Microsoft introduce continuamente tecnologías de pruebas y tipos de preguntas innovadoras, no indicamos los tipos específicos que aparecerán en un examen concreto. Para hacerse una idea del contenido del examen, le recomendamos que revise algunos [formatos de exámenes y tipos de preguntas](https://www.microsoft.com/learning/certification-exams.aspx).
+Debido a que Microsoft introduce continuamente tecnologías de pruebas y tipos de preguntas innovadoras, no indicamos los tipos específicos que aparecerán en un examen concreto. Para hacerse una idea del contenido del examen, le recomendamos que revise algunos [formatos de exámenes y tipos de preguntas](https://docs.microsoft.com/learn/certifications/certification-exams#exam-formats-and-question-types).
 
 **¿De cuánto tiempo dispondré para realizar el examen?**
 
 El tiempo de examen cambia según el tipo de examen que realice.
 
-|     | Hora del examen*      | Hora para realizarlo* |
+|         | Hora del examen*           | Hora para realizarlo*  |
 | ------------- |:-------------:| -----:|
-| Exámenes de roles de asociados y expertos   | 150 minutos | 180 minutos |
+| Exámenes de roles de asociados y expertos   | 180 minutos | 210 minutos |
 | Exámenes de los conceptos básicos de roles | 60 minutos | 90 minutos
 | Exámenes de roles de trabajo asociados y expertos que contienen laboratorios | 180 minutos | 210 minutos
-| Exámenes MTA realizados a través de Certiport | 45 minutos | 50 minutos
-| Exámenes MTA realizados a través de Pearson VUE | 45 minutos | 80 minutos
+| Exámenes MTA entregados a través de canales académicos | 45 minutos | 50 minutos
+| Exámenes MTA entregados a través de canales comerciales | 45 minutos | 80 minutos
 | Exámenes Dynamics con (con número MB#-nnn) | 120 minutos | 150 minutos
 | Todos los demás exámenes 70-nnn | 150 minutos | 180 minutos
 | Exámenes MCSA | 120 minutos | 150 minutos
-| Exámenes MCSA | 150 minutos | 180 minutos
+| Exámenes MCSE | 150 minutos | 180 minutos
 
 ***Nota** *El tiempo de examen* hace referencia a la cantidad de tiempo de la que dispone para completar el examen. El tiempo de permanencia hace referencia a la cantidad de tiempo que debe asignar para realizar el examen. Incluye el tiempo necesario para estudiar las instrucciones, leer y aceptar el acuerdo de confidencialidad, completar las preguntas del examen y proporcionar comentarios después de completarlo (si lo desea).
 
@@ -611,11 +606,11 @@ Todos los materiales de aprendizaje relacionados con un cargo concreto están cr
 
 **¿Cómo debo prepararme para un examen?**
 
-La mejor forma de prepararse para un examen es practicar las habilidades enumeradas en la página de Información del examen. [Consulte todos los exámenes](https://www.microsoft.com/learning/exam-list.aspx) para encontrar el que mejor se adapte a sus intereses. Se requiere experiencia práctica en tecnología para aprobar los exámenes de Microsoft Certification. Los microcursos, cursos en línea y cursos dirigidos por instructores asociados están pensados para entrenar las habilidades necesarias para tener éxito en el cargo, un subconjunto de los cuales será evaluado en el examen. Sin embargo, debido a que el examen se centra en la aplicación de dichas habilidades más allá de lo enseñado en estos cursos, se recomienda encarecidamente adquirir experiencia o práctica además de realizar la formación antes de realizar el examen. Para empezar a prepararse, consulte la sección "Habilidades medidas" de la página de detalles del examen y evaluar sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí y anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades.
+La mejor forma de prepararse para un examen es practicar las habilidades enumeradas en la página de Información del examen. [Consulte todos los exámenes](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) para encontrar el que mejor se adapte a sus intereses. Se requiere experiencia práctica en tecnología para aprobar los exámenes de Microsoft Certification. Los microcursos, cursos en línea y cursos dirigidos por instructores asociados están pensados para entrenar las habilidades necesarias para tener éxito en el cargo, un subconjunto de los cuales será evaluado en el examen. Sin embargo, debido a que el examen se centra en la aplicación de dichas habilidades más allá de lo enseñado en estos cursos, se recomienda encarecidamente adquirir experiencia o práctica además de realizar la formación antes de realizar el examen. Para empezar a prepararse, consulte la sección "Habilidades medidas" de la página de detalles del examen y evaluar sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí y anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades.
 
 Microsoft Certified Trainers trabajan con muchos candidatos cuando se preparan para sus certificaciones. A menudo recomiendan los siguientes pasos para ayudar a los candidatos a centrarse en sus estudios:
 
-- [Consulte todos los exámenes](https://www.microsoft.com/learning/exam-list.aspx) para encontrar el que mejor se adapte a sus intereses.
+- [Consulte todos los exámenes](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) para encontrar el que mejor se adapte a sus intereses.
 - Imprima la sección de Habilidades medidas de la página. 
 - Revise la lista completa. Piense en cada tema. Si es un experto en un tema concreto, resáltelo o táchelo. 
 - Vea lo que queda. Ahora empieza a hacer una investigación orientada. Busque artículos específicos en Internet de cada tema que no haya destacado.
@@ -629,15 +624,15 @@ Si ya ha realizado el examen y no ha aprobado, priorice las habilidades que debe
 
 **¿Cómo me registro en un examen de Microsoft Certification?**
 
-Visite la [página de registro para el examen](https://www.microsoft.com/learning/certification-exams.aspx) para obtener las instrucciones completas.
+Visite la [página de registro para el examen](https://docs.microsoft.com/learn/certifications/certification-exams) para obtener las instrucciones completas.
 
 **¿Es obligatorio que realice un examen en inglés?**
 
-Los exámenes de Microsoft Certification están disponibles en varios idiomas. No obstante, los candidatos que deban realizar el examen en inglés en vez de su idioma materno pueden solicitar tiempo adicional. La aprobación del tiempo adicional se realiza caso por caso. Solicite adaptaciones para la prueba en [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) o [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Los exámenes de Microsoft Certification están disponibles en varios idiomas. No obstante, los candidatos que deban realizar el examen en inglés en vez de su idioma materno pueden solicitar tiempo adicional. La aprobación para el tiempo adicional se proporciona caso por caso y debe solicitarse antes del examen. Esto debe solicitarse a través del [proceso de adaptaciones](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
 
 **¿Qué adaptaciones por discapacidad hay disponibles?**
 
-Microsoft tiene el firme compromiso de garantizar que los exámenes sean accesibles para todos, incluidas las personas con discapacidades. Para obtener una lista de las adaptaciones disponibles, visite la [página de adaptaciones](http://www.pearsonvue.com/accommodations/).
+Microsoft tiene el firme compromiso de garantizar que los exámenes sean accesibles para todos, incluidas las personas con discapacidades. Para obtener una lista de adaptaciones disponibles, visite la [sección de adaptaciones](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
 
 **¿Qué precio tienen los exámenes?**
 
@@ -645,7 +640,7 @@ Si bien el precio habitual de los exámenes Experto y Asociado es de 165 USD, e
 
 - Para conocer el precio exacto de Microsoft Office Specialist (MOS), contacte con [Certiport](http://www.certiport.com/).
 
-- Con respecto a todos los demás exámenes, [revise todos los exámenes](https://www.microsoft.com/learning/exam-list.aspx) para encontrar la página del examen, donde se incluye el precio del examen.
+- Con respecto a todos los demás exámenes, [revise todos los exámenes](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) para encontrar la página del examen, donde se incluye el precio del examen.
 
 **¿Cómo puedo ofrecer comentarios sobre los materiales de estudio o los cursos para el examen?**
 
@@ -655,9 +650,9 @@ Si tiene comentarios sobre un curso de Microsoft dirigido por un instructor, deb
 
 Si su consulta es sobre la precisión técnica de una pregunta concreta, siga el proceso [Impugnación de pregunta de examen](#policies-5).
 
-Si desea notificar un asunto o inquietud acerca de un centro de pruebas o dificultades durante el examen, póngase en contacto con el servicio de atención al cliente de [Pearson VUE](http://www.pearsonvue.com/microsoft/) o [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
+Para informar alguna inquietud sobre un centro de evaluación o dificultades técnicas experimentadas durante su examen, comuníquese con el servicio al cliente en el proveedor de entrega de exámenes correspondiente.
 
-Para ofrecer otros tipos de comentarios, póngase en contacto con su [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
+Para ofrecer otros tipos de comentarios, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 
 Si desea notificar un problema de seguridad, póngase en contacto con [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
@@ -665,7 +660,7 @@ Si desea notificar un problema de seguridad, póngase en contacto con [mlsecure@
 
 **¿Qué tipos de preguntas aparecen en los exámenes de Microsoft Certification?**
 
-Debido a que Microsoft introduce continuamente tecnologías de pruebas y tipos de preguntas innovadoras, no indicamos los tipos específicos que aparecerán en un examen concreto. Para hacerse una idea del contenido del examen, le recomendamos que revise algunos [formatos de exámenes y tipos de preguntas](https://www.microsoft.com/learning/certification-exams.aspx).
+Debido a que Microsoft introduce continuamente tecnologías de pruebas y tipos de preguntas innovadoras, no indicamos los tipos específicos que aparecerán en un examen concreto. Para hacerse una idea del contenido del examen, le recomendamos que revise algunos [formatos de exámenes y tipos de preguntas](https://docs.microsoft.com/learn/certifications/certification-exams#exam-formats-and-question-types).
 
 **¿Por qué se usa el formato de examen de caso práctico?**
 
@@ -734,7 +729,7 @@ No, las respuestas incorrectas no se penalizan. Simplemente no acumulará todos 
 
 **¿Puedo revisar todas las respuestas antes de abandonar una sección o finalizar el examen?**
 
-Antes de abandonar una sección o finalizar el examen, tendrá la oportunidad de revisar las respuestas de la mayoría de las preguntas. Sin embargo, hay una serie de preguntas de Sí/No que describen un problema y una posible solución para después preguntar si la solución resuelve el problema. Debido a la naturaleza de estas preguntas, no podrá revisar sus respuestas. Además, después de avanzar a la pregunta siguiente de este grupo, no podrá modificar su respuesta. Estas preguntas van precedidas de una pantalla de información general que proporciona esta información e incluyen un recordatorio de que no será posible volver a la pregunta o cambiar estas respuestas después de avanzar..
+Antes de abandonar una sección o finalizar el examen, tendrá la oportunidad de revisar las respuestas de la mayoría de las preguntas. Sin embargo, hay una serie de preguntas de Sí/No que describen un problema y una posible solución para después preguntar si la solución resuelve el problema. Debido a la naturaleza de estas preguntas, no podrá revisar sus respuestas. Además, después de avanzar a la pregunta siguiente de este grupo, no podrá modificar su respuesta. Estas preguntas van precedidas de una pantalla de información general que proporciona esta información e incluyen un recordatorio de que no será posible volver a la pregunta o cambiar estas respuestas después de avanzar.
 
 Como no se le penalizará por las respuestas incorrectas y los exámenes contienen elementos que no puede revisar o cambiar la respuesta, una buena práctica es responder cada pregunta antes de avanzar a la siguiente. Marque las preguntas para revisar y volver a ellas si puede.
 
@@ -754,11 +749,11 @@ Si aprueba el examen beta, conseguirá crédito para dicho examen y cualquier ce
 
 **¿Con quién debo ponerme en contacto si tengo dudas acerca de los resultados del examen beta?**
 
-Si, transcurridas dos semanas de la fecha de publicación del examen final, no ve el informe de puntuación en línea, póngase en contacto con el proveedor del examen para obtener más información sobre la fecha de procesamiento de los resultados. Si tiene preguntas sobre su transcripción, póngase en contacto con el [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
+Si, transcurridas dos semanas de la fecha de publicación del examen final, no ve el informe de puntuación en línea, póngase en contacto con el proveedor del examen para obtener más información sobre la fecha de procesamiento de los resultados. Si tiene preguntas sobre su transcripción, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 
 **¿A quién debo contactar si no recibo mi cupón de 25% de descuento por realizar un examen beta?**
 
-Estos cupones son provistos por VUE y se envían a la dirección de correo que utilizó cuando se registró en el examen. Se envían 4 a 6 semanas aproximadamente después de que se publica el examen. Si no recibe su cupón de 25% de descuento dentro de las 64 semanas en que se publica el examen, envíe un correo a [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com).
+Estos comprobantes los proporciona el proveedor de entrega del examen y se envían a la dirección de correo electrónico que utilizó cuando se registró para el examen. Se envían 4 semanas aproximadamente después de que se publica el examen. Si no recibe su cupón de descuento del 25% dentro de las 4 semanas posteriores a la fecha de publicación del examen, comuníquese con el equipo de atención al cliente del proveedor de entrega del examen.
 
 **¿Qué formato presenta el informe de puntuación?**
 
@@ -788,7 +783,7 @@ Cada sección del examen contiene un número distinto de preguntas; por lo tanto
 
 Además, suele creerse erróneamente que, para aprobar el examen, es necesario responder correctamente al 70 % de las preguntas, ya que la puntuación para aprobar es 700; sin embargo, se trata de una puntuación escalonada. El porcentaje real de preguntas que debe responderse correctamente varía en cada examen y puede ser superior o inferior al 70 %, en función de los comentarios aportados por los expertos de cada materia que nos hayan ayudado a definir la puntuación de corte durante el desarrollo del examen y el mantenimiento continuo y la dificultad de las preguntas presentadas al hacer el examen.
 
-**¿Cómo se puntúan las preguntas?** ¿Cuántos puntos vale cada pregunta? ¿Se me penalizará por contestar una pregunta incorrectamente?**
+**¿Cómo se puntúan las preguntas? ¿Cuántos puntos vale cada pregunta? ¿Se me penalizará por contestar una pregunta incorrectamente?**
 
 Aquí encontrará información general sobre la puntuación de los exámenes:
 
@@ -838,9 +833,9 @@ Las demoras entre preguntas no repercuten en las respuestas, en la puntuación, 
 
 No. La encuesta que se realiza al principio del examen no tiene repercusión alguna en el contenido o en la puntuación del examen. Se trata tan solo de una herramienta de evaluación que usan nuestros expertos en psicometría para garantizar la calidad, la validez y el rigor del examen durante todo su ciclo de vida.
 
-**He aprobado mi primer examen de Microsoft Certification (en Pearson VUE). ¿Qué debo hacer ahora?**
+**He aprobado mi primer examen de Microsoft Certification. ¿Qué debo hacer ahora?**
 
-Enhorabuena. Para revisar los siguientes pasos y beneficios disponibles, consulte su [panel de beneficios y exámenes](https://www.microsoft.com/learning/dashboard.aspx). Inicie sesión con la misma cuenta de Microsoft que utilizó para registrarse para el examen.
+Enhorabuena. Para revisar los siguientes pasos y beneficios disponibles, consulte su [panel de beneficios y exámenes](https://aka.ms/certdashboard). Inicie sesión con la misma cuenta de Microsoft que utilizó para registrarse para el examen. Tenga en cuenta que las insignias de certificación de Certiport actualmente no aparecen en el panel.
 
 **¿Qué puedo hacer si no apruebo?**
 
@@ -850,7 +845,7 @@ Cuando esté preparado para repetir el examen, programe una fecha como lo haría
 
 **¿Dónde puedo encontrar información adicional sobre las áreas que debo mejorar?**
 
-Aunque los exámenes de Microsoft Certification proporcionen comentarios sobre las áreas en las que los examinandos deben mejorar sus habilidades, estos exámenes no están concebidos para ofrecer comentarios detallados o de diagnóstico. Le animamos a consultar la sección "Habilidades medidas" de la página de detalles del examen y evaluar con franqueza sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí, y anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades. Quizá también le resulte interesante preguntar a otros cómo llevan a cabo esas tareas. ¿Las realizan de forma distinta? Trate de entender por qué lo hacen. Lea notas sobre el producto, notas de visita, etc. para obtener más información sobre las tareas que incluye el examen. Explore los recursos proporcionados en las “Opciones de preparación” de la página de información del examen , y los Grupos de estudio que podrá encontrar en la parte inferior de la página de detalles de cada examen.
+Aunque los exámenes de Microsoft Certification proporcionen comentarios sobre las áreas en las que los examinandos deben mejorar sus habilidades, estos exámenes no están concebidos para ofrecer comentarios detallados o de diagnóstico. Le animamos a consultar la sección "Habilidades medidas" de la página de detalles del examen y evaluar con franqueza sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí, anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades. Quizá también le resulte interesante preguntar a otros cómo llevan a cabo esas tareas. ¿Las realizan de forma distinta? Trate de entender por qué lo hacen. Lea notas sobre el producto, notas de visita, etc. para obtener más información sobre las tareas que incluye el examen. Explore los recursos proporcionados en las “Opciones de preparación” de la página de información del examen, y los Grupos de estudio que podrá encontrar en la parte inferior de la página de detalles de cada examen.
 
 Además, [Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) están disponibles para algunos de los exámenes de certificaciones. Estas pueden aportarle más información sobre sus puntos fuertes y débiles específicos. No obstante, superar una prueba práctica no es garantía de aprobar el examen de certificación.
 
@@ -944,8 +939,6 @@ Si Microsoft determina que un centro de pruebas ha actuado de manera inadecuada 
 
 Envíe un mensaje de correo electrónico a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com), e incluya tanta información como sea posible sobre la situación y las personas implicadas. Aunque apreciamos las sugerencias anónimas, a menudo necesitamos más información para llevar a cabo una investigación minuciosa; si está dispuesto a ello, incluya sus datos completos de contacto a fin de que alguien de Microsoft pueda ponerse en contacto con usted para analizar los detalles en caso necesario. Microsoft dispone de personal dedicado a estudiar estas sugerencias. Gracias a la información aportada por personas como usted, se han cerrado varios sitios web. Debido al volumen de correo electrónico recibido, es posible que no siempre reciba una respuesta personal.
 
-Don Field, nuestro antiguo director ejecutivo de certificación y formación, explica cómo se dictó una reciente sentencia de 13,5 millones de dólares como resultado de los [esfuerzos por proteger el valor de las Microsoft Certifications](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program). Lea esta publicación y obtenga información actualizada y constante sobre la certificación y los cursos de Microsoft en nuestro blog [Born to Learn](https://borntolearn.mslearn.net/) blog.
-
 **¿Puedo permanecer en el anonimato si informo sobre un problema de seguridad?**
 
 Sí. Toda la correspondencia dirigida a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) puede permanecer en el anonimato y no compartiremos su información de contacto con nadie. Si desea incluir sus datos de contacto para que podamos recabar más información, nos aseguraremos de que estén a buen recaudo.
@@ -972,7 +965,7 @@ Cuando inicie el examen, verá una pantalla que le indica cuántos elementos, es
 
 Después de iniciar el examen, responderá todas las preguntas tradicionales (por ejemplo, opción múltiple, arrastrar y soltar, lista de compilación, etc.) en el examen a medida que se cargan los laboratorios. Los laboratorios serán la última sección del examen. Tenga en cuenta lo siguiente:
 
-- Después de abandonar cualquier sección del examen (por ejemplo, estudios de caso o laboratorios), no puede volver atrás. Sin embargo, al final de la mayoría de las secciones, tiene la oportunidad de revisar sus respuestas (su examen puede incluir una sección que no se puede revisar; esto se observa al comienzo de la sección). **El tiempo del examen NO se detiene mientras revisa las respuestas. Asegúrese de administrar el tiempo;prestar atención al tiempo Y a la cantidad de preguntas restantes.
+- Después de abandonar cualquier sección del examen (por ejemplo, estudios de caso o laboratorios), no puede volver atrás. Sin embargo, al final de la mayoría de las secciones, tiene la oportunidad de revisar sus respuestas (su examen puede incluir una sección que no se puede revisar; esto se observa al comienzo de la sección). **El tiempo del examen NO se detiene mientras revisa las respuestas. Asegúrese de administrar el tiempo**; prestar atención al tiempo Y a la cantidad de preguntas restantes.
 
 - Cada examen contiene una o dos secciones/laboratorios de rendimiento con múltiples tareas que debe completar. La investigación muestra que las tareas tardan aproximadamente 4 veces más en completarse que un elemento tradicional. Administre su tiempo para que le quede tiempo suficiente para completar los laboratorios. Nos hemos asegurado de que los candidatos que administran su tiempo sabiamente tengan tiempo más que suficiente para completar los laboratorios.
 
@@ -1029,7 +1022,7 @@ Si recibió una calificación, es un reflejo preciso de su desempeño antes del 
 
 **¿Cuándo recibiré mi calificación?**
 
-Los laboratorios tardan más en ser puntuados que los tipos de elementos tradicionales. Debido a que los laboratorios aparecen al final del examen, es posible que no obtenga su resultado de inmediato. Puede tomar 30 minutos o más para recibir una calificación. No tiene que esperar el informe de calificaciones. Pasará automáticamente a nuestra base de datos de certificación y aparecerá en su panel de control de MC. Esto debe ocurrir dentro de las 24 horas posteriores a la entrega del examen. Si no aparece, comuníquese con el [Foro de soporte de MCP](https://aka.ms/mcpforum).
+Los laboratorios tardan más en ser puntuados que los tipos de elementos tradicionales. Debido a que los laboratorios aparecen al final del examen, es posible que no obtenga su resultado de inmediato. Puede tomar 30 minutos o más para recibir una calificación. No tiene que esperar el informe de calificaciones. Pasará automáticamente a nuestra base de datos de certificación y aparecerá en su panel de control de MC. Esto debe ocurrir dentro de las 24 horas posteriores a la entrega del examen. Si no aparece, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 
 **¿Llevan más tiempo los exámenes con preguntas basadas en el rendimiento?**
 
@@ -1041,7 +1034,7 @@ No. Las habilidades evaluadas no cambian, indistintamente del formato de la preg
 
 **¿Hay algún requisito específico del centro de pruebas para los exámenes que tienen laboratorios? La mayoría de los centros de pruebas no están enumerados cuando intento programar los exámenes que tienen laboratorios, pero los mismos centros de pruebas se mencionan para los exámenes que no tienen.**
 
-Los exámenes que incluyen laboratorios requieren centros de pruebas para cumplir con ciertos requisitos de conectividad a internet, de modo que hay disponible un conjunto más pequeño de centros de pruebas. A medida que se agregan laboratorios a más de los exámenes nuevos basados en roles, estarán sujetos también al mismo conjunto de centros de pruebas. Sin embargo, puede realizar este examen con supervisión en línea; obtenga más información en https://www.microsoft.com/learning/online-proctored-exams.aspx. Si tiene en mente centros de pruebas específicos, contáctese con el centro de pruebas específico para saber si pueden entregar laboratorios; como alternativa, no se mencionarán como centros de pruebas disponibles una vez que seleccione el examen. Si eso ocurre, recomendamos buscar un centro de pruebas diferente o realizar el examen con supervisión en línea.
+Los exámenes que incluyen laboratorios requieren centros de pruebas para cumplir con ciertos requisitos de conectividad a internet, de modo que hay disponible un conjunto más pequeño de centros de pruebas. A medida que se agregan laboratorios a más de los exámenes nuevos basados en roles, estarán sujetos también al mismo conjunto de centros de pruebas. Si tiene en mente centros de pruebas específicos, contáctese con el centro de pruebas específico para saber si pueden entregar laboratorios; como alternativa, no se mencionarán como centros de pruebas disponibles una vez que seleccione el examen. Si eso ocurre, recomendamos buscar un centro de pruebas diferente o realizar el examen con supervisión en línea. Nota: Es posible que pueda tomar laboratorios a través de supervisión en línea; sin embargo, eso dependerá de su ancho de banda y conexión a internet.
 
 ### Certificaciones basadas en roles
 
@@ -1079,14 +1072,14 @@ No. Si decide registrarse en un examen y pagarlo antes de verificar su estado de
 Sí. La verificación académica solo es válida durante 12 meses. Después de 12 meses, es necesario repetir el proceso de verificación.
 
 
-**Soy un educador. ¿Puedo recibir un descuento académico (en los países correspondientes) en mi examen de Microsoft Certification con Pearson VUE?**
+**Soy un educador. ¿Puedo seguir recibiendo un descuento académico (en los países correspondientes) en mi examen de certificación de Microsoft entregado en el canal comercial?**
 
 Sí. Tiene que seguir el mismo proceso que un estudiante. Es decir, debe seleccionar "Estudiante" como función de trabajo en el perfil de su cuenta de Microsoft y verificar su estado mediante el mismo proceso que un estudiante.
 
 
 **¿Con quién debo ponerme en contacto para realizar preguntas relacionadas con el proceso de verificación académica para los exámenes de Microsoft Certification?**
 
-Si tiene preguntas generales sobre el examen, póngase en contacto con el [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx). Si tiene preguntas específicas acerca de una solicitud de verificación nueva o pendiente, puede [contactarse con Soporte](https://academic.getmicrosoftkey.com/default/support).
+Si tiene preguntas generales relacionadas con el registro del examen o preguntas específicas para una solicitud de verificación nueva o pendiente, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 
 ### Solicitudes de condiciones especiales
 

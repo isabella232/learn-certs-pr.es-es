@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Technology Literacy for Educators
 metadata:
   title: 'Exam 62-193: Technology Literacy for Educators'
@@ -6,16 +6,19 @@ metadata:
 uid: exam.62-193
 displayName: 62-193
 summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
   Los candidatos para este examen son personas que se preparan para convertirse en educadores de aula, educadores actualizados, profesores de formación al profesorado o escuelas para docentes, administradores educativos u otros profesionales que buscan proporcionar la validación de sus competencias.
 
   El examen de certificación para MCE&#58; Technology Literacy for Educators es un examen de nivel intermedio pensado para que sea una forma válida de medir las competencias requeridas en el marco del 21st Century Learning Design (21CLD).
 subTitle: Los candidatos para este examen son personas que se preparan para convertirse en educadores de aula, educadores actualizados, profesores de formación al profesorado o escuelas para docentes, administradores educativos u otros profesionales que buscan proporcionar la validación de sus competencias.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,7 +30,7 @@ locales:
 - pl
 - ja
 - tr
-levels: 
+levels:
 - beginner
 skills:
 - Facilitar la colaboración del estudiante
@@ -54,3 +57,4 @@ resources:
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

@@ -5,15 +5,18 @@ metadata:
   description: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
 uid: exam.mo-101
 displayName: MO-101
-summary: Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de esperto de la industria y está lista para ingresar al mercado laboral. Pueden demostrar la aplicación correcta de las características principales de Word a nivel experto y pueden completar tareas de forma independiente.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  El examen cubre la capacidad de personalizar los entornos de Word para satisfacer las necesidades del proyecto y mejorar la productividad. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Word a nivel experto y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en la creación y gestión de documentos profesionales para una variedad de propósitos y situaciones especializadas. El examen cubre la capacidad de personalizar los entornos de Word para satisfacer las necesidades del proyecto y mejorar la productividad. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - intermediate
 skills:
@@ -30,15 +33,16 @@ relatedCertifications:
 - related:
     uid: certification.mos-word-expert-2019
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

@@ -1,6 +1,6 @@
 ---
-title: Conviértase en Microsoft Certified Trainer | Microsoft Docs
-description: Conviértase en Microsoft Certified Trainer 
+title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
+description: 'Conviértase en Microsoft Certified Trainer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -19,7 +19,7 @@ Como Microsoft Certified Trainer, debe obtener una certificación de Microsoft q
 
 El programa Microsoft Certified Trainer es un programa de suscripción anual. Debe cumplir con los requisitos del programa, completar una solicitud en línea y pagar una tarifa anual para renovar su certificación de capacitación para el próximo año.
 
-El [Equipo de soporte MCT](https://aka.ms/mctforum) puede responder preguntas sobre el proceso de certificación de MCT y los requisitos del programa.
+Póngase en contacto con [Soporte de MCT](https://aka.ms/mctforum) si tiene preguntas sobre los requisitos del programa MCT, el proceso de inscripción o renovación de MCT o cualquier otra pregunta sobre el programa MCT.
 
 ## Ventajas del programa MCT
 
@@ -37,21 +37,23 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 
 
 ### Requisitos de registro en el programa MCT
+
 - Poseer una calificación o certificación de Microsoft Certification actual aplicable para el programa MCT. 
 (Vea a continuación la lista de certificaciones que califican)
 - Demostrar habilidades de formación verificadas por uno de los siguientes:
   - Certificación de habilidades de formación
     - CompTIA CTT+
     - Essential Educate Trainer (internal Microsoft certification)
+	- Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
-    - Global Knowledge Instructional Skills Certification
+    - Certificación de Global Knowledge Instructional Skills
     - IAMCT Approved Technical Trainer (IAMCT ATT)
     - IPM (Institut für Personalberatung und Managemententwicklung)
-    - Learning and Performance Institute Trainer Performance Monitoring and Assessment (TPMA)
+    - Aprendizaje y rendimiento del Formador del Instituto de Supervisión y Evaluación del Desempeño (TPMA, por sus siglas en inglés)
     - Learning Tree Train the Trainer Program
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-    - New Horizons Instructional Skills Certification
+    - Certificación de New Horizons Instructional Skills
     - PrepMasters USA
   
   O<br/><br/>
@@ -80,7 +82,7 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(retiring 31 de Agosto de 2020)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -98,14 +100,14 @@ Para obtener información detallada acerca de los requisitos del programa MCT, r
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
-- [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (Se retira el domingo, 31 de enero de 2021), Microsoft Dynamics 365 for Operations (Se retira el domingo, 31 de enero de 2021), SQL 2016 BI Development (Se retira el domingo, 31 de enero de 2021), SQL 2016 Database Administration (Se retira el domingo, 31 de enero de 2021), SQL 2016 Database Development (Se retira el domingo, 31 de enero de 2021), SQL Server 2012/2014 (Se retira el domingo, 31 de enero de 2021), Universal Windows Platform (Se retira el domingo, 31 de enero de 2021), Web Applications (Se retira el domingo, 31 de enero de 2021), Windows Server 2012 (Se retira el domingo, 31 de enero de 2021), o Windows Server 2016 (Se retira el domingo, 31 de enero de 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (Se retira el domingo, 31 de enero de 2021), Data Management and Analytics (Se retira el domingo, 31 de enero de 2021), Productivity (Se retira el domingo, 31 de enero de 2021), o Core Infrastructure (Se retira el domingo, 31 de enero de 2021)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (Se retira el domingo, 31 de enero de 2021)
-- Dynamics CRM Dynamics Technical (Retired December 31, 2019) - [Understand the requirements associated with each Microsoft Dynamics qualification and certification](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 y Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- Dynamics CRM Dynamics Technical (Retired 31 de Diciembre de 2019) - [Understand the requirements associated with each Microsoft Dynamics qualification and certification](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
-**Nota** Las certificaciones y calificaciones de Microsoft aplicables para el programa MCT están sujetas a cambios. Toda nueva certificación en base a roles se elegirá para el Programa MCT una vez que se publique. Las certificaciones que se hayan retirado serán elegibles para el programa MCT hasta 6 meses después de la fecha de retiro [Aprenda más sobre las certificaciones que se retiran](https://www.microsoft.com/learning/retired-certifications.aspx).
+**Nota** Las certificaciones y calificaciones de Microsoft aplicables para el programa MCT están sujetas a cambios. Toda nueva certificación en base a roles se elegirá para el Programa MCT una vez que se publique. Las certificaciones que se hayan retirado serán elegibles para el programa MCT hasta 6 meses después de la fecha de retiro. [Aprenda más sobre las certificaciones que se retiran](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## Proceso de solicitud
 
@@ -137,14 +139,6 @@ Utilice la herramienta de inscripción para MCT para:
 - **Actualizar la información de su perfil.** La información de contacto que proporciona se usa para la comunicación por parte de MCT.
 - **Indicar su situación laboral.** Si es empleado de un Learning Partner o Microsoft Imagine Academy, necesitará el número de ID del Learning Partner o Microsoft Imagine Academy.
 - **Seleccionar el método de pago.** Las tarifas del programa varían, en función de su país/región y de su situación laboral. Para conocer las cuotas de participación en MCT y MCT Alumni de su país o región, utilice la herramienta de búsqueda al final de la página.
-
-**Nota** Si es empleado de un Learning Partner y su empresa se hará cargo del pago de sus gastos del programa MCT, siga estos pasos:
-
-1. Adquiera un cupón de MCT en [Courseware Marketplace](https://shop.courseware-marketplace.com/).
-2. Complete una solicitud en la [herramienta de inscripción de MCT](https://mcp.microsoft.com/Authenticate/MCT).
-3. Introduzca el código del cupón de MCT cuando se le solicite pagar la cuota del programa.
-
-Tras completar la aplicación y efectuar el pago, recibirá un correo electrónico de bienvenida de MCT. Luego puede acceder al contenido de MCT en su [Panel de certificación](https://www.microsoft.com/learning/dashboard.aspx).
 
 ## Programa MCT Alumni
 

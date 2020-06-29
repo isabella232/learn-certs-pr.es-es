@@ -6,7 +6,7 @@ metadata:
 uid: certification.microsoft-office-specialist-expert-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Esta certificación demuestra que posee habilidades avanzadas en programas clave de Office obteniendo una certificación Microsoft Office Specialist Expert. Office 2013 combina las tecnologías web y en nube para ampliar el modo en que se crea y consume información, e introduce un nuevo modelo de aplicación en nube para construir aplicaciones flexibles y seguras. Todo ello disponible desde la interfaz de Office habitual.
 
@@ -22,7 +22,7 @@ subTitle: Esta certificación demuestra que posee habilidades avanzadas en progr
 levels:
 - beginner
 skills:
-- ninguno
+- none
 roles:
 - business-user
 type: mos

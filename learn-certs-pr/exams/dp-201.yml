@@ -5,7 +5,7 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div>\r\n<div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>  \r\n<div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el 26 de marzo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>\r\n</div>\r\n\r\nLos candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas comerciales para identificar y cumplir con los requisitos de datos a fin de diseñar soluciones de datos que utilizan los servicios de datos de Azure.\r\n\r\nLos ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.\r\n\r\nLos candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage."
+summary: "<div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>  \r\n  \r\nLos candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas comerciales para identificar y cumplir con los requisitos de datos a fin de diseñar soluciones de datos que utilizan los servicios de datos de Azure.\r\n\r\nLos ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.\r\n\r\nLos candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage."
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar soluciones de almacenamiento de datos de Azure; diseñar soluciones de procesamiento de datos; y diseño para seguridad de datos y cumplimiento.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,8 +19,6 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el 26 de marzo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Diseñar soluciones de almacenamiento de datos Azure (40-45%)
 - Diseñar soluciones de procesamiento de datos (25-30%)
 - Diseño para seguridad de datos y cumplimiento (25-30%)
@@ -54,11 +52,11 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
@@ -69,7 +67,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

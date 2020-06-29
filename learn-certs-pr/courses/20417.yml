@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalar y configurar Windows Server 2012.
+- skill: Administrar Windows Server 2012 con Windows PowerShell®.
+- skill: Administrar el almacenamiento en Windows Server 2012.
+- skill: Implementar servicios de red.
+- skill: Implementar acceso remoto.
+- skill: Implementar el clúster de conmutación por error.
+- skill: Implementar Hyper-V™.
+- skill: Implementación de clústeres de conmutación por error con Hyper-V
+- skill: Implementación de acceso seguro a datos para usuarios y dispositivos.
+- skill: Implementar los Servicios de dominio de Active Directory® (AD DS).
+- skill: Implementación de Active Directory Federation Services (AD FS).
+- skill: Supervisar y mantener Windows Server 2012.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  Obtenga instrucciones prácticas y practique la configuración e implementación de nuevas características y funcionalidades en Windows Server 2012, incluido Windows Server 2012 R2, en este curso oficial de cinco días de Microsoft. Este curso está diseñado para profesionales de TI que desean actualizar sus habilidades técnicas existentes de Windows Server a Windows Server 2012 y Windows Server 2012 R2. Supone un alto nivel de conocimiento sobre las tecnologías y habilidades anteriores de Windows Server equivalentes a MCSA&#58; Credencial de Windows Server 2008. 
+  
+  El curso cubre las nuevas características y funcionalidades en Windows Server 2012 y Windows Server 2012 R2, que incluyen administración, infraestructura de red, almacenamiento, control de acceso, virtualización, alta disponibilidad y federación de identidad. Las tecnologías específicas cubiertas incluyen Windows PowerShell, espacios de almacenamiento e interfaz estándar de equipos pequeños de internet (iSCSI), Active Directory, Hyper-V, implementación de soluciones de acceso remoto como DirectAccess, VPN y Proxy de aplicación web (WAP). El curso también cubre clústeres de conmutación por error, servicios de federación, así como tecnologías de acceso y provisión de información y protección como el control de acceso dinámico y la integración de proxy de aplicación web con servicios de federación y unión en el lugar de trabajo. 
+
+  Este curso no es un curso de actualización del producto, que detalla las consideraciones para migrar y actualizar su entorno específico a Windows Server 2012. Por el contrario, este curso actualizará sus conocimientos y habilidades existentes de Windows Server a Windows Server 2012, incluido Windows Server 2012 R2. 
+
+  Este curso se asigna directamente y es la opción preferida para la preparación práctica para Microsoft Certified Solutions Associate (MCSA)&#58; Examen [417&#58; Upgrading Your Skills to MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx), que es el examen de actualización para certificaciones que tienen rutas de actualización calificadas. Los detalles de las diversas rutas de actualización compatibles están disponibles aquí [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  Nota&#58; Los laboratorios de este curso se basan en Windows Server 2012 R2 y Windows 8.1.
+
+  #### Perfil de audiencia
+  Este curso está dirigido a profesionales de la tecnología de la información (TI) que son administradores experimentados del sistema de Windows Server que están familiarizados con la realización de tareas diarias de administración y mantenimiento de Windows Server. El curso actualizará sus habilidades a Windows Server 2012 y Windows Server 2012 R2. Los candidatos adecuados para este curso serían&#58;
+  - Administradores de Windows Server con experiencia que tienen experiencia en el mundo real trabajando en un entorno empresarial Windows Server.
+  - Profesionales de TI que hayan obtenido el [MCSA&#58; Windows Server 2008](http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx), o una certificación actualizable calificada, cuyos detalles están disponibles [aquí](https://www.microsoft.com/learning/windows-server-certification.aspx), o tienen un conocimiento equivalente.
+  - Los profesionales de TI que quieran tomar los exámenes de Microsoft Certified Solutions Expert (MCSE) en Data Center, Infraestructura de escritorio, Mensajería, Colaboración y Comunicación también estarán interesados en realizar este curso mientras se preparan para la credencial de Windows Server 2012 de Microsoft Certified Solutions Associate (MCSA), que es un requisito previo para sus especialidades individuales.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Experiencia con las tareas diarias de administración, administración y mantenimiento del sistema Windows Server en un entorno empresarial
+  - Haber obtenido una certificación que califica para realizar el examen de actualización 70-417, como se detalla aquí, [https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx), u obtener un conocimiento equivalente
+
+  Nota&#58; Es posible tomar este curso sin tener la certificación calificable actualizable una vez que se cumplan los criterios de conocimiento equivalente. Sin embargo, la posterior examinación y aprobación del examen de actualización 70-417 no le proporcionará al examinado el MCSA&#58; Credencial de Windows Server 2012. Esta actualización de credenciales es exclusivamente para el titular de los titulares de la certificación actualizable calificable existente, cuyos detalles están disponibles en la URL mencionada anteriormente.
+outlineSection: |-
+  ### Módulo 1&#58; Instalación y configuración de Windows Server 2012
+  Este módulo explica cómo instalar y configurar Windows Server 2012. Cubre específicamente los requisitos y consideraciones para la instalación y la instalación de roles y tipos de instalación como Server Core. También cubre la implementación y configuración de la administración remota de servidores que ejecutan Windows Server 2012.
+  #### Lecciones
+  - Instalación de Windows Server 2012 R2
+  - Configuración de Windows Server 2012 R2 y Windows Server 2012
+  - Configuración de la administración remota para Windows Server 2012 R2 y Windows Server 2012
+
+
+  #### Laboratorio &#58; Instalación y configuración de Windows Server 2012 R2
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Instalar Windows Server 2012 R2.
+  - Configurar Windows Server 2012 R2 y Windows Server 2012.
+  - Configurar la administración remota para Windows Server 2012 R2 y Windows Server 2012.
+
+
+  ### Módulo 2&#58; Administrar Windows Server 2012 mediante Windows PowerShell
+  Este módulo explica cómo usar Windows PowerShell para administrar Windows Server 2012. Proporcionará una descripción general de Windows PowerShell y el entorno de secuencias de comandos integradas (ISE) de Windows PowerShell. También cubrirá Windows PowerShell en el contexto de AD DS y la administración general del servidor.
+  #### Lecciones
+  - Descripción general de Windows PowerShell
+  - Uso de Windows PowerShell para administrar AD DS
+  - Administración de servidores mediante Windows PowerShell
+
+
+  #### Laboratorio &#58; Administrar servidores que ejecutan Windows Server 2012 mediante Windows PowerShell
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la interfaz de línea de comandos de Windows PowerShell.
+  - Usar Windows PowerShell para administrar los Servicios de dominio de Active Directory (AD DS).
+  - Administrar servidores utilizando Windows PowerShell.
+
+
+  ### Módulo 3&#58; Administrar el almacenamiento en Windows Server 2012
+  Este módulo explica cómo configurar el almacenamiento en Windows Server 2012.
+  #### Lecciones
+  - Características de almacenamiento en Windows Server 2012
+  - Configuración de almacenamiento iSCSI
+  - Configuración de espacios de almacenamiento en Windows Server 2012
+  - Configuración de BranchCache en Windows Server 2012
+
+
+  #### Laboratorio &#58; Administración del almacenamiento en servidores que ejecutan Windows Server 2012
+
+  #### Laboratorio &#58; Implementación de BranchCache
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las características de almacenamiento en Windows Server 2012.
+  - Configuración de almacenamiento iSCSI.
+  - Configurar espacios de almacenamiento.
+  - Configurar BranchCache.
+
+
+  ### Módulo 4&#58; Implementación de servicios de red
+  Este módulo explica cómo configurar funciones avanzadas para el Sistema de nombres de dominio (DNS) y el Protocolo de configuración dinámica de host (DHCP). También explica cómo configurar la Administración de direcciones IP (IPAM) y la Protección de acceso a la red (NAP).
+  #### Lecciones
+  - Implementación de mejoras de DNS y DHCP
+  - Implementación de IPAM
+  - Administrar espacios de direcciones IP con IPAM
+  - Descripción general de NAP
+  - Implementación de NAP.
+
+
+  #### Laboratorio &#58; Implementación de servicios de red
+
+  Laboratorio; Implementación de NAP
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar mejoras de DHCP y DNS.
+  - Implementar IPAM.
+  - Administrar espacios de direcciones IP con IPAM.
+  - Describir NAP.
+  - Implementar NAP.
+
+
+  ### Módulo 5&#58; Implementación de acceso remoto
+  Este módulo cubre las opciones para aprovisionar acceso remoto con Windows Server 2012. Cubrirá específicamente DirectAccess y VPN y las consideraciones para implementar y administrar estas tecnologías de acceso remoto en su entorno de Windows Server 2012, incluido el uso de certificados.
+  #### Lecciones
+  - Descripción del acceso remoto
+  - Implementación de DirectAccess mediante el Asistente para introducción
+  - Implementación y administración de una infraestructura avanzada de acceso directo
+  - Implementación de VPN
+
+
+  #### Laboratorio &#58; Implementación de DirectAccess
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Instalar y administrar la función de acceso remoto en Windows Server 2012.
+  - Implementar DirectAccess utilizando el Asistente para introducción
+  - Implementar y administrar una infraestructura avanzada de DirectAccess
+  - Implementar el acceso VPN en Windows Server 2012.
+
+
+  ### Módulo 6&#58; Implementación de clústeres de conmutación por error
+  Este módulo explica cómo proporcionar alta disponibilidad para servicios y aplicaciones de red mediante la implementación de clúster de conmutación por error. Proporcionará una descripción general de los términos y tecnologías, así como consideraciones y opciones específicas para los servicios y aplicaciones en discusión.
+  #### Lecciones
+  - Descripción general del clúster de conmutación por error
+  - Implementación de un clúster de conmutación por error
+  - Configuración de aplicaciones y servicios de alta disponibilidad en un clúster de conmutación por error
+  - Mantenimiento de un clúster de conmutación por error
+  - Implementación de un clúster de conmutación por error multisitio
+
+
+  #### Laboratorio &#58; Implementación de clústeres de conmutación por error
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir clúster de conmutación por error.
+  - Implementar un clúster de conmutación por error.
+  - Configurar aplicaciones y servicios de alta disponibilidad.
+  - Mantener un clúster de conmutación por error.
+  - Implementar el clúster de conmutación por error multisitio.
+
+
+  ### Módulo 7&#58; Implementación de la de Hyper-V
+  Este módulo explica cómo instalar y configurar máquinas virtuales Hyper-V. Cubrirá la configuración general, así como las consideraciones de almacenamiento y redes. También cubrirá las diferencias introducidas en Windows Server 2012 R2.
+  #### Lecciones
+  - Configuración de servidores Hyper-V
+  - Configuración del almacenamiento de Hyper-V
+  - Configuración de redes de Hyper-V
+  - Configuración de máquinas virtuales Hyper-V
+
+
+  #### Laboratorio &#58; Implementación de virtualización de servidores con Hyper-V
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar servidores Hyper-V.
+  - Configurar almacenamiento de Hyper-V.
+  - Configuración de la red de Hyper-V.
+  - Configurar máquinas virtuales Hyper-V.
+
+
+  ### Módulo 8&#58; Implementación de clústeres de conmutación por error con Windows Server 2012 R2 Hyper-V
+  Este módulo explica cómo implementar y administrar máquinas virtuales Hyper-V en un clúster de conmutación por error. Proporcionará una descripción general de las tecnologías involucradas, así como detalles sobre la configuración general y la migración de máquinas virtuales.
+  #### Lecciones
+  - Descripción general de la integración de Hyper-V Server 2012 con clústeres de conmutación por error
+  - Implementación de máquinas virtuales Hyper-V en clústeres de conmutación por error.
+  - Implementación de Windows Server 2012 Hyper-V Virtual Machine Movement
+  - Implementación de la réplica de Hyper-V
+
+
+  #### Laboratorio &#58; Implementación de clústeres de conmutación por error con Windows Server 2012 Hyper-V
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describa cómo se integra Hyper-V con Failover Clustering.
+  - Implementar máquinas virtuales Hyper-V en clústeres de conmutación por error.
+  - Implementar el movimiento de la máquina virtual Hyper-V.
+  - Implementar la réplica de Hyper-V.
+
+
+  ### Módulo 9&#58; Implementación de acceso seguro a datos para usuarios y dispositivos
+  Este módulo explica cómo configurar el acceso seguro a datos para usuarios y dispositivos. Cubrirá principalmente la implementación del control de acceso dinámico (DAC) y las carpetas de trabajo.
+  #### Lecciones
+  - Descripción general del control de acceso dinámico
+  - Implementación de componentes DAC
+  - Implementación de DAC para control de acceso
+  - Implementación de asistencia de acceso denegado
+  - Implementación y gestión de carpetas de trabajo
+
+
+  #### Laboratorio &#58; Implementación de acceso seguro a archivos
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir DAC.
+  - Implementar componentes DAC.
+  - Implementar DAC para control de acceso.
+  - Implementar asistencia de acceso denegado.
+  - Implementar y administrar carpetas de trabajo.
+
+
+  ### Módulo 10&#58; Implementación de AD DS
+  Este módulo explica cómo implementar AD DS en Windows Server 2012. Cubre el despliegue y la configuración de controladores de dominio, así como el uso y la implementación de cuentas de servicio, directivas de grupo y servicios ofrecidos por Windows Azure Active Directory. También cubre el mantenimiento general de AD DS.
+  #### Lecciones
+  - Implementación de controladores de dominio AD DS
+  - Configuración de controladores de dominio AD DS
+  - Implementación de cuentas de servicio
+  - Implementación de la política de grupo en AD DS
+  - Descripción general de Windows Azure Active Directory
+  - Mantenimiento de AD DS
+
+
+  #### Laboratorio &#58; Implementación de AD DS
+
+  #### Laboratorio &#58; Solución de problemas y mantenimiento de AD DS
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar controladores de dominio.
+  - Configuración de los controladores de dominio.
+  - Implementar cuentas de servicio.
+  - Implementar la directiva de grupo.
+  - Describa Windows Azure Active Directory.
+  - Mantener AD DS.
+
+
+  ### Módulo 11&#58; Implementación de AD FS
+  Este módulo explica cómo implementar una implementación de AD FS. Cubrirá un escenario de uso de una sola organización, así como un escenario de empresa a empresa. El módulo también cubre Proxy de aplicación web y Workplace Join.
+  #### Lecciones
+  - Descripción general de AD FS
+  - Implementación de AD FS
+  - Implementación de AD FS para una sola organización
+  - Implementación de AD FS en un escenario de federación de empresa a empresa
+  - Implementación de Proxy de aplicación web
+  - Implementación de Workplace Join
+
+
+  #### Laboratorio &#58; Implementación de AD FS
+  Después de completar este módulo, los estudiantes podrán&#58;
+  Describir AD FS.
+  - Explicar cómo implementar AD FS.
+  - Explicar cómo implementar AD FS para una sola organización.
+  - Explicar cómo implementar AD FS en un escenario de federación de empresa a empresa.
+  - Explicar cómo implementar Proxy de aplicación web.
+  - Explicar cómo implementar Workplace Join.
+
+
+  ### Módulo 12&#58; Supervisión y mantenimiento de Windows Server 2012
+  Este módulo explica cómo supervisar y mantener Windows Server 2012. Cubrirá el monitor de rendimiento y los conjuntos de recopiladores de datos, así como las tecnologías de copia de seguridad y recuperación del servidor.
+  #### Lecciones
+  - Supervisión de Windows Server 2012
+  - Implementación de Windows Server Backup
+  - Implementación de servidor y recuperación de datos
+
+
+  #### Laboratorio &#58; Supervisión y mantenimiento de servidores Windows 2012
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Supervisar Windows Server 2012.
+  - Implementar Windows Server Backup.
+  - Restaurar datos y servidores mediante Windows Server Backup.
+

@@ -7,27 +7,31 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 28 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son administradores de equipos de Microsoft para su organización. El administrador de equipos de Microsoft configura, implementa y gestiona Office 365 workloads for Microsoft Teams que se centra en la colaboración y comunicación eficientes y efectivas en un entorno empresarial.
 
-  El administrador de equipos de Microsoft debe poder planificar, implementar y administrar chats, aplicaciones, canales, reuniones, conferencias de audio, eventos en vivo y llamadas de equipos. El administrador de equipos de Microsoft es también responsable de actualizar Skype for Business a Equipos.
+  El administrador de equipos de Microsoft debe poder planificar, implementar y administrar chats, aplicaciones, canales, reuniones, conferencias de audio, eventos en vivo y llamadas de equipos. El Teams Administrator es también responsable de actualizar Skype Empresarial a Equipos.
 
   El administrador de equipos de Microsoft colabora con ingenieros de telefonía para integrar funciones de vos avanzadas en Microsoft Teams. Esta función no es responsable de configurar enrutamiento, configurar enrutamiento de llamadas o de integrar telefonía. El administrador de equipos de Microsoft puede trabajar con otras funciones de administrador de cargas de trabajo, incluida seguridad y cumplimiento, mensajería, redes, identidad y dispositivos.
 
-  Los candidatos para este examen deben ser competentes en la gestión de configuraciones de equipos al usar PowerShell. El administrador de equipos de Microsoft tiene un conocimiento fundamental de puntos de integración con aplicaciones y servicios, entre los que se incluye SharePoint, OneDrive for Business, Exchange, Azure AD, y Office 365 Groups. El administrador de equipos de Microsoft entiende cómo integrar aplicaciones y servicios externos.
+  Los candidatos para este examen deben ser competentes en la gestión de configuraciones de equipos al usar PowerShell. El Teams Administrator tiene un conocimiento fundamental de puntos de integración con aplicaciones y servicios, entre los que se incluye SharePoint, OneDrive for Business, Exchange, Azure AD, y Office 365 Groups. El Teams Administrator entiende cómo integrar aplicaciones y servicios externos.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: planificar y configurar un entorno de Microsoft Teams; administrar chat, llamadas y reuniones; y gestionar equipos y políticas de aplicaciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-700&examname=Exam%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-700
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 28 de mayo de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Planificar y configurar un entorno de equipos de Microsoft (45-50%)
 - Gestionar chat, llamadas y reuniones (30-35%)
 - Administrar equipos y políticas de aplicaciones (20-25%)
@@ -48,11 +52,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
@@ -6,13 +6,20 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Los candidatos para la certificación Azure AI Engineer Associate deben tener experiencia en el tema utilizando servicios cognitivos, aprendizaje automático y minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft que involucren procesamiento de lenguaje natural, habla, visión por ordenador e inteligencia artificial conversacional.
+
+  Las responsabilidades para este rol incluyen analizar los requisitos para las soluciones de IA, recomendar las herramientas y tecnologías apropiadas y diseñar e implementar soluciones de IA que cumplan con los requisitos de escalabilidad y rendimiento.
+
+  Los Azure AI ingenieros traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores software para crear soluciones completas de extremo a extremo.
+
+  Un candidato para esta certificación debe tener conocimiento y experiencia en el diseño e implementación de aplicaciones y agentes de inteligencia artificial que usen los servicios cognitivos de Microsoft Azure, Azure Bot Service, Azure Cognitive Search y el almacenamiento de datos en Azure. Además, un candidato debe poder recomendar soluciones que usen tecnologías de código abierto, comprender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles, y comprender cuándo se debe desarrollar una API personalizada para cumplir requisitos específicos.
 subTitle: Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
 levels:
 - intermediate
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
-- Analizar los requisitos de la solución.
+- Analizar los requisitos de la solución
 - Diseñar soluciones AI
 - Implementar y monitorear soluciones AI
 roles:
@@ -36,18 +43,25 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Azure certifications poster
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Journey to certification
+  description: Explore los pasos para obtener la certificación como ingeniero asociado de Azure AI y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

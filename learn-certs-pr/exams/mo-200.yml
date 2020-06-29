@@ -5,22 +5,34 @@ metadata:
   description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
 uid: exam.mo-200
 displayName: MO-200
-summary: Un candidato que obtiene esta certificación tiene aproximadamente 150 horas de clases y experiencia práctica con el producto, tiene competencia probada en el nivel asociado a la industria y está listo para ingresar en el mercado laboral. Los candidatos pueden demostrar la aplicación correcta de las principales características de Excel y pueden completar las tareas de manera independiente.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  El examen contempla la habilidad de crear y editar un libro con múltiples hojas y utilizar un elemento gráfico para representar los datos de manera visual. Entre los ejemplos de hojas de cálculo se incluyen presupuestos de apariencia profesional, estados financieros, gráficos de rendimiento del equipo, facturas de ventas y registros de entrada de datos. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Excel y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en los principios básicos para crear y administrar hojas de trabajo y libros de trabajo, crear celdas y rangos, crear tablas, aplicar fórmulas y funciones, y crear gráficas y objetos. El examen contempla la habilidad de crear y editar un libro con múltiples hojas y utilizar un elemento gráfico para representar los datos de manera visual. Entre los ejemplos de hojas de cálculo se incluyen presupuestos de apariencia profesional, estados financieros, gráficos de rendimiento del equipo, facturas de ventas y registros de entrada de datos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
 levels:
 - intermediate
 skills:
 - Gestionar hojas de cálculo y libros (10-15%)
 - Administrar celdas de datos e intervalos (20-25%)
 - Administrar tablas y datos de tablas (15-20%)
-- Realizar operaciones con fórmulas y funciones (20-25%)
+- Realizar operaciones usando fórmulas y funciones (20-25%)
 - Administrar gráficos (20-25%)
 roles:
 - developer
@@ -31,15 +43,16 @@ relatedCertifications:
 - related:
     uid: certification.mos-excel-2019
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

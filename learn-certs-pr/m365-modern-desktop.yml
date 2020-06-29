@@ -2,22 +2,25 @@
 title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+  description: 'Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.'
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 subTitle: Los administradores de escritorios modernos son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial.
 levels:
 - intermediate
 skills:
 - Implementación de Windows
-- Administración de dispositivos y datos
-- Configuración de la conectividad
+- Administrar dispositivos y datos
+- Configurar conectividad
 - Mantener Windows
 - Implementar y actualizar sistemas operativos
-- Gestionar directrices y perfiles
-- Gestionar y proteger dispositivos
-- Gestionar aplicaciones y datos
+- Administrar directivas y perfiles
+- Administrar y proteger dispositivos
+- Administrar aplicaciones y datos
 roles:
 - administrator
 type: role-based
@@ -25,15 +28,12 @@ products:
 - m365
 - windows
 courses:
-- uid: course.md-100t01
-- uid: course.md-100t02
-- uid: course.md-100t03
-- uid: course.md-100t04
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-100t00
+- uid: course.md-101t00
 paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUD
 exams:
 - uid: exam.md-100
@@ -45,15 +45,16 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

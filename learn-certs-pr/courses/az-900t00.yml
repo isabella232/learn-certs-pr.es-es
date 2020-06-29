@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   Este curso de dos días proporcionará conocimiento de nivel básico sobre conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.
-  Nota: Este curso proporciona un pase de Azure y tiempo para que los estudiantes participen en laboratorios prácticos. Si no necesita experiencia práctica, considere el AZ-900T01: Curso de principios de Microsoft Azure (1 día). El contenido de ambos cursos se alinea con el dominio objetivo del examen AZ-900.
+  Nota&#58; Este curso proporciona un pase de Azure y tiempo para que los estudiantes participen en laboratorios prácticos. Si no necesita experiencia práctica, considere el AZ-900T01&#58; Curso de principios de Microsoft Azure (1 día). El contenido de ambos cursos se alinea con el dominio objetivo del examen AZ-900.
 
   #### Perfil de audiencia
   Este curso es adecuado para el personal de TI que recién comienza a trabajar con Azure. Este público quiere conocer nuestras ofertas y obtener experiencia práctica con el producto. Este curso utiliza principalmente el Portal de Azure para crear servicios y no requiere habilidades de secuencias de comandos.  Los estudiantes en este curso ganarán confianza para tomar otros cursos y certificaciones basados ​​en roles, como Azure Administrator. Este curso proporciona un pase de Azure y un entorno de laboratorio opcional. Este curso combina conferencias, demostraciones y laboratorios prácticos.  Este curso también ayudará a preparar a alguien para el examen AZ-900.
@@ -35,7 +42,7 @@ outlineSection: |-
   - Tipos de modelos de nube
   - Tipos de servicios en la nube
 
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Definir la computación en la nube y sus ventajas clave.
   - Explicar los modelos de nube pública, privada e híbrida.
   - Explicar los servicios en la nube de IaaS, PaaS y SaaS.
@@ -50,7 +57,7 @@ outlineSection: |-
   - Herramientas de administración de Azure
 
 
-  #### laboratorio &#58; Tutorial&#58; Crear una red virtual
+  #### laboratorio &#58; Tutorial&#58; Crear una máquina virtual
 
   #### laboratorio &#58; Tutorial&#58; Implementar instancias de contenedor de Azure
 
@@ -71,14 +78,14 @@ outlineSection: |-
   #### laboratorio &#58; Tutorial&#58; Crear una VM con PowerShell
 
   #### laboratorio &#58; Tutorial&#58; Crear una VM con CLI
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Identificar los componentes arquitectónicos principales de Azure, como regiones, geografías y grupos de recursos.
   - Identificar casos de uso para servicios y productos principales de Azure, como máquinas virtuales y almacenamiento.
   - Identificar casos de uso para soluciones de Azure, como Internet de las cosas y Machine Learning.
   - Identificar qué herramientas de administración de Azure están disponibles, como Azure PowerShell y la CLI.
 
 
-  ### Module  3&#58; Seguridad, privacidad, cumplimiento y confianza
+  ### Module 3&#58; Seguridad, privacidad, cumplimiento y confianza
   En este módulo, aprenderá sobre la seguridad, identidad, gobierno, supervisión, informes y estándares de Azure.
   #### Lecciones
   - Conectividad de red segura
@@ -102,7 +109,7 @@ outlineSection: |-
   #### laboratorio &#58; Tutorial&#58; Implementar etiquetado de recursos
 
   #### laboratorio &#58; Tutorial&#58; Explorar el Centro de Confianza
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Describir las opciones de conectividad de seguridad de red virtual, como los grupos de seguridad de red.
   - Describir las opciones de autenticación y autorización de identidad de Azure.
   - Describir los casos de uso para el Centro de seguridad, el Almacén de claves, las amenazas y las opciones de protección de la información.
@@ -130,9 +137,10 @@ outlineSection: |-
   #### laboratorio &#58; Tutorial&#58; Calcular SLA compuestos
 
   #### laboratorio &#58; Tutorial&#58; Acceder a las funciones de Azure Preview
-  Después de completar este módulo, tú podrán&#58;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Usar una suscripción de Azure.
   - Planificar y administrar costos.
   - Explicar las opciones de soporte de Azure.
   - Describir Azure SLAs.
   - Explicar los ciclos de vida del servicio de Azure.
+

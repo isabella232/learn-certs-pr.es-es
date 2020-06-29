@@ -8,10 +8,10 @@ displayName: AZ-301
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-304">AZ-304</a>, ESTARÁ DISPONIBLE EL 29 de junio de 2020. APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-304">AZ-304</a>, ESTARÁ DISPONIBLE EL, 29 DE JUNIO DE 2020 APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son Azure Solution Architects, quienes aconsejan a los participantes interesados y traducen los requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deberían tener experiencia y conocimiento avanzado a lo largo de varios aspectos de operaciones de IT, incluyendo redes, virtualización, identidad, seguridad, continuidad comercial, recuperación de desastres, administración de datos, presupuesto, y gobernancia. Este cargo requiere administrar cómo las decisiones en cada área afectan una solución global. Los candidatos deben ser hábiles en administración Azure, desarrollo Azure, y DevOps, y tienen habilidades de nivel de experto en al menos uno de estos dominios.
+  Los candidatos para este examen son Azure Solution Architects, quienes aconsejan a los participantes interesados y traducen los requisitos comerciales en soluciones seguras, escalables y confiables. Los candidatos deberían tener experiencia y conocimiento avanzado a lo largo de varios aspectos de operaciones de TI, incluyendo redes, virtualización, identidad, seguridad, continuidad comercial, recuperación de desastres, administración de datos, presupuesto, y gobernancia. Este cargo requiere administrar cómo las decisiones en cada área afectan una solución global. Los candidatos deben ser hábiles en administración Azure, desarrollo Azure, y DevOps, y tienen habilidades de nivel de experto en al menos uno de estos dominios.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: determinar los requisitos de la carga de trabajo; diseñar para la identificación y la seguridad; diseñar una solución de plataforma de datos; diseñar una estrategia de continuidad de negocio; diseñar para la implementación, migración e integración; y diseñar una estrategia de infraestructura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
@@ -25,13 +25,13 @@ locales:
 levels:
 - advanced
 skills:
-- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-304, ESTARÁ DISPONIBLE EL 29 DE JUNIO DE 2020 APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.'
-- Determinar los requisitos de carga de trabajo (10-15%)
-- Diseñar para la identificación y la seguridad (20-25%)
-- Diseñar una solución de plataforma de datos (15-20%)
-- Diseñar una estrategia de continuidad comercial (15-20%)
-- Diseñar para la implementación, migración e integración (10-15%)
-- Diseñar una estrategia de infraestructura (15-20%)
+- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-304, ESTARÁ DISPONIBLE EL, 29 DE JUNIO DE 2020 APROXIMADAMENTE. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- Determinar los requisitos de carga de trabajo (10-15 %)
+- Diseñar para la identificación y la seguridad (20-25 %)
+- Diseñar una solución de plataforma de datos (15-20 %)
+- Diseñar una estrategia de continuidad del negocio (15-20 %)
+- Diseñar para la implementación, migración e integración (10-15 %)
+- Diseñar una estrategia de infraestructura (15-20 %)
 retirementDate: 09/30/2020
 roles:
 - solution-architect
@@ -78,14 +78,11 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

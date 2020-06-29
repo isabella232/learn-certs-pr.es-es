@@ -5,15 +5,28 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: Una persona que obtenga esta certificación tiene aproximadamente 150 horas de instrucción y experiencia práctica con el producto, tiene una competencia probada a nivel de asociado de la industria y está lista para ingresar al mercado laboral Pueden demostrar la aplicación correcta de las características principales de PowerPoint y pueden completar tareas de forma independiente.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Este examen cubre la capacidad de crear y administrar presentaciones, insertar y formatear formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones, y administrar múltiples presentaciones. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos. Se espera que los candidatos demuestren la aplicación correcta de las características principales de PowerPoint y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia para crear, editar y mejorar presentaciones y presentaciones de diapositivas, incluida la capacidad de crear y administrar presentaciones, insertar y dar formato a formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones y administrar presentaciones múltiples. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
@@ -31,15 +44,16 @@ relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2019
 resources:
-- title: Guía de capacitación y certificación
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

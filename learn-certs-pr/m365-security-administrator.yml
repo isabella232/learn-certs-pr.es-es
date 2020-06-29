@@ -2,16 +2,19 @@
 title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Security Administrator Associate'
-  description: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+  description: 'Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.'
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
-subTitle: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de M365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+subTitle: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
 levels:
 - intermediate
 skills:
 - Implementar y administrar identidad y acceso
-- Implementar y administrar la protección contra amenazas
+- Implementar y administrar la protección contra amenazas.
 - Implementar y administrar la protección de la información
 - Administrar las funciones de gobierno y cumplimiento en Microsoft 365
 roles:
@@ -19,8 +22,6 @@ roles:
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-500t00
 paths:
@@ -38,15 +39,16 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

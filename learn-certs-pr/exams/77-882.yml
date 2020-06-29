@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Excel 2010
+metadata:
+  title: 'Exam 77-882: Excel 2010'
+  description: 'Exam 77-882: Excel 2010'
+uid: exam.77-882
+displayName: 77-882
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  El usuario básico de Microsoft Office Excel 2010 debe poder navegar por el software Microsoft Office Excel 2010 a nivel funcional y funcional. Deben estar familiarizados y saber cómo usar al menos el 80 por ciento de las características y capacidades de Microsoft Office Excel 2010. El usuario de nivel central debe poder usar Microsoft Office Excel 2010 para crear y editar hojas de cálculo de aspecto profesional para una variedad de propósitos y situaciones. Los usuarios incluirían personas de una amplia variedad de roles laborales en casi todas las áreas de la vida profesional, estudiantil y personal.
+subTitle: El usuario básico de Microsoft Office Excel 2010 debe poder navegar por el software Microsoft Office Excel 2010 a nivel funcional y funcional. Deben estar familiarizados y saber cómo usar al menos el 80 por ciento de las características y capacidades de Microsoft Office Excel 2010. El usuario de nivel central debe poder usar Microsoft Office Excel 2010 para crear y editar hojas de cálculo de aspecto profesional para una variedad de propósitos y situaciones. Los usuarios incluirían personas de una amplia variedad de roles laborales en casi todas las áreas de la vida profesional, estudiantil y personal.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-882&examname=Excel%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-882
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Administrar el entorno de hojas de trabajo
+- Crear datos de celdas
+- Formato de celdas y hojas de trabajo
+- Gestionar hojas de cálculo y libros
+- Aplicar fórmulas y funciones
+- Presentación datos visualmente
+- Compartir datos de la hoja de trabajo con otros usuarios
+- Analizar y organizar los datos
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

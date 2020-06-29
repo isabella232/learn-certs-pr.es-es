@@ -8,7 +8,7 @@ displayName: AZ-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-204">AZ-204</a>, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el lunes, 31 de agosto de 2020. Nota&#58; Los exámenes se retian a las 11&#58;59 hora estándar del centro<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Este examen se retiró el 31 de mayo de 2020. Nota&#58; Los exámenes se retiran a las 11&#58;59 PM, hora estándar central.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son Azure Developers que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.
@@ -33,7 +33,6 @@ providers:
 levels:
 - intermediate
 skills:
-- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-204, ESTARÁ DISPONIBLE EL 24 DE FEBRERO. Podrá tomar este examen hasta que se retire aproximadamente el lunes, 31 de agosto de 2020. Descargue el documento medido de habilidades a continuación para ver información detallada sobre los cambios.'
 - Desarrollar la infraestructura de Azure como una Solución informática de servicio (10-15%)
 - Desarrollar la plataforma de Azure como una Solución informática de servicio (20-25%)
 - Desarrollar almacenamiento Azure (15-20%)
@@ -55,6 +54,7 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
+- uid: course.az-020t00
 - uid: course.az-203t01
 - uid: course.az-203t02
 - uid: course.az-203t03
@@ -75,14 +75,11 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

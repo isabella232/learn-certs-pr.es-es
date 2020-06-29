@@ -7,8 +7,8 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificación se retirará el martes 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificación se retira el 31 de Enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá conseguir esta certificación después de dicha fecha. Obtener más información <a href='/learn/certifications/retired-certifications'>sobre próximos retiros de certificación</a>.</strong><br/><br/></div>
   </div>
 
   Esta certificación valida las habilidades necesarias para trasladar su empresa a la nube, aumentar la productividad y la flexibilidad de los usuarios, reducir la pérdida de datos y mejorar la seguridad de los datos para su organización. Esta certificación se puede usar para cumplir con uno de los requisitos para ser [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
@@ -26,7 +26,7 @@ subTitle: Esta certificación valida las habilidades necesarias para trasladar s
 levels:
 - advanced
 skills:
-- ninguno
+- none
 roles:
 - administrator
 type: role-based
@@ -44,11 +44,11 @@ exams:
 - uid: exam.70-339
 - uid: exam.70-333
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

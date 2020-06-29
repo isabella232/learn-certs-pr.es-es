@@ -1,69 +1,72 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: 'Examen MD-101: Managing Modern Desktops'
-  description: 'Examen MD-101: MManaging Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  Si aprobó [El examen 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop. Los candidatos para este examen son administradores que implementan, configuran, aseguran, administran y monitorizan dispositivos y aplicaciones del cliente en un entorno empresarial. Los candidatos administran la identidad, el acceso, las directivas, las actualizaciones y las aplicaciones.
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
 
+  Si aprobó el [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de que expirara el 31 de marzo de 2019, solo necesita tomar MD-101 para obtener la certificación de Modern Desktop. Los candidatos para este examen son administradores que implementan, configuran, aseguran, administran y monitorean dispositivos y aplicaciones cliente en un entorno empresarial. Los candidatos administran la identidad, el acceso, las directivas, las actualizaciones y las aplicaciones.
   <br/>
 
-
-  Como administrador, los candidatos suelen colaborar con un administrador de Microsoft 365 Enterprise para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna.
-
-  <br/>
-
+  Como administrador, los candidatos suelen colaborar con un Microsoft 365 Enterprise Administrator para diseñar e implementar una estrategia de dispositivo que satisfaga las necesidades comerciales de una organización moderna.
 
   Los candidatos deben estar familiarizados con las cargas de trabajo de Microsoft 365 y deben ser competentes y tener experiencia en la implementación, configuración y mantenimiento de dispositivos y tecnologías Windows 10 y no Windows.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: implementar y actualizar los sistemas operativos; gestionar las políticas y perfiles; administrar y proteger los dispositivos; y gestionar las aplicaciones y los datos. Si aprobó el Examen 70-698 antes de que expirara el 31 de marzo de 2019, solo necesita tomar el MD-101 para obtener la certificación de Modern Desktop.'
+subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: implementar y actualizar los sistemas operativos; gestionar las políticas y perfiles; administrar y proteger los dispositivos; y gestionar las aplicaciones y los datos. Si aprobó el Exam 70-698 antes de que expirara el 31 de marzo de 2019, solo necesita tomar MD-101 para obtener la certificación de Modern Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
-practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MD-101&examname=Examen%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- Implementar y actualizar sistemas operativos (15-20%)
-- Administrar directivas y perfiles (35-40%)
-- Administrar y proteger dispositivos (15-20%)
-- Administrar aplicaciones y datos (25-30%)
+- Implementar y actualizar sistemas operativos (35-40%)
+- Administrar directivas y perfiles (25-30%)
+- Administrar y proteger dispositivos (20-25%)
+- Administrar aplicaciones y datos (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
-- title: Ruta de certificación de aprendizaje
-  description: 'Descubra los medios de capacitación para convertirse en una persona autorizada por Microsoft: Certificación Asociado administrador de escritorios modernos.'
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite los servicios de alojamiento
-  description: Infórmese sobre cómo solicitar un servicio de alojamiento para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
-  description: Revise la política para los exámenes y las preguntas frecuentes.
+  description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

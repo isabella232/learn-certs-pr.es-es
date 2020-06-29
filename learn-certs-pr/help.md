@@ -17,15 +17,15 @@ ms.author: micsullivan
 
 ¿Aún tiene preguntas? Consulte nuestras opciones de soporte a continuación.
 
-Tenga en cuenta que estamos experimentando tiempos de respuesta más largos de lo esperado para los clientes que buscan soporte de Certificación y Capacitación. Agradecemos su paciencia mientras trabajamos para atender todas las consultas lo más rápido posible.
+***Tenga en cuenta que estamos experimentando tiempos de respuesta más largos de lo esperado para los clientes que buscan soporte de Certificación y Capacitación. Agradecemos su paciencia mientras trabajamos para atender todas las consultas lo más rápido posible.***
 
 ## Ayuda de certificación
 
 | Área de soporte | Información de contacto |
 | ------------- | --- |
-| **Microsoft Certification** | Es posible que ya se haya respondido su pregunta en nuestros [Technical Certification Overview](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/> **Certification Support Foros:** <br/>Obtenga ayuda a través de nuestros [Certification Support Foros](https://aka.ms/MCPForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
-| **Programa de Microsoft Certified Trainer (MCT)** | Es posible que ya se haya respondido su pregunta en nuestros [MCT Program Overview](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/> **MCT Support Foros:** <br/>Obtenga ayuda a través de nuestros [MCT Support Foros](https://aka.ms/MCTForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
+| **Microsoft Certification** | Es posible que ya se haya respondido su pregunta en nuestros [Technical Certification Overview](/learn/certifications/) <br/><br/>  **Certification Support Foros:** <br/>Obtenga ayuda a través de nuestros [Certification Support Foros](https://aka.ms/MCPForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
+| **Programa de Microsoft Certified Trainer (MCT)** | Es posible que ya se haya respondido su pregunta en nuestros [MCT Program Overview](/learn/certifications/mct-certification)<br/><br/>  **MCT Support Foros:** <br/>Obtenga ayuda a través de nuestros [MCT Support Foros](https://aka.ms/MCTForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
 
 ## Ayuda de capacitación
 
-Para asistencia con Microsoft Official Courseware (MOC), [haga clic aquí](https://docs.microsoft.com/learn/certifications/certification-and-training-help)
+Para asistencia con Microsoft Official Courseware (MOC), [haga clic aquí](https://docs.microsoft.com/learn/certifications/certification-and-training-help).

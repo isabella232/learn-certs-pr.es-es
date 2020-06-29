@@ -2,10 +2,16 @@
 title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
+  description: 'Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.'
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
+summary: |-
+  <div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>ESTA CERTIFICACIÓN SE RETIRARÁ EL 31 DE AGOSTO DE 2020. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href="https://www.microsoft.com/learning/dashboard.aspx">Certification Dashboard</a>.</strong><br/><br/></div>
+  </div>
+
+  Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
 subTitle: Los administradores de Microsoft 365 Teamwork configurar, implementan y gestionan las cargas de trabajo de Office 365 centradas en la colaboración eficaz, como SharePoint (en línea, local e híbrido), OneDrive y Teams.
 levels:
 - intermediate
@@ -14,7 +20,7 @@ skills:
 - Configurar y administrar OneDrive for Business
 - Configurar y administrar equipos
 - Configurar y administrar integraciones de cargas de trabajo
-- Configurar y administrar SharePoint On-Premises
+- Configure y administre SharePoint en las instalaciones
 - Configurar y administrar escenarios híbridos
 - Migrar a SharePoint Online
 roles:
@@ -48,15 +54,16 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

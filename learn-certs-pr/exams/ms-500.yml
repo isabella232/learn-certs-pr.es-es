@@ -1,32 +1,40 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: 'Examen MS-500: Microsoft 365 Security Administration'
-  description: 'Examen MS-500: Microsoft 365 Security Administration'
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: >-
-  Los candidatos para este examen implementan, administran y monitorean soluciones de seguridad y cumplimiento para Microsoft 365 y entornos híbridos. El administrador de seguridad de Microsoft 365 protege de forma proactiva los entornos empresariales de M365, responde a las amenazas, realiza investigaciones y aplica el gobierno de los datos. El Administrador de seguridad de Microsoft 365 colabora con el Administrador corporativo de Microsoft 365, las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el 8 de junio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  </div>
 
+  Los candidatos para este examen implementan, administran y monitorean soluciones de seguridad y cumplimiento para Microsoft 365 y entornos híbridos. El administrador de seguridad de Microsoft 365 protege de forma proactiva los entornos empresariales de Microsoft 365, responde a las amenazas, realiza investigaciones y aplica el gobierno de los datos. El Microsoft 365 Security Administrator colabora con el Microsoft 365 Enterprise Administrator, las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización.
   <br/>
-
 
   Los candidatos para este examen están familiarizados con las cargas de trabajo de Microsoft 365 y tienen habilidades y experiencia sólidas en protección de identidad, protección de información, protección de amenazas, administración de seguridad y gobernanza de datos. Esta función se centra en el entorno Microsoft 365 e incluye entornos híbridos.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar y administrar la identidad y el acceso; implementar y gestionar la protección contra amenazas; implementar y gestionar la protección de la información; y administrar las funciones de gobernabilidad y cumplimiento en Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fes-es%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizó el lunes, 8 de junio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Implementar y administrar identidad y acceso (30-35%)
 - Implementar y administrar la protección contra amenazas (20-25%)
 - Implementar y administrar la protección de la información (15-20%)
-- Administrar las funciones de gobernanza y cumplimiento en Microsoft 365 (25-30%)
+- Administrar las funciones de gobernanza y cumplimiento en Microsoft 365 (20-25%)
 roles:
 - administrator
 products:
@@ -45,23 +53,27 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en certificado por Microsoft: Administrador de Seguridad Asociado.'
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación.
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

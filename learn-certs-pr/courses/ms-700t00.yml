@@ -5,7 +5,7 @@ metadata:
   description: 'Course MS-700T00-A: Managing Microsoft Teams'
 uid: course.ms-700t00
 courseNumber: 'MS-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: ¿Qué es Microsoft Teams y cómo funcionan juntos los componentes?
@@ -30,12 +30,12 @@ exams:
 summary: |-
   El curso de Administración de Microsoft Teams está diseñado para personas que aspiran a la función de Administrador de Microsoft 365 Teams.
   Los administradores de Microsoft Teams configuran, implementan y administran las cargas de trabajo de Office 365 para Microsoft Teams que se centran en la colaboración y comunicación eficiente y efectiva en un entorno empresarial.
-  Este curso cubre seis elementos centrales: descripción general de Microsoft Teams, implementación de gobierno, seguridad y cumplimiento para Microsoft Teams, preparación del entorno para la implementación de Microsoft Teams, implementación y administración de equipos, administración de la colaboración y administración de la comunicación en Microsoft Teams.
+  Este curso cubre seis elementos centrales&#58; descripción general de Microsoft Teams, implementación de gobierno, seguridad y cumplimiento para Microsoft Teams, preparación del entorno para la implementación de Microsoft Teams, implementación y administración de equipos, administración de la colaboración y administración de la comunicación en Microsoft Teams.
   En la descripción general de Microsoft Teams, obtendrá una descripción general de Microsoft Teams, incluida la arquitectura de Teams y las cargas de trabajo de Office 365 relacionadas. Se le proporcionará una descripción general de la seguridad y el cumplimiento en Microsoft Teams y, finalmente, obtendrá una descripción general de cómo administrar Microsoft Teams.
   Al implementar el gobierno, la seguridad y el cumplimiento de los equipos de Microsoft, planificará y configurará el gobierno de los grupos de Office 365, incluidas las políticas de vencimiento y nomenclatura. Luego implementará la seguridad configurando acceso condicional, MFA o Threat Management para equipos de Microsoft. Finalmente, implementará el cumplimiento de los equipos mediante el uso de directivas DLP, casos de exhibición de documentos electrónicos o políticas de supervisión.
   Al preparar el entorno para una implementación de Microsoft Teams, planifica una actualización de Skype for Business a Microsoft Teams evaluando rutas de actualización con modos de coexistencia y actualización, gestionando migraciones de reuniones y configurando la coexistencia y las configuraciones de actualización. Luego planifica y configura la configuración de red para Microsoft Teams, y finalmente implementará y administrará los puntos de conexión de Microsoft Teams.
   Al implementar y administrar equipos, aprenderá cómo crear y administrar equipos, administrar la membresía y el acceso tanto para usuarios internos como externos.
-  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de aplicaciones, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
+  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
   Este curso concluye con la gestión de la comunicación en Microsoft Teams. You will learn how to manage Live event and meetings experiences, manage phone numbers or Phone System for Microsoft Teams and finally how to troubleshoot audio, vídeo, and client issues.
 
   #### Perfil de audiencia
@@ -99,7 +99,7 @@ outlineSection: |-
 
 
   ### Módulo 5&#58; Administrar la colaboración en Microsoft Teams
-  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de aplicaciones, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
+  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
   #### Lecciones
   - Administrar experiencias de chat y colaboración
   - Administrar la configuración de las aplicaciones de Teams
@@ -122,4 +122,5 @@ outlineSection: |-
   #### Laboratorio &#58; Modificar la configuración de comunicación para Teams
   - Configurar políticas de reunión
   - Administrar sistema telefónico para Microsoft Teams
-  - Solucionar problemas de audio, vídeo y problemas del cliente
+  - Solución deproblemas de audio, vídeo y problemas del cliente
+

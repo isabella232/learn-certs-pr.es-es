@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Designing and Providing Microsoft Licensing Solutions to Large Organizations
+metadata:
+  title: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+  description: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+uid: exam.70-705
+displayName: 70-705
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 PM, hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos para este examen son profesionales de ventas que venden soluciones de licencias a grandes empresas. Las organizaciones de esta categoría normalmente tienen 250 dispositivos o usuarios, o más. Los candidatos deben tener al menos seis meses de experiencia vendiendo soluciones de licencias de Microsoft, junto a conocimientos básicos de todas las soluciones de licencias corporativas de Microsoft, incluyendo el Contrato Enterprise, la suscripción del contrato enterprise, Cloud Solution Provider, MPSA, OEM, Open y Open Value.
+
+  Los candidatos también deben tener una comprensión básica de los tipos de productos de Microsoft, como sistemas operativos, aplicaciones de servidor, aplicaciones de escritorio y servicios en línea, y sus respectivos modelos de licencia. Se espera que los candidatos validen su habilidad para definir la solución que mejor se adecue a las necesidades del cliente.
+subTitle: Los candidatos para este examen son profesionales de ventas que venden soluciones de licencias a grandes empresas. Las organizaciones de esta categoría normalmente tienen 250 dispositivos o usuarios, o más. Los candidatos deben tener al menos seis meses de experiencia vendiendo soluciones de licencias de Microsoft, junto a conocimientos básicos de todas las soluciones de licencias corporativas de Microsoft, incluyendo el Contrato Enterprise, la suscripción del contrato enterprise, Cloud Solution Provider, MPSA, OEM, Open y Open Value.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+- ko
+- ru
+- es
+levels:
+- beginner
+skills:
+- Recomendar la solución tecnológica adecuada (60 - 65 %)
+- Recomendar los beneficios de la garantía de software adecuada (10 - 15%)
+- Recomendar una solución de licencia (20 - 25%)
+roles:
+- administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 22 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son Desarrolladores que trabajan con aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 para diseñar, dessarrollar, proteger y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
@@ -19,15 +19,15 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes (CDS); crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, 22 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Crear un diseño técnico (10-15%)
-- Configurar el servicio de datos comunes (CDS) (15-20%)
+- Configurar el servicio de datos comunes (15-20%)
 - Crear y configurar Power Apps (10-15%)
 - Configurar la automatización de procesos comerciales (10-15%)
 - Extender la experiencia del usuario (15-20%)
@@ -54,11 +54,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

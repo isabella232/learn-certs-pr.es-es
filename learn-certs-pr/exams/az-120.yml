@@ -6,14 +6,20 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></div><div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el 20 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  </div>
 
-  Los candidatos para este examen son arquitectos e ingenieros que conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP. Los candidatos hacen recomendaciones sobre los servicios y ajustan los recursos según sea apropiado para una resistencia, rendimiento, escala, provisión, tamaño y monitoreo óptimos.
+  Los candidatos para este examen deben ser arquitectos o ingenieros con amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para la operación a largo plazo de una solución SAP en Microsoft Azure.
 
-  Los arquitectos de Azure para SAP Workloads deben tener una amplia experiencia y conocimiento de aplicaciones SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, servidores OS para aplicaciones y bases de datos SAP, Azure Portal, plantillas ARM, sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, diseño de alta disponibilidad, diseño de recuperación ante desastres, conceptos de protección de datos y redes.
+  Las responsabilidades para un arquitecto o un ingeniero para Azure para cargas de trabajo de SAP incluyen hacer recomendaciones sobre los servicios y ajustar los recursos según corresponda para una resistencia, rendimiento, escala, provisión, tamaño y supervisión óptimos.
 
-  Se recomienda encarecidamente que los candidatos para este examen tengan una certificación de Azure Administrator o Azure Architect, además de las certificaciones de SAP HANA y Linux.
-subTitle: 'Este examen mide su capacidad para cumplir las siguientes tareas técnicas: Migrar SAP Workloads a Azure; diseñar una solución Azure para admitir SAP Workload; compilar e implementar Azure SAP Workloads; validar la infraestructura Azure para SAP Workload; y hacer operativa la arquitectura de Azure SAP.'
+  Los arquitectos o ingenieros de Azure para SAP Workloads se asocian con administradores de nube, DBA de nube y clientes para implementar soluciones.
+
+  Un candidato para este examen debe tener una amplia experiencia y conocimiento de las aplicaciones SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicaciones y bases de datos SAP, Azure portal, plantillas ARM, sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, diseño de alta disponibilidad, diseño de recuperación ante desastres, protección de datos conceptos y redes.
+
+  Para este examen, se recomienda encarecidamente contar con una certificación de Azure Administrator Associate o Azure Solutions Architect Expert, además de las certificaciones SAP HANA y Linux.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: migrar cargas de trabajo de SAP a Azure; diseñar una solución de Azure para admitir cargas de trabajo de SAP; compilar e implementar Azure SAP Workloads; validar la infraestructura de Azure para las cargas de trabajo de SAP; y operacionalizar la arquitectura Azure SAP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -25,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
+- El contenido de este examen se actualizará el, 21 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Migrar SAP Workloads a Azure (10-15%)
 - Diseñar una solución de Azure para admitir cargas de trabajo de SAP (20-25%)
 - Compilar e implementar cargas de trabajo de Azure para SAP (35-40%)
@@ -47,11 +53,11 @@ relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
@@ -62,7 +68,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

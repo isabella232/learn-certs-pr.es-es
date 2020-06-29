@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert'
+  description: 'Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.'
+uid: certification.devops-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+subTitle: Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+levels:
+- advanced
+skills:
+- Diseñar una estrategia DevOps
+- Implementar procesos de desarrollo DevOps
+- Implementar integración continua
+- Implementar entrega continua
+- Implementar la gestión de dependencias
+- Implementar infraestructura de aplicaciones
+- Implementar retroalimentación continua
+roles:
+- devops-engineer
+type: role-based
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+courses:
+- uid: course.az-400t00
+prerequisites:
+- uid: certification.azure-administrator
+  isOptional: false
+- uid: certification.azure-developer
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
+exams:
+- uid: exam.az-400
+resources:
+- title: Póster de certificaciones de Azure
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación como ingeniero experto de DevOps y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

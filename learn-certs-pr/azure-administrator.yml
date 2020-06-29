@@ -2,14 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Azure Los administradores implementan, supervisan y mantienen las soluciones de Microsoft Azure, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.'
+  description: 'Los administradores de Azure implementan, administran y supervisan el entorno de Microsoft Azure de una organización.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
 
-  Azure Los administradores implementan, supervisan y mantienen las soluciones de Microsoft Azure, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
-subTitle: Azure Los administradores implementan, supervisan y mantienen las soluciones de Microsoft Azure, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
+  Los candidatos a la certificación de Asociado Administrador de Azure deben tener experiencia en la materia, implementar, administrar y supervisar el entorno Microsoft Azure de una organización.
+
+  Las responsabilidades para este rol incluyen implementar, administrar y supervisar la identidad, gobernanza, almacenamiento, procesos y redes virtuales en un entorno de nube, más provisión, tamaño, supervisión y ajuste de recursos, cuando sea necesario.
+
+  Un administrador de Azure a menudo sirve como parte de un equipo más grande dedicado a implementar la infraestructura en la nube de su organización.
+
+  Un candidato para esta certificación debe tener al menos seis meses de experiencia práctica en la administración de Azure, junto con una sólida comprensión de los servicios centrales de Azure, las cargas de trabajo de Azure, la seguridad y el gobierno. Además, este rol debe tener experiencia en el uso de PowerShell, la CLI de Azure, el portal de Azure y las plantillas de Azure Resource Manager.
+subTitle: Los administradores de Azure implementan, administran y supervisan el entorno de Microsoft Azure de una organización.
 levels:
 - intermediate
 skills:
@@ -29,28 +35,27 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Póster de certificaciones de Azure
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

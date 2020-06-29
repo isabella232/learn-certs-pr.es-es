@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 1 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 13 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son usuarios que aspiran a mejorar la productividad mediante la automatización de los procesos comerciales, el análisis de datos para producir información comercial y la actuación más eficaz mediante la creación de experiencias de aplicaciones simples.
-
-  Este examen cubre los siguientes&#58; describir los componentes de Power Platform&#58; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), conectores y generador de IA; describir escenarios de nube cruzada con representación en Microsoft 365, Dynamics 365, Microsoft Azure y servicios de terceros; identificar beneficios y capacidades de Power Platform; identificar la funcionalidad básica y el valor comercial de los componentes de Power Platform; implementar soluciones simples con Microsoft Automate, Power BI y AI Builder; y crear una aplicación básica en un entorno sin código.
+  Los candidatos para este examen son usuarios que aspiran a mejorar la productividad al comprender las capacidades de Power Platform, automatizar los procesos comerciales básicos con Power Automate, realizar análisis de datos básicos con Power BI para generar información comercial, actuar de manera más efectiva mediante la creación de la aplicación de lienzo Power Apps simple experiencias y creando chatbots potentes sin usar código.
 subTitle: Este examen mide su capacidad para comprender el valor comercial de Power Platform; comprender los componentes centrales de Power Platform; demostrar el valor comercial de Power BI; y demostrar el valor comercial de Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -20,19 +18,22 @@ practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_me
 locales:
 - en
 providers:
-- providerType: pearson-vue
-  examUrl: 'https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer   
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizará el 1 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
-- Comprender el valor comercial de Power Platform (20-25%)
-- Comprender los componentes principales de Power Platform (20-25%)
-- Demostrar el valor comercial de Power BI (15-20%)
-- Demostrar el valor comercial de Power Apps (20-25%)
-- Demostrar el valor comercial de Power Automate (15-20%)
+- El contenido de este examen se actualizará el, 13 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- Describir el valor comercial de Power Platform (20-25%)
+- Identificar los componentes principales de Power Platform (15-20%)
+- Describir el valor comercial de Power BI (10-15%)
+- Describir el valor comercial de Power Apps (15-20%)
+- Describir el valor comercial de Power Automate (15-20%)
+- Demostrar el valor comercial de los agentes virtuales de energía (10-15%)
 roles:
 - developer
 products:
@@ -48,11 +49,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
@@ -63,7 +64,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

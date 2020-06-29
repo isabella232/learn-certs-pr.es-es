@@ -8,7 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el de abril de 2017 Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 10 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
   </div>
 
   Este examen cubrirá el posicionamiento y los beneficios de adoptar Dynamics 365.
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizó el de abril de 2017 Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.
+- El contenido de este examen se actualizará el, 10 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Identificar componentes de la plataforma Microsoft para Dynamics 365 (30-35%)
 - Describir la inteligencia artificial y la realidad mixta en Dynamics 365 (10-15%)
 - Describir aplicaciones basadas en modelos (25-30%)
@@ -49,11 +49,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para exámenes de certificación
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
@@ -61,7 +61,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

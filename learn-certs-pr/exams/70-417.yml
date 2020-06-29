@@ -1,0 +1,88 @@
+### YamlMime:Examination
+title: Upgrading Your Skills to MCSA Windows Server 2012
+metadata:
+  title: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+  description: 'Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012'
+uid: exam.70-417
+displayName: 70-417
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 PM, hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Este examen está dirigido a los profesionales de TI que desean validar las habilidades y los conocimientos necesarios para implementar los servicios de infraestructura básicos de Windows Server 2012. Los candidatos deben haber obtenido previamente la certificación de Windows Server 2008, Windows Server 2003, Windows Server 2000 o Windows XP&#58;
+  - MCSA&#58; Windows Server 2008
+  - MCITP&#58; Server Administrator on Windows Server 2008
+  - MCITP&#58; Enterprise Administrator on Windows Server 2008
+  - MCITP&#58; Virtualization Administrator on Windows Server 2008 R2
+  - MCITP&#58; Enterprise Messaging Administrator 2010
+  - MCITP&#58; Lync Server Administrator 2010
+  - MCITP&#58; SharePoint Administrator 2010
+  - MCITP&#58; Enterprise Desktop Administrator on Windows 7
+  - MCITP&#58; Windows XP
+  - MCSE&#58; Windows 2000
+  - MCSA Windows 2000
+  - MCSA&#58; Security on Windows 2000
+  - MCSA&#58; Security on Windows 2003
+  - MCSA&#58; Windows Server 2003
+  - MCSE&#58; Security on Windows 2000
+  - MCSE&#58; Security on Windows 2003
+  - MCSE&#58; Windows Server 2003
+  - MCSA&#58; Messaging on Windows Server 2000
+  - MCSA&#58; Messaging on Windows Server 2003
+  - MCSE&#58; Messaging on Windows Server 2000
+  - MCSE&#58; Messaging on Windows Server 2003
+
+  <div style='font-weight&#58; bold;'><br/>Este examen se ha actualizado para incluir las actualizaciones tecnológicas recientes en Windows Server 2012 R2 y System Center 2012 R2. Para obtener más información, puede revisar los documentos de la página de información de los exámenes <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, y <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
+subTitle: 'Este examen está dirigido a los profesionales de TI que desean validar las habilidades y los conocimientos necesarios para implementar los servicios de infraestructura básicos de Windows Server 2012. Los candidatos deben haber obtenido previamente la certificación de Windows Server 2008, Windows Server 2003, Windows Server 2000 o Windows XP:'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
+practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Instalar y configurar servidores
+- Configuración de los roles y las funciones del servidor
+- Configurar Hyper-V
+- Instalación y administración de Active Directory
+- Implementación, gestión y mantenimiento de servidores
+- Configuración del acceso y los servicios de red
+- Configuración de una Server Infrastructure de directivas de redes
+- Configuración y administración de Active Directory
+- Configuración y administración de la directiva de grupo
+- Configuración y administración de la alta disponibilidad
+- Configuración de soluciones de archivos y almacenamiento
+- Implementación de la continuidad empresarial y la recuperación ante desastres
+- Configuración de los servicios de red
+- Configuración de soluciones de protección de información y acceso
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20417
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

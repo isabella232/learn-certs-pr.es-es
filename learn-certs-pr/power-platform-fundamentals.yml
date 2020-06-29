@@ -1,21 +1,24 @@
-﻿### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación simple de Power Apps, conectando fuentes de datos, automatizando procesos comerciales básicos con Power Automate, creando un panel de control de Power BI y creando potentes chatbots con Agentes virtuales de poder.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
-subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación básica de Power Apps, la conexión de fuentes de datos, la automatización con Microsoft Automate y la creación de un panel de control de Power BI.
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación simple de Power Apps, conectando fuentes de datos, automatizando procesos comerciales básicos con Power Automate, creando un panel de control de Power BI y creando potentes chatbots con Agentes virtuales de poder.
+subTitle: Demuestre que comprende las capacidades centrales de la plataforma Power, desde el valor comercial y las capacidades del producto central hasta la construcción de una aplicación simple de Power Apps, conectando fuentes de datos, automatizando procesos comerciales básicos con Power Automate, creando un panel de control de Power BI y creando potentes chatbots con Agentes virtuales de poder.
 levels:
 - beginner
 skills:
-- Comprender el valor comercial de Power Platform
-- Comprender los componentes principales de Power Platform
-- Demostrar el valor comercial de Power BI
-- Demostrar el valor comercial de Power Apps
-- Demostrar el valor comercial de Power Automate
+- Describir el valor comercial de Power Platform
+- Identificar los componentes principales de Power Platform
+- Describir el valor comercial de Power BI
+- Describir el valor comercial de Power Apps
+- Describir el valor comercial de Power Automate
+- Demostrar el valor comercial de los agentes virtuales de energía
 roles:
 - business-user
 - functional-consultant
@@ -33,11 +36,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
@@ -48,3 +51,4 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

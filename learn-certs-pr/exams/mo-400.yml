@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  El examen cubre la capacidad de mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Outlook y completen las tareas de forma independiente.
+subTitle: Este examen mide la competencia para personalizar el contenido del mensaje del formato de la interfaz de usuario de Outlook, crear o insertar elementos gráficos y enviar y responder correos electrónicos y solicitudes de reunión. El examen cubre la capacidad de mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Administrar la configuración y los procesos de Outlook (15-20%)
+- Administrar mensajes (30-35%)
+- Administrar programas (30-35%)
+- Administrar contactos y tareas (15-20%)
+roles:
+- business-user
+products:
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md
+

@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Designing and Implementing an Azure AI Solution
 metadata:
   title: 'Exam AI-100: Designing and Implementing an Azure AI Solution'
@@ -6,18 +6,22 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  Los candidatos para este examen analizan los requisitos para las soluciones AI, recomiendan las herramientas y tecnologías adecuadas, e implementan soluciones que cumplen con los requisitos de escabilidad y rendimiento.
-  <br/>
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el miércoles, 20 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  </div>
 
-  Los candidatos traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores AI para crear soluciones completas de extremo a extremo. Los candidatos diseñan e implementan aplicaciones AI y agentes que utilizan servicios cognitivos de Microsoft Azure y Azure Bot Service. Los candidatos pueden recomendar soluciones que utilizan tecnologías de código abierto.
+  Los candidatos para este examen deben tener experiencia en la materia utilizando servicios cognitivos, aprendizaje automático y minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft que involucren procesamiento de lenguaje natural, habla, visión por ordenador e inteligencia artificial conversacional.
 
-  Los candidatos entienden los componentes que forman parte de la cartera de Azure AI y las opciones de almacenamiento de datos disponibles.
+  Las responsabilidades de un ingeniero de IA de Azure incluyen analizar los requisitos para las soluciones de IA, recomendar las herramientas y tecnologías apropiadas y diseñar e implementar soluciones de IA que cumplan con los requisitos de escalabilidad y rendimiento.
 
-  Los candidatos implementan soluciones AI que usan servicios cognitivos, bots de Azure, Azure Search y almacenamiento de datos en Azure. Los candidatos comprenden cuando una API personalizada se debe desarrollar para cumplir con requisitos específicos.
+  Los Azure AI ingenieros traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores software para crear soluciones completas de extremo a extremo.
+
+  Un candidato para este examen debe tener conocimiento y experiencia en el diseño e implementación de aplicaciones y agentes de inteligencia artificial que utilicen los Servicios cognitivos de Microsoft Azure, Azure Bot Service, Azure Cognitive Search y el almacenamiento de datos en Azure. Además, un candidato debe poder recomendar soluciones que usen tecnologías de código abierto, comprender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles, y comprender cuándo se debe desarrollar una API personalizada para cumplir requisitos específicos.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: analizar los requisitos de solución; formular las soluciones; integrar los modelos AI en soluciones; e implementar y gestionar soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -26,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
+- El contenido de este examen se actualizó el miércoles, 20 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Analizar los requisitos de la solución (25-30%)
 - Diseñar soluciones AI (40-45%)
 - Implementar y monitorear soluciones AI (25-30%)
@@ -50,11 +54,14 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Journey to certification
+  description: Explore los pasos para obtener la certificación como ingeniero asociado de Azure AI y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
@@ -65,9 +72,10 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

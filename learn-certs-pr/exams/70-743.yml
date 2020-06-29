@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: exam.70-743
+displayName: 70-743
+summary: |-
+  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 PM, hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  </div>
+
+  Los candidatos a este examen son profesionales de las IT que implementa los servicios de infraestructura básicos de Windows Server 2016.
+
+  Los candidatos ya han obtenido un MCSA&#58; Windows Server 2008 o MCSA&#58; Certificación de Windows Server 2012 R2. Este examen incluye aspectos clave de la instalación, el almacenamiento, el procesamiento, la conexión en red y las funciones de identidad disponibles en Windows Server 2016.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Hay actualizaciones del examen en vigor a partir del viernes, 2 de noviembre de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 743.</div>
+subTitle: Los candidatos a este examen son profesionales de las IT que implementa los servicios de infraestructura básicos de Windows Server 2016.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
+practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Instalación de servidores Windows en entornos informáticos y de host
+- Implementación de soluciones de almacenamiento
+- Implementar Hyper-V
+- Implementación de contenedores de Windows
+- Implementación de alta disponibilidad
+- Implementación del Domain Name System (DNS)
+- Implementación de soluciones de conectividad de red y acceso remoto
+- Implementación de una infraestructura de red avanzada
+- Instalación y configuración de los Active Directory Domain Services (AD CS)
+- Implementar soluciones de acceso y federación de identidad.
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20743
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Outlook 2013
+metadata:
+  title: 'Exam 77-423: Outlook 2013'
+  description: 'Exam 77-423: Outlook 2013'
+uid: exam.77-423
+displayName: 77-423
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos pueden dar formato al contenido del mensaje de correo electrónico mediante funciones de formato de caracteres y de párrafo, crear o insertar elementos gráficos, como gráficos, tablas y gráficos SmartArt, en los mensajes. También pueden enviar mensajes a destinatarios privados mediante el campo Cco. Los candidatos pueden crear registros de contactos, tareas y citas a partir de los mensajes entrantes y configurar grupos de contacto para facilitar la comunicación con otros usuarios de Outlook. Pueden compartir información de programación con otros usuarios de Outlook. Los candidatos programan reuniones en las que intervienen personas y recursos del sistema, y delegan tareas en otras personas. Los usuarios principales personalizan la ventana de programa de Outlook y la barra de herramientas de acceso rápido para maximizar su eficacia. Organizan los mensajes y otros elementos de Outlook, y muestran diferentes vistas de carpetas de correo y del calendario, de la libreta de direcciones y de la lista de tareas. También pueden mostrar varios calendarios y compartir calendarios con otros usuarios de Outlook.
+subTitle: Los candidatos pueden dar formato al contenido del mensaje de correo electrónico mediante funciones de formato de caracteres y de párrafo, crear o insertar elementos gráficos, como gráficos, tablas y gráficos SmartArt, en los mensajes. También pueden enviar mensajes a destinatarios privados mediante el campo Cco. Los candidatos pueden crear registros de contactos, tareas y citas a partir de los mensajes entrantes y configurar grupos de contacto para facilitar la comunicación con otros usuarios de Outlook. Pueden compartir información de programación con otros usuarios de Outlook. Los candidatos programan reuniones en las que intervienen personas y recursos del sistema, y delegan tareas en otras personas. Los usuarios principales personalizan la ventana de programa de Outlook y la barra de herramientas de acceso rápido para maximizar su eficacia. Organizan los mensajes y otros elementos de Outlook, y muestran diferentes vistas de carpetas de correo y del calendario, de la libreta de direcciones y de la lista de tareas. También pueden mostrar varios calendarios y compartir calendarios con otros usuarios de Outlook.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-423&examname=Outlook%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-423
+locales:
+- en
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nb
+- nl
+levels:
+- beginner
+skills:
+- Administrar el entorno Outlook (25-30%)
+- Administrar mensajes (25-30%)
+- Administrar programas (30-35%)
+- Administración de contactos y grupos (15-20%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

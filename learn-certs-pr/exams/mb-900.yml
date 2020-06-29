@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAMEN SE RETIRÓ EL martes, 31 de diciembre de 2019. Nota: Todo el contenido está en inglés a menos que se indique lo contrario</div>
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>ESTE EXAMEN RETIRÓ EL 31 DE DICIEMBRE DE 2019. Un examen de reemplazo, MB-901, está disponible. Para obtener más información, visite la <a href="/learn/certifications/exams/mb-901">página de detalles del examen MB-901</a>.</div>
   <br/>
+  </div>
   Este examen está diseñado para candidatos que buscan demostrar conocimientos básicos de Microsoft Dynamics 365, aplicaciones de Power Platform y el modelo de computación en la nube. Este examen cubrirá las consideraciones y beneficios de adoptar Dynamics 365, la Power Platform y los servicios en la nube en general. Este examen puede tomarse como un precursor de las certificaciones y capacitación de Dynamics 365.
 
   Los candidatos para este examen deben tener conocimientos generales o experiencia laboral relevante en un entorno de tecnología de la información (IT). Los candidatos también deben tener una comprensión básica de los escenarios de negocios y experiencia en el cumplimiento de los requisitos comerciales, legales y de seguridad para proyectos de IT.
@@ -21,13 +24,13 @@ locales:
 levels:
 - beginner
 skills:
-- Comprender Dynamics 365 (40-45 %)
-- Comprender los conceptos de la nube (25-30 %)
-- Comprender implementaciones y lanzamientos (20-25 %)
-retirementDate: 31/12/2019
+- Comprender Dynamics 365 (40 - 45 %)
+- Comprender los conceptos de la nube (25 - 30 %)
+- Comprender implementaciones y lanzamientos (20 - 25 %)
+retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -44,17 +47,18 @@ resources:
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para exámenes de certificación
-  description: Obtener ayuda mediante Foros de soporte técnico de Microsoft Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar adaptaciones
-  description: Obtenga más información sobre cómo solicitar una adaptación para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md
+

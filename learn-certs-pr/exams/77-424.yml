@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Access 2013
+metadata:
+  title: 'Exam 77-424: Access 2013'
+  description: 'Exam 77-424: Access 2013'
+uid: exam.77-424
+displayName: 77-424
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Este examen está diseñado para candidatos que tengan conocimientos básicos sobre el entorno de Access 2013 y que sean capaces de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Access 2013.
+subTitle: Este examen está diseñado para candidatos que tengan conocimientos básicos sobre el entorno de Access 2013 y que sean capaces de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Access 2013.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-424&examname=Access%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-424
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- ja
+- ko
+- nl
+levels:
+- beginner
+skills:
+- Crear y administrar una base de datos (20-25 %)
+- Crear tablas (25-30 %)
+- Crear consultas (15-20%)
+- Crear formularios (15-20 %)
+- Crear informes (15-20 %)
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: ../certification-exam-policies.md
+

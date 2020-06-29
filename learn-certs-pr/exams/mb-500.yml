@@ -8,10 +8,10 @@ displayName: MB-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 22 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 para implementar y amplíiar aplicaciones para cumplir con los requisitos del negocio. Los candidatos deben brindar soluciones completamente realizadas al usar patrones de códigos de aplicaciones estandarizadas, funciones extensibles e integraciones externas.
+  Los candidatos para este examen son desarrolladores que trabajan con aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 para implementar y amplíiar aplicaciones para cumplir con los requisitos del negocio. Los candidatos proporcionan soluciones totalmente realizadas mediante el uso de patrones de codificación de aplicaciones estandarizadas, características extensibles e integraciones externas.
 
   Los candidatos son responsables de desarrollar lógica comercial al usar X++, crer y modificar informes y espacios de trabajo en Finanzas y Operaciones, personalizar interfaces de usuario, brindar criterios de valoración y API para aceptar las aplicaciones de Power Platform y sistemas externos, realizando pruebas, supervisando el rendimiento, analizando y manejando datos, creando diseños técnicos y detalles de implementación e implementando políticas de permisos y requisitos de seguridad.
 
@@ -31,14 +31,14 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 22 de mayo de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, 22 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Plan de Arquitectura y Diseño de Soluciones (10-15%)
 - Aplicar herramientas de desarrollador (10-15%)
 - Diseñar y desarrollar elementos AOT (20-25%)
 - Desarrollar y probar el código (10-15%)
 - Implementar informes (10-15%)
 - Integrar y gestionar soluciones de datos (10-15%)
-- Implementar la seguridad y optimizar el rendimiento (10-15%)
+- Implementar la seguridad y optimizar el rendimiento (10 -15%)
 roles:
 - developer
 products:
@@ -61,11 +61,11 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

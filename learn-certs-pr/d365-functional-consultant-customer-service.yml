@@ -2,24 +2,27 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+  description: 'Las soluciones CX de Microsoft Dynamics 365 Customer Service Functional Consultants son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
-subTitle: Las soluciones CX de Microsoft Dynamics 365 para consultores funcionales de servicio al cliente son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Las soluciones CX de Microsoft Dynamics 365 Customer Service Functional Consultants son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+subTitle: Las soluciones CX de Microsoft Dynamics 365 Customer Service Functional Consultants son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
 levels:
 - intermediate
 skills:
 - Realizar Descubrimiento, Planificación y Análisis
 - Administrar el diseño de la experiencia del usuario
 - Administrar entidades y datos
-- Implementación de medidas de seguridad
+- Implementar seguridad
 - Implementar integración
 - Realizar implementación y pruebas de soluciones
 - Realizar configuración
-- Administrar los casos y la base de conocimientos.
+- Administrar los casos y la base de conocimientos
 - Administrar colas, derechos y SLAs
-- Configurar la voz del cliente.
+- configurar formularios Pro
 roles:
 - functional-consultant
 type: role-based
@@ -55,15 +58,16 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetición de examen
+- title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

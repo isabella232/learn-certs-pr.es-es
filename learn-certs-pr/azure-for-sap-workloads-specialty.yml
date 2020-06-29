@@ -2,18 +2,25 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
+  description: Los arquitectos o ingenieros de Microsoft Azure para SAP Workloads tienen una amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para la operación a largo plazo de una solución SAP en Azure.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
-subTitle: Los arquitectos de Azure for SAP Workloads tienen amplia experiencia y conocen el proceso de SAP Landscape Certification y los estándares de la industria que son específicos para la operación a largo plazo de una solución de SAP.
+  Los candidatos para la certificación Azure for SAP Workloads Specialty deben ser arquitectos o ingenieros con amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para el funcionamiento a largo plazo de una solución SAP en Microsoft Azure.
+
+  Las responsabilidades para este rol incluyen hacer recomendaciones sobre los servicios y ajustar los recursos según sea apropiado para una resistencia, rendimiento, escala, provisión, tamaño y supervisión óptimos.
+
+  Los arquitectos o ingenieros de Azure para SAP Workloads se asocian con administradores de nube, DBA de nube y clientes para implementar soluciones.
+
+  Un candidato para esta certificación debe tener una amplia experiencia y conocimiento de las aplicaciones SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicaciones y bases de datos SAP, Azure portal, plantillas ARM, sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento, diseño de alta disponibilidad, diseño de recuperación ante desastres, protección de datos conceptos y redes.
+
+  Para este rol, es muy recomendable contar con una certificación de Azure Administrator Associate o Azure Solutions Architect Expert, además de las certificaciones SAP HANA y Linux.
+subTitle: Los arquitectos o ingenieros de Microsoft Azure para SAP Workloads tienen una amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para la operación a largo plazo de una solución SAP en Azure.
 levels:
 - advanced
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
 - Migrar SAP Workloads a Azure
 - Diseñar una solución de Azure para admitir cargas de trabajo de SAP
 - Compilar e implementar cargas de trabajo de Azure para SAP
@@ -36,11 +43,14 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2
 exams:
 - uid: exam.az-120
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Azure certifications poster
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

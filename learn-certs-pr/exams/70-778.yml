@@ -14,7 +14,7 @@ summary: |-
 subTitle: Los candidatos para este examen deben conocer cómo usar Power BI para realizar análisis de datos. Los candidatos deben ser competentes en conectar fuentes de datos y realizar transformaciones de datos, modelar y visualizar datos usando Microsoft Power BI Desktop y configurar los tableros usando el servicio Power BI. Los candidatos también deben ser competentes en implementar la conectividad directa en Microsoft SQL Azure y SQL Server Analysis Services (SSAS), e implementar análisis de datos en Microsoft Excel. Los candidatos incluyen a profesionales BI, analistas de datos y otros roles responsables de crear informes usando Power BI.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
 locales:
 - en
 levels:

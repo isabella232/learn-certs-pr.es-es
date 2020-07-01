@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este examen está dirigido a para profesionales de bases de datos que diseñan y crean soluciones de bases de datos en la empresa. Entre sus responsabilidades, se incluyen la creación de planes y diseños de estructura de bases de datos, almacenamiento, objetos y servidores de bases de datos. También se ocupan de planificar el entorno de ejecución de la solución de base de datos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn

@@ -14,7 +14,6 @@ summary: |-
 subTitle: Los candidatos para el examen Microsoft SharePoint 2013 deben tener una comprensión sólida del entorno de SharePoint y la capacidad de realizar todas las tareas de nivel de sitio. Deben conocer y demostrar la aplicación correcta de las funciones principales de sitios, bibliotecas y listas de SharePoint 2013. Los candidatos deben poder optimizar y personalizar los sitios de SharePoint para proporcionar estructura, solucionar problemas, facilitar la colaboración y mejorar la productividad. Los ejemplos de la aplicación incluyen la administración de permisos de lista, agregación de contenido al inicio rápido, creación de sitios de grupo y modificación de las vistas de la biblioteca. Los roles de los candidatos pueden incluir personal de soporte técnico, jefes de proyecto, jefes de equipo, jefes de departamento y otros.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
 locales:
 - en
 levels:

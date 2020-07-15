@@ -8,12 +8,12 @@ displayName: MB-210
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 1 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, miércoles, 1 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son consultores funcionales Dynamics 365 con experiencia en ventas. Los candidatos son responsables de implementar soluciones que aceptan un ciclo de vida de ventas para ejecutar de manera efectiva y eficiente a fin de cumplir con los objetivos de ganancias, estrategias de negocios y objetivos empresariales.
 
-  Los candidatos son responsables de configurar y expandir la funcionalidad central de los prospectos de ventas, contactos, cuentas, oportunidades y aceptar entes para relacionar con los procesos de ventas implementados en la empresa. Los candidatos identifican oportunidades para usar Power Apps para desarrollar experiencias unificadas para todos los dispositivos, Power Automate para integración de aplicaciones, flujos de procesos comerciales, y otras herramientas de automatización para crear una aplicación que sea compatible y acelere el "trayecto de prospectos de venta a efectivo".
+  Los candidatos son responsables de configurar y expandir la funcionalidad central de los prospectos de ventas, contactos, cuentas, oportunidades y aceptar entes para relacionar con los procesos de ventas implementados en la empresa. Los candidatos identifican oportunidades para usar PowerApps para desarrollar experiencias unificadas para todos los dispositivos, Power Automate para integración de aplicaciones, flujos de procesos comerciales, y otras herramientas de automatización para crear una aplicación que sea compatible y acelere el "trayecto de prospectos de venta a efectivo".
 
   Los candidatos deben contar con un fuerte conocimiento empresarial y preferentemente experiencia personal en el mundo de ventas en uno o más roles de ventas.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la configuración, administrar entidades de ventas principales y administrar entidades de ventas.'
@@ -25,10 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el, 1 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
-- Realizar configuración (40 - 45 %)
-- Administrar entidades de ventas centrales (20 - 25 %)
-- Administrar entidades de ventas (35 - 40 %)
+- El contenido de este examen se actualizó el, miércoles, 1 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Realizar configuración (40-45%)
+- Gestionar entes de ventas centrales (20-25%)
+- Administrar entidades de ventas (35-40%)
 roles:
 - functional-consultant
 products:
@@ -52,7 +52,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cartel de certificación
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -64,7 +64,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Solicitar alojamiento
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

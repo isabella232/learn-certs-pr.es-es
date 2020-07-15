@@ -32,18 +32,21 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: Póster de certificaciones de Azure
+- title: Azure certifications poster
   description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cartel de certificación
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

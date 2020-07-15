@@ -23,12 +23,12 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
@@ -58,7 +61,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cartel de certificación
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para exámenes de certificación
@@ -67,7 +70,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Solicitar alojamiento
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

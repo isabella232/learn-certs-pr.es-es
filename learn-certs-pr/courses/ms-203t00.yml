@@ -1,0 +1,340 @@
+### YamlMime:Course
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Course MS-203T00-A: Microsoft 365 Messaging'
+  description: 'Course MS-203T00-A: Microsoft 365 Messaging'
+uid: course.ms-203t00
+courseNumber: 'MS-203T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar y administrar la canalización de transporte.
+- skill: Administrar y solucionar problemas de flujo de correo y transporte
+- skill: Gestionar la higiene y el cumplimiento de los mensajes
+- skill: Administrar la autenticación para mensajería
+- skill: Configurar ajustes organizacionales y permisos para compartir
+- skill: Administrar dispositivos móviles
+- skill: Administrar permisos basados en roles
+- skill: Crear y administrar objetos y recursos del destinatario
+- skill: Planificar, implementar y solucionar problemas de carpetas públicas
+- skill: Planificar un entorno híbrido
+- skill: Realizar migraciones de buzones
+- skill: Implementar y solucionar problemas de un entorno híbrido
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-203
+summary: |-
+  Este curso examina los elementos clave de la administración de mensajes de Microsoft 365, incluidos el transporte de mensajes y el flujo de correo, la seguridad, la higiene y el cumplimiento de los mensajes, la infraestructura de mensajes y los mensajes híbridos. Este curso está diseñado para profesionales de TI que implementan y administran la infraestructura de mensajería para Microsoft 365 en su organización.
+
+  #### Perfil de audiencia
+  El administrador de mensajería implementa, configura, administra y soluciona problemas de destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas en entornos empresariales locales y en la nube. Las responsabilidades incluyen la gestión de la higiene de mensajes, la infraestructura de mensajería y la configuración y migración híbridas. Para implementar una topología híbrida segura que satisfaga las necesidades comerciales de una organización moderna, el administrador de mensajería debe colaborar con el administrador de seguridad y el administrador de Microsoft 365 Enterprise. El Messaging Administrator debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
+prerequisitesSection: |-
+  Este curso está diseñado para personas que aspiran a la función de administrador de mensajería de Microsoft 365.
+outlineSection: |-
+  ### Módulo 1&#58; Administrar la canalización de transporte
+  En este módulo, aprenderá sobre los diferentes componentes de transporte de Exchange, cómo funciona el enrutamiento de mensajes y cómo configurar el flujo de mensajes para su organización. Examinará las tareas que los administradores de mensajería deben completar para configurar el transporte de mensajes. Revisará las opciones de transporte de mensajes y aprenderá cómo configurar dominios y conectores y cómo implementar un flujo de trabajo de aprobación para la mensajería. También aprenderá a administrar las reglas de transporte, que son una configuración muy poderosa para controlar el flujo de mensajes en su organización. 
+  #### Lecciones
+  - Descripción general de los servicios de transporte
+  - Configuración del transporte de mensajes
+  - Gestión de reglas de transporte
+  
+
+  #### Laboratorio&#58; Configurar el transporte de mensajes
+  - Crear conectores
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los componentes de transporte de Exchange.
+  - Planificar un enrutamiento de mensajes efectivo para su organización
+  - Modificar el flujo de mensajes para su organización
+  - Describir qué agentes de transporte existen y qué hacen
+  - Configurar las diferentes opciones de transporte
+  - Planificar y configurar dominios para sus organizaciones
+  - Comprender cómo funcionan los conectores de recepción y envío
+  - Describir cómo funciona la moderación de mensajes para diferentes destinatarios
+  - Comprender qué son las reglas de transporte
+  - Describir cómo funcionan las reglas de transporte
+  - Configurar reglas de transporte personalizadas
+  - Describir cómo se pueden usar las reglas de transporte para la prevención de pérdida de datos
+
+
+  ### Módulo 2&#58; Administrar y solucionar problemas de flujo de correo
+  En este módulo, examinará los componentes del flujo de correo y aprenderá a administrar su flujo de correo, que es una tarea crucial para cada administrador de Exchange. Estudiará las diferencias entre la administración del flujo de correo en las implementaciones de Exchange Online, Exchange Server e Exchange Hybrid. Desde la administración del flujo de correo, pasará a la solución de problemas de flujo de correo, como los correos electrónicos que no se enrutan correctamente dentro o fuera de su organización, o cuando las conexiones seguras no se pueden establecer con éxito. Aprenderá sobre las herramientas que proporciona Microsoft para ayudarle a encontrar la causa raíz de sus problemas y corregir su flujo de correo. Luego pasará de la resolución de problemas del flujo de correo a la resolución de problemas de transporte, como problemas de red, problemas de conector y agente, y problemas de arquitectura, así como cómo solucionar problemas en coexistencia. Finalmente, aprenderá a verificar eventos, protocolos y registros de seguimiento cuando haya finalizado la resolución de problemas de disponibilidad del servicio y transporte de mensajes y aún persista un problema, o si debe encontrar datos históricos sobre incidencias en el pasado.
+  #### Lecciones
+  - Administrar el flujo de correo
+  - Solucionar problemas de flujo de correo
+  - Solucionar problemas de transporte
+  - Solucionar problemas con los registros
+
+
+  #### Laboratorio&#58; Enrutamiento de correo condicional
+  - Crear reglas de flujo de correo
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar el flujo de correo en las organizaciones
+  - Comprender el flujo de correo para los servidores de Exchange
+  - Administrar el flujo de correo para Exchange Online
+  - Describir y administrar el flujo de correo en entornos híbridos
+  - Comprender cómo solucionar problemas de flujo de correo SMTP
+  - Describir cómo solucionar incidentes con un espacio de nombres compartidos
+  - Describir cómo solucionar problemas de encriptación con TLS
+  - Realizar la resolución de problemas para problemas basados en la red
+  - Describir los procedimientos de solución de problemas para problemas de conector y agente
+  - Planificar la solución de problemas de arquitectura
+  - Comprender cómo realizar la resolución de problemas en coexistencia
+  - Crear búsquedas para el registro de seguimiento de mensajes
+  - Describir cómo solucionar problemas usando los registros de protocolo
+  - Comprender cómo trabajar con el registro de eventos para Exchange
+
+
+  ### Módulo 3&#58; Gestionar la higiene de mensajes
+  En este módulo, aprenderá sobre las características y funcionalidades de Microsoft Exchange Online Protection (EOP). También aprenderá a planificar el enrutamiento de mensajería para este servicio, que proporciona políticas antimalware y antispam que protegen a su organización contra el correo no deseado y el malware y protege a su organización de las infracciones de la política de mensajería. Luego revisará la protección antimalware y antispam que proporcionan Exchange Server y Online Protection, y aprenderá cómo configurar filtros, políticas y configuraciones de SPAM y malware para proporcionar protección a sus usuarios. Concluirá el módulo examinando la protección contra amenazas avanzadas (ATP) y cómo extiende la protección provista por EOP al filtrar los ataques dirigidos que podrían pasar a través de la línea de defensas de EOP, incluidas las amenazas avanzadas como ataques de día cero en archivos adjuntos de correo electrónico y documentos de Office y protección de tiempo de clic contra URL maliciosas. Aprenderá cómo Microsoft 365 ATP protege a los usuarios de amenazas avanzadas a través de características tales como archivos adjuntos seguros y enlaces seguros, y cómo genera informes que brindan a los administradores una visión de los ataques dirigidos a sus inquilinos por correo electrónico.
+  #### Lecciones
+  - Planificación para la higiene de los mensajes
+  - Administrar las directivas de correo electrónico no deseado y antimalware
+  - Gestión de protección avanzada contra amenazas
+
+
+  #### Laboratorio &#58; Administrar higiene de mensajes
+  - Crear filtros de higiene
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar el uso y las características de Exchange Online Protection
+  - Planificar el enrutamiento de mensajes para Exchange Online Protection
+  - Investigue los informes y registros de EOP disponibles
+  - Comprender los diferentes campos de encabezado de mensaje relevantes para la protección contra spam y suplantación de identidad
+  - Configurar filtros antispam y antimalware en Exchange Server
+  - Uso de funciones adicionales para el filtrado de spam saliente y la cuarentena
+  - Implementación de funciones de protección contra phishing y suplantación de identidad
+  - Crear reglas de transporte para requisitos personalizados
+  - Describir las características de protección contra amenazas avanzada
+  - Describir la protección provista por las políticas Safe Attachment y Safe Links
+  - Comprender las características de inteligencia contra la suplantación de identidad
+  - Saber cómo funcionan las políticas anti-phishing de ATP
+
+
+  ### Módulo 4&#58; Gestión de cumplimiento
+  Este módulo comienza describiendo las diferentes características de cumplimiento en el Centro de seguridad y cumplimiento (SCC) que los administradores de mensajería pueden usar para cumplir con los requisitos legales y reglamentarios. Este módulo admite el cumplimiento en Exchange al examinar las características de cumplimiento disponibles en el Centro de administración de Exchange para Exchange Server y las implementaciones híbridas. Debido a los complejos requisitos de retención de los entornos de mensajería modernos, este módulo se centra en cómo se realiza el archivado con Exchange para que pueda proporcionar un entorno eficiente y compatible para sus usuarios. También examinará cómo se proporciona almacenamiento de archivo adicional a sus usuarios, cómo los mensajes se procesan y archivan automáticamente, y cómo audita el registro en Exchange que proporciona información sobre acciones de administrador, delegado y usuario en los buzones de correo de los usuarios y su organización de Exchange. Finalmente, debido a que las organizaciones deben cumplir con los requisitos legales de descubrimiento (relacionados con la política organizacional, el cumplimiento o las demandas), examinará cómo eDiscovery para Microsoft Exchange puede ayudarle a realizar búsquedas de detección de contenido relevante dentro de los buzones.
+  #### Lecciones
+  - Cumplimiento de mensajería en el SCC
+  - Cumplimiento de mensajes en Exchange
+  - Administrar el archivado y la auditoría de Exchange Online
+  - Administrar la búsqueda de contenido
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir diferentes políticas y características de cumplimiento para la mensajería
+  - Evaluar los diferentes roles en el centro de seguridad y cumplimiento
+  - Planificar las políticas de retención para los buzones de Exchange Online
+  - Configurar políticas de prevención de pérdida de datos (DLP) para datos en Microsoft 365
+  - Crear seguimientos de mensajes para comprender el flujo de correo en su organización de Exchange Online
+  - Describir litigios y retenciones en el lugar en Exchange Server
+  - Planificar la retención y eliminación con gestión de registros de mensajes (MRM)
+  - Proteja su flujo de correo con políticas de prevención de pérdida de datos en Exchange Server
+  - Investigue el registro de seguimiento de mensajes en su organización de Exchange
+  - Describir qué es el archivado local y cómo funciona
+  - Comprender las diferencias entre el registro en diario y el archivado
+  - Conocer para qué se utilizan los registros de auditoría del buzón y del administrador
+  - Comprender las búsquedas de contenido para buscar mensajes en su organización
+  - Describir casos de eDiscovery y eDiscovery locales para Exchange
+  - Administrar casos de eDiscovery avanzado en el Centro de seguridad y cumplimiento
+
+
+  ### Módulo 5&#58; Administrar la configuración organizacional
+  Este módulo comienza con un examen sobre cómo administrar la autenticación para la mensajería. Este módulo se enfoca en cómo garantizar que las cuentas de usuario estén bien protegidas y seguras, y cómo implementar múltiples funciones de seguridad que no introduzcan complejidad innecesaria en el trabajo diario de los usuarios, lo que puede resultar en una menor productividad empresarial y nuevos riesgos de seguridad. Luego pasará de la autenticación de mensajería a la configuración de la organización, donde aprenderá cómo configurar las opciones que se aplican a toda la organización o a muchos usuarios de la organización. Finalmente, examinará cómo configurar el intercambio organizacional. 
+  #### Lecciones
+  - Administrar autenticación para mensajería
+  - Configurar ajustes organizacionales
+  - Configurar el uso compartido organizacional
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar opciones de política de contraseña
+  - Configurar la gestión de contraseñas de autoservicio
+  - Implementar autenticación multifactor
+  - Planificar políticas de contraseña
+  - Configurar políticas de carga de trabajo y aceleración
+  - Configurar configuraciones de cuota
+  - Configurar la integración de Exchange Server y Skype for Business
+  - Implementar complementos de Office 365
+  - Proporcionar una descripción general de las características de intercambio de delegación federada de Exchange
+  - Describir componentes de uso compartido federados
+  - Explicar consideraciones para diseñar e implementar fideicomisos y certificados de federación
+  - Implementar relaciones de organización
+  - Implementar políticas de intercambio
+
+
+  ### Módulo 6&#58; Administrar dispositivos móviles
+  En este módulo, comenzará examinando la Administración de dispositivos móviles en Microsoft 365, así como también cómo Exchange ActiveSync y las políticas de buzones de dispositivos móviles respaldan este esfuerzo. Luego examinará cómo administrar y solucionar problemas de acceso a dispositivos móviles. Este módulo luego examina cómo configurar tanto el acceso como la infraestructura para dispositivos móviles, entendiendo las implicaciones del borrado remoto de dispositivos móviles y aprendiendo sobre métodos alternativos para la administración de dispositivos móviles.
+  #### Lecciones
+  - Políticas de buzones de dispositivos móviles
+  - Administrar el acceso a dispositivos móviles
+
+
+  #### Laboratorio&#58; Implementar ActiveSync
+  - Implementar Active Sync para buzones únicos y múltiples
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo funciona Exchange ActiveSync
+  - configurar directivas de buzón de dispositivo móvil
+  - Comprender la administración de dispositivos móviles en Microsoft 365
+  - Configurar el acceso para dispositivos móviles
+  - Comprender los componentes de la infraestructura de dispositivos móviles
+  - Indicar cómo funciona un borrado remoto de dispositivo móvil
+  - Describir alternativas para la gestión de dispositivos móviles
+  - Solucionar problemas de acceso a dispositivos móviles
+
+
+  ### Módulo 7&#58; Administrar permisos basados en roles
+  Este módulo examina cómo los administradores de mensajería administran los permisos basados en roles, que es una tarea esencial para cualquier administrador de mensajería. Dado que Exchange Server y Exchange Online utilizan el modelo de permiso de Control de acceso basado en roles (RBAC), este módulo examina los conceptos básicos de la administración de RBAC. El módulo concluye examinando cómo un administrador de mensajería debe planificar y configurar los permisos cuidadosamente para no poner en riesgo su entorno o su Active Directory completo. 
+  #### Lecciones
+  - Administrar roles de administrador
+  - Administrar roles de usuario
+  - Configuración de Exchange - Permiso dividido RBAC y AD
+
+  #### Laboratorio&#58; Administrar roles y políticas de permisos
+  - Administrar roles y políticas de permisos
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo se usa RBAC para asignar roles a los usuarios
+  - Comprender qué grupo de roles de gestión son las tareas administrativas
+  - Asignar los roles de administración incorporados para la administración
+  - Crear roles de administración personalizados y asignarlos mediante políticas de asignación de roles a los usuarios
+  - Solucionar problemas de roles de administración de RBAC
+  - Describir las funciones integradas del usuario final
+  - Configurar políticas de asignación de roles
+  - Crear nuevos roles personalizados y políticas de asignación de roles
+  - Comprender las diferencias entre los permisos compartidos y los permisos divididos
+  - Describir permisos de bosques múltiples
+  - Identificar las diferencias entre los modelos de permisos
+
+
+  ### Módulo 8&#58; Gestionar objetos y recursos del destinatario
+  Este módulo examina algunas de las tareas más comunes que realizan los administradores de mensajería&#58; crear y configurar destinatarios, listas y recursos de correo electrónico. Este módulo examina los diferentes tipos de destinatarios de Exchange Server, incluida la diferencia entre ellos. Luego, el módulo se centra en las diversas tareas que requieren que cree y administre destinatarios de Exchange en Exchange, incluidos los buzones de usuario, los buzones de recursos, los buzones compartidos, los contactos de correo y los usuarios de correo. También aprenderá cómo administrar los permisos para los destinatarios y cómo crear y administrar grupos. 
+  #### Lecciones
+  - Destinatarios del intercambio
+  - Crear y administrar destinatarios de Exchange
+  - Gestionar direcciones de correo electrónico, listas y recursos
+
+  #### Laboratorio&#58; Crear objetos y recursos de destinatarios
+  - Crear destinatarios de Exchange
+  - Crear grupos
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir los diferentes objetos destinatarios en Exchange
+  - Describir buzones de recursos
+  - Describir buzones compartidos
+  - Describir los buzones vinculados y los buzones del sitio
+  - Describir grupos
+  - Crear y administrar la configuración del buzón
+  - Crear y administrar buzones de recursos y compartidos
+  - Crear y administrar contactos de correo y usuarios de correo
+  - Crear y administrar permisos de destinatarios
+  - Crear y administrar grupos
+  - Describir listas de direcciones
+  - Explicar cómo configurar listas de direcciones
+  - Describir las políticas de la libreta de direcciones
+  - Explicar cómo configurar libretas de direcciones sin conexión
+  - Describir las políticas de dirección de correo electrónico
+
+
+  ### Módulo 9&#58; Gestionar carpetas públicas
+  En este módulo, aprenderá acerca de las carpetas públicas en Exchange, revisará las consideraciones de planificación para implementar carpetas públicas y analizará las alternativas a las carpetas públicas. También aprenderá cómo implementar y administrar buzones de carpetas públicas, carpetas públicas y permisos de carpetas públicas, así como cómo crear y administrar carpetas públicas habilitadas para correo. El módulo concluye examinando cómo supervisar y solucionar problemas relacionados con las carpetas públicas. 
+  #### Lecciones
+  Planificar la jerarquía de carpetas públicas
+  - Implementar y administrar carpetas públicas
+  - Solucionar problemas de carpetas públicas
+
+  #### Laboratorio&#58; Implementar carpetas públicas
+  - Crear carpetas públicas
+  - Administrar carpetas públicas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir carpetas públicas en Exchange
+  - Planificar una jerarquía de carpetas públicas
+  - Planificar buzones de carpetas públicas
+  - Explicar las cuotas de carpetas públicas
+  - Evaluar alternativas a las carpetas públicas
+  - Describir las consideraciones para implementar carpetas públicas
+  - Implementar buzones de carpetas públicas
+  - Administrar permisos de carpetas públicas
+  - Crear y administrar carpetas públicas habilitadas para correo
+  - Supervisar carpetas públicas
+  - Solucionar problemas de carpetas públicas
+  - Solucionar problemas de acceso a carpetas públicas
+
+
+  ### Módulo 10&#58; Planificación de un entorno híbrido
+  En este módulo examinará los requisitos necesarios para poner en marcha una implementación híbrida, y aprenderá sobre las características y componentes que se requieren al implementar una implementación híbrida. Este módulo examina todos los aspectos de planificación necesarios antes de ejecutar el asistente de configuración híbrida. Esto incluye las opciones de configuración del HCW, así como los detalles sobre la transferencia de configuración de la organización (OCT) y el agente híbrido. El módulo concluye con una revisión de las opciones de flujo de correo para una implementación híbrida. 
+  #### Lecciones
+  - Requisitos de implementación híbrida de Exchange
+  - Planificación para ejecutar el Asistente de configuración híbrida
+
+  #### Laboratorio&#58; Preparar Azure AD para la sincronización híbrida
+  - Preparar Azure AD para la sincronización híbrida
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las opciones de conexión disponibles para conectar Exchange local a Microsoft 365
+  - Enumerar y describir componentes de una implementación híbrida
+  - Describir Azure Active Directory Connect (Azure AD Connect)
+  - Identificar las opciones de identidad de Microsoft 365 para el híbrido de Exchange
+  - Comparar la federación delegada de Exchange con OAuth
+  - Plan para la configuración híbrida de Exchange
+  - Describir la transferencia de configuración de la organización
+  - Explicar Exchange Modern Hybrid y Hybrid Agent
+  - Planificar las opciones de flujo de correo para una implementación híbrida
+
+
+  ### Módulo 11&#58; Realizar migraciones de buzones
+  Este módulo examina las opciones disponibles para migrar el correo electrónico a Exchange Online, como realizar una migración o usar FastTrack para mover los buzones de sus servidores de correo existentes a Exchange Online. Este módulo resume las opciones de migración y coexistencia y recomienda cuándo usar qué opción. Luego, el módulo examina los requisitos para ejecutar una migración IMAP, las opciones de migración que están disponibles y los pasos que se realizan durante una migración. Luego, el módulo examina cómo planificar y realizar una migración de transición y por etapas. Compara cada uno de estos dos enfoques de migración y aprenderá sobre los requisitos, las actividades de planificación y el proceso de migración para cada opción. El módulo concluye examinando importantes tareas de migración adicionales, como la migración de un archivo PST y las consideraciones para una migración de Carpeta pública. 
+  #### Lecciones
+  - Planificación de migraciones de buzones
+  - Realizar migraciones IMAP
+  - Realizar migraciones de transición y etapas
+  - Realizar migraciones avanzadas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las estrategias de migración y convivencia con Exchange Online
+  - Usar FastTrack para mover buzones
+  - Describir los requisitos para una migración IMAP y cómo se lleva a cabo
+  - Mover los datos del buzón utilizando una migración IMAP
+  - Describir los requisitos para las migraciones de transición y por etapas.
+  - Realizar una migración y mover los buzones de correo con una transición o migración por etapas
+  - Importar archivos PST a buzones de Exchange Online
+  - Migrar carpetas públicas a Exchange Online
+
+
+  ### Módulo 12&#58; Implementación y solución de problemas de un entorno híbrido
+  En este módulo aprenderá las áreas clave para planificar con respecto a los servidores de transporte perimetral. Luego aprenderá sobre los requisitos y las mejores prácticas para configurar una implementación híbrida, que es el primer paso para su organización de Exchange, independientemente de si desea conectar sus organizaciones locales de Exchange y Exchange Online para una coexistencia a largo plazo o como parte de una estrategia de migración a la nube. En este módulo, examinará cómo administrar una implementación híbrida e implementar una funcionalidad híbrida avanzada. Cubrirá las características que requieren una implementación híbrida exitosa, como la coexistencia de carpetas públicas o el almacenamiento de archivos adjuntos de OneDrive para la Empresa para los buzones locales. Este módulo concluye con una introducción a las técnicas de solución de problemas para una implementación híbrida. Aprenderá cómo solucionar problemas de sincronización de directorios, incluida la autenticación de paso a través (PTA) y el inicio de sesión único, el transporte de Exchange y la solución de problemas de acceso de clientes, así como la solución de problemas del servicio de replicación de buzones. 
+  #### Lecciones
+  - Implementar y administrar un servidor de transporte perimetral
+  - Configurar una implementación híbrida utilizando el HCW
+  - Implementar funcionalidad híbrida avanzada
+  - Solucionar problemas de implementaciones híbridas
+
+  #### Laboratorio&#58; Implementar un entorno híbrido
+  - Configurar su implementación híbrida
+  - Poner a prueba su implementación híbrida
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el propósito y la funcionalidad de los servidores de transporte perimetral
+  - Explicar los requisitos de infraestructura para los servidores de transporte perimetral
+  - Describir EdgeSync
+  - Planificar el flujo de mensajes con un servidor de transporte perimetral
+  - Describir los requisitos previos para ejecutar el Asistente de configuración híbrida de Office 365
+  - Explicar las mejores prácticas para implementar una implementación híbrida
+  - Administrar una implementación híbrida
+  - Describir cuándo debe configurar la coexistencia de carpetas públicas con Office 365
+  - Explicar cómo configurar Oauth para un entorno mixto de Exchange
+  - Describir cómo configurar los archivos adjuntos de OneDrive para la Empresa para los buzones locales
+  - Solucionar problemas de sincronización de directorios
+  - Solucionar problemas de autenticación de paso a través e inicio de sesión único
+  - Solucionar problemas de transporte con Exchange Online
+  - Solucionar problemas de acceso de cliente en coexistencia
+  - Solucionar problemas del servicio de replicación de buzones
+

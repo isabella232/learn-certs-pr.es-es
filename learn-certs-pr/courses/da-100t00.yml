@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Analyzing Data with Power BI
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
 hoursToComplete: 120
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  Este curso analizará los diversos métodos y mejores prácticas que están en línea con los requisitos comerciales y técnicos para modelar, visualizar y analizar datos con Power BI. El curso también mostrará cómo acceder y procesar datos de una variedad de fuentes de datos, incluidos los datos relacionales y no relacionales. Este curso también explorará cómo implementar estándares y políticas de seguridad adecuados en todo el espectro de Power BI, incluidos conjuntos de datos y grupos. El curso también analizará cómo administrar e implementar informes y paneles para compartir y distribuir contenido. Finalmente, este curso mostrará cómo crear informes paginados dentro del servicio Power BI y publicarlos en un espacio de trabajo para incluirlos en Power BI.
+  Este curso se lanzará el 24 de julio de 2020. Este curso analizará los diversos métodos y mejores prácticas que están en línea con los requisitos comerciales y técnicos para modelar, visualizar y analizar datos con Power BI. El curso también mostrará cómo acceder y procesar datos de una variedad de fuentes de datos, incluidos los datos relacionales y no relacionales. Este curso también explorará cómo implementar estándares y políticas de seguridad adecuados en todo el espectro de Power BI, incluidos conjuntos de datos y grupos. El curso también analizará cómo administrar e implementar informes y paneles para compartir y distribuir contenido. Finalmente, este curso mostrará cómo crear informes paginados dentro del servicio Power BI y publicarlos en un espacio de trabajo para incluirlos en Power BI.
 
   #### Perfil de audiencia
   La audiencia para este curso son profesionales de datos y profesionales de inteligencia de negocios que desean aprender cómo realizar análisis de datos con precisión utilizando Power BI. Este curso también está dirigido a aquellas personas que desarrollan informes que visualizan datos de las tecnologías de la plataforma de datos que existen tanto en la nube como en las instalaciones.
@@ -40,7 +40,7 @@ outlineSection: |-
   - Identificación de tareas del analista de datos
 
 
-  #### Laboratorio &#58; Empezar
+  #### Laboratorio&#58; Empezar
   - Empezar
 
   Después de completar este módulo, los estudiantes podrán&#58;
@@ -58,7 +58,7 @@ outlineSection: |-
   - Perfiles de datos
 
 
-  #### Laboratorio &#58; Preparación de datos en el escritorio de Power BI
+  #### Laboratorio&#58; Preparación de datos en el escritorio de Power BI
   - Preparar datos
 
   Después de completar este módulo, los estudiantes podrán&#58;
@@ -79,7 +79,7 @@ outlineSection: |-
   - Configurar la carga de datos y resolver errores
 
 
-  #### Laboratorio &#58; Carga de datos en el escritorio de Power BI
+  #### Laboratorio&#58; Carga de datos en el escritorio de Power BI
   - Cargar datos
 
   Después de completar este módulo, los estudiantes podrán&#58;
@@ -97,7 +97,7 @@ outlineSection: |-
   - Modelo de rendimiento
 
 
-  #### Laboratorio &#58; Modelado de datos en Power BI Desktop
+  #### Laboratorio&#58; Modelado de datos en Power BI Desktop
   - Crear relaciones modelo
   - Configurar tablas
   - Revisar la interfaz del modelo
@@ -119,7 +119,7 @@ outlineSection: |-
   - Consideraciones de preguntas y respuestas
 
 
-  #### Laboratorio &#58; Modelado avanzado de datos
+  #### Laboratorio&#58; Modelado avanzado de datos
   - Crear una relación man-to-many
   - Aplicar la seguridad a nivel de fila
 
@@ -139,11 +139,11 @@ outlineSection: |-
   - Funciones de inteligencia-tiempo
 
 
-  #### Laboratorio &#58; Uso de DAX en Power BI - Parte 1
+  #### Laboratorio&#58; Uso de DAX en Power BI - Parte 1
   - Crear tablas calculadas
   - Crear medidas
 
-  #### Laboratorio &#58; Uso de DAX en Power BI - Parte 2
+  #### Laboratorio&#58; Uso de DAX en Power BI - Parte 2
   - Trabajar con contenido de filtro
   - Trabajar con inteligencia-tiempo
   - Publique el archivo de Power BI Desktop
@@ -178,7 +178,7 @@ outlineSection: |-
   - Mejorar el informe
 
 
-  #### Laboratorio &#58; Diseño de un informe en Power BI Desktop - Parte 1
+  #### Laboratorio&#58; Diseño de un informe en Power BI Desktop - Parte 1
   - Crear un informe
   - Iniciar sesión en el servicio Power BI
 
@@ -197,7 +197,7 @@ outlineSection: |-
   - Mejora de informes
 
 
-  #### Laboratorio &#58; Diseño de un informe en Power BI Desktop - Parte 2
+  #### Laboratorio&#58; Diseño de un informe en Power BI Desktop - Parte 2
   - Configurar segmentadores de sincronización
   - Configurar la obtención de detalles
   - Agregar formato condicional
@@ -219,7 +219,7 @@ outlineSection: |-
   - Mejoras en el tablero
 
 
-  #### Laboratorio &#58; Crear un panel de Power BI.
+  #### Laboratorio&#58; Crear un panel de Power BI.
   - Crear un panel de control
   - Actualizar el conjunto de datos
   - Revisar el tablero de instrumentos
@@ -241,7 +241,7 @@ outlineSection: |-
   - Análisis avanzado
 
 
-  #### Laboratorio &#58; Análisis de datos en Power BI Desktop
+  #### Laboratorio&#58; Análisis de datos en Power BI Desktop
   - Crear un informe
   - Crear un gráfico de dispersión
   - Crear un pronóstico
@@ -266,7 +266,7 @@ outlineSection: |-
   - Compartir y distribuir contenido
 
 
-  #### Laboratorio &#58; Publicación y uso compartido de contenido de Power BI
+  #### Laboratorio&#58; Publicación y uso compartido de contenido de Power BI
   - Configurar la seguridad del conjunto de datos
   - Compartir un panel de control
   - Publicar una aplicación
@@ -288,7 +288,7 @@ outlineSection: |-
   - Mejora y publicación de informes
 
 
-  #### Laboratorio &#58; Crear un informe paginado
+  #### Laboratorio&#58; Crear un informe paginado
   - Empezar
   - Desarrollar el informe
 

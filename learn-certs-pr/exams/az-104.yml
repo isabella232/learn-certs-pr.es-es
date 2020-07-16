@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure Administrator (beta)
+title: Microsoft Azure Administrator
 metadata:
-  title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
-  description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+  title: 'Exam AZ-104: Microsoft Azure Administrator'
+  description: 'Exam AZ-104: Microsoft Azure Administrator'
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
@@ -15,26 +15,25 @@ summary: |-
   Un administrador de Azure a menudo sirve como parte de un equipo más grande dedicado a implementar la infraestructura en la nube de su organización.
 
   Un candidato para este examen debe tener al menos seis meses de experiencia práctica en la administración de Azure, además de una sólida comprensión de los servicios centrales de Azure, las cargas de trabajo de Azure, la seguridad y el gobierno. Además, este rol debe tener experiencia en el uso de PowerShell, la CLI de Azure, el portal de Azure y las plantillas de Azure Resource Manager.
-
-  <div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> información sobre el valor y la importancia de los exámenes beta</a>.</div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: administrar las identidades y el gobierno de Azure; implementar y administrar el almacenamiento; implementar y administrar recursos informáticos de Azure; configurar y administrar redes virtuales; y supervisar y hacer una copia de seguridad de los recursos de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Administrar las identidades y el gobierno de Azure (15 -20%)
+- Administrar las identidades y el gobierno de Azure (15-20%)
 - Implementar y administrar el almacenamiento (10-15%)
-- Implementar y administrar recursos informáticos de Azure (25 -30%)
-- Configurar y gestionar redes virtuales (30 -35%)
-- Monitorear y realizar copias de seguridad de los recursos de Azure (10 -15%)
+- Implementar y administrar recursos informáticos de Azure (25-30%)
+- Configurar y gestionar redes virtuales (30-35%)
+- Monitorear y realizar copias de seguridad de los recursos de Azure (10-15%)
 roles:
 - administrator
 products:
@@ -56,7 +55,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Cartel de certificación
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -68,7 +67,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Solicitar alojamiento
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

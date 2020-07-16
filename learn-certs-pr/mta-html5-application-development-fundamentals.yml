@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'MTA: HTML5 Application Development Fundamentals'
+metadata:
+  title: 'MTA: HTML5 Application Development Fundamentals'
+  description: 'MTA: HTML5 Application Development Fundamentals'
+uid: certification.mta-html5-application-development-fundamentals
+iconUrl: /media/learn/certification/badges/mta-badge.svg
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  
+  Las certificaciones MTA son un gran lugar por donde empezar si desea entrar en el campo de la tecnología. Las certificaciones MTA abarcan un amplio abanico de conceptos técnicos básicos, evalúan y validan sus conocimientos técnicos principales y mejoran su credibilidad en calidad de técnico. Nota&#58; Los exámenes MTA no cualifican para una certificación MCP, ni son un prerrequisito para obtener una certificación MCSA o MCSD.
+subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea entrar en el campo de la tecnología. Las certificaciones MTA abarcan un amplio abanico de conceptos técnicos básicos, evalúan y validan sus conocimientos técnicos principales y mejoran su credibilidad en calidad de técnico. Nota: Los exámenes MTA no cualifican para una certificación MCP, ni son un prerrequisito para obtener una certificación MCSA o MCSD.'
+levels:
+- beginner
+skills:
+- ninguno
+roles:
+- developer
+type: mta
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+exams:
+- uid: exam.98-375
+resources:
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx

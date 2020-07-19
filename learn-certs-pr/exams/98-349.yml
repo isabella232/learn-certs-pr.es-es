@@ -14,7 +14,9 @@ summary: |-
 subTitle: Los candidatos a este examen deben conocer los conceptos básicos del sistema operativo Windows en un entorno de Windows 10.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,12 +33,12 @@ locales:
 levels:
 - beginner
 skills:
-- Comprensión de la configuración del sistema operativo (15–20%)
-- Instalación y actualización de los sistemas cliente (15–20%)
-- Administración de aplicaciones (15–20%)
-- Administración de archivos y carpetas (15–20%)
-- Administración de dispositivos (15–20%)
-- Comprensión del mantenimiento del sistema operativo (15–20%)
+- Comprensión de la configuración del sistema operativo (15-20%)
+- Instalación y actualización de los sistemas cliente (15-20%)
+- Administración de aplicaciones (15-20%)
+- Administración de archivos y carpetas (15-20%)
+- Administración de dispositivos (15-20%)
+- Comprensión del mantenimiento del sistema operativo (15-20%)
 roles:
 - administrator
 products:
@@ -53,7 +55,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

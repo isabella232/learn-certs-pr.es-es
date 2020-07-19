@@ -34,32 +34,31 @@ prerequisitesSection: |-
   No hay requisitos previos para este curso.
 outlineSection: |-
   ### Módulo 1&#58; Introducción a Power Platform
-  Conozca los componentes de Power Platform, las formas de conectar datos y cómo las organizaciones pueden aprovechar esta tecnología para
+  Conocer los componentes de Power Platform, las formas de conectar datos y cómo las organizaciones pueden aprovechar esta tecnología para crear soluciones comerciales.
   #### Lecciones
   - Información general de Power Platform
   - Resumen del módulo
 
-  Conozca los componentes y características de Power Platform
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Identifique cuándo usar cada aplicación de componentes de Power Platform para crear soluciones comerciales
   - Conozca el valor de usar Power Platform para crear soluciones comerciales
+  - Conozca los componentes y características de Power Platform
 
   ### Módulo 2&#58; Comience con Power Apps
   Conozca el valor y las capacidades de PowerApps, y las formas en que otras organizaciones han aprovechado esta tecnología para crear aplicaciones simples para sus negocios.
   #### Lecciones
   - Descripción general de Power Apps
   - Cómo construir una solución de aplicación
-
-
-  #### Laboratorio &#58; Cómo construir una aplicación básica de Canvas 1
   - Crear la aplicación Staff Canvas
   - Completar la aplicación
 
-  #### Laboratorio &#58; Cómo construir una aplicación básica de Canvas 2
+  #### Laboratorio&#58; Cómo construir una aplicación básica de Canvas 2
   - Crear aplicación de seguridad de Canvas
 
-  Conozca qué es Power Apps y su valor comercial
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Aprenda cómo otras organizaciones digitalizan sus procesos usando Power Apps
   - Vea Power Apps en acción y conozca las opciones para crear su primera aplicación
+  - Conozca qué es Power Apps y su valor comercial
 
 
   ### Módulo 3&#58; Introducción a Common Data Service
@@ -69,14 +68,15 @@ outlineSection: |-
   - Resumen del módulo
 
 
-  #### Laboratorio &#58; Modelado de datos
+  #### Laboratorio&#58; Modelado de datos
   - Crear entorno y solución
   - Crear entidades y relaciones
   - Importar datos
 
-  Explicar qué entornos, entidades, campos y relaciones están en Common Data Service.
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Describir la diferencia entre Common Data Service y Common Data Model.
   - Explicar los casos de uso y las limitaciones de las reglas de negocio y los flujos de procesos.
+  - Explicar qué entornos, entidades, campos y relaciones están en Common Data Service.
 
 
   ### Módulo 4&#58; Comenzar con Power Automate
@@ -86,13 +86,14 @@ outlineSection: |-
   - Cómo construir una solución automatizada
 
 
-  #### Laboratorio &#58; Construya un flujo simple
+  #### Laboratorio&#58; Construya un flujo simple
   - Crear flujo de notificación de visita
   - Crear flujo de barrido de seguridad
 
-  Conozca el valor comercial y las características de Power Automate
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Vea cómo funciona Power Automate y se ve desde la perspectiva del usuario
   - Construir un flujo simple
+  - Conozca el valor comercial y las características de Power Automate
 
 
   ### Módulo 5&#58; Comience con Power BI
@@ -102,8 +103,9 @@ outlineSection: |-
   - Cómo construir un panel simple
 
 
-  #### Laboratorio &#58; Cree un Power BI Report
-  Describa el valor comercial y las características de Power BI
+  #### Laboratorio&#58; Cree un Power BI Report
+  - Después de completar este módulo, los estudiantes podrán&#58;
   - Vea cómo funciona y se ve Power BI desde la perspectiva del usuario
   - Aprenda a crear un panel simple de Power BI
+  - Describa el valor comercial y las características de Power BI
 

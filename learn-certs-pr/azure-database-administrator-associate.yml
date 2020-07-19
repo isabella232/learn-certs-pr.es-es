@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</font></strong><br/><br/></div>
 
   El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server. El administrador de la base de datos de Azure usa una variedad de métodos y herramientas para realizar las operaciones diarias, incluida la aplicación de conocimientos sobre el uso de T -SQL para fines de administración administrativa.
 subTitle: El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server.
@@ -32,17 +32,19 @@ products:
 - azure-storage
 - azure-virtual-machines
 - sql-server
+courses:
+- uid: course.dp-300t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
 resources:
-- title: Póster de certificaciones de Azure
+- title: Azure certifications poster
   description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

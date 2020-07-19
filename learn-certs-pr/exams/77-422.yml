@@ -8,17 +8,11 @@ displayName: 77-422
 summary: |-
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
 
-  MOS 2013 Guía de estudio para Microsoft PowerPoint Publicado&#58; Octubre de 2013
-
   Aprenda a demostrar su experiencia con PowerPoint. Practique y prepárese para el examen de Microsoft Office Specialist (MOS) de PowerPoint de 2013, con esta guía de estudio "todo en uno". Encuentre una cobertura completa de los exámenes objetivo por objetivo, junto con procedimientos e ilustraciones fáciles de seguir para revisar las habilidades esenciales. Además, obtenga tareas prácticas, aplique lo que ha aprendido. La guía incluye archivos de práctica descargables.
-
-  Comprar este libro en Microsoft Press Store
-
-  Los candidatos a este examen son profesionales de TI que usan Office para crear aplicaciones seguras y flexibles.
 subTitle: 'Los candidatos a este examen son profesionales de TI que usan Office para crear aplicaciones seguras y flexibles.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
 locales:
 - en
 - zh-cn
@@ -34,6 +28,7 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
@@ -58,7 +53,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

@@ -8,18 +8,22 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
+  Los candidatos para la certificación DevOps Engineer Expert deben tener experiencia en la materia trabajando con personas, procesos y tecnologías para entregar continuamente valor comercial.
+
+  Las responsabilidades para este rol incluyen el diseño e implementación de estrategias de colaboración, código, infraestructura, control de origen, seguridad, cumplimiento, integración continua, pruebas, entrega, supervisión y retroalimentación.
+
+  Un candidato para esta certificación debe estar familiarizado con la administración y el desarrollo de Azure y debe ser experto en al menos una de estas áreas.
 subTitle: Los profesionales de Azure DevOps combinan personas, procesos y tecnologías para ofrecer continuamente productos y servicios valiosos que cumplan las necesidades del usuario final y los objetivos empresariales.
 levels:
 - advanced
 skills:
-- Diseñar una estrategia DevOps
-- Implementar procesos de desarrollo DevOps
-- Implementar integración continua
-- Implementar entrega continua
-- Implementar la gestión de dependencias
-- Implementar infraestructura de aplicaciones
-- Implementar retroalimentación continua
+- Desarrollar una estrategia de instrumentación
+- Desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE)
+- Desarrollar un plan de seguridad y cumplimiento
+- Administrar el control de fuente
+- Facilitar la comunicación y la colaboración
+- Definir e implementar la integración continua
+- Definir e implementar una estrategia de gestión de entrega y liberación continua
 roles:
 - devops-engineer
 type: role-based
@@ -45,7 +49,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 exams:
 - uid: exam.az-400
 resources:
-- title: Póster de certificaciones de Azure
+- title: Azure certifications poster
   description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Recorrido a la certificación
@@ -54,7 +58,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

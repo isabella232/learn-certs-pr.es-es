@@ -92,8 +92,7 @@ outlineSection: |-
   - Servicios principales de Azure Identity
   - Herramientas y características de seguridad
   - Metodologías de gobierno de Azure
-  - Monitoreo y reporte
-  - Privacidad, cumplimiento y estándares de protección de datos.
+  - Monitoreo y reporte Privacidad, cumplimiento y estándares de protección de datos.
 
 
   #### laboratorio &#58; Tutorial&#58; Tráfico de red segura
@@ -118,12 +117,11 @@ outlineSection: |-
   - Describir los estándares de privacidad, cumplimiento y protección de datos.
 
 
-  ### Módulo 4&#58; Precios y soporte de Azure
+  ### Módulo 4&#58; Precios de Azure, acuerdos de nivel de servicio (SLA) y ciclo de vida
   En este módulo, aprenderá sobre las suscripciones de Azure, la planificación y la administración de costos, las opciones de soporte, los SLA y los ciclos de vida del servicio.
   #### Lecciones
   - Suscripciones de Azure
   - Planificación y gestión de costes.
-  - Opciones de soporte de Azure
   - Azure Acuerdos de nivel de servicio (SLAs)
   - Ciclo de vida del servicio en Azure
 
@@ -132,15 +130,13 @@ outlineSection: |-
 
   #### laboratorio &#58; Tutorial&#58; Usar la calculadora Azure TCO
 
-  #### laboratorio &#58; Tutorial&#58; Abrir una solicitud de soporte
-
   #### laboratorio &#58; Tutorial&#58; Calcular SLA compuestos
 
   #### laboratorio &#58; Tutorial&#58; Acceder a las funciones de Azure Preview
+
   Después de completar este módulo, los estudiantes podrán&#58;
   - Usar una suscripción de Azure.
   - Planificar y administrar costos.
-  - Explicar las opciones de soporte de Azure.
   - Describir Azure SLAs.
   - Explicar los ciclos de vida del servicio de Azure.
 

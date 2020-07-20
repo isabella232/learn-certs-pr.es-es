@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 30 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  </div>
 
   Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 
@@ -22,6 +25,7 @@ locales:
 levels:
 - advanced
 skills:
+- El contenido de este examen se actualizará el, 30 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Realizar el análisis de la visión y los requisitos de la solución (30-35%)
 - Diseñar una solución (45-50%)
 - Implementar la solución (20-25%)
@@ -44,7 +48,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -56,7 +60,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

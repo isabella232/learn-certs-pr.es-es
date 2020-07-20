@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el miércoles, 29 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 29 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.<br/><br/></div>
   </div>
 
   Los candidatos para este examen deben tener experiencia en la materia implementando controles de seguridad y protección contra amenazas, gestionando identidad y acceso, y protegiendo datos, aplicaciones y redes en entornos de nube e híbridos como parte de una infraestructura de extremo a extremo.
@@ -17,7 +17,7 @@ summary: |-
 
   Los ingenieros de seguridad de Azure a menudo sirven como parte de un equipo más grande dedicado a la administración y la seguridad basadas en la nube o entornos híbridos como parte de una infraestructura de extremo a extremo.
 
-  Un candidato para este examen debe tener fuertes habilidades en secuencias de comandos y automatización; un profundo conocimiento de las redes, la virtualización y la arquitectura en la nube de N niveles; y una fuerte familiaridad con las capacidades de la nube y los productos y servicios para Azure, además de otros productos y servicios de Microsoft.
+  Un candidato para este examen debe estar familiarizado con las secuencias de comandos y la automatización, debe tener un conocimiento profundo de las redes y la virtualización. Un candidato también debe estar familiarizado con las capacidades de la nube, los productos y servicios de Azure y otros productos y servicios de Microsoft.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: administrar la identidad y el acceso; implementar la protección de la plataforma; administrar las operaciones de seguridad; y garantizar los datos y las aplicaciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el miércoles, 29 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizará el, 29 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Gestionar la identidad y el acceso (20-25%)
 - Implementar la protección de la plataforma (35-40%)
 - Gestionar operaciones de seguridad (15-20%)
@@ -65,7 +65,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -77,7 +77,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

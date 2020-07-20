@@ -1,0 +1,274 @@
+### YamlMime:Course
+title: Microsoft Azure Architect Technologies
+metadata:
+  title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+uid: course.az-303t00
+courseNumber: 'AZ-303T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identidades seguras con Azure Active Directory, usuarios y grupos.
+- skill: Implemente soluciones de identidad que abarquen capacidades locales y basadas en la nube
+- skill: Aplique soluciones de supervisión para recopilar, combinar y analizar datos de diferentes fuentes.
+- skill: Administre suscripciones, cuentas, políticas de Azure y control de acceso basado en roles.
+- skill: Administre Azure con Resource Manager, Azure Portal, Cloud Shell y CLI.
+- skill: Configure soluciones de conectividad entre sitios como emparejamiento de VNet y puertas de enlace de red virtual.
+- skill: Administre Azure App Service, Azure Container Instances y Kubernetes.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  Este curso enseña a los arquitectos de soluciones cómo traducir los requisitos comerciales en soluciones seguras, escalables y confiables. Las lecciones incluyen virtualización, automatización, redes, almacenamiento, identidad, seguridad, plataforma de datos e infraestructura de aplicaciones. Este curso describe cómo las decisiones en cada una de estas áreas afectan a una solución general.
+
+  #### Perfil de audiencia
+  Este curso es para profesionales de TI con experiencia en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure. Deben tener un amplio conocimiento de las operaciones de TI, que incluyen redes, virtualización, identidad, seguridad, continuidad del negocio, recuperación ante desastres, plataforma de datos, presupuestos y gobierno. Los arquitectos de soluciones de Azure usan Azure Portal y, a medida que se vuelven más hábiles, usan la interfaz de línea de comandos. Los candidatos deben tener habilidades de nivel experto en la administración de Azure y tener experiencia con los procesos de desarrollo de Azure y los procesos DevOps. Sin viñetas ni listas.
+prerequisitesSection: |-
+  Los exitosos arquitectos de soluciones de Azure comienzan este rol con experiencia en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento y redes.
+  - Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
+  - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
+  - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
+  - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
+outlineSection: |-
+  ### Módulo 1&#58; Implementar máquinas virtuales para Windows y Linux
+  En este módulo, aprenderá sobre las máquinas virtuales de Azure, incluida la planificación, la creación, la disponibilidad y las extensiones. Este módulo incluye &#58;
+  #### Lecciones
+  - Seleccionar el tamaño de la máquina virtual
+  - Configurar a alta disponibilidad
+  - Implementar Azure Dedicated Hosts
+  - Implementar y configurar conjuntos de escalado
+  - Configurar Azure Disk Encryption
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Plan para implementaciones de máquinas virtuales.
+  - Crear máquinas virtuales.
+  - Configurar la disponibilidad de la máquina virtual, incluidos los conjuntos de escalas.
+  - Comprender las opciones de alta disponibilidad para máquinas virtuales en Azure
+
+
+  ### Módulo 2&#58; Automatizar la implementación y configuración de recursos
+  En este módulo, aprenderá sobre las herramientas que usa un administrador de Azure para administrar su infraestructura. Esto incluye el portal de Azure, Cloud Shell, Azure PowerShell, CLI y plantillas de gestor de recursos. Este módulo incluye&#58;
+  #### Lecciones
+  - Plantillas de Azure Resource Manager
+  - Guardar una plantilla para una VM
+  - Evaluar la ubicación de nuevos recursos
+  - Configurar una plantilla de disco duro virtual
+  - Implementar desde una plantilla
+  - Crear y ejecutar un Runbook de automatización
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Aprovechar Azure Resource Manager para organizar los recursos.
+  - Usar plantillas ARM para implementar recursos.
+  - Crear y ejecutar un Runbook de automatización
+  - Implementar una máquina virtual de Azure desde un VHD
+  - Comprender las tecnologías de cifrado de Azure
+
+
+  ### Módulo 3&#58; Implementar redes virtuales
+  En este módulo, aprenderá sobre conceptos básicos de redes virtuales como redes virtuales y subredes, direccionamiento IP, grupos de seguridad de red, Azure Firewall y Azure DNS.
+  #### Lecciones
+  - Emparejamiento de red virtual
+  - Implementar Emparejamiento de VNet
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Conectar los servicios con Emparejamiento de red virtual
+  - Configurar VNet Peering
+  - Comprender el encadenamiento de servicios
+  - Modificar o eliminar el Emparejamiento de VNet
+
+
+  ### Módulo 4&#58; Implementar el equilibrio de carga y la seguridad de la red
+  En este módulo, aprenderá acerca de las estrategias de tráfico de red, incluidos el enrutamiento de red y los puntos finales de servicio, Azure Load Balancer, Azure Application Gateway y Traffic Manager.
+  #### Lecciones
+  - Implementar Azure Load Balancer
+  - Implementar una puerta de enlace de aplicaciones
+  - Comprender el firewall de aplicaciones web
+  - Implementar Azure Firewall
+  - Implementar Azure Front Door
+  - Implementar Azure Traffic Manager
+  - Implementar grupos de seguridad de red y grupo de seguridad de aplicaciones
+  - Implementar Azure Bastion
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Seleccionar una solución Load Balancer
+  - Configurar Application Gateway
+  - Implementar Azure Firewall
+  - Crear una Azure Front Door
+  - Comprender los métodos de enrutamiento de Traffic Manager
+  - Configurar grupos de seguridad de red (NSG)
+
+
+  ### Módulo 5&#58; Implementar cuentas de almacenamiento
+  En este módulo, aprenderá sobre las características básicas de almacenamiento, incluidas las cuentas de almacenamiento, el almacenamiento de blobs, los archivos de Azure y la sincronización de archivos, la seguridad de almacenamiento y las herramientas de almacenamiento. 
+  #### Lecciones
+  - Cuentas de almacenamiento
+  - Almacenamiento Blob
+  - Seguridad de almacenamiento
+  - Gestionar almacenamiento
+  - Acceso a blobs y colas usando AAD
+  - Configurar Azure Storage Firewalls y redes virtuales
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender los servicios y tipos de cuentas de almacenamiento
+  - Configurar el almacenamiento de blobs, cuentas, contenedores y niveles de acceso
+  - Implementar firmas de acceso compartido
+  - Comprender los firewalls de Azure Storage y las redes virtuales
+
+
+  ### Módulo 6&#58; Implementar Azure Active Directory
+  En este módulo, aprenderá cómo proteger las identidades con Azure Active Directory e implementar usuarios y grupos.
+  #### Lecciones
+  - Descripción general de Azure Active Directory
+  - Usuarios y grupos
+  - Dominios y dominios personalizados
+  - Protección de identidad de Azure AD
+  - Implementar acceso condicional
+  - Configurar alertas de fraude para MFA
+  - Implementar opciones de omisión
+  - Configurar IP de confianza
+  - Configurar usuarios invitados en Azure AD
+  - Administrar múltiples directorios
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender cómo interactúan varias organizaciones de AAD
+  - Agregar usuarios invitados a Azure AD
+  - Configurar ubicación, condición, configuración
+  - Configurar las configuraciones de Azure MFA
+  - Implementar acceso condicional Azure MFA
+
+
+  ### Módulo 7&#58; Implementar y administrar Gobernanza en Azure
+  En este módulo, aprenderá a administrar sus suscripciones y cuentas, implementar políticas de Azure y usar el Control de acceso basado en roles.
+  #### Lecciones
+  - Crear grupos de administración, suscripciones y grupos de recursos
+  - Descripción general del control de acceso basado en roles (RBAC)
+  - Roles de control de acceso basado en roles (RBAC)
+  - Revisiones de Azure AD Access
+  - Implementar y configurar una política de Azure
+  - Planos técnicos de Azure
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender la organización del grupo de recursos
+  - Comprender cómo funciona RBAC
+  - Crear una revisión de acceso de Azure AD
+  - Crear y administrar políticas para hacer cumplir el cumplimiento
+  - Crear un plano técnico
+
+
+  ### Módulo 8&#58; Implementar y gestionar identidades híbridas
+  En este módulo, aprenderá cómo instalar y configurar Azure AD Connect e implementar Azure AD Connect Health.
+  #### Lecciones
+  - Instalar y configurar Azure AD Connect
+  - Configurar sincronización de contraseña y reescritura de contraseña
+  - Configurar Azure AD Connect Health
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Implementar el inicio de sesión único sin interrupciones de Azure AD
+  - Realizar una instalación de Azure AD Connect
+  - Implementar Azure AD Connect Health
+
+
+  ### Módulo 9&#58; Administrar cargas de trabajo en Azure
+  En este módulo, aprenderá cómo migrar cargas de trabajo con Azure Migrate, realizar migraciones basadas en agente y sin agente de VMware, y ejecutar Azure Backup y Azure Site Recovery.
+  #### Lecciones
+  - Migrar cargas de trabajo con Azure Migrate
+  - VMware - Migración sin agente
+  - VMware - Migración basada en agentes
+  - Implementar Azure Backup
+  - Azure a Azure Site Recovery
+  - Implementar Azure Update Management
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Comprender la arquitectura de migración basada en agentes
+  - Prepararse para Azure para la migración
+  - Preparar un entorno VMware local
+  - Comprender la arquitectura de respaldo de Azure VM
+  - Administrar actualizaciones y parches para máquinas virtuales de Azure
+
+
+  ### Módulo 10&#58; Implementar supervisión de infraestructura en la nube
+  En este módulo, aprenderá sobre Azure Monitor, Azure Workbooks, Azure Alerts, Network Watcher, Azure Service Health, Azure Application Insights.
+  #### Lecciones
+  - Supervisión de seguridad de la infraestructura de Azure
+  - Azure Monitor
+  - Libros de trabajo de Azure
+  - Alertas de Azure
+  - Log Analytics
+  - Network Watcher
+  - Azure Service Health
+  - Supervisar los costes de Azure
+  - Azure Application Insights
+  - Supervisión unificada en Azure
+
+
+  ### Módulo 11&#58; Administrar seguridad para aplicaciones
+  En este módulo, aprenderá sobre Azure Key Vault y la implementación de la autenticación mediante Azure Managed Identities.
+  #### Lecciones
+  - Azure Key Vault
+  - Identidad administrada de Azure
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Explicar los usos de Key Vault, como la gestión de secretos, claves y certificados
+  - Usar identidades administradas con recursos de Azure
+
+
+  ### Módulo 12&#58; Implementar una infraestructura de aplicaciones
+  En este módulo, aprenderá cómo crear una aplicación web de servicio de aplicaciones para contenedores, crear y configurar un plan de servicio de aplicaciones y crear y administrar ranuras de implementación.
+  #### Lecciones
+  - Crear y configurar Azure App Service
+  - Crear una aplicación web de servicio de aplicaciones para contenedores
+  - Crear y configurar un plan de servicio de aplicaciones
+  - Configurar redes para un servicio de aplicaciones
+  - Crear y administrar espacios de implementación
+  - Implementar aplicaciones lógicas
+  - Implementar funciones Azure
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Configurar un servicio de aplicaciones de Azure
+  - Crear un plan de servicio de aplicaciones
+  - Crear un flujo de trabajo con las aplicaciones de Azure Logic
+  - Crear una aplicación de función
+
+
+  ### Módulo 13&#58; Implementar aplicaciones basadas en contenedores
+  En este módulo, aprenderá cómo ejecutar instancias de Azure Container y cómo implementar Kubernetes con AKS.
+  #### Lecciones
+  - Instancias de Azure Container
+  - Configurar el servicio Azure Kubernetes
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Ejecutar instancias de Azure Container
+  - Implementar Kubernetes con AKS
+
+
+  ### Módulo 14&#58; Implementar bases de datos NoSQL
+  En este módulo, aprenderá sobre Azure Table Storage y recomendará opciones para las API de CosmsoDB.
+  #### Lecciones
+  - Configurar tablas de cuentas de almacenamiento
+  - Seleccionar las API de CosmosDB apropiadas
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Delinear el modelo de datos del servicio de tabla
+  - Comprender las opciones para Azure Cosmos DB
+  - Comprender la alta disponibilidad con CosmosDB
+
+
+  ### Módulo 15&#58; Implementar bases de datos de SQL Azure
+  En este módulo, creará una base de datos única de Azure SQL Database, creará una instancia administrada de Azure SQL Database y revisará la alta disponibilidad y la base de datos Azure SQL.
+  #### Lecciones
+  - Establecer la configuración de la base de datos SQL de Azure
+  - Implementar instancias administradas de Azure SQL Database
+  - Alta disponibilidad y Azure SQL Database
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear una base de datos única de Azure SQL Database
+  - Crear una instancia administrada de Azure SQL Database
+  - Recomendar modelos arquitectónicos de alta disponibilidad utilizados en Azure SQL Database

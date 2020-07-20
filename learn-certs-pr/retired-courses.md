@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pronto. Después de las fechas en las que se retiren, los cursos ya no se venderán.
 
+Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## Cursos retirados: Instructor guía del entrenamiento
 
 * Courseware Retiro de 30 de junio de 2020.
@@ -199,15 +201,15 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 22697-1 | B | Installing and Configuring Windows 10 | Francés | 28/02/2020 |
     | MB-900T01 | A | Dynamics 365 fundamentals | inglés | 28/02/2020 |
 
-* Courseware Retiro de 31 de enero de 2020
+* Courseware Retiro de, 31 de enero de 2020
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
     | 10979 | F | Introduction to Microsoft Azure for IT Professionals | inglés | 31/01/2020 |
-    | MB-200T01 | A | Dynamics 365: Power Platform applications | inglés | 31/01/2020 |
-    | MB-200T02 | A | Dynamics 365: Power Platform automation | inglés | 31/01/2020 |
-    | MB-200T03 | A | Dynamics 365: Power Platform integrations | inglés | 31/01/2020 |
-    | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | inglés | 31/01/2020 |
+    | MB-200T01 | A | Dynamics 365: Power Platform applications | Inglés | 31/01/2020 |
+    | MB-200T02 | A | Dynamics 365: Power Platform automation | Inglés | 31/01/2020 |
+    | MB-200T03 | A | Dynamics 365: Power Platform integrations | Inglés | 31/01/2020 |
+    | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | Inglés | 31/01/2020 |
     | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | inglés | 31/01/2020 |
     | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | inglés | 31/01/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | inglés | 31/01/2020 |
@@ -230,19 +232,19 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | MD-100T01 | A | Installing Windows 10 | inglés | 31/12/2019 |
+    | MD-100T01 | A | Installing Windows 10 | Inglés | 31/12/2019 |
     | MD-100T02 | A | Configuring Windows 10 | inglés | 31/12/2019 |
     | MD-100T03 | A | Protecting Windows 10 | inglés | 31/12/2019 |
     | MD-100T04 | A | Maintaining Windows 10 | inglés | 31/12/2019 |
     | MD-101T01 | A | Deploying the Modern Desktop | inglés | 31/12/2019 |
     | MD-101T02 | A | Managing Modern Desktops and Devices | inglés | 31/12/2019 |
     | MD-101T03 | A | Protecting Modern Desktops and Devices | inglés | 31/12/2019 |
-    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | inglés | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | inglés | 31/12/2019 |
+    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | Inglés | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | Inglés | 31/12/2019 |
     | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | inglés | 31/12/2019 |
     | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | inglés | 31/12/2019 |
-    | 40389 | A | First Look Clinic: Windows Server 2016 | inglés | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | inglés | 31/12/2019 |
+    | 40389 | A | First Look Clinic: Windows Server 2016 | Inglés | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | Inglés | 31/12/2019 |
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | inglés | 31/12/2019 |
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | inglés | 31/12/2019 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | japonés | 31/12/2019 |
@@ -315,10 +317,10 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | japonés | 31/12/2019 |
     | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | japonés | 31/12/2019 |
     | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | japonés | 31/12/2019 |
-    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | alemán | 31/12/2019 |
+    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | Alemán | 31/12/2019 |
     | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | Francés | 31/12/2019 |
     | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | Francés | 31/12/2019 |
-    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | alemán | 31/12/2019 |
+    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | Alemán | 31/12/2019 |
     | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | alemán | 31/12/2019 |
     | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (chino simplificado) | chino simplificado | 31/12/2019 |
     | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (chino simplificado) | chino simplificado | 31/12/2019 |
@@ -328,7 +330,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | MS-100T01 | A | Office 365 Management | inglés | 27/11/2019 |
+    | MS-100T01 | A | Office 365 Management | Inglés | 27/11/2019 |
     | MS-100T02 | A | Microsoft 365 Tenant & Service Management | inglés | 27/11/2019 |
     | MS-100T03 | A | Microsoft 365 Identity Management | inglés | 27/11/2019 |
     | MS-101T01 | A | Microsoft 365 Security Management | inglés | 27/11/2019 |
@@ -339,13 +341,13 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 20347 | B | Enabling & Managing Office 365 | inglés | 31/10/2019 |
+    | 20347 | B | Enabling & Managing Office 365 | Inglés | 31/10/2019 |
 
 * Courseware Retiro de 31 de Julio de 2019
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 10970 | B | Networking with Windows Server | inglés | 31/7/2019 |
+    | 10970 | B | Networking with Windows Server | Inglés | 31/7/2019 |
     | 10971 | B | Storage and High Availability with Windows Server | inglés | 31/7/2019 |
     | 10974 | B | Deploying and Migrating Windows Servers | inglés | 31/7/2019 |
 
@@ -353,7 +355,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 10958 | B | Programming Fundamentals of Web Applications | inglés | 30/6/2019
+    | 10958 | B | Programming Fundamentals of Web Applications | Inglés | 30/6/2019
     | 20481 | C | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | inglés | 30/6/2019
     | 20482 | C | Advanced Windows Store App Development Using HTML5 and JavaScript | inglés | 30/6/2019
     | 20484 | C | Essentials of Developing Windows Store Apps Using C# | inglés | 30/6/2019
@@ -367,13 +369,13 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 20776 | A | Engineering Data with Microsoft Cloud Services | inglés | 30/6/2019
     | 32410 | B | Installing and Configuring Windows Server 2012 | turco | 30/6/2019
     | 32411 | B | Administering Windows Server 2012 | turco | 30/6/2019
-    | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | inglés | 30/6/2019
-    | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | inglés | 30/6/2019
-    | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | inglés | 30/6/2019
-    | 40523 | G | Microsoft Cloud Workshop: Azure Blockchain | inglés | 30/6/2019
-    | 40524 | G | Microsoft Cloud Workshop: Linux Lift & Shift | inglés | 30/6/2019
-    | 40532 | G | Microsoft Cloud Workshop: Mobile app innovation | inglés | 30/6/2019
-    | 40534 | G | Microsoft Cloud Workshop: Securing PaaS | inglés | 30/6/2019
+    | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | Inglés | 30/6/2019
+    | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | Inglés | 30/6/2019
+    | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | Inglés | 30/6/2019
+    | 40523 | G | Microsoft Cloud Workshop: Azure Blockchain | Inglés | 30/6/2019
+    | 40524 | G | Microsoft Cloud Workshop: Linux Lift & Shift | Inglés | 30/6/2019
+    | 40532 | G | Microsoft Cloud Workshop: Mobile app innovation | Inglés | 30/6/2019
+    | 40534 | G | Microsoft Cloud Workshop: Securing PaaS | Inglés | 30/6/2019
     | AZ-100T01 | A | Managing Azure Subscriptions and Resources | inglés | 30/6/2019
     | AZ-100T02 | A | Implementing and Managing Storage | inglés | 30/6/2019
     | AZ-100T03 | A | Deploying and Managing Virtual Machines | inglés | 30/6/2019
@@ -388,30 +390,30 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | inglés | 01/5/2019
-    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | inglés | 01/5/2019
-    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | inglés | 01/5/2019
-    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | inglés | 01/5/2019
-    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | inglés | 01/5/2019
-    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | inglés | 01/5/2019
-    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (retiring on 01-May-19) | inglés | 01/5/2019
-    | AZ-200T01 | A | Select the appropriate Azure technology development solution | inglés | 01/5/2019
-    | AZ-200T02 | A | Develop for Azure storage | inglés | 01/5/2019
-    | AZ-200T03 | A | Develop Azure Platform as a Service solutions | inglés | 01/5/2019
-    | AZ-200T04 | A | Implement security in Azure development solutions | inglés | 01/5/2019
-    | AZ-201T01 | A | Develop for an Azure Cloud Model | inglés | 01/5/2019
-    | AZ-201T02 | A | Implement Azure development integration Solutions | inglés | 01/5/2019
-    | AZ-201T03 | A | Develop Azure Cognitive Services, Bot, and IoT solutions | inglés | 01/5/2019
+    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglés | 01/5/2019
+    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglés | 01/5/2019
+    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | Inglés | 01/5/2019
+    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglés | 01/5/2019
+    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglés | 01/5/2019
+    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | Inglés | 01/5/2019
+    | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (retiring on 01-May-19) | Inglés | 01/5/2019
+    | AZ-200T01 | A | Select the appropriate Azure technology development solution | Inglés | 01/5/2019
+    | AZ-200T02 | A | Develop for Azure storage | Inglés | 01/5/2019
+    | AZ-200T03 | A | Develop Azure Platform as a Service solutions | Inglés | 01/5/2019
+    | AZ-200T04 | A | Implement security in Azure development solutions | Inglés | 01/5/2019
+    | AZ-201T01 | A | Develop for an Azure Cloud Model | Inglés | 01/5/2019
+    | AZ-201T02 | A | Implement Azure development integration Solutions | Inglés | 01/5/2019
+    | AZ-201T03 | A | Develop Azure Cognitive Services, Bot, and IoT solutions | Inglés | 01/5/2019
 
-* Courseware Retiro de 31 de marzo de 2019
+* Courseware Retiro de, 31 de marzo de 2019
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 10996 | A | Hybrid Cloud and Datacenter Monitoring with Operations Management Suite (OMS) | inglés | 31/3/2019
-    | 40457 | A | MOC Workshop: Azure Developer Hackathon | inglés | 31/3/2019
-    | 40500 | A | DevOps Workshop | inglés | 31/3/2019
+    | 10996 | A | Hybrid Cloud and Datacenter Monitoring with Operations Management Suite (OMS) | Inglés | 31/3/2019
+    | 40457 | A | MOC Workshop: Azure Developer Hackathon | Inglés | 31/3/2019
+    | 40500 | A | DevOps Workshop | Inglés | 31/3/2019
 
-* Courseware Retiro de 31 de enero de 2019
+* Courseware Retiro de, 31 de enero de 2019
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
@@ -425,7 +427,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 20533 | E | Implementing Microsoft Azure Infrastructure Solutions | inglés | 31/12/2018
     | 20535 | A | Architecting Microsoft Azure Solutions | inglés | 31/12/2018
 
-* Courseware Retiro de 20 de Agosto de 2018
+* Courseware Retiro de, 20 de Agosto de 2018
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
@@ -435,7 +437,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | inglés | 31/7/2018
+    | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | inglés | 31/07/2018 |
     | 40008 | A | Updating your Database Skills to Microsoft® SQL Server® 2012 | inglés | 31/7/2018
     | 40009 | A | Updating your Business Intelligence Skills to Microsoft® SQL Server® 2012 | inglés | 31/7/2018
     | 40033 | A | Windows Operating System and Windows Server Fundamentals: Training 2-Pack for MTA Exams 98-349 and 98-365 | inglés | 31/7/2018
@@ -519,7 +521,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | alemán | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Francés | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | alemán | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Francés | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Francés | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | alemán | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Francés | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | portugués | 30/6/2018
@@ -874,15 +876,15 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | inglés | 1/8/2016
 
-* Courseware Retiro de, 24 de junio de 2016
+* Courseware Retiro de, 24 de Junio de 2016
 
   [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* Courseware Retiro de, 15 de junio de 2016
+* Courseware Retiro de, 15 de Junio de 2016
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 20346 | D | Managing Office 365 Identities and Services | inglés | 15/6/2016
+    | 20346 | D | Managing Office 365 Identities and Services | inglés | 15/06/2016 |
 
 * Courseware Retiro de, 18 de abril de 2016
 
@@ -914,7 +916,7 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
   [Download the complete list of retiring instructor-led courses](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Courseware Retiro de, 31 de agosto de 2015
+* Courseware Retiro de, 31 de Agosto de 2015
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
@@ -999,8 +1001,8 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
     | 10159 | A | Updating Your Windows Server 2008 Technology Skills to Windows Server 2008 R2 | inglés | 31/12/2013
     | 10325 | A | Automating Administration with Windows PowerShell 2.0 | inglés | 31/12/2013
     | 10337 | A | Updating Your Microsoft SQL Server 2008 BI Skills to SQL Server 2008 R2 | inglés | 31/12/2013
-    | 40005 | B | First Look Clinic: Windows Server 2012 | inglés | 31/12/2013
-    | 40006 | B | Laboratorio práctico: Windows Server 2012 | inglés | 31/12/2013
+    | 40005 | B | First Look Clinic: Windows Server 2012 | inglés | 31/12/2013 |
+    | 40006 | B | Laboratorio práctico: Windows Server 2012 | inglés | 31/12/2013 |
 
 * Courseware Retiro de lunes, 30 de septiembre de 2013
 
@@ -1018,8 +1020,8 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
     | Se retira el 30 de junio número de curso | Version | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | inglés | Replaced by Course 6439: Configuración y solución de problemas de la infraestructura de aplicaciones de Windows Server 2008
-    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | inglés | Replaced by Course 6439: Configuración y solución de problemas de la infraestructura de aplicaciones de Windows Server 2008
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | inglés | Replaced by Course 6439: Configuración y resolución de problemas de Windows Server 2008 Applications Infrastructure
+    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | inglés | Replaced by Course 6439: Configuración y resolución de problemas de Windows Server 2008 Applications Infrastructure
     | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | inglés | Replaced by Course 6435B: Diseño de infraestructura de red y aplicaciones de Windows Server 2008
 
 ## Cursos retirados: Online Learning
@@ -1048,13 +1050,13 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
   * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Preguntas frecuentes sobre la retirada de cursos y formación MOC On-Demand
+Preguntas frecuentes sobre la retirada de cursos y formación MOC On-Demand
  
 **P: ¿Por qué se retiran los cursos?**
   
 Microsoft supervisa continuamente las tendencias de la industria y revisa los requisitos de certificación para mantenerse al día con los cambios en la tecnología. Para asegurarnos de ofrecerle las oportunidades de capacitación más relevantes, presentamos regularmente nuevos cursos y revisamos o descontinuamos los cursos más antiguos. 
 
-**P: ¿Qué criterios se utilizan para determinar que un curso debe retirarse?**
+**P: ¿Qué criterios se aplican para determinar si es necesario retirar un curso?**
  
 Por lo general, un curso se retirará en uno de los siguientes escenarios:
 
@@ -1065,34 +1067,34 @@ Por lo general, un curso se retirará en uno de los siguientes escenarios:
 - Los cursos ofrecidos por autores que no son de Microsoft a través del programa de autoría comunitaria pueden retirarse por cualquier motivo, a solicitud del autor.
 - Los problemas de calidad pueden hacer que se retire el curso. Si se identifican problemas de calidad con un curso, se puede retirar hasta que se pueda mejorar la calidad.
   
-**P: ¿Cómo sabré si se retiró un curso?**
+**P: ¿Cómo sabré si se retira un curso?**
   
 Microsoft publica una lista trimestral de cursos que están retirados y aquellos que están programados para retirarse dentro de los próximos tres a seis meses. Los anuncios de retirada de cursos se comparten a través de comunicaciones con socios de capacitación, capacitadores, proveedores y otras audiencias interesadas. Las descripciones de los cursos en el Catálogo de capacitación de Microsoft y el Catálogo de la biblioteca de Courseware se actualizan con un anuncio de la fecha de retiro.
 
-**P: ¿Cómo puedo comprar un curso después de su fecha de retiro?**
+**P: ¿Cómo puedo comprar un curso después de la fecha de retirada?**
 
 Después de la fecha de retiro del curso, los cursos ya no se venden. La fecha de retiro se publica a través de la página web del catálogo de cada curso y a través de canales de comunicación regulares para cada audiencia. En la fecha efectiva de retiro, el material del curso se marca como ya no está a la venta. Para evitar confusiones, el curso permanece en la lista como no a la venta por un período de tiempo después del retiro efectiva, hasta que se archiva y elimina completamente del catálogo.
 
-**P: ¿Puedo comprar la versión digital de un curso antes de que se retire y descargarlo o usarlo después de la fecha en que se retiró?**
+**P: ¿Puedo adquirir la versión digital de un curso antes de la retirada y descargarlo o usarlo después de la fecha de retirada?**
 
 Una vez que se retira el curso, ya no tiene acceso para descargarlo. Si descargó o recibió el material del curso antes de la fecha en que fue retirado, puede usarlo de acuerdo con los términos de la licencia.
 
-**P: ¿Qué sucede con los cursos retirados que me fueron asignados, antes de su retiro, en mi Plan de aprendizaje y/o agregados en la sección "Mis cursos"?**
+**P: ¿Qué sucede con los cursos retirados que tenía asignados antes de su retirada en mi Plan de aprendizaje o en la sección "Mis cursos"?**
 
 Continuará viendo estos cursos en la sección "Mis cursos" después de su retiro, pero si intenta iniciar un curso retirado, aparecerá un mensaje de error.
 
-**P: Si no completé un curso antes de su retiro, ¿se me permitirá completarlo después de que se haya retirado?**
+**P: Si no finalicé un curso antes de su retirada, ¿podré terminarlo después?**
 
 No. Después de que se retira curso, ya no puede acceder a él.
   
-**P: ¿Cómo reflejarán los informes de actividad del curso los cursos en progreso al momento en el que se retiren?**
+**P: ¿Cómo reflejan los informes de actividad del curso los cursos en progreso en el momento de su retirada?**
 
 Los informes de actividad del curso reflejan su progreso en un curso al momento de su retiro. Por ejemplo, si un usuario completa un curso al 60% cuando se retira, los informes de actividad del curso mostrarán un progreso del 60%. El porcentaje de finalización de un curso no se puede cambiar después de que se retira un curso.
 
-**P: ¿Aún podré encontrar un curso retirado en el sitio de aprendizaje en línea?**
+**P: ¿Podré buscar un curso retirado en el sitio de aprendizaje online?**
 
 No. Los cursos retirados ya no aparecen en los resultados de búsqueda o en el catálogo de cursos.
 
-**P: Cuando un curso se retira, ¿también se retirará el MOC On-Demand (MOD) asociado?**
+**P: Cuando se retira un curso, ¿se retira también el MOC On-Demanda (MOD) asociado?**
 
 Sí. Debido a que el MOD se alinea con el material del curso, cuando un curso se retira, el MOD se retirará en la misma fecha.

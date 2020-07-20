@@ -7,7 +7,7 @@ uid: exam.77-419
 displayName: 77-419
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>Este examen se retira el 30 de junio de 2020. Un examen de reemplazo puede estar disponible. Para saber más, visite nuestro blog&#58; <a href='https://www.microsoft.com/en-us/learning/community.aspx'>https://www.microsoft.com/en-us/learning/community.aspx</a> y revise las publicaciones de retiradas de examen. Nota&#58; Los exámenes se retiran a las 11&#58;59 PM, hora estándar central.<br/><br/></strong></div>
+  <div><strong>Este examen ha sido retirado. Para conocer las opciones disponibles actualmente, consulte la <a href='/learn/certifications/browse/'>página Examinar certificaciones y exámenes</a>.<br/><br/></strong></div>
   </div>
 
   Los candidatos para el examen Microsoft SharePoint 2013 deben tener una comprensión sólida del entorno de SharePoint y la capacidad de realizar todas las tareas de nivel de sitio. Deben conocer y demostrar la aplicación correcta de las funciones principales de sitios, bibliotecas y listas de SharePoint 2013. Los candidatos deben poder optimizar y personalizar los sitios de SharePoint para proporcionar estructura, solucionar problemas, facilitar la colaboración y mejorar la productividad. Los ejemplos de la aplicación incluyen la administración de permisos de lista, agregación de contenido al inicio rápido, creación de sitios de grupo y modificación de las vistas de la biblioteca. Los roles de los candidatos pueden incluir personal de soporte técnico, jefes de proyecto, jefes de equipo, jefes de departamento y otros.
@@ -37,7 +37,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

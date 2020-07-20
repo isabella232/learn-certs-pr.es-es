@@ -14,14 +14,14 @@ levels:
 - intermediate
 skills:
 - Realizar Descubrimiento, Planificación y Análisis
-- Administrar el diseño de la experiencia del usuario
+- Gestionar diseño de experiencia de usuario
 - Administrar entidades y datos
 - Implementar seguridad
 - Implementar integración
 - Realizar implementación y pruebas de soluciones
 - Realizar configuración
 - Administrar los casos y la base de conocimientos
-- Administrar colas, derechos y SLAs
+- Administrar colas, derechos y SLA
 - configurar formularios Pro
 roles:
 - functional-consultant
@@ -30,10 +30,7 @@ products:
 - dynamics
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -46,7 +43,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.mb-200
@@ -58,7 +55,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

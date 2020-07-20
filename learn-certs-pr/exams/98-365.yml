@@ -14,7 +14,11 @@ summary: |-
 subTitle: Los candidatos a este examen están familiarizados con los conceptos y las tecnologías de administración de Windows Server. Los candidatos deben tener experiencia práctica con Windows Server, redes basadas en Windows, Active Directory, administración de cuentas y herramientas, y conceptos para la recuperación de sistemas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -34,7 +38,7 @@ skills:
 - Conocimientos sobre la instalación de servidores (10-15%)
 - Conocimientos sobre los roles de servidor (25-30%)
 - Conocimientos sobre Active Directory (20-25%)
-- Conocimientos sobre almacenamiento (10–15%)
+- Conocimientos sobre almacenamiento (10-15%)
 - Conocimientos sobre la administración del rendimiento de servidores (10-15%)
 - Conocimientos sobre el mantenimiento de servidores (15-20%)
 roles:
@@ -51,7 +55,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

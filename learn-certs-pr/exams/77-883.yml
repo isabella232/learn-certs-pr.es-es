@@ -14,20 +14,20 @@ summary: |-
 subTitle: El candidato típico para el examen es un estudiante, empleado de oficina o instructor que necesita navegar en PowerPoint 2010 a nivel de funcionalidad y función.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
-- pt-br
 - ru
+- ar-sa
+- it
+- pt-br
 levels:
 - beginner
 skills:

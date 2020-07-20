@@ -7,13 +7,15 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 15 de junio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 15 de junio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son profesionales de DevOps que combinan personas, procesos y tecnologías para entregar continuamente productos y servicios valiosos que satisfagan las necesidades del usuario final y los objetivos de negocios. Los profesionales de DevOps optimizan la entrega al maximizar las prácticas, mejorar las comunicaciones la colaboración, y la creación de automatización. Diseñan e implementan estrategias para el código de aplicación y la infraestructura, las cuales permiten la integración continua, las pruebas, la entrega, la monitorización y la retroalimentación.
+  Los candidatos para este examen deben tener experiencia en la materia trabajando con personas, procesos y tecnologías para brindar continuamente valor comercial.
 
-  Los candidatos deben tener conocimiento de las prácticas de Agile. Los candidatos deben tener conocimiento de administración de Azure y desarrollo de Azure y ser expertos en al menos una de estas áreas. Los profesionales de DevOps de Azure deben poder diseñar e implementar las prácticas de DevOps para control de versiones, cumplimiento, infraestructura como código, gestión de configuración, creación, lanzamiento y pruebas mediante las tecnologías de Azure.
-subTitle: 'Este examen mide su capacidad para diseñar una estrategia DevOps e implementar lo siguiente: Procesos de desarrollo de DevOps; gestión de dependencia; infraestructura de aplicaciones; e integración continua, entrega y retroalimentación .'
+  Las responsabilidades para este rol incluyen el diseño e implementación de estrategias de colaboración, código, infraestructura, control de origen, seguridad, cumplimiento, integración continua, pruebas, entrega, supervisión y retroalimentación.
+
+  Un candidato para este examen debe estar familiarizado con la administración y el desarrollo de Azure y debe ser experto en al menos una de estas áreas.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: desarrollar una estrategia de instrumentación; desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE); desarrollar un plan de seguridad y cumplimiento; gestionar el control de fuente; facilitar la comunicación y colaboración; definir e implementar la integración continua; y definir e implementar una estrategia continua de gestión de entrega y liberación.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 15 de junio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Diseñar una estrategia DevOps (20-25%)
-- Implementar procesos de desarrollo DevOps (20-25%)
-- Implementar integración continua (10-15%)
-- Implementar entrega continua (10-15%)
-- Implementar la gestión de dependencias (5-10%)
-- Implementar infraestructura de aplicaciones (15-20%)
-- Implementar retroalimentación continua (10-15%)
+- El contenido de este examen se actualizó el, 15 de Junio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Desarrollar una estrategia de instrumentación (5-10%)
+- Desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE) (5-10%)
+- Desarrollar un plan de seguridad y cumplimiento (10-15%)
+- Administrar el control de fuente (10-15%)
+- Facilitar la comunicación y la colaboración (10-15%)
+- Definir e implementar la integración continua (20-25%)
+- Definir e implementar una estrategia de gestión de entrega y liberación continua (10-15%)
 roles:
 - devops-engineer
 products:
@@ -60,7 +62,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -72,7 +74,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

@@ -12,7 +12,7 @@ summary: |-
 subTitle: El candidato de nivel básico para el examen de Microsoft Excel 2013 debe tener conocimientos básicos del entorno Excel y la capacidad de completar tareas de forma independiente. Debe conocer y demostrar la aplicación correcta de las funciones principales de Excel 2013. Este candidato debe poder crear y editar un libro con varias hojas de cálculo para diversas finalidades y situaciones. Entre los ejemplos se incluyen presupuestos de apariencia profesional, gráficos de rendimiento del equipo, facturas de ventas y registros de ejercicios. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, contables, formadores y otros.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
 locales:
 - en
 - zh-cn
@@ -28,6 +28,8 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:
@@ -50,7 +52,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

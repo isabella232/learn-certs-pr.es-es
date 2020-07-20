@@ -31,14 +31,12 @@ products:
 exams:
 - uid: exam.az-900
 summary: |-
-  Este curso proporcionará conocimiento de nivel básico de los servicios en la nube y cómo esos servicios se proporcionan con Microsoft Azure. El curso se puede tomar como un primer paso opcional para aprender sobre los servicios en la nube y Microsoft Azure, antes de continuar con los cursos de Microsoft Cloud o Microsoft Cloud Services.
+  Este curso de un día proporcionará conocimiento de nivel básico sobre conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.
 
-  El curso cubrirá conceptos generales de informática en la nube, así como modelos y servicios generales de informática en la nube, como la nube pública, privada e híbrida, e Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y Software como servicio (SaaS).
-
-  También cubrirá algunos servicios y soluciones centrales de Azure, así como servicios clave de Azure en relación con la seguridad, la privacidad, el cumplimiento y la confianza. Finalmente cubrirá los precios y los servicios de soporte disponibles con Azure.
+  Nota&#58; Este curso no proporciona un pase o tiempo de Azure para que los estudiantes participen en laboratorios prácticos. Si está interesado en una experiencia práctica de laboratorio más interactiva, considere el AZ-900T00&#58; Curso de Microsoft Azure Fundamentals (2 días), que incluye laboratorios prácticos dirigidos por capacitadores. El contenido de ambos cursos se alinea con el dominio objetivo del examen AZ-900.
 
   #### Perfil de audiencia
-  No hay requisitos previos para tomar este curso. Está dirigido a cualquier persona que quiera aprender más sobre Microsoft Azure.
+  Este curso es adecuado para gerentes de programas y ventas técnicas, con antecedentes generales de TI. Estos estudiantes quieren aprender sobre nuestras ofertas, ver cómo se implementan los componentes y hacer preguntas sobre productos y características. Este curso no proporciona un pase o tiempo de Azure en el aula para que los estudiantes realicen actividades prácticas. Los estudiantes pueden obtener una prueba gratuita y hacer los recorridos fuera de clase. Este curso es principalmente de conferencias y demostraciones. Este curso es de ayuda para prepararse para el examen AZ-900.
 prerequisitesSection: |-
   No hay requisitos previos para tomar este curso. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
 outlineSection: |-
@@ -63,8 +61,7 @@ outlineSection: |-
   - Herramientas de administración de Azure
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Comprender los servicios principales disponibles con
-  Microsoft Azure
+  - Comprender los servicios principales disponibles con Microsoft Azure
 
   ### Module 3&#58; Seguridad, privacidad, cumplimiento y confianza
   En este módulo, aprenderá sobre seguridad, privacidad, cumplimiento y confianza con Microsoft Azure.
@@ -79,14 +76,13 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprensión de seguridad, privacidad, cumplimiento y confianza con Microsoft Azure
 
-  ### Módulo 4&#58; Precios y soporte de Azure
+  ### Módulo 4&#58; Precios de Azure, acuerdos de nivel de servicio (SLA) y ciclo de vida
   En este módulo, se centrará en los modelos de precios y soporte disponibles con Microsoft.
   #### Lecciones
   - Suscripciones de Azure
   - Planificación y gestión de costes.
-  - Opciones de soporte disponibles con Azure
   - Ciclo de vida del servicio en Azure
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Comprender los precios y los modelos de soporte disponibles con Microsoft
+  - Comprender los modelos de precios y ciclo de vida del servicio disponibles con Microsoft
 

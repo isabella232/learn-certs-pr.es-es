@@ -15,7 +15,11 @@ subTitle: Este examen valida que un candidato tiene habilidades y conocimientos 
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
 practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -32,9 +36,9 @@ locales:
 levels:
 - beginner
 skills:
-- Comprensión de las capas de seguridad (25–30%)
-- Comprensión de la seguridad del sistema operativo (35–40%)
-- Comprensión de la seguridad de red (20–25%)
+- Comprensión de las capas de seguridad (25-30%)
+- Comprensión de la seguridad del sistema operativo (35-40%)
+- Comprensión de la seguridad de red (20-25%)
 - Comprensión del software de seguridad (15-20%)
 roles:
 - administrator
@@ -53,7 +57,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

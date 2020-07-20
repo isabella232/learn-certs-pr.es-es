@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.'
+  description: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -14,7 +14,7 @@ levels:
 - intermediate
 skills:
 - Realizar Descubrimiento, Planificación y Análisis
-- Administrar el diseño de la experiencia del usuario
+- Gestionar diseño de experiencia de usuario
 - Administrar entidades y datos
 - Implementar seguridad
 - Implementar integración
@@ -37,6 +37,13 @@ courses:
 - uid: course.mb-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
@@ -52,7 +59,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

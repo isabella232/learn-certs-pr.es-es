@@ -5,8 +5,18 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>\r\n  \r\nEl creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Están capacitados en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos, análisis de procesos, etc.<br/><br/>\r\n\r\nEl creador de la aplicación crea y aplica procesos empresariales, estructura la recopilación digital de información, mejora la eficiencia de las tareas repetibles y automatiza los procesos empresariales.\r\n\r\nEl creador de la aplicación utiliza las herramientas del creador de Power Platform para resolver problemas comerciales. Pueden tener experiencia con Visual Basic para aplicaciones, tablas dinámicas de Excel, equipos y otras herramientas. Deben tener una comprensión básica de los modelos de datos, la interfaz de usuario y los procesos. El creador de la aplicación conoce las capacidades y limitaciones de las herramientas disponibles y comprende cómo aplicarlas.\r\n\r\nEl creador de la aplicación es autodirigido y enfocado en la solución. Es posible que no tengan capacitación formal en TI, pero se sienten cómodos usando la tecnología para resolver problemas comerciales con una mentalidad de crecimiento personal. Entienden la necesidad operativa y tienen una visión del resultado deseado. Abordan los problemas con estrategias escalonadas e iterativas.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Nota&#58; 'Este examen estará disponible alrededor de julio de 2020.</div>"
-subTitle: 'Este examen estará disponible alrededor de julio de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: soluciones de diseño; crear soluciones; analizar datos; e implementar y gestionar soluciones.'
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+    
+  El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Están capacitados en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos, análisis de procesos, etc.<br/><br/>
+  
+  El creador de la aplicación crea y aplica procesos empresariales, estructura la recopilación digital de información, mejora la eficiencia de las tareas repetibles y automatiza los procesos empresariales.
+  
+  El creador de la aplicación utiliza las herramientas del creador de Power Platform para resolver problemas comerciales. Pueden tener experiencia con Visual Basic para aplicaciones, tablas dinámicas de Excel, equipos y otras herramientas. Deben tener una comprensión básica de los modelos de datos, la interfaz de usuario y los procesos. El creador de la aplicación conoce las capacidades y limitaciones de las herramientas disponibles y comprende cómo aplicarlas.
+  
+  El creador de la aplicación es autodirigido y enfocado en la solución. Es posible que no tengan capacitación formal en TI, pero se sienten cómodos usando la tecnología para resolver problemas comerciales con una mentalidad de crecimiento personal. Entienden la necesidad operativa y tienen una visión del resultado deseado. Abordan los problemas con estrategias escalonadas e iterativas.  
+  <div style='font-weight&#58; bold;'><br/>NOTA&#58; Este examen estará disponible alrededor del, 17 de julio de 2020.</div>
+subTitle: 'Este examen estará disponible alrededor del viernes, 17 de julio de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: soluciones de diseño; crear soluciones; analizar datos; e implementar y gestionar soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 providers:
@@ -68,7 +78,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -80,7 +90,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

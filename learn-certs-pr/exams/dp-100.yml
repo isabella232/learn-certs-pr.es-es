@@ -25,18 +25,22 @@ levels:
 - intermediate
 skills:
 - El contenido de este examen se actualizó el, 22 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
-- Configurar un espacio de trabajo de Azure Machine Learning (30 -35%)
-- Ejecutar experimentos y entrenar modelos (25 -30%)
-- Optimizar y administrar modelos (20 -25%)
-- Implementar y consumir (20 -25%)
+- Configurar un espacio de trabajo de Azure Machine Learning (30-35%)
+- Ejecutar experimentos y entrenar modelos (25-30%)
+- Optimizar y administrar modelos (20-25%)
+- Implementar y consumir (20-25%)
 roles:
 - data-scientist
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
 - related:
@@ -45,7 +49,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -57,7 +61,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicite ajustes
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

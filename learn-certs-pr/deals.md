@@ -1,5 +1,5 @@
 ---
-title: Ofertas | Microsoft Docs
+title: Offers | Microsoft Docs
 description: Offers 
 documentationcenter: NA 
 author: bipach
@@ -42,11 +42,11 @@ Validar sus habilidades, obtener una ventaja profesional y potenciar su confianz
 
 
 ## Ahorre dinero con descuentos para estudiantes
-Aproveche importantes descuentos en los exámenes de Microsoft Certified Professional, si verifique su estatus de estudiante antes de registrarse para un examen. Si su centro educativo es miembro de Microsoft Imagine Academy, podría disfrutar de descuentos adicionales. *Nota: Tenga en cuenta que los descuentos para los exámenes de Microsoft Certified Professional no están disponibles en la India ni en China.*
+Aproveche importantes descuentos en los exámenes de Microsoft Certified Professional, si verifique su estatus de estudiante antes de registrarse para un examen. *Nota: Tenga en cuenta que los descuentos para los exámenes de Microsoft Certified Professional no están disponibles en la India ni en China.*
 
 [**Obtenga más información**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>Preguntas frecuentes
+## Preguntas frecuentes
 
 **P. ¿Qué es Exam Replay?**
 

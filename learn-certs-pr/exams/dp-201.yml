@@ -5,7 +5,17 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>  \r\n  \r\nLos candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas comerciales para identificar y cumplir con los requisitos de datos a fin de diseñar soluciones de datos que utilizan los servicios de datos de Azure.\r\n\r\nLos ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.\r\n\r\nLos candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage."
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 31 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  </div>
+
+  Los candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas comerciales para identificar y cumplir con los requisitos de datos a fin de diseñar soluciones de datos que utilizan los servicios de datos de Azure.
+
+  Los ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.
+
+  Los candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage.'
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar soluciones de almacenamiento de datos de Azure; diseñar soluciones de procesamiento de datos; y diseño para seguridad de datos y cumplimiento.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,6 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el, 31 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Diseñar soluciones de almacenamiento de datos Azure (40-45%)
 - Diseñar soluciones de procesamiento de datos (25-30%)
 - Diseño para seguridad de datos y cumplimiento (25-30%)

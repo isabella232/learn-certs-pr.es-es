@@ -12,26 +12,26 @@ summary: |-
 subTitle: Los usuarios expertos de Microsoft Office Excel 2010 pueden usar el software Excel 2010 de manera eficiente y confiable en los niveles de funcionalidad y funci?n. Los usuarios expertos son competentes con f?rmulas avanzadas, funciones y herramientas de an?lisis de datos. Los usuarios expertos pueden manipular los datos para su an?lisis, presentaci?n y colaboraci?n. Adem?s, los usuarios expertos pueden manipular las opciones de Excel para personalizar su entorno para satisfacer diferentes necesidades y mejorar su productividad.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
+- ar-sa
+- it
 - pt-br
 levels:
 - beginner
 skills:
-- Compartir y mantener libros de trabajo
+- Compartir y mantener libros de trabajo.
 - Aplicar f?rmulas y funciones
 - Presentaci?n datos visualmente
-- Trabajando con macros y formularios
+- Trabajando con macros y formularios.
 roles:
 - business-user
 products:

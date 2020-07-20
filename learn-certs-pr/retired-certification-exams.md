@@ -73,15 +73,11 @@ Busque exámenes que se retirarán durante los próximos 12 meses, enumerados po
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| Se retira el 30 de junio de 2020 | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## Exámenes retirados recientemente
 
 Para utilizarlos como referencia, los exámenes retirados durante el último año contendrán un enlace a su página de información del examen durante un periodo de 12 meses.
 
-| ITPro/Developer| | |
+| Roles basados| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 de mayo de 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 de mayo de 2019
@@ -92,6 +88,11 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 de junio de 2019
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 de septiembre de 2019
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 de septiembre de 2019
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 de diciembre de 2017
 | 70-247 | Configuring and Deploying a Private Cloud | 31 de diciembre de 2017
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 de marzo de 2019
@@ -130,6 +131,7 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31 de julio de 2019
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 31 de diciembre de 2017
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 de julio de 2018
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 30 de junio de 2020
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 de septiembre de 2019
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 de agosto de 2019
 

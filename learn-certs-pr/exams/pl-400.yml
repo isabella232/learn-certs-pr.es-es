@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Developer (beta)'
+metadata:
+  title: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+  description: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+uid: exam.pl-400
+displayName: PL-400
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Los candidatos para este examen diseñan, desarrollan, aseguran y solucionan problemas de las soluciones de Power Platform. Los candidatos implementan componentes de una solución, incluyendo mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+
+  Los candidatos deben tener un sólido conocimiento aplicado de los servicios de Power Platform, incluida una comprensión profunda de las capacidades, límites y limitaciones. Los candidatos deben tener un conocimiento básico de las prácticas de DevOps para Power Platform.
+
+  Los candidatos deben tener experiencia en desarrollo que incluya servicios de Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, servicios web RESTful, ASP.NET y Microsoft Power BI.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Este examen estará disponible en octubre de 2020.</div>
+subTitle: 'Este examen estará disponible en octubre de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes; crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Crear un diseño técnico (10-15%)
+- Configurar el servicio de datos comunes (15-20%)
+- Crear y configurar Power Apps (15-20%)
+- Configurar la automatización de procesos comerciales (5-10%)
+- Extender la experiencia del usuario (10-15%)
+- Extender la plataforma (15-20%)
+- Desarrollar integraciones (5-10%)
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+- common-data-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-developer-associate
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md
+

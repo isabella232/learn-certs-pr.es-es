@@ -15,7 +15,7 @@ summary: |-
 
   Los ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.
 
-  Los candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage.'
+  Los candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar soluciones de almacenamiento de datos de Azure; diseñar soluciones de procesamiento de datos; y diseño para seguridad de datos y cumplimiento.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -63,6 +63,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación como ingeniero asociado de datos Azure y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

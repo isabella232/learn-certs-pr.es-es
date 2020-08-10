@@ -1,0 +1,246 @@
+### YamlMime:Course
+title: Microsoft Azure technologies for AWS architects
+metadata:
+  title: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+  description: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+uid: course.az-030t00
+courseNumber: 'AZ-030T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identidades seguras con Azure Active Directory, usuarios y grupos
+- skill: Implemente soluciones de identidad que abarquen capacidades locales y basadas en la nube
+- skill: Aplique soluciones de supervisión para recopilar, combinar y analizar datos de diferentes fuentes
+- skill: Administre suscripciones, cuentas, políticas de Azure y control de acceso basado en roles
+- skill: Administre Azure con Resource Manager, Azure Portal, Cloud Shell y CLI
+- skill: Configure soluciones de conectividad entre sitios como emparejamiento de VNet y puertas de enlace de red virtual.
+- skill: Administre Azure App Service, Azure Container Instances y Kubernetes.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  Este curso enseña a los arquitectos de soluciones que han diseñado previamente para Amazon Web Services cómo traducir los requisitos comerciales en soluciones seguras, escalables y confiables para Azure. Las lecciones incluyen virtualización, automatización, redes, almacenamiento, identidad, seguridad, plataforma de datos e infraestructura de aplicaciones. Este curso describe cómo las decisiones en cada una de estas áreas afectan a una solución general.
+
+  #### Perfil de audiencia
+  Este curso es para AWS Cloud Architects con experiencia en el diseño e implementación de soluciones que se ejecutan en AWS y que ahora desean diseñar para Microsoft Azure.
+prerequisitesSection: |-
+  - Experiencia (>1 año) como AWS Architect diseñando soluciones de nube de AWS seguras y escalables a través de estructuras de almacenamiento, informática, redes y la interacción con recursos/servicios externos.
+  - Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
+  - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
+  - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
+  - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
+  - Comprensión de los fundamentos de programación y uso de un lenguaje de script.
+
+  Los candidatos se beneficiarán de la familiaridad con la administración de Azure, los procesos de desarrollo de Azure y los procesos de DevOps.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Azure
+  En este módulo, aprenderá cómo Azure organiza suscripciones y cuentas, y puede configurar grupos de recursos y plantillas para estandarizar la creación y la administración del ciclo de vida de sus recursos.
+  #### Lecciones
+  - Subscripciones y cuentas
+  - Grupos de recursos y plantillas en Azure Resource Manager
+
+  Después de completar este módulo, tú podrán&#58;
+  - Determinar el tipo de cuenta y suscripción que mejor se adapte a su solución.
+  - Crear grupos de recursos y plantillas para estandarizar y administrar soluciones.
+
+
+  ### Módulo 2&#58; Infraestructura global de Azure
+  En este módulo, verá la arquitectura mundial de Microsoft Azure y cómo esa arquitectura afecta la disponibilidad y confiabilidad de sus aplicaciones y sitios.
+  #### Lecciones
+  - Regiones Azure
+  - Zonas de disponibilidad de Azure
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Implementar una arquitectura que brinde la disponibilidad y confiabilidad requeridas por su solución.
+
+
+  ### Módulo 3&#58; Implementar Azure Active Directory
+  En este módulo, aprenderá cómo proteger las identidades con Azure Active Directory e implementar usuarios y grupos.
+  #### Lecciones
+  - Introducción a Azure Active Directory
+  - Dominios y dominios personalizados
+  - Caracteristicas de seguridad
+  - Usuarios invitados en Azure Active Directory
+  - Administrar múltiples directorios
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Identidades seguras con Azure Active Directory.
+  - Implementar usuarios y grupos.
+
+
+  ### Módulo 4&#58; Implementar y gestionar identidades híbridas
+  En este módulo, aprenderá cómo extender sus cuentas locales de Active Directory a la nube y cómo sincronizar las cuentas.
+  #### Lecciones
+  - Introducción a Azure AD Connect
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Use su cuenta de Active Directory local para autenticarse en su solución en la nube.
+  - Sincronizar cuentas entre las instalaciones y la nube.
+
+
+  ### Módulo 5&#58; Implementar redes virtuales
+  En este módulo, aprenderá sobre conceptos básicos de redes virtuales como redes virtuales y subredes, direccionamiento IP, Azure DNS, grupos de seguridad de red y Azure Firewall.
+  #### Lecciones
+  - Azure Virtual Network y VNet peering
+  - Conexiones VPN y ExpressRoute
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Diseñar redes virtuales teniendo en cuenta la seguridad.
+
+
+  ### Módulo 6&#58; Implementar máquinas virtuales para Windows y Linux
+  En este módulo, aprenderá cómo configurar máquinas virtuales para una alta disponibilidad y cómo implementar y configurar conjuntos de escalado.
+  #### Lecciones
+  - Configurar a alta disponibilidad
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Implementar máquinas virtuales para crear soluciones de alta disponibilidad.
+  - Implementar y configurar conjuntos de escalado.
+
+
+  ### Módulo 7&#58; Implementar el equilibrio de carga y la seguridad de la red
+  En este módulo, aprenderá cómo implementar Azure Load Balancer y cómo configurar grupos de seguridad.
+  #### Lecciones
+  - Implementar Azure Load Balancer
+  - Implementar una puerta de enlace de aplicaciones de Azure
+  - Implementar Azure Firewall
+  - Implementar grupos de seguridad de red y grupos de seguridad de aplicaciones.
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Implementar los componentes del equilibrio de carga.
+  - Configurar grupos de seguridad de redes y aplicaciones.
+
+
+  ### Módulo 8&#58; Implementar aplicaciones basadas en contenedores
+  En este módulo, aprenderá cómo configurar el servicio Azure Kubernetes y cómo publicar una solución en un contenedor de Azure.
+  #### Lecciones
+  - Configurar el servicio Azure Kubernetes
+  - Publicar una solución en una instancia de Azure Container
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar el servicio Azure Kubernetes para su solución.
+  - Publicar su solución en una instancia de Azure Container.
+
+
+  ### Módulo 9&#58; Implementar una infraestructura de aplicaciones
+  En este módulo, aprenderá los conceptos básicos para seleccionar un plan de App Service, configurar su plan y configurar aplicaciones lógicas y funciones de Azure.
+  #### Lecciones
+  - Crear un plan de servicio de aplicaciones
+  - Crear y configurar Azure App Service
+  - Configurar redes para un servicio de aplicaciones
+  - Introducción a las aplicaciones lógicas y las funciones de Azure
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Seleccionar un plan de App Service adecuado para su solución.
+  - Configurar el Servicio de aplicaciones.
+  - Incorporar aplicaciones lógicas y funciones de Azure en su solución.
+
+
+  ### Módulo 10&#58; Implementar cuentas de almacenamiento
+  En este módulo, se le presentará Azure Storage y cómo configurar el acceso a la red, la replicación, la autenticación, el acceso y la conmutación por error.
+  #### Lecciones
+  - Conceptos básicos de Azure Storage
+  - Administrar el ciclo de vida de almacenamiento de Azure Blob
+  - Trabajar con Azure Blob Storage
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Seleccionar una cuenta de Azure Storage adecuada para su solución.
+  - Configurar su cuenta de almacenamiento.
+
+
+  ### Módulo 11&#58; Implementar bases de datos NoSQL
+  En este módulo, aprenderá sobre Azure Cosmos DB y cómo configurarlo.
+  #### Lecciones
+  - Introducción a Azure Cosmos DB
+  - Consistencia
+  - Seleccionar las API de CosmosDB apropiadas
+  - Configurar réplicas en CosmosDB
+  - Comparación con AWS DynamoDB
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar una solución de base de datos NoSQL con Azure Cosmos DB.
+
+
+  ### Módulo 12&#58; Implementar bases de datos de SQL Azure
+  En este módulo, aprenderá cómo implementar instancias administradas de la base de datos SQL Azure y cómo configurarla para alta disponibilidad.
+  #### Lecciones
+  - Establecer la configuración de la base de datos SQL de Azure
+  - Implementar instancias administradas de Azure SQL Database
+  - Configurar alta disponibilidad para una base de datos SQL Azure
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Implementar instancias administradas de la base de datos Azure SQL.
+  - Configurar su base de datos para alta disponibilidad.
+
+
+  ### Módulo 13&#58; Implementar supervisión de infraestructura en la nube
+  En este módulo, aprenderá cómo usar Azure Monitor para configurar alertas y cómo registrar y administrar costos.
+  #### Lecciones
+  - Vigilar la seguridad
+  - Supervisar el costo
+  - Configurar un espacio de trabajo de Log Analytics
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar la supervisión de seguridad para su solución.
+  - Supervisar los costos mediante el análisis de registros.
+
+
+  ### Módulo 14&#58; Implementar y administrar Gobernanza en Azure soluciones
+  En este módulo, aprenderá cómo configurar el control de acceso basado en roles y cómo configurar la Política de Azure para forzar el cumplimiento de los requisitos de gobierno.
+  #### Lecciones
+  - Asignar roles de RBAC
+  - Configurar el acceso a la administración a Azure
+  - Implementar y configurar una política de Azure
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Configurar roles RBAC para acceso de gobierno.
+  - Configurar una política de Azure para exigir el cumplimiento de los requisitos de gobierno.
+
+
+  ### Módulo 15&#58; Administrar seguridad para aplicaciones
+  En este módulo, aprenderá cómo implementar y configurar KeyVault, cómo registrar y administrar aplicaciones en Azure Active Directory y cómo configurar Identidades administradas de Azure Active Directory.
+  #### Lecciones
+  - Implementar Azure Key Vault
+  - Implementar y configurar identidades administradas de Azure AD
+  - Registrar y administrar aplicaciones en Azure AD
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Registrar su aplicación en Azure Active Directory.
+  - Configurar Azure Active Directory para las identidades administradas utilizadas por su aplicación para acceder a los datos.
+
+
+  ### Módulo 16&#58; Gestión de migración, respaldo y recuperación ante desastres
+  En este módulo, aprenderá a migrar las cargas de trabajo y ahora a administrar copias de seguridad, recuperación ante desastres y actualizaciones.
+  #### Lecciones
+  - Migrar cargas de trabajo
+  - Implementar Azure Backup para máquinas virtuales
+  - Implementar recuperación ante desastres
+  - Comparación con AWS
+
+  Después de completar este módulo, tú podrán&#58;
+  - Migrar cargas de trabajo a la nube y a través de máquinas virtuales.
+  - Implementar copias de seguridad en la nube.
+  - Implementar opciones de recuperación ante desastres.
+  - Implementar estrategias de actualización que eviten impactos negativos en la disponibilidad y el rendimiento.
+

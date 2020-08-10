@@ -15,9 +15,9 @@ levels:
 skills:
 - Describir el valor comercial de Power Platform
 - Identificar los componentes principales de Power Platform
-- Describir el valor comercial de Power BI
-- Describir el valor comercial de Power Apps
-- Describir el valor comercial de Power Automate
+- Demostrar las capacidades de Power BI
+- Describir las capacidades de Power Apps
+- Demostrar las capacidades de Power Automate
 - Demostrar el valor comercial de los agentes virtuales de energía
 roles:
 - business-user
@@ -39,7 +39,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

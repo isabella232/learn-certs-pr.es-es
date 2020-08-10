@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Functional Consultant (beta)'
+metadata:
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+uid: exam.pl-200
+displayName: PL-200
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Un consultor funcional de Power Platform es responsable de realizar descubrimientos, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar las soluciones y aplicaciones de Power Platform.
+
+  El Consultor Funcional implementa componentes de una solución que incluyen mejoras de la aplicación, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Este examen estará disponible en octubre de 2020.</div>
+subTitle: 'Este examen estará disponible en octubre de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar el Servicio de datos comunes; construir una aplicación de energía; crear automatizaciones con Power Automate; configurar agentes virtuales de energía; y crear visualizaciones con Power BI.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Configurar el servicio de datos comunes
+- Crea una Power App
+- Crear automatizaciones con Power Automate
+- Configurar agentes virtuales de energía
+- Crear visualizaciones con Power BI
+roles:
+- business-analyst
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-functional-consultant-associate
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md
+

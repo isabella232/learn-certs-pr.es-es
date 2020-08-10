@@ -54,15 +54,9 @@ products:
 - azure-sql-database
 - azure-event-hubs
 courses:
-- uid: course.az-300t01
-- uid: course.az-300t02
-- uid: course.az-300t03
-- uid: course.az-300t04
-- uid: course.az-300t06
-- uid: course.az-301t01
-- uid: course.az-301t02
-- uid: course.az-301t03
-- uid: course.az-301t04
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -81,6 +75,9 @@ resources:
 - title: Azure certifications poster
   description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación como Azure Solutions Architect Expert y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

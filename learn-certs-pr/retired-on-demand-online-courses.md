@@ -44,7 +44,7 @@ Consulte los cursos y recursos de aprendizaje en línea GRATUITOS en el siguient
 - OD13969: Servicios de Active Directory® con Windows Server® (90 Días)  
 - OD20331: Soluciones principales de Microsoft® SharePoint® Server 2013 (90 Días)  
 - OD20332: Soluciones avanzadas de Microsoft® SharePoint® Server 2013 (90 Días)  
-- OD20334: Soluciones principales de Skype for Business 2015 (90 Días)   
+- OD20334: Soluciones principales de Skype for Business 2015 (90 Días)  
 - OD20339-1: Planificar y administrar SharePoint 2016 (90 Días)  
 - OD20339-2: Tecnologías avanzadas de SharePoint 2016 (90 Días)  
 - OD20341: Soluciones principales de Microsoft® Exchange Server 2013 (90 Días)  

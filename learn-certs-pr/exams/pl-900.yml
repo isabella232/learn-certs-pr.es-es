@@ -7,32 +7,32 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 13 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 13 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
-  Los candidatos para este examen son usuarios que aspiran a mejorar la productividad al comprender las capacidades de Power Platform, automatizar los procesos comerciales básicos con Power Automate, realizar análisis de datos básicos con Power BI para generar información comercial, actuar de manera más efectiva mediante la creación de la aplicación de lienzo Power Apps simple experiencias y creando chatbots potentes sin usar código.
-subTitle: Este examen mide su capacidad para comprender el valor comercial de Power Platform; comprender los componentes centrales de Power Platform; demostrar el valor comercial de Power BI; y demostrar el valor comercial de Microsoft Automate.
+  Los candidatos para este examen aspiran a mejorar la productividad al comprender las capacidades de Power Platform, automatizar los procesos comerciales básicos con Power Automate, realizar análisis de datos básicos con Power BI, actuar de manera más efectiva creando experiencias simples de Power Apps y creando potentes chatbots usando Power Agentes virtuales.
+subTitle: Este examen mide su capacidad para describir el valor comercial de Power Platform; identificar los componentes principales de Power Platform; demostrar las capacidades de Power BI; describir las capacidades de Power Apps; demostrar las capacidades de Power Automate; y demostrar el valor comercial de Power Virtual Agents.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer   
+- providerType: pearson-vue
+  examUrl: 'https://examregistration.microsoft.com/?locale=es-es&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizará el, 13 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Describir el valor comercial de Power Platform (20-25%)
+- El contenido de este examen se actualizó el, 13 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Describir el valor comercial de Power Platform (15-20%)
 - Identificar los componentes principales de Power Platform (15-20%)
-- Describir el valor comercial de Power BI (10-15%)
-- Describir el valor comercial de Power Apps (15-20%)
-- Describir el valor comercial de Power Automate (15-20%)
+- Demostrar las capacidades de Power BI (15-20%)
+- Describir las capacidades de Power Apps (15-20%)
+- Demostrar las capacidades de Power Automate (15-20%)
 - Demostrar el valor comercial de los agentes virtuales de energía (10-15%)
 roles:
 - developer

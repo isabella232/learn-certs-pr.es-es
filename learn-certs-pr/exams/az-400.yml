@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el, 15 de Junio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- 'El contenido de este examen se actualizó el, 15 de junio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió. '
 - Desarrollar una estrategia de instrumentación (5-10%)
 - Desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE) (5-10%)
 - Desarrollar un plan de seguridad y cumplimiento (10-15%)
@@ -45,11 +45,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 relatedCertifications:
@@ -79,5 +80,5 @@ resources:
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
-  href: ../certification-exam-policies.md
+  href: ../certification-exam-policies.md 
 

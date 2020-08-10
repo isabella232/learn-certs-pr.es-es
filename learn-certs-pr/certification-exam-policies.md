@@ -45,22 +45,45 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
 
     Microsoft Worldwide Learning Security Team  
     One Microsoft Way  
-    Redmond, WA 98052 
+    Redmond, WA 98052
 
 3. El Microsoft Worldwide Learning Security Team revisará todas las solicitudes de reclamación enviadas y llevará a cabo una investigación exhaustiva de cada caso en particular; notificará directamente al candidato la conclusión de la investigación y la decisión final acerca de la reclamación.
 
 ### Directiva sobre repetición de exámenes
 
 1. General directiva de repetición de exámenes de certificación de Microsoft
-    1. Si un candidato no supera el examen en el primer intento, deberá esperar al menos 24 horas para poder repetirlo.
+    1. Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 a 30 horas para poder repetirlo. Después de este período de tiempo, los candidatos pueden iniciar sesión en su [panel de certificación](https://aka.ms/certdashboard) y reprogramar el examen ellos mismos.
     2. Si un candidato no supera el examen en el segundo intento, deberá esperar al menos 14 días para poder repetirlo por tercera vez.
-    3. Asimismo, se impone un período de espera de 14 días para poder repetir el examen por cuarta y quinta vez. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses comienza desde el primer intento. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha. Para realizar un examen más de cinco veces al año o para tener el tiempo entre los intentos renunciados, un candidato debe enviar una solicitud y obtener permiso previo de Microsoft. Las solicitudes se deben enviar a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Estas solicitudes deben incluir la siguiente información:
-        - MCID
-        - Nombre
-        - Correo electrónico
+    3. Asimismo, se impone un período de espera de 14 días para poder repetir el examen por cuarta y quinta vez.
+    4. Un candidato no puede realizar un examen más de cinco veces al año (12 meses). Este período de 12 meses comienza desde el primer intento. El candidato entonces puede optar a repetir el examen 12 meses después de esa fecha. Para realizar un examen más de cinco veces al año o para tener el tiempo entre los intentos renunciados, un candidato debe enviar una solicitud y obtener permiso previo de Microsoft. Las solicitudes se deben enviar a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Estas solicitudes deben incluir la siguiente información:
+        - Identificación del candidato
+        - Nombre y apellido
+        - Correo electrónico asociado con su identificación de candidato
+        - Identificación de registro del examen
         - Número de examen
+        - Descripción del error
+        - Número de caso de Pearson VUE
 
-2. Directiva sobre repetición de exámenes para Microsoft Technology Associate (MTA) y Microsoft Certified Educator (MCE)
+    **Se aceptarán excepciones de repetición de exámenes para los siguientes escenarios:**
+      - Fallo por accidente de laboratorio
+      - Fallo debido a problemas de conectividad a internet
+      - Fallo por falla del equipo
+      - Solicitudes que incluyen un número de caso de Pearson VUE
+
+    **No se aceptarán excepciones de repetición de exámenes para los siguientes escenarios:**
+      - Fallo debido a la falta de preparación, conocimiento, capacidad o habilidad del candidato
+      - Solicitudes que no incluyen un número de caso de Pearson VUE
+
+    Repetición de exámenes las solicitudes se deben enviar a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) Estas solicitudes deben incluir la siguiente información:
+      - Identificación del candidato
+      - Nombre y apellido
+      - Correo electrónico asociado con su identificación de candidato
+      - Identificación de registro del examen
+      - Número de examen
+      - Descripción del error
+      - Número de caso de Pearson VUE
+
+2. Directiva sobre repetición de exámenes para Microsoft Technology Associate (MTA) y Microsoft Certified Educator (MCE):
     1. Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 horas para poder repetirlo.
     2. Si un candidato no logra superar el examen en la segunda convocatoria, deberá esperar al menos siete días para poder repetir el examen por tercera vez.
     3. Se impone un período de espera de siete días para cualquier repetición posterior del examen.
@@ -119,7 +142,7 @@ Si un candidato infringe alguna regla de la prueba, directiva de examen o térmi
 
 A fin de velar por la seguridad y la integridad, Microsoft se reserva el derecho a excluir por completo regiones, países y centros de pruebas específicos del Microsoft Certification Program.
 
-### Exámenes beta
+## Exámenes beta
 
 Aproximadamente 400 personas pueden hacer el examen beta a una tarifa reducida. Para aprovechar esta tarifa reducida, necesita un código beta que debe introducir como parte de su pago durante el registro. Para obtener este código, puede:
 
@@ -293,7 +316,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
         1. Usted accede a (i) no llevar a cabo ninguna conducta que pudiera perjudicar a la reputación de Microsoft; (ii) evitar prácticas engañosas, erróneas o poco éticas; (iii) no actuar en representación de Microsoft u ofrecer garantías a los clientes en nombre de Microsoft; (iv) cumplir todas las normativas de exportación aplicables de EE. UU. y otras leyes y normativas oficiales aplicables, y (v) respetar las protecciones del copyright y de otros derechos de propiedad y propiedad intelectual.
         2. No puede anunciar, promocionar, insinuar ni sugerir de ningún modo que usted es empleado de Microsoft o que está afiliado, avalado o patrocinado por Microsoft, excepto para constatar que cumple correctamente todos los requisitos de las credenciales concretas que haya obtenido. Mientras esté vigente este Acuerdo, deberá introducir el siguiente texto en cada acuerdo por el que preste servicios que supongan el uso de tecnologías de Microsoft:
-    
+
              "*Microsoft no forma parte de este Acuerdo y no tendrá responsabilidad alguna con relación a los servicios que constituyen el tema del mismo. Las Credenciales de Microsoft Certification indican que he cumplido correctamente los requisitos de las Credenciales de Microsoft Certification correspondientes. Los servicios que presto no están patrocinados ni avalados por Microsoft.*"
         3. En algunos estados y países se regula el uso del término "ingeniero", por lo que, si obtiene Credenciales relativas a Microsoft Certified Systems Engineer, deberá cumplir las leyes aplicables.
 
@@ -335,10 +358,10 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
     4. *Efectos de la rescisión*: En todos los casos de rescisión de este Acuerdo, se cancelarán de inmediato todos los derechos que se le habían otorgado en el Programa. Con efecto inmediato, usted:
 
-          1. cesará cualquier actividad relacionada con el Programa,
-          2. dejará de identificarse como participante del Programa,
-          3. cesará todo uso de cualquier Credencial y ventaja del Programa, y
-          4. destruirá cualquier material relacionado que haya recibido como parte del Programa.
+          1. Cesará cualquier actividad relacionada con el Programa,
+          2. Dejará de identificarse como participante del Programa,
+          3. Cesará todo uso de cualquier Credencial y ventaja del Programa, y
+          4. Destruirá cualquier material relacionado que haya recibido como parte del Programa.
 
     5. *Vigencia*: Las secciones 1, con todas las definiciones que contiene el Acuerdo, 2.3, 4.3, 4.4, 8, 9, 10, 11.4, 11.5 y 12 continuarán vigentes tras la rescisión de este Acuerdo. Usted acepta que Microsoft y sus Filiales y empresas subsidiarias no serán responsables frente a usted o a cualquier tercero por los costes o daños de cualquier tipo que pudieran resultar de (a) la rescisión de este Acuerdo conforme a sus condiciones y (b) su suspensión o cancelación del programa.
 
@@ -362,7 +385,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
            Microsoft Ireland Operations Limited   
            The Atrium, Block B, Carmenhall Road   
            Sandyford Industrial Estate   
-           Dublin, 18, Irlanda   
+           Dublin, 18, Ireland   
 
        3. La entidad de Microsoft correspondiente a los siguientes países o regiones es la indicada a continuación: Australia y sus territorios externos, Bangladés, Brunéi Darussalam, Bután, Camboya, Islas Cook, Islas Fiyi, Polinesia Francesa, Territorios del Sur (Francia), Hong Kong, India, Indonesia, Kiribati, Laos, Malasia, Maldivas, Islas Marshall, Mayotte, Micronesia, Nauru, Nepal, Nueva Zelanda, Niue, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Filipinas, Pitcairn, Samoa, Singapur, Islas Salomón, Sri Lanka, Tailandia, Timor Oriental, Tokelau, Tonga, Tuvalu, Islas Wallis y Futuna, Vanuatu y Vietnam: 
 
@@ -377,7 +400,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
            Shinagawa Grand Central Tower   
            2-16-3, 2 Konan, Minato-ku,   
            Tokyo 108-0075   
-           Japón
+           Japan
 
        5. La entidad de Microsoft correspondiente a Taiwán es:   
 
@@ -398,7 +421,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
            5th Floor, West Wing   
            POSCO Center   
            892 Daechi-Dong Gangnam-Gu   
-           Seoul, 135-777, Corea 
+           Seoul, 135-777, Korea 
 
     5. *Legislación aplicable*. A continuación se establece la legislación, jurisdicción y competencia aplicables en lo que respecta a este Acuerdo. Dicha elección de jurisdicción y competencia no impedirá que cualquiera de las partes solicite y obtenga medidas cautelares con respecto a cualquier infracción de sus derechos de propiedad intelectual, a las obligaciones de confidencialidad o a la ejecución o reconocimiento de cualquier laudo o sentencia. Se podrán solicitar, en cualquiera de las jurisdicciones correspondientes, medidas cautelares o reconocimiento de laudo.
         1. **Regla general**: Salvo según lo dispuesto en la Sección 12.5(b), la legislación del Estado de Washington (EE.UU.) regirá este Acuerdo. En caso de existir jurisdicción federal, las partes aceptan someterse a la jurisdicción y el fuero exclusivos de los tribunales del condado de King, Washington. En caso contrario, las partes aceptan someterse a la jurisdicción y el fuero exclusivos del Tribunal Superior (Superior Court) del condado de King, Washington.
@@ -430,7 +453,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
     9. *Cesión*: No debe ceder, transferir o conceder sublicencia de este Acuerdo ni cualquier derecho cedido conforme a este Acuerdo de ningún modo; y cualquier intento de cesión, transferencia o concesión de sublicencia por procedimiento legal o de otro tipo será nulo y sin efecto.
 
-Updated: diciembre de 2013
+Updated: Diciembre de 2013
 
 ## Cómo solicitar créditos universitarios para determinadas certificaciones y programas profesionales.
 
@@ -438,7 +461,7 @@ Es posible que reúna los requisitos para recibir créditos universitarios a tra
 
 **Microsoft Certification Exams**
 
-AZ-100: Infraestructura e implementación de Microsoft Azure
+AZ-100: Microsoft Azure Infrastructure and Deployment
 
 AZ-101: Microsoft Azure Integration and Security
 
@@ -496,7 +519,7 @@ Descargar: [Transcript Service Application](https://query.prod.cms.rt.microsoft.
 
 ## <a name="policies-5"></a> Impugnación de preguntas de los exámenes de Microsoft Certification
 
-Los exámenes de certificación de Microsoft están diseñados para garantizar que los candidatos que aprueben los exámenes y obtengan nuestras certificaciones hayan demostrado los niveles de competencia requeridos en los dominios de habilidades. Cada pregunta del examen de Microsoft Certification es revisada cuidadosamente por un panel de expertos técnicos y de funciones de trabajo para determinar la precisión técnica, la claridad y la relevancia. Si cree que una pregunta en un examen de Microsoft Certification es inexacta, puede solicitar una evaluación de la pregunta a través del proceso de desafío del elemento del examen, diseñado para ayudar a identificar y corregir preguntas problemáticas. Sin embargo, incluso si una pregunta es defectuosa de alguna manera, no podemos suponer que la habría respondido correctamente si no hubiera sido así, por lo tanto, la mayoría de los exámenes no se vuelven a calificar. En estos casos, proporcionamos a los candidatos la oportunidad de repetir el examen de forma gratuita.
+Los exámenes de certificación de Microsoft están diseñados para garantizar que los candidatos que aprueben los exámenes y obtengan nuestras certificaciones hayan demostrado los niveles de competencia requeridos en los dominios de habilidades. Cada pregunta del examen de Microsoft Certification es revisada cuidadosamente por un panel de expertos técnicos y de funciones de trabajo para determinar la precisión técnica, la claridad y la relevancia. Si cree que una pregunta en un examen de Microsoft Certification es inexacta, puede solicitar una evaluación de la pregunta a través del proceso de desafío del elemento del examen, diseñado para ayudar a identificar y corregir preguntas problemáticas. Sin embargo, incluso si una pregunta es defectuosa de alguna manera, no podemos suponer que la habría respondido correctamente si no hubiera sido así, por lo tanto, la mayoría de los exámenes no se vuelven a calificar. En estos casos, proporcionamos a los estudiantes la oportunidad de repetir el examen de forma gratuita.
 
 ### Criterios para aceptar un desafío de elemento de examen:
 
@@ -584,7 +607,7 @@ El tiempo de examen cambia según el tipo de examen que realice.
 
 |         | Hora del examen*           | Hora para realizarlo*  |
 | ------------- |:-------------:| -----:|
-| Exámenes de roles de asociados y expertos   | 180 minutos | 210 minutos |
+| Exámenes de roles de asociados y expertos      | 180 minutos | 210 minutos |
 | Exámenes de los conceptos básicos de roles | 60 minutos | 90 minutos
 | Exámenes de roles de trabajo asociados y expertos que contienen laboratorios | 180 minutos | 210 minutos
 | Exámenes MTA entregados a través de canales académicos | 45 minutos | 50 minutos
@@ -845,7 +868,7 @@ Cuando esté preparado para repetir el examen, programe una fecha como lo haría
 
 **¿Dónde puedo encontrar información adicional sobre las áreas que debo mejorar?**
 
-Aunque los exámenes de Microsoft Certification proporcionen comentarios sobre las áreas en las que los examinandos deben mejorar sus habilidades, estos exámenes no están concebidos para ofrecer comentarios detallados o de diagnóstico. Le animamos a consultar la sección "Habilidades medidas" de la página de detalles del examen y evaluar con franqueza sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí, anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades. Quizá también le resulte interesante preguntar a otros cómo llevan a cabo esas tareas. ¿Las realizan de forma distinta? Trate de entender por qué lo hacen. Lea notas sobre el producto, notas de visita, etc. para obtener más información sobre las tareas que incluye el examen. Explore los recursos proporcionados en las “Opciones de preparación” de la página de información del examen, y los Grupos de estudio que podrá encontrar en la parte inferior de la página de detalles de cada examen.
+Aunque los exámenes de Microsoft Certification proporcionen comentarios sobre las áreas en las que los examinandos deben mejorar sus habilidades, estos exámenes no están concebidos para ofrecer comentarios detallados o de diagnóstico. Le animamos a consultar la sección "Habilidades medidas" de la página de detalles del examen y evaluar con franqueza sus habilidades en comparación con lo evaluado en el examen. La mejor manera de hacerlo es realizar las tareas que constan allí, anotar cualquier dificultad con la que se encuentre. Practique hasta que desaparezcan esas dificultades. Quizá también le resulte interesante preguntar a otros cómo llevan a cabo esas tareas. ¿Las realizan de forma distinta? Trate de entender por qué lo hacen. Lea notas sobre el producto, notas de visita, etc. para obtener más información sobre las tareas que incluye el examen. Examine los recursos que se proporcionan en la sección "Opciones de preparación" de detalles del examen.
 
 Además, [Microsoft Official Practice Tests](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) están disponibles para algunos de los exámenes de certificaciones. Estas pueden aportarle más información sobre sus puntos fuertes y débiles específicos. No obstante, superar una prueba práctica no es garantía de aprobar el examen de certificación.
 
@@ -994,7 +1017,7 @@ La mayoría de tareas valen un punto; si la tarea valiera más de un punto, se i
 
 **¿De cuánto tiempo dispondré para completar los laboratorios?**
 
- Los laboratorios no tienen un tiempo independiente al del examen. Al principio del examen se indica el número de laboratorios, casos prácticos y preguntas, así como la duración del examen. Debe responder a todas las preguntas, incluyendo completar las tareas asociadas a los laboratorios, dentro del tiempo proporcionado. Gestione su tiempo en consecuencia para poder completar todas las actividades que debe realizar.
+Los laboratorios no tienen un tiempo independiente al del examen. Al principio del examen se indica el número de laboratorios, casos prácticos y preguntas, así como la duración del examen. Debe responder a todas las preguntas, incluyendo completar las tareas asociadas a los laboratorios, dentro del tiempo proporcionado. Gestione su tiempo en consecuencia para poder completar todas las actividades que debe realizar.
 
 **¿Tendré tiempo suficiente para completar los laboratorios?**
 

@@ -266,7 +266,7 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 31 de enero de 2016
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 31 de enero de 2016
 | 70-469 | Recertification for MCSE: Data Platform | viernes, 31 de marzo de 2017
-| 70-470 | Recertification for MCSE: Business Intelligence | viernes, 31 de marzo de 2017
+| 70-470 | Recertification for MCSE: Business Intelligence | 31 de marzo de 2017
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 30 de septiembre de 2016
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 30 de septiembre de 2016
 | 70-484 | Essentials of Developing Windows Store Apps Using C# | 30 de septiembre de 2016
@@ -448,7 +448,7 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 | MB2-702 | Microsoft Dynamics CRM 2013 Deployment | 31 de diciembre de 2016
 | MB2-703 | Microsoft Dynamics CRM 2013 Customization and Configuration | 31 de diciembre de 2016
 | MB2-704 | Microsoft Dynamics CRM Application | 31 de julio de 2017
-| MB2-720 | Functional Application in Microsoft Dynamics Marketing | 1, de julio de 2015
+| MB2-720 | Functional Application in Microsoft Dynamics Marketing | 1 de julio de 2015
 | MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration | domingo, 31 de enero de 2016
 | MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment | 31 de enero de 2016
 | MB2-868 | Microsoft Dynamics CRM 2011 Applications | domingo, 31 de enero de 2016

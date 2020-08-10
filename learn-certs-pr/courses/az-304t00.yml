@@ -43,8 +43,8 @@ prerequisitesSection: |-
   - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
   - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
   - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
-outlineSection: |-
-  ### Módulo 1&#58; Diseño para optimización de costes
+outlineSection: |- 
+  ### Módulo 1&#58;  Diseño para optimización de costes
   En este módulo, aprenderá cómo optimizar los costes a partir de las recomendaciones, los costes de desglose por servicio de Azure y descargar y revisar los detalles de uso. 01-Vista
   #### Lecciones
   - Recomendar soluciones para la gestión de costes
@@ -52,8 +52,8 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Optimizar con Azure Cost Management.
-  - Diseño teniendo en cuenta el coste
-  - Optimizar costes a partir de recomendaciones
+  - Diseño teniendo en cuenta el coste.
+  - Optimizar costes a partir de recomendaciones.
 
 
   ### Módulo 2&#58; Diseñar una solución para registro y supervisión
@@ -63,9 +63,9 @@ outlineSection: |-
   - Azure Monitor
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Supervisar los recursos de Azure con Azure Monitor
-  - Recopilar y analizar registros de recursos para recursos de Azure
-  - Comprender cómo Azure Sentinel recopila datos en los dispositivos, usuarios, infraestructura y aplicaciones
+  - Supervisar los recursos de Azure con Azure Monitor.
+  - Recopilar y analizar registros de recursos para recursos de Azure.
+  - Comprender cómo Azure Sentinel recopila datos en los dispositivos, usuarios, infraestructura y aplicaciones.
 
 
   ### Módulo 3&#58; Diseñar Autenticación
@@ -78,10 +78,10 @@ outlineSection: |-
   - Recomendar una solución para la integración B2B
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Plan para un despliegue de MFA
-  - Comprender el inicio de sesión único sin interrupciones (SSO) de Azure Active Directory
-  - Recomendar una metodología de autenticación para la identidad híbrida
-  - Integrarse con proveedores de identidad
+  - Plan para un despliegue de MFA.
+  - Comprender el inicio de sesión único sin interrupciones (SSO) de Azure Active Directory.
+  - Recomendar una metodología de autenticación para la identidad híbrida.
+  - Integrarse con proveedores de identidad.
 
 
   ### Módulo 4&#58; Diseñar Autorización
@@ -92,7 +92,7 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar jerarquía de grupos de gestión y suscripciones.
-  - Configurar definiciones y asignaciones de roles RBAC personalizados
+  - Configurar definiciones y asignaciones de roles RBAC personalizados.
 
 
   ### Módulo 5&#58; Diseñar gobernanza
@@ -102,9 +102,9 @@ outlineSection: |-
   - Recomendar una solución para usar Azure Blueprint
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Organizar políticas con iniciativas
-  - Administrar la gobernanza de etiquetas con la política de Azure
-  - Proporcionar orientación sobre Azure Blueprints
+  - Organizar políticas con iniciativas.
+  - Administrar la gobernanza de etiquetas con la política de Azure.
+  - Proporcionar orientación sobre Azure Blueprints.
 
 
   ### Módulo 6&#58; Seguridad de diseño para aplicaciones
@@ -114,9 +114,9 @@ outlineSection: |-
   - Recomendar una solución con identidades administradas de Azure AD
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Comprender la autenticación y autorización de Key Vault
-  - Comprender la disponibilidad y la redundancia de Azure Key Vault
-  - Comprenda cómo los planos difieren de las plantillas de Resource Manager y la política de Azure
+  - Comprender la autenticación y autorización de Key Vault.
+  - Comprender la disponibilidad y la redundancia de Azure Key Vault.
+  - Comprenda cómo los planos difieren de las plantillas de Resource Manager y la política de Azure.
 
 
   ### Módulo 7&#58; Diseñar una solución para bases de datos
@@ -129,9 +129,9 @@ outlineSection: |-
   - Recomendar una solución para cifrar datos en reposo, transmisión y en uso
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Recomendar dimensionamiento de nivel de servicio de base de datos
-  - Recomendar una solución para cifrar datos en reposo, transmisión y en uso
-  - Comprender los contenedores de Azure Data Lake Store y Azure Blob Storage
+  - Recomendar dimensionamiento de nivel de servicio de base de datos.
+  - Recomendar una solución para cifrar datos en reposo, transmisión y en uso.
+  - Comprender los contenedores de Azure Data Lake Store y Azure Blob Storage.
 
 
   ### Módulo 8&#58; Integración de datos de diseño
@@ -141,9 +141,9 @@ outlineSection: |-
   - Recomendar una solución para la integración de datos
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Implementar Azure Synapse Analytics
-  - Describir cómo fluyen los datos con Azure Data Factory
-  - Demuestre cómo usar Azure Data Factory para cargar datos en SQL Data Warehouse
+  - Implementar Azure Synapse Analytics.
+  - Describir cómo fluyen los datos con Azure Data Factory.
+  - Demuestre cómo usar Azure Data Factory para cargar datos en SQL Data Warehouse.
 
 
   ### Módulo 9&#58; Seleccionar una cuenta de almacenamiento adecuada
@@ -154,8 +154,8 @@ outlineSection: |-
   - Recomendar herramientas de gestión de almacenamiento
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Recomendar herramientas para trabajar con Azure Storage
-  - Diseño para niveles de acceso de Azure Blob Storage
+  - Recomendar herramientas para trabajar con Azure Storage.
+  - Diseño para niveles de acceso de Azure Blob Storage.
 
 
   ### Módulo 10&#58; Diseñar una solución para respaldo y recuperación
@@ -168,10 +168,10 @@ outlineSection: |-
   - Diseñar una solución para la archivación y la retención de datos
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Recomendar soluciones para cargas de trabajo híbridas y locales de Azure que cumplan con los objetivos de recuperación
-  - Recomendar una solución para la capacidad de recuperación del sitio
-  - Recomendar tipos de almacenamiento y metodología para archivado de datos
-  - Identificar los requisitos para la archivación de datos
+  - Recomendar soluciones para cargas de trabajo híbridas y locales de Azure que cumplan con los objetivos de recuperación.
+  - Recomendar una solución para la capacidad de recuperación del sitio.
+  - Recomendar tipos de almacenamiento y metodología para archivado de datos.
+  - Identificar los requisitos para la archivación de datos.
 
 
   ### Módulo 11&#58; Diseño para alta Disponibilidad
@@ -184,8 +184,8 @@ outlineSection: |-
   - Recomendar una solución para georedundancia de cargas de trabajo
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Recomendar soluciones para autoescalado
-  - Identificar tipos de almacenamiento para alta disponibilidad
+  - Recomendar soluciones para autoescalado.
+  - Identificar tipos de almacenamiento para alta disponibilidad.
   - Recomendar soluciones para georedundancia de cargas de trabajo.
 
 
@@ -198,9 +198,9 @@ outlineSection: |-
   - Recomendar una solución para automatizar la gestión informática
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Referir la solución para automatizar la gestión informática
+  - Referir la solución para automatizar la gestión informática.
   - Recomendar las tecnologías informáticas adecuadas, incluidas las máquinas virtuales y los servicios de aplicaciones.
-  - Recomendar la aplicación AKS y ACI y las configuraciones
+  - Recomendar la aplicación AKS y ACI y las configuraciones.
 
 
   ### Módulo 13&#58; Diseñar una solución de red
@@ -228,9 +228,9 @@ outlineSection: |-
   - Recomendar una solución para la integración API
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Recomendar soluciones de implementación utilizando plantillas ARM, aplicaciones lógicas o funciones de Azure
-  - Recomendar una solución para supervisar la automatización
-  - Recomendar una estructura de hospedaje para administración API
+  - Recomendar soluciones de implementación utilizando plantillas ARM, aplicaciones lógicas o funciones de Azure.
+  - Recomendar una solución para supervisar la automatización.
+  - Recomendar una estructura de hospedaje para administración API.
 
 
   ### Módulo 15&#58; Diseñar Migraciones
@@ -241,6 +241,7 @@ outlineSection: |-
   - Recomendar una solución para la migración de bases de datos 
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Evaluar servidores y aplicaciones locales para la migración
-  - Sugerir soluciones para migrar aplicaciones y máquinas virtuales
-  - determinar el alcance de migración, incluyendo datos redundantes, relacionados, triviales y caducados
+  - Evaluar servidores y aplicaciones locales para la migración.
+  - Sugerir soluciones para migrar aplicaciones y máquinas virtuales.
+  - determinar el alcance de migración, incluyendo datos redundantes, relacionados, triviales y caducados.
+

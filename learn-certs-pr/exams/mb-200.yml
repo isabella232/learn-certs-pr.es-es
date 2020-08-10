@@ -8,7 +8,7 @@ displayName: MB-200
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, miércoles, 1 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 1 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
   Los candidatos para este examen son consultores funcionales que tienen acceso a las características y funcionalidad del producto con licencia empresarial. Como consultor funcional, el candidato conoce las versiones de paquetes de características pero no funciona principalmente con estos paquetes de productos.
@@ -16,7 +16,7 @@ summary: |-
   Los candidatos son principalmente responsables de configurar el sistema para cumplir con las necesidades de los clientes, al realizar tareas de diseño relacionadas con la implementación de nuevas características y funcionalidad, y al implementar y probar cambios del sistema.
 
   Los candidatos planifican el diseño funcional para soluciones, implementan un proceso de gestión del ciclo de vida de la aplicación (ALM), migrar datos y objetos a partir de legado y sistemas externos, integrar Power Platform con otros sistemas, y gestionar el entorno de Power Platform.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar descubrimiento, planificación y análisis; administrar el diseño de la experiencia del usuario; gestionar entidades y datos; implementar seguridad; implementar la integración; y realizar el despliegue y prueba de soluciones.'
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar descubrimiento, planificación y análisis; Gestionar diseño de experiencia de usuario; gestionar entidades y datos; implementar seguridad; implementar la integración; y realizar el despliegue y prueba de soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el, miércoles, 1 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- El contenido de este examen se actualizó el, 1 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Realizar descubrimiento, planificación y análisis (5-10%)
 - Gestionar diseño de experiencia de usuario (20-25%)
 - Administrar entidades y datos (15-20%)
@@ -55,8 +55,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales
@@ -66,7 +66,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cartel de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -78,7 +78,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Solicitar alojamiento
+- title: Request accommodations
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

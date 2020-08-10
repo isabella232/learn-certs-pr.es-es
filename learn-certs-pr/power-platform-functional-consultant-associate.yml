@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+  description: Esta certificación estará disponible en octubre de 2020. El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones.
+uid: certification.power-platform-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
+
+  El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones. Deben tener experiencia en el uso de herramientas de Power Platform para crear soluciones que usen Power Platform y Microsoft 365. Los Consultores Funcionales Certificados deben tener competencia en modelado de datos, diseño de experiencia del usuario, análisis de requisitos y análisis de procesos.
+
+  <div><br/><strong>Nota&#58; Esta certificación estará disponible en octubre de 2020.</strong></div>
+subTitle: Esta certificación estará disponible en octubre de 2020. El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones.
+levels:
+- intermediate
+skills:
+- Configurar el servicio de datos comunes
+- Crea una Power App
+- Crear automatizaciones con Power Automate
+- Configurar agentes virtuales de energía
+- Crear visualizaciones con Power BI
+roles:
+- business-analyst
+- developer
+- functional-consultant
+type: role-based
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+exams:
+- uid: exam.pl-200
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

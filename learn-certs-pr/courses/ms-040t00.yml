@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar sitios de SharePoint
+- skill: Gestionar límites de almacenamiento de sitios
+- skill: Implementar OneDrive sync client
+- skill: Usar la Directiva de grupo para controlar la configuración de OneDrive sync client
+- skill: Administrar el intercambio externo de datos en Microsoft SharePoint y OneDrive
+- skill: Configurar propiedades de perfil de usuario
+- skill: Administrar audiencias
+- skill: Usar el Catálogo de aplicaciones para administrar aplicaciones personalizadas
+- skill: Crear y administrar grupos de términos, conjuntos de términos y términos
+- skill: Describir la diferencia entre las experiencias de búsqueda modernas y clásicas
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  El contenido es el activo digital más crítico para cada organización. En este curso, aprenderá a planificar, configurar y administrar sitios de SharePoint y OneDrive para habilitar servicios de contenido modernos que transformen el ciclo de vida del contenido. En concreto, este curso analiza la estructura moderna del sitio de SharePoint, como los sitios centrales de SharePoint. Proporciona las mejores prácticas para la adopción e implementación de OneDrive dentro de su organización. También cubre el uso compartido, la seguridad y la supervisión en SharePoint y OneDrive en Microsoft 365. Además, aprenderá cómo administrar perfiles de usuario y aplicaciones con la configuración de permisos adecuados. También analizaremos cómo planear y configurar Metadatos Administrados, Servicios de Conectividad Empresarial, y búsqueda permitiendo que el contenido sea encontrado, consumido y gobernado a través de Microsoft 365.
+
+  #### Perfil de audiencia
+  Este curso está diseñado para profesionales de TI que implementan y administran Microsoft SharePoint y OneDrive en sus organizaciones. Los estudiantes en este curso están interesados en Microsoft SharePoint y OneDrive.
+prerequisitesSection: |-
+  Los estudiantes deben comenzar este curso con las siguientes habilidades&#58;
+  - Conocimiento competente de experiencia funcional básica con los servicios de Microsoft 365.
+  - Una comprensión competente de las prácticas generales de TI, incluido el uso de PowerShell.
+  - Conocimientos básicos de Active Directory y Azure AD.
+  - Conocimientos básicos de gestión de dispositivos móviles y sistemas operativos alternativos (Android y macOS).
+outlineSection: |-
+  ### Módulo 1&#58; Planear y configurar sitios de SharePoint
+  Este módulo tiene que ver con la planificación, configuración y administración de sitios de SharePoint. Analiza cómo los administradores de SharePoint usan el Centro de administración de SharePoint para administrar el ciclo de vida de los sitios de SharePoint en su organización.
+  #### Lecciones
+  - Descripción general de SharePoint in Microsoft 365
+  - Configurar sitios de SharePoint
+  - Gestionar sitios de SharePoint
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Crear sitios de SharePoint.
+  - Administrar los límites de almacenamiento del sitio de SharePoint.
+  - Crear y configurar sitios centrales de SharePoint.
+  - Describir cómo usar el Centro de administración de SharePoint para administrar sitios de SharePoint.
+
+
+  ### Módulo 2&#58; Configurar y administrar OneDrive
+  Este módulo explica cómo planificar la implementación de OneDrive. Analiza diferentes enfoques para implementar OneDrive en función de diferentes escenarios. También presenta las capacidades para administrar contenido en OneDrive.
+  #### Lecciones
+  - Descripción general de OneDrive in Microsoft 365
+  - Implementar OneDrive
+  - Gestionar OneDrive
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Administrar los límites de almacenamiento de los usuarios.
+  - Configurar la retención de datos en OneDrive.
+  - Usar la Directiva de grupo para controlar la configuración de OneDrive sync client.
+  - Describir diferentes métodos para implementar OneDrive.
+  - Describir cómo usar OneDrive Admin Center para administrar OneDrive.
+
+
+  ### Módulo 3&#58; Uso compartido y seguridad en SharePoint y OneDrive
+  Este módulo está enfocado en el uso compratido, la seguridad y el control en Microsoft SharePoint y OneDrive. En concreto, analizaremos la planificación y administración del uso compartido externo, así como el control de acceso en SharePoint y OneDrive. También analiza cómo usar el Centro de administración de Microsoft 365 para controlar las actividades en Microsoft SharePoint y OneDrive.
+  #### Lecciones
+  - Administrar los permisos del sitio de SharePoint
+  - Administrar el uso compartido en SharePoint y OneDrive
+  - Administrar la seguridad en SharePoint y OneDrive
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir el uso compartido externo en Microsoft SharePoint y OneDrive.
+  - Describir las opciones para administrar el acceso del dispositivo a Microsoft SharePoint y OneDrive.
+  - Ver los informes de Microsoft 365 que miden el uso de SharePoint y OneDrive.
+
+
+  ### Módulo 4&#58; Administrar perfiles de usuario y aplicaciones
+  Este módulo trata sobre el perfil de usuario y la personalización en Microsoft SharePoint. Analiza la gestión de perfiles de usuario en Microsoft SharePoint. También describe cómo usar el Catálogo de aplicaciones para hacer que las aplicaciones comerciales personalizadas estén disponibles para su SharePoint en Microsoft 365.
+  #### Lecciones
+  - Administrar perfiles de usuario
+  - Administrar aplicaciones
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir cómo configurar las propiedades del perfil de usuario.
+  - Describir cómo administrar audiencias
+  - Describir cómo usar el Catálogo de aplicaciones para administrar aplicaciones personalizadas.
+
+
+  ### Módulo 5&#58; Planificar y configurar metadatos administrados y servicios de conectividad empresarial
+  Este módulo trata sobre los servicios de metadatos administrados y conectividad empresarial. Introduce los conceptos de metadatos administrados, así como el proceso para importar conjuntos de términos. También describe cómo administrar los Servicios de conectividad empresarial y crear una lista externa.
+  #### Lecciones
+  - Planificar y configurar metadatos gestionados
+  - Planificar y configurar los Servicios de conectividad empresarial
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir las funciones de los metadatos administrados.
+  - Crear y administrar grupos de términos, conjuntos de términos y términos.
+  - Explicar los componentes clave de un modelo BDC.
+  - Describir la arquitectura de alto nivel de BCS.
+  - Explicar el propósito del Servicio de almacenamiento seguro.
+
+
+  ### Módulo 6&#58; Planificar y configurar búsqueda
+  Este módulo trata sobre el servicio de búsqueda de SharePoint. Proporciona detalles sobre la planificación y configuración de búsqueda de SharePoint, incluida la diferencia entre la experiencia de búsqueda clásica y moderna. También analiza cómo personalizar la experiencia de búsqueda con diferentes configuraciones.
+  #### Lecciones
+  - Búsqueda de plano
+  - Configurar búsqueda
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Describir la diferencia entre las experiencias de búsqueda modernas y clásicas.
+  - Describir cómo administrar el esquema de búsqueda.
+  - Explicar el uso y la implementación de las reglas de consulta.
+  - Explicar el uso y la implementación de la fuente de resultados.
+

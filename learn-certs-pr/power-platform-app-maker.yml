@@ -2,21 +2,19 @@
 title: 'Microsoft Certified: Power Platform App Maker Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform App Maker Associate'
-  description: Esta certificación estará disponible alrededor del viernes, 17 de julio de 2020. El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Son expertos en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos y análisis de procesos.
+  description: El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Son expertos en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos y análisis de procesos.
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
 
   El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Son expertos en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos y análisis de procesos.
-
-  <div><br/><strong>Nota&#58; Esta certificación estará disponible alrededor del, 17 de julio de 2020.</strong></div>
-subTitle: Esta certificación estará disponible alrededor del viernes, 17 de julio de 2020. El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Son expertos en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos y análisis de procesos.
+subTitle: El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Son expertos en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos y análisis de procesos.
 levels:
 - intermediate
 skills:
 - Soluciones de diseño
-- Crear soluciones.
+- Crear soluciones
 - Analizar datos
 - Implementar y gestionar soluciones
 roles:
@@ -60,6 +58,18 @@ products:
 - power-apps
 - power-virtual-agents
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 exams:
 - uid: exam.pl-100
 resources:

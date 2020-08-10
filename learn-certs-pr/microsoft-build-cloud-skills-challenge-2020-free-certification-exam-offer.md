@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Build Cloud Skills Challenge 2020: Examen de certificación gratuito | Microsoft Docs'
-description: 'Microsoft Build Cloud Skills Challenge 2020: Examen de certificación gratuito' 
+description: 'Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 05/18/2020
 ms.author: micsullivan
 ---
-# Microsoft Build Cloud Skills Challenge 2020: Examen de certificación gratuito
+# Microsoft Build Cloud Skills Challenge 2020: Free Certification Exam
 
 Gracias por asistir a [Microsoft Build 2020](https://mybuild.microsoft.com/) y completar el Microsoft Build Cloud Skills Challenge 2020. Todos los participantes que completaron una colección de desafío son elegibles para un examen de certificación gratuito, sujeto a [Términos y condiciones](#terms-and-conditions), para ayudarlo a continuar mejorando y demostrar su experiencia técnica a empleadores y colegas.
 
@@ -21,7 +21,7 @@ El examen de certificación gratuito está disponible para canjear a partir del 
 
 A continuación encontrará instrucciones paso a paso sobre cómo reclamar su examen gratuito.
 
-**Paso 1:** Seleccione uno de los [exámenes elegibles](#eligible-exams-for-this-offer) y haga clic en el botón "Programar examen" para comenzar el proceso de registro en línea.  
+**Paso 1:** Seleccione uno de los [exámenes elegibles](#eligible-exams) y haga clic en el botón "Programar examen" para comenzar el proceso de registro en línea.  
 ![Programar un examen](images/step1.png)
 
 **Paso 2:** Inicie sesión en su perfil de certificación de Microsoft existente o cree uno con una cuenta de Microsoft.  
@@ -36,19 +36,19 @@ A continuación encontrará instrucciones paso a paso sobre cómo reclamar su ex
 **Paso 5:** En la página "Descuentos de examen", ingrese el correo electrónico que utilizó para registrarse en un evento (por ejemplo, alias@company.com o alias@outlook.com).  
 ![Ingrese el correo electrónico utilizado para registrarse en un evento](images/step5-1-enter-email.png)
 
-**Paso 6:** Si es apto para un descuento de examen, recibirá un correo electrónico de verificación a la dirección que ingresó. Debe ingresar el código de acceso que recibe en el correo electrónico para continuar. Si no recibe un correo electrónico, puede reenviar el código.  
+**Paso 6:** Si califica para un descuento de examen, recibirá un correo electrónico de verificación a la dirección que ingresó. Debe ingresar el código de acceso que recibe en el correo electrónico para continuar. Si no recibe un correo electrónico, puede reenviar el código.  
 ![Ingrese la contraseña recibida en el correo electrónico](images/step6-enter-passcode.png)
 
 **Paso 7:** Después de ingresar la contraseña correcta, se le pedirá que vincule sus cuentas. DEBE aceptar vincular sus cuentas para recibir un descuento.  
-![Enlace de cuentas para recibir descuento](images/step7-linkmodal.png)
+![Vincular cuentas para recibir el descuento](images/step7-linkmodal.png)
 
-La próxima vez que inicie sesión, si es apto para descuentos de exámenes para cualquiera de esas cuentas, los descuentos se mostrarán automáticamente. Para eliminar una cuenta, vaya al [Panel de certificación](https://aka.ms/certdashboard) y haga clic en "editar su perfil de certificación".
+La próxima vez que inicie sesión, si califica para descuentos de exámenes para cualquiera de esas cuentas, los descuentos se mostrarán automáticamente. Para eliminar una cuenta, vaya al [Panel de certificación](https://aka.ms/certdashboard) y haga clic en "editar su perfil de certificación".
 
 **Paso 8:** Verá un descuento emergente en la parte superior. Elija el descuento que desea reclamar y luego continúe con el pago haciendo clic en el botón de examen programado.  
 ![Elija el descuento y continúe haciendo clic en el botón de examen programado](images/step8-coupon.png)
 
-**Paso 9:** Siga los pasos en las pantallas siguientes y proporcione los detalles necesarios para programar su examen. Durante el proceso de pago, verifique que el monto total adeudado sea $0.00 y envíe la orden.  
-![Enlace de cuentas para recibir descuento](images/step9.png)
+**Paso 9:** Siga los pasos en las pantallas siguientes y proporcione los detalles necesarios para programar su examen. Durante el proceso de pago, verifique que el monto total adeudado sea $ 0.00 y envíe la orden.  
+![Vincular cuentas para recibir el descuento](images/step9.png)
 
 ### Soporte de certificación:
 
@@ -60,11 +60,11 @@ Los exámenes elegibles incluyen todos los exámenes básicos de Microsoft, basa
 
 | Por Producto | Exámenes |
 | --- | --- |
-| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-103: Microsoft Azure Administrator](/learn/certifications/exams/az-103)<br/>[AZ-104: Microsoft Azure Administrator (una versión)](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-203: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-203)<br/>[AZ-204: Developing Solutions for Microsoft Azure (new version)](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
-| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901) <br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
+| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-103: Microsoft Azure Administrator](/learn/certifications/exams/az-103)<br/>[AZ-104: Microsoft Azure Administrator (una versión)](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-203: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-203)<br/>[AZ-204: Developing Solutions for Microsoft Azure (nueva versión)](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
+| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901) <br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
 | Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-200: Planning and Configuring a Messaging Platform](/learn/certifications/exams/ms-200)<br/>[MS-201: Implementing a Hybrid and Secure Messaging Platform](/learn/certifications/exams/ms-201)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-300: Deploying Microsoft 365 Teamwork](/learn/certifications/exams/ms-300)<br/>[MS-301: Deploying SharePoint Server Hybrid](/learn/certifications/exams/ms-301)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
-## FAQ
+## Preguntas frecuentes
 
 ### Acerca de la oferta
 
@@ -98,7 +98,7 @@ Los exámenes elegibles incluyen todos los exámenes básicos de Microsoft, basa
 
 **P: ¿Puedo reprogramar mi cita de examen de esta oferta si es necesario?**
 
-**R:** Sí, puede reprogramar su cita para el examen, pero debe hacerlo antes de que caduque la oferta. [Consulte la política de reprogramación](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) para mayor información.
+**R:** Sí, puede reprogramar su cita para el examen, pero debe hacerlo antes de que caduque la oferta. [Consulte la Política de reprogramación](/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy) para obtener más información.
 
 **P: ¿Hay algún arancel cuando reprogramo o cancelo mi cita de examen?**
 

@@ -8,7 +8,7 @@ displayName: DP-200
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 31 de Julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 31 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
   </div>
 
   Los candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas para identificar y cumplir con los requisitos de datos a fin de implementar soluciones de datos que utilizan los servicios de datos de Azure.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el, 31 de Julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizará el, 31 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Implementar soluciones de almacenamiento de datos (40-45%)
 - Administrar y desarrollar el procesamiento de datos (25-30%)
 - Monitorear y optimizar soluciones de datos (30-35%)
@@ -63,6 +63,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación como ingeniero asociado de datos Azure y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

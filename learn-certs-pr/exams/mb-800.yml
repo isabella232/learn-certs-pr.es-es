@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+metadata:
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+uid: exam.mb-800
+displayName: MB-800
+summary: |-
+  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+
+  Un consultor funcional de la aplicación principal de Dynamics 365 Business Central implementa y configura la aplicación Business Central, incluida la configuración de la funcionalidad de la aplicación central, los módulos y la migración de datos a Business Central. Los consultores configuran la interfaz de usuario en colaboración con el equipo de implementación para proporcionar a la empresa capacidad de administración y facilidad de navegación. Configuran centros de roles, incluida la adaptación de información, señales, mosaicos de acción, informes, gráficos y extensión de Business Central mediante el uso de componentes de Power Platform.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Este examen estará disponible en septiembre de 2020.</div>
+subTitle: 'Este examen estará disponible en septiembre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Business Central, configurar Financials, configurar Ventas y Compras, configurar operaciones y usar componentes de Power Platform.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Todavía no disponible
+roles:
+- functional-consultant
+products:
+- business-central
+- power-platform
+relatedCertifications:
+- related:
+    uid: certification.d365-business-central-functional-consultant-associate
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md
+

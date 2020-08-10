@@ -8,12 +8,14 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 8 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 8 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
 
-  Este examen está diseñado para candidatos que buscan demostrar conocimientos fundamentales sobre las consideraciones y los beneficios de adoptar los servicios de nube en general y el modelo de nube de Software como servicio (SaaS). Este examen también cubrirá el conocimiento de las opciones disponibles y los beneficios obtenidos al implementar las ofertas de servicios en la nube de Microsoft 365.
+  Este examen está diseñado para candidatos que buscan demostrar conocimientos fundamentales nivel sobre las consideraciones y los beneficios de adoptar los servicios de nube en general y el modelo de nube de Software como servicio (SaaS). Los candidatos deben tener conocimiento de las opciones disponibles y los beneficios obtenidos al implementar las ofertas de servicios en la nube de Microsoft 365.
 
-  Este examen puede tomarse como un precursor de los exámenes de computación en la nube y tecnologías como Office 365, Microsoft Intune, Azure Information Protection (AIP) y Windows 10.
+  Los candidatos deben tener el conocimiento necesario para recomendar soluciones que aborden los desafíos comunes de TI de la organización y para diferenciar las soluciones de Microsoft 365 de la competencia en el mercado. Los candidatos también deben tener un conocimiento fundamental de las ofertas, optimizar las licencias para la rentabilidad y las opciones de soporte para las organizaciones.
+
+  Los candidatos deben poder diferenciar entre los servicios y productos de Microsoft (Microsoft 365, Azure y Dynamics 365).
 subTitle: Demuestre que entiende los conceptos de la nube; servicios y conceptos básicos de Microsoft 365; seguridad, cumplimiento, privacidad y confianza en Microsoft 365; y precios y soporte de Microsoft 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -26,14 +28,16 @@ providers:
   examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizará el, 8 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Describir conceptos de nube (15-20%)
+- El contenido de este examen se actualizó el, 8 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Describir conceptos de nube (10-15%)
 - Describir los servicios y conceptos básicos de Microsoft 365 (30-35%)
-- Describir seguridad, cumplimiento, privacidad y opciones de confianza en Microsoft 365 (25-30%)
-- Describir las opciones de soporte y precios de Microsoft 365 (25-30%)
+- Explicar la seguridad, el cumplimiento, la privacidad y la confianza en Microsoft 365 (30-35%)
+- Describir las soporte y precios de Microsoft 365 (20-25%)
 roles:
 - administrator
 products:
@@ -49,7 +53,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Fundamentals.'
+  description: 'Descubra recursos de capacitación para convertirse en un Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

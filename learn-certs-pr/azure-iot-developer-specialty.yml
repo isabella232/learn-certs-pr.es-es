@@ -14,7 +14,7 @@ summary: |-
 
   El desarrollador de IoT trabaja con ingenieros de datos y otras partes interesadas para garantizar una integración empresarial exitosa.
 
-  Un candidato para esta certificación debe tener experiencia en la implementación de los servicios de Azure que forman una solución de IoT, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos y opciones de plataforma como servicio. Este rol también debería ser capaz de reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución IoT y realizar tareas específicas de codificación IoT en al menos un lenguaje compatible con Azure, incluidos C #, Node, C o Python.
+  Un candidato para esta certificación debe tener experiencia en la implementación de los servicios de Azure que forman una solución de IoT, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos y opciones de plataforma como servicio. Este rol también debería ser capaz de reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución IoT y realizar tareas específicas de codificación IoT en al menos un lenguaje compatible con Azure, incluidos C#, Node, C o Python.
 subTitle: Los desarrolladores de Azure IoT desarrollan componentes de nube y laterales de una solución de Azure IoT.
 levels:
 - intermediate
@@ -43,16 +43,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
-- title: Póster de certificaciones de Azure
+- title: Azure certifications poster
   description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Recorrido a la certificación
-  description: Explore los pasos para obtener la certificación Azure IoT Developer Specialty y los recursos disponibles para ayudarlo a prepararse.
+  description: Explore los pasos para obtener la certificación en Azure IoT Developer Specialty y los recursos disponibles para ayudarlo a prepararse.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

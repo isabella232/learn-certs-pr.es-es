@@ -4,19 +4,25 @@ metadata:
   title: 'MCSA: Web Applications'
   description: 'MCSA: Web Applications'
 uid: certification.mcsa-web-applications-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificación se retirará el 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificación se retirará el 31 de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Todas las certificaciones que obtenga antes de las fechas de retiro seguirán apareciendo en su expediente académico en el <a href='https://www.microsoft.com/learning/dashboard.aspx'>Panel de certificación</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
   </div>
 
   Demuestre su experiencia en la implementación de modernas aplicaciones web.
+
+  Para obtener la MCSA&#58; Certificación de aplicaciones web, complete los siguientes requisitos&#58;
+  - Apruebe el examen [70-486&#58; Desarrollo de ASP.NET MVC Aplicaciones web](/learn/certifications/exams/70-486)
+  - Y aprobar uno de los siguientes exámenes&#58;
+    - [70-480&#58; Programación en HTML5 con JavaScript y CSS3](/learn/certifications/exams/70-480)
+    - [70-483&#58; Programación en C#](/learn/certifications/exams/70-483)
 subTitle: Demuestre su experiencia en la implementación de modernas aplicaciones web.
 levels:
 - intermediate
 skills:
-- none
+- ninguno
 roles:
 - developer
 type: mcsa
@@ -31,11 +37,11 @@ exams:
 - uid: exam.70-483
 - uid: exam.70-486
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cuadro de certificación
-  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.

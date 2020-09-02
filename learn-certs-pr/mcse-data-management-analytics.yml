@@ -7,21 +7,28 @@ uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificación se retirará el 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificación se retirará el 31 de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Todas las certificaciones que obtenga antes de las fechas de retiro seguirán apareciendo en su expediente académico en el <a href='https://www.microsoft.com/learning/dashboard.aspx'>Panel de certificación</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
   </div>
 
-  Demuestra su amplio conjunto de habilidades en la administración de SQL, la creación de soluciones de datos de escala empresarial y el aprovechamiento de datos de inteligencia empresarial, en entornos tanto locales como en la nube.
+  Esta certificación valida que posee las habilidades necesarias para ejecutar un centro de datos, administración de identidad, administración de sistemas, virtualización, almacenamiento y redes altamente eficiente y moderno.
 
-  Para obtener la certificación MCSE&#58; Data Management and Analytics, apruebe uno de los siguientes exámenes&#58;
-  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+  Para obtener la MCSE&#58; Certificación Administración de Datos & Análisis, complete los siguientes requisitos&#58;
+  - Obtener una certificación de requisito previo&#58;
+    - Opción de requisito previo 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - Opción de requisito previo 2&#58; [MCSA&#58; SQL 2016 Desarrollo de base de datos](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - Opción de requisito previo 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - Opción de requisito previo 4&#58; [MCSA&#58; SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - Opción de requisito previo 5&#58; [MCSA&#58; Generación de informes BI](/learn/certifications/mcsa-bi-reporting)
+  - Y aprobar uno de los exámenes electivos&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
 subTitle: Demuestra su amplio conjunto de habilidades en la administración de SQL, la creación de soluciones de datos de escala empresarial y el aprovechamiento de datos de inteligencia empresarial, en entornos tanto locales como en la nube.
 levels:
 - intermediate
@@ -45,11 +52,22 @@ exams:
 - uid: exam.70-464
 - uid: exam.70-465
 - uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

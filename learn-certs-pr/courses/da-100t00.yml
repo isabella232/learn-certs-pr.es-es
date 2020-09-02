@@ -1,11 +1,11 @@
 ### YamlMime:Course
-title: Analyzing Data with Microsoft Power BI
+title: Analyzing Data with Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Ingerir, limpiar y transformar datos
@@ -26,76 +26,68 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  Este curso se lanzará el 24 de julio de 2020. Este curso analizará los diversos métodos y mejores prácticas que están en línea con los requisitos comerciales y técnicos para modelar, visualizar y analizar datos con Power BI. El curso también mostrará cómo acceder y procesar datos de una variedad de fuentes de datos, incluidos los datos relacionales y no relacionales. Este curso también explorará cómo implementar estándares y políticas de seguridad adecuados en todo el espectro de Power BI, incluidos conjuntos de datos y grupos. El curso también analizará cómo administrar e implementar informes y paneles para compartir y distribuir contenido. Finalmente, este curso mostrará cómo crear informes paginados dentro del servicio Power BI y publicarlos en un espacio de trabajo para incluirlos en Power BI.
+  Este curso analizará los diversos métodos y mejores prácticas que están en línea con los requisitos comerciales y técnicos para modelar, visualizar y analizar datos con Power BI. El curso también mostrará cómo acceder y procesar datos de una variedad de fuentes de datos, incluidos los datos relacionales y no relacionales. Este curso también explorará cómo implementar estándares y políticas de seguridad adecuados en todo el espectro de Power BI, incluidos conjuntos de datos y grupos. El curso también analizará cómo administrar e implementar informes y paneles para compartir y distribuir contenido. Finalmente, este curso mostrará cómo crear informes paginados dentro del servicio Power BI y publicarlos en un espacio de trabajo para incluirlos en Power BI.
 
   #### Perfil de audiencia
   La audiencia para este curso son profesionales de datos y profesionales de inteligencia de negocios que desean aprender cómo realizar análisis de datos con precisión utilizando Power BI. Este curso también está dirigido a aquellas personas que desarrollan informes que visualizan datos de las tecnologías de la plataforma de datos que existen tanto en la nube como en las instalaciones.
 prerequisitesSection: |-
   Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a la información que se encuentra en el curso Azure Fundamentals.
 outlineSection: |-
-  ### Módulo 1&#58; Introducción
-  Este módulo explora el panorama de la cartera de Power BI y describe varios casos de uso para Power BI. El curso identifica y describe el papel y las responsabilidades de un analista de datos.
+  ### Módulo 1&#58; Introducción a Microsoft Data Analytics
+  Este módulo explora los diferentes roles en el espacio de datos, describe los roles y responsabilidades importantes de un analista de datos y luego explora el panorama del portafolio de Power BI.
   #### Lecciones
-  - La cartera de Power BI
-  - Identificación de tareas del analista de datos
-
+  - Análisis de datos y Microsoft
+  - Introducción a Power BI
 
   #### Laboratorio&#58; Empezar
   - Empezar
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Describa el panorama de productos y servicios de Power BI.
-  - Describir los casos de uso de Power BI.
-  - Identificar las tareas que realiza un analista de datos
+  Después de completar este módulo, podrá&#58;
+  - Explore los diferentes roles en los datos
+  - Identifique las tareas que realiza un analista de datos
+  - Describa el panorama de productos y servicios de Power BI
+  - Usar el servicio Power BI
 
 
-  ### Módulo 2&#58; Obtener y perfilar datos
-  Este módulo explora la identificación y la conexión a diferentes fuentes de datos. El alumno también aprenderá los conceptos básicos sobre cómo identificar y optimizar los problemas de rendimiento de las consultas. También aprenderán cómo realizar un perfil de datos adecuado en preparación para el paso posterior de limpiar y dar forma a los datos antes de cargarlos.
+  ### Módulo 2&#58; Preparar datos en Power BI
+  Este módulo explora la identificación y recuperación de datos de varias fuentes de datos. También aprenderá las opciones de conectividad y almacenamiento de datos, y comprenderá la diferencia y las implicaciones de rendimiento de conectarse directamente a los datos frente a importarlos.
   #### Lecciones
-  - Fuentes de datos
-  - Modos de almacenamiento
-  - Rendimiento de consulta
-  - Perfiles de datos
-
+  - Obtenga datos de varias fuentes de datos
+  - Optimizar el rendimiento
+  - Resolver errores de datos
 
   #### Laboratorio&#58; Preparación de datos en el escritorio de Power BI
   - Preparar datos
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Identificar las diferentes fuentes de datos
-  - Explicar los diferentes métodos de conexión y por qué
-  - Identificar problemas de consulta y optimizar.
-  - Identificar anomalías de datos
-  - Examinar estructuras de datos
-
-
-  ### Módulo 3&#58; Limpieza y transformación de datos
-  Este módulo enseña los conceptos fundamentales del diseño de un modelo de datos para un rendimiento y escalabilidad adecuados. Inculca en el estudiante una lista de elementos para pensar antes de construir el modelo.
-  #### Lecciones
-  - La facilidad de uso
-  - Combinar consultas
-  - Limpieza y transformación de datos
-  - Capacidades avanzadas
-  - Configurar la carga de datos y resolver errores
-
-
-  #### Laboratorio&#58; Carga de datos en el escritorio de Power BI
-  - Cargar datos
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Resolver inconsistencias de datos
-  - Aplicar transformaciones de forma de datos
-  - Evaluar y transformar tipos de datos de columna
+  Después de completar este módulo, podrá&#58;
+  - Identificar y recuperar datos de diferentes fuentes de datos
+  - Comprender los métodos de conexión y sus implicaciones en el rendimiento
+  - Optimizar desempeño de solicitudes
   - Resolver errores de importación de datos
 
 
-  ### Módulo 4&#58; Diseñar un Modelo de Datos
-  Este módulo enseña los conceptos fundamentales del diseño de un modelo de datos para un rendimiento y escalabilidad adecuados. Inculca en el estudiante una lista de elementos para pensar antes de construir el modelo.
+  ### Módulo 3&#58; Limpiar, transformar y cargar datos en Power BI
+  Este módulo le enseña el proceso de elaboración de perfiles y la comprensión del estado de los datos. Aprenderán a identificar anomalías, observar el tamaño y la forma de sus datos y realizar los pasos adecuados de limpieza y transformación de datos para preparar los datos para cargarlos en el modelo.
   #### Lecciones
-  - Conceptos básicos de modelado de datos
-  - Medidas y dimensiones
-  - Modelo de rendimiento
+  - Dar forma a los datos
+  - Mejorar la estructura de datos
+  - Perfiles de datos
 
+  #### Laboratorio&#58; Transformar y cargar datos
+  - Cargar datos
+
+  Después de completar este módulo, los estudiantes podrán&#58;
+  - Aplicar transformaciones de forma de datos
+  - Mejorar la estructura de los datos
+  - Perfilar y examinar los datos
+
+
+  ### Módulo 4&#58; Diseñar un modelo de datos en Power BI
+  Este módulo enseña los conceptos fundamentales del diseño y desarrollo de un modelo de datos para un rendimiento y escalabilidad adecuados. Este módulo también lo ayudará a comprender y abordar muchos de los problemas comunes de modelado de datos, incluidas las relaciones, la seguridad y el rendimiento.
+  #### Lecciones
+  - Introducción al modelado de datos
+  - Trabajar con tablas
+  - Dimensiones y jerarquías
 
   #### Laboratorio&#58; Modelado de datos en Power BI Desktop
   - Crear relaciones modelo
@@ -103,198 +95,180 @@ outlineSection: |-
   - Revisar la interfaz del modelo
   - Crear medidas rápidas
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Definir las relaciones y su cardinalidad
-  - Configurar propiedades de tabla y columna
-  - Definir medidas rápidas
-  - Comprender cómo el diseño del modelo impacta el desempeño
-
-
-  ### Módulo 5&#58; Desarrollar un modelo de datos
-  En este módulo, el alumno aplicará los pasos aprendidos en el módulo anterior y construirá un modelo de datos mientras aprende e implementa elementos adicionales para crear la base del modelo. Al alumno se le presentarán los conceptos de seguridad iniciales y la función de preguntas y respuestas en este módulo.
-  #### Lecciones
-  - Técnicas comunes de modelado de datos
-  - Agregar columnas para admitir el modelo de datos
-  - Seguridad a nivel de fila
-  - Consideraciones de preguntas y respuestas
-
-
-  #### Laboratorio&#58; Modelado avanzado de datos
-  - Crear una relación man-to-many
+  #### Laboratorio&#58; Modelado de datos avanzado en Power BI Desktop
+  - Configurar relaciones de varios a varios
   - Aplicar la seguridad a nivel de fila
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Resolver circulares y relaciones many/many
-  - Crea agrupaciones y discretizaciones
-  - Describir y configurar la función de preguntas y respuestas
+  Después de completar este módulo, podrá&#58;
+  - Comprender los conceptos básicos del modelado de datos
+  - Definir las relaciones y su cardinalidad
+  - Implementar dimensiones y jerarquías
+  - Crea histogramas y clasificaciones
 
 
-  ### Módulo 6&#58; Crear cálculos de modelo con DAX
-  Este módulo primero presenta al estudiante a DAX y algunas de las funciones y operadores críticos necesarios para mejorar un modelo de datos, incluidos los conceptos de medidas y columnas y tablas calculadas, e inteligencia de tiempo.
+  ### Módulo 5&#58; Crear medidas con DAX en Power BI
+  Este módulo le presenta el mundo de DAX y su verdadero poder para mejorar un modelo. Aprenderá sobre agregaciones y los conceptos de medidas, columnas y tablas calculadas y funciones de inteligencia de tiempo para resolver problemas de cálculo y análisis de datos.
   #### Lecciones
   - Introducción a DAX
-  - Crear tablas y columnas
-  - Medidas
-  - La expresión CALCULAR
-  - Funciones de inteligencia-tiempo
+  - Contexto DAX
+  - DAX avanzado
 
-
-  #### Laboratorio&#58; Uso de DAX en Power BI - Parte 1
+  #### Laboratorio&#58; Introducción a DAX en Power BI Desktop
   - Crear tablas calculadas
+  - Crear columnas calculadas
   - Crear medidas
 
-  #### Laboratorio&#58; Uso de DAX en Power BI - Parte 2
-  - Trabajar con contenido de filtro
-  - Trabajar con inteligencia-tiempo
-  - Publique el archivo de Power BI Desktop
+  #### Laboratorio&#58; DAX avanzado en Power BI Desktop
+  - Utilizar la función CALCULATE() para manipular el contexto del filtro
+  - utilizar funciones de inteligencia de tiempo
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, podrá&#58;
+  - Entender DAX
   - Usar DAX para fórmulas y expresiones simples
-  - Crear tablas y columnas calculadas
+  - Crear tablas y medidas calculadas
   - Construir medidas simples
+  - Trabajar con inteligencia de tiempo e indicadores clave de rendimiento
 
 
-  ### Módulo 7&#58; Optimizar el rendimiento del modelo
-  En este módulo, se presentan al alumno los pasos, procesos y conceptos necesarios para optimizar un modelo de datos para el rendimiento a nivel empresarial.
+  ### Módulo 6&#58; Optimizar el rendimiento del modelo
+  En este módulo, se le presentan los pasos, procesos, conceptos y las mejores prácticas de modelado de datos necesarias para optimizar un modelo de datos para el rendimiento a nivel empresarial.
   #### Lecciones
-  - Ajustar el modelo de datos
-  - Cardinalidad
-  - Identificación de problemas de rendimiento
+  - Optimizar el modelo para el rendimiento
+  - Optimizar modelos de DirectQuery
+  - Crear y gestionar agregaciones
+
+  Después de completar este módulo, podrá&#58;
+  - Comprender la importancia de las variables
+  - Mejorar el modelo de datos
+  - Optimizar el modelo de almacenamiento
+  - Implementar agregaciones
 
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Analizar planes de consulta y dependencias
-  - Identificar medidas y relaciones de bajo rendimiento
-  - Trabajar con agregaciones
-  - Mejorar los niveles de cardinalidad
-
-
-  ### Módulo 8&#58; Crear informes
-  Este módulo presenta al alumno los conceptos y principios fundamentales de la creación de un informe, incluida la selección de las imágenes correctas, el diseño de una página y la aplicación de funcionalidades básicas pero críticas, como el corte y el filtrado. Este importante tema del diseño para la accesibilidad también está cubierto.
+  ### Módulo 7&#58; Crear informes
+  Este módulo le presenta los conceptos y principios fundamentales del diseño y la creación de un informe, incluida la selección de los elementos visuales correctos, el diseño del esquema de página y la aplicación de funciones básicas pero críticas. También se trata el importante tema del diseño para la accesibilidad.
   #### Lecciones
-  - Seleccionar una visualización
-  - Configuración de visualizaciones
-  - Formato de páginas
+  - Diseñar un informe
   - Mejorar el informe
 
+  #### Laboratorio&#58; Diseñar un informe en Power BI
+  - Crear una conexión dinámica en Power BI Desktop
+  - Diseñar un informe
+  - Configurar campos visuales y propiedades de formato
+
+  #### Laboratorio&#58; Mejora de los informes de Power BI con interacción y formato
+  - Crear y configurar Sync Slicers
+  - Crear una página de obtención de detalles
+  - Aplicar formato condicional
+  - Crear y usar marcadores
+
+  Después de completar este módulo, podrá&#58;
+  - Diseñar un diseño de página de informe
+  - Seleccionar y agregar visualizaciones efectivas
+  - Agregar funcionalidad básica de informe
+  - Agregar navegación e interacciones de informes
+  - Mejorar el rendimiento de los informes
+  - Diseño para accesibilidad
+
+
+  ### Módulo 8&#58; Crear paneles
+  En este módulo, aprenderá cómo contar una historia convincente mediante el uso de paneles y las diferentes herramientas de navegación disponibles para proporcionar navegación. Se le presentarán las características y la funcionalidad y cómo mejorar los paneles para la usabilidad y los conocimientos.
+  #### Lecciones
+  - Crear un panel de control
+  - Tableros en tiempo real
+  - Mejorar un tablero
 
   #### Laboratorio&#58; Diseño de un informe en Power BI Desktop - Parte 1
-  - Crear un informe
-  - Iniciar sesión en el servicio Power BI
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Diseñar un diseño de página
-  - Seleccionar y agregar el tipo de visualización apropiado
-  - Agregar funcionalidad básica de informe
-  - Comprender y diseñar para accesibilidad
-
-
-  ### Módulo 9&#58; Mejora de informes para usabilidad y rendimiento
-  Este módulo ayuda al alumno a pensar más allá de los conceptos básicos de la creación de informes y analiza temas para mejorar el informe en cuanto a usabilidad y rendimiento. El estudiante saldrá de este módulo sabiendo que un informe no es algo para mirar, sino que es un lienzo vivo que cuenta una historia y debe diseñarse como tal.
-  #### Lecciones
-  - Marcadores y navegación
-  - Diseño de páginas cohesivas e interacciones.
-  - Mejora de informes
-
-
-  #### Laboratorio&#58; Diseño de un informe en Power BI Desktop - Parte 2
-  - Configurar segmentadores de sincronización
-  - Configurar la obtención de detalles
-  - Agregar formato condicional
-  - Agregar marcadores y botones
-  - Explorar el informe
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Agregar información rápida
-  - Configurar segmentadores de sincronización
-  - Configurar interacciones entre imágenes
-  - Identificar mejoras de usabilidad
-
-
-  ### Módulo 10&#58; Crear paneles
-  En este módulo, el alumno aprende sobre los paneles y las numerosas características y funcionalidades que contienen. El estudiante aprende cómo tomar el informe que construyeron en el módulo anterior y fijarlo a un tablero de instrumentos, luego mejorarlo para obtener una mayor usabilidad e información adicional.
-  #### Lecciones
-  - Diseño del tablero de instrumentos
-  - Tableros en tiempo real
-  - Mejoras en el tablero
-
-
-  #### Laboratorio&#58; Crear un panel de Power BI.
   - Crear un panel de control
-  - Actualizar el conjunto de datos
-  - Revisar el tablero de instrumentos
+  - Anclar elementos visuales a un panel
+  - Configurar una alerta de mosaico del panel
+  - Usar preguntas y respuestas para crear un mosaico de panel
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Crear un panel de control
-  - Configurar la función de preguntas y respuestas
-  - Administrar mosaicos y trabajar con páginas de informes de mentiras
-  - Explicar y configurar la vista móvil
+  - Comprender los paneles de control en tiempo real
+  - Mejorar la usabilidad del panel
 
 
-  ### Módulo 11&#58; Mejora de informes y aplicación de análisis avanzado
-  Este módulo ayuda al alumno a aplicar características adicionales para mejorar el informe para obtener información analítica en los datos, equipando al alumno con los pasos para usar el informe para el análisis de datos reales. Este módulo también proporcionará al estudiante pasos y conceptos adicionales para aplicar y realizar análisis avanzados en el informe para obtener información de datos aún más profunda y significativa.
+  ### Módulo 9&#58; Crear informes paginados en Power BI
+  Este módulo le enseñará sobre los informes paginados, que incluye qué son y cómo encajan en Power BI. A continuación, aprenderá a crear y publicar un informe.
   #### Lecciones
-  - Navegación
-  - Análisis básico
-  - Agrupación, discretización y agrupamiento
-  - Análisis a lo largo del tiempo
-  - Análisis avanzado
-
-
-  #### Laboratorio&#58; Análisis de datos en Power BI Desktop
-  - Crear un informe
-  - Crear un gráfico de dispersión
-  - Crear un pronóstico
-  - Trabajar con un árbol de descomposición
-  - Trabajar con influenciadores clave
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Explorar el resumen estadístico
-  - Identificar valores atípicos en los datos
-  - Usar la visual de preguntas y respuestas
-  - Realizar el análisis de N superior
-
-
-  ### Módulo12&#58; Administrar y compartir activos de Power BI
-  En este módulo, el alumno aprenderá los conceptos de administración de activos de Power BI, incluidos conjuntos de datos y espacios de trabajo, así como también cómo aplicar la seguridad a nivel de roles a un conjunto de datos. Este módulo le enseña al estudiante cómo crear y administrar espacios de trabajo, así como cómo compartir contenido, incluidos informes y paneles, y cómo distribuir una aplicación.
-  #### Lecciones
-  - Gestión de conjuntos de datos
-  - Mejora de conjuntos de datos
-  - Configurar seguridad a nivel de fila
-  - Crear y administrar espacios de trabajo
-  - Mejora de conjuntos de datos e informes en el espacio de trabajo
-  - Compartir y distribuir contenido
-
-
-  #### Laboratorio&#58; Publicación y uso compartido de contenido de Power BI
-  - Configurar la seguridad del conjunto de datos
-  - Compartir un panel de control
-  - Publicar una aplicación
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Configurar la actualización del conjunto de datos
-  - Configurar la seguridad a nivel de fila en el conjunto de datos
-  - Crear y administrar un espacio de trabajo
-  - Publicar o actualizar activos en un espacio de trabajo
-  - Comprender la colaboración en el espacio de trabajo
-
-
-  ### Módulo 13&#58; Trabajar con informes paginados en Power BI
-  Este módulo le enseñará al alumno sobre informes paginados. El alumno aprenderá cómo son y cómo encaja en el espectro de Power BI, y luego verá cómo crear y publicar un informe.
-  #### Lecciones
-  - Introducción a los informes paginados
-  - Fuentes de datos y conjuntos de datos
-  - Agregar elementos visuales
-  - Mejora y publicación de informes
-
+  - Resumen de informes paginados
+  - Crear informes paginados
 
   #### Laboratorio&#58; Crear un informe paginado
-  - Empezar
-  - Desarrollar el informe
+  - Usar el Generador de informes de Power BI
+  - Diseñar un diseño de informe de varias páginas
+  - Definir una fuente de datos
+  - Definir un conjunto de datos
+  - Crear un parámetro de informe
+  - Exportar un informe a PDF
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, podrá&#58;
   - Explicar informes paginados
   - Crear un informe paginado
-  - Crear y configurar una fuente de datos y un conjunto de datos.
-  - Trabajar con gráficos y tablas en el informe.
+  - Crear y configurar una fuente de datos y un conjunto de datos
+  - Trabajar con gráficos y tablas
+  - Publicar un informe
+
+
+  ### Módulo 10&#58; Realizar análisis avanzados
+  Este módulo le ayuda a aplicar funciones adicionales para mejorar el informe para obtener información analítica en los datos, lo que le proporciona los pasos necesarios para utilizar el informe para el análisis de datos reales. También realizará análisis avanzados utilizando imágenes de IA en el informe para obtener información de datos aún más profunda y significativa.
+  #### Lecciones
+  - Análisis avanzado
+  - Información de datos a través de imágenes de IA
+
+  #### Laboratorio&#58; Análisis de datos en Power BI Desktop
+  - Crear gráficos de dispersión animados
+  - Utilizar el visual para pronosticar valores
+  - Trabajar con el árbol de descomposición visual
+  - Trabajar con los elementos visuales de Key Influencers
+
+  Después de completar este módulo, podrá&#58;
+  - Explorar el resumen estadístico
+  - Utilizar la función Analizar
+  - Identificar valores atípicos en los datos
+  - Realizar análisis de series de tiempo
+  - Usar las imágenes de IA
+  - Utilizar el visual personalizado de Advanced Analytics
+
+
+  ### Módulo 11&#58; Crear y administrar espacios de trabajo
+  Este módulo le presentará los espacios de trabajo, incluido cómo crearlos y administrarlos. También aprenderá a compartir contenido, incluidos informes y paneles, y luego aprenderá a distribuir una aplicación.
+  #### Lecciones
+  - Creación de espacios de trabajo
+  - Compartir y administrar activos
+
+  #### Laboratorio&#58; Publicación y uso compartido de contenido de Power BI
+  - Asignar principios de seguridad a roles de conjuntos de datos
+  - Compartir un panel
+  - Publica una aplicación
+
+  Después de completar este módulo, podrá&#58;
+  - Crear y administrar un espacio de trabajo
+  - Comprender la colaboración en el espacio de trabajo
+  - Supervisar el uso y el rendimiento del espacio de trabajo
+  - Distribuir una aplicación
+
+
+  ### Módulo 12&#58; Administrar conjuntos de datos en Power BI
+  En este módulo, aprenderá los conceptos de administración de activos de Power BI, incluidos conjuntos de datos y áreas de trabajo. También publicará conjuntos de datos en el servicio Power BI, luego los actualizará y protegerá.
+  #### Lecciones
+  - Parámetros
+  - Conjuntos de datos
+
+  Después de completar este módulo, podrá&#58;
+  - Crear y trabajar con parámetros
+  - Administrar conjuntos de datos
+  - Configurar la actualización del conjunto de datos
+  - Solucionar problemas de conectividad de la puerta de enlace
+
+
+  ### Módulo 13&#58; Seguridad a nivel de fila
+  Este módulo le enseña los pasos para implementar y configurar la seguridad en Power BI para proteger los activos de Power BI.
+  #### Lecciones
+  - Seguridad en Power BI
+
+  Después de completar este módulo, podrá&#58;
+  - Comprender los aspectos de la seguridad de Power BI
+  - Configurar roles de seguridad de nivel de fila y pertenencia a grupos
 

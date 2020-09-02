@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 1 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 2 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
   </div>
 
   Los candidatos para este examen son consultores funcionales de Dynamics 365 con experiencia en atención al cliente. Los candidatos son responsables de implementar soluciones omnicanal que se centran en el servicio, la calidad, confiabilidad, eficiencia y satisfacción del cliente.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el, 1 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- El contenido de este examen se actualizará el, 2 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Realizar configuración (25-30%)
 - Administrar los casos y la base de conocimientos (30-35%)
 - Administrar colas, derechos y SLA (25-30%)
@@ -37,7 +37,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
@@ -47,20 +47,20 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-forms
+- uid: learn-dynamics.create-surveys
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra recursos de capacitación para convertirse en un Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+  description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Certification poster
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
@@ -70,7 +70,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

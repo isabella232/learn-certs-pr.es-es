@@ -8,23 +8,23 @@ courseNumber: 'MS-040T00-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Configurar sitios de SharePoint
-- skill: Gestionar límites de almacenamiento de sitios
-- skill: Implementar OneDrive sync client
-- skill: Usar la Directiva de grupo para controlar la configuración de OneDrive sync client
-- skill: Administrar el intercambio externo de datos en Microsoft SharePoint y OneDrive
-- skill: Configurar propiedades de perfil de usuario
-- skill: Administrar audiencias
-- skill: Usar el Catálogo de aplicaciones para administrar aplicaciones personalizadas
-- skill: Crear y administrar grupos de términos, conjuntos de términos y términos
-- skill: Describir la diferencia entre las experiencias de búsqueda modernas y clásicas
+- skill: Configurar sitios de SharePoint.
+- skill: Gestionar límites de almacenamiento de sitios.
+- skill: Implementar OneDrive sync client.
+- skill: Usar la Directiva de grupo para controlar la configuración de OneDrive sync client.
+- skill: Administrar el intercambio externo de datos en Microsoft SharePoint y OneDrive.
+- skill: Configurar propiedades de perfil de usuario.
+- skill: Administrar audiencias.
+- skill: Usar el Catálogo de aplicaciones para administrar aplicaciones personalizadas.
+- skill: Crear y administrar grupos de términos, conjuntos de términos y términos.
+- skill: Describir la diferencia entre las experiencias de búsqueda modernas y clásicas.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -62,7 +62,7 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Administrar los límites de almacenamiento de los usuarios.
-  - Configurar la retención de datos en OneDrive.
+  - Configurar retención de dato en OneDrive.
   - Usar la Directiva de grupo para controlar la configuración de OneDrive sync client.
   - Describir diferentes métodos para implementar OneDrive.
   - Describir cómo usar OneDrive Admin Center para administrar OneDrive.
@@ -89,7 +89,7 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir cómo configurar las propiedades del perfil de usuario.
-  - Describir cómo administrar audiencias
+  - Describir cómo administrar audiencias.
   - Describir cómo usar el Catálogo de aplicaciones para administrar aplicaciones personalizadas.
 
 

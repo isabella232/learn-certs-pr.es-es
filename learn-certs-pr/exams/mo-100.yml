@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-100
 displayName: MO-100
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   El examen cubre la habilidad de crear y mantener informes de apariencia profesional, boletines con varias columnas, curriculum vitae y correspondencia comercial. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Word y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en la correcta aplicación de las características principales de Word mediante la creación y edición de documentos para una variedad de finalidades y situaciones. El examen cubre la habilidad de crear y mantener informes de apariencia profesional, boletines con varias columnas, curriculum vitae y correspondencia comercial.
@@ -28,13 +28,17 @@ locales:
 - fr
 - it
 - pt-br
+- pl
+- el-gr
+- zh-cn
+- zh-tw
 levels:
 - intermediate
 skills:
 - Administrar documentos (20-25%)
 - Insertar y dar formato a textos, párrafos y secciones (20-25%)
 - Administrar tablas y listas (15-20%)
-- Crear y administrar referencias (5-10 %)
+- Crear y administrar referencias (5-10%)
 - Insertar elementos gráficos y darles formato (15-20%)
 - Administrar colaboración de documentos (5-10%)
 roles:

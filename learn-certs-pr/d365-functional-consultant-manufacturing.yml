@@ -18,13 +18,13 @@ skills:
 - Realizar la migración de datos
 - Validar y asistir la solución
 - Instalar y configurar fabricación
-- Crear y gestionar producción y pedidos lean
-- Crear, procesar y gestionar pedidos por lotes de producción
+- Crear y administrar pedidos de producción y Lean
+- Crear, procesar y administrar pedidos de lotes de producción
 roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 courses:
 - uid: course.mb-300t00
@@ -44,22 +44,25 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-320
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Certification poster
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Ruta de aprendizaje para certificación
+  description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
-  href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
 

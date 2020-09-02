@@ -34,10 +34,13 @@ locales:
 - ja
 - zh-cn
 - ko
+- es
+- de
+- fr
 levels:
 - beginner
 skills:
-- 'El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.'
+- El contenido de este examen se actualizó el, 28 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Describir conceptos de nube (15-20%)
 - Describir los servicios principales de Azure (30-35%)
 - Describir seguridad, privacidad, cumplimiento y confianza (25-30%)
@@ -73,7 +76,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

@@ -6,19 +6,29 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Un consultor funcional de la aplicación principal de Dynamics 365 Business Central implementa y configura la aplicación Business Central, incluida la configuración de la funcionalidad de la aplicación central, los módulos y la migración de datos a Business Central. Los consultores configuran la interfaz de usuario en colaboración con el equipo de implementación para proporcionar a la empresa capacidad de administración y facilidad de navegación. Configuran centros de roles, incluida la adaptación de información, señales, mosaicos de acción, informes, gráficos y extensión de Business Central mediante el uso de componentes de Power Platform.
+  Los candidatos para este examen son consultores funcionales que implementan procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas. Implementan y configuran la aplicación Dynamics 365 Business Central, incluida la configuración de la funcionalidad y los módulos de la aplicación principal y la migración de datos a Business Central.
 
-  <div style='font-weight&#58; bold;'><br/>Nota&#58; Este examen estará disponible en septiembre de 2020.</div>
-subTitle: 'Este examen estará disponible en septiembre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Business Central, configurar Financials, configurar Ventas y Compras, configurar operaciones y usar componentes de Power Platform.'
+  Los candidatos ejecutan la interfaz de usuario en colaboración con el equipo de implementación para proporcionar a la empresa manejabilidad y facilidad de navegación. Configuran centros de roles, incluida la adaptación de información, señales, mosaicos de acción, informes, gráficos y extensión de Business Central mediante el uso de componentes de Microsoft Power Platform.
+
+  Los candidatos han aplicado el conocimiento para satisfacer las necesidades de los usuarios a través de la aplicación Business Central, incluida la comprensión básica de la gestión financiera, las ventas, las compras y el inventario.
+
+  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Business Central. Entienden el papel de Business Central en relación con el conjunto de aplicaciones Dynamics 365.
+
+  <div><strong><br/>Nota&#58; Este examen estará disponible en octubre de 2020.</strong></div>
+subTitle: 'Este examen estará disponible en octubre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Business Central; configurar finanzas; configurar ventas y compras; y realizar operaciones de Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Todavía no disponible
+- Configurar Business Central (20-25%)
+- Configurar finanzas (25-30%)
+- Configurar ventas y compras (10-15%)
+- Realizar operaciones de Business Central (30-35%)
 roles:
 - functional-consultant
 products:
@@ -43,7 +53,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

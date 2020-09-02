@@ -5,10 +5,7 @@ metadata:
   description: Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-
-  Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
+summary: "<div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>\r\n\r\nLos arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones."
 subTitle: Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 levels:
 - advanced
@@ -20,7 +17,7 @@ roles:
 - solution-architect
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - power-apps
 courses:
 - uid: course.mb-600t00
@@ -41,22 +38,25 @@ prerequisites:
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Ruta de aprendizaje para certificación
+  description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
-  href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
 

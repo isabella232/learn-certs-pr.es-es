@@ -1,11 +1,11 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure AI Fundamentals (beta)'
+title: 'Microsoft Azure AI Fundamentals'
 metadata:
-  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
-  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>\r\n\r\nLos candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure.\r\n\r\nEste examen es una oportunidad para demostrar el conocimiento de las cargas de trabajo comunes de ML e IA y cómo implementarlas en Azure.  \r\n\r\nEste examen está destinado a candidatos con conocimientos tanto técnicos como no técnicos. No se requiere experiencia en ciencia de datos e ingeniería de software; sin embargo, algunos conocimientos generales de programación o experiencia serían beneficiosos.  \r\n\r\nAzure AI Fundamentals se puede usar para prepararse para otras certificaciones basadas en roles de Azure como Azure Data Scientist Associate o Azure AI Engineer Associate, pero no es un requisito previo para ninguno de ellos.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\"> información sobre el valor y la importancia de los exámenes beta</a>.</div>"
+summary: "<div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>\r\n\r\nLos candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure.\r\n\r\nEste examen es una oportunidad para demostrar el conocimiento de las cargas de trabajo comunes de ML e IA y cómo implementarlas en Azure.  \r\n\r\nEste examen está destinado a candidatos con conocimientos tanto técnicos como no técnicos. No se requiere experiencia en ciencia de datos e ingeniería de software; sin embargo, algunos conocimientos generales de programación o experiencia serían beneficiosos.  \r\n\r\nAzure AI Fundamentals se puede usar para prepararse para otras certificaciones basadas en roles de Azure como Azure Data Scientist Associate o Azure AI Engineer Associate, pero no es un requisito previo para ninguno de ellos."
 subTitle: 'Demuestre que puede describir lo siguiente: Cargas de trabajo y consideraciones de IA; principios fundamentales del aprendizaje automático en Azure; características de las cargas de trabajo de visión por ordenador en Azure; características de las cargas de trabajo de procesamiento del lenguaje natural (NLP) en Azure; y características de las cargas de trabajo de IA conversacional en Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -75,7 +75,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

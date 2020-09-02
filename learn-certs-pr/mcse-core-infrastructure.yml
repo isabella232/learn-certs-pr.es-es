@@ -7,18 +7,22 @@ uid: certification.mcse-core-infrastructure
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificación se retirará el 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificación se retirará el 31 de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Todas las certificaciones que obtenga antes de las fechas de retiro seguirán apareciendo en su expediente académico en el <a href='https://www.microsoft.com/learning/dashboard.aspx'>Panel de certificación</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
   </div>
 
   Esta certificación valida que posee las habilidades necesarias para ejecutar un centro de datos, administración de identidad, administración de sistemas, virtualización, almacenamiento y redes altamente eficiente y moderno.
 
-  Para obtener la certificación MCSE&#58; Core Infrastructure, apruebe uno de los siguientes exámenes&#58;
-  - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
-  - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
-  - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
-  - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
-  - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
+  Para obtener la MCSE&#58; Certificación de infraestructura básica, complete los siguientes requisitos&#58;
+  - Obtener una certificación de requisito previo&#58;
+    - Opción de requisito previo 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - Opción de requisito previo 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - Y aprobar uno de los exámenes electivos&#58;
+    - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
+    - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
+    - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
+    - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
+    - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
 subTitle: Esta certificación valida que posee las habilidades necesarias para ejecutar un centro de datos, administración de identidad, administración de sistemas, virtualización, almacenamiento y redes altamente eficiente y moderno.
 levels:
 - advanced
@@ -40,11 +44,16 @@ exams:
 - uid: exam.70-744
 - uid: exam.70-745
 - uid: exam.70-413
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

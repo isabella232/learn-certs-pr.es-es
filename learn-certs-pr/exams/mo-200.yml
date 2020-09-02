@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-200
 displayName: MO-200
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   El examen contempla la habilidad de crear y editar un libro con múltiples hojas y utilizar un elemento gráfico para representar los datos de manera visual. Entre los ejemplos de hojas de cálculo se incluyen presupuestos de apariencia profesional, estados financieros, gráficos de rendimiento del equipo, facturas de ventas y registros de entrada de datos. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Excel y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en los principios básicos para crear y administrar hojas de trabajo y libros de trabajo, crear celdas y rangos, crear tablas, aplicar fórmulas y funciones, y crear gráficas y objetos. El examen contempla la habilidad de crear y editar un libro con múltiples hojas y utilizar un elemento gráfico para representar los datos de manera visual. Entre los ejemplos de hojas de cálculo se incluyen presupuestos de apariencia profesional, estados financieros, gráficos de rendimiento del equipo, facturas de ventas y registros de entrada de datos.
@@ -26,6 +26,11 @@ locales:
 - pt-br
 - es
 - it
+- ru
+- ja
+- pl
+- el-gr
+- zh-cn
 levels:
 - intermediate
 skills:

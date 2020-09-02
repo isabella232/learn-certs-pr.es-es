@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div><div><strong>MB-200 SERÁ REEMPLAZADO POR UN NUEVO EXAMEN, <a href="/learn/certifications/exams/pl-200">PL-200</a>, EN SEPTIEMBRE DE 2020. Podrá obtener esta certificación al aprobar MB-200 o PL-200, más MB-210, hasta que MB-200 se retire el 31 de diciembre de 2020. Después de que MB-200 se retire, se requerirá aprobar PL-200 y MB-210 para obtener esta certificación.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Sales Functional Consultants implementan soluciones que anticipan y planifican las conexiones de clientes, gestionan tratos mediante procesamiento y cierre, y aceleran el rendimiento del equipo de ventas utilizando análisis de datos.
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants implementan soluciones que anticipan y planifican las conexiones de clientes, gestionan tratos mediante procesamiento y cierre, y aceleran el rendimiento del equipo de ventas utilizando análisis de datos.
@@ -26,7 +26,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 courses:
 - uid: course.mb-200t00
@@ -46,22 +46,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-210
 resources:
-- title: Ruta de aprendizaje para certificación
-  description: 'Descubra recursos de capacitación para convertirse en un Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Certification poster
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Ruta de aprendizaje para certificación
+  description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
-- title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
-  href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
 

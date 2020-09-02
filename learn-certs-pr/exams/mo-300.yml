@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-300
 displayName: MO-300
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Este examen cubre la capacidad de crear y administrar presentaciones, insertar y formatear formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones, y administrar múltiples presentaciones. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos. Se espera que los candidatos demuestren la aplicación correcta de las características principales de PowerPoint y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia para crear, editar y mejorar presentaciones y presentaciones de diapositivas, incluida la capacidad de crear y administrar presentaciones, insertar y dar formato a formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones y administrar presentaciones múltiples. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
@@ -27,6 +27,9 @@ locales:
 - ru
 - fr
 - pt-br
+- pl
+- el-gr
+- zh-cn
 levels:
 - intermediate
 skills:

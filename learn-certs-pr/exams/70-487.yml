@@ -6,16 +6,16 @@ metadata:
 uid: exam.70-487
 displayName: 70-487
 summary: |+
-  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
   <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
   </div>
 
   Los candidatos para esta certificación son desarrolladores profesionales que usan Visual Studio 2017 y Microsoft® .NET Core Framework para diseñar y desarrollar soluciones web. Los candidatos deben tener una experiencia mínima de tres a cinco años en el desarrollo de soluciones basadas en ASP.NET MVC. Además, los candidatos también deben poder demostrar los siguientes puntos&#58;
-  - Experiencia diseñando y desarrollando aplicaciones web que accedan a diversos datos y servicios (locales y remotos), incluyendo Windows Azure
-  - Experiencia con todo el ciclo de desarrollo de software de datos y servicios
-  - Experiencia desarrollando e implementando en entornos de múltiples capas, incluyendo Windows Azure
-  - Experiencia diseñando y desarrollando soluciones asincronizadas
-  - Experiencia creando y consumiendo servicios HTTP
+  Experiencia diseñando y desarrollando aplicaciones web que accedan a diversos datos y servicios (locales y remotos), incluyendo Windows Azure
+  Experiencia con todo el ciclo de desarrollo de software de datos y servicios
+  Experiencia desarrollando e implementando en entornos de múltiples capas, incluyendo Windows Azure
+  Experiencia diseñando y desarrollando soluciones asincronizadas
+  Experiencia creando y consumiendo servicios HTTP
 subTitle: 'Los candidatos para esta certificación son desarrolladores profesionales que usan Visual Studio 2017 y Microsoft® .NET Core Framework para diseñar y desarrollar soluciones web. Los candidatos deben tener una experiencia mínima de tres a cinco años en el desarrollo de soluciones basadas en ASP.NET MVC.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
@@ -41,7 +41,8 @@ roles:
 products:
 - azure
 courses:
-- uid: course.20487
+- uid: course.20487-c
+- uid: course.20487-d
 relatedCertifications:
 - related:
     uid: certification.mcsd-app-builder-certification

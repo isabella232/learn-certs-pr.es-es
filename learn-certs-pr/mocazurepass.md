@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Acceso a Microsoft Learning Azure Passes para estudiantes de socios autorizados de Microsoft Learning
 
-<div style='color&#58; red;'><font color="red">Microsoft WWL ha restablecido el acceso a los pases de Azure. Tenga en cuenta que esta es una solución que no es SLA y que algunas regiones pueden estar experimentando restricciones de recursos.<br/><br/>La interfaz de Azure proporcionará comentarios sobre qué regiones y tamaños son compatibles y si hay demandas significativas para la región seleccionada. Considere usar otra región compatible con la suscripción que no experimente demandas significativas o restricciones de tamaño.<br/><br/>Para obtener más información sobre soluciones alternativas respaldadas por SLA, comuníquese con uno de los Hosters de laboratorio autorizados (ALH) que actualmente proporciona acceso a Azure.</font></div>
+<div>A continuación, se muestra información sobre Azure Passes que Microsoft proporciona para respaldar las soluciones de laboratorio para cursos específicos que cubren las tecnologías de nube de Microsoft.  Para obtener más información sobre soluciones alternativas respaldadas por SLA, comuníquese con uno de los Hosters de laboratorio autorizados (ALH) que actualmente brindan acceso a Azure.</div>
 
-Última actualización: **5 de junio de 2020**
+Última actualización: **jueves, 6 de agosto de 2020**
 
 Microsoft ofrece a sus estudiantes acceso a un Microsoft Azure Pass gratuito de 30 días cuando se inscriben en un curso elegible relacionado con Azure mediante los cursos oficiales de Microsoft. Los pases para estudiantes solo pueden ser obtenidos por el Microsoft Learning Partner autorizado a través de Courseware Marketplace, y está directamente vinculado a la compra de un curso MOC, con un límite de un pase por curso MOC ordenado. No habrá disponible ningún otro mecanismo para obtener pases para estudiantes. Si un Socio de aprendizaje solicita un curso MOC pero no selecciona el Pase de Azure que está disponible con el curso en el momento de la compra, el Socio tendrá la opción de regresar a Courseware Marketplace y, posteriormente, solicitar ese Pase si es necesario.
 
@@ -26,7 +26,7 @@ Los MCT pueden solicitar un pase para sus necesidades de preparación de cursos 
 
 Hay un número limitado de pases disponibles para distribuir a los socios de aprendizaje y MCT. La disponibilidad solo se puede garantizar hasta agotar existencias y solo en [países](https://www.windowsazure.com/pricing/faq/) donde se admite Microsoft Azure.
 
-**Elegibilidad** : Los cursos elegibles para el pase Azure de estudiante se enumeran a continuación, las versiones equivalentes localizadas también son elegibles:
+**Elegibilidad**: Los cursos elegibles para el pase Azure de estudiante se enumeran a continuación, las versiones equivalentes localizadas también son elegibles:
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -60,7 +60,6 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
@@ -74,6 +73,7 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
+- 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
@@ -82,6 +82,7 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
+- AZ-030T00 Tecnologías de Microsoft Azure para arquitectos de AWS
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -103,6 +104,7 @@ Hay un número limitado de pases disponibles para distribuir a los socios de apr
 - DP-201T01 Designing an Azure Data Solution
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
+- MS-600T00 Creación de aplicaciones y soluciones con los servicios básicos de Microsoft 365
 - WS-050T00 Migrating Application Workloads to Azure
 
 Nota: Esta lista está sujeta a cambios y los títulos pueden agregarse o eliminarse de esta lista a medida que se lanzan nuevas versiones o cursos y se retiran versiones y cursos anteriores.

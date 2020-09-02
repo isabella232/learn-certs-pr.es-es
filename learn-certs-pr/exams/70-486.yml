@@ -5,22 +5,22 @@ metadata:
   description: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
 uid: exam.70-486
 displayName: 70-486
-summary: |-
-  <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+summary: |+
+  <div><div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
   <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
   </div>
 
-  Los candidatos a este examen son desarrolladores profesionales que usan Microsoft Visual Studio 2017 y ASP.NET para diseñar y desarrollar soluciones web. Los candidatos deben tener un mínimo de entre tres y cinco años de experiencia desarrollando soluciones basadas en ASP.NET MVC de Microsoft y conocimientos de las aplicaciones web de Microsoft Azure.
+  Los candidatos a este examen son desarrolladores profesionales que usan Microsoft Visual Studio 2017 y ASP.NET para diseñar y desarrollar soluciones web. Los candidatos deben tener un mínimo de entre tres y cinco años de experiencia desarrollando soluciones basadas en Microsoft ASP.NET MVC de Microsoft y conocimientos de las aplicaciones web de Microsoft Azure.
 
   Los candidatos también deben tener la siguiente experiencia&#58;
-  - Diseñando y desarrollando aplicaciones web en un modelo ASP.NET MVC
-  - Planificando y diseñando soluciones de interacción de usuarios basadas en los requisitos empresariales
-  - Experiencia con todo el ciclo de desarrollo de software de aplicaciones web
-  - Desarrollando e implementando en entornos de múltiples capas, incluyendo Azure
+  Diseñando y desarrollando aplicaciones web en un modelo ASP.NET MVC
+  Planificando y diseñando soluciones de interacción de usuarios basadas en los requisitos empresariales
+  Experiencia con todo el ciclo de desarrollo de software de aplicaciones web
+  Desarrollando e implementando en entornos de múltiples capas, incluyendo Azure
   - Diseñando y desarrollando soluciones asincronizadas
 
-  <div style='font-weight&#58; bold;'><br/>Nota&#58; Hay actualizaciones del examen en vigor a partir del lunes, 15 de enero de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 486.</div>
-subTitle: Los candidatos a este examen son desarrolladores profesionales que usan Microsoft Visual Studio 2017 y ASP.NET para diseñar y desarrollar soluciones web. Los candidatos deben tener un mínimo de entre tres y cinco años de experiencia desarrollando soluciones basadas en ASP.NET MVC de Microsoft y conocimientos de las aplicaciones web de Microsoft Azure.
+  <div><strong><br/>Nota&#58; Hay actualizaciones de exámenes vigentes a partir del 15 de enero de 2018. Para obtener más información sobre estos cambios y cómo afectan las habilidades medidas, descargue y revise el documento de cambio del Examen 486.</strong></div>
+subTitle: Los candidatos a este examen son desarrolladores profesionales que usan Microsoft Visual Studio 2017 y ASP.NET para diseñar y desarrollar soluciones web. Los candidatos deben tener un mínimo de entre tres y cinco años de experiencia desarrollando soluciones basadas en Microsoft ASP.NET MVC de Microsoft y conocimientos de las aplicaciones web de Microsoft Azure.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
 practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
@@ -40,14 +40,15 @@ skills:
 - Diseñar la estructura y la arquitectura de implementación (10-15%)
 - Diseñar la experiencia del usuario (15-20%)
 - Desarrollar la experiencia del usuario (15-20%)
-- Resolver problemas y depurar aplicaciones web (20-25%)
+- Resolver problemas y depurar aplicaciones web (del 20% al 25%)
 - Diseñar e implementar la seguridad (15-20%)
 roles:
 - developer
 products:
 - aspnet-core
 courses:
-- uid: course.20486
+- uid: course.20486-c
+- uid: course.20486-d
 relatedCertifications:
 - related:
     uid: certification.mcsa-web-applications-certification

@@ -7,15 +7,15 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el, 21 de julio de 2020. Descargar el documento de habilidades medidas a continuación para ver qué cambiará.<br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizó el, 21 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
 
   Los candidatos para este examen deben tener experiencia en la materia desarrollando componentes en la nube y perimetrales de una solución Azure IoT.
 
   Las responsabilidades para un desarrollador de Azure IoT incluyen la administración del ciclo de vida del dispositivo (configuración, configuración y mantenimiento) utilizando servicios en la nube y otras herramientas. Implementa diseños para soluciones de IoT de Azure, que incluyen topología de dispositivos, conectividad, depuración y seguridad, así como soluciones para administrar, supervisar y transformar canalizaciones de datos relacionados con IoT. También implementa los componentes de Azure IoT Edge y configura la red del dispositivo perimetral.
 
-  El desarrollador de IoT trabaja con ingenieros de datos y otras partes interesadas para garantizar una integración empresarial exitosa.
+  El Azure desarrollador de IoT trabaja con ingenieros de datos y otras partes interesadas para garantizar una integración empresarial exitosa.
 
   Un candidato para este examen debe tener experiencia en la implementación de los servicios de Azure que forman una solución de IoT, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos y opciones de plataforma como servicio. Este rol también debería ser capaz de reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución IoT y realizar tareas específicas de codificación IoT en al menos un lenguaje compatible con Azure, incluidos C#, Node, C o Python.
 subTitle: 'Este examen mide su capacidad para implementar la infraestructura de la solución IoT; aprovisionamiento y gestión de dispositivos; implementar soluciones en dispositivos Azure IoT Edge; procesar y gestionar datos; supervisar, solucionar problemas y optimizar soluciones de IoT; e implementar seguridad.'
@@ -31,13 +31,13 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el, 21 de julio de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, 21 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Implementar la infraestructura de la solución IoT (15-20%)
 - Aprovisionar y administrar dispositivos (20-25%)
 - Implementar Edge (15-20%)
 - Procesar y administrar datos (15-20%)
 - Monitorear, solucionar problemas y soluciones loT (15-20%)
-- Implementar seguridad (15–20%)
+- Implementar seguridad (15-20%)
 roles:
 - developer
 products:
@@ -73,7 +73,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

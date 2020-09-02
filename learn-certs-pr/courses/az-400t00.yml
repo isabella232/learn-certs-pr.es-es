@@ -8,9 +8,9 @@ courseNumber: 'AZ-400T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Planificar la transformación con objetivos y plazos compartidos.
-- skill: Seleccionar un proyecto e identificar las métricas y los KPI del proyecto.
-- skill: Crear un equipo y una estructura organizativa ágil.
+- skill: Planificar la transformación con objetivos y plazos compartidos
+- skill: Seleccionar un proyecto e identificar las métricas y los KPI del proyecto
+- skill: Crear un equipo y una estructura organizativa ágil
 - skill: Describir los beneficios de usar Source Control
 - skill: Migrar de TFVC a Git
 - skill: Escalar Git para Enterprise DevOps
@@ -18,8 +18,8 @@ skillsGained:
 - skill: Sintetizar paquetes comunes para permitir compartir y reutilizar
 - skill: Migrar y consolidar artefactos
 - skill: Migrar e integrar medidas de control de fuente
-- skill: Administrar la configuración y los secretos de la aplicación.
-- skill: Desarrollar una estrategia de calidad del proyecto.
+- skill: Administrar la configuración y los secretos de la aplicación
+- skill: Desarrollar una estrategia de calidad del proyecto
 - skill: Planificar prácticas de desarrollo seguras y reglas de cumplimiento
 - skill: Implementar y administrar infraestructura de creación
 - skill: Explicar por qué la integración continua es importante
@@ -62,20 +62,20 @@ skillsGained:
 - skill: Implementar herramientas para rastrear el uso del sistema, el uso de funciones y el flujo
 - skill: Integrar y configurar sistemas de tickets con la gestión del trabajo del equipo de desarrollo
 - skill: Implemente una estrategia móvil de DevOps
-- skill: Aplicar infraestructura y configuración como principios de código.
+- skill: Aplicar infraestructura y configuración como principios de código
 - skill: Implementar y administrar infraestructura utilizando tecnologías de automatización de Microsoft como plantillas ARM, PowerShell y CLI de Azure
-- skill: Describir los modelos y servicios de implementación que están disponibles con Azure.
+- skill: Describir los modelos y servicios de implementación que están disponibles con Azure
 - skill: Implementar y configurar un clúster de Kubernetes administrado
 - skill: Implementar y configurar la infraestructura con herramientas y servicios de terceros con Azure, como Chef, Puppet, Ansible, SaltStack y Terraform
-- skill: Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiado para un proceso de lanzamiento y una infraestructura de aplicación.
+- skill: Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiado para un proceso de lanzamiento y una infraestructura de aplicación
 - skill: Implementar el cumplimiento y la seguridad en la infraestructura de su aplicación
 - skill: Diseñar prácticas para medir la satisfacción del usuario final
 - skill: Diseñar procesos para capturar y analizar los comentarios de los usuarios de fuentes externas
 - skill: Diseñar enrutamiento para datos de informes de fallos de aplicaciones de clientes
-- skill: Recomendar herramientas y tecnologías de monitoreo.
+- skill: Recomendar herramientas y tecnologías de monitoreo
 - skill: Recomendar herramientas de seguimiento de uso del sistema y funciones
 - skill: Analizar alertas para establecer una línea de base
-- skill: Analizar la telemetría para establecer una línea de base.
+- skill: Analizar la telemetría para establecer una línea de base
 - skill: Realizar revisiones del sitio en vivo y capturar información para las interrupciones del sistema
 - skill: Realizar ajustes continuos para reducir alertas que carezcan de sentido o no sean procesables
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -111,7 +111,7 @@ outlineSection: |-
   #### Laboratorio&#58; Planificación ágil y gestión de carteras con Azure Boards
 
   Después de completar este módulo, los estudiantes podrán&#58; 
-  - Planificar la transformación con objetivos y plazos compartidos.
+  - Planificar la transformación con objetivos y plazos compartidos
   - Seleccionar un proyecto e identificar las métricas y los KPI del proyecto
   - Crear un equipo y una estructura organizativa ágil
   - Diseñar una estrategia de integración de herramientas
@@ -192,10 +192,6 @@ outlineSection: |-
 
   #### Laboratorio&#58; Integrar External Source Control con Azure Pipelines
 
-  #### Laboratorio&#58; Integrar Jenkins con Azure Pipelines
-
-  #### Laboratorio&#58; Implementar una aplicación de múltiples contenedores
-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar y administrar infraestructura de creación
   - Explicar por qué la integración continua es importante
@@ -214,6 +210,7 @@ outlineSection: |-
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Administrar la configuración y los secretos de la aplicación
+  - Implementar herramientas para administrar la seguridad y el cumplimiento en una canalización
 
 
   ### Módulo 7&#58; Gestión de políticas de calidad y seguridad del código
@@ -244,7 +241,7 @@ outlineSection: |-
   - Seguridad de paquetes
   - Software de código abierto
   - Integrar escaneos de licencia y vulnerabilidad
-  - Implementar una estrategia de versiones (versión git) 
+  - Implementar una estrategia de control de versiones 
 
   #### Laboratorio&#58; Administrar la seguridad y la licencia de código abierto con WhiteSource
 
@@ -344,20 +341,7 @@ outlineSection: |-
   - Integrar y configurar sistemas de tickets con la gestión del trabajo del equipo de desarrollo
 
 
-  ### Módulo 14&#58; Implemente una estrategia móvil de DevOps
-  #### Lecciones
-  - Introducción a Mobile DevOps
-  - Introducción a Visual Studio App Center
-  - Gestionar conjuntos de dispositivos de destino móviles y grupos de distribución
-  - Gestionar conjuntos de dispositivos de prueba de IU de destino
-  - Probar dispositivos de prueba para la implementación
-  - Crear grupos de distribución públicos y privados 
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Implemente una estrategia móvil de DevOps
-
-
-  ### Módulo 15&#58; Infraestructura y configuración de Azure Tools
+  ### Módulo 14&#58; Infraestructura y configuración de Azure Tools
   #### Lecciones
   - Infraestructura como código y gestión de la configuración
   - Crear recursos de Azure con plantillas ARM
@@ -374,7 +358,7 @@ outlineSection: |-
   - Implementar y administrar infraestructura utilizando tecnologías de automatización de Microsoft como plantillas ARM, PowerShell y CLI de Azure
 
 
-  ### Módulo 16&#58; Modelos y servicios de implementación de Azure
+  ### Módulo 15&#58; Modelos y servicios de implementación de Azure
   #### Lecciones
   - Módulos y opciones de implementación
   - Servicios Azure de infraestructura como servicio (IaaS)
@@ -382,12 +366,13 @@ outlineSection: |-
   - Servicios informáticos HPC y sin servidor
   - Azure Service Fabric 
 
-  #### Laboratorio&#58; Automatización de Azure - Implementación de IaaS o PaaS
+  #### Laboratorio &#58; Implementación de una aplicación Java Dockerizada en Azure Web App para contenedores
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Describir los modelos y servicios de implementación que están disponibles con Azure
 
-  ### Módulo 17&#58; Crear y administrar la infraestructura de servicio de Kubernetes
+
+  ### Módulo 16&#58; Crear y administrar la infraestructura de servicio de Kubernetes
   #### Lecciones
   - Azure Kubernetes Service
 
@@ -396,7 +381,8 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar y configurar un clúster de Kubernetes administrado
 
-  ### Módulo 18&#58; Infraestructura de terceros como herramientas de código disponibles con Azure
+
+  ### Módulo 17&#58; Infraestructura de terceros como herramientas de código disponibles con Azure
   #### Lecciones
   - Chef
   - Puppet
@@ -408,10 +394,10 @@ outlineSection: |-
   #### Laboratorio&#58; Automatizando las implementaciones de su infraestructura en la nube con Terraform y Azure Pipelines
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  Implementar y configurar la infraestructura con herramientas y servicios de terceros con Azure, como Chef, Puppet, Ansible, SaltStack y Terraform
+  - Implementar y configurar la infraestructura con herramientas y servicios de terceros con Azure, como Chef, Puppet, Ansible y Terraform
 
 
-  ### Módulo 19&#58; Implementar cumplimiento y seguridad en su infraestructura
+  ### Módulo 18&#58; Implementar cumplimiento y seguridad en su infraestructura
   #### Lecciones
   - Principios de seguridad y cumplimiento con DevOps
   - Centro de seguridad Azure 
@@ -419,11 +405,11 @@ outlineSection: |-
   #### Laboratorio&#58; Implementar seguridad y cumplimiento en una canalización de Azure DevOps
 
   Después de completar este módulo, los estudiantes podrán&#58;
-  - Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiado para un proceso de lanzamiento y una infraestructura de aplicación.
+  - Definir una infraestructura y una estrategia de configuración y un conjunto de herramientas apropiado para un proceso de lanzamiento y una infraestructura de aplicación
   - Implementar el cumplimiento y la seguridad en la infraestructura de su aplicación
 
 
-  ### Módulo 20&#58; Recomendar y diseñar mecanismos de realizar comentarios del sistema.
+  ### Módulo 19&#58; Recomendar y diseñar mecanismos de realizar comentarios del sistema.
   #### Lecciones
   - El bucle interno
   - Mentalidad de experimentación continua
@@ -441,16 +427,17 @@ outlineSection: |-
   - Recomendar herramientas de seguimiento de uso del sistema y funciones
 
 
-  ### Módulo 21&#58; Optimizar los mecanismos de realizar comentarios
+  ### Módulo 20&#58; Optimizar los mecanismos de realizar comentarios
   #### Lecciones
   - Ingeniería de confiabilidad del sitio
-  - Analizar la telemetría para establecer una línea de base.
+  - Analizar la telemetría para establecer una línea de base
   - Realizar ajustes continuos para reducir alertas que carezcan de sentido o no sean procesables
   - Analizar alertas para establecer una línea de base
   - Retrospectivas sin culpa y una cultura justa 
 
   Después de completar este módulo, los estudiantes podrán&#58;
   - Analizar alertas para establecer una línea de base
-  - Analizar la telemetría para establecer una línea de base.
+  - Analizar la telemetría para establecer una línea de base
   - Realizar revisiones del sitio en vivo y capturar información para las interrupciones del sistema
   - Realizar ajustes continuos para reducir alertas que carezcan de sentido o no sean procesables
+

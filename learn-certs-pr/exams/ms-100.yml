@@ -6,7 +6,10 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  </div>
 
   Los candidatos para este examen son los Microsoft 365 Enterprise Administrators que participan en la evaluación, planificación, migración, implementación y administración de los servicios de Microsoft 365. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
 
@@ -22,6 +25,7 @@ locales:
 levels:
 - advanced
 skills:
+- El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Diseñar e implementar servicios de Microsoft 365 (25-30%)
 - Administrar la identidad del usuario y los roles (35-40%)
 - Administrar acceso y autenticación (20-25%)
@@ -55,7 +59,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

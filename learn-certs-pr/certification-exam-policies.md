@@ -140,7 +140,14 @@ Aproximadamente 400 personas pueden hacer el examen beta a una tarifa reducida. 
 
 Tenga en cuenta que los puestos son limitados y están disponibles por orden de llegada, y que los exámenes beta no se entregan en China, India, Pakistán o Turquía por razones de seguridad.
 
-Como agradecimiento por participar en el proceso beta, recibirá un cupón de descuento del 25% del proveedor de entrega del examen aproximadamente 6 semanas después de que el examen se publique. Estos comprobantes los proporciona el proveedor de entrega del examen y se envían a la dirección de correo electrónico que utilizó cuando se registró para el examen. Si no recibe su cupón de descuento del 25% dentro de las 6 semanas posteriores a la fecha de publicación del examen, comuníquese con Atención al cliente del proveedor que imparte del examen.
+Los candidatos que realicen el examen beta con el código de descuento del 80% recibirán un cupón de descuento del 25% del proveedor de entrega del examen aproximadamente 6 semanas después de que se publique el examen. Estos comprobantes los proporciona el proveedor de entrega del examen y se envían a la dirección de correo electrónico que utilizó cuando se registró para el examen. Si no recibe su cupón de descuento del 25% dentro de las 6 semanas posteriores a la fecha de publicación del examen, comuníquese con Atención al cliente del proveedor que imparte del examen. _Este descuento NO está generalmente disponible para todos los participantes beta. Si paga el examen beta con cualquier otro método, no es elegible para el cupón de descuento del 25%._
+<br/><br/>
+<div><font color='red'><em>
+Tenga en cuenta: Tras realizar un examen beta, no recibe inmediatamente una puntuación porque el modelo de calificación del examen todavía no está terminado. <strong>Normalmente recibirá su puntuación del examen en 2-3 semanas después de que el examen esté disponible en todo el mundo. Esto podría ser hasta 16 semanas después de que haga el examen</strong>, según el momento del periodo beta en que tome el examen. Este marco de tiempo refleja el proceso integral utilizado para evaluar los resultados del examen beta, incluido el análisis estadístico de los datos para evaluar el rendimiento de cada pregunta y la lectura y evaluación de todos los comentarios proporcionados durante el examen beta.</em></font></div>
+<br/>
+<div><font color='red'><em>El proceso de reevaluación empieza el día en que se activan los exámenes y las puntuaciones finales se publican aproximadamente 10 días después. Sin embargo, una vez que se anuncie el resultado, el alumno recibirá un correo con el resultado.</em></font></div>
+
+Para obtener más información sobre los exámenes beta, vaya [aquí](/learn/certifications/certification-exams#participating-in-beta-exams).
 
 ## Precio académico de los exámenes
 
@@ -173,13 +180,13 @@ Seleccione el método que desea usar para verificar su estado. Los métodos son 
 
 ## Acuerdo de no confidencialidad
 
-Updated: Julio de 2020
+Actualizó: JULIO 2020
 
 ### ACUERDO DE EXAMEN DE CERTIFICACIÓN DE MICROSOFT
 
 **LEA ATENTAMENTE ESTE ACUERDO DE EXAMEN DE CERTIFICACIÓN DE MICROSOFT (“ACUERDO”). AL HACER CLIC EN EL BOTÓN “SÍ”, CONFIRMA TENER AUTORIZACIÓN PARA SUSCRIBIR ESTE ACUERDO Y ACEPTA TODOS LOS TÉRMINOS Y CONDICIONES DEL MISMO. SI NO ESTÁ DE ACUERDO, SELECCIONE “NO”. DEBE SELECCIONAR “SÍ” PARA HACER EL EXAMEN DE CERTIFICACIÓN DE MICROSOFT.**
 
-Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**”) y Microsoft Corporation (“***Microsoft***”).
+El presente Acuerdo se celebra a partir de la fecha de Su aceptación entre usted ("**Usted**" o "**Su**") y Microsoft Corporation ("***Microsoft***").
 
 1. **CONFIDENCIALIDAD**
 
@@ -245,13 +252,14 @@ Este Acuerdo se celebra en la fecha de su aceptación entre usted (“**Usted**�
 
 7. **PROPIEDAD Y DERECHOS RESERVADOS**
 
-    7.1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
+    7,1. **Propiedad**. Microsoft es propietaria y conserva todos los derechos, títulos e intereses en el examen de certificación de Microsoft.
 
-    7.2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
+    7,2. **Recursos**. Además de todos los derechos y recursos previstos por ley o por este Acuerdo, Microsoft se reserva por la presente expresamente todos los recursos legales y justos que puedan surgir del incumplimiento de este Acuerdo del examen o de la infracción de cualquiera de los derechos de propiedad intelectual de Microsoft.
+
 
 ## Microsoft Certification Program Agreement
 
-El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un documento legal entre usted ("usted") y Microsoft ("Microsoft") con respecto a su participación en el Microsoft Certification Program ("Programa"). Los términos de este Acuerdo se aplican a (a) todas las certificaciones de Microsoft que haya obtenido y a (b) su participación en el Programa, incluidos el acceso y el uso de cualquier ventaja del Microsoft Certification Program, las credenciales de Microsoft Certification y la credencial de Microsoft Certification que Microsoft ponga a su disposición como parte del Programa. Lea este Acuerdo detenidamente. AL USAR O ACCEDER A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION, ACEPTA LOS TÉRMINOS Y CONDICIONES DEL ACUERDO. SI NO ACEPTA ESTE ACUERDO, NO UTILICE NI ACCEDA A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION.
+El presente Acuerdo del programa de certificación de Microsoft (**"Acuerdo"**) es un documento legal entre usted (**"usted"** o **"su"**) y Microsoft (**"Microsoft"**) en cuanto a su participación en el Programa de Certificación de Microsoft (**“Programa”**). Los términos de este Acuerdo se aplican a (a) todas las certificaciones de Microsoft que haya obtenido y a (b) su participación en el Programa, incluidos el acceso y el uso de cualquier ventaja del Microsoft Certification Program, las credenciales de Microsoft Certification y la credencial de Microsoft Certification que Microsoft ponga a su disposición como parte del Programa. Lea este Acuerdo detenidamente. AL USAR O ACCEDER A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION, ACEPTA LOS TÉRMINOS Y CONDICIONES DEL ACUERDO. SI NO ACEPTA ESTE ACUERDO, NO UTILICE NI ACCEDA A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION.
 
 1. DEFINICIONES
 
@@ -262,6 +270,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
    5. Con "***Credenciales de Microsoft Certification***" o "***Credenciales***" se hace referencia al título completo o abreviado de una certificación de Microsoft Certification específica para representar el cumplimiento de los requisitos para dicha certificación por parte de una persona.
    6. "***Examen de Microsoft Certification***" o "***Examen***" se refiere a un examen de certificación de Microsoft diseñado para ayudar a validar las aptitudes de una persona con respecto a una tecnología concreta de Microsoft sobre la que versa el Examen en cuestión.
    
+
 2. MICROSOFT CERTIFICATION
    1. *Cómo obtener y conservar una certificación de Microsoft Certification*. Para obtener y conservar una certificación de Microsoft Certification, debe hacer lo siguiente:
           
@@ -322,6 +331,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
    EN LA MEDIDA EN QUE LA LEY APLICABLE LO PERMITA, MICROSOFT Y SUS FILIALES NO SERÁN RESPONSABLES EN NINGÚN CASO DE NINGÚN DAÑO DIRECTO, INDIRECTO, ESPECIAL, IMPREVISTO, EMERGENTE, PUNITIVO O EJEMPLAR QUE PUDIERA OCASIONAR EL PROGRAMA O ESTUVIERA RELACIONADO CON ÉL (YA SEA POR LAS VENTAJAS DEL PROGRAMA, LA FINALIZACIÓN O CUALQUIER OTRA CAUSA), CON SU MICROSOFT CERTIFICATION, CON LA NO CONSECUCIÓN DE LA MICROSOFT CERTIFICATION, O EL USO O LA IMPOSIBILIDAD DE USO DE LAS CREDENCIALES. ESTA EXCLUSIÓN SE APLICARÁ CON INDEPENDENCIA DE LA TEORÍA JURÍDICA EN QUE SE BASE CUALQUIER RECLAMACIÓN DE DICHOS DAÑOS, AUNQUE LAS PARTES HUBIERAN SIDO INFORMADAS DE LA POSIBILIDAD DE QUE SE PRODUJERAN LOS DAÑOS.
 
+
 10. INDEMNIZACION
 
     Usted se compromete a defender, indemnizar y salvaguardar a Microsoft y a sus Filiales frente a todas las reclamaciones, demandas, costes, responsabilidades, sentencias, pérdidas, gastos y daños ("***Reclamación***") (incluidos los honorarios de abogados) de terceros que puedan surgir de o estar relacionados con (a) su participación en el Programa; (b) su uso de cualquier Logotipo o Credencial de cualquier manera incoherente con las condiciones de este Acuerdo; (c) el rendimiento, la promoción, la venta o la distribución de sus servicios, o (d) la rescisión de este Acuerdo por parte de Microsoft con arreglo a las condiciones del Acuerdo. En el caso de que Microsoft le solicitara alguna indemnización según lo estipulado en el Acuerdo, Microsoft le notificará sin demora y por escrito los daños que se le reclaman y cuya indemnización solicita, y le permitirá, a su propia discreción, responder y defenderse ante dicha Reclamación mediante el asesor que Microsoft acepte. No podrá presentar ninguna Reclamación en nombre de Microsoft sin obtener primero su permiso por escrito, el cual no se denegará de forma irrazonable, y no podrá publicar la resolución sin el previo consentimiento por escrito de Microsoft. Microsoft se reserva el derecho, a su propia discreción, de asumir el control único de la defensa de una Reclamación de estas características con el asesor jurídico que elija. Si actúa de este modo, cualquier resolución de la Reclamación que requiera el pago por parte de usted quedará sujeta a su autorización previa por escrito. Si se le solicita, usted reembolsará todos los gastos razonables contraídos por Microsoft en la defensa de las Reclamaciones de dichas características, incluidos, a título meramente enunciativo, los honorarios y costes de abogados, así como cualquier sentencia o acuerdo de resolución de la Reclamación relacionado con lo anterior.
@@ -340,6 +350,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
         6. Un tribunal u organismo oficial considera que los servicios que ha prestado en relación con las tecnologías de Microsoft, con las que está asociada su certificación de Microsoft Certification, son de algún modo defectuosos.
         7. Usted falsea el estado de su certificación, asociación con los Microsoft Partners o cualquier otra relación con Microsoft. Según la gravedad de la falta de cumplimiento, es posible que pierda la certificación de manera permanente y sea expulsado del programa de Microsoft Certification. Si esto ocurre, perderá también de manera permanente sus credenciales de Microsoft Certification.
         
+
     3. *Rescisión automática*: Este acuerdo se rescindirá de forma automática si usted pierde su estado en el programa de Microsoft Certification o si Microsoft cancela el Programa.
 
     4. *Efectos de la rescisión*: En todos los casos de rescisión de este Acuerdo, se cancelarán de inmediato todos los derechos que se le habían otorgado en el Programa. Con efecto inmediato, usted:
@@ -368,46 +379,46 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
        2. La entidad de Microsoft correspondiente a los siguientes países o regiones es la indicada a continuación: Afganistán, Albania, Alemania, Andorra, Angola, Arabia Saudí, Argelia, Armenia, Austria, Azerbaiyán, Bahréin, Bélgica, Benín, Bielorrusia, Bosnia y Herzegovina, Botsuana, Bulgaria, Burkina Faso, Burundi, Camerún, Chad, Chipre, Comoras, Congo, Costa de Marfil, Croacia, Dinamarca, Egipto, Emiratos Árabes Unidos, Eslovaquia, Eslovenia, España, Estado de la Ciudad del Vaticano, Estonia, Etiopía, Federación Rusa, Finlandia, Francia, Gabón, Gambia, Georgia, Ghana, Gibraltar, Grecia, Groenlandia, Guadalupe, Guinea Bissau, Hungría, Irlanda, Isla Bouvet, Islandia, Islas Feroe, Israel, Italia, Jordania, Kazajistán, Kenia, Kirguistán, Kosovo, Kuwait, Lesoto, Letonia, Líbano, Liberia, Libia, Liechtenstein, Lituania, Luxemburgo, Macedonia, Madagascar, Malaui, Mali, Malta, Marruecos, Mauricio, Mauritania, Moldavia, Mónaco, Mongolia, Montenegro, Mozambique, Namibia, Níger, Nigeria, Noruega, Nueva Caledonia, Omán, Países Bajos, Pakistán, Polonia, Portugal, Qatar, Reino Unido, República Centroafricana, República Checa, República de Cabo Verde, República de Guinea, República de Guinea Ecuatorial, República de Ruanda, República de Senegal, República Democrática de Santo Tomé y Príncipe, República Democrática del Congo, Reunión, Rumania, San Marino, Santa Elena, Serbia, Seychelles, Sierra Leona, Somalia, Suazilandia, Sudáfrica, Suecia, Suiza, Svalbard y Jan Mayen, Tanzania, Tayikistán, Togo, Túnez, Turkmenistán, Turquía, Ucrania, Uganda, Uzbekistán, Yemen, Yibuti, Zaire, Zambia y Zimbabue:  
 
-           Microsoft Ireland Operations Limited  
-           The Atrium, Block B, Carmenhall Road  
-           Sandyford Industrial Estate  
-           Dublin, 18, Ireland  
+           Microsoft Ireland Operations Limited   
+           The Atrium, Block B, Carmenhall Road   
+           Sandyford Industrial Estate   
+           Dublin, 18, Ireland   
 
-       3. La entidad de Microsoft correspondiente a los siguientes países o regiones es la indicada a continuación: Australia y sus territorios externos, Bangladés, Brunéi Darussalam, Bután, Camboya, Islas Cook, Islas Fiyi, Polinesia Francesa, Territorios del Sur (Francia), Hong Kong, India, Indonesia, Kiribati, Laos, Malasia, Maldivas, Islas Marshall, Mayotte, Micronesia, Nauru, Nepal, Nueva Zelanda, Niue, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Filipinas, Pitcairn, Samoa, Singapur, Islas Salomón, Sri Lanka, Tailandia, Timor Oriental, Tokelau, Tonga, Tuvalu, Islas Wallis y Futuna, Vanuatu y Vietnam:
+       3. La entidad de Microsoft correspondiente a los siguientes países o regiones es la indicada a continuación: Australia y sus territorios externos, Bangladés, Brunéi Darussalam, Bután, Camboya, Islas Cook, Islas Fiyi, Polinesia Francesa, Territorios del Sur (Francia), Hong Kong, India, Indonesia, Kiribati, Laos, Malasia, Maldivas, Islas Marshall, Mayotte, Micronesia, Nauru, Nepal, Nueva Zelanda, Niue, Islas Marianas del Norte, Palaos, Papúa Nueva Guinea, Filipinas, Pitcairn, Samoa, Singapur, Islas Salomón, Sri Lanka, Tailandia, Timor Oriental, Tokelau, Tonga, Tuvalu, Islas Wallis y Futuna, Vanuatu y Vietnam: 
 
-           Microsoft Regional Sales Corporation  
-           438B Alexandra Road #04-09/12  
-           Block B, Alexandra Technopark  
-           Singapore 119968  
+           Microsoft Regional Sales Corporation   
+           438B Alexandra Road #04-09/12   
+           Block B, Alexandra Technopark   
+           Singapore 119968   
 
-       4. La entidad de Microsoft correspondiente a Japón es:
+       4. La entidad de Microsoft correspondiente a Japón es:   
 
-           Microsoft Japan Company, Limited  
-           Shinagawa Grand Central Tower  
-           2-16-3, 2 Konan, Minato-ku,  
-           Tokyo 108-0075  
+           Microsoft Japan Company, Limited   
+           Shinagawa Grand Central Tower   
+           2-16-3, 2 Konan, Minato-ku,   
+           Tokyo 108-0075   
            Japan
 
-       5. La entidad de Microsoft correspondiente a Taiwán es:
+       5. La entidad de Microsoft correspondiente a Taiwán es:   
 
-           Microsoft Taiwan Corporation  
-           8F, No 7, Sungren Rd.  
-           Shinyi Chiu, Taipei  
+           Microsoft Taiwan Corporation   
+           8F, No 7, Sungren Rd.   
+           Shinyi Chiu, Taipei   
            Taiwan 110  
 
-       6. La entidad de Microsoft correspondiente a la República Popular China es:
+       6. La entidad de Microsoft correspondiente a la República Popular China es:   
 
-           Microsoft (China) Company Limited6F Sigma Center  
-           No. 49 Zhichun Road Haidian District  
-           Beijing 100080, P.R.C  
+           Microsoft (China) Company Limited6F Sigma Center   
+           No. 49 Zhichun Road Haidian District   
+           Beijing 100080, P.R.C   
 
-       7. La entidad de Microsoft correspondiente a la República de Corea es:
+       7. La entidad de Microsoft correspondiente a la República de Corea es:   
 
-           Microsoft Korea, Inc.  
-           5th Floor, West Wing  
-           POSCO Center  
-           892 Daechi-Dong Gangnam-Gu  
-           Seoul, 135-777, Korea
+           Microsoft Korea, Inc.   
+           5th Floor, West Wing   
+           POSCO Center   
+           892 Daechi-Dong Gangnam-Gu   
+           Seoul, 135-777, Korea 
 
     5. *Legislación aplicable*. A continuación se establece la legislación, jurisdicción y competencia aplicables en lo que respecta a este Acuerdo. Dicha elección de jurisdicción y competencia no impedirá que cualquiera de las partes solicite y obtenga medidas cautelares con respecto a cualquier infracción de sus derechos de propiedad intelectual, a las obligaciones de confidencialidad o a la ejecución o reconocimiento de cualquier laudo o sentencia. Se podrán solicitar, en cualquiera de las jurisdicciones correspondientes, medidas cautelares o reconocimiento de laudo.
         1. **Regla general**: Salvo según lo dispuesto en la Sección 12.5(b), la legislación del Estado de Washington (EE.UU.) regirá este Acuerdo. En caso de existir jurisdicción federal, las partes aceptan someterse a la jurisdicción y el fuero exclusivos de los tribunales del condado de King, Washington. En caso contrario, las partes aceptan someterse a la jurisdicción y el fuero exclusivos del Tribunal Superior (Superior Court) del condado de King, Washington.
@@ -439,7 +450,7 @@ El Microsoft Certification Program Agreement (en lo sucesivo, "Acuerdo") es un d
 
     9. *Cesión*: No debe ceder, transferir o conceder sublicencia de este Acuerdo ni cualquier derecho cedido conforme a este Acuerdo de ningún modo; y cualquier intento de cesión, transferencia o concesión de sublicencia por procedimiento legal o de otro tipo será nulo y sin efecto.
 
-Updated: Diciembre de 2013
+Actualizó: Diciembre de 2013
 
 ## Cómo solicitar créditos universitarios para determinadas certificaciones y programas profesionales.
 
@@ -451,17 +462,17 @@ AZ-100: Microsoft Azure Infrastructure and Deployment
 
 AZ-101: Microsoft Azure Integration and Security
 
-[AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/learn/certifications/exams/az-103)
+AZ-103: Microsoft Azure Administrator
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/learn/certifications/exams/az-203)
+AZ-203: Developing Solutions for Microsoft Azure
 
-[AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/learn/certifications/exams/az-300)
+AZ-300: Microsoft Azure Architect Technologies
 
-[AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/learn/certifications/exams/az-301)
+AZ-301: Microsoft Azure Architect Design
 
 [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/learn/certifications/exams/az-400)
 
@@ -523,15 +534,15 @@ Los exámenes de certificación de Microsoft están diseñados para garantizar q
 - Desafíos que no se envían a través de este formulario.
 - Desafíos para las metodologías de puntuación (por ejemplo, el gráfico de barras no representa mi puntuación real).
 - Desafíos al formato del examen (estándar, tipo, adaptativo).
-- Desafíos para los exámenes beta. Si tiene más comentarios sobre un examen Beta que no haya podido realizar durante el período de comentarios, envíe sus comentarios a [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Desafíos para los exámenes beta. Si tiene más comentarios sobre un examen Beta que no haya podido realizar durante el período de comentarios, envíe sus comentarios a [mslcd@microsoft.com](mailto:mslcd@microsoft.com). 
 
 ### Proceso de desafío de elemento de examen:
 
 1. Revise nuestros criterios para aceptar y no aceptar un desafío de elemento de examen.
 2. Complete y envíe el [formulario de desafío del elemento de examen](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
 3. El equipo de certificación de Microsoft revisará su envío para verificar que esté completo.  
-   a. Si está incompleto, se le pedirá que proporcione más información.  
-   b. Si está completo, el equipo de Microsoft Certification lo revisará. Una revisión lleva aproximadamente dos semanas.
+   a.	Si está incompleto, se le pedirá que proporcione más información.  
+   b.	Si está completo, el equipo de Microsoft Certification lo revisará. Una revisión lleva aproximadamente dos semanas.
 4. Una vez que se complete la revisión, se le notificará el resultado.
 
 Gracias por su interés en ayudar a que los exámenes de Microsoft Certification sean lo más válidos y relevantes posible.
@@ -540,7 +551,7 @@ Gracias por su interés en ayudar a que los exámenes de Microsoft Certification
 
 ### Exámenes realizados a través de Pearson VUE:
 
-Si necesita tiempo adicional porque el examen no está disponible en su idioma nativo, puede solicitar esto mediante la presentación del [formulario de inglés como segundo idioma](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga las instrucciones en el formulario.
+Si necesita tiempo adicional porque el examen no está disponible en su idioma nativo, puede solicitar esto mediante la presentación del [formulario de inglés como segundo idioma](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga las instrucciones en el formulario. 
 
 Si necesita un equipo especial o cualquier otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). El Sistema de Solicitud de Ajustes Razonables es un sistema seguro en línea para solicitar adaptaciones y presentar documentación de respaldo.
 
@@ -621,8 +632,8 @@ La mejor forma de prepararse para un examen es practicar las habilidades enumera
 Microsoft Certified Trainers trabajan con muchos candidatos cuando se preparan para sus certificaciones. A menudo recomiendan los siguientes pasos para ayudar a los candidatos a centrarse en sus estudios:
 
 - [Consulte todos los exámenes](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) para encontrar el que mejor se adapte a sus intereses.
-- Imprima la sección de Habilidades medidas de la página.
-- Revise la lista completa. Piense en cada tema. Si es un experto en un tema concreto, resáltelo o táchelo.
+- Imprima la sección de Habilidades medidas de la página. 
+- Revise la lista completa. Piense en cada tema. Si es un experto en un tema concreto, resáltelo o táchelo. 
 - Vea lo que queda. Ahora empieza a hacer una investigación orientada. Busque artículos específicos en Internet de cada tema que no haya destacado.
     - Utilice fuentes autorizadas, como docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com y el centro de soporte de Office 365.
 
@@ -931,6 +942,7 @@ En muchos casos, los mensajes y descripciones de los productos de proveedores de
 
 Si cree haber descubierto un sitio web de "descargas de conocimientos" con contenido de Microsoft, envíenos un mensaje de correo electrónico a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
+
 **¿Con qué tipo de seguridad debe contar un centro de pruebas?**
 
 A los centros de pruebas se les proporcionan directivas de seguridad que deben aplicar obligatoriamente para poder conseguir y mantener el estatus de centro de pruebas. Mediante una serie de inspecciones continuas, se garantiza que cada centro de pruebas mantenga la seguridad descrita por Microsoft y el proveedor del examen. Además, los examinadores de los centros de pruebas tienen autorización para tomar medidas inmediatas y adecuadas contra los candidatos que infrinjan las reglas de las pruebas. Para obtener información específica sobre lo que se espera de los candidatos, póngase en contacto con el proveedor del examen. Si tiene alguna duda respecto a la seguridad de su experiencia en el examen, envíe un mensaje de correo electrónico a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
@@ -938,6 +950,7 @@ A los centros de pruebas se les proporcionan directivas de seguridad que deben a
 **¿Qué tipos de irregularidades pueden producirse por parte del centro de pruebas?**
 
 Los administradores de centros de pruebas actúan de forma inadecuada si no siguen las directivas de seguridad de Microsoft y el proveedor del examen. Entre estas irregularidades, se incluyen, a título meramente enunciativo: pasar por alto una identificación inadecuada del candidato; no solicitar identificación a cada candidato; no examinar periódicamente el local; no mantener particiones en las estaciones de trabajo de las pruebas; pasar por alto la existencia de chuletas o dispositivos electrónicos; proporcionar respuestas o ayuda de cualquier tipo en relación con las preguntas del examen; y permitir cualquier forma de publicación de material de propiedad intelectual de Microsoft.
+
 
 **¿Qué sucede si un centro de pruebas participa en comportamientos fraudulentos?**
 
@@ -966,6 +979,7 @@ El panel de **Tareas** enumera las tareas que debe realizar en el laboratorio. P
 
 Después de abandonar el laboratorio, no podrá volver a él porque la puntuación empieza (en segundo plano) en cuanto abandona el laboratorio. Al hacer clic en **Siguiente**, se le pedirá que confirme que realmente desea abandonar el laboratorio. Si hace clic en **Sí** finalizará la sección del laboratorio y se puntuarán las tareas.
 
+
 **¿Cómo se estructura un examen cuando contiene laboratorios?**
 
 Cuando inicie el examen, verá una pantalla que le indica cuántos elementos, estudios de casos y laboratorios, incluida la cantidad de tareas, que se incluirán en el examen. Tome nota de esta información para poder planificar el tiempo de su examen en consecuencia.
@@ -979,6 +993,7 @@ Después de iniciar el examen, responderá todas las preguntas tradicionales (po
 El número de laboratorios y tareas en El examen se proporciona en la página de descripción general que precede al primer laboratorio. ¡Léala! Y a continuación, administre su tiempo respectivamente.
 
 - NO espere que las tareas se ejecuten antes de pasar a otra tarea. En algunos casos, necesita ejecutar algo antes de poder completar otra tarea, pero esto se notará en la tarea, y habrá otras tareas en las que puede estar trabajando mientras se ejecuta esa tarea. **No pierda tiempo esperando que se ejecuten las tareas**. Pase a otra actividad que no dependa de esa tarea para poder optimizar el tiempo de su examen. En algunos casos, comenzar una tarea puede ser suficiente para puntuar (por ejemplo, crear un recurso en Azure); puede dejar que se ejecute la tarea en segundo plano mientras trabajar en otras tareas. Incluimos una nota en la lista de tareas informándole que solo necesita comenzar la tarea. Puede pasar a otras tareas o incluso abandonar la sección (pasar al siguiente laboratorio si corresponde o finalizar el examen) sin ser penalizado. **Lea la tarea atentamente. Haga lo que sea necesario para resolver el problema planteado en la tarea.**
+
 
 **¿Por qué un examen con laboratorios contiene tipos de preguntas tradicionales (por ejemplo, elección múltiple, arrastrar y soltar, crear una lista, etc.)?**
 
@@ -1052,9 +1067,11 @@ Dado que estamos haciendo un cambio significativos en nuestro programa de certif
 
 Nada ocurre con las certificaciones MCSA, MCSD y MCSE que ya tiene. Permanecen en su transcripción. La relevancia de dichas certificaciones depende en sus roles de trabajo actual (y futuro) y cuán valiosa esa certificación es para su administrador y organización y para el trabajo que realiza.
 
+
 **Aún hay disponibles algunas certificaciones MCSA, MCSD y MCSE. ¿Qué ocurrirá con estas?**
 
 Puede seguir obteniendo certificaciones MCSA, MCSD y MCSE siempre y cuando los exámenes continúen estando disponibles. A medida que retiramos los exámenes que son parte de dichas certificaciones, ya no podrá obtener dichas certificaciones.
+
 
 **Está retirando algunos exámenes indicados para las certificaciones MCSA, MCSD y MCSE. ¿Qué ocurre con mis certificaciones cuando se retiran dichos exámenes?**
 
@@ -1063,6 +1080,7 @@ Antes de que se retiren los exámenes, asegúrese de aprobar aquellos que son pa
 **Con el objeto de alinear más estrechamente el entrenamiento y los exámenes, ¿está reduciendo la cantidad de experiencia que las personas necesitan para aprobar el examen u obtener la certificación?**
 
 No, no estamos reduciendo la cantidad de experiencia que las personas necesitan para aprobar los exámenes u obtener nuestras certificaciones. El entrenamiento está diseñado para preparar a personas para los exámenes, pero en sí misma no es probable que sea suficiente. Las preguntas de nuestro exámenes basadas en roles requieren que aplique las habilidades y el conocimiento adquirido en el entrenamiento de problemas del mundo real.
+
 
 ### Precio académico de los exámenes
 
@@ -1074,9 +1092,11 @@ No. Si decide registrarse en un examen y pagarlo antes de verificar su estado de
 
 Sí. La verificación académica solo es válida durante 12 meses. Después de 12 meses, es necesario repetir el proceso de verificación.
 
+
 **Soy un educador. ¿Puedo seguir recibiendo un descuento académico (en los países correspondientes) en mi examen de certificación de Microsoft entregado en el canal comercial?**
 
 Sí. Tiene que seguir el mismo proceso que un estudiante. Es decir, debe seleccionar "Estudiante" como función de trabajo en el perfil de su cuenta de Microsoft y verificar su estado mediante el mismo proceso que un estudiante.
+
 
 **¿Con quién debo ponerme en contacto para realizar preguntas relacionadas con el proceso de verificación académica para los exámenes de Microsoft Certification?**
 
@@ -1103,3 +1123,4 @@ Esto se considera una ayuda de comodidad y **no** requiere aprobación previa. S
 **Tengo una pregunta que no se responde aquí. ¿Dónde encuentro la respuesta?**
 
 Si no puede encontrar la respuesta a su pregunta aquí, contáctenos por correo electrónico a: [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+

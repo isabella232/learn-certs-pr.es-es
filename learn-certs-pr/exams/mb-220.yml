@@ -8,7 +8,7 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen se actualizará el 7 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el, 7 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
   </div>
 
   Los candidatos para este examen son consultores funcionales de Dynamics 365 Customer Engagement con experiencia en Marketing. Los candidatos son responsables de implementar soluciones que atraigan y conviertan clientes potenciales, desarrollen el conocimiento de la marca, estandaricen los mensajes omnicanal y brinden perspectivas de marketing.
@@ -19,6 +19,7 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar aplicaciones de marketing; gestionar segmentos y listas; crear y gestionar formularios y páginas de marketing; gestionar clientes potenciales; crear y gestionar correos electrónicos de marketing; gestionar los viajes de los clientes; gestionar eventos y webinars; y configurar y analizar las respuestas de los clientes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+practiceTestUrl: https://in.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en

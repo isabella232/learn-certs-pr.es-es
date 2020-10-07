@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  </div>
 
   Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
   <br/>
@@ -25,15 +28,15 @@ locales:
 levels:
 - intermediate
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las habilidades medidas en el documento a continuación tienen la intención de ilustrar cómo estamos evaluando esa habilidad. Esta lista no es definitiva ni exhaustiva.'
-- Usar funcionalidades comunes y herramientas de implementación. (20-25%)
-- Configurar seguridad, procesos y opciones (45 - 50 %)
-- Realizar la migración de datos (15 - 20 %)
-- Validar y asistir la solución (15 - 20 %)
+- El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- Usar funcionalidades comunes y herramientas de implementación (20-25%)
+- Configurar seguridad, procesos y opciones (45-50%)
+- Realizar la migración de datos (15-20%)
+- Validar y asistir la solución (15-20%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 - dynamics-finance
 exams:
@@ -57,7 +60,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

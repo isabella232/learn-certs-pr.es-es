@@ -40,12 +40,12 @@ exams:
 - uid: exam.md-101
 resources:
 - title: Ruta de aprendizaje para certificación
-  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Modern Desktop Administrator Associate.'
+  description: 'Descubra recursos de capacitación para convertirse en un Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Póster de certificación
+- title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay

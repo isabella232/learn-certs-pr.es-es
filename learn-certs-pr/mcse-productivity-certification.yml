@@ -1,8 +1,8 @@
 ### YamlMime:Certification
-title: MCSE Productivity Solutions Expert
+title: 'MCSE: Productivity Solutions Expert'
 metadata:
-  title: MCSE Productivity Solutions Expert
-  description: MCSE Productivity Solutions Expert
+  title: 'MCSE: Productivity Solutions Expert'
+  description: 'MCSE: Productivity Solutions Expert'
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
@@ -11,13 +11,13 @@ summary: |-
   <div><strong>Esta certificación se retira el 31 de Enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá conseguir esta certificación después de dicha fecha. Obtener más información <a href='/learn/certifications/retired-certifications'>sobre próximos retiros de certificación</a>.</strong><br/><br/></div>
   </div>
 
-  Esta certificación valida las habilidades necesarias para trasladar su empresa a la nube, aumentar la productividad y la flexibilidad de los usuarios, reducir la pérdida de datos y mejorar la seguridad de los datos para su organización. Esta certificación se puede usar para cumplir con uno de los requisitos para ser [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+  Esta certificación valida las habilidades necesarias para trasladar su empresa a la nube, aumentar la productividad y la flexibilidad de los usuarios, reducir la pérdida de datos y mejorar la seguridad de los datos para su organización. Esta certificación se puede usar para cumplir con uno de los requisitos para ser [Microsoft 365 Certified Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator).
 
   Para convertirse en un experto en soluciones de productividad de MCSE, complete los siguientes requisitos&#58;
-  - Obtener una certificación de requisito previo
-    - Opción de requisito previo 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - Opción de requisito previo 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
-  - Y aprobar uno de los exámenes electivos
+  - Obtener una certificación de requisito previo&#58;
+    - Opción de requisito previo 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - Opción de requisito previo 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - Y aprobar uno de los exámenes electivos&#58;
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
@@ -26,7 +26,7 @@ subTitle: Esta certificación valida las habilidades necesarias para trasladar s
 levels:
 - advanced
 skills:
-- ninguno
+- none
 roles:
 - administrator
 type: mcse
@@ -43,6 +43,11 @@ exams:
 - uid: exam.70-345
 - uid: exam.70-339
 - uid: exam.70-333
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.

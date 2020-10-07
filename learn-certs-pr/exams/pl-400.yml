@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Los candidatos para este examen diseñan, desarrollan, aseguran y solucionan problemas de las soluciones de Power Platform. Los candidatos implementan componentes de una solución, incluyendo mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 
@@ -14,8 +14,8 @@ summary: |-
 
   Los candidatos deben tener experiencia en desarrollo que incluya servicios de Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, servicios web RESTful, ASP.NET y Microsoft Power BI.
 
-  <div style='font-weight&#58; bold;'><br/>Nota&#58; Este examen estará disponible en octubre de 2020.</div>
-subTitle: 'Este examen estará disponible en octubre de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes; crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
+  <div><strong><br/>Nota&#58; Este examen estará disponible alrededor del, 25 de septiembre de 2020.</strong></div>
+subTitle: 'Este examen estará disponible alrededor del, 25 de septiembre de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes; crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
 locales:
@@ -44,8 +44,8 @@ resources:
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Certification poster
-  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
@@ -55,7 +55,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

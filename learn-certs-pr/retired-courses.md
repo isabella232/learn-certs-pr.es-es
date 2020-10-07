@@ -15,16 +15,121 @@ Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pront
 
 Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
 
-## Cursos retirados: Instructor guía del entrenamiento
+## Cursos retirados: Curso dirigido por un instructor
+
+* Courseware Retiro de 31 Diciembre de 2020
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | inglés | 31/12/2020 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | inglés | 31/12/2020 |
+
+* Courseware Retiro de 30 de Noviembre de 2020
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | Inglés | 30/11/2020 |
+    | 40528 | G | Business continuity and disaster recovery | Inglés | 30/11/2020 |
+    | 40503 | G | Enterprise-ready cloud | Inglés | 30/11/2020 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | Inglés | 30/11/2020 |
+    | 40533 | G | OSS PaaS and DevOps | Inglés | 30/11/2020 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | Inglés | 30/11/2020 |
+
+* Retiros de material didáctico el 30 de septiembre de 2020 y retiros de cursos localizados relacionados el 30 de octubre de 2020
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | Inglés | 30/09/2020 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Chino (simplificado)| 30/10/2020 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Coreano | 30/10/2020 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | japonés | 30/10/2020 |
+    | AZ-300T02 | A | Implementing Workloads and Security | Inglés | 30/09/2020 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Chino simplificado | 30/10/2020 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Coreano | 30/10/2020 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Japonés | 30/10/2020 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | Inglés | 30/09/2020 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Chino simplificado | 30/10/2020 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Coreano | 30/10/2020 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Japonés | 30/10/2020 |
+    | AZ-300T04 | A | Creating and Deploying Apps | Inglés | 30/09/2020 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Chino simplificado | 30/10/2020 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Coreano | 30/10/2020 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Japonés | 30/10/2020 |
+    | AZ-300T06 | A | Developing for the Cloud | Inglés | 30/09/2020 |
+    | AZ-300T06ZH | A | Developing for the Cloud | Chino simplificado | 30/10/2020 |
+    | AZ-300T06KO | A | Developing for the Cloud | Coreano | 30/10/2020 |
+    | AZ-300T06JA | A | Developing for the Cloud | Japonés | 30/10/2020 |
+    | AZ-301T01 | A | Designing for Identity and Security | Inglés | 30/09/2020 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | Chino simplificado | 30/10/2020 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Coreano | 30/10/2020 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Japonés | 30/10/2020 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | Inglés | 30/09/2020 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Chino simplificado | 30/10/2020 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Coreano | 30/10/2020 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Japonés | 30/10/2020 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | English | 30/09/2020 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chino simplificado | 30/10/2020 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | coreano | 30/10/2020 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japonés | 30/10/2020 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | Inglés | 30/09/2020 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Chino simplificado | 30/10/2020 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Coreano | 30/10/2020 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japonés | 30/10/2020 |
+
+* Courseware Retiro el, 31 de Agosto de 2020
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | Inglés | 31/08/2020 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Chino simplificado | 31/08/2020 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Coreano | 31/08/2020 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Japonés | 31/08/2020 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | Inglés | 31/08/2020 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chino simplificado | 31/08/2020 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Coreano | 31/08/2020 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Japonés | 31/08/2020 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | Inglés | 31/08/2020 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | Chino simplificado | 31/08/2020 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Coreano | 31/08/2020 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Japonés | 31/08/2020 |
+    | AZ-203T03 | A | Develop for Azure storage | Inglés | 31/08/2020 |
+    | AZ-203T03ZH | A | Develop for Azure storage | Chino simplificado | 31/08/2020 |
+    | AZ-203T03KO | A | Develop for Azure storage | Coreano | 31/08/2020 |
+    | AZ-203T03JA | A | Develop for Azure storage | Japonés | 31/08/2020 |
+    | AZ-203T04 | A | Implement Azure security | Inglés | 31/08/2020 |
+    | AZ-203T04ZH | A | Implement Azure security | Chino simplificado | 31/08/2020 |
+    | AZ-203T04KO | A | Implement Azure security | Coreano | 31/08/2020 |
+    | AZ-203T04JA | A | Implement Azure security | Japonés | 31/08/2020 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | Inglés | 31/08/2020 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Chino simplificado | 31/08/2020 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Coreano | 31/08/2020 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Japonés | 31/08/2020 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | Inglés | 31/08/2020 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Chino simplificado | 31/08/2020 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Coreano | 31/08/2020 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Japonés | 31/08/2020 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | Inglés | 31/08/2020 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | Inglés | 31/08/2020 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | Inglés | 31/08/2020 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | Inglés | 31/08/2020 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | Inglés | 31/08/2020 |
+    | MS-300T01 | A | Managing Office 365 Content Services | Inglés | 31/08/2020 |
+    | MS-300T02 | A | Managing SharePoint Online | Inglés | 31/08/2020 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | Inglés | 31/08/2020 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | Inglés | 31/08/2020 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | Inglés | 31/08/2020 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | Inglés | 31/08/2020 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | Inglés | 31/08/2020 |
+    | MS-301T04 | A | Migrating to SharePoint Online | Inglés | 31/08/2020 |
 
 * Courseware Retiro de 30 de junio de 2020.
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 2274 | C | Managing a Microsoft® Windows Server™ 2003 Environment | inglés | 30/06/2020 |
+    | 2274 | C | Managing a Microsoft® Windows Server™ 2003 Environment | Inglés | 30/06/2020 |
     | 2275 | C | Maintaining a Microsoft® Windows Server™ 2003 Environment | inglés | 30/06/2020 |
-    | 2276 | C | Implementing a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Hosts | inglés | 30/06/2020 |
-    | 2277 | C | Implementing, Managing, and Maintaining a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Services | inglés | 30/06/2020 |
+    | 2276 | C | Implementing a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Hosts | Inglés | 30/06/2020 |
+    | 2277 | C | Implementing, Managing, and Maintaining a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Services | Inglés | 30/06/2020 |
     | 2310 | D | Developing Web Applications Using Microsoft® Visual Studio® 2008 SP1 | inglés | 30/06/2020 |
     | 2400 | C | Implementing and Managing Microsoft Exchange Server 2003 | inglés | 30/06/2020 |
     | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | inglés | 30/06/2020 |
@@ -52,7 +157,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 6436 | B | Designing a Windows Server® 2008 Active Directory® Infrastructure and Services | inglés | 30/06/2020 |
     | 6439 | A | Configuring and Troubleshooting Windows Server® 2008 Application Infrastructure | inglés | 30/06/2020 |
     | 6445 | A | Implementing and Administering Windows® Small Business Server 2008 | inglés | 30/06/2020 |
-    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | inglés | 30/06/2020 |
+    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | Inglés | 30/06/2020 |
     | 7197 | A | Managing Enterprise Desktops using the Microsoft® Desktop Optimization Pack | inglés | 30/06/2020 |
     | 10035 | A | Notions de base sur l’infrastructure réseau et la plateforme d’applications Windows Server® 2008 | Fancés | 30/06/2020 |
     | 10054 | A | Écriture de requêtes avec Microsoft SQL Server 2008 Transact-SQL | Francés | 30/06/2020 |
@@ -101,9 +206,9 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 20335 | B | Network Readiness and Assessment for Lync | inglés | 30/06/2020 |
     | 20336 | B | Core Solutions of Microsoft® Lync® Server 2013 | inglés | 30/06/2020 |
     | 20337 | B | Enterprise Voice and Online Services with Microsoft® Lync® Server 2013 | inglés | 30/06/2020 |
-    | 20342 | B | Pro: Exchange Server 15 | inglés | 30/06/2020 |
+    | 20342 | B | Pro: Exchange Server 15 | Inglés | 30/06/2020 |
     | 20346 | D | Managing Office 365 Identities and Services | inglés | 30/06/2020 |
-    | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | inglés | 30/06/2020 |
+    | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | Inglés | 30/06/2020 |
     | 20409 | B | Server Virtualization with Windows Server Hyper-V® and System Center | inglés | 30/06/2020 |
     | 20415 | B | Implementing a Desktop Infrastructure | inglés | 30/06/2020 |
     | 20416 | B | Implementing Desktop Application Environments | inglés | 30/06/2020 |
@@ -195,9 +300,9 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 20688 | D | Supporting Windows® 8.1 | inglés | 28/02/2020 |
     | 23346 | C | Managing Office 365 Identities and Services | japonés | 28/02/2020 |
     | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | inglés | 28/02/2020 |
-    | 40552 | A | Microsoft Security Workshop: Managing Identity | inglés | 28/02/2020 |
-    | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | inglés | 28/02/2020 |
-    | 40554 | A | Microsoft Security Workshop: Implementing Windows 10 Security Features | inglés | 28/02/2020 |
+    | 40552 | A | Microsoft Security Workshop: Managing Identity | Inglés | 28/02/2020 |
+    | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | Inglés | 28/02/2020 |
+    | 40554 | A | Microsoft Security Workshop: Implementing Windows 10 Security Features | Inglés | 28/02/2020 |
     | 22697-1 | B | Installing and Configuring Windows 10 | Francés | 28/02/2020 |
     | MB-900T01 | A | Dynamics 365 fundamentals | inglés | 28/02/2020 |
 
@@ -205,13 +310,13 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 10979 | F | Introduction to Microsoft Azure for IT Professionals | inglés | 31/01/2020 |
+    | 10979 | F | Introduction to Microsoft Azure for IT Professionals | Inglés | 31/01/2020 |
     | MB-200T01 | A | Dynamics 365: Power Platform applications | Inglés | 31/01/2020 |
     | MB-200T02 | A | Dynamics 365: Power Platform automation | Inglés | 31/01/2020 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | Inglés | 31/01/2020 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | Inglés | 31/01/2020 |
     | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | inglés | 31/01/2020 |
-    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | inglés | 31/01/2020 |
+    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | inglés | 31/01/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | inglés | 31/01/2020 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | inglés | 31/01/2020 |
     | MB-240T03 | A | Universal Resource Scheduling for Dynamics 365 for Field Service | inglés | 31/01/2020 |
@@ -232,19 +337,19 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | MD-100T01 | A | Installing Windows 10 | Inglés | 31/12/2019 |
+    | MD-100T01 | A | Installing Windows 10 | inglés | 31/12/2019 |
     | MD-100T02 | A | Configuring Windows 10 | inglés | 31/12/2019 |
     | MD-100T03 | A | Protecting Windows 10 | inglés | 31/12/2019 |
     | MD-100T04 | A | Maintaining Windows 10 | inglés | 31/12/2019 |
     | MD-101T01 | A | Deploying the Modern Desktop | inglés | 31/12/2019 |
     | MD-101T02 | A | Managing Modern Desktops and Devices | inglés | 31/12/2019 |
     | MD-101T03 | A | Protecting Modern Desktops and Devices | inglés | 31/12/2019 |
-    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | Inglés | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | Inglés | 31/12/2019 |
+    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | inglés | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | inglés | 31/12/2019 |
     | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | inglés | 31/12/2019 |
     | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | inglés | 31/12/2019 |
-    | 40389 | A | First Look Clinic: Windows Server 2016 | Inglés | 31/12/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | Inglés | 31/12/2019 |
+    | 40389 | A | First Look Clinic: Windows Server 2016 | inglés | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | inglés | 31/12/2019 |
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | inglés | 31/12/2019 |
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | inglés | 31/12/2019 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | japonés | 31/12/2019 |
@@ -386,7 +491,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | AZ-101T03 | A | Implement Advanced Virtual Networking | inglés | 30/6/2019
     | AZ-101T04 | A | Secure Identities | inglés | 30/6/2019
 
-* Courseware Retiro de 1 de Mayo de 2019
+* Courseware Retiro de 1 de mayo de 2019
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
@@ -522,7 +627,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Francés | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | alemán | 30/6/2018
     | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Francés | 30/6/2018
-    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | alemán | 30/6/2018
+    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Alemán | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Francés | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | portugués | 30/6/2018
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | inglés | 30/6/2018
@@ -625,8 +730,8 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | árabe | 30/6/2018
     | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | árabe | 30/6/2018
     | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | inglés | 30/6/2018
-    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | inglés | 30/6/2018
-    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | inglés | 30/6/2018
+    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | Inglés | 30/6/2018
+    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | Inglés | 30/6/2018
     | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | alemán | 30/6/2018
     | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | alemán | 30/6/2018
     | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | Francés | 30/6/2018
@@ -650,10 +755,10 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | Chino | 30/6/2018
     | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | chino | 30/6/2018
     | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | chino | 30/6/2018
-    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | chino | 30/6/2018
-    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | chino | 30/6/2018
-    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | chino | 30/6/2018
-    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | chino | 30/6/2018
+    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | Chino | 30/6/2018
+    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | Chino | 30/6/2018
+    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | Chino | 30/6/2018
+    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | Chino | 30/6/2018
     | 10184 | A | Designing Windows Server 2008 Network Infrastructure | chino | 30/6/2018
     | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | chino | 30/6/2018
     | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(japonés) | japonés | 30/6/2018
@@ -680,7 +785,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics® AX 2012 | alemán | 30/6/2018
     | 80526 | A | Beschaffung in Microsoft Dynamics® AX 2012 | alemán | 30/6/2018
     | 80530 | A | Serviceverwaltung in Microsoft Dynamics® AX 2012 | alemán | 30/6/2018
-    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | inglés | 30/6/2018
+    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | Inglés | 30/6/2018
     | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | inglés | 30/6/2018
     | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | inglés | 30/6/2018
     | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | inglés | 30/6/2018
@@ -688,9 +793,9 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 80544 | A | Warehouse Management System in Microsoft Dynamics® AX 2012 R2 | inglés | 30/6/2018
     | 80545 | A | Customer Service in Microsoft Dynamics® CRM 2013 | inglés | 30/6/2018
     | 80546 | A | Sales Management in Microsoft Dynamics® CRM 2013 | inglés | 30/6/2018
-    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | inglés | 30/6/2018
-    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | inglés | 30/6/2018
-    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | inglés | 30/6/2018
+    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | Inglés | 30/6/2018
+    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | Inglés | 30/6/2018
+    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | Inglés | 30/6/2018
     | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (japonés) | japonés | 30/6/2018
     | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | alemán | 30/6/2018
     | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | español | 30/6/2018
@@ -712,7 +817,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 20696 | C | Administering System Center Configuration Manager and Intune | inglés | 30/3/2018
+    | 20696 | C | Administering System Center Configuration Manager and Intune | Inglés | 30/3/2018
 
 * Courseware Retiro de, 31 de enero de 2018
 
@@ -876,15 +981,15 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | inglés | 1/8/2016
 
-* Courseware Retiro de, 24 de Junio de 2016
+* Courseware Retiro de, 24 de junio de 2016
 
   [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* Courseware Retiro de, 15 de Junio de 2016
+* Courseware Retiro de, 15 de junio de 2016
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 20346 | D | Managing Office 365 Identities and Services | inglés | 15/06/2016 |
+    | 20346 | D | Managing Office 365 Identities and Services | inglés | 15/6/2016 |
 
 * Courseware Retiro de, 18 de abril de 2016
 
@@ -900,23 +1005,23 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 31 | Office 2013 and Office 365 Demonstration Sessions | inglés | 18/4/2016
     | 23 | Windows 8 Demonstration Sessions | inglés | 18/4/2016
     | 22 | Office 2010 Running Start: Demonstration Sessions | holandés | 18/4/2016
-    | 21 | Office 2010 Running Start: Demonstration Sessions | coreano | 18/4/2016
+    | 21 | Office 2010 Running Start: Demonstration Sessions | Coreano | 18/4/2016
     | 20 | Office 2010 Running Start: Demonstration Sessions | ruso | 18/4/2016
-    | 19 | Office 2010 Running Start: Demonstration Sessions | chino (tradicional) | 18/4/2016
-    | 18 | Office 2010 Running Start: Demonstration Sessions | chino (simplificado) | 18/4/2016
+    | 19 | Office 2010 Running Start: Demonstration Sessions | Chino (tradicional) | 18/4/2016
+    | 18 | Office 2010 Running Start: Demonstration Sessions | Chino (simplificado) | 18/4/2016
     | 17 | Office 2010 Running Start: Demonstration Sessions | Brazilian portugués | 18/4/2016
-    | 16 | Office 2010 Running Start: Demonstration Sessions | chino (simplificado), italiano | 18/4/2016
+    | 16 | Office 2010 Running Start: Demonstration Sessions | Chino (simplificado), italiano | 18/4/2016
     | 15 | Office 2010 Running Start: Demonstration Sessions | español | 18/4/2016
     | 14 | Office 2010 Running Start: Demonstration Sessions | japonés | 18/4/2016
     | 13 | Office 2010 Running Start: Demonstration Sessions | Francés | 18/4/2016
-    | 12 | Office 2010 Running Start: Demonstration Sessions | alemán | 18/4/2016
+    | 12 | Office 2010 Running Start: Demonstration Sessions | Alemán | 18/4/2016
     | 11 | Office 2010 Running Start: Demonstration Sessions | inglés | 18/4/2016
 
 * Courseware Retiro de, 31 de diciembre de 2015
 
   [Download the complete list of retiring instructor-led courses](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Courseware Retiro de, 31 de Agosto de 2015
+* Courseware Retiro de, 31 de agosto de 2015
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
@@ -930,7 +1035,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | japonés | 31/8/2015
     | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | japonés | 31/8/2015
     | 10775 | A | Administering Microsoft SQL Server 2012 Databases | inglés | 31/8/2015
-    | 50430 | B | Administering Team Foundation Server 2010 | inglés | 31/08/2015
+    | 50430 | B | Administering Team Foundation Server 2010 | inglés | 31/8/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | inglés | 31/8/2015
 
 * Courseware Retiro de, 30 de junio de 2015
@@ -1004,7 +1109,7 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
     | 40005 | B | First Look Clinic: Windows Server 2012 | inglés | 31/12/2013 |
     | 40006 | B | Laboratorio práctico: Windows Server 2012 | inglés | 31/12/2013 |
 
-* Courseware Retiro de lunes, 30 de septiembre de 2013
+* Courseware Retiro de, 30 de septiembre de 2013
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |

@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 07/30/2019
+ms.date: 08/20/2020
 ms.author: micsullivan
 ---
 # Ayuda de certificación de Microsoft
@@ -19,5 +19,5 @@ ms.author: micsullivan
 
 | Área de soporte | Información de contacto |
 | ------------- | --- |
-| **Exámenes de certificación de Microsoft y certificaciones de Microsoft ** | Es posible que su pregunta ya esté respondida en nuestro [Resumen de certificación](/learn/certifications/). <br/><br/>  **Foros de soporte de certificación:** <br/>Obtenga ayuda a través de nuestros [Certification Support Foros](https://aka.ms/MCPForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
-| **Programa de Microsoft Certified Trainer (MCT)** | Es posible que ya se haya respondido su pregunta en nuestros [MCT Program Overview](/learn/certifications/mct-certification)<br/><br/>  **MCT Support Foros:** <br/>Obtenga ayuda a través de nuestros [MCT Support Foros](https://aka.ms/MCTForum) moderados.<br/><br/> Un moderador del foro responderá en el transcurso de un día hábil. |
+| **Exámenes de certificación de Microsoft y certificaciones de Microsoft** | Es posible que su pregunta ya esté respondida en nuestro [Resumen de certificación](/learn/certifications/). <br/><br/>  **Actualice su nombre legal:** <br/>Envíe una solicitud a través del [formulario de actualización de nombre legal](https://aka.ms/MSCertificationLegalNamechange).<br/><br/>  **Todas las demás preguntas de soporte:** <br/>Obtenga ayuda a través de nuestros [certification support forums](https://aka.ms/MCPForum) moderados.<br/><br/> Para comunicarse con un agente de atención al cliente, haga clic en Hacer una pregunta en la parte superior de la página y complete el formulario.  Un agente de soporte debe responder dentro de 1 día hábil. |
+| **Programa de Microsoft Certified Trainer (MCT)** | Es posible que ya se haya respondido su pregunta en nuestros [MCT Program Overview](/learn/certifications/mct-certification)<br/><br/>  **MCT Support Foros:** <br/>Obtenga ayuda a través de nuestros [MCT support forums](https://aka.ms/MCTForum) moderados.<br/><br/>Para comunicarse con un agente de atención al cliente, haga clic en Hacer una pregunta en la parte superior de la página y complete el formulario.  Un agente de soporte debe responder dentro de 1 día hábil. |

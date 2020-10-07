@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Administrador 
+title: Administrator 
 metadata: 
-  title: Administrador 
+  title: Administrator 
   description: Los administradores implementan, supervisan y mantienen las soluciones de Microsoft, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
 uid: role.administrator 
 summary: | 
   Los administradores implementan, supervisan y mantienen las soluciones de Microsoft, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
 subTitle: Los administradores implementan, supervisan y mantienen las soluciones de Microsoft.
 certificationPaths: 
-- title: Administrador Azure
-  linkedInKeywords: Administrador Azure
+- title: Azure Administrator
+  linkedInKeywords: Azure Administrator
   uid: certification-path.azure-administrator 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,7 +19,7 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced      
 - title: Microsoft 365 Certified Messaging Administrator Associate
@@ -92,14 +92,13 @@ certificationPaths:
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
-  - uid: exam.az-103 
-- uid: certification.azure-devops
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
-  - uid: exam.az-400
+  - uid: exam.az-120
 - uid: certification.m365-messaging-administrator
   requiredExams:
-  - uid: exam.ms-200
-  - uid: exam.ms-201
+  - uid: exam.ms-203
 - uid: certification.modern-desktop
   requiredExams:
   - uid: exam.md-100
@@ -107,10 +106,6 @@ certifications:
 - uid: certification.m365-security-administrator
   requiredExams:
   - uid: exam.ms-500
-- uid: certification.m365-teamwork-administrator
-  requiredExams:
-  - uid: exam.ms-300
-  - uid: exam.ms-301
 - uid: certification.m365-enterprise-administrator
   requiredExams:
   - uid: exam.ms-100
@@ -120,11 +115,11 @@ certifications:
   - uid: exam.ms-700
 resources:
 - title: Guía de formación y certificaciones de Microsoft
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de formación y certificaciones
   description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para certificaciones
   href: ../help.md
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.

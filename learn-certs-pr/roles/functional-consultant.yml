@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Consultores funcionales 
+title: Functional Consultant 
 metadata: 
-  title: Consultores funcionales 
-  description: Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.  
+  title: Functional Consultant 
+  description: Los consultores funcionales aprovechan Microsoft Dynamics 365 y Microsoft Power Platform para anticipar y planificar las necesidades del cliente. 
 uid: role.functional-consultant 
 summary: | 
-  Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.
-subTitle: Los consultores funcionales aprovechan Microsoft Dynamics 365 para anticipar y planificar las necesidades de los clientes.
+  Los consultores funcionales aprovechan Microsoft Dynamics 365 y Microsoft Power Platform para anticipar y planificar las necesidades del cliente.
+subTitle: Los consultores funcionales aprovechan Microsoft Dynamics 365 y Microsoft Power Platform para anticipar y planificar las necesidades del cliente.
 certificationPaths: 
 - title: Consultor funcional de servicio al cliente de Dynamics 365
   linkedInKeywords: Consultor funcional de servicio al cliente de Dynamics 365
@@ -129,13 +129,19 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
 - title: Guía de formación y certificaciones de Microsoft
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de formación y certificaciones
   description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para certificaciones
   href: ../help.md
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.

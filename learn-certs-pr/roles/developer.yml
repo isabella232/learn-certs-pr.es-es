@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Desarrollador 
+title: Developer 
 metadata: 
-  title: Desarrollador 
+  title: Developer 
   description: Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes.
 uid: role.developer 
 summary: | 
-  Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes.
+  Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes. 
 subTitle: Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones en la nube.
 certificationPaths: 
-- title: Desarrollador Azure
-  linkedInKeywords: Desarrollador Azure
+- title: Azure Developer
+  linkedInKeywords: Azure Developer
   uid: certification-path.developer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,14 +65,20 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Guía de formación y certificaciones de Microsoft
-  description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Póster de formación y certificaciones
   description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Soporte para certificaciones
   href: ../help.md
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.

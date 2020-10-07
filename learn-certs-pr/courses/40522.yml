@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Stack'
+metadata:
+  title: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+  description: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+uid: course.40522
+courseNumber: '40522-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recomendar y diseñar sistemas híbridos de nubes que aprovechen un modelo de aplicación y despliegue, Azure
+- skill: Entender cuando la nube pública Azure versus Azure Stack es apropiada en base a los requerimientos del cliente
+- skill: Describa las posibles integraciones entre las soluciones de nubes públicas Azure y Azure Stack
+- skill: Comprender la taxonomía de la Azure Stack (inquilinos, regiones, suscripciones, ofertas, planes, servicios y cuotas)
+- skill: Describa los proveedores de recursos que están disponibles para su uso con Azure Stack
+- skill: Diseñar y desplegar una conectividad híbrida entre la nube pública Azure y Azure Stack
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  En este taller, aprenderás a diseñar una estructura de nubes híbridas utilizando una combinación de la nube pública Azure y la Azure Stack. Esta arquitectura funcional permitirá a los clientes aprovechar sus inversiones en Azure como "plataforma de nube", en lugar de Azure como "lugar". Aprenderá a determinar qué sistemas son buenos candidatos para la nube pública Azure y cuáles se adaptan mejor a Azure Stack.
+
+  #### Perfil de la audiencia
+  Este taller está dirigido a arquitectos de nubes y profesionales de IT que tienen experiencia en arquitectura de infraestructura y diseño de soluciones en tecnologías de nubes y quieren aprender más sobre los servicios de Azure y Azure como se describe en las áreas "Acerca de este curso" y "Al finalizar el curso". Los asistentes a este taller también deben tener experiencia en otras áreas de tecnologías de nube que no sean de Microsoft, cumplir con los requisitos previos del curso y querer realizar una formación combinada sobre Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra - Azure Stack Migrate o Azure Stack Operate\r
+  #### Lecciones
+  - Revise el estudio del caso del cliente
+  - Diseñar una prueba de solución de concepto
+  - Presentar la solución
+
+
+  ### Module 2&#58; Laboratorio práctico - Azure Stack
+
+  #### Lab &#58; Azure Stack Migrate
+
+  - Crear la Azure Stack Hub Deployment Taxonomy para los inquilinos
+  - Desplegar Contoso Financial Web Application
+  - Desplegar las ofertas a clientes Web API
+  - Automatizando procedimientos de respaldo con las funciones de Azure
+  - Desplegar la página web Contoso Finance Admin
+  
+  #### Laboratorio &#58; Azure Stack Operar
+  
+  - Crear y publicar un artículo en el mercado de Azure Stack Hub
+  - Poner en práctica el multiarrendamiento
+  - Poner en práctica la administración delegada de planes, ofertas y suscripciones
+  - Configurar el Role Based Access Control RBAC
+  - Conectar y trabajar con el Privileged Endpoint
+  - Implementar el soporte de la infraestructura de Azure Stack Hub
+

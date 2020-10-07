@@ -3,23 +3,21 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Diferenciar entre los diversos modelos de servicios en la nube.
-- skill: Identificar las diferencias clave entre Microsoft 365 y Office 365.
+- skill: Diferenciar entre los distintos modelos de servicios en la nube.
+- skill: Identificar las diferencias clave entre las suscripciones a Microsoft 365.
 - skill: Planificar la migración a los servicios de Microsoft 365.
 - skill: Identificar las diferencias clave entre los servicios locales de Microsoft y los servicios en la nube de Microsoft 365.
-- skill: Definir movilidad empresarial en Microsoft 365.
-- skill: Identificar cómo los servicios de Microsoft 365 apoyan el trabajo en equipo.
-- skill: Describir identidades, incluidas la nube, local e identidad híbrida.
+- skill: Identificar cómo los servicios de Microsoft 365 respaldan el trabajo en equipo.
+- skill: Describir identidades, incluida la identidad en la nube, local e híbrida.
 - skill: Describir la administración y protección de dispositivos en la nube, incluido el uso de Intune.
 - skill: Describir la protección de datos, incluido el uso de Azure Information Protection.
 - skill: Describir el cumplimiento en general y las características de cumplimiento en Microsoft 365.
-- skill: Describir las suscripciones, licencias, facturación y soporte de Microsoft 365.
+- skill: Describir las suscripciones, licencias, facturación y soporte de Microsoft 365
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,6 +26,7 @@ levels:
 roles:
 - business-user
 - administrator
+- maker
 products:
 - m365
 - windows
@@ -35,63 +34,56 @@ products:
 exams:
 - uid: exam.ms-900
 summary: |-
-  Este curso proporciona conocimiento básico sobre las consideraciones y los beneficios de adoptar servicios en la nube y el modelo de nube de Software como servicio (SaaS), con un enfoque específico en las ofertas de servicios en la nube de Microsoft 365. Comenzará aprendiendo sobre los fundamentos de la nube, incluida una descripción general de la computación en la nube y específicamente los servicios en la nube de Microsoft. Se le presentará a Microsoft Azure y examinará las diferencias entre Microsoft 365 y Office 365. Luego realizará una revisión en profundidad de Microsoft 365, que incluirá una comparación de los servicios locales de Microsoft con los servicios en la nube de Microsoft 365, una revisión de la movilidad empresarial en Microsoft 365 y un análisis de cómo los servicios de Microsoft 365 proporcionan colaboración. Luego, el curso analiza cómo se manejan la seguridad, el cumplimiento, la privacidad y la confianza en Microsoft 365, y concluye con una revisión de las suscripciones, licencias, facturación y soporte de Microsoft 365.
-  
+  Este curso proporciona conocimientos básicos sobre las consideraciones y los beneficios de adoptar servicios en la nube y el modelo de nube de Software como servicio (SaaS), con un enfoque específico en las ofertas de servicios en la nube de Microsoft 365. Comenzará por aprender sobre los fundamentos de la nube, incluida una descripción general de la computación en la nube y específicamente los servicios en la nube de Microsoft. Se le presentará Microsoft Azure y examinará las diferencias entre Microsoft 365 y Office 365. Luego, realizará una revisión en profundidad de Microsoft 365, incluida una comparación de los servicios locales de Microsoft con los servicios en la nube de Microsoft 365, una revisión de la movilidad empresarial en Microsoft 365 y un análisis de cómo los servicios de Microsoft 365 brindan colaboración. Luego, el curso analiza cómo se manejan la seguridad, el cumplimiento, la privacidad y la confianza en Microsoft 365, y concluye con una revisión de las suscripciones, licencias, facturación y soporte de Microsoft 365.
+
   #### Perfil de audiencia
-  Este curso está diseñado para profesionales de TI que aspiran a implementar y administrar servicios en la nube en su organización, o que simplemente buscan adquirir conocimientos básicos sobre los fundamentos de la nube. Esto incluye las consideraciones y los beneficios de adoptar los servicios en la nube en general y el modelo de nube de Software como servicio (SaaS) específicamente, con un enfoque general en las ofertas de servicios en la nube de Microsoft 365.
+  Este curso está diseñado para tomadores de decisiones empresariales y profesionales de TI que aspiran a implementar servicios en la nube en su organización, o que simplemente buscan adquirir conocimientos básicos sobre los fundamentos de la nube. Esto incluye las consideraciones y los beneficios de adoptar servicios en la nube en general y el modelo de nube de Software como servicio (SaaS) específicamente, con un enfoque general en las ofertas de servicios en la nube de Microsoft 365.
 prerequisitesSection: |-
-  Este curso está diseñado
-  para profesionales de TI que aspiran a implementar y administrar servicios en la nube en su
-  organización. Los estudiantes deben tener los siguientes antecedentes&#58;
-  - Conocimientos generales de TI o cualquier experiencia general trabajando en un entorno de TI
-  - Experiencia general (nivel de ventas) en los productos locales de Microsoft correspondientes, como Exchange Server, SharePoint, Office Professional, AD RMS y otros
-  - Experiencia en abordar los requisitos comerciales/legales/de seguridad para TI
+  Este curso está diseñado para tomadores de decisiones empresariales y profesionales de TI que aspiran a implementar servicios en la nube en su organización. Los estudiantes deben tener los siguientes conocimientos&#58;
+  - Conocimientos generales de conceptos de redes, informática y nube.
 outlineSection: |-
   ### Módulo 1&#58; Conceptos de nube
-  #### Lecciones
-  - Principios de computación en la nube
-  - Servicios en la nube de Microsoft
-  - Migrar a servicios en la nube
-  #### Laboratorio &#58; Cloud Fundamentals
-  - Ejercicio 1&#58; Determinar el modelo de nube apropiado (laboratorio en papel)
-  
-  ### Módulo 2&#58; Servicios principales de Microsoft 365
-  #### Lecciones
-  - Servicios principales de Microsoft 365
-  - Servicios locales de Microsoft y servicios en la nube en Microsoft 365
-  - Gestión unificada de endpoints en Microsoft 365
-  - Trabajo en equipo en Microsoft 365
+  Explorar los conceptos básicos de la informática en la nube y cómo puede ayudar a su empresa.
+  #### Lecciones 
+  - Principios de informática en la nube
+  - ¿Qué es Microsoft 365?
+  - Seleccione una implementación en la nube
 
 
-  #### Laboratorio &#58; Habilitar y configurar un inquilino de Microsoft 365
-  - Ejercicio 1&#58; Activar y configurar un inquilino de Microsoft 365
-  - Ejercicio 2&#58; Explorar el portal de usuarios y administradores de Microsoft 365
-  - Ejercicio 3&#58; Configurar nuevas cuentas de usuario y grupo
+  ### Módulo 2&#58; Capacidades de productividad y trabajo en equipo de Microsoft 365
+  Obtenga información sobre las soluciones de productividad y trabajo en equipo en Microsoft 365 y las capacidades que ayudan a las personas a ser más productivas con Microsoft 365&#58; la nube de productividad del mundo.
+  #### Lecciones 
+  - Soluciones de productividad y trabajo en equipo de Microsoft 365
+  - Involucre a los empleados con Microsoft Stream, Teams y Yammer
+  - Haga más con Office en todos los dispositivos
+  - Almacenamiento y uso compartido de archivos con OneDrive y SharePoint
 
 
-  ### Módulo 3&#58; Seguridad, cumplimiento, privacidad y confianza en Microsoft 365
-  #### Lecciones
-  - Fundamentos de seguridad organizacional
-  - Funciones de seguridad en Microsoft 365
-  - Gestión de Identidad y Acceso
-  - Protección de dispositivos y datos en Microsoft 365
-  - Cumplimiento en Microsoft 365
+  ### Módulo 3&#58; Capacidades de administración empresarial de Microsoft 365
+  Conozca las soluciones de administración empresarial en Microsoft 365 y las capacidades que ayudan a las organizaciones a ser más productivas con Microsoft 365&#58; la nube de productividad del mundo.
+  #### Lecciones 
+  - Administrar su negocio con Microsoft 365
+  - Simplificar la administración de dispositivos con Microsoft Endpoint Manager
+  - Consiga mejores resultados y manténgase seguro con Windows 10
+  - Aproveche la inteligencia empresarial con análisis e informes de Microsoft 365
 
 
-  #### Laboratorio &#58; Seguridad en Microsoft 365
-  - Ejercicio 1&#58; Administrar usuarios y dispositivos en Azure Active Directory
-  - Ejercicio 2&#58; Evaluar la protección de identidad
-  - Ejercicio 3&#58; Explore las herramientas para el cumplimiento
+  ### Módulo 4&#58; Seguridad y cumplimiento de Microsoft 365
+  Obtenga información sobre las áreas de soluciones de seguridad y cumplimiento de Microsoft 365 y las capacidades disponibles para ayudar a las empresas a proteger su empresa y cumplir con los requisitos normativos.
+  #### Lecciones 
+  - Principios de seguridad y áreas de solución
+  - Gestión de identidades y accesos
+  - Protección contra amenazas
+  - Seguridad en la nube
+  - Gobernanza y protección de la información
+  - Gestión de cumplimiento
+  - Gestionar el riesgo, el descubrimiento y la auditoría
 
 
-  ### Módulo 4&#58; Precios y soporte de Microsoft 365
-  #### Lecciones
-  - Suscripciones, licencias y facturación de Microsoft 365
-  - Soporte en Microsoft 365
-
-
-  #### Laboratorio &#58; Administrar suscripciones, licencias y soporte en M365
-  - Ejercicio 1&#58; Explorar interfaces para facturación y suscripciones
-  - Ejercicio 2&#58; Agregar licencias de prueba al inquilino
-  - Ejercicio 3&#58; Revisar las opciones de soporte
+  ### Módulo 5&#58; Licencias y soporte de Microsoft 365
+  Obtenga más información sobre las opciones de licencia, servicio y soporte de Microsoft 365.
+  #### Lecciones 
+  - Identificar las opciones de licencia disponibles en Microsoft 365
+  - Describir las ofertas de soporte en los servicios de Microsoft 365
+  - Describir el ciclo de vida del servicio en Microsoft 365
 

@@ -2,13 +2,12 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft Learning Partners: Enseñando las habilidades del mañana, hoy
 
@@ -365,7 +364,7 @@ Seleccione un país:
 |-----------|
 | [Global Knowledge](https://www.globalknowledge.com/en-qa/training/courses/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) |
 
-| <a name="romania"></a>Romania |
+| <a name="romania"></a>Rumania |
 |-----------|
 | [Bittnet Systems SA](http://thellpa.com/members/bittnet/microsoft)   </br>[Tech Data Corporation](https://academy.techdata.com/ro/vendor/microsoft/training/) |
 
@@ -445,19 +444,21 @@ Seleccione un país:
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## Explore más de 1000 proveedores de soluciones
 
 > [!div class="nextstepaction"]
 > [FIND A MICROSOFT SOLUTION PROVIDER](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
+
 ## Beneficios para desarrolladores y profesionales de las TI
 
-**Aprenda una tecnología nueva**. Con solo un curso podrá desarrollar habilidades prácticas que cubran el ciclo de vida de la implementación de la tecnología, desde la planificación hasta el soporte. También conseguirá un nivel de dominio que solo se puede aprender mediante talleres prácticos, simulaciones y la aplicación en el mundo real de las habilidades. </br ></br> **Prepárese para certificarse**. [Las certificaciones de Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) están disponibles para las principales tecnologías y niveles de habilidad de Microsoft. Los cursos oficiales de Microsoft han sido desarrollados pensando en las certificaciones de Microsoft y los imparten instructores de la industria cualificados.</br ></br>**Empiece una nueva carrera profesional**. Los instructores de la industria que enseñan los cursos oficiales de Microsoft pueden ayudarle a conseguir habilidades con las TI que se transfieran directamente de la clase al lugar de trabajo. Los cursos ofrecen acceso a valiosos recursos digitales, de los que podrá disponer tiempo después de completar un curso.</br ></br> Los profesionales que recibieron formación sobre TI o dirigida a los negocios durante el año pasado ganaron una media de casi 3.400 $ más que los que no la recibieron. (Global Knowledge, *IT Skills and Salary Survey*, marzo de 2011)
+**Aprenda una tecnología nueva**. Con solo un curso podrá desarrollar habilidades prácticas que cubran el ciclo de vida de la implementación de la tecnología, desde la planificación hasta el soporte. También conseguirá un nivel de dominio que solo se puede aprender mediante talleres prácticos, simulaciones y la aplicación en el mundo real de las habilidades. </br ></br> **Prepárese para certificarse**. [Las certificaciones de Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) están disponibles para las principales tecnologías y niveles de habilidad de Microsoft. Los cursos oficiales de Microsoft han sido desarrollados pensando en las certificaciones de Microsoft y los imparten instructores de la industria cualificados.</br ></br>**Empiece una nueva carrera profesional.**. Los instructores de la industria que enseñan los cursos oficiales de Microsoft pueden ayudarle a conseguir habilidades con las TI que se transfieran directamente de la clase al lugar de trabajo. Los cursos ofrecen acceso a valiosos recursos digitales, de los que podrá disponer tiempo después de completar un curso.</br ></br> Los profesionales que recibieron formación sobre TI o dirigida a los negocios durante el año pasado ganaron una media de casi 3.400 $ más que los que no la recibieron. (Global Knowledge, *IT Skills and Salary Survey*, marzo de 2011)
 
 ## Beneficios para los directores de TI
 
-**Mejorar la eficacia y la productividad**. Microsoft Learning Partners puede ayudarle a aprovechar al máximo la inversión en tecnología de su organización. Sus empleados pueden mejorar su dominio de las tecnologías de Microsoft gracias a la formación en clase o con cursos oficiales de Microsoft bajo demanda. </br ></br> **Prepárese para la implementación**. La formación cualificada disponible gracias a Microsoft Learning Partners ayuda a las empresas a acelerar la implementación de las nuevas tecnologías de Microsoft y puede reducir el tiempo de inactividad. Las investigaciones demuestran que el 40 por ciento del tiempo de inactividad operacional se debe a errores del operario, atribuibles a una carencia significativa de formación con los sistemas principales. (Anderson, Cushing. "Impacto de la Capacitación en Administración de Redes: La certificación proporciona el conocimiento para Productividad Operativa." IDC study. Como informó Linda Musthaler en Network World, 25 de noviembre de 2009). </br ></br> **Desarrollo, contratación y retención de empleados**. La formación y la certificación son métodos eficaces para medir la destreza de los miembros del equipo con tecnologías, hardware y software específicos. </br ></br> El sesenta por ciento de los encuestados de ejecutivos en empresas de tecnología dice que uno de los principales desafíos para planificar grandes proyectos de infraestructuras de TI es la disponibilidad de profesionales con las competencias requeridas cuando son necesarios. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, junio de 2011)
+**Mejorar la eficacia y la productividad**. Microsoft Learning Partners puede ayudarle a aprovechar al máximo la inversión en tecnología de su organización. Sus empleados pueden mejorar su dominio de las tecnologías de Microsoft gracias a la formación en clase o con cursos oficiales de Microsoft bajo demanda. </br ></br> **Prepárese para la implementación**. La formación cualificada disponible gracias a Microsoft Learning Partners ayuda a las empresas a acelerar la implementación de las nuevas tecnologías de Microsoft y puede reducir el tiempo de inactividad. Las investigaciones demuestran que el 40 por ciento del tiempo de inactividad operacional se debe a errores del operario, atribuibles a una carencia significativa de formación con los sistemas principales. (Anderson, Cushing. "Impacto de la Capacitación en Administración de Redes: La certificación proporciona el conocimiento para Productividad Operativa.» IDC study. Como informó Linda Musthaler en Network World, 25 de noviembre de 2009). </br ></br> **Desarrollo, contratación y retención de empleados**. La formación y la certificación son métodos eficaces para medir la destreza de los miembros del equipo con tecnologías, hardware y software específicos. </br ></br> El sesenta por ciento de los encuestados de ejecutivos en empresas de tecnología dice que uno de los principales desafíos para planificar grandes proyectos de infraestructuras de TI es la disponibilidad de profesionales con las competencias requeridas cuando son necesarios. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, junio de 2011)
 
-## Conviértase en un socio de aprendizaje de Microsoft
+## Become a Microsoft Learning Partner
 
 Tanto si ofrece formación a sus clientes como uno de sus servicios principales o como la actividad de todo su negocio, conseguir una competencia en certificación puede abrir nuevas oportunidades para su negocio. Los beneficios de la red de socios de Microsoft pueden ayudarle a ahorrar tiempo y dinero al mismo tiempo que fortalece sus capacidades, sirve mejor a sus clientes y desarrolla conexiones para alcanzar todo el potencial de su negocio. </br ></br> [Únase al programa Microsoft Learning Partner](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)

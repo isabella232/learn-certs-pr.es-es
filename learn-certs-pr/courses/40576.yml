@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diseña y construye una solución completa de análisis avanzada de principio a fin utilizando Azure Synapse Analytics.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  En esta sesión de diseño de pizarra, trabajarán en grupo para ver el proceso de diseño de una solución integral utilizando Azure Synapse Analytics. La sesión de diseño cubrirá la carga de datos, la preparación de datos, la transformación de datos y el servicio de datos,  junto con la realización de aprendizaje de máquina y el manejo de datos tanto en lote como en tiempo real.
+
+  #### Perfil de la audiencia
+  Este taller está dirigido a arquitectos de la nube y profesionales de IT que tienen experiencia en arquitectura de infraestructura y diseño de soluciones en tecnologías de la nube y quieren aprender más sobre los servicios Azure y Azure como se describe en las áreas "Acerca de este curso" y "Al finalizar el curso". Los asistentes a este taller también deben tener experiencia en otras tecnologías de nubes que no sean de Microsoft, cumplir con los requisitos previos del curso y querer realizar una formación conjunta sobre Azure.
+prerequisitesSection: |-
+  El contenido del taller supone un nivel de conocimientos arquitectónicos de 300 niveles de diseño de infraestructura y soluciones. Sugerimos a los estudiantes que tomen este prerrequisito antes de asistir a este taller.
+    - Curso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra - Azure Stack Migrate o Azure Stack Operate
+  #### Lecciones
+  - Revise el estudio del caso del cliente
+  - Diseñar una prueba de solución de concepto
+  - Presentar la solución
+
+
+  ### Module 2&#58; Laboratorio práctico - Azure Stack
+
+  #### Lab &#58; Azure Stack Migrate
+
+  - Crear la Azure Stack Hub Deployment Taxonomy para los inquilinos
+  - Desplegar Contoso Financial Web Application
+  - Desplegar las ofertas a clientes Web API
+  - Automatizando procedimientos de respaldo con las funciones de Azure
+  - Desplegar la página web Contoso Finance Admin
+
+  #### Laboratorio &#58; Azure Stack Operar
+
+  - Crear y publicar un artículo en el mercado de Azure Stack Hub
+  - Poner en práctica el multiarrendamiento
+  - Poner en práctica la administración delegada de planes, ofertas y suscripciones
+  - Configurar el Role Based Access Control RBAC
+  - Conectar y trabajar con el Privileged Endpoint
+  - Implementar el soporte de la infraestructura de Azure Stack Hub
+

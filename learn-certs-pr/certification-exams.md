@@ -1,6 +1,6 @@
 ---
-title: Acerca de los exámenes de certificación de Microsoft | Microsoft Docs
-description: Acerca de los exámenes de certificación de Microsoft 
+title: About Microsoft Certification exams | Microsoft Docs
+description: About Microsoft Certification exams 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 08/22/2019
 ms.author: micsullivan
 ---
-# Acerca de los exámenes de certificación de Microsoft
+# About Microsoft Certification exams
 
 Las Microsoft Certification pueden llevarle desde el principio de su carrera profesional hasta lo más alto. Las certificaciones pueden mejorar su visibilidad, diferenciarse de sus colegas y validar sus conocimientos y habilidades.
 
@@ -120,7 +120,7 @@ A fin de proteger la seguridad del examen y el valor de nuestras certificaciones
 </div>
 
 
-#### Labs (2:58)
+#### Laboratorios (2:58)
 
 <div>
 	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
@@ -173,7 +173,7 @@ Un panel de expertos colabora con el experto en psicometría de Microsoft para d
 8. El examen está disponible en todo el mundo.
 Los proveedores independientes de entrega de exámenes administran el examen de certificación. El examen está disponible en los centros de evaluación de todo el mundo o mediante supervisión en línea (la supervisión en línea no está disponible actualmente para entregas académicas).
 
-9. Mantener /sostener durante la vida del examen.
+9. Mantener /sostener durante la vigencia del examen.
 Microsoft supervisa el desempeño psicométrico de los exámenes a lo largo de su disponibilidad garantizando que sigan siendo medidas válidas y fiables del dominio de la habilidad. Las preguntas que ya no tienen un buen desempeño psicométrico se eliminan y se añaden nuevos elementos a medida que se actualizan las características y funcionalidades y/o se sustituyen los elementos eliminados por motivos psicométricos o por cambios en la tecnología.
 
 
@@ -183,15 +183,15 @@ Una parte esencial del proceso de desarrollo del examen es el examen beta. Al pr
 
 ### Cómo participar
 
-Los exámenes beta de Microsoft se ofrecen con un 80% de descuento (se requiere código). Los candidatos que toman el examen reciben un descuento del 25% en su próximo examen después de completar la grabación, como se explica aquí [Actualizaciones](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) en Microsoft Beta Exam Programa.
+Los exámenes beta de Microsoft se ofrecen con un 80% de descuento (se requiere código). Los candidatos que aprovechan el 80% de descuento para realizar el examen beta reciben un 25% de descuento en su próximo examen después de que se complete la revisión, como se explica aquí: [Actualizaciones del programa de exámenes Beta de Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Este descuento NO está generalmente disponible para todos los participantes beta. Si paga el examen beta con cualquier otro método, no es elegible para el cupón de descuento del 25%._
 
-Para obtener el código, puede ser miembro de nuestra base de datos de Perfil de PYME, o puede obtenerlo en la sección de Anuncios a la izquierda de nuestra [Política de exámenes y página de preguntas frecuentes](/learn/certifications/certification-exam-policies). Los participantes cualificados del programa de la base de datos de Perfiles SME recibirán un código de descuento único para participar en exámenes beta, aumentando la probabilidad de conseguir una plaza en el examen beta.
+Para obtener el código, puede ser miembro de nuestra base de datos de Perfil de PYME, o puede obtenerlo en la sección de Anuncios a la izquierda de nuestra [Política de exámenes y página de preguntas frecuentes](/learn/certifications/certificación -exam -policies). Los participantes cualificados del programa de la base de datos de Perfiles SME recibirán un código de descuento único para participar en exámenes beta, aumentando la probabilidad de conseguir una plaza en el examen beta.
 
-El programa de base de datos de Perfil de PYME ahora está alojado en [Microsoft Collaborate](https://aka.ms/collaborate). Vea el blog de la comunidad [¡Ayúdenos a crear exámenes y contenido de aprendizaje! ¡Únase a nuestra base de datos de PYME hoy!](/Learn/certifications/posts/help-us-create-exams-and-learning-content) para obtener instrucciones sobre cómo unirse al programa en Collaborate.
+El programa de base de datos de Perfil de PYME ahora está alojado en [Microsoft Collaborate](https://aka.ms/collaborate). Vea el blog de la comunidad [¡Ayúdenos a crear exámenes y contenido de aprendizaje! ¡Únase a nuestra base de datos de PYME hoy!](/learn/certifications/posts/help-us-create-exams-and-learning-content) para obtener instrucciones sobre cómo unirse al programa en Collaborate.
 
 Para algunos puestos de trabajo, tenemos candidatos significativamente más calificados en la base de datos de Perfil de SME que los puestos disponibles. En estos casos, seleccionamos aleatoriamente un número adecuado de candidatos cualificados y les enviamos la invitación. Si no ha sido seleccionado, todavía puede participar viendo la página de Anuncios donde publicaremos un código diferente el día en que se abra el registro para el examen beta.
 
-Si desea presentarse al examen beta pero no ha recibido ninguna invitación o no ha podido registrarse para obtener una plaza gratuita, puede presentarse al examen durante este período realizando el registro, como haría para cualquier otro examen y abonando el importe normal. Sabemos que hay candidatos pueden querer presentarse pronto al examen a fin de cumplir los requisitos de su puesto de trabajo o satisfacer las necesidades de desarrollo profesional, o bien para demostrar que son usuarios pioneros (y competentes) de la tecnología.
+Si desea presentarse al examen beta pero no ha recibido ninguna invitación o no ha podido registrarse para obtener una plaza gratuita, puede presentarse al examen durante este período realizando el registro, como haría para cualquier otro examen y abonando el importe normal. Sabemos que hay candidatos que pueden querer presentarse pronto al examen a fin de cumplir los requisitos de su puesto de trabajo o satisfacer las necesidades de desarrollo profesional, o bien para demostrar que son usuarios pioneros (y competentes) de la tecnología.
 
 Solo deberían participar en los exámenes candidatos con experiencia con la tecnología.
 
@@ -215,9 +215,9 @@ Normalmente recibirá su puntuación del examen en 2-3 semanas después de que e
 
 ### Aprobación de un examen beta
 
-El hecho de aprobar un examen beta de su trayectoria de certificación cuenta positivamente para obtener la certificación. No deberá repetir la versión final del examen. Asegúrese de hacer otro examen en un plazo de un año para poder aprovechar el descuento del 25% que consiguió por hacer el examen beta.
+El hecho de aprobar un examen beta de su trayectoria de certificación cuenta positivamente para obtener la certificación. No deberá repetir la versión final del examen. Asegúrese de realizar otro examen dentro de un año para que pueda aprovechar el descuento del 25% que obtuvo por realizar el examen beta a través de nuestro programa de descuentos para exámenes beta.
 
-Si no supera el examen beta, no podrá repetir este examen. Si está interesado en conseguir una certificación que requiera completar con éxito ese examen, debe esperar y volver a hacer el examen con el precio normal cuando esté activo, o puede aplicar el 25% de descuento que recibió por participar en el examen beta.
+Si no supera el examen beta, no podrá repetir este examen. Si está interesado en obtener una certificación que requiere la finalización satisfactoria de ese examen, debe esperar para volver a realizar el examen a un costo regular cuando esté disponible, o puede aplicar el descuento del 25% que recibió por realizar el examen beta a través de nuestro programa de descuentos de examen beta.
 
 Si considera que su puntuación del examen beta debería estar disponible (porque el examen está activo o vio un tuit indicando que lo estaba), compruebe en primer lugar si el proveedor del examen lo ha publicado en línea. Si no es así, póngase en contacto con el proveedor del examen. (Tenga en cuenta que, desde que queda disponible públicamente la versión final del examen, pueden transcurrir hasta dos semanas para que aparezca su puntuación del examen beta online). Si el proveedor de entrega del examen ha publicado un puntaje, pero usted no lo ve en su transcripción de Microsoft, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 

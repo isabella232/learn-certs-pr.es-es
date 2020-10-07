@@ -7,8 +7,8 @@ uid: exam.az-301
 displayName: AZ-301
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-304">AZ-304</a>, ESTARÁ DISPONIBLE EL 29 JUNIO DE 2020. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Nota&#58; Los exámenes se retiran a las 11&#5859 PM hora estándar del centro.<br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>UNA VERSIÓN NUEVA DE ESTE EXAMEN, <a href="/learn/certifications/exams/az-304">AZ-304</a>, ESTARÁ DISPONIBLE EL 29 JUNIO DE 2020. Podrá tomar este examen hasta que se retire aproximadamente el, 30 de septiembre de 2020. Nota&#58; Los exámenes se retiran a las 11&#58;59 p.m. hora estándar central.</strong><br/><br/></div>
   </div>
 
   Los candidatos para este examen deben tener experiencia en el tema de diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como la informática, la red, el almacenamiento y la seguridad.
@@ -19,7 +19,12 @@ summary: |-
 
   Un candidato para este examen debe tener experiencia y conocimientos avanzados en varios aspectos de las operaciones de TI, incluidas las redes, la virtualización, la identidad, la seguridad, la continuidad del negocio, la recuperación ante desastres, la gestión de datos, la presupuestación y el gobierno. Este rol debe administrar cómo las decisiones en cada área afectan una solución general. Además, este rol debe ser competente en al menos uno de estos dominios de conocimiento de Azure&#58; administración, desarrollo o DevOps.
 
-  <div style='font-weight&#58; bold;'><br/>NOTA&#58; Obtendrá las siguientes certificaciones si aprueba este examen&#58; <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>.</div>
+  <div><strong><br/>NOTA&#58; Obtendrá la certificación de <a href="/learn/certifications/azure-solutions-architect">Microsoft&#58; Certificación Azure Solutions Architect Expert </a>si aprueba una de las siguientes combinaciones de exámenes&#58; <ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> y <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> y <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> y <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> y <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: determinar los requisitos de la carga de trabajo; diseñar para la identificación y la seguridad; diseñar una solución de plataforma de datos; diseñar una estrategia de continuidad de negocio; diseñar para la implementación, migración e integración; y diseñar una estrategia de infraestructura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
@@ -33,7 +38,7 @@ locales:
 levels:
 - advanced
 skills:
-- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-304, ESTARÁ DISPONIBLE EL 29 JUNIO DE 2020. Podrá tomar este examen hasta que se retire aproximadamente el miércoles, 30 de septiembre de 2020. Descargue el documento medido de habilidades a continuación para ver información detallada sobre los cambios.
+- UNA VERSIÓN NUEVA DE ESTE EXAMEN, AZ-304, ESTARÁ DISPONIBLE EL 29 JUNIO DE 2020. Podrá tomar este examen hasta que se retire aproximadamente el, 30 de septiembre de 2020. Descargue el documento medido de habilidades a continuación para ver información detallada sobre los cambios.
 - Determinar los requisitos de carga de trabajo (10-15%)
 - Diseñar para la identificación y la seguridad (20-25%)
 - Diseñar una solución de plataforma de datos (15-20%)
@@ -101,7 +106,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de examen y preguntas frecuentes

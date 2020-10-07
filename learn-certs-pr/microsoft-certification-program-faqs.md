@@ -105,7 +105,7 @@ Para mantener su cuenta activa, acceda a su perfil de certificación de Microsof
 
 **P: ¿Cómo cambio mi nombre en mi perfil de certificación de Microsoft?**<a name="a8"></a>
 
-**R:** Si necesita cambiar el nombre en su perfil de certificación de Microsoft, póngase en contacto con [Soporte de certificación](https://aka.ms/mcpforum). Un moderador del foro le responderá dentro de las 24 horas hábiles. Se le pedirá que verifique la información contenida en su perfil de Certificación de Microsoft antes de que se ejecute la solicitud de cambio de nombre. Recuerde, el nombre en su perfil de certificación de Microsoft debe coincidir exactamente con su nombre tal como aparece en la identificación emitida por el gobierno que utilizará para rendir un examen de certificación de Microsoft.
+**R:** Si necesita cambiar el nombre en su perfil de certificación de Microsoft, puede enviar su solicitud de cambio de nombre a nuestro equipo de soporte directamente usando nuestro nuevo [formulario web](https://aka.ms/MSCertificationLegalNamechange). **Nota:** este formulario actualmente solo está disponible en inglés. Para solicitudes que no estén en inglés, publique en el [Foro de soporte de certificación](https://aka.ms/mcpforum); un miembro del equipo le responderá dentro de las 24 horas hábiles. Se le pedirá que verifique la información contenida en su perfil de Certificación de Microsoft antes de que se ejecute la solicitud de cambio de nombre. Recuerde, el nombre en su perfil de certificación de Microsoft debe coincidir exactamente con su nombre tal como aparece en la identificación emitida por el gobierno que utilizará para rendir un examen de certificación de Microsoft.
 
 <br/>
 

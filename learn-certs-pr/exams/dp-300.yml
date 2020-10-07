@@ -6,15 +6,16 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div>
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  </div>
 
   Los candidatos para este examen son administradores de bases de datos y especialistas en administración de datos que administran bases de datos relacionales locales y en la nube creadas sobre los servicios de datos de Microsoft SQL Server y Microsoft Azure.
 
-  El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server. El administrador de la base de datos de Azure usa una variedad de métodos y herramientas para realizar las operaciones diarias, incluida la aplicación de conocimientos sobre el uso de T -SQL para fines de administración administrativa.
+  El administrador de la base de datos de Azure implementa y administra los aspectos operativos de las soluciones de plataforma de datos híbridas y nativas de la nube basadas en los servicios de datos de Microsoft Azure y Microsoft SQL Server. El administrador de la base de datos de Azure usa una variedad de métodos y herramientas para realizar las operaciones diarias, incluida la aplicación de conocimientos sobre el uso de T-SQL para fines de administración administrativa.
 
   Esta función es responsable de la gestión, disponibilidad, seguridad y supervisión del rendimiento y la optimización de las soluciones modernas de bases de datos relacionales. Este rol funciona con la del Ingeniero de datos de Azure para administrar los aspectos operativos de las soluciones de la plataforma de datos.
-
-  <div><strong><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más <a href="/learn/certifications/certification-exams#participating-in-beta-exams">información sobre el valor y la importancia de los exámenes beta</a>.</strong></div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: planificar e implementar recursos de la plataforma de datos; implementar un ambiente seguro; supervisar y optimizar recursos operativos; optimizar el rendimiento de la consulta; realizar la automatización de tareas; planificar e implementar un entorno de Alta disponibilidad y recuperación ante desastres (HADR); y realizar la administración utilizando T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -24,13 +25,14 @@ locales:
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
 - Planificar e implementar recursos de plataformas de datos (15-20%)
 - Implementar un entorno seguro (15-20%)
 - Monitorear y optimizar recursos operativos (15-20%)
 - Optimizar desempeño de solicitudes (5-10%)
 - Realizar automatización de tareas (10-15%)
 - Planificar e implementar un entorno de Alta disponibilidad y recuperación ante desastres (HADR) (15-20%)
-- Realizar administración mediante T -SQL (10-15%)
+- Realizar administración mediante T-SQL (10-15%)
 roles:
 - database-administrator
 products:

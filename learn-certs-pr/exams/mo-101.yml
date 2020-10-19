@@ -42,7 +42,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes
   description: Revise las políticas del examen y las preguntas frecuentes.
   href: ../certification-exam-policies.md

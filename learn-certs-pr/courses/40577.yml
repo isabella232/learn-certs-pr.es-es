@@ -1,0 +1,56 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Capturar Internet of Things (IoT) datos de los dispositivos con el Azure IoT Hub
+- skill: Procesar los datos del dispositivo con Azure Stream Analytics
+- skill: Aplicar el Command and Query Responsibility Segregation (CQRS) con las Funciones Azules
+- skill: Construye un modelo de mantenimiento predictivo usando los cuadernos de Azure Synapse Analytics Sparks
+- skill: Desplegar el modelo en un registro de modelo de Azure Machine Learning
+- skill: Desplegar el modelo en Azure Container Instance
+- skill: Generar predicciones con las Azure Functions accediendo a Cosmos DB change feed
+- skill: Modernizar las aplicaciones e integrar la Inteligencia Artificial en la aplicación
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  En este taller, se examinará el proceso de implementación de una aplicación moderna con Azure services. El taller cubrirá el abastecimiento de eventos y el Command and Query Responsibility Segregation (CQRS), la carga de datos, la preparación de datos, la transformación de datos, el servicio de datos, la detección de anomalías, la creación de un modelo de mantenimiento predictivo y la puntuación en tiempo real de un modelo de mantenimiento predictivo.
+
+  ####Perfil del asistente
+  Este taller está dirigido a Cloud Architects y profesionales de IT que tienen experiencia en arquitectura de infraestructura y diseño de soluciones en tecnologías de nube y quieren aprender más sobre los servicios Azure y Azure como se describe en las áreas "Acerca de este curso" y "Al finalizar el curso". Los asistentes a este taller también deben tener experiencia en otras tecnologías de nube que no sean de Microsoft, cumplir con los requisitos previos del curso y querer realizar un cross training sobre Azure.
+prerequisitesSection: |-
+  El contenido del taller supone un nivel de conocimientos técnicos de arquitectura de 300 niveles de diseño de infraestructura y soluciones. Sugerimos a los estudiantes que tomen este prerrequisito antes de asistir a este taller.
+
+  - Curso Microsoft Azure Essentials, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra - Innovar y modernizar las aplicaciones con Data e Inteligencia Artificial
+
+  #### Lecciones
+  - Revise el estudio de caso del cliente
+  - Diseñar una solución de prueba de concepto
+  - Presentar la solución
+
+
+  ### Módulo 2&#58; Laboratorio práctico - Innovar y modernizar las aplicaciones con Data e Inteligencia Artificial
+  #### Lecciones
+  - Desplegar un simulador de carga de fábrica
+  - Usar Azure Machine Learning para entrenar y registrar un modelo de mantenimiento predictivo
+  - Crear una Azure Function para enviar telemetría de eventos a la Cosmos DB
+  - Enriquecer la telemetría de eventos con resultados de mantenimiento predictivo
+  - Enriquecer la telemetría de eventos con detección automática de anomalías
+  - Enviar los datos de telemetría a PostgreSQL- Modernizar la lógica de los servicios para utilizar el abastecimiento de eventos y el CQRS
+  - Ver el estatus de fábrica en un informe de Power BI
+
+

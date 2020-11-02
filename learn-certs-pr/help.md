@@ -2,12 +2,13 @@
 title: Ayuda de certificación de Microsoft | Microsoft Docs
 description: Ayuda de certificación de Microsoft
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/20/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Ayuda de certificación de Microsoft
 

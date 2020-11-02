@@ -8,16 +8,16 @@ courseNumber: 'WS-012T00-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Describir los principios fundamentales de IaaS de Azure, incluidos el procesamiento, el almacenamiento y las redes.
-- skill: Identificar las herramientas que se utilizan para implementar soluciones híbridas, incluidos Windows Admin Center y PowerShell.
-- skill: Implementar la identidad en escenarios híbridos, incluido AD DS en Azure IaaS y AD DS administrado.
-- skill: Integrar AD DS con Azure AD.
-- skill: Administrar y supervisar escenarios híbridos usando WAC, Azure Arc, Azure Automation y Azure Monitor.
-- skill: Mejorar la seguridad híbrida con Azure Security Center, Azure Sentinel y Windows Update Management.
-- skill: Implementar servicios de archivos en escenarios híbridos con Azure Files y Azure File Sync.
-- skill: Planificar e implementar escenarios de migración, respaldo y recuperación híbridos y solo en la nube.
-- skill: Implementar máquinas virtuales de Azure con Windows Server 2019 y configurar las redes, el almacenamiento y la seguridad.
-- skill: Administrar y mantener máquinas virtuales de Azure que ejecutan Windows Server 2019.
+- skill: Describe los principios fundamentales del Azure IaaS, incluyendo la computación, el almacenamiento y las redes.
+- skill: Identifica las herramientas utilizadas para implementar soluciones híbridas, incluyendo el Centro de administración de Windows y PowerShell.
+- skill: Implementa la identidad en escenarios híbridos, incluyendo Azure AD DS en Azure IaaS y administrado AD DS.
+- skill: Integra Azure AD DS con Azure AD.
+- skill: Administra y monitorear escenarios híbridos usando WAC, Azure Arc, Azure Automation y Azure Monitor.
+- skill: Mejora la seguridad híbrida usando el Azure Security Center, Azure Sentinel y Windows Update Management.
+- skill: Implementa servicios de archivos en escenarios híbridos, usando Azure Files y Azure File Sync.
+- skill: Planifica e implementa escenarios híbridos y de migración sólo de nube, copias de seguridad y recuperación.
+- skill: Desplega Azure VMs con Windows Server 2019 y configura la red, el almacenamiento y la seguridad.
+- skill: Administra y mantene Azure VMs con Windows Server 2019.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,189 +28,181 @@ roles:
 products:
 - windows-server
 summary: |-
-  Este curso de tres días está destinado principalmente a profesionales de TI que tienen experiencia en la gestión de un entorno de Windows Server local. Su propósito es preparar a los profesionales para planificar, implementar y administrar entornos que incluyen cargas de trabajo basadas en Windows Server alojadas en IaaS de Azure. El curso cubre cómo aprovechar las capacidades híbridas de Azure, cómo migrar cargas de trabajo de servidores físicos y virtuales a IaaS de Azure y cómo administrar y proteger las máquinas virtuales de Azure que ejecutan Windows Server 2019.
+  Este curso de tres días está dirigido principalmente a profesionales de IT que tienen experiencia en la gestión de un entorno de Windows Server en sus instalaciones. Su propósito es preparar a los profesionales para planificar, implementar y administrar entornos que incluyen cargas de trabajo basadas en Windows Server alojadas en Azure IaaS. El curso cubre cómo aprovechar las capacidades híbridas de Azure, cómo migrar cargas de trabajo de servidores virtuales y físicos a Azure IaaS y cómo administrar y asegurar los equipos Azure VMs con Windows Server 2019.
 
-  #### Perfil de audiencia
-  Este curso de tres días está dirigido principalmente a administradores e ingenieros de sistemas de Windows Server, que se preparan para la transición de entornos locales a entornos híbridos y solo en la nube. En segundo lugar, este curso beneficia a cualquier rol que implique tareas administrativas y operativas dirigidas a cargas de trabajo de IaaS de Microsoft Azure.
+  #### Perfil del asistente
+  Este curso de tres días está dirigido a los profesionales de IT que administran entornos de Windows Server en sus instalaciones y desean utilizar Azure para administrar las cargas de trabajo de los servidores y asegurar las máquinas virtuales que funcionan con Windows Server 2019. En segundo lugar, este curso beneficia a cualquier función que implique tareas administrativas y operativas dirigidas a las cargas de trabajo de Infraestructura como Servicio (IaaS) de Microsoft Azure.
 prerequisitesSection: |-
-  - Experiencia en la gestión del sistema operativo Windows Server y las cargas de trabajo de Windows Server en escenarios locales, incluidos AD DS, DNS, DFS, Hyper-V y servicios de almacenamiento y archivos.
-  - Experiencia con herramientas de administración comunes de Windows Server (implícita en el primer requisito previo).
-  - Conocimientos básicos de las tecnologías centrales de informática, almacenamiento, redes y virtualización de Microsoft (implícito en el primer requisito previo).
-  - Conocimientos básicos de la resiliencia local en tecnologías de almacenamiento e informática basadas en Windows Server (clústeres de conmutación por error, espacios de almacenamiento).
-  - Experiencia básica en la implementación y gestión de servicios IaaS en Microsoft Azure.
+  - Experiencia en la administración del sistema operativo Windows Server y las cargas de trabajo de Windows Server en escenarios locales, incluyendo AD DS, DNS, DFS, Hyper-V, y Servicios de Archivo y Almacenamiento
+  - Experiencia con las herramientas comunes de gestión de Windows Server (lo que implica el primer requisito previo).
+  - Conocimientos básicos de las principales tecnologías de computación, almacenamiento, redes y virtualización de Microsoft (implícito en el primer prerrequisito).
+  - Conocimientos básicos de las tecnologías de computación y almacenamiento basadas en Windows Server (Failover Clustering, Storage Spaces).
+  - Experiencia básica en la implementación y administración de servicios IaaS en Microsoft Azure.
   - Conocimientos básicos de Azure Active Directory.
-  - Comprensión básica de tecnologías relacionadas con la seguridad (firewalls, cifrado, autenticación multifactor, SIEM/SOAR).
-  - Conocimientos básicos de scripts de PowerShell.
+  - Conocimiento básico de las tecnologías relacionadas con la seguridad (firewalls, encriptación, autenticación multifactorial, SIEM/SOAR).
+  - Conocimientos básicos de scripting de PowerShell.
 
   Comprensión de los siguientes conceptos relacionados con las tecnologías de Windows Server&#58;
-  - Alta disponibilidad y recuperación ante desastres
+  - Alta disponibilidad y recuperación de desastres
   - Automatización
-  - Supervisión
+  - Monitoreo
 outlineSection: |-
-  ### Módulo 1&#58; Presentación de IaaS híbrida de Azure con Windows Server 2019
-  Este módulo describe los principios de IaaS de Azure (cómputo, almacenamiento y redes) y los métodos para integrar entornos locales con Azure y Azure AD (red, servicios de archivos, administración, monitoreo, respaldo y recuperación ante desastres e identidad). El módulo también presenta herramientas administrativas híbridas (Windows Admin Center, Azure Portal, PowerShell y Azure CLI). Como módulo introductorio, la mayoría de estos temas se tratarán con más profundidad más adelante en el curso. Además, el módulo no cubre las tecnologías de Windows Server 2019 más allá de los temas que son relevantes desde el punto de vista de la integración híbrida.
+  ### Módulo 1&#58; Presentación de Azure Hybrid IaaS con Windows Server 2019
+  Este módulo describe los principios del Azure IaaS (computación, almacenamiento y redes) y los métodos de integración de los entornos locales con el Azure y el Azure AD (red, servicios de archivos, gestión, supervisión, copias de seguridad y recuperación de desastres, e identidad). El módulo también introduce herramientas administrativas híbridas (Centro de administración de Windows, Azure Portal, PowerShell y Azure CLI). Como módulo introductorio, la mayoría de estos temas se tratarán con más profundidad más adelante en el curso. Además, el módulo no cubre las tecnologías de Windows Server 2019 más allá de los temas relevantes desde el punto de vista de la integración híbrida.
   #### Lecciones
-  - Descripción general de IaaS de Azure
-  - Descripción general del modelo híbrido de Azure
-  - Usar herramientas de administración híbridas
+  - Visión general de Azure IaaS
+  - Visión general del modelo híbrido Azure
+  - Usando herramientas de administración híbridas
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir los principios fundamentales de IaaS de Azure, incluidos el procesamiento, el almacenamiento y las redes.
-  - Identificar las herramientas que se utilizan para implementar soluciones híbridas, incluidos Windows Admin Center y PowerShell.
 
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir los principios fundamentales del Azure IaaS, incluyendo computación, almacenamiento y redes.
+  - Identificar las herramientas utilizadas para implementar soluciones híbridas, incluyendo el Centro de administración de Windows y PowerShell.
 
   ### Módulo 2&#58; Implementación de la identidad en escenarios híbridos
-  Este módulo presenta los tres métodos principales para integrar la gestión de identidad y la autenticación en escenarios híbridos; AD DS en máquinas virtuales de Azure, AD DS integrado con Azure Active Directory y Azure AD DS).
+  Este módulo presenta los tres métodos principales de integración de la gestión de la identidad y la autenticación en escenarios híbridos; AD DS en Azure VM, AD DS integrado con Azure Active Directory, y Azure AD DS).
   #### Lecciones
-  - Implementación de AD DS en IaaS de Azure
-  - Integración de AD DS con Azure AD
-  - Implementación de entornos administrados de AD DS
+  - Implementando AD DS en Azure IaaS
+  - IIntegrando AD DS con Azure AD
+  - Implementando entornos gestionados de AD DS
 
-  #### Laboratorio&#58; Implementación de la integración entre AD DS y Azure AD
-  - Preparación de Azure AD para la integración con AD DS
-  - Preparación de AD DS local para la integración con Azure AD
-  - Descarga, instalación y configuración de Azure AD Connect
-  - Verificación de la integración entre AD DS y Azure AD
-  - Implementación de características de integración de Azure AD en AD DS
+  #### Lab &#58; Implementando la integración entre AD DS y Azure AD
+  - Preparando Azure AD para la integración con el AD DS
+  - Preparando el AD DS en las instalaciones para la integración del Azure AD
+  - Descargando, instalando y configurando Azure AD Connect
+  - Verificando la integración entre AD DS y Azure AD
+  - Implementación de las características de integración de Azure AD en AD DS
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Implementar AD DS en IaaS de Azure.
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Implementar AD DS en Azure IaaS.
   - Integrar AD DS con Azure AD.
   - Implementar AD DS administrado.
 
-
-  ### Módulo 3&#58; Facilitar la gestión híbrida y el seguimiento operativo en escenarios híbridos
-  Este módulo destaca las herramientas que facilitan la administración híbrida y el monitoreo operativo (aparte del monitoreo relacionado con la seguridad, que se trata en el módulo 4), incluido el Centro de administración de Windows, Azure Arc, Azure Automation y Azure Monitor.
+  ### Módulo 3&#58; Facilitar la gestión híbrida y el monitoreo operacional en escenarios híbridos
+  En este módulo se destacan las herramientas que facilitan la gestión híbrida y la supervisión operacional, (aparte de la supervisión relacionada con la seguridad, de la que se trata en el módulo 4), entre las que se incluyen el Windows Admin Center, Azure Arc, Azure Automation y Azure Monitor.
   #### Lecciones
-  - Windows Admin Center
+  - Centro de administración de Windows
   - Azure Arc
   - Azure Monitor
   - Azure Automation
 
-  #### Laboratorio&#58; Usar el Centro de administración de Windows en escenarios híbridos
-  - Aprovisionamiento de máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Prueba de la conectividad híbrida a través del adaptador de red de Azure
-  - Implementación de la puerta de enlace de Windows Admin Center en Azure
-  - Verificación de la funcionalidad de la puerta de enlace de Windows Admin Center en Azure
+  #### Lab &#58; Usando el Windows Admin Center en escenarios híbridos
+  - Aprovisionamiento de Azure VMs con Windows Server 2019
+  - Implementación de la conectividad híbrida a través del Azure Network Adapter
+  - Desplegando la Windows Admin Center gateway en Azure
+  - Verificando la funcionalidad de Windows Admin Center gateway en Azure
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir, deploy and configure Windows Admin Center.
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir, implementar y configurar el Windows Admin Center.
   - Describir e implementar Azure Arc.
-  - Describir y administrar Azure Monitor.
-  - Implementar mapa de servicios.
-  - Integrar Azure Monitor con Operations Manager.
-
+  - Describir y administrar el Azure Monitor.
+  - Implementar Service Map.
+  - Integrar Azure Monitor con el Gerente de Operaciones.
 
   ### Módulo 4&#58; Implementación de soluciones de seguridad en escenarios híbridos
-  Este módulo describe las principales técnicas y servicios que mejoran la seguridad híbrida, incluidas las soluciones Azure Security Center, Azure Sentinel y Azure Monitor/Azure Automation para Windows Update Management.
+  Este módulo describe las principales técnicas y servicios que mejoran la seguridad híbrida, incluyendo el Azure Security Center, el Azure Sentinel y las soluciones basadas en la automatización de Azure Monitor/Azure para Windows Update Management.
   #### Lecciones
-  - Azure Security Center
+  - Centro de Seguridad Azure
   - Azure Sentinel
-  - Administración de actualizaciones de Windows
+  - Administración de las actualizaciones de Windows
 
-  #### Laboratorio&#58; Uso de Azure Security Center en escenarios híbridos
-  - Aprovisionamiento de máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Configuración de Azure Security Center
-  - Incorporación de Windows Server 2019 local en Azure Security Center
-  - Verificación de las capacidades híbridas de Azure Security Center
+  #### Lab &#58; Usando el Azure Security Center en escenarios híbridos
+  - Aprovisionamiento de Azure VMs con Windows Server 2019
+  - Configurando Azure Security Center
+  - Incorporación de Windows Server 2019 en el Azure Security Center
+  - Verificando las capacidades híbridas del Azure Security Center
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Describir Azure Security Center y habilarlo en entornos híbridos.
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir el Azure Security Center y habilitarlo en entornos híbridos.
   - Describir Azure Sentinel e implementar la funcionalidad SIEM.
   - Implementar soluciones SOAR en Azure Sentinel.
-  - Implementar la solución Update Management en Azure Automation.
+  - Implementar la solución de gestión de actualizaciones en Azure Automation.
 
-
-  ### Módulo 5&#58; Implementación de servicios de archivos en escenarios híbridos
-  Este módulo describe cómo aprovechar los servicios de archivos de Azure para reemplazar o mejorar los servidores de archivos de Windows locales. El módulo cubre la implementación de Azure Files y Azure File Sync.
+  ### Módulo 5&#58; Implementar servicios de archivos en escenarios híbridos
+  Este módulo describe cómo aprovechar los Azure File Services para reemplazar o mejorar los servidores de archivos de Windows en las instalaciones. El módulo cubre la implementación de Azure Files y Azure File Sync.
   #### Lecciones
   - Implementación de Azure Files
-  - Implementación de Azure File Sync
+  - Implementando la Azure File Sync
 
-  #### Laboratorio&#58; Implementación de Azure File Sync
-  - Implementación de la replicación DFS en su entorno local
-  - Crear y configurar un grupo de sincronización
-  - Reemplazo de la replicación DFS con replicación basada en File Sync
-  - Verificación de la replicación y habilitación de niveles en la nube
+  #### Lab &#58; Implementando Azure File Sync
+  - Implementación de la Replicación DFS en su entorno local
+  - Creación y configuración de un grupo de sincronización
+  - Reemplazar la replicación del DFS con la de File Sync
+  - Verificación de la replicación y habilitación de la nube en niveles
   - Solución de problemas de replicación
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Solución de problemas de replicación
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Solucionar problemas de replicación
   - Describir e implementar Azure File Sync.
-  - Administrar niveles de nube.
-  - Migrar de DFSR a Azure File Sync.
+  - Administrar los niveles de las nubes.
+  - Migrar del DFSR a Azure File Sync.
 
+  ### Módulo 6&#58; Desplegando y configurando Azure VMs
 
-  ### Módulo 6&#58; Implementar y configurar máquinas virtuales de Azure
-  Este módulo describe cómo implementar y configurar máquinas virtuales de Azure que ejecutan Windows Server 2019. El módulo cubre cómo configurar la seguridad, el almacenamiento y la red de máquinas virtuales de Azure.
+  Este módulo describe cómo desplegar y configurar el Azure VMs con Windows Server 2019. El módulo cubre cómo configurar la red, el almacenamiento y la seguridad de las Azure VM.
   #### Lecciones
-  - Implementación de máquinas virtuales de Azure
-  - Configuración de redes de máquinas virtuales de Azure
-  - Configuración del almacenamiento de máquinas virtuales de Azure
-  - Configuración de la seguridad de la máquina virtual de Azure
+  - Desplegando Azure VMs
+  - Configurando la red de Azure VM
+  - Configurando el almacenamiento de Azure VM
+  - Configurando la seguridad del Azure VM
 
-  #### Laboratorio&#58; Implementación y configuración de Windows Server 2019 en máquinas virtuales de Azure
-  - Creación de plantillas ARM para la implementación de máquinas virtuales de Azure
-  - Modificar las plantillas ARM para incluir la configuración basada en extensiones de VM
-  - Implementación de máquinas virtuales de Azure que ejecutan Windows Server 2019 mediante plantillas ARM
-  - Configuración del acceso administrativo a máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Configuración de la seguridad de Windows Server 2019 en máquinas virtuales de Azure
+  #### Lab &#58; Desplegando y configurando Windows Server 2019 en Azure VMs
+  - Creación de plantillas de ARM para el despliegue del Azure VM
+  - Modificar las plantillas de ARM para incluir la configuración basada en la extensión de VM
+  - Desplegando Azure VMs con Windows Server 2019 usando plantillas ARM
+  - Configurando el acceso administrativo a las Azure VM con Windows Server 2019
+  - Configurando la seguridad de Windows Server 2019 en Azure VMs
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Implementar la resiliencia a nivel de plataforma de Azure VM.
-  - Implementar la resistencia a nivel del sistema operativo Windows Server 2019 en máquinas virtuales de Azure.
-  - Implementar extensiones de máquina virtual de Azure para Windows Server 2019.
-  - Configurar y optimizar la red de máquinas virtuales de Azure.
-  - Configurar los discos de máquina virtual de Azure.
-  - Escalar el almacenamiento de máquinas virtuales de Azure
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Implementar la resistencia a nivel de plataforma de Azure VM.
+  - Implementar la resistencia a nivel de sistema operativo de Windows Server 2019 en Azure VMs.
+  - Implementar extensiones de Azure VM para Windows Server 2019.
+  - Configurar y optimizar la red de Azure VM.
+  - Configurar discos de Azure VM.
+  - Escalar el almacenamiento de Azure VM
 
-
-  ### Módulo 7&#58; Gestión y mantenimiento máquinas virtuales de Azure
-  Este módulo describe cómo administrar y mantener máquinas virtuales de Azure que ejecutan Windows Server 2019. El módulo describe herramientas para administrar y mantener máquinas virtuales de Azure, incluido el Centro de administración de Windows, PowerShell Remoting a través de Cloud Shell, Run Command, la consola en serie y Azure policies a través de la extensión Guest Configuration.
+  ### Módulo 7&#58; Manejo y mantenimiento deAzure VMs
+  Este módulo describe cómo administrar y mantener Azure VMs con Windows Server 2019. El módulo describe las herramientas para administrar y mantener los equipos Azure VM, incluido el Windows Admin Center, PowerShell Remoting a través del Cloud Shell, el Run Command, la consola serial y Azyure policeis a través de la extensión Guest Configuration.
   #### Lecciones
-  - Administrar máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Mantenimiento de máquinas virtuales de Azure que ejecutan Windows Server 2019
+  - Gestionando Azules VMs con Windows Server 2019
+  - Manteniendo Azure VMs con Windows Server 2019
 
-  #### Laboratorio&#58; Administrar máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Aprovisionamiento de máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure mediante el Centro de administración de Windows
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure desde Cloud Shell mediante PowerShell Remoting
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure mediante el comando Ejecutar
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure mediante el comando Ejecutar
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure mediante políticas de Azure a través de la extensión de configuración de invitado
+  #### Lab &#58; Administrando Azure VMs con Windows Server 2019
+  - Aprovisionamiento de Azure VMs con Windows Server 2019
+  - Administrando Windows Server 2019 en Azure VMs usando el Windows Admin Center.
+  - Administración de Windows Server 2019 en Azure VMs desde Cloud Shell usando PowerShell Remoting
+  - Administrando el Windows Server 2019 en Azure VMs usando el Run Command
+  - Gestionando el Windows Server 2019 en Azure VMs usando la consola serial
+  - Administrando Windows Server 2019 en Azure VMs usando Azure Policy Guest Configuration
 
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Administrar Windows Server 2019 en máquinas virtuales de Azure.
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Administrar el Windows Server 2019 en Azure VMs
   - Implementar políticas de Azure.
   - Mantener las actualizaciones de Windows.
-  - Describir la copia de seguridad y restauración a nivel de disco y a nivel de máquina virtual de Azure.
-  - Mantener la disponibilidad de la máquina virtual de Azure.
-
+  - Describir el nivel de Azure VM y la copia de seguridad y restauración a nivel de disco.
+  - Mantener la disponibilidad de Azure VM.
 
   ### Módulo 8&#58; Planificación e implementación de servicios de migración y recuperación en escenarios híbridos
-  Este módulo describe cómo planificar e implementar escenarios de migración, respaldo y recuperación híbridos y solo en la nube al aprovechar los servicios de Windows Server 2019 y Azure. Estos servicios incluyen Azure Migrate, Storage Migration Service, Azure Backup, Azure Site Recovery y Storage Replica.
+  Este módulo describe cómo planificar e implementar escenarios de migración, copia de seguridad y recuperación híbridos y sólo en la nube aprovechando los servicios de Windows Server 2019 y Azure. Estos servicios incluyen Azure Migrate, Servicio de migración de almacenamiento, Azure Backup, Azure Site Recovery y Storage Replica.
   #### Lecciones
-  - Azure Migrate
-  - Storage Migration Server
-  - Azure Site Recovery
-  - Storage Replica
-  - Azure Backup
+  - Migración Azure
+  - Servidor de migración de almacenamiento
+  - Recuperación de un sitio Azure
+  - Réplica de almacenamiento
+  - Azure Copia de seguridad
 
-  #### Laboratorio&#58; Implementación de servicios de recuperación basados en Azure
-  - Aprovisionamiento de máquinas virtuales de Azure que ejecutan Windows Server 2019
-  - Implementación de Azure Site Recovery
+  #### Lab &#58; Implementar servicios de recuperación basados en el Azure
+  - Implementar el entorno del laboratorio
+  - Creando y configurando una bóveda de Recuperación de Azure Site
+  - Implementación de la protección de Hyper-V VM usando la bóveda de Azure Site Recovery
   - Implementación de Azure Backup
 
-  #### Laboratorio&#58; Prueba de los servicios de recuperación basados en Azure
-  - Prueba de copia de seguridad y restauración basada en Azure Backup
-  - Prueba de la conmutación por error de Azure Site Recovery
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Migrar las cargas de trabajo de Windows Server mediante Azure Migrate.
-  - Describir el servicio de migración de almacenamiento e identificar escenarios apropiados para su uso.
-  - Explicar cómo Azure Site Recovery ayuda a la continuidad del negocio y la recuperación ante desastres.
-  - Migrar los servidores de Windows a Azure mediante Azure Site Recovery.
-  - Describir Storage Replica y escenarios apropiados para su uso.
-  - Replicar el almacenamiento en máquinas virtuales de Azure mediante Storage Replica.
-  - Realizar una copia de seguridad de las cargas de trabajo locales mediante Azure Backup.
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Migrar las cargas de trabajo de Windows Server usando Azure Migrate.
+  - Describir el Servicio de migración de almacenamiento e identificar los escenarios apropiados para su uso.
+  - Explicar cómo Azure Site Recovery ayuda a la continuidad del negocio y a la recuperación de desastres.
+  - Migrar servidores Windows a Azure mediante Azure Site Recovery.
+  - Describir Storage Replica y los escenarios apropiados para su uso.
+  - Replicar el almacenamiento a Azure VMs usando Storage Replica.
+  - Realizar copias de seguridad de las tareas en las instalaciones utilizando Azure Backup".
 

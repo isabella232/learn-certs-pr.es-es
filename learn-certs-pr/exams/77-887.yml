@@ -6,33 +6,29 @@ metadata:
 uid: exam.77-887
 displayName: 77-887
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Los usuarios expertos de Microsoft Word 2010 pueden usar el software Word 2010 de manera competente y confiable en los niveles de funcionalidad y función. Los usuarios expertos trabajan con las funciones avanzadas de Word 2010 para mejorar los documentos profesionales, crear documentos listos para publicación y colaborar eficazmente en proyectos de edición grupales. Los usuarios expertos manipulan las opciones de Word para personalizar su entorno para satisfacer diferentes necesidades y mejorar la productividad.
+  El usuario de Microsoft Office Word 2010 de nivel básico debe poder navegar el software de Microsoft Office Word 2010 a nivel funcional. Los usuarios expertos trabajan con las funciones avanzadas de Word 2010 para mejorar los documentos profesionales, crear documentos listos para publicación y colaborar eficazmente en proyectos de edición grupales. Los usuarios expertos manipulan las opciones de Word para personalizar su entorno para satisfacer diferentes necesidades y mejorar la productividad.
 subTitle: Los usuarios expertos de Microsoft Word 2010 pueden usar el software Word 2010 de manera competente y confiable en los niveles de funcionalidad y función. Los usuarios expertos trabajan con las funciones avanzadas de Word 2010 para mejorar los documentos profesionales, crear documentos listos para publicación y colaborar eficazmente en proyectos de edición grupales. Los usuarios expertos manipulan las opciones de Word para personalizar su entorno para satisfacer diferentes necesidades y mejorar la productividad.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
 - ko
 - nl
 - ar-sa
-- it
 - pt-br
 levels:
 - beginner
 skills:
-- Compartir y mantener documentos (15-20%)
-- Dar formato al contenido (25-30%)
-- Documentos de seguimiento y referencia (20-25%)
-- Realizar operaciones de combinación de correspondencia (15-20%)
-- Administrar macros y formularios (25-30%)
+- Compartir y mantener documentos (15–20%)
+- Dar formato al contenido (25–30%)
+- Dar seguimiento y referencia a documentos (20–25%)
+- Realizar operaciones de combinación de correspondencia (15–20%)
+- Gestionar macros y formularios (25–30%)
 roles:
 - business-user
 products:
@@ -41,13 +37,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

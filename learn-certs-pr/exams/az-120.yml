@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el 21 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el jueves, 17 de septiembre de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
 
   Los candidatos para este examen deben ser arquitectos o ingenieros con amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para la operación a largo plazo de una solución SAP en Microsoft Azure.
@@ -31,12 +31,12 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el, 21 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- El contenido de este examen se actualizó el, jueves, 17 de septiembre de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Migrar SAP Workloads a Azure (10-15%)
-- Diseñar una solución de Azure para admitir cargas de trabajo de SAP (20-25%)
-- Compilar e implementar cargas de trabajo de Azure para SAP (35-40%)
-- Validar la infraestructura de Azure para SAP Workloads (10-15%)
-- Operacionalizar Azure SAP Architecture (10-15%)
+- diseñar una solución Azure para admitir SAP Workload (20-25%)
+- compilar e implementar Azure SAP Workloads (35-40%)
+- validar la infraestructura Azure para SAP Workload (10-15%)
+- hacer operativa la arquitectura de Azure SAP (10-15%)
 roles:
 - solution-architect
 - devops-engineer
@@ -62,10 +62,10 @@ resources:
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

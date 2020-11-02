@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Los candidatos de nivel experto para el examen de Word 2016 utilizan con absoluto dominio las funciones avanzadas de Word 2016 de administración de documentos y contenido, así como el formato avanzado.
 
@@ -34,17 +34,19 @@ locales:
 levels:
 - intermediate
 skills:
-- Administrar las opciones y los ajustes de los documentos (35-40%)
-- Diseño de documentos avanzados (20-25%)
-- Creación de referencias avanzadas (20-25%)
-- Creación de elementos de Word personalizados (15-20%)
+- Administrar las opciones y ajustes de los documentos (35-40%)
+- diseñar documentos avanzados (20-25%)
+- crear referencias avanzadas (20-25%)
+- crear elementos personalizados de Word (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
@@ -52,7 +54,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

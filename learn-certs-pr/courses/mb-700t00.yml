@@ -7,18 +7,18 @@ uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
 hoursToComplete: 72
 skillsGained:
-- skill: Definir áreas de habilidades para la función de arquitecto de soluciones
-- skill: Explicar las recomendaciones de instancias y modelos de implementación de Microsoft
-- skill: Comprender la solución de nube, CDM y CDS
-- skill: Obtener más información sobre Licencias, AppSource y Soporte para Dynamics 365
-- skill: Usar los servicios del ciclo de vida como arquitecto de soluciones
-- skill: Conocer las consideraciones para diseñar la solución Dynamics 365
-- skill: Comprender los conceptos y herramientas utilizados para la gestión de datos.
-- skill: Explicar las opciones de integración y eventos comerciales sobre soluciones
-- skill: Conocer las opciones disponibles en localización de soluciones, cumplimiento e informes
-- skill: Tener conversaciones arquitectónicas sobre extensibilidad, seguridad y rendimiento.
-- skill: Saber qué es la gestión del ciclo de vida de la aplicación ALM
-- skill: Identificar oportunidades para pruebas automatizadas y el uso de RSAT
+- skill: Definir las áreas de habilidades para el papel de arquitecto de soluciones
+- skill: Explicar las instancias y recomendaciones de modelos de despliegue de Microsoft
+- skill: Entender la solución de la nube, el CDM y el CDS
+- skill: Obtenga más información sobre Licenciamiento, AppSource y Soporte para Dynamics 365
+- skill: Utilizar los servicios del Lifecycle como arquitecto de soluciones
+- skill: Conoce las consideraciones para elaborar la solución de Dynamics 365
+- skill: Comprender los conceptos e instrumentos utilizados para la gestión de datos
+- skill: Explicar las opciones de integración y los eventos de negocios sobre soluciones
+- skill: Conoce las opciones disponibles sobre localización de soluciones, cumplimiento e informes
+- skill: Tener conversaciones arquitectuales sobre la extensibilidad, la seguridad y el rendimiento
+- skill: Conoce qué es la gestión del ciclo de vida de la aplicación ALM
+- skill: Identificar las oportunidades para realizar pruebas automatizadas y utilizar el RSAT
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -28,47 +28,392 @@ levels:
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 exams:
 - uid: exam.mb-700
-summary: |-
-  Este curso está desarrollado para aquellos futuros y nuevos aspirantes en la función de arquitecto de soluciones. Este curso proporciona la información técnica que se centra en la arquitectura de la aplicación y las habilidades técnicas para comenzar su recorrido hacia esta función. Este curso no cubrirá las habilidades industriales y las habilidades de entrega requeridas para esta función.
-
-  #### Perfil de audiencia
-
-  La audiencia para este curso debe tener experiencia previa con enfoque funcional o técnico en Dynamics 365&#58; Aplicaciones de finanzas y operaciones. Principalmente para aquellos aquellos futuros y nuevos aspirantes en la función de arquitecto de soluciones. 
+summary: "\"Este curso está desarrollado para aquellos que aspiran a ser y son nuevos en el papel de arquitecto de soluciones. Este curso proporciona la información técnica centrada en la arquitectura de la aplicación y las habilidades técnicas para iniciar su viaje en este rol. Este curso no cubrirá las habilidades industriales y las habilidades de entrega requeridas para este rol.\n\n#### Perfil del asistente \n\nEl asistente a este curso debe tener experiencia previa con un enfoque funcional o técnico en Dynamics 365&#58; Aplicaciones de Finanzas y Operaciones.Principalmente para aquellos que aspiran a ser y son nuevos en el rol de arquitecto de soluciones.  \""
 prerequisitesSection: |-
-  Debe completar la ruta de aprendizaje del arquitecto de soluciones para arquitectos de soluciones&#58; [aquí](https://docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+  Debes completar el camino de aprendizaje de los arquitectos de soluciones para los arquitectos de soluciones&#58; [Aquí](/aprender/examinar/?roles=arquitecto-solución&productos=dinámica-finanzas-operaciones)
 outlineSection: |-
-  ### Módulo 1&#58; Introducción
+  ### Módulo 1&#58; El papel del arquitecto
+  El arquitecto de la solución es uno de los papeles más críticos para entregar el éxito a los clientes de Microsoft, y requiere muchas habilidades. Este curso se centra principalmente en las habilidades técnicas. 
 
-  ### Módulo 2&#58; La función de arquitecto
+  ### Módulo 3&#58; Solución de Nube, CDM & CDS
+  Los temas y conceptos de este módulo incluyen&#58; 
 
-  ### Módulo 3&#58; Entorno, Instancias y Modelos de Implementación
+  Los conceptos básicos del CDM y el CDS  
+  Explicaciones de estas tecnologías de intercambio de datos. 
 
-  ### Módulo 4&#58; Solución de nube, CDM y CDS
+  CDM vs. CDS  
+  Una breve discusión sobre cómo estas tecnologías interactúan y se complementan entre sí. 
 
-  ### Módulo 5&#58; Licencias, AppSource y Soporte
+  Power Platform (Plataforma de energía)  
+  Este tema explora algunos de los componentes de Power Platform, la plataforma de aplicaciones empresariales de Microsoft. 
 
-  ### Módulo 6&#58; Servicios de ciclo de vida 
+  Escritura dual  
+  Una breve explicación de una nueva funcionalidad de integración bidireccional que Microsoft presentó en 2019.   
+  #### Lecciones
+  - Introducción
+  - Conceptos básicos del CDM y el CDS
+  - Plataforma de energía
+  - Doble escritura
+  - Ejercicio en grupo
 
-  ### Módulo 7&#58; Soluciones para diseñar soluciones Dynamics 365
 
-  ### Módulo 8&#58; Gestión de datos
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Conversar con los clientes sobre lo que significa el CDM
+  - Discutir la funcionalidad que el Common Data Service (CDS) proporciona
+  - Explica la Microsoft Power Platform y sus componentes principales
+  - Discutir la funcionalidad de la escritura dual
+  - Explica lo que es el Microsoft Common Data Model
 
-  ### Módulo 9&#58; Integración y Eventos Comerciales
+  ### Módulo 4&#58; Licenciamiento, AppSource y Soporte
+  Los temas de este módulo incluyen&#58;
 
-  ### Módulo 10&#58; Localización, Cumplimiento e Informes
+  Requisitos para la licencia  
+  Disponer de la licencia adecuada es un aspecto importante del despliegue de las soluciones de Finanzas y Operaciones de Dynamics 365.
 
-  ### Módulo 11&#58; Extensibilidad
+  Soluciones ISV certificadas por Microsoft  
+  AppSource, una rica fuente de información sobre las soluciones de ISV (proveedor de software independiente) que han sido certificadas por Microsoft, puede utilizarse para identificar soluciones que puedan complementar los proyectos en los que estás involucrado. 
 
-  ### Módulo 12&#58; Seguridad
+  Opciones de soporte 
+  Conocer las opciones de apoyo disponibles, así como otras consideraciones de apoyo, puede ser importante para el éxito de un proyecto. 
 
-  ### Módulo 13&#58; Rendimiento
+  #### Lecciones
+  - Introducción
+  - Licencias
+  - AppSource
+  - Apoyo
 
-  ### Módulo 14&#58; Gestión del Ciclo de Vida de aplicaciones 
+  Después de completar este módulo, los estudiantes deben ser capaces de 
+  - Discutir las diferentes formas en que se pueden obtener las suscripciones de las licencias
+  - Determinar si un ISV podría tener registrada una solución existente
+  - Describir los pasos necesarios para finalizar la estrategia de apoyo y evaluar la preparación para la puesta en marcha
+  - Explique los diferentes aspectos de los cinco planes de apoyo diferentes
+  - Explica las seis consideraciones que el arquitecto de soluciones y el equipo del proyecto necesitan saber
+  - Describir los requisitos de licencia para las soluciones de Dynamics 365 for Finance and Operations
 
-  ### Módulo 15&#58; Pruebas automatizadas y RSAT
+  ### Módulo 5&#58; Servicios de LifeCycle
+  Los temas de este módulo incluyen&#58;
 
-  ### Módulo 16&#58; Áreas adicionales para arquitectos
+  Características y conceptos básicos del LCS  
+  Breves definiciones de muchas características y conceptos de LCS que permiten una colaboración más estrecha, aceleran las implementaciones y reducen el tiempo de valorización. 
+
+  El papel y la función de Azure DevOps y cómo conectarse a LCS  
+  LCS puede aprovechar las herramientas de Azure DevOps para rastrear la implementación y asociar los elementos de trabajo con los requerimientos y procesos de negocios, incluyendo errores, tareas, elementos atrasados, pruebas y documentos. 
+
+  #### Lecciones
+  - Introducción
+  - Características y conceptos básicos
+  - Comprender el papel y la función de Azure DevOps y cómo conectarse al LCS
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de 
+  - Explicar la funcionalidad de cinco o más herramientas y/o características proporcionadas por LCS
+  - Explique el beneficio de sincronizar un Business Process Modeler (BPM)
+  - Describa el papel y la función de Azure DevOps cuando se conecta al LCS
+  - Describa tres o más funciones del SLC y los beneficios que proporciona durante la implementación de soluciones
+
+  ### Module 6&#58; Soluciones Blueprinting Dynamics 365
+  Los temas incluyen&#58; 
+
+  Desarrollar un proyecto de solución  
+  Revisa el proceso, la aplicación, los datos, la integración, la inteligencia, la seguridad, la actualización continua, la plataforma y las consideraciones de la arquitectura de la cronología. 
+
+  Involucrar a FastTrack en la revisión de los planos de soluciones 
+  Revisa los beneficios de contratar a un arquitecto y/o equipo de Microsoft FastTrack para revisar los planos de la solución para ayudar a asegurar un resultado positivo para el cliente. 
+
+  #### Lecciones
+  - Introducción
+  - Desarrollar un proyecto de solución
+  - Conectar FastTrack en la revisión de los planos de la solución
+
+  Después de completar este módulo, los estudiantes deben ser capaces de 
+  - Involucrar a un cliente en una conversación sobre los beneficios de contratar a un arquitecto o equipo de FastTrack
+  - Describir los beneficios de que el equipo del proyecto compare y evalúe los requisitos funcionales
+  - Discutir y explicar las diferentes formas de arquitectura involucradas en la creación de un proyecto de solución
+
+  ### Módulo 7&#58; Gestión de datos
+  El tema de la gestión de datos es amplio, y tiene muchas ramificaciones al desplegar Dynamics 365. Se discuten cuatro consideraciones clave..; 
+
+  Estrategia de migración de datos  
+  En base a los datos para los que se necesita
+
+  Plan de corte  
+  Las consideraciones incluyen qué datos deben introducirse durante el corte y si es necesario introducir algún dato manualmente 
+
+  Herramientas y marco  
+  Se dispone de diferentes herramientas y marcos para diferentes escenarios 
+
+  Plan de retención de datos  
+  Las consideraciones incluyen qué datos deben almacenarse para las operaciones comerciales y el cumplimiento de las normas. 
+  #### Lecciones
+  - Introducción
+  - Gestión de datos
+  - Consideraciones clave
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Articular las preguntas que un arquitecto de soluciones necesita hacer al identificar los problemas de calidad de los datos
+  - Explicar las preguntas que un arquitecto de soluciones debe hacer antes de la migración de datos
+  - Describa las calificaciones necesarias del plan de migración de datos
+  - Examinar la secuencia y la dependencia de las etapas de migración de datos
+  - Discutir el papel del arquitecto de la solución en la migración de datos
+  - Explica las tres preguntas principales que los arquitectos deben hacer durante el proceso de corte.
+  - Configurar, navegar y utilizar las herramientas disponibles en Microsoft Dynamics Lifecycle Services (LCS)
+  - Examinar los enfoques recomendados cuando se trate de la migración de datos de gran volumen
+  - Examinar los elementos clave de la gestión de datos
+
+  ### Módulo 8&#58; Integración y eventos de negocios
+  Los temas de este módulo incluyen &#58; 
+
+  Integración  
+  Este tema se centra principalmente en la estrategia de integración, las integraciones de sistemas y las plataformas y herramientas de integración.
+
+  Eventos de negocios  
+  Business events es un nuevo método de integración que se ha añadido a Dynamics 365 y que ha sido adoptado en gran medida.
+
+  Puntos finales  
+  Los puntos finales le permiten gestionar los destinos para el envío de eventos de negocios. 
+  #### Lecciones
+  - Introducción
+  - Integración
+  - Eventos de negocios
+  - Puntos finales
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Describir las diferencias y similitudes entre la integración y la migración de datos
+  - Distinguir y articular las diferencias entre la interfaz y las integraciones
+  - Discutir las plataformas e instrumentos comunes disponibles para aplicar la estrategia de integración
+  - Explicar la funcionalidad de los eventos y puntos finales, su propósito y consideraciones básicas
+  - Discutir las consideraciones primarias que impulsan la estrategia de integración
+
+  ### Módulo 9&#58; Localización, Cumplimiento y Reporte
+  Los temas de este módulo incluyen&#58;
+
+  Localización  
+  El proceso de localización se utiliza para adaptar un producto o contenido a un lugar o mercado específico.  
+
+  Cumplimiento  
+  El cumplimiento es el estado o el hecho de que se cumplan las reglas o normas, y a menudo es exigido por los organismos gubernamentales. 
+
+  Informes  
+  La capacidad de presentación de informes puede ser importante para la localización y para la verificación del cumplimiento. 
+  #### Lecciones
+  - Introducción
+  - Localización
+  - Cumplimiento
+  - Reportaje
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Discutir la necesidad de proveedores de soluciones ISV
+  - Describa los cuatro marcos comunes para la auditoría y el cumplimiento
+  - Explicar las recomendaciones de cumplimiento
+  - Discutir el papel del arquitecto de soluciones en la identificación de la mejor herramienta para la presentación de informes
+  - Discutir las cuatro preguntas que deben ser contestadas durante la recopilación de requerimientos
+  - Identificar las funcionalidades de localización
+
+  ### Módulo 10&#58; Extensibilidad
+  Los temas incluyen&#58;
+
+  Personalización intrusiva 
+  Una breve reseña de la cuestión de la personalización intrusiva y por qué se ha vuelto difícil de manejar. 
+
+  Beneficios de la extensibilidad  
+  Por qué la extensibilidad es un mejor tipo de personalización. 
+
+  Opciones de extensibilidad  
+  Una lista de las opciones comunes de ampliación disponibles.
+
+  Solicitudes de extensibilidad  
+  Cómo hacer una solicitud de ampliación a Microsoft cuando sea necesario.
+  #### Lecciones
+  - Introducción
+  - Personalización intrusiva
+  - Beneficios de la extensibilidad
+  - Opciones de extensión
+  - Solicitudes de ampliación
+
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Explicar los beneficios de la extensibilidad
+  - Discutir la diferencia entre la superposición y la extensibilidad
+  - Discutir las opciones comunes de extensibilidad disponibles
+  - Determinar la mejor manera de hacer una solicitud de ampliación
+  - Discutir con los clientes la cuestión de la personalización intrusiva
+
+  ### Módulo 11&#58; Seguridad
+  Los temas de este módulo incluyen &#58; 
+
+  La seguridad de la planificación de los recursos institucionales (PRE) consiste en una amplia gama de medidas para proteger los sistemas del acceso ilícito y garantizar la accesibilidad e integridad de los datos del sistema. En este módulo se examinan los siguientes temas relacionados con la seguridad&#58; 
+
+  Asesorar sobre los requisitos de seguridad y cumplimiento  
+  El proceso de localización se utiliza para adaptar un producto o contenido a un lugar o mercado específico. 
+
+  Diseño de seguridad  
+  El cumplimiento es el estado o el hecho de que se cumplan las reglas o normas, y a menudo es exigido por los organismos gubernamentales. 
+
+  Herramientas y características  
+  La capacidad de presentación de informes puede ser importante para la localización y para la verificación del cumplimiento
+
+  #### Lecciones
+  - Introducción
+  - Asesorar sobre los requisitos de seguridad y cumplimiento
+  - Diseño de seguridad
+  - Herramientas y características
+
+  Después de completar este módulo, los estudiantes deben ser capaces de 
+  - Discutir los cuatro requisitos principales de seguridad en los que los arquitectos deben centrarse durante el diseño.
+  - Identificar y explicar las ofertas actuales de protección al cliente de Microsoft
+  - Discutir la autenticación, la autorización, la seguridad de los datos y las consideraciones de auditoría
+  - Identificar las herramientas y características disponibles que los equipos de proyecto pueden utilizar para gestionar la seguridad
+  - Dé un ejemplo de las consideraciones de seguridad que determinan la forma en que cada una de ellas ayuda a definir la seguridad
+
+
+  Otros temas de este módulo proporcionan una visión general de otras áreas de habilidades que pueden ser útiles para comprender el papel del arquitecto de soluciones. 
+  #### Lecciones
+  - Habilidades de arquitecto de soluciones
+  - Recapitulando el camino de aprendizaje del arquitecto de la solución
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Refrescar el conocimiento obtenido por el contenido online para los arquitectos de soluciones
+  - Enumere las habilidades necesarias para un arquitecto de soluciones
+
+  ### Módulo 2&#58; Entorno, Instancias y Modelos de Despliegue
+  Los temas y conceptos de este módulo incluyen&#58;
+
+  Estrategia de la instancia  
+  Las soluciones de finanzas y operaciones de Dynamics 365 pueden desplegarse con múltiples instancias, lo que algunas organizaciones consideran por razones de escalabilidad o de seguridad y privacidad.
+
+  Planificación del entorno  
+  La planificación del entorno ayuda a comprender claramente qué entorno(s) se requiere(n) para qué tarea(s) durante una duración planificada.
+
+  Diseño de la infraestructura  
+  Las consideraciones clave para el diseño de la infraestructura del Dynamics 365 se discuten en este tema.
+
+  Modelos de despliegue  
+  Los despliegues en la nube y en las instalaciones tienen diferentes requisitos, que se examinan en esta sección.
+
+  #### Lecciones
+  - La estrategia de la instancia
+  - Planificación del entorno
+  - Infraestructura y despliegue
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Comprender el propósito de la planificación del ambiente
+  - Conocer las diferencias entre los diferentes entornos gestionados
+  - Explicar cada uno de los requisitos iniciales de infraestructura
+  - Describa las necesidades de configuración de hardware para los despliegues de Dynamics 365 en las instalaciones
+  - Discutir los cuatro requisitos principales de seguridad en los que los arquitectos deben centrarse durante el diseño.
+  - Describa los principales impulsores y el uso de la estrategia de instancia.
+
+
+  ### Module 12&#58; Rendimiento
+  Los temas incluyen&#58; 
+
+  Puntos de referencia del rendimiento 
+  Recomendaciones y orientación para definir adecuadamente los puntos de referencia
+
+  Diseño de la actuación 
+  Consideraciones clave para el diseño de la actuación  
+
+  Patrones 
+  Recomendaciones sobre patrones clave a observar durante el diseño 
+
+  Pruebas y herramientas 
+  Requisitos previos para las pruebas de rendimiento y una lista de los instrumentos de rendimiento existentes 
+  #### Lecciones
+  - Introducción
+  - Definir los puntos de referencia y los requisitos de rendimiento
+  - Diseño de la actuación
+  - Patrones clave
+  - Pruebas de rendimiento y herramientas
+  - Ejercicio en grupo
+
+  Después de completar este módulo, los estudiantes deben ser capaces de 
+  - Discutir los beneficios y el impacto de los puntos de referencia bien definidos
+  - Explicar el impacto del papel del arquitecto de soluciones al reunir los requisitos de rendimiento del sistema
+  - Discutir las consideraciones clave del diseño de rendimiento de la capacidad de escalado, la concurrencia y el tiempo de respuesta
+  - Explicar los requisitos previos que garantizan la pertinencia y la precisión de la actuación
+  - Determinar qué herramientas específicas de rendimiento pueden utilizarse
+  - Aplicar un ejemplo de un objetivo de rendimiento
+
+  ### Módulo 13&#58; Gestión del Life Cycle Management
+  Los temas de este módulo incluyen&#58; 
+
+  Control de versiones 
+  Se utiliza para ayudar a resolver las preocupaciones sobre la coherencia en la gestión de soluciones. 
+
+  Desarrollo 
+  Conceptos, terminología y consideraciones básicas. 
+
+  Construir
+  Requisitos, recomendaciones y consideraciones. 
+
+  Despliegue 
+  Consideraciones clave para el despliegue en entornos de rutina
+  #### Lecciones
+  - Introducción
+  - Control de versiones
+  - Desarrollo
+  - Construye
+  - Despliegue
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Discutir cómo el uso de DevOps ayuda a sincronizar los procesos de negocio
+  - Explique los principales beneficios del control de versiones
+  - Discutir los conceptos y consideraciones básicas para el desarrollo
+  - Explicar los requisitos, recomendaciones y consideraciones del proceso de construcción
+  - Discutir las consideraciones clave para el despliegue
+  - Definir las responsabilidades del arquitecto de soluciones al identificar el mejor ALM
+
+  ### Módulo 14&#58; Pruebas automatizadas y RSAT
+  Los temas incluyen &#58; 
+
+  Comprender las opciones de la prueba 
+  Se realizan cuatro tipos de pruebas a lo largo de una implementación de Dynamics 365. En este tema se revisan estos tipos de pruebas y se discute la importancia de la calidad y la cobertura de los casos de uso. 
+
+  Resumir la estrategia y el plan de pruebas 
+  En este tema se analizan las razones por las que es necesario contar con una estrategia de pruebas detallada por varias razones y se ofrece orientación sobre lo que debe incluir un plan de pruebas completo. 
+
+  Herramientas disponibles para las pruebas 
+  Este tema identifica la Herramienta de Automatización de la Suite de Regresión (RSAT), así como otras herramientas disponibles que pueden ser utilizadas para las pruebas, incluyendo el SDK de Rendimiento y la Data Expansion Tool.
+  #### Lecciones
+  - Introducción
+  - Comprender las opciones de la prueba
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Explicar el impacto del papel del arquitecto de soluciones al reunir los requisitos de rendimiento del sistema
+  - Examinar los diversos elementos y consideraciones que intervienen en la elaboración de una estrategia de pruebas
+  - Describir las opciones del cliente disponibles para el uso de las soluciones de prueba
+  - Discuta la funcionalidad y el propósito principales de cada uno de los cuatro tipos de pruebas  
+
+
+  ### Módulo 15&#58; Áreas adicionales para los arquitectos
+  En el presente módulo se proporciona información sobre consideraciones adicionales que no se han tratado en los módulos anteriores.
+  Los temas incluyen&#58; 
+
+  Visión general del proceso de actualización 
+  Establece los típicos pasos de alto nivel para que los equipos de proyecto completen una actualización. 
+
+  Consideraciones especiales
+  Proporciona orientación para el manejo de archivos adjuntos, grandes bases de datos y otros escenarios de actualización diversos. 
+  Impresión de escenarios en Dynamics 365 
+  Describe las opciones de impresión y las opciones de configuración de la gestión de la impresión. 
+  #### Lecciones
+  - Introducción
+  - Visión general del proceso de actualización
+  - Consideraciones especiales
+  - Impresión de escenarios en Dynamics 365
+  - Fases de aplicación de alto nivel
+
+  Después de completar este módulo, los estudiantes deben ser capaces de
+  - Discutir las consideraciones sobre el tamaño de los archivos adjuntos y de la base de datos
+  - Explicar los conceptos de impresión de documentos y de gestión de la impresión para Dynamics 365
+  - Explicar los pasos de alto nivel del proceso de actualización
+
 

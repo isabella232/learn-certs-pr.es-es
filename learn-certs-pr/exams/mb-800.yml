@@ -16,8 +16,8 @@ summary: |-
 
   Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Business Central. Entienden el papel de Business Central en relación con el conjunto de aplicaciones Dynamics 365.
 
-  <div><strong><br/>Nota&#58; Este examen estará disponible en octubre de 2020.</strong></div>
-subTitle: 'Este examen estará disponible en octubre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Business Central; configurar finanzas; configurar ventas y compras; y realizar operaciones de Business Central.'
+  <div><strong><br/>Nota&#58; Este examen estará disponible alrededor del, martes, 6 de octubre de 2020.</strong></div>
+subTitle: 'Este examen estará disponible alrededor del, martes, 6 de octubre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Business Central; configurar finanzas; configurar ventas y compras; y realizar operaciones de Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -28,12 +28,25 @@ skills:
 - Configurar Business Central (20-25%)
 - Configurar finanzas (25-30%)
 - Configurar ventas y compras (10-15%)
-- Realizar operaciones de Business Central (30-35%)
+- Configurar ventas y compras (30-35%)
 roles:
 - functional-consultant
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
@@ -44,10 +57,10 @@ resources:
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

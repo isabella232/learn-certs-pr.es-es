@@ -5,10 +5,10 @@ metadata:
   description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |+
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Para superar el examen de Access 2016, los candidatos deben tener un conocimiento básico del entorno de la aplicación. Tendrán que conocer los principios básicos para el diseño de bases de datos y ser capaces de completar tareas de forma independiente. Además, deben conocer y demostrar la correcta aplicación de las funciones principales de Access 2016, y tener la capacidad para crear y mantener los objetos básicos de una base de datos Access, como tablas, relaciones, formularios de entrada de datos, informes con varios niveles y consultas con varias tablas.
+  El candidato de nivel básico para el examen de Microsoft Word 2016 debe tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Tendrán que conocer los principios básicos para el diseño de bases de datos y ser capaces de completar tareas de forma independiente. Además, deben conocer y demostrar la correcta aplicación de las funciones principales de Access 2016, y tener la capacidad para crear y mantener los objetos básicos de una base de datos Access, como tablas, relaciones, formularios de entrada de datos, informes con varios niveles y consultas con varias tablas.
 
   Los exámenes de certificación Microsoft Office Specialist (MOS) 2016 introducen un nuevo formato basado en rendimiento para mejorar la evaluación de los conocimientos, habilidades y aptitudes de un candidato con programas MOS 2016&#58;
   - Las instrucciones de las tareas del examen MOS 2016 normalmente no incluyen el nombre del comando, como ocurría en las versiones anteriores. Por ejemplo, se evitan los nombres de las funciones y se sustituyen por descriptores. Esto significa que los candidatos deben comprender el propósito y el uso común de la funcionalidad del programa para poder realizar correctamente las tareas de cada uno de los proyectos.
@@ -32,12 +32,12 @@ levels:
 - intermediate
 skills:
 - Crear y administrar una base de datos (20-25%)
-- Crear tablas (25-30%)
-- Crear consultas (20-25%)
-- Crear formularios (15-20%)
+- crear tablas (25-30%)
+- crear consultas (20-25%)
+- crear formularios (15-20%)
 - Crear informes (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office-access
 relatedCertifications:
@@ -50,7 +50,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

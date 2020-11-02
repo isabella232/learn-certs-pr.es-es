@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: Esta certificación estará disponible en octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
+  description: Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,21 +10,34 @@ summary: |-
 
   Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
 
-  <div><br/><strong>Nota&#58; Esta certificación estará disponible en octubre de 2020.</strong></div>
-subTitle: Esta certificación estará disponible en octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
+  <div><br/><strong>Nota&#58; Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020.</strong></div>
+subTitle: Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
 levels:
 - intermediate
 skills:
 - Configurar Business Central
 - Configurar finanzas
 - Configurar ventas y compras
-- Realizar operaciones de Business Central
+- Configurar ventas y compras
 roles:
 - functional-consultant
 type: role-based
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
 exams:
 - uid: exam.mb-800
@@ -38,7 +51,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: Reproducción de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Panel de certificación

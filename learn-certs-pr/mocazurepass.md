@@ -2,12 +2,13 @@
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 04/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Acceso a Microsoft Learning Azure Passes para estudiantes de socios autorizados de Microsoft Learning
@@ -19,8 +20,6 @@ ms.author: micsullivan
 Microsoft ofrece a sus estudiantes acceso a un Microsoft Azure Pass gratuito de 30 días cuando se inscriben en un curso elegible relacionado con Azure mediante los cursos oficiales de Microsoft. Los pases para estudiantes solo pueden ser obtenidos por el Microsoft Learning Partner autorizado a través de Courseware Marketplace, y está directamente vinculado a la compra de un curso MOC, con un límite de un pase por curso MOC ordenado. No habrá disponible ningún otro mecanismo para obtener pases para estudiantes. Si un Socio de aprendizaje solicita un curso MOC pero no selecciona el Pase de Azure que está disponible con el curso en el momento de la compra, el Socio tendrá la opción de regresar a Courseware Marketplace y, posteriormente, solicitar ese Pase si es necesario.
 
 Socios, consulten los Términos y condiciones para los Pases de Azure distribuidos a través de Courseware Marketplace [aquí](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions). Los pases serán válidos durante 90 días desde que se le asignaron en Courseware Marketplace. Los pases caducados no se pueden volver a usar.
-
-Los pases no se pueden obtener ni utilizar para cursos o capacitaciones realizadas por socios que no son de aprendizaje o MCT no afiliados con un socio de aprendizaje actual. Los pases no se pueden obtener ni utilizar para cursos no elegibles como Community Courseware.
 
 Los MCT pueden solicitar un pase para sus necesidades de preparación de cursos de Azure elegibles. Este sigue siendo el caso y los MCT pueden solicitar su pase de preparación para el curso de Azure elegible [aquí](https://vouchers.cloudapp.net/AzurePass/), sin embargo, esta oferta puede finalizar en cualquier momento.
 

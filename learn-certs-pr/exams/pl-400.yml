@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
 
   Los candidatos para este examen diseñan, desarrollan, aseguran y solucionan problemas de las soluciones de Power Platform. Los candidatos implementan componentes de una solución, incluyendo mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 
@@ -14,28 +14,39 @@ summary: |-
 
   Los candidatos deben tener experiencia en desarrollo que incluya servicios de Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, servicios web RESTful, ASP.NET y Microsoft Power BI.
 
-  <div><strong><br/>Nota&#58; Este examen estará disponible alrededor del, 25 de septiembre de 2020.</strong></div>
-subTitle: 'Este examen estará disponible alrededor del, 25 de septiembre de 2020. Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes; crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
+  <div><strong><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más <a href="/learn/certifications/certification-exams#participating-in-beta-exams">información sobre el valor y la importancia de los exámenes beta</a>.</strong></div>
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes; crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Crear un diseño técnico (10-15%)
-- Configurar el servicio de datos comunes (15-20%)
-- Crear y configurar Power Apps (15-20%)
-- Configurar la automatización de procesos comerciales (5-10%)
-- Extender la experiencia del usuario (10-15%)
-- Extender la plataforma (15-20%)
-- Desarrollar integraciones (5-10%)
+- crear un diseño técnico (10-15%)
+- configurar el servicio de datos comunes (15-20%)
+- crear y configurar Power Apps (15-20%)
+- configurar la automatización de procesos comerciales (5-10%)
+- ampliar la experiencia del usuario (10-15%)
+- extender la plataforma (15-20%)
+- desarrollar integraciones (5-10%)
 roles:
 - developer
 products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
     uid: certification.power-platform-developer-associate
@@ -46,10 +57,10 @@ resources:
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

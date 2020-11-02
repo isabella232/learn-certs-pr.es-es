@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
+title: 'Outlook 2016: Core Communication, Collaboration, and Email Skills'
 metadata:
-  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |+
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Para superar el examen, los candidatos deben crear y editar mensajes de correo electrónico con un aspecto profesional, mantener calendarios con varias zonas horarias y programar tareas para una variedad de finalidades y situaciones. Utilizarán Outlook 2016 para mejorar la correspondencia profesional, crear calendarios y programar citas. Entre los ejemplos de aplicaciones se incluyen coordinar los recursos del edificio, enviar mensajes para campañas de marketing, planificar reuniones del personal y asignar elementos de acción.
 
@@ -34,11 +34,11 @@ levels:
 - intermediate
 skills:
 - Administrar el entorno Outlook para una mayor productividad (20-25%)
-- Administrar mensajes (35-40%)
-- Administrar programas (35-40%)
-- Administración de contactos y grupos (10-15%)
+- administrar mensajes (35-40%)
+- administrar agendas (35-40%)
+- Administrar contactos y grupos (10-15%)
 roles:
-- developer
+- business-user
 products:
 - office-outlook
 relatedCertifications:
@@ -51,7 +51,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

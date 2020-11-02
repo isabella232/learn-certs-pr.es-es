@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: PowerPoint 2013
+title: Microsoft PowerPoint 2013
 metadata:
-  title: 'Exam 77-422: PowerPoint 2013'
-  description: 'Exam 77-422: PowerPoint 2013'
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Aprenda a demostrar su experiencia con PowerPoint. Practique y prepárese para el examen de Microsoft Office Specialist (MOS) de PowerPoint de 2013, con esta guía de estudio "todo en uno". Encuentre una cobertura completa de los exámenes objetivo por objetivo, junto con procedimientos e ilustraciones fáciles de seguir para revisar las habilidades esenciales. Además, obtenga tareas prácticas, aplique lo que ha aprendido. La guía incluye archivos de práctica descargables.
-subTitle: 'Los candidatos a este examen son profesionales de TI que usan Office para crear aplicaciones seguras y flexibles.'
+  Los candidatos para el examen de Microsoft OneNote 2013 deben tener conocimientos básicos del entorno de OneNote y la capacidad de completar tareas de forma independiente. Los candidatos pueden crear y administrar presentaciones, insertar y dar formato a formas y diapositivas, crear contenido de diapositivas, aplicar transiciones y animaciones y administrar diversas presentaciones.
+subTitle: 'El candidato para el examen de PowerPoint 2013 de Microsoft Office Specialist (MOS) debe tener un conocimiento básico del entorno de PowerPoint y la capacidad de completar tareas de manera independiente.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,27 +33,27 @@ levels:
 - beginner
 skills:
 - Crear y administrar presentaciones
-- Insertar y dar formato a formas y diapositivas
-- Crear contenido de diapositiva
-- Aplicar transiciones y animaciones
-- Administrar varias presentaciones
+- insertar y dar formato a formas y diapositivas
+- crear contenido de diapositivas
+- aplicar transiciones y animaciones
+- administrar presentaciones múltiples
 roles:
 - business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-powerpoint-2013
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

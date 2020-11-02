@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Word 2013
+title: Microsoft Word 2013
 metadata:
-  title: 'Exam 77-418: Word 2013'
-  description: 'Exam 77-418: Word 2013'
+  title: 'Exam 77-418: Microsoft Word 2013'
+  description: 'Exam 77-418: Microsoft Word 2013'
 uid: exam.77-418
 displayName: 77-418
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   El candidato de nivel básico para el examen de Microsoft Word 2013 debe tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Word 2013. Estos candidatos deben poder crear y editar documentos de 2-3 páginas para una variedad de propósitos y situaciones. Entre los ejemplos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, trabajadores, formadores y otros.
 subTitle: El candidato de nivel básico para el examen de Microsoft Word 2013 debe tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Word 2013. Estos candidatos deben poder crear y editar documentos de 2-3 páginas para una variedad de propósitos y situaciones. Entre los ejemplos se incluyen informes de aspecto profesional, boletines de varias columnas, currículos y correspondencia empresarial. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, trabajadores, formadores y otros.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-418&examname=Word%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-418
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -34,25 +34,27 @@ levels:
 - beginner
 skills:
 - Crear y administrar documentos
-- Dar formato al texto, párrafos y secciones
-- Crear tablas y listas
-- Aplicar referencias
-- Insertar y dar formato a objetos
+- dar formato a texto, parágrafos y secciones
+- crear tablas y listas
+- aplicar referencias
+- insertar y dar formato a objetos
 roles:
 - business-user
 products:
 - office
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-word-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

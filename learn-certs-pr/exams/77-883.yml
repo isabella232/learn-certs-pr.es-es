@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   El candidato típico para el examen es un estudiante, empleado de oficina o instructor que necesita navegar en PowerPoint 2010 a nivel de funcionalidad y función.
 
@@ -14,31 +14,20 @@ summary: |-
 subTitle: El candidato típico para el examen es un estudiante, empleado de oficina o instructor que necesita navegar en PowerPoint 2010 a nivel de funcionalidad y función.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
-- Administrar el entorno de PowerPoint
+- Gestionar el entorno de PowerPoint
 - Crear una presentación de diapositivas
 - Trabajar con elementos gráficos y multimedia
-- Crear cuadros y tablas
+- Crear gráficos y tablas
 - Aplicar transiciones y animaciones
 - Colaborar en presentaciones
-- Preparar presentaciones para entrega
-- Entregar presentaciones
+- Preparar presentaciones para la entrega
+- Realizar presentaciones
 roles:
 - business-user
 products:
@@ -47,13 +36,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

@@ -1,14 +1,14 @@
 ### YamlMime:Examination
-title: Access 2013
+title: Microsoft Access 2013
 metadata:
-  title: 'Exam 77-424: Access 2013'
-  description: 'Exam 77-424: Access 2013'
+  title: 'Exam 77-424: Microsoft Access 2013'
+  description: 'Exam 77-424: Microsoft Access 2013'
 uid: exam.77-424
 displayName: 77-424
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Este examen está diseñado para candidatos que tengan conocimientos básicos sobre el entorno de Access 2013 y que sean capaces de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Access 2013.
+  Esta certificación demuestra que tiene el conocimiento básico del entorno de Microsoft Access 2013 y la capacidad para completar tareas de manera independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Access 2013.
 subTitle: Este examen está diseñado para candidatos que tengan conocimientos básicos sobre el entorno de Access 2013 y que sean capaces de completar tareas de forma independiente. Deben conocer y demostrar la aplicación correcta de las funciones principales de Access 2013.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
@@ -21,23 +21,26 @@ locales:
 - ja
 - ko
 - nl
+- ar-sa
 levels:
 - beginner
 skills:
-- Crear y administrar una base de datos (20-25 %)
-- Crear tablas (25-30 %)
-- Crear consultas (15-20%)
-- Crear formularios (15-20 %)
-- Crear informes (15-20 %)
+- Crear y administrar una base de datos (20-25%)
+- crear tablas (25-30%)
+- crear consultas (15-20%)
+- crear formularios (15-20%)
+- Crear informes (15-20%)
 roles:
 - business-user
 products:
 - office-access
 relatedCertifications:
 - related:
+    uid: certification.mos-access-2013
+- related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación

@@ -36,12 +36,12 @@ levels:
 - intermediate
 skills:
 - Gestionar hojas de cálculo y libros (10-15%)
-- Administrar celdas de datos e intervalos (20-25%)
-- Administrar tablas y datos de tablas (15-20%)
+- Gestionar rangos y celdas de datos (20-25%)
+- Gestionar tablas y datos de tablas (15-20%)
 - Realizar operaciones usando fórmulas y funciones (20-25%)
-- Administrar gráficos (20-25%)
+- Gestionar gráficos (20-25%)
 roles:
-- developer
+- business-user
 products:
 - office
 - office-excel

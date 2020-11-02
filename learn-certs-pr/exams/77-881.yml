@@ -6,32 +6,21 @@ metadata:
 uid: exam.77-881
 displayName: 77-881
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   El usuario de Microsoft Office Word 2010 de nivel básico debe poder navegar el software de Microsoft Office Word 2010 a nivel funcional. Deben estar familiarizados y saber cómo usar al menos el 80 por ciento de las características y funcionalidades de Microsoft Office Word 2010. El usuario de nivel básico debe poder usar Microsoft Office Word 2010 para crear y editar documentos de aspecto profesional para diversos propósitos y situaciones. Los usuarios incluirían personas de una amplia variedad de roles laborales en casi todas las áreas de la vida profesional, estudiantil y personal.
 subTitle: El usuario de Microsoft Office Word 2010 de nivel básico debe poder navegar el software de Microsoft Office Word 2010 a nivel funcional. Deben estar familiarizados y saber cómo usar al menos el 80 por ciento de las características y funcionalidades de Microsoft Office Word 2010. El usuario de nivel básico debe poder usar Microsoft Office Word 2010 para crear y editar documentos de aspecto profesional para diversos propósitos y situaciones. Los usuarios incluirían personas de una amplia variedad de roles laborales en casi todas las áreas de la vida profesional, estudiantil y personal.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
 - Compartir y mantener documentos
-- Dar formato al contenido
-- Aplicar diseño de página y reutilizar contenido
+- dar formato al contenido
+- Aplicar diseño de página y contenido reutilizable
 - Incluir ilustraciones y gráficos en un documento
 - Revisar documentos
 - Aplicar referencias e hipervínculos
@@ -44,13 +33,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

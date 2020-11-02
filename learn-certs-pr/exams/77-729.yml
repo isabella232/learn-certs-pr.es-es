@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Para superar el examen, los candidatos deben tener conocimientos básicos del entorno PowerPoint y demostrar la correcta aplicación de PowerPoint 2016. Tendrán que crear, editar y mejorar las presentaciones y los pases de diapositivas. Entre los ejemplos se incluyen presentaciones comerciales de nivel profesional, formación de empleados, material educativo y presentaciones de diapositivas para kioscos.
 
@@ -42,17 +42,19 @@ levels:
 - intermediate
 skills:
 - Crear y administrar presentaciones (30-35%)
-- Insertar y dar formato a texto, formas e imágenes (20-25%)
-- Insertar tablas, gráficos, elementos gráficos SmartArt y medios (20-25%)
-- Aplicar transiciones y animaciones (10-15%)
-- Administrar varias presentaciones (5-10%)
+- insertar y dar formato a texto, formas e imágenes (20-25%)
+- insertar tablas, gráficas, SmartArt y archivos mutimedia (20-25%)
+- aplicar transiciones y animaciones (10-15%)
+- administrar presentaciones múltiples (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
@@ -60,7 +62,7 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

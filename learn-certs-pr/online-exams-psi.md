@@ -2,16 +2,17 @@
 title: Acerca de los exámenes en línea con PSI | Microsoft Docs
 description: Acerca de los exámenes en línea con PSI 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Acerca de los exámenes en línea con PSI
 
-Los exámenes de certificación de conceptos básicos y basados en roles que forman parte de la [oferta de examen para solicitantes de empleo](https://aka.ms/skillscert) deben realizarse en línea a través de PSI. Realizar un examen en línea proporciona una experiencia completamente digital en la comodidad de su hogar u oficina, a la vez que mantiene la integridad de los resultados del examen al ser monitoreado por un supervisor a través de una cámara web y un micrófono. Para comprender cómo es la experiencia, [vea el vídeo de YouTube de PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) y obtenga más información sobre cómo tener exámenes supervisados en línea con PSI.
+Los exámenes de certificación de conceptos básicos y basados en roles que forman parte de la [oferta de examen de USD15 para solicitantes de empleo](https://aka.ms/skillscert) deben realizarse en línea a través de PSI, el socio de entrega de exámenes de Microsoft para esta oferta. Realizar un examen en línea proporciona una experiencia completamente digital en la comodidad de su hogar u oficina, a la vez que mantiene la integridad de los resultados del examen al ser monitoreado por un supervisor a través de una cámara web y un micrófono. Para comprender cómo es la experiencia, [vea el vídeo de YouTube de PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) y obtenga más información sobre cómo tener exámenes supervisados en línea con PSI.
 
 ## <a name="participating-countries-and-supported-languages"></a> Países que participan e idiomas admitidos
 
@@ -19,11 +20,11 @@ Los exámenes en línea con PSI están disponibles en la mayoría de los países
 
 ## Antes de programar un examen en línea
 
-1. Lea los [requisitos del sistema](#system-requirements) y los [requisitos del protocolo de prueba](#testing-protocol-requirements) en esta página.
-2. Complete la [verificación del sistema](#run-a-system-check) requerida en el mismo ordenador y en la misma ubicación desde donde realizará la prueba para garantizar la compatibilidad con el software de supervisión en línea.
-3. Confirme que su identificación cumpla con los requisitos (lea los [requisitos de verificación de identidad](/learn/certifications/online-exams-psi#identity-verification-requirements) a continuación) y que el nombre en su perfil de certificación de Microsoft, utilizado al registrarse para la cita del examen, está al día. Para realizar el examen, debe coincidir su nombre utilizado para ingresar a la cita del examen con la identificación que presentará.
+1 Lea los [requisitos del sistema](#system-requirements) y los [requisitos del protocolo de prueba](#testing-protocol-requirements) en esta página.
+2 Complete la [verificación del sistema](#run-a-system-check) requerida en el mismo ordenador y en la misma ubicación desde donde realizará la prueba para garantizar la compatibilidad con el software de supervisión en línea.
+3 Confirme que su identificación cumpla con los requisitos (lea los [requisitos de verificación de identidad](/learn/certifications/online-exams-psi#identity-verification-requirements) a continuación) y que el nombre en su perfil de certificación de Microsoft, utilizado al registrarse para la cita del examen, está al día. Para realizar el examen, debe coincidir su nombre utilizado para ingresar a la cita del examen con la identificación que presentará.
 
-Si desea solicitar adaptaciones para el examen, [envíe una solicitud de adaptaciones con PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) antes de programar un examen; PSI responderá dentro de las 24 a 48 horas hábiles.
+Si desea solicitar adaptaciones para el examen, [envíe una solicitud de adaptaciones con PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de programar un examen; PSI responderá dentro de las 24 a 48 horas hábiles.
 
 ## <a name="system-requirements"></a> Requisitos del sistema
 
@@ -150,11 +151,12 @@ El entorno de oficina o doméstico debe cumplir los siguientes requisitos:
 ### <a name="identity-verification-requirements"></a> Requisitos de verificación de identidad:
 
 Debe presentar un documento de identidad actual y oficial, como alguno de los siguientes:
+
   - Licencia de conductor
   - Pasaporte
   - Tarjeta de identificación (tarjeta de identidad nacional/estatal/provincial)
   - Tarjeta de registro de extranjero (tarjeta verde, residente permanente, visa)
-  - Identificación del idioma local emitida por el gobierno (no en caracteres romanos): _solo se acepta si se emite desde el país en el que el candidato realiza la prueba_
+  - Identificación del idioma local emitida por el gobierno (no en caracteres romanos): solo se acepta si se emite desde el país en el que el candidato realiza la prueba
 - Se tomará una fotografía de usted y de su fotografía del documento de identidad con la cámara web.
 - El nombre en la ID debe coincidir exactamente con el nombre en su certificación de Microsoft y los perfiles PSI.
 - Si se encuentra en proceso de actualización o renovación de su identificación, tenga en cuenta que no se aceptan formularios de cambio del nombre legal, incluidos los formularios de renovación de ID, para la realización de exámenes en línea.
@@ -199,7 +201,7 @@ Debe presentar un documento de identidad actual y oficial, como alguno de los si
 ### Otra información importante:
 
 - Al igual que con cualquier otro examen de certificación de Microsoft, debe leer y aceptar los términos establecidos en nuestro [acuerdo de no divulgación](/learn/certifications/certification-exam-policies#non-disclosure-agreement) y debe cumplir con el candidato requisitos de conducta. Esto incluye pero no se limita a lo siguiente:
-  - No puede copiar ni registrar preguntas o respuestas del examen por ningún medio. 
+  - No puede copiar ni registrar preguntas o respuestas del examen por ningún medio.
   - No puede compartir o discutir las preguntas o respuestas vistas en el examen con otros.
 - Si no cumple con el [acuerdo de no divulgación](/learn/certifications/certification-exam-policies#non-disclosure-agreement) o si se sospecha que está engañando o manipulando el software de PSI o su subcontratista, o si se detecta que otra persona que no sea usted en la sala donde está sentado durante el examen, el supervisor terminará el examen de inmediato e informará la infracción a PSI y Microsoft, junto con pruebas de audio y/o vídeo. El examen se podrá invalidar y, entre otras medidas, Microsoft podrá anular su certificación e impedirle que participe en el programa Microsoft Certification en el futuro.
 
@@ -222,9 +224,9 @@ El proceso de registro dura unos 15 minutos.
 
 Para comenzar su sesión de prueba y conectarse con un supervisor:
 
-1. Inicie sesión en su [panel de certificación de Microsoft](https://aka.ms/CertDashboard) con el correo electrónico asociado con su perfil de certificación de Microsoft que está registrado para el examen.
-2. En la sección **Citas**, seleccione "**Iniciar examen en línea**".
-3. Se lo llevará a la plataforma de programación de PSI y verá el botón "Iniciar examen". Seleccione "**Iniciar examen**" para iniciar la descarga segura del navegador. Continúe con el proceso de registro automático y espere a que un supervisor se comunique con usted.
+1 Inicie sesión en su [panel de certificación de Microsoft](https://aka.ms/CertDashboard) con el correo electrónico asociado con su perfil de certificación de Microsoft que está registrado para el examen.
+2 En la sección **Citas**, seleccione "**Iniciar examen en línea**".
+3 Se lo llevará a la plataforma de programación de PSI y verá el botón "Iniciar examen". Seleccione "**Iniciar examen**" para iniciar la descarga segura del navegador. Continúe con el proceso de registro automático y espere a que un supervisor se comunique con usted.
 
 **Nota** Se le asignará un supervisor a más tardar a la hora de inicio programada de su examen. Si no está conectado con un supervisor 30 minutos **después de la hora programada para el examen**, [comuníquese con el soporte de PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112).
 
@@ -251,7 +253,7 @@ No, no debe registrarse para un examen en línea con PSI si su sistema no pasa l
 
 ### ¿Cómo solicito adaptaciones para el examen?
 
-Para solicitar adaptaciones para el examen, [envíe una solicitud de adaptaciones a PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) antes de programar un examen. PSI responderá a la solicitud dentro de las 24 a 48 horas hábiles.
+Para solicitar adaptaciones para el examen, [envíe una solicitud de adaptaciones a PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de programar un examen. PSI responderá a la solicitud dentro de las 24 a 48 horas hábiles.
 
 ### ¿Cómo programo un examen en línea con PSI?
 
@@ -263,7 +265,7 @@ Sí, pero debe hacerlo al menos 24 horas antes de la cita del examen. Inicie ses
 
 Nota: La oferta de examen de solicitante de empleo de USD15 debe reclamarse antes del 31 de diciembre de 2020 y el examen debe realizarse antes del 31 de marzo de 2021. La reprogramación del examen se puede realizar en cualquier momento antes del 31 de diciembre de 2020; sin embargo, si cancela su cita para el examen después del 31 de diciembre de 2020, no podrá programar nuevamente con la oferta con descuento.
 
-### ¿Puedo volver a realizar el examen al precio de descuento de 15 USD?
+### ¿Puedo volver a realizar el examen al precio de descuento de 15 USD? 
 
 No, la oferta de examen le da derecho a registrarse y presentarse a una (1) oferta de examen de certificación de Microsoft válida al precio de descuento de USD15 según los [Términos y condiciones](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions) de la oferta. Sin embargo, puede volver a tomar un examen de certificación al precio estándar yendo a la página de selección del examen de certificación y haciendo clic en el botón Programar con Pearson VUE.  
 
@@ -280,7 +282,6 @@ No. Los exámenes son equivalentes en términos de dificultad.
 No. Esta función no está disponible con la entrega de exámenes en línea de PSI. Ver [requisitos del protocolo de prueba](/learn/certifications/online-exams-psi#testing-protocol-requirements).
 
 ### ¿Los exámenes en línea están disponibles en varios idiomas?
-
 Sí. Los exámenes en línea con PSI están disponibles en los siguientes idiomas: Inglés, japonés, coreano, chino simplificado, francés, español y alemán. La capacidad de seleccionar el idioma del examen estará disponible durante el proceso de registro del examen. Tenga en cuenta que el soporte del supervisor y el software de supervisión están disponibles solo en inglés.
 
 ### Si tengo problemas técnicos antes, durante o después del examen en línea, ¿con quién me comunico?
@@ -353,7 +354,7 @@ No, no proporcionamos un nivel de detalle más bajo sobre su desempeño que el q
 
 Cada sección del examen contiene un número distinto de preguntas; por lo tanto, es posible que combinar los resultados de las secciones del examen no refleje su resultado final del examen. En otras palabras, no existe una relación de uno a uno entre los porcentajes informados para cada sección y su estado de aprobado/reprobado.
 
-Además, suele creerse erróneamente que, para aprobar el examen, es necesario responder correctamente al 70 % de las preguntas, ya que la puntuación para aprobar es 700; sin embargo, se trata de una puntuación escalonada. El porcentaje real de preguntas que debe responderse correctamente varía en cada examen y puede ser superior o inferior al 70 %, en función de los comentarios aportados por los expertos de cada materia que nos hayan ayudado a definir la puntuación de corte durante el desarrollo del examen y el mantenimiento continuo y la dificultad de las preguntas presentadas al hacer el examen.
+Además, suele creerse erróneamente que, para aprobar el examen, es necesario responder correctamente al 70% de las preguntas, ya que la puntuación para aprobar es 700; sin embargo, se trata de una puntuación escalonada. El porcentaje real de preguntas que debe responderse correctamente varía en cada examen y puede ser superior o inferior al 70%, en función de los comentarios aportados por los expertos de cada materia que nos hayan ayudado a definir la puntuación de corte durante el desarrollo del examen y el mantenimiento continuo y la dificultad de las preguntas presentadas al hacer el examen.
 
 ### ¿Dónde puedo encontrar información adicional sobre las áreas que debo mejorar?
 

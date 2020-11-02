@@ -8,7 +8,7 @@ displayName: MO-101
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  El examen cubre la capacidad de personalizar los entornos de Word para satisfacer las necesidades del proyecto y mejorar la productividad. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Word a nivel experto y completen las tareas de forma independiente.
+  El examen cubre la habilidad de crear y mantener informes de apariencia profesional, boletines con varias columnas, curriculum vitae y correspondencia comercial. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Word a nivel experto y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en la creación y gestión de documentos profesionales para una variedad de propósitos y situaciones especializadas. El examen cubre la capacidad de personalizar los entornos de Word para satisfacer las necesidades del proyecto y mejorar la productividad. Entre los ejemplos de documentos de nivel experto se incluyen un plan de negocio, un informe de investigación, un libro, un folleto especializado y un correo de envío masivo.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
@@ -18,15 +18,17 @@ providers:
 locales:
 - en
 - es-mx
+- fr
+- de
 levels:
 - intermediate
 skills:
-- Administrar las opciones y los ajustes de los documentos
-- Usar funciones avanzadas de edición y formato
+- Administrar opciones y configuraciones de documentos
+- Utilizar funciones avanzadas de edición y formato
 - Crear elementos de documento personalizados
-- Usar funciones avanzadas de Word
+- Utilizar funciones avanzadas de Word
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word

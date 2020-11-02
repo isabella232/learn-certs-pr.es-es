@@ -1,20 +1,35 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+title: 'Microsoft Office Specialist 2016 Master'
 metadata:
-  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
-  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  title: 'Microsoft Office Specialist 2016 Master'
+  description: 'Microsoft Office Specialist 2016 Master Master'
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.\n\nPara obtener una certificación Master de Microsoft Office Specialist, complete los siguientes requisitos&#58;\n\n- Aprobar cada uno de los tres exámenes requeridos\n  - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)\n  - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)\n  - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)\n- Aprobar uno de los exámenes electivos \n  - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)\n  - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)"
+summary: |+
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.
+
+  Para obtener una certificación Microsoft Office Specialist Master, complete los siguientes requisitos&#58;
+
 subTitle: Esta certificación demuestra que posee el nivel más alto de las habilidades necesarias para usar con absoluto dominio los programas de Office obteniendo una certificación Microsoft Office Specialist Master.
 levels:
 - advanced
 skills:
-- Microsoft Office Excel 2016 (requerido)
-- Microsoft Office PowerPoint 2016 (requerido)
-- Microsoft Office Word 2016 (requerido)
-- Microsoft Office Access 2016 (elija uno)
-- Microsoft Office Outlook 2016 (elija uno)
+- Administrar opciones y configuraciones de documentos
+- Diseñar documentos avanzados
+- Crear referencias avanzadas
+- Crear elementos de Word personalizados
+- Administrar opciones y configuraciones del libro
+- Aplicar formatos y diseños de datos personalizados
+- Crear fórmulas avanzadas
+- Crear gráficos y tablas avanzados
+- Crear y administrar presentaciones
+- Insertar y dar formato a texto, formas e imágenes
+- Insertar tablas, gráficos, SmartArt y elementos multimedia
+- Aplicar transiciones y animaciones
+- Gestionar múltiples presentaciones
+- Otros a determinar por el examen electivo elegido
 roles:
 - business-user
 type: mos
@@ -25,15 +40,16 @@ exams:
 - uid: exam.77-728
 - uid: exam.77-729
 resources:
-- title: Guía de capacitación y certificación
-  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetición de examen
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Soporte para certificaciones
-  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

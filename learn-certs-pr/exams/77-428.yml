@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Excel 2013 Expert Part Two
+title: Microsoft Excel 2013 Expert Part Two
 metadata:
-  title: 'Exam 77-428: Excel 2013 Expert Part Two'
-  description: 'Exam 77-428: Excel 2013 Expert Part Two'
+  title: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
 uid: exam.77-428
 displayName: 77-428
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Los candidatos con nivel experto al examen Excel 2013 deben tener un conocimiento avanzado del entorno de Excel y la capacidad de orientar a otros usuarios en el uso correcto de las características de Excel 2013 de Office Professional Plus. Deben conocer y poder demostrar el uso de características avanzadas y especializadas de la aplicación.
+  Los candidatos con nivel experto al examen Word 2013 deben tener un conocimiento avanzado del entorno de Word y la capacidad de orientar a otros usuarios en el uso correcto de las características de Word 2013. Deben conocer y poder demostrar el uso de características avanzadas y especializadas de la aplicación.
 
   Los candidatos deben poder crear, administrar y distribuir hojas de cálculo profesionales para diversos propósitos y situaciones especializadas, y deben saber cómo personalizar su entorno de Excel para satisfacer las necesidades y mejorar la productividad. Los ejemplos de libro incluyen plantillas empresariales personalizadas, gráficos financieros de varios ejes, tablas de amortización y programaciones de inventario. Los roles de los candidatos pueden incluir contables, analistas financieros, analistas de datos, empleados de banca comercial, etc.
-subTitle: Los candidatos con nivel experto al examen Excel 2013 deben tener un conocimiento avanzado del entorno de Excel y la capacidad de orientar a otros usuarios en el uso correcto de las características de Excel 2013 de Office Professional Plus. Deben conocer y poder demostrar el uso de características avanzadas y especializadas de la aplicación.
+subTitle: Los candidatos con nivel experto al examen Excel 2013 deben tener un conocimiento avanzado del entorno de Excel y la capacidad de orientar a otros usuarios en el uso correcto de las características de Excel 2013 de Office Professional Plus.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
 scheduleExamUrl: https://www.certiport.com/locator
@@ -28,22 +28,25 @@ locales:
 - nl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
-- Administrar y compartir libros
-- Aplicar formatos y diseños personalizados
-- Crear fórmulas avanzadas
-- Crear gráficos y tablas avanzados
+- Administrar y compartir libros de trabajo
+- aplicar formatos y diseños personalizados
+- crear fórmulas avanzadas
+- crear gráficas y tablas avanzadas
 roles:
 - business-user
 products:
 - office-excel
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-excel-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación

@@ -6,32 +6,28 @@ metadata:
 uid: exam.77-888
 displayName: 77-888
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situaci?n del coronavirus (COVID-19), Microsoft est? implementando varios cambios temporales en nuestro programa de capacitaci?n y certificaci?n. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda m?s</a>.</strong><br/><br/></div>
-  
-  Los usuarios expertos de Microsoft Office Excel 2010 pueden usar el software Excel 2010 de manera eficiente y confiable en los niveles de funcionalidad y funci?n. Los usuarios expertos son competentes con f?rmulas avanzadas, funciones y herramientas de an?lisis de datos. Los usuarios expertos pueden manipular los datos para su an?lisis, presentaci?n y colaboraci?n. Adem?s, los usuarios expertos pueden manipular las opciones de Excel para personalizar su entorno para satisfacer diferentes necesidades y mejorar su productividad.
-subTitle: Los usuarios expertos de Microsoft Office Excel 2010 pueden usar el software Excel 2010 de manera eficiente y confiable en los niveles de funcionalidad y funci?n. Los usuarios expertos son competentes con f?rmulas avanzadas, funciones y herramientas de an?lisis de datos. Los usuarios expertos pueden manipular los datos para su an?lisis, presentaci?n y colaboraci?n. Adem?s, los usuarios expertos pueden manipular las opciones de Excel para personalizar su entorno para satisfacer diferentes necesidades y mejorar su productividad.
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+
+  El usuario de Microsoft Office Word 2010 de nivel básico debe poder navegar el software de Microsoft Office Word 2010 a nivel funcional. Los usuarios expertos son competentes con fórmulas avanzadas, funciones y herramientas de análisis de datos. Los usuarios expertos pueden manipular los datos para su análisis, presentación y colaboración. Además, los usuarios expertos pueden manipular las opciones de Excel para personalizar su entorno para satisfacer diferentes necesidades y mejorar su productividad.
+subTitle: Los usuarios expertos de Microsoft Office Excel 2010 pueden usar el software Excel 2010 de manera eficiente y confiable en los niveles de funcionalidad y función. Los usuarios expertos son competentes con fórmulas avanzadas, funciones y herramientas de análisis de datos. Los usuarios expertos pueden manipular los datos para su análisis, presentación y colaboración. Además, los usuarios expertos pueden manipular las opciones de Excel para personalizar su entorno para satisfacer diferentes necesidades y mejorar su productividad.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
 - ko
 - nl
 - ar-sa
-- it
 - pt-br
 levels:
 - beginner
 skills:
-- Compartir y mantener libros de trabajo.
-- Aplicar f?rmulas y funciones
-- Presentaci?n datos visualmente
-- Trabajando con macros y formularios.
+- Compartir y mantener libros
+- Aplicar fórmulas y funciones
+- Presentar datos visualmente
+- Trabajar con macros y formularios
 roles:
 - business-user
 products:
@@ -40,16 +36,16 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay
-  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de ?xito.
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Panel de certificaci?n
+- title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
-  description: Obtenga m?s informaci?n sobre c?mo solicitar un ajuste para su examen.
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
-- title: Pol?ticas de examen y preguntas frecuentes
+- title: Políticas de examen y preguntas frecuentes
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: ../certification-exam-policies.md
 

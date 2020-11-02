@@ -5,21 +5,8 @@ metadata:
   description: 'Exam MB-230: Microsoft Dynamics 365 Customer Service'
 uid: exam.mb-230
 displayName: MB-230
-summary: |-
-  <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen se actualizará el 2 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
-  </div>
-
-  Los candidatos para este examen son consultores funcionales de Dynamics 365 con experiencia en atención al cliente. Los candidatos son responsables de implementar soluciones omnicanal que se centran en el servicio, la calidad, confiabilidad, eficiencia y satisfacción del cliente.
-  <br/>
-
-  Los candidatos diseñan e implementan visualizaciones de gestión de servicios e informes provistos por el arquitecto de soluciones y en colaboración con él. Los candidatos colaboran con el administrador de Dynamics 365 para implementar y actualizar los componentes de la plataforma Power, incluido el conocimiento base, y Forms Pro.
-
-  Los candidatos deben contar conocimiento sólido aplicado para satisfacer las necesidades del usuario a través de atención al cliente de Dynamics 365, incluido el conocimiento profundo de casos, conocimiento base, colas, títulos, Acuerdos de Nivel de Servicio (SLA), visualizaciones y escritorio unificado de servicios.
-
-  Los candidatos deben comprender la terminología de la industria, las prioridades, las normas, metodologías, operaciones de atención al cliente y las mejores prácticas. Los candidatos deben incluir un entendimiento amplio del rol de aplicación de atención al cliente en relación con el paquete Dynamics 365 de aplicaciones junto con un entendimiento básico de la arquitectura de soluciones y el aseguramiento de la calidad.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la configuración; gestionar casos y la base de conocimiento; gestionar colas, derechos y SLA; y configurar Forms Pro.'
+summary: "<div>\n<div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el viernes, 2 de octubre de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>\n</div>\n\nUn consultor funcional de servicio al cliente de Dynamics 365 es el responsable de implementar soluciones omnicanal que se centran en el servicio, la calidad, la confiabilidad, la eficiencia y la satisfacción del cliente.\n<br/> \n\nUn consultor funcional de servicio al cliente de Dynamics 365 implementa y diseña visualizaciones e informes de administración de servicios proporcionados por y en colaboración con el arquitecto de la solución. El consultor funcional colabora con el administrador de participación del cliente para implementar y actualizar los componentes de Power Platform, incluida la gestión del conocimiento, los comentarios de los clientes y los servicios conectados.\n\nUn consultor funcional de servicio al cliente de Dynamics 365 debe tener un conocimiento amplio aplicado del servicio al cliente, que incluye&#58; comprender la terminología, las prioridades, los estándares, las metodologías, las operaciones de servicio al cliente y las mejores prácticas de la industria. El consultor funcional con experiencia en servicio al cliente debe tener un amplio conocimiento aplicado para satisfacer las necesidades de los usuarios a través del servicio al cliente de Dynamics 365, que incluye la amplia comprensión de casos, gestión del conocimiento, colas, derechos, programación de recursos, contratos de nivel de servicio (SLA), visualizaciones, conexiones servicios, conocimientos de servicio al cliente, agentes virtuales de potencia y omnicanal para servicio al cliente. El conocimiento del consultor funcional debe incluir una comprensión completa del rol de la aplicación de servicio al cliente en relación con el conjunto de aplicaciones Dynamics 365 junto con una comprensión básica de la arquitectura de la solución y el control de calidad."
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: gestionar casos y gestión del conocimiento; administrar colas, derechos y acuerdos de nivel de servicio; implementar la programación; implementar omnicanal para servicio al cliente; y gestionar análisis.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,11 +16,12 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el, 2 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Realizar configuración (25-30%)
-- Administrar los casos y la base de conocimientos (30-35%)
-- Administrar colas, derechos y SLA (25-30%)
-- configurar formularios Pro (15-20%)
+- El contenido de este examen se actualizó el, viernes, 2 de octubre de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- Administrar casos y Gestión del conocimiento (20-25%)
+- Administrar colas, derechos y contratos de nivel de servicio (SLA, por sus siglas en inglés) (15-20%)
+- Implementar programación (10-15%)
+- Implementar omnicanal para servicio al cliente (30-35%)
+- Gestionar análisis (10-15%)
 roles:
 - functional-consultant
 products:
@@ -61,10 +49,10 @@ resources:
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

@@ -7,15 +7,14 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen se actualizará el, 28 de septiembre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el lunes, 28 de septiembre de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
 
-  Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que entienden las prácticas recomendadas del negocio, las capacidades de software y la entrega de implementación para que puedan llevar a los miembros del equipo de implementación a implementar soluciones de Dynamics que puedan alcanzar los objetivos de implementación predefinidos.
+  Los Arquitectos de Soluciones para Aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que comprenden las prácticas comerciales recomendadas y las capacidades de software. Lideran a los miembros del equipo para implementar soluciones de Dynamics que puedan lograr los objetivos de implementación predefinidos.
 
   Un arquitecto de soluciones es responsable de la integridad y la entrega exitosa de la solución de extremo a extremo. El arquitecto proporciona orientación crítica durante la preventa durante todo el proceso de diseño y continúa la supervisión durante el resto del ciclo de vida del proyecto para abordar los problemas que surgen durante la implementación y garantizar el logro de los objetivos de implementación.
 
-  El arquitecto de soluciones debe tener una amplia gama de conocimientos y experiencia sobre los estándares de la industria y las capacidades del producto. El arquitecto de soluciones debe tener una amplia experiencia en las áreas funcionales y técnicas de la solución Dynamics. Deben saber sobre plataformas, herramientas y áreas funcionales como finanzas, gestión de la cadena de suministro y fabricación. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
+  El arquitecto de soluciones debe tener un amplio y profundo conocimiento y experiencia en estándares de la industria y capacidades de productos. El arquitecto de soluciones debe tener una amplia experiencia en las áreas funcionales y técnicas de la solución Dynamics. Deben saber sobre plataformas, herramientas y áreas funcionales como finanzas, gestión de la cadena de suministro y fabricación. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: identificar los requisitos de la solución; componentes de soluciones de diseño; y definir pruebas de solución y estrategias de gestión.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -25,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el, 28 de septiembre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, lunes, 28 de septiembre de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Identificar los requisitos de la solución (30-35%)
 - Diseñar componentes de solución (40-45%)
 - Definir estrategias de prueba y gestión de soluciones (25-30%)
@@ -51,10 +50,10 @@ resources:
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

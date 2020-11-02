@@ -7,11 +7,10 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el jueves, 24 de septiembre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará</strong><br/><br/></div>
   </div>
 
-  Los candidatos para este examen son los Microsoft 365 Enterprise Administrators que participan en la evaluación, planificación, migración, implementación y administración de los servicios de Microsoft 365. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
+  Los candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
 
    Los candidatos tienen un conocimiento práctico de las cargas de trabajo de Microsoft 365 y deberían haber sido administradores de al menos una carga de trabajo de Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como servicio). Los candidatos también tienen un conocimiento práctico de las redes, la administración del servidor y los fundamentos de TI, como DNS, Active Directory y PowerShell.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar servicios de dispositivos modernos; implementar la seguridad de Microsoft 365 y la gestión de amenazas; y administrar el control y el cumplimiento de Microsoft 365.'
@@ -25,10 +24,10 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el, 24 de septiembre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el, jueves, 24 de septiembre de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Implementar servicios de dispositivos modernos (30-35%)
-- Implementar la seguridad de Microsoft 365 y la gestión de amenazas (30-35%)
-- Administrar el gobierno y el cumplimiento de Microsoft 365 (35-40%)
+- Implementar la gestión de amenazas y seguridad de Microsoft 365 (30-35%)
+- Gestionar la gobernanza y el cumplimiento de Microsoft 365 (35-40%)
 roles:
 - administrator
 products:
@@ -49,10 +48,10 @@ resources:
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

@@ -14,20 +14,21 @@ summary: |-
 
   Los candidatos colaboran activamente con los miembros del equipo de control de calidad para garantizar que las soluciones cumplan con los requisitos funcionales y no funcionales. Identifican, generan y entregan artefactos para el empaquetado y la implementación a los ingenieros de DevOps, y brindan capacitación en operaciones y mantenimiento a los administradores de Power Platform.
 
-  <div><strong><br/>Nota&#58; Este examen estará disponible alrededor del, 25 de septiembre de 2020.</strong></div>
-subTitle: 'Este examen estará disponible alrededor del, 25 de septiembre de 2020. Este examen mide su capacidad para completar las siguientes tareas: configurar Common Data Service; crear aplicaciones mediante Power Apps; crear y administrar Power Automate; implementar chatbots de Power Virtual Agents; e integrar Power Apps con otras aplicaciones y servicios.'
+  <div><strong><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más <a href="/learn/certifications/certification-exams#participating-in-beta-exams">información sobre el valor y la importancia de los exámenes beta</a>.</strong></div>
+subTitle: 'Este examen mide su capacidad para completar las siguientes tareas: configurar Common Data Service; crear aplicaciones mediante Power Apps; crear y administrar Power Automate; implementar chatbots de Power Virtual Agents; e integrar Power Apps con otras aplicaciones y servicios.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Configurar el servicio de datos comunes (25-30%)
-- Crear aplicaciones usando Power Apps (20-25%)
-- Crear y administrar Power Automate (15-20%)
-- Implementar chatbots de Power Virtual Agents (10-15%)
-- Integrar Power Apps con otras aplicaciones y servicios (15-20%)
+- configurar Common Data Service (25-30%)
+- crear aplicaciones mediante Power Apps (20-25%)
+- crear y administrar Power Automate (15-20%)
+- implementar chatbots de Power Virtual Agents (10-15%)
+- integrar Power Apps con otras aplicaciones y servicios (15-20%)
 roles:
 - business-analyst
 - developer
@@ -41,6 +42,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
@@ -51,10 +66,10 @@ resources:
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
-- title: Soporte para exámenes de certificación
+- title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
 - title: Panel de certificación

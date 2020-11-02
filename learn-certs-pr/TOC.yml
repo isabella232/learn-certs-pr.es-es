@@ -1,8 +1,8 @@
-- name: Certificaciones de Microsoft
+- name: Microsoft Certifications
   href: index.yml
 - name: Offers
   href: deals.md
-- name: Volume licensing
+- name: Licencia de volumen
   href: volume-licensing-program.md
 - name: Microsoft Learning Partners
   href: partners.md
@@ -21,13 +21,38 @@
   href: certification-exams.md
 - name: Examen de Microsoft e insignias de certificación
   href: badges.md
-- name: Acerca de los exámenes en línea
+- name: Acerca de los exámenes en línea con Pearson VUE
   href: online-exams.md
+- name: Acerca de los exámenes en línea con PSI
+  href: online-exams-psi.md
 - name: Políticas de examen y preguntas frecuentes
-  href: certification-exam-policies.md
+  expanded: false
+  items:
+  - name: Introducción general del proceso de examen
+    href: exam-process-overview.md  
+  - name: Política de seguridad  y de repetición de exámenes
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: Política de reprogramación y cancelación de exámenes
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Acuerdo del programa de certificación de Microsoft
+    href: microsoft-certification-program-agreement.md
+  - name: Acuerdo de no divulgación del examen de Microsoft
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Solicite ajustes
+    href: request-accommodations.md
+  - name: Proceso de impugnación de elementos de examen
+    href: exam-item-challenge-process.md
+  - name: Exámenes beta
+    href: beta-exams.md
+  - name: Crédito universitario para exámenes de certificación
+    href: college-credit-for-certification-exams.md
+  - name: Descuentos para estudiantes
+    href: student-discounts.md
 - name: Ayuda de certificación
   href: help.md
-- name: Programa de certificación de Microsoft FAQ 
+- name: Ayuda de Microsoft Official Courseware (MOC)
+  href: certification-and-training-help.md
+- name: Microsoft Certification program FAQs 
   href: microsoft-certification-program-faqs.md
-- name: Transición de Microsoft Learning...
+- name: Mover Microsoft Learning ...
   href: learnfaq.md

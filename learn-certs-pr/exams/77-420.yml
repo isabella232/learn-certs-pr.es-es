@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Excel 2013
+title: Microsoft Excel 2013
 metadata:
-  title: 'Exam 77-420: Excel 2013'
-  description: 'Exam 77-420: Excel 2013'
+  title: 'Exam 77-420: Microsoft Excel 2013'
+  description: 'Exam 77-420: Microsoft Excel 2013'
 uid: exam.77-420
 displayName: 77-420
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  El candidato de nivel básico para el examen de Microsoft Excel 2013 debe tener conocimientos básicos del entorno Excel y la capacidad de completar tareas de forma independiente. Debe conocer y demostrar la aplicación correcta de las funciones principales de Excel 2013. Este candidato debe poder crear y editar un libro con varias hojas de cálculo para diversas finalidades y situaciones. Entre los ejemplos se incluyen presupuestos de apariencia profesional, gráficos de rendimiento del equipo, facturas de ventas y registros de ejercicios. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, contables, formadores y otros.
+  El candidato de nivel básico para el examen de Microsoft Word 2013 debe tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente. Debe conocer y demostrar la aplicación correcta de las funciones principales de Excel 2013. Este candidato debe poder crear y editar un libro con varias hojas de cálculo para diversas finalidades y situaciones. Entre los ejemplos se incluyen presupuestos de apariencia profesional, gráficos de rendimiento del equipo, facturas de ventas y registros de ejercicios. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, contables, formadores y otros.
 subTitle: El candidato de nivel básico para el examen de Microsoft Excel 2013 debe tener conocimientos básicos del entorno Excel y la capacidad de completar tareas de forma independiente. Debe conocer y demostrar la aplicación correcta de las funciones principales de Excel 2013. Este candidato debe poder crear y editar un libro con varias hojas de cálculo para diversas finalidades y situaciones. Entre los ejemplos se incluyen presupuestos de apariencia profesional, gráficos de rendimiento del equipo, facturas de ventas y registros de ejercicios. Los roles de los candidatos pueden incluir estudiantes, personal administrativo, contables, formadores y otros.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,26 +33,28 @@ locales:
 levels:
 - beginner
 skills:
-- Crear y administrar hojas de cálculo y libros
-- Crear celdas e intervalos
-- Crear tablas
-- Aplicar fórmulas y funciones
-- Crear gráficos y objetos
+- Crear y administrar hojas de trabajo y libros de trabajo
+- crear celdas y rangos
+- crear tablas
+- aplicar fórmulas y funciones
+- crear gráficas y objetos
 roles:
 - business-user
 products:
 - office
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-excel-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Request accommodations
+- title: Solicite ajustes
   description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
   href: ../request-accommodations.md
 - title: Políticas de examen y preguntas frecuentes

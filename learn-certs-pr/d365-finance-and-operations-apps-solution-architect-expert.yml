@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que entienden las prácticas recomendadas del negocio, las capacidades de software y la entrega de implementación para que puedan llevar a los miembros del equipo de implementación a implementar soluciones de Dynamics que puedan alcanzar los objetivos de implementación predefinidos.
+  description: Los Arquitectos de Soluciones para Aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que comprenden las prácticas comerciales recomendadas y las capacidades de software. Lideran a los miembros del equipo para implementar soluciones de Dynamics que puedan lograr los objetivos de implementación predefinidos.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
-  Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que entienden las prácticas recomendadas del negocio, las capacidades de software y la entrega de implementación para que puedan llevar a los miembros del equipo de implementación a implementar soluciones de Dynamics que puedan alcanzar los objetivos de implementación predefinidos.
-subTitle: Los arquitectos de soluciones para aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que entienden las prácticas recomendadas del negocio, las capacidades de software y la entrega de implementación para que puedan llevar a los miembros del equipo de implementación a implementar soluciones de Dynamics que puedan alcanzar los objetivos de implementación predefinidos.
+  Los Arquitectos de Soluciones para Aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que comprenden las prácticas comerciales recomendadas y las capacidades de software. Lideran a los miembros del equipo para implementar soluciones de Dynamics que puedan lograr los objetivos de implementación predefinidos.
+subTitle: Los Arquitectos de Soluciones para Aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que comprenden las prácticas comerciales recomendadas y las capacidades de software. Lideran a los miembros del equipo para implementar soluciones de Dynamics que puedan lograr los objetivos de implementación predefinidos.
 levels:
 - advanced
 skills:
@@ -51,7 +51,7 @@ resources:
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
-- title: Exam Replay
+- title: Reproducción de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Panel de certificación

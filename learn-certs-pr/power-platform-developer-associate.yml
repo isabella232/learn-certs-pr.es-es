@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Esta certificación estará disponible alrededor del, 25 de septiembre de 2020. Los candidatos para la certificación Microsoft Power Platform Developer Associate diseñan, desarrollan, protegen y solucionan problemas de las soluciones de Power Platform.
+  description: Los candidatos para la certificación Microsoft Power Platform Developer Associate diseñan, desarrollan, protegen y solucionan problemas de las soluciones de Power Platform.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -13,19 +13,17 @@ summary: |-
   Los candidatos deben tener un sólido conocimiento de aplicación de los servicios de Power Platform. Los candidatos tienen un conocimiento profundo de sus capacidades, límites y limitaciones. Deben tener un conocimiento básico de las prácticas de DevOps para Power Platform.
 
   Su experiencia de desarrollo para este rol debe incluir servicios de Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, servicios web RESTful, ASP.NET y Power BI.
-
-  <div><br/><strong>Nota&#58; Esta certificación estará disponible alrededor del, 25 de septiembre de 2020.</strong></div>
-subTitle: Esta certificación estará disponible alrededor del, 25 de septiembre de 2020. Los candidatos para la certificación Microsoft Power Platform Developer Associate diseñan, desarrollan, protegen y solucionan problemas de las soluciones de Power Platform.
+subTitle: Los candidatos para la certificación Microsoft Power Platform Developer Associate diseñan, desarrollan, protegen y solucionan problemas de las soluciones de Power Platform.
 levels:
 - intermediate
 skills:
-- Crear un diseño técnico
-- Configurar el servicio de datos comunes
-- Crear y configurar Power Apps
-- Configurar la automatización de procesos comerciales
-- Extender la experiencia del usuario
-- Extender la plataforma
-- Desarrollar integraciones
+- crear un diseño técnico
+- configurar el servicio de datos comunes
+- crear y configurar Power Apps
+- configurar la automatización de procesos comerciales
+- ampliar la experiencia del usuario
+- extender la plataforma
+- desarrollar integraciones
 roles:
 - developer
 type: role-based
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
@@ -46,7 +54,7 @@ resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: deals.md
 - title: Panel de certificación

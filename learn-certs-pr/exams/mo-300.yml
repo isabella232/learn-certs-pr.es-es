@@ -30,16 +30,18 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
+- ja
 levels:
 - intermediate
 skills:
-- Administrar presentaciones
-- Administrar diapositivas
+- Gestionar presentaciones
+- Gestionar diapositivas
 - Insertar y dar formato a texto, formas e imágenes
-- Insertar tablas, gráficos, smartArt, modelos 3D y medios
+- Insertar tablas, gráficos, SmartArt, modelos 3D e imágenes multimedia
 - Aplicar transiciones y animaciones
 roles:
-- developer
+- business-user
 products:
 - office
 - office-powerpoint

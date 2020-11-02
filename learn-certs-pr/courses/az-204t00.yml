@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Developing Solutions for Microsoft Azure
+title: Developing solutions for Microsoft Azure
 metadata:
-  title: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
-  description: 'Course AZ-204T00-A: Developing Solutions for Microsoft Azure'
+  title: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+  description: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
   iltScheduling: true
 uid: course.az-204t00
 courseNumber: 'AZ-204T00-A'
@@ -46,115 +46,100 @@ products:
 exams:
 - uid: exam.az-204
 summary: |-
-  Este curso enseña a los desarrolladores cómo crear soluciones de extremo a extremo en Microsoft Azure. Los estudiantes aprenderán cómo implementar soluciones informáticas de Azure, crear funciones de Azure, implementar y administrar aplicaciones web, desarrollar soluciones que utilicen el almacenamiento de Azure, implementar autenticación y autorización, y asegurar sus soluciones mediante KeyVault e Identidades administradas. Los estudiantes también aprenderán cómo conectarse y consumir servicios de Azure y servicios de terceros, e incluir modelos basados ​​en eventos y mensajes en sus soluciones. El curso también cubre el monitoreo, la resolución de problemas y la optimización de las soluciones de Azure.
+  Este curso enseña a los desarrolladores cómo crear soluciones integrales en Microsoft Azure. Los estudiantes aprenderán a implementar soluciones de computación Azure, crear Azure Functions, implementar y administrar aplicaciones web, desarrollar soluciones utilizando Azure storage, implementar autenticación y autorización, y asegurar sus soluciones utilizando KeyVault y Managed Identities. Los estudiantes también aprenderán a conectarse y consumir los servicios de Azure y los servicios de terceros, y a incluir en sus soluciones modelos basados en eventos y mensajes. El curso también abarca la supervisión, la solución de problemas y la optimización de Azure solutions.
 
-  #### Perfil de audiencia
-  Los estudiantes en este curso están interesados ​​en el desarrollo de Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
+  ###Perfil del asistente
+  Los estudiantes de este curso están interesados en el desarrollo del Azure o en aprobar el examen de certificación de Microsoft Azure Developer Associate.
 prerequisitesSection: |-
-  Los estudiantes deben tener 1 a 2 años de experiencia en desarrollo profesional y experiencia con Microsoft Azure. Deben poder programar en un lenguaje compatible con Azure.
+  Los estudiantes deben tener 1-2 años de experiencia en desarrollo profesional y experiencia con Microsoft Azure. Deben ser capaces de programar en un lenguaje soportado por el Azure.
 outlineSection: |-
-  ### Módulo 1&#58; rear Azure App Service Web Apps
-  Los estudiantes aprenderán cómo crear una aplicación web en la plataforma Azure App Service. Aprenderán cómo funciona la plataforma y cómo crear, configurar, escalar, proteger e implementar en la plataforma de App Service.
-  #### Lecciones
-  - Conceptos básicos de Azure App Service
+  ### Módulo 1&#58; Creación de aplicaciones web de Azure App Service
+  Los estudiantes aprenderán a construir una aplicación web en la plataforma Azure App Service. Aprenderán cómo funciona la plataforma y cómo crear, configurar, escalar, asegurar y desplegar en la plataforma App Service.
+
+  ### Lecciones
+  - Conceptos básicos de Azur App Service
   - Creación de una aplicación web de Azure App Service
-  - Configurar y monitorear App Service apps
-  - Escalar App Service apps
-  - Entornos de almacenamiento de Azure App Service
+  - Configuración y supervisión de aplicaciones App Service 
+  - Escalado de aplicaciones de App Service
+  - Entornos de puesta en escena de Azure App Service
 
+  ### Módulo 2&#58; Implementar las funciones de Azure
+  Este módulo cubre la creación de aplicaciones de funciones, y cómo integrar los activadores y las entradas/salidas en la aplicación.
+  ### Lecciones
+  - Resumen de las funciones del Azure
+  - Desarrollo de las funciones Azure
+  - Implementar funciones duraderas
 
-  ### Módulo 2&#58; Implementación de funciones de Azure
-  Este módulo cubre la creación de aplicaciones de funciones y cómo integrar disparadores y entradas/salidas en la aplicación.
+  ### Módulo 3&#58; Desarrollar soluciones que utilicen el almacenamiento de blob
+
   #### Lecciones
-  - Descripción general de Azure Functions
-  - Desarrollar funciones de Azure
-  - Implementar funciones durables
-
-
-  ### Módulo 3&#58; esarrolle soluciones que utilicen el almacenamiento de blob
-  Los estudiantes aprenderán cómo funciona Azure Blob Storage, cómo administrar los datos a través del ciclo de vida de almacenamiento de blob en caliente / frío / archivo, y cómo usar la biblioteca de cliente de Azure Blob Storage para administrar datos y metadatos.
-  #### Lecciones
-  - Conceptos básicos de Azure Blob storage
-  - Administrar el ciclo de vida de almacenamiento de Azure Blob
-  - Trabajar con Azure Blob Storage
-
+  - Conceptos básicos del almacenamiento de Azure Blob
+  - Manejando el ciclo de vida del almacenamiento de Azure Blob
+  - Trabajar con el almacenamiento de Azure Blob
 
   ### Módulo 4&#58; Desarrollar soluciones que utilicen el almacenamiento de Cosmos DB
-  Los estudiantes aprenderán cómo se estructura Cosmos DB y cómo se gestiona la consistencia de los datos. Los estudiantes también aprenderán cómo crear cuentas de Cosmos DB y crear bases de datos, contenedores y elementos utilizando una combinación de Azure Portal y .NET SDK.
+  Los estudiantes aprenderán cómo está estructurada la Cosmos DB y cómo se gestiona la consistencia de los datos. Los estudiantes también aprenderán a crear cuentas en Cosmos DB y a crear bases de datos, contenedores y artículos utilizando una mezcla del Azure Portal y el . NET SDK.
   #### Lecciones
-  - Información general de Azure Cosmos DB
-  - estructura de datos de Azure Cosmos DB
-  - Trabajar con recursos y datos de Azure Cosmos DB
-  
-  
+  - Visión general de Azure Cosmos DB
+  - Estructura de datos de Azure Cosmos DB
+  - Trabajando con los recursos y datos de Azure Cosmos DB
+
   ### Módulo 5&#58; Implementar soluciones IaaS
-  Este módulo instruye a los estudiantes sobre cómo usar crear VM e imágenes de contenedor para usar en sus soluciones. Cubre la creación de máquinas virtuales, el uso de plantillas ARM para automatizar la implementación de recursos, crear y administrar imágenes de Docker, publicar una imagen en Azure Container Registry y ejecutar un contenedor en Azure Container Instances.
+  Este módulo instruye a los estudiantes en cómo usar la creación de VMs e imágenes de contenedor para usar en sus soluciones. Cubre la creación de VMs, el uso de plantillas ARM para automatizar el despliegue de recursos, la creación y gestión de imágenes de contenedores, la publicar una imagen en el Azure Container Registry, y la ejecución de un contenedor en Azure Container Instances.
   #### Lecciones
-  - Aprovisionamiento de VM en Azure
-  - Crear y implementar plantillas ARM
-  - Creación de imágenes de contenedor para soluciones
-  - Publicar una imagen de contenedor en Azure Container Registry
-  - Crear y ejecutar imágenes de contenedor en Azure Container Instances
-  
-  
-  ### Módulo 6&#58; Implementar autenticación y autorización de usuario
-  Los estudiantes aprenderán cómo aprovechar la plataforma Microsoft Identity Platform v2.0 para administrar la autenticación y el acceso a los recursos. Los estudiantes también aprenderán cómo usar la Biblioteca de autenticación de Microsoft y Microsoft Graph para autenticar a un usuario y recuperar información almacenada en Azure, y cómo y cuándo usar Firmas de acceso compartido.
+
+  - El aprovisionamiento de los VM en Azure
+  - Crear y desplegar plantillas de ARM
+  - Crear imágenes de contenedores para soluciones
+  - Publicar una imagen de un contenedor en el Azure Container Registry
+  - Crear y ejecutar imágenes de contenedores en Azure Container Instances
+
+  ### Módulo 6&#58; Implementar la autenticación y autorización de usuarios
+  Los estudiantes aprenderán a aprovechar la Plataforma de Microsoft Identity v2.0 para gestionar la autenticación y el acceso a los recursos. Los estudiantes también aprenderán a utilizar la Microsoft Authentication Library y Microsoft Graph para identificar a un usuario y recuperar la información almacenada en Azure, y cómo y cuándo utilizar Shared Access Signatures.
   #### Lecciones
   - Microsoft Identity Platform v2.0
-  - Autenticación con la Biblioteca de autenticación de Microsoft
-  - Usar Microsoft Graph
+  - Autenticación usando Microsoft Authentication Library
+  - Usando Microsoft Graph
   - Autorización de operaciones de datos en Azure Storage
-  
-  
-  ### Módulo 7&#58; Implementar soluciones seguras en la nube
-  Este módulo cubre cómo proteger la información (claves, secretos, certificados) que una aplicación usa para acceder a los recursos. También cubre la seguridad de la información de configuración de la aplicación.
+
+  ### Módulo 7&#58; Implementar soluciones de nube segura
+  Este módulo cubre cómo asegurar la información (claves, secretos, certificados) que una aplicación utiliza para acceder a los recursos. También cubre la seguridad de la información de configuración de la aplicación.
   #### Lecciones
-  - Administrar claves, secretos y certificados utilizando la API KeyVault
-  - Implementación de identidades administradas para recursos de Azure
-  - Proteger los datos de configuración de la aplicación mediante Configuración de la aplicación de Azure
-  
-  
-  ### Módulo 8&#58; Implementar administración API
-  Los estudiantes aprenderán cómo publicar API, crear políticas para administrar la información compartida a través de la API y administrar el acceso a sus API mediante el servicio Azure API Management.
+  - Administrar las claves, secretos y certificados mediante la KeyVault API
+  - Implementar Identidades Gestionadas para los recursos de Azure
+  - Asegurar los datos de configuración de la aplicación mediante el uso de Azure App Configuration
+
+  ### Módulo 8&#58; Implementar API Management
+  Los estudiantes aprenderán a publicar las API, crear políticas para administrar la información compartida a través de la API y administrar el acceso a sus API mediante el Azure API Management service.
   #### Lecciones
-  - Descripción general de API Management
-  - Definir políticas para API
-  - Aseguramiento de sus API
-  
-  
-  ### Módulo 9&#58; Desarrollar aplicaciones App Service Logic
-  Este módulo enseña a los estudiantes cómo usar Azure Logic Apps para programar, automatizar y orquestar tareas, procesos comerciales, flujos de trabajo y servicios en empresas u organizaciones.
+  - Visión general de API Management
+  - Definición de políticas para las API
+  - Asegurando tus APIs
+
+  ### Módulo 10&#58; Desarrollar soluciones basadas en eventos
+  Los estudiantes aprenderán a construir aplicaciones con arquitecturas basadas en eventos.
   #### Lecciones
-  - Descripción general de Azure Logic Apps
-  - Crear conectores para Logic Apps
-  
-  
-  ### Módulo 10&#58; Desarrollo de soluciones basadas en eventos.
-  Los estudiantes aprenderán cómo crear aplicaciones con arquitecturas basadas en eventos.
+  - Implementar soluciones que usen Azure Event Grid
+  - Implementar soluciones que usen Azure Event Hubs
+  - Implementar soluciones que usen Azure Notification Hubs
+
+  ### Módulo 11&#58; Desarrollar soluciones basadas en mensajes
+  Los estudiantes aprenderán a construir aplicaciones con arquitecturas basadas en mensajes.
   #### Lecciones
-  - Implementación de soluciones que usen Azure Event Grid
-  - Implementación de soluciones que usen Azure Event Hubs
-  - Implementación soluciones que usen Azure Notification Hubs
-  
-  
-  ### Módulo 11&#58; Desarrollo de soluciones basadas en mensajes.
-  Los estudiantes aprenderán cómo crear aplicaciones con arquitecturas basadas en mensajes.
+  - Implementar soluciones que usen Azure Service Bus
+  - Implementar soluciones que usen colas Azure Queue Storage 
+
+  ### Módulo 12&#58; Monitorizar y optimizar las soluciones de Azure
+  Este módulo enseña a los estudiantes a instrumentar su código para la telemetría y a analizar y solucionar problemas de sus aplicaciones.
   #### Lecciones
-  - Implementación de soluciones que utilicen Azure Service Bus
-  - Implementación de soluciones que utilicen colas Azure Queue Storage
-  
-  
-  ### Módulo 12&#58; Monitorear y optimizar soluciones Azure
-  Este módulo enseña a los estudiantes cómo instrumentar su código para telemetría y cómo analizar y solucionar problemas de sus aplicaciones.
-  #### Lecciones
-  - Descripción general de la supervisión en Azure
-  - Instrumentar una aplicación para monitorear
+  - Panorama general de monitorización en Azure
+  - Instrumentar una aplicación para  monitorizar
   - Análisis y solución de problemas de aplicaciones
-  - Implementación de códigos que maneja fallas transitorias
-  
-  
-  ### Module  13&#58; Integración de almacenamiento en caché y la entrega de contenido dentro de las soluciones
-  Los estudiantes aprenderán a usar diferentes servicios de almacenamiento en caché para mejorar el rendimiento de sus aplicaciones.
+  - Implementar un código que maneje fallos transitorios
+
+  ### Módulo 13&#58; Integrar el caching y la entrega del contenido dentro de las soluciones
+  Los estudiantes aprenderán a utilizar diferentes servicios de caching para mejorar el rendimiento de sus aplicaciones.
   #### Lecciones
   - Desarrollar para Azure Cache para Redis
-  - Desarrollar para almacenamiento en CDN
+  - Desarrollo para el almacenamiento en CDNs
+

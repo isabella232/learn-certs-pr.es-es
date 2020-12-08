@@ -36,22 +36,33 @@ summary: |-
   #### Perfil de audiencia
   La audiencia principal para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido desde la plataforma de datos. tecnologías que existen en Microsoft Azure.
 prerequisitesSection: |-
-  Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  Los estudiantes exitosos comienzan este curso con el conocimiento de los conceptos de la computación en nube y la experiencia profesional con las soluciones de datos.
+  
+  Específicamente&#58;
+  - La creación de recursos de nube en Microsoft Azure
+  - Identificación de casos de uso de grandes datos
+  - Comprender cómo los servicios de computación en la nube pueden resolver las necesidades comunes de las empresas
+  
+  Para obtener estos requisitos previos, tome la siguiente capacitación gratuita online antes de asistir al curso&#58;
+  - [Explorar los conceptos de la nube de Microsoft](/learn/paths/explore-microsoft-azure-cloud-conceptsts/)
+  - [Identificar las tareas de un ingeniero de datos](/learn/modules/data-engineering-processes/)
+  - [Servicios centrales de nubes - Opciones de almacenamiento de datos en Azure](/learn/modules/intro-to-data-in-azure/)
+  - [Servicios clave de la nube - Opciones de computación en Azure](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
-  ### Module  1&#58; Azure para el ingeniero de datos
+  ### Módulo 1&#58; Azure para el ingeniero de datos
   Este módulo explora cómo ha evolucionado el mundo de los datos y cómo las tecnologías de la plataforma de datos en la nube ofrecen nuevas oportunidades para que las empresas exploren sus datos de diferentes maneras. Los estudiantes obtendrán una visión general de las diversas tecnologías de plataforma de datos que están disponibles y cómo la función y las responsabilidades de un ingeniero de datos han evolucionado para funcionar en este nuevo mundo en beneficio de una organización.
   #### Lecciones
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
   - Describir los casos de uso de la nube en un estudio de caso
-  #### Laboratorio &#58; Azure para el ingeniero de datos
+  #### Laboratorio&#58; Azure para el ingeniero de datos
   - Identificar el mundo en evolución de los datos.
   - Determinar los servicios de Azure Data Platform
   - Identificar tareas a realizar por un ingeniero de datos
   - Finalizar los entregables de ingeniería de datos
-  Después de completar este módulo, los estudiantes podrán;
+
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
@@ -67,20 +78,20 @@ outlineSection: |-
   - Cargar datos en Azure Data Lake
 
 
-  #### Laboratorio &#58; Trabajo con almacenamiento de datos
+  #### Laboratorio&#58; Trabajo con almacenamiento de datos
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Data Lake
   - Cargar datos en Data Lake Store
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Azure Data Lake
   - Cargar datos en Azure Data Lake
 
 
-  ### Module  3&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
+  ### Módulo 3&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
   Este módulo presenta a los estudiantes los Azure Databricks y cómo un ingeniero de datos trabaja con él para permitir que una organización realice proyectos de Team Data Science. Aprenderán los fundamentos de los cuadernos Azure Databricks y Apache Spark; cómo aprovisionar el servicio y los espacios de trabajo; y cómo realizar la tarea de preparación de datos que puede contribuir al proyecto de ciencia de datos.
   #### Lecciones
   - Explicar Azure Databricks
@@ -89,13 +100,13 @@ outlineSection: |-
   - Realizar transformaciones con Azure Databricks
 
 
-  #### Laboratorio &#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
+  #### Laboratorio&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
@@ -111,13 +122,13 @@ outlineSection: |-
   - Distribuir datos globalmente con Azure Cosmos DB
 
 
-  #### Laboratorio &#58; Creación de bases de datos distribuidas globalmente con Cosmos DB
+  #### Laboratorio&#58; Creación de bases de datos distribuidas globalmente con Cosmos DB
   - Crear una Azure Cosmos DB
   - Insertar y consultar datos en Azure Cosmos DB
   - Crear una aplicación .Net Core para Azure Cosmos DB con VS Code
   - Distribuir datos globalmente con Azure Cosmos DB
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Crear una base de datos Azure Cosmos DB creada a escala
   - Insertar y consultar datos en su base de datos Azure Cosmos DB
   - Crear una aplicación .NET Core Azure para Cosmos DB en Visual Studio Code
@@ -133,13 +144,13 @@ outlineSection: |-
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
 
 
-  #### Laboratorio &#58; Trabajar con almacenes de datos relacionales en la nube
+  #### Laboratorio&#58; Trabajar con almacenes de datos relacionales en la nube
   - Usar Azure SQL Database
   - Describir Azure SQL Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Usar Azure SQL Database
   - Describir Azure Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
@@ -154,7 +165,7 @@ outlineSection: |-
   - Procesamiento de datos con trabajos de Stream Analytics
 
 
-  #### Laboratorio &#58; Realización de análisis en tiempo real con Stream Analytics
+  #### Laboratorio&#58; Realización de análisis en tiempo real con Stream Analytics
   - Explicar los flujos de datos y el procesamiento de eventos.
   - Ingestión de datos con Event Hubs
   - Procesamiento de datos con trabajos de Stream Analytics
@@ -173,7 +184,7 @@ outlineSection: |-
   - Azure Data Factory y Databricks
 
 
-  #### Laboratorio &#58;Orquestando el movimiento de datos con Azure Data Factory
+  #### Laboratorio&#58;Orquestando el movimiento de datos con Azure Data Factory
   - Explicar cómo funciona Data Factory
   - Componentes de Azure Data Factory
   - Azure Data Factory y Databricks
@@ -194,7 +205,7 @@ outlineSection: |-
   - Asegurar la transmisión de datos
 
 
-  #### Laboratorio &#58; Asegurar las plataformas de datos de Azure
+  #### Laboratorio&#58; Asegurar las plataformas de datos de Azure
   - Una introducción a la seguridad.
   - Componentes clave de seguridad
   - Asegurar cuentas de almacenamiento y almacenamiento de Data Lake
@@ -218,13 +229,13 @@ outlineSection: |-
   - Administrar la recuperación ante desastres
 
 
-  #### Laboratorio &#58; Monitoreo y solución de problemas de almacenamiento y procesamiento de datos
+  #### Laboratorio&#58; Monitoreo y solución de problemas de almacenamiento y procesamiento de datos
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
 
-  Después de completar este módulo, los estudiantes podrán;
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos

@@ -39,7 +39,7 @@ summary: |-
   #### Perfil de audiencia
   Este curso es adecuado para gerentes de programas y ventas técnicas, con antecedentes generales de TI. Estos estudiantes quieren aprender sobre nuestras ofertas, ver cómo se implementan los componentes y hacer preguntas sobre productos y características. Este curso no proporciona un pase o tiempo de Azure en el aula para que los estudiantes realicen actividades prácticas. Los estudiantes pueden obtener una prueba gratuita y hacer los recorridos fuera de clase. Este curso es principalmente de conferencias y demostraciones. Este curso es de ayuda para prepararse para el examen AZ-900.
 prerequisitesSection: |-
-  No hay requisitos previos para tomar este curso. No se requiere experiencia técnica en TI, sin embargo, sería beneficioso contar con experiencia o conocimiento general de TI.
+  No hay requisitos previos para tomar este curso. No se requiere experiencia técnica en IT, sin embargo, algún conocimiento o experiencia general en IT sería beneficioso.
 outlineSection: |-
   ### Módulo 1&#58; Conceptos de nube
   En este módulo aprenderá conceptos básicos de la nube.
@@ -64,7 +64,7 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender los servicios principales disponibles con Microsoft Azure
 
-  ### Module 3&#58; Seguridad, privacidad, cumplimiento y confianza
+  ### Módulo 3&#58; Seguridad, privacidad, cumplimiento y confianza
   En este módulo, aprenderá sobre seguridad, privacidad, cumplimiento y confianza con Microsoft Azure.
   #### Lecciones
   - Asegurar la conectividad de red en Azure

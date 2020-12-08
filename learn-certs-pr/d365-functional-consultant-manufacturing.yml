@@ -15,11 +15,12 @@ levels:
 skills:
 - Usar funcionalidades comunes y herramientas de implementación
 - Configurar seguridad, procesos y opciones
-- Realizar la migración de datos
+- Administrar los datos de finanzas y operaciones
 - Validar y asistir la solución
-- Instalar y configurar fabricación
-- Crear y administrar pedidos de producción y Lean
-- Crear, procesar y administrar pedidos de lotes de producción
+- Configurar Dynamics 365 Gestión de la Cadena de Suministro, Fabricación
+- Gestionar los procesos de fabricación
+- Poner en práctica la planificación maestra para la producción
+- Poner en práctica otras características de manufacturación
 roles:
 - functional-consultant
 type: role-based

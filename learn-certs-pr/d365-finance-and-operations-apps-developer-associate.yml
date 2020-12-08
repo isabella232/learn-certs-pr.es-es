@@ -15,7 +15,7 @@ levels:
 skills:
 - Usar funcionalidades comunes y herramientas de implementación
 - Configurar seguridad, procesos y opciones
-- Realizar la migración de datos
+- Administrar los datos de finanzas y operaciones
 - Validar y asistir la solución
 - Plan de Arquitectura y Diseño de Soluciones
 - Aplicar herramientas de desarrollador
@@ -69,4 +69,3 @@ resources:
 - title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: help.md
-

@@ -65,12 +65,12 @@ Si no tiene una cuenta Acclaim, puede crear una cuenta en el sitio de la platafo
 
 ## ¿Cómo obtengo una insignia?
 
-Emitimos insignias para todos los exámenes activos y certificaciones en el programa de certificación de Microsoft con las siguientes excepciones:  
+Emitimos insignias para todos los exámenes activos y certificaciones en el programa de certificación de Microsoft con las siguientes excepciones:
 
 - En los casos en que aprobar un examen implique una certificación, se emite una insignia para la certificación en lugar del examen.
 - Examen 74-343 Gestionar proyectos con Microsoft Project (retirado en julio de 2019).
-- MOS 2010 Exámenes (74-881, 74-882, 74-883, 74-884, 74-885, MB2-887, MB2-888).
-- Microsoft Dynamics CRM Exámenes (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (todos los exámenes se retirarán el 31 de diciembre de 2019).
+- Exámenes y certificaciones del MOS 2010.
+- Exámenes de Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (todos retirados el 31 de diciembre de 2019)).
 - Exámenes y certificaciones heredados. Las insignias no están disponibles para algunos de nuestros exámenes y certificaciones heredados. Si no ve una insignia para un examen o certificación heredada en su perfil Acclaim, no emitimos una para ese examen o certificación.
 
 Si obtuvo una insignia para un examen o certificación que ha sido retirado, aún puede reclamar su credencial a través de la plataforma Acclaim de Credly y compartirla en otras plataformas o por correo electrónico. Vea la respuesta a "¿Tiene insignias no reclamadas?" En Preguntas frecuentes para saber cómo.

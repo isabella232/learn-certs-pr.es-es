@@ -26,7 +26,7 @@ skills:
 - Programar y enviar órdenes de trabajo
 - Administrar la movilidad del servicio de campo
 - Administrar el inventario y las compras
-- Gestionar activos y acuerdos
+- Implementar el Servicio de Campo Conectado
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Recorrido a la certificación
   description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

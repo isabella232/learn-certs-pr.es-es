@@ -13,7 +13,6 @@ ms.author: micsullivan
 
 Las Microsoft Certification pueden llevarle desde el principio de su carrera profesional hasta lo más alto. Las certificaciones pueden mejorar su visibilidad, diferenciarse de sus colegas y validar sus conocimientos y habilidades.
 
-
 ## Registrarse para el examen de Microsoft Certification
 
 Para los exámenes de Microsoft Office Specialist (MOS) y/o cualquier otro examen entregado a través de medios académicos, [regístrese en Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
@@ -28,11 +27,11 @@ La página de detalles del examen consta de la sección "Habilidades medidas", q
 
 #### Cursos impartidos por instructores
 
-[Encuentre formación en un entorno de aula y bajo demanda sobre tecnologías de Microsoft, impartida por Microsoft Certified Trainers.](https://www.microsoft.com/learning/find-partner.aspx)
+[Encuentre formación en un entorno de aula y bajo demanda sobre tecnologías de Microsoft, impartida por Microsoft Certified Trainers.](/learn/certifications/partners)
 
 #### Explore capacitaciones en línea gratuitas
 
-Aprenda nuevas habilidades y descubra el poder de los productos de Microsoft con una guía paso a paso.  
+Aprenda nuevas habilidades y descubra el poder de los productos de Microsoft con una guía paso a paso. 
 [Comience su recorrido hoy explorando nuestras rutas y módulos de aprendizaje.](/learn/browse/)
 
 #### Pruebas prácticas oficiales de Microsoft
@@ -143,8 +142,6 @@ A fin de proteger la seguridad del examen y el valor de nuestras certificaciones
 	<br/>
 </div>
 
-
-
 ## Desarrollo de exámenes
 
 Los exámenes de Microsoft Certification se desarrollan meticulosamente con información procedente de profesionales del sector a fin de reflejar cómo se usan los productos de Microsoft en empresas de todo el mundo.
@@ -176,7 +173,6 @@ Los proveedores independientes de entrega de exámenes administran el examen de 
 9. Mantener /sostener durante la vigencia del examen.
 Microsoft supervisa el desempeño psicométrico de los exámenes a lo largo de su disponibilidad garantizando que sigan siendo medidas válidas y fiables del dominio de la habilidad. Las preguntas que ya no tienen un buen desempeño psicométrico se eliminan y se añaden nuevos elementos a medida que se actualizan las características y funcionalidades y/o se sustituyen los elementos eliminados por motivos psicométricos o por cambios en la tecnología.
 
-
 ## Participación en exámenes beta
 
 Una parte esencial del proceso de desarrollo del examen es el examen beta. Al presentarse al examen en su formato beta, los candidatos nos proporcionan información útil para evaluar la precisión técnica, la relevancia y las características psicométricas de las preguntas antes de que califiquemos a los examinandos.
@@ -185,7 +181,7 @@ Una parte esencial del proceso de desarrollo del examen es el examen beta. Al pr
 
 Los exámenes beta de Microsoft se ofrecen con un 80% de descuento (se requiere código). Los candidatos que aprovechan el 80% de descuento para realizar el examen beta reciben un 25% de descuento en su próximo examen después de que se complete la revisión, como se explica aquí: [Actualizaciones del programa de exámenes Beta de Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Este descuento NO está generalmente disponible para todos los participantes beta. Si paga el examen beta con cualquier otro método, no es elegible para el cupón de descuento del 25%._
 
-Para obtener el código, puede ser miembro de nuestra base de datos de Perfil de PYME, o puede obtenerlo en la sección de Anuncios a la izquierda de nuestra [Política de exámenes y página de preguntas frecuentes](/learn/certifications/certificación -exam -policies). Los participantes cualificados del programa de la base de datos de Perfiles SME recibirán un código de descuento único para participar en exámenes beta, aumentando la probabilidad de conseguir una plaza en el examen beta.
+Para obtener el código, puede ser miembro de nuestra base de datos SME Profile, o puede obtenerlo de los avisos en el [Microsoft Learn Blog](https://aka.ms/learningblog).
 
 El programa de base de datos de Perfil de PYME ahora está alojado en [Microsoft Collaborate](https://aka.ms/collaborate). Vea el blog de la comunidad [¡Ayúdenos a crear exámenes y contenido de aprendizaje! ¡Únase a nuestra base de datos de PYME hoy!](/learn/certifications/posts/help-us-create-exams-and-learning-content) para obtener instrucciones sobre cómo unirse al programa en Collaborate.
 

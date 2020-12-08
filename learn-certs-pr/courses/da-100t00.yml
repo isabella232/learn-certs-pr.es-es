@@ -31,7 +31,15 @@ summary: |-
   #### Perfil de audiencia
   La audiencia para este curso son profesionales de datos y profesionales de inteligencia de negocios que desean aprender cómo realizar análisis de datos con precisión utilizando Power BI. Este curso también está dirigido a aquellas personas que desarrollan informes que visualizan datos de las tecnologías de la plataforma de datos que existen tanto en la nube como en las instalaciones.
 prerequisitesSection: |-
-  Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a la información que se encuentra en el curso Azure Fundamentals.
+  Los analistas de datos exitosos comienzan este rol con la experiencia de trabajar con datos en la nube.
+  
+  Específicamente&#58; 
+  - Comprensión de los conceptos básicos de los datos.
+  - Conocimiento de trabajo con datos relacionales en la nube.
+  - Conocimiento de trabajar con datos no relacionales en la nube.
+  - Conocimiento de los conceptos de análisis y visualización de datos.
+  
+  Puede obtener los requisitos previos y una mejor comprensión de trabajar con datos en Azure completando [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) antes de tomar este curso.
 outlineSection: |-
   ### Módulo 1&#58; Introducción a Microsoft Data Analytics
   Este módulo explora los diferentes roles en el espacio de datos, describe los roles y responsabilidades importantes de un analista de datos y luego explora el panorama del portafolio de Power BI.

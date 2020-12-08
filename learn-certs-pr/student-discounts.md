@@ -18,20 +18,20 @@ Los precios académicos de los exámenes de Microsoft Certified Professional est
 
 Para poder optar a los precios académicos, debe verificar su estado de estudiante antes de programar su examen.
 
-### Aplicación del estado de estudiante a través del perfil de la cuenta
+## Aplicación del estado de estudiante a través del perfil de la cuenta
 
 1. Inicie sesión con las credenciales de su cuenta de Microsoft.
 2. Seleccione **Configuración de perfil** en el menú **Cuenta** situado en la parte superior de la página.
 3. En el menú **Función de trabajo**, seleccione "Estudiante" o asegúrese de que esté seleccionado.
 4. Busque el aviso de precios académicos que aparece junto al menú **Función del trabajo**. Si su estado de estudiante aún no se ha validado, haga clic en "Verificar" para comprobar su estado.
 
-### Aplicación del estado de estudiante al registrarse para un examen
+## Aplicación del estado de estudiante al registrarse para un examen
 
 1. Inicie sesión con las credenciales de su cuenta de Microsoft.
 2. En el examen al que desea registrarse, haga clic en **Programar examen**.
 3. En la página **Confirmar sus datos de inscripción en el examen**, asegúrese de que en el campo **Función del trabajo** aparezca “Estudiante - Verificado”. En caso contrario, haga clic en "Verificar" para validar su estado o en **Editar** para cambiar su estado.
 
-### Verificación de su estado académico
+## Verificación de su estado académico
 
 Seleccione el método que desea usar para verificar su estado. Los métodos son los siguientes:
 

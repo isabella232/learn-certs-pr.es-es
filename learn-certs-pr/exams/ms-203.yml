@@ -7,6 +7,8 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
+  </div>
 
   Los candidatos para este examen son los Administradores de mensajería que implementan, configuran, administran, solucionan problemas y supervisan destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas en entornos empresariales híbridos y en la nube.
 
@@ -18,12 +20,14 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: administrar la configuración y los recursos de la organización; planear y administrar la arquitectura del correo; planificar e implementar una configuración híbrida y migración; y asegurar el entorno de mensajería.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver lo que va a cambiar.
 - Administrar configuraciones y recursos organizacionales (30-35%)
 - Planificar y administrar la arquitectura de correo (20-25%)
 - Planificar e implementar una configuración híbrida y migración (20-25%)

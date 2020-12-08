@@ -32,7 +32,7 @@ summary: |-
   Este curso proporciona a los alumnos una visión general amplia de las aplicaciones de Dynamics 365. Le presentaremos cada una de las aplicaciones, articularemos su valor comercial, benatiremos y demostraremos su funcionalidad básica. Cubriremos la seguridad, los informes y la familiarización de Dynamics 365 con las integraciones de datos y productos disponibles.
 
   #### Perfil de audiencia
-  Este curso está dirigido a estudiantes que desean adquirir una base sólida en los fundamentos de Dynamics 365.
+  Este curso está dirigido a los estudiantes que quieran adquirir una base sólida en los fundamentos de Dynamics 365.
 prerequisitesSection: |-
   Ninguno
 outlineSection: |-
@@ -83,7 +83,7 @@ outlineSection: |-
   - Gestionar el proceso de ventas y la canalización
   - Beneficios de Microsoft Relationship Sales Solution (MRSS)
   - Dynamics 365 Sales Insights
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365 Product Visualize
   - Summary
 
@@ -97,7 +97,7 @@ outlineSection: |-
   - Articular cómo administrar el proceso de ventas en Dynamics 365 Sales.
   - Descubrir Microsoft Relationship Sales Solution (MRSS).
   - Explicar el valor comercial de Dynamics 365 Sales Insights.
-  - Explicar el valor comercial de Microsoft Forms Pro.
+  - Explica el valor comercial de Dynamics 365 Customer Voice
 
 
   ### Módulo 4&#58; Introducción a Dynamics 365 Marketing

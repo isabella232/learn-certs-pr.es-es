@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el, 15 de junio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que va a cambiar.<br/><br/></div>
   </div>
 
   Los candidatos para este examen deben tener experiencia en la materia trabajando con personas, procesos y tecnologías para brindar continuamente valor comercial.
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- 'El contenido de este examen se actualizó el, 15 de junio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió. '
+- 'El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver lo que va a cambiar.'
 - Desarrollar una estrategia de instrumentación (5-10%)
 - Desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE) (5-10%)
 - Desarrollar un plan de seguridad y cumplimiento (10-15%)

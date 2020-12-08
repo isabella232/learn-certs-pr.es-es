@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Power Platform Functional Consultant
+metadata:
+  title: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+  description: 'Course PL-200T00-A: Microsoft Power Platform Functional Consultant'
+uid: course.pl-200t00
+courseNumber: 'PL-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Trabajar con una organización para reunir los requisitos y aplicar las soluciones de la plataforma de energía
+- skill: Construir aplicaciones de modelo, lienzo y portal
+- skill: Crear energía Automatizar los flujos
+- skill: Diseña un chatbot simple usando Power Virtual Agents
+- skill: Analizar los datos utilizando visualizaciones y cuadros de mando Power BI
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-200
+summary: |-
+  La Power Platform permite a las organizaciones automatizar los procesos de negocio, desarrollar sus propias experiencias de aplicaciones ricas y conectar con los clientes mejor y más rápido. En este curso, los estudiantes aprenderán a realizar descubrimientos, capturar requisitos, involucrar a los expertos en la materia y a las partes interesadas, traducir requisitos y configurar soluciones y aplicaciones de Power Platform. Complementarán su aprendizaje con laboratorios prácticos para crear mejoras en las aplicaciones, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas. Power Platform se compone de cuatro productos clave: Power Apps, Power Automate, Power BI y Power Virtual Agents. En este curso, cubriremos estas cuatro aplicaciones en profundidad, con un enfoque adicional en el Servicio Común de Datos, AI Builder, conectores y portales.
+
+  #### Perfil de audiencia
+  Un Consultor Funcional de Power Platform es responsable de realizar el descubrimiento, capturar los requisitos, involucrar a los expertos en la materia y a los interesados, traducir los requisitos y configurar las soluciones y aplicaciones de Power Platform. El Consultor Funcional implementa los componentes de una solución que incluyen mejoras en las aplicaciones, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+prerequisitesSection: |-
+  - Experiencia como profesional o estudiante de IT
+  - Conocimiento práctico de la Power Platform y sus componentes clave
+  - Un conocimiento del Common Data Service y de los conceptos de seguridad.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a la Power Platform
+  Este módulo proporcionará al estudiante los antecedentes de la Power Platform y sus 4 componentes clave&#58; Power Apps, Power Automate, Power BI, y Power Virtual Agents.
+  #### Lecciones
+  - Visión general de la Power Platform
+  
+  #### Laboratorio &#58; Validar el entorno del laboratorio
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Identificar los componentes clave de la Power Platform
+  - Describir el papel de un consultor funcional
+  
+  
+  ### Módulo 2&#58; Trabajar con el Common Data Service
+  En este módulo, los estudiantes aprenderán a crear un modelo de datos en el Common Data Service, incluyendo la importación de datos, el uso de opciones de informes tabulares y la configuración de la seguridad. También aprenderán a crear una AI fácil con el AI Builder.
+  #### Lecciones
+  - Trabajar con el modelo de datos
+  - Crear y gestionar procesos
+  - Trabaja con AI Builder
+  - Configurar los parámetros del Common Data Service
+  - Importación y exportación de datos
+  - Usar las opciones de informe tabular
+  - Configurar los ajustes de seguridad
+  #### Laboratorio &#58; Crear una aplicación
+  
+  #### Laboratorio &#58; Crear entidades y campos
+  
+  #### Laboratorio &#58; Crear relaciones
+  
+  #### Laboratorio &#58; Opciones de entidades adicionales
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear un modelo de datos
+  - Configurar los parámetros del Common Data Service
+  - Configurar la seguridad
+  
+  
+  ### Módulo 3&#58; Crear Power Apps
+  En este módulo, los estudiantes aprenderán el valor comercial de los tres tipos de Power Apps. Luego aprenderán a configurarlas y diseñarlas, incluyendo consideraciones sobre la experiencia del usuario para cada tipo de aplicación.
+  #### Lecciones
+  - Hacer aplicaciones basadas en modelos
+  - Hacer aplicaciones de lienzo
+  - Hacer aplicaciones de portal
+  
+  #### Laboratorio &#58; Diseñador de aplicaciones
+  
+  #### Laboratorio &#58; Modificar los formularios
+
+  #### Laboratorio &#58; Modificar las vistas
+  
+  #### Laboratorio &#58; Construir tableros de mando
+  
+  #### Laboratorio &#58; Fundamentos de la aplicación de lienzo
+  
+  #### Laboratorio &#58; Trabajar con datos y servicios
+  
+  #### Laboratorio &#58; Experiencia de usuario
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear y diseñar una Power App
+  - Conectar una Power App a los datos
+  - Diseño de la navegación de la aplicación
+  
+  
+  ### Módulo 4&#58; Construir flujos de  Power Automate
+  En este módulo, los estudiantes aprenderán a automatizar los procesos empresariales utilizando los flujos de Power Automate, los flujos de los procesos empresariales y los flujos de la UI.
+  #### Lecciones
+  - Construir flujos
+  - Construir flujos de procesos empresariales
+  - Construir flujos de UI
+
+  #### Laboratorio &#58; Crear usuarios
+  
+  #### Laboratorio &#58; Crear el puesto de seguridad
+  
+  #### Laboratorio &#58; Configurar una nueva regla de empresa
+  
+  #### Laboratorio &#58; Reglas de negocio avanzadas
+  
+  #### Laboratorio &#58; Crear un flujo
+  
+  #### Laboratorio &#58; Construir un flujo de aprobación
+  
+  #### Laboratorio &#58; Construir un flujo de proceso de empresa
+  
+  #### Laboratorio &#58; Añadir ramificación al flujo de procesos empresariales
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Automatizar los procesos de negocio usando flujos
+  - Conectarse a los datos en Power Automate
+  - Crear un flujo de procesos empresariales con lógica de ramificación
+  
+  
+  ### Módulo 5&#58; Trabajo con Power Virtual Agents
+  En este módulo, los estudiantes aprenderán a automatizar las interacciones de los clientes con un chatbot utilizando Power Virtual Agents.
+  #### Lecciones
+  - Crear un chatbot
+  - Configurar los temas
+  - Automatizar e integrar
+  - Configurar las entidades
+  - Probar y publicar chatbots
+  #### Laboratorio &#58; Crear un chatbot
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Configurar temas, entidades y variables
+  - Crear un chatbot
+  - Integrar con Omnichannel para el servicio al cliente
+  - Trabajar en la interfaz PVA
+  
+  
+  ### Módulo 6&#58; Analizar los datos con Power BI
+  En este módulo, los estudiantes aprenderán a trabajar con el Power BI Desktop y el Power BI Service para analizar datos y crear visualizaciones.
+  #### Lecciones
+  - Empezar con el Power BI
+  - Datos del modelo en Power BI
+  - Crear visualizaciones
+  - Crear cuadros de mando
+  - Publicar y compartir en Power BI
+  #### Laboratorio &#58; Construir una plantilla de Word
+  
+  #### Laboratorio &#58; Construir una plantilla de Excel
+  
+  #### Laboratorio &#58; Detección de duplicados
+  
+  #### Laboratorio &#58; Importar datos
+  
+  #### Laboratorio &#58; Exportar datos
+  
+  #### Laboratorio &#58; Borrado masivo
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear visualizaciones
+  - Consumir datos en Power BI
+  - Visualizaciones de datos de exportación para los interesados
+  
+  
+  ### Módulo 7&#58; Habilidades de consultor
+  En este módulo, los estudiantes aprenderán más sobre el rol de consultor funcional y las habilidades necesarias para implementar con éxito una solución Power Platform para una organización.
+  #### Lecciones
+  - Resumen de las habilidades del consultor
+  - Crear y validar la documentación
+  - Involucrar a las partes interesadas
+  - Realizar la garantía de calidad
+  - Configurar las integraciones
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Identificar la documentación apropiada
+  - Escribir un requisito de negocio
+  - Involucrar a los interesados con demostraciones
+  - Participar en el ALM y en las pruebas

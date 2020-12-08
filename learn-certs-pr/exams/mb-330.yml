@@ -11,15 +11,13 @@ summary: |-
   <div><strong>El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
   </div>
 
-  Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
+  Los candidatos a este examen analizan los requisitos comerciales y los traducen en procesos y soluciones comerciales plenamente realizados que aplican las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requerimientos de negocio.
   <br/>
 
-  Los candidatos para este examen tienen una comprensión fundamental de los principios de contabilidad y operaciones financieras de negocios, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de administración de la cadena de suministro.
-
-  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Microsoft Dynamics 365 Finance, incluidas finanzas, fabricación y administración de la cadena de suministro.
+  Los candidatos a este examen tienen una comprensión fundamental de los principios contables y las operaciones financieras de las empresas, el servicio de atención al cliente, el servicio de campo, la fabricación, el comercio minorista y los conceptos de gestión de la cadena de suministro. Por lo general, se especializan en uno o más conjuntos de características de aplicaciones de finanzas y operaciones, incluidas las finanzas, la fabricación y la gestión de la cadena de suministro.
 
   Los candidatos deben tener algún conocimiento de las prácticas de gestión de la cadena de suministro, incluidas las adquisiciones, el comercio, la logística, la gestión de almacenes y la gestión de transporte.
-subTitle: 'Este examen mide su capacidad para cumplir las siguientes tareas técnicas: implementar la gestión de la información del producto; implementar la gestión de inventario; implementar y gestionar procesos de la cadena de suministro; e implementar la gestión de almacenes y gestión de transporte y realizar procesos de negocio.'
+subTitle: 'Este examen mide su capacidad para llevar a cabo las siguientes tareas técnicas: poner en práctica la gestión de la información sobre los productos; poner en práctica la gestión del inventario; poner en práctica y gestionar los procesos de la cadena de suministro; poner en práctica la gestión del almacén y el transporte; y poner en práctica la planificación maestra.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
@@ -28,11 +26,12 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Implementar la gestión de la información del producto (25-30%)
-- Implementar la Gestión del inventario (20-25%)
-- Implementar y gestionar procesos de la cadena de suministro (25-30%)
-- Implementar la gestión de almacenes y la gestión de transporte y realizar procesos de negocio (25-30%)
+- El contenido de este examen se actualizó el 16 de octubre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver qué ha cambiado.
+- Implementar la gestión de la información del producto (20-25%)
+- Implementar la Gestión del inventario (15-20%)
+- Implementar y gestionar procesos de la cadena de suministro (15-20%)
+- Implementar la gestión de almacenes y la gestión de transporte y realizar procesos de negocio (20-25%)
+- Implementar la planificación maestra (15-20%)
 roles:
 - functional-consultant
 products:
@@ -54,7 +53,7 @@ relatedCertifications:
 resources:
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

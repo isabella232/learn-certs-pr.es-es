@@ -35,9 +35,16 @@ summary: |-
   #### Perfil de audiencia
   La audiencia para este curso son profesionales de datos que administran datos y bases de datos que desean aprender sobre la administración de las tecnologías de plataforma de datos que están disponibles en Microsoft Azure. Este curso también es valioso para los arquitectos de datos y desarrolladores de aplicaciones que necesitan comprender qué tecnologías están disponibles para la plataforma de datos con Azure y cómo trabajar con esas tecnologías a través de las aplicaciones.
 prerequisitesSection: |-
-  Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  Los Administradores de Bases de Datos Azules exitosos comienzan esta función con experiencia profesional en la gestión de bases de datos y conocimientos técnicos de las tecnologías de nube.
+  
+  Específicamente&#58;
+  - Trabajar, mantener y desarrollar con SQL Server
+  - La experiencia con el Azure, como el despliegue y la gestión de recursos 
+  
+  Como mínimo, debe conocer la información de la siguiente formación online antes de asistir al curso&#58;
+  - [Introducción a Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### Módulo 1&#58; El rol del administrador de la base de datos de Azure
   Este módulo explora el papel de un administrador de base de datos en el mundo de Azure. También proporciona información fundamental relevante para el contenido general. Esto incluye una revisión de las diversas opciones basadas en SQL Server (SQL Server en una máquina virtual, instancias administradas y Azure SQL Database). Los estudiantes aprenderán por qué el nivel de compatibilidad es un concepto crucial cuando se trabaja con bases de datos SQL en Azure. A los estudiantes también se les presentan otras plataformas de bases de datos disponibles en Azure además de las basadas en SQL Server, en particular PostgreSQL y MySQL 

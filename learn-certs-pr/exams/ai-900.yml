@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div>\n<div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el, jueves, 22 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>\n</div>\n\nLos candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure.\n\nEste examen es una oportunidad para demostrar el conocimiento de las cargas de trabajo comunes de ML e IA y cómo implementarlas en Azure.  \n\nEste examen está destinado a candidatos con conocimientos tanto técnicos como no técnicos. No se requiere experiencia en ciencia de datos e ingeniería de software; sin embargo, algunos conocimientos generales de programación o experiencia serían beneficiosos.  \n\nAzure AI Fundamentals se puede usar para prepararse para otras certificaciones basadas en roles de Azure como Azure Data Scientist Associate o Azure AI Engineer Associate, pero no es un requisito previo para ninguno de ellos."
+summary: |-
+  <div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el 22 de octubre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  </div>
+
+  Los candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure.
+
+  Este examen es una oportunidad para demostrar el conocimiento de las cargas de trabajo comunes de ML e IA y cómo implementarlas en Azure.  
+
+  Este examen está destinado a candidatos con conocimientos tanto técnicos como no técnicos. No se requiere experiencia en ciencia de datos e ingeniería de software; sin embargo, algunos conocimientos generales de programación o experiencia serían beneficiosos.  
+
+  Azure AI Fundamentals se puede usar para prepararse para otras certificaciones basadas en roles de Azure como Azure Data Scientist Associate o Azure AI Engineer Associate, pero no es un requisito previo para ninguno de ellos.
 subTitle: 'Demuestre que puede describir lo siguiente: Cargas de trabajo y consideraciones de IA; principios fundamentales del aprendizaje automático en Azure; características de las cargas de trabajo de visión por ordenador en Azure; características de las cargas de trabajo de procesamiento del lenguaje natural (NLP) en Azure; y características de las cargas de trabajo de IA conversacional en Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -28,7 +39,7 @@ locales:
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizará el jueves, 22 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
+- El contenido de este examen se actualizó el 22 de octubre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver qué ha cambiado.
 - Describir las cargas de trabajo y las consideraciones de inteligencia artificial (15-20%)
 - Describir los principios fundamentales del aprendizaje automático en Azure (30-35%)
 - Describir las características de las cargas de trabajo de visión por ordenador en Azure (15-20%)

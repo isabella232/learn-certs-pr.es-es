@@ -7,6 +7,8 @@ uid: exam.az-304
 displayName: AZ-304
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
+  </div>
 
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad.
 
@@ -22,9 +24,13 @@ practiceTestUrl: https://www.mindhub.com/p/MU-AZ-304?utm_source=microsoft&utm_me
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
+- El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver lo que va a cambiar.
 - Diseñar monitoreo (10-15%)
 - Diseñar identidad y seguridad (25-30%)
 - Diseñar almacenamiento de datos (15-20%)

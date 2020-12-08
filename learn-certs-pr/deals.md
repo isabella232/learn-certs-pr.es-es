@@ -41,12 +41,7 @@ Validar sus habilidades, obtener una ventaja profesional y potenciar su confianz
 </div>
 
 
-## Ahorre dinero con descuentos para estudiantes
-Aproveche importantes descuentos en los exámenes de Microsoft Certified Professional, si verifique su estatus de estudiante antes de registrarse para un examen. *Nota: Tenga en cuenta que los descuentos para los exámenes de Microsoft Certified Professional no están disponibles en la India ni en China.*
-
-[**Obtenga más información**](/learn/certifications/certification-exam-policies)
-
-## Preguntas frecuentes
+## <a name="frequently-asked-questions"></a>Preguntas frecuentes
 
 **P. ¿Qué es Exam Replay?**
 
@@ -62,7 +57,7 @@ Aproveche importantes descuentos en los exámenes de Microsoft Certified Profess
 
 **P. ¿Qué exámenes están incluidos con Exam Replay?**
 
-**R.** Exam Replay es válido para todos los exámenes de Microsoft Certification excepto los exámenes de Microsoft Technology Associate (MTA), los exámenes de Microsoft Office Specialist (MOS), los exámenes de Transition Exams, Fundamentals y beta. La oferta se aplica también a todos Practice Tests disponibles para los exámenes válidos. [Vea los Practice Tests disponibles.](https://us.mindhub.com/microsoft-practice-tests).
+**R.** Exam Replay es válido para todos los exámenes de Microsoft Certification excepto los exámenes de Microsoft Technology Associate (MTA), los exámenes de Microsoft Office Specialist (MOS), los exámenes de Transition Exams, Fundamentals y beta. La oferta se aplica también a todos Practice Tests disponibles para los exámenes válidos. [Vea los Practice Tests disponibles](https://us.mindhub.com/microsoft-practice-tests).
 
 **P. ¿Hasta cuándo son válidos los vales de Exam Replay?**
 
@@ -78,7 +73,7 @@ Aproveche importantes descuentos en los exámenes de Microsoft Certified Profess
 
 **P. ¿Cómo activo un Practice Test y por cuánto tiempo es válido?**
 
-**R.** Microsoft Official Practice Tests pueden activarse en [MeasureUp.com](https://www.measureup.com/) dentro de un año a partir de la compra y son válidos por 30 días después de la activación. Un Practice Test no es exclusivo del cupón de examen seleccionado con la promoción de Exam Replay y Exam Replay with Practice Test y se puede utilizar para cualquier Practice Test disponible incluido en la promoción. Vea [Cómo activar un Practice Test.](https://home.pearsonvue.com/microsoft/practicetests).
+**R.** Microsoft Official Practice Tests pueden activarse en [MeasureUp.com](https://www.measureup.com/) dentro de un año a partir de la compra y son válidos por 30 días después de la activación. Un Practice Test no es exclusivo del cupón de examen seleccionado con la promoción de Exam Replay y Exam Replay with Practice Test y se puede utilizar para cualquier Practice Test disponible incluido en la promoción. Vea [Cómo activar un Practice Test](https://home.pearsonvue.com/microsoft/practicetests).
 
 **P. Si anteriormente pagué por un Practice Test, y también compré un paquete de Exam Replay o de Exam Replay with Practice Test, ¿puedo obtener un reembolso por el examen o el Practice Test que compré originalmente?**
 
@@ -87,6 +82,3 @@ Aproveche importantes descuentos en los exámenes de Microsoft Certified Profess
 **P. ¿Con quién me comunico si tengo problemas para comprar o canjear la promoción de Exam Replay y Exam Replay with Practice Test?**
 
 **R.** Si tiene problemas para comprar o canjear la promoción de Exam Replay y Exam Replay with Practice Test, [envíe un correo electrónico al equipo de Pearson VUE](mailto:mindhub@pearson.com).
-
-
-

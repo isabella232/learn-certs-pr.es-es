@@ -30,8 +30,15 @@ summary: |-
   La audiencia para este curso son profesionales de datos y arquitectos de datos que desean aprender sobre la migración de tecnologías de plataformas de datos que existen en Microsoft Azure y cómo las cargas de trabajo basadas en SQL existentes pueden migrarse y modernizarse.
   La audiencia secundaria para este curso son personas que administran plataformas de datos o desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos existentes.SQL
 prerequisitesSection: |-
-  Además de su experiencia profesional en SQL Server, los estudiantes que toman esta capacitación deben tener un conocimiento técnico equivalente a los siguientes cursos&#58;
-  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  Los estudiantes exitosos comienzan este rol con un conocimiento fundamental de los conceptos de computación en nube y experiencia profesional en la implementación de soluciones SQL.
+  
+  Específicamente&#58;
+  - Trabajar con y mantener las cargas de trabajo de SQL 
+  - Experiencia con el Azure, como el despliegue y la gestión de recursos
+  
+  Para obtener estas habilidades, tome el siguiente entrenamiento gratuito e online antes de asistir al curso&#58;
+  - [Introducción a Azure SQL](/aprender/módulos/azure-sql-intro/)
+  - [Azure Fundamentals](/aprender/certificaciones/azure-fundamentals)
 outlineSection: |-
   ### Módulo 1&#58; Introducción a la modernización de la plataforma de datos
   En este módulo, los estudiantes aprenderán el propósito de la modernización de la plataforma de datos y describirán los beneficios que la modernización de la plataforma de datos puede aportar a una organización. Luego, los estudiantes aprenderán las diversas etapas de los proyectos de migración de una plataforma de datos para comprender lo que implica cada etapa para maximizar las posibilidades de un proyecto de modernización de plataforma de Datos exitoso. Finalmente, los estudiantes explorarán las diversas rutas de migración de datos para comprender cómo cada enfoque es diferente y por qué elegiría un enfoque de migración sobre otro.
@@ -39,7 +46,7 @@ outlineSection: |-
   - Comprender la modernización de la plataforma de datos
   - Comprender las etapas de la migración.
   - Rutas de migración de datos
-  #### Laboratorio &#58; Introducción a la modernización de la plataforma de datos
+  #### Laboratorio&#58; Introducción a la modernización de la plataforma de datos
   - Comprender la modernización de la plataforma de datos
   - Comprender las etapas de la migración.
   - Rutas de migración de datos
@@ -61,7 +68,7 @@ outlineSection: |-
   - Migrar cargas de trabajo que no sean de SQL Server a Azure con SQL Migration Assistant
 
 
-  #### Laboratorio &#58; Elija las herramientas adecuadas para la migración de datos
+  #### Laboratorio&#58; Elija las herramientas adecuadas para la migración de datos
   - Identificar candidatos de migración con el asistente de migración de datos
   - Evaluar una carga de trabajo de datos con el asistente de experimentación de base de datos
 
@@ -81,7 +88,7 @@ outlineSection: |-
   - Implementación de escenarios de alta disponibilidad y recuperación de desastres
 
 
-  #### Laboratorio &#58; Migración de cargas de trabajo SQL a máquinas virtuales de Azure
+  #### Laboratorio&#58; Migración de cargas de trabajo SQL a máquinas virtuales de Azure
   Después de completar este módulo, los estudiantes podrán&#58;
   - Consideraciones de las migraciones de SQL Server a Azure VM
   - Saber las opciones de migración de cargas de trabajo SQL a Azure VM
@@ -100,7 +107,7 @@ outlineSection: |-
   - Cargar y mover datos a Azure SQL Database
 
 
-  #### Laboratorio &#58; Migrar cargas de trabajo SQL a bases de datos SQL de Azure
+  #### Laboratorio&#58; Migrar cargas de trabajo SQL a bases de datos SQL de Azure
   Después de completar este módulo, los estudiantes podrán&#58;
   - Elegir la opción correcta de instancia de SQL Server en Azure
   - Migración de SQL Server a Azure SQL DB sin conexión
@@ -119,7 +126,7 @@ outlineSection: |-
   - Configuración de aplicaciones y optimización
 
 
-  #### Laboratorio &#58;Migrar las cargas de trabajo de SQL a la instancia administrada de Azure SQL Database
+  #### Laboratorio&#58;Migrar las cargas de trabajo de SQL a la instancia administrada de Azure SQL Database
   Después de completar este módulo, los estudiantes podrán&#58;
   - Evaluar escenarios de migración a la instancia administrada de la base de datos SQL
   - Migración a instancia administrada de base de datos SQL

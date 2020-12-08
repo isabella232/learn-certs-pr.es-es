@@ -7,7 +7,7 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizó el viernes, 22 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>El contenido de este examen se actualizará el 8 de diciembre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
   </div>
 
   Los científicos de datos de Azure aplican sus conocimientos de ciencia de datos y aprendizaje para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure; en particular, con Azure Machine Learning Service. Esto implica planear y crear un entorno de trabajo adecuado para las cargas de trabajo de ciencia de datos en Azure, ejecutar experimentos de datos y capacitar modelos predictivos, administrar y optimizar modelos e implementar modelos de aprendizaje automático en la producción.
@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el, viernes, 22 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- El contenido de este examen se actualizará el 8 de diciembre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver lo que va a cambiar.
 - Configurar un espacio de trabajo de Azure Machine Learning (30-35%)
 - Ejecutar experimentos y entrenar modelos (25-30%)
 - Optimizar y administrar modelos (20-25%)

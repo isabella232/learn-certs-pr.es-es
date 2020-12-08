@@ -35,9 +35,18 @@ summary: |-
   #### Perfil de audiencia
   La audiencia para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido de las tecnologías de plataforma de datos que existen en Microsoft Azure.
 prerequisitesSection: |-
-  Además de su experiencia profesional, los estudiantes que toman esta capacitación deben tener conocimientos técnicos equivalentes a los siguientes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
-  - DP-200&#58; Implementación de una solución de datos de Azure
+  Los estudiantes exitosos comienzan este curso con el conocimiento de los conceptos de la computación en nube y la experiencia profesional con las soluciones de datos.
+  
+  Específicamente&#58;
+  - La creación de recursos de nube en Microsoft Azure
+  - Identificación de casos de uso de grandes datos
+  - Comprender cómo los servicios de computación en la nube pueden resolver las necesidades comunes de las empresas
+  
+  Para obtener estos requisitos previos, tome la siguiente capacitación gratuita online antes de asistir al curso&#58;
+  - [Explorar los conceptos de la nube de Microsoft](/learn/paths/explore-microsoft-azure-cloud-conceptsts/)
+  - [Identificar las tareas de un ingeniero de datos](/learn/modules/data-engineering-processes/)
+  - [Servicios centrales de nubes - Azure data storage options](/learn/modules/intro-to-data-in-azure/)
+  - [Servicios centrales de la nube - Azure compute options](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Módulo 1&#58;Consideraciones de arquitectura de plataforma de datos
   En este módulo, los estudiantes aprenderán a diseñar y construir soluciones seguras, escalables y de alto rendimiento en Azure mediante el examen de los principios básicos que se encuentran en cada buena arquitectura. Aprenderán cómo usar principios clave en toda la arquitectura, independientemente de la elección de tecnología, puede ayudarlo a diseñar, construir y mejorar continuamente la arquitectura para el beneficio de una organización.
@@ -48,7 +57,7 @@ outlineSection: |-
   - Diseño para disponibilidad y recuperabilidad
   - Diseño para eficiencia y operaciones
   - Caso de estudio
-  #### Laboratorio &#58; Caso de estudio
+  #### Laboratorio&#58; Caso de estudio
   - Diseño con seguridad en mente
   - Considerar el rendimiento y la escalabilidad
   - Diseño para disponibilidad y recuperabilidad
@@ -68,7 +77,7 @@ outlineSection: |-
   - Diseñar un bot conversacional de nivel empresarial en Azure
 
 
-  #### Laboratorio &#58; Diseñar un bot conversacional de nivel empresarial en Azure
+  #### Laboratorio&#58; Diseñar un bot conversacional de nivel empresarial en Azure
   - Diseño de una solución de BI empresarial en Azure
   - Automatizar las soluciones de BI empresarial en Azure
   - Automatizar las soluciones de BI empresarial en Azure
@@ -91,7 +100,7 @@ outlineSection: |-
   - Crear una arquitectura de referencia de Azure IoT
 
 
-  #### Laboratorio &#58; Arquitecturas de referencia en tiempo real de Azure
+  #### Laboratorio&#58; Arquitecturas de referencia en tiempo real de Azure
   - Diseñar una canalización de procesamiento de flujo con Azure Stream Analytics
   - Diseñar un flujo de procesamiento de flujo con Azure Databricks
   - Crear una arquitectura de referencia de Azure IoT
@@ -103,7 +112,7 @@ outlineSection: |-
   - Crear una arquitectura de referencia de Azure IoT
 
 
-  ### Module 4&#58; Consideraciones de diseño de seguridad de la plataforma de datos
+  ### Módulo 4&#58; Consideraciones de diseño de seguridad de la plataforma de datos
   En este módulo, los estudiantes aprenderán cómo incorporar la seguridad en un diseño de arquitectura y aprenderán los puntos de decisión clave proporcionados en Azure para ayudar a crear un entorno seguro a través de todas las capas de arquitectura.
   #### Lecciones
   - Enfoque de seguridad de defensa en profundidad
@@ -114,11 +123,11 @@ outlineSection: |-
   - Seguridad de la aplicación
 
 
-  #### Laboratorio &#58; Consideraciones de diseño de seguridad de la plataforma de datos
+  #### Laboratorio&#58; Consideraciones de diseño de seguridad de la plataforma de datos
   - Enfoque de seguridad de defensa en profundidad
   - Protección de identidad
 
-  Después de completar este módulo los , estudiantes podrán&#58;
+  Después de completar este módulo los, estudiantes podrán&#58;
   - Enfoque de seguridad de defensa en profundidad
   - Gestión de identidad
   - Protección de infraestructura
@@ -139,7 +148,7 @@ outlineSection: |-
   - Diseñar estrategias de copia de seguridad y restauración
 
 
-  #### Laboratorio &#58; Diseño para Resiliencia y Escala
+  #### Laboratorio&#58; Diseño para Resiliencia y Escala
   - Ajuste de la capacidad de carga de trabajo escalando
   - Diseño para almacenamiento optimizado y rendimiento de la base de datos
   - Diseñar una solución altamente disponible
@@ -163,7 +172,7 @@ outlineSection: |-
   - Utilizar la automatización para reducir el esfuerzo y el error
 
 
-  #### Laboratorio &#58; diseño para eficiencia y operaciones
+  #### Laboratorio&#58; diseño para eficiencia y operaciones
   - Maximificar la eficiencia de su entorno en la nube
   - Utilizar el monitoreo y la analítica para obtener información operativa
   - Utilizar la automatización para reducir el esfuerzo y el error

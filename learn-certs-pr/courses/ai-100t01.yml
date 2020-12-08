@@ -30,10 +30,20 @@ summary: |-
   #### Perfil de audiencia
   Este curso está dirigido a arquitectos de soluciones en la nube, diseñadores de inteligencia artificial de Azure y desarrolladores de inteligencia artificial.
 prerequisitesSection: |-
-  Antes de asistir a este curso, los estudiantes deben tener&#58;
-  - Fundamentos de Azure
-  - Comprensión del almacenamiento de Azure
-  - C# conocimiento
+  Los ingenieros exitosos de Azure AI empiezan este rol con experiencia profesional con tecnologías de nube, y experiencia con kits de desarrollo de software.
+  
+  Específicamente&#58;
+  - Implementar soluciones en C# o Python
+  - Desarrollo de aplicaciones en la nube
+  - Comprensión de las tecnologías de almacenamiento del Azure
+  
+  Para obtener estos requisitos previos, realiza la siguiente formación gratuita online antes de asistir al curso&#58;
+  - [Explorar los conceptos de la nube Microsoft Azure](/learn/paths/explore-microsoft-azure-cloud-conceptsts/)
+  - [Da tus primeros pasos con C#](/learn/paths/csharp-first-steps/) o [Da tus primeros pasos con Python](/learn/paths/python-first-steps/)
+  - [Servicios centrales de nubes - Introducción a Azure](/learn/modules/welcome-to-azure/)
+  - [Servicios de Nube Central - Opciones de computación en Azure](/learn/modules/intro-to-azure-compute/)
+  
+  Si eres completamente nuevo en los servicios de Azure AI, por favor completa [Microsoft Azure AI Fundamentals](/aprender/certificaciones/azure-ai-fundamentals) primero.
 outlineSection: |-
   ### Módulo 1&#58; Presentación de los servicios cognitivos de Azure
   El alumno aprenderá sobre los servicios cognitivos disponibles en Microsoft Azure y su papel en la arquitectura de soluciones de inteligencia artificial.
@@ -79,4 +89,3 @@ outlineSection: |-
   - Ejecución de un análisis de opinión para su bot con Text Analytics
   - Detección del lenguaje en un bot con los servicios cognitivos del lenguaje
   - Integración de la visión por computadora con Bots
-

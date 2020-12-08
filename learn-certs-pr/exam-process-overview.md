@@ -1,5 +1,5 @@
 ---
-title: 'Exam process overview | Microsoft Docs'
+title: 'Preguntas frecuentes | Microsoft Docs'
 description: 'Introducción general del proceso de examen'
 documentationcenter: NA 
 author: micsullivan
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Introducción general del proceso de examen
-
-## Políticas y acuerdos
+# Preguntas frecuentes
 
 Encuentre respuesta a las preguntas frecuentes sobre exámenes de Microsoft Certification.
 
-- Conceptos básicos del examen
-- Detalles del examen
-- Puntuación y resultados
-- Seguridad del examen y pólizas de integridad
-- Prueba basada en el rendimiento
-- Certificaciones basadas en roles
-- Precio académico de los exámenes
-- Solicitudes de condiciones especiales
-
-### Conceptos básicos del examen
+## Conceptos básicos del examen
 
 **¿Cuántas preguntas incluirá el examen?**
 
@@ -76,7 +65,7 @@ Microsoft Certified Trainers trabajan con muchos candidatos cuando se preparan p
 
 También es posible que quiera preguntar a otros cómo realizan esas tareas, leer documentación técnica, MSDN o TechNet para obtener información adicional acerca de las tareas incluidas en el examen y/o explorar los recursos proporcionados en la sección “Materiales de preparación” de la página de Información del examen que le enlazará con los cursos en línea, microcursos y opciones disponibles y un portal donde podrá encontrar opciones de formación dirigida por un instructor en su zona.
 
-Además, [Microsoft Official Practice Tests](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) están disponibles para algunos de los exámenes de certificaciones. Estas pueden aportarle más información sobre sus puntos fuertes y débiles específicos. No obstante, superar una prueba práctica no es garantía de aprobar el examen de certificación.
+Además, [Microsoft Official Practice Tests](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) están disponibles para algunos de los exámenes de certificaciones. Estas pueden aportarle más información sobre sus puntos fuertes y débiles específicos. No obstante, superar una prueba práctica no es garantía de aprobar el examen de certificación.
 
 Si ya ha realizado el examen y no ha aprobado, priorice las habilidades que debe practicar, centrándose en las áreas de contenido en las que su rendimiento durante el examen fue el más bajo y en las áreas de contenido que tienen el porcentaje más alto de preguntas.
 
@@ -86,11 +75,11 @@ Visite la [página de registro para el examen](https://docs.microsoft.com/learn/
 
 **¿Es obligatorio que realice un examen en inglés?**
 
-Los exámenes de Microsoft Certification están disponibles en varios idiomas. No obstante, los candidatos que deban realizar el examen en inglés en vez de su idioma materno pueden solicitar tiempo adicional. La aprobación para el tiempo adicional se proporciona caso por caso y debe solicitarse antes del examen. Esto debe solicitarse a través del [proceso de adaptaciones](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Los exámenes de Microsoft Certification están disponibles en varios idiomas. No obstante, los candidatos que deban realizar el examen en inglés en vez de su idioma materno pueden solicitar tiempo adicional. La aprobación para el tiempo adicional se proporciona caso por caso y debe solicitarse antes del examen. Esto debe solicitarse a través del [proceso de adaptaciones](/learn/certifications/request-accomodations).
 
 **¿Qué adaptaciones por discapacidad hay disponibles?**
 
-Microsoft tiene el firme compromiso de garantizar que los exámenes sean accesibles para todos, incluidas las personas con discapacidades. Para obtener una lista de adaptaciones disponibles, visite la [sección de adaptaciones](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Microsoft tiene el firme compromiso de garantizar que los exámenes sean accesibles para todos, incluidas las personas con discapacidades. Para obtener una lista de adaptaciones disponibles, visite la [sección de solicitudes de alojamiento](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
 
 **¿Qué precio tienen los exámenes?**
 
@@ -114,7 +103,7 @@ Para ofrecer otros tipos de comentarios, comuníquese con [Soporte de certificac
 
 Si desea notificar un problema de seguridad, póngase en contacto con [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Detalles del examen
+## Detalles del examen
 
 **¿Qué tipos de preguntas aparecen en los exámenes de Microsoft Certification?**
 
@@ -195,7 +184,7 @@ Como no se le penalizará por las respuestas incorrectas y los exámenes contien
 
 No. El mismo examen no se puede usar para cumplir con los requisitos para un MCSA y un electivo en la misma ruta de MCSE o MCSD.
 
-### Puntuación y resultados
+## Puntuación y resultados
 
 **¿Cómo y cuándo recibiré los resultados de mi examen?**
 
@@ -317,7 +306,7 @@ Es improbable que se reevalúe su puntuación para cambiar su aprobado/suspenso.
 
 **¿Cómo puedo impugnar una pregunta del examen?**
 
-Si cree que una pregunta del examen de Microsoft Certification es imprecisa, puede solicitar que se evalúe dicha pregunta mediante el [proceso de impugnación de pregunta de examen](/learn/certifications/exam-reschedule-and-cancellation-policy)  dentro de los 30 días calendario de haber realizado el examen. El proceso de evaluación nos ayuda a identificar y corregir preguntas problemáticas y a actualizar los exámenes en consecuencia.
+Si cree que una pregunta del examen de Microsoft Certification es imprecisa, puede solicitar que se evalúe dicha pregunta mediante el [proceso de impugnación de pregunta de examen](/learn/certifications/exam-item-challenge-process) dentro de los 30 días calendario de haber realizado el examen. El proceso de evaluación nos ayuda a identificar y corregir preguntas problemáticas y a actualizar los exámenes en consecuencia.
 
 **¿Será revisada y evaluada por parte de un empleado de Microsoft la pregunta del examen que he impugnado?**
 
@@ -335,7 +324,7 @@ Para reforzar la seguridad del examen, mantenemos en secreto el razonamiento en 
 
 No. Microsoft no ofrece reembolsos por los exámenes no aprobados o las convocatorias de examen a las que no se presente.
 
-### Seguridad del examen y pólizas de integridad
+## Seguridad del examen y pólizas de integridad
 
 **¿Por qué se me pide que acepte un acuerdo de confidencialidad (NDA) antes de presentarme al examen?**
 
@@ -399,7 +388,7 @@ Envíe un mensaje de correo electrónico a [mlsecure@microsoft.com](mailto:mlsec
 
 Sí. Toda la correspondencia dirigida a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) puede permanecer en el anonimato y no compartiremos su información de contacto con nadie. Si desea incluir sus datos de contacto para que podamos recabar más información, nos aseguraremos de que estén a buen recaudo.
 
-### Prueba basada en el rendimiento
+## Prueba basada en el rendimiento
 
 **¿Qué son las pruebas basadas en el rendimiento (PBT)?**
 
@@ -427,7 +416,6 @@ Después de iniciar el examen, responderá todas las preguntas tradicionales (po
 El número de laboratorios y tareas en El examen se proporciona en la página de descripción general que precede al primer laboratorio. ¡Léala! Y a continuación, administre su tiempo respectivamente.
 
 - NO espere que las tareas se ejecuten antes de pasar a otra tarea. En algunos casos, necesita ejecutar algo antes de poder completar otra tarea, pero esto se notará en la tarea, y habrá otras tareas en las que puede estar trabajando mientras se ejecuta esa tarea. **No pierda tiempo esperando que se ejecuten las tareas**. Pase a otra actividad que no dependa de esa tarea para poder optimizar el tiempo de su examen. En algunos casos, comenzar una tarea puede ser suficiente para puntuar (por ejemplo, crear un recurso en Azure); puede dejar que se ejecute la tarea en segundo plano mientras trabajar en otras tareas. Incluimos una nota en la lista de tareas informándole que solo necesita comenzar la tarea. Puede pasar a otras tareas o incluso abandonar la sección (pasar al siguiente laboratorio si corresponde o finalizar el examen) sin ser penalizado. **Lea la tarea atentamente. Haga lo que sea necesario para resolver el problema planteado en la tarea.**
-
 
 **¿Por qué un examen con laboratorios contiene tipos de preguntas tradicionales (por ejemplo, elección múltiple, arrastrar y soltar, crear una lista, etc.)?**
 
@@ -491,7 +479,7 @@ No. Las habilidades evaluadas no cambian, indistintamente del formato de la preg
 
 Los exámenes que incluyen laboratorios requieren centros de pruebas para cumplir con ciertos requisitos de conectividad a internet, de modo que hay disponible un conjunto más pequeño de centros de pruebas. A medida que se agregan laboratorios a más de los exámenes nuevos basados en roles, estarán sujetos también al mismo conjunto de centros de pruebas. Si tiene en mente centros de pruebas específicos, contáctese con el centro de pruebas específico para saber si pueden entregar laboratorios; como alternativa, no se mencionarán como centros de pruebas disponibles una vez que seleccione el examen. Si eso ocurre, recomendamos buscar un centro de pruebas diferente o realizar el examen con supervisión en línea. Nota: Es posible que pueda tomar laboratorios a través de supervisión en línea; sin embargo, eso dependerá de su ancho de banda y conexión a internet.
 
-### Certificaciones basadas en roles
+## Certificaciones basadas en roles
 
 **¿Cómo se denominarán las certificaciones basadas en roles? ¿Seguirán siendo MCSA, MCSD y MCSE?**
 
@@ -501,11 +489,9 @@ Dado que estamos haciendo un cambio significativos en nuestro programa de certif
 
 Nada ocurre con las certificaciones MCSA, MCSD y MCSE que ya tiene. Permanecen en su transcripción. La relevancia de dichas certificaciones depende en sus roles de trabajo actual (y futuro) y cuán valiosa esa certificación es para su administrador y organización y para el trabajo que realiza.
 
-
 **Aún hay disponibles algunas certificaciones MCSA, MCSD y MCSE. ¿Qué ocurrirá con estas?**
 
 Puede seguir obteniendo certificaciones MCSA, MCSD y MCSE siempre y cuando los exámenes continúen estando disponibles. A medida que retiramos los exámenes que son parte de dichas certificaciones, ya no podrá obtener dichas certificaciones.
-
 
 **Está retirando algunos exámenes indicados para las certificaciones MCSA, MCSD y MCSE. ¿Qué ocurre con mis certificaciones cuando se retiran dichos exámenes?**
 
@@ -515,8 +501,7 @@ Antes de que se retiren los exámenes, asegúrese de aprobar aquellos que son pa
 
 No, no estamos reduciendo la cantidad de experiencia que las personas necesitan para aprobar los exámenes u obtener nuestras certificaciones. El entrenamiento está diseñado para preparar a personas para los exámenes, pero en sí misma no es probable que sea suficiente. Las preguntas de nuestro exámenes basadas en roles requieren que aplique las habilidades y el conocimiento adquirido en el entrenamiento de problemas del mundo real.
 
-
-### Precio académico de los exámenes
+## Precio académico de los exámenes
 
 **¿Puedo obtener un reembolso si me he registrado en un examen y lo he pagado sin verificar un descuento académico, pero ahora sí he realizado la verificación?**
 
@@ -526,21 +511,19 @@ No. Si decide registrarse en un examen y pagarlo antes de verificar su estado de
 
 Sí. La verificación académica solo es válida durante 12 meses. Después de 12 meses, es necesario repetir el proceso de verificación.
 
-
 **Soy un educador. ¿Puedo seguir recibiendo un descuento académico (en los países correspondientes) en mi examen de certificación de Microsoft entregado en el canal comercial?**
 
 Sí. Tiene que seguir el mismo proceso que un estudiante. Es decir, debe seleccionar "Estudiante" como función de trabajo en el perfil de su cuenta de Microsoft y verificar su estado mediante el mismo proceso que un estudiante.
-
 
 **¿Con quién debo ponerme en contacto para realizar preguntas relacionadas con el proceso de verificación académica para los exámenes de Microsoft Certification?**
 
 Si tiene preguntas generales relacionadas con el registro del examen o preguntas específicas para una solicitud de verificación nueva o pendiente, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum).
 
-### Solicitudes de condiciones especiales
+## Solicitudes de condiciones especiales
 
 **¿Cómo solicito adaptaciones?**
 
-Si necesita un equipo especial u otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Se proporcionan más detalles en la sección [Adaptaciones especiales al tomar un examen](#special-accommodations-when-taking-exams) más arriba.
+Si necesita un equipo especial u otra adaptación cuando realiza un examen, puede solicitar una adaptación a través de [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizando su "Sistema de solicitud de ajustes razonables" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Se proporcionan más detalles en la sección [Solicite alojamiento](/learn/certifications/request-accomodations) más arriba.
 
 **¿Por qué necesito enviar documentación?**
 

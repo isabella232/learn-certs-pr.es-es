@@ -11,16 +11,11 @@ summary: |-
   <div><strong>El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el documento de habilidades medidas a continuación para ver qué cambiará.</strong><br/><br/></div>
   </div>
 
-  Los candidatos para este examen son consultores funcionales que analizan los requisitos del negocio y los traducen en procesos de negocio totalmente realizados y soluciones que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos comerciales.
+  Los candidatos a este examen son Consultores Funcionales que analizan los requisitos empresariales y los traducen en procesos y soluciones empresariales totalmente realizados que aplican las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requerimientos de negocio.
   <br/>
 
-  Los candidatos para este examen tienen una comprensión fundamental de los principios de contabilidad y operaciones financieras de negocios, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de administración de la cadena de suministro.
-  <br/>
-
-  Los candidatos para este examen generalmente se especializan en uno o más conjuntos de funciones de Microsoft Dynamics 365 Finance, incluidas finanzas, fabricación y administración de la cadena de suministro.
-
-  Los candidatos deben tener conocimiento de los principios y prácticas contables básicos.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: instalar y configurar la administración financiera; gestionar y aplicar procesos comunes; implementar y administrar cuentas por pagar y por cobrar; y gestionar presupuestos y activos fijos.'
+  Los candidatos a este examen deben tener una comprensión fundamental de los principios contables y las operaciones financieras de las empresas, incluidas las cuentas por pagar y las cuentas por cobrar, los impuestos, los principios de cálculo de costos, los activos fijos y el presupuesto.
+subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: establecer y configurar la gestión financiera; implementar y gestionar las cuentas por pagar y los gastos; implementar las cuentas por cobrar, el crédito, los cobros y el reconocimiento de ingresos; y gestionar la presupuestación y los activos fijos'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
@@ -30,10 +25,10 @@ levels:
 - intermediate
 skills:
 - El contenido de este examen se actualizará el, 16 de octubre de 2020. Descargue el resumen de habilidades del examen a continuación para ver qué cambiará.
-- Instalar y configurar la administración financiera (35-40%)
-- Gestionar y aplicar procesos comunes (20-25%)
-- Implementar y administrar las cuentas por pagar y por cobrar (20-25%)
-- Gestionar presupuestos y activos fijos (15-20%)
+- Establecer y configurar la gestión financiera (50-55%)
+- Poner en práctica y gestionar las cuentas por pagar y los gastos (10-15%)
+- Poner en práctica el reconocimiento de cuentas por cobrar, créditos, cobros e ingresos (20-25%)
+- Administrar la presupuestación y los activos fijos (10-15%)
 roles:
 - functional-consultant
 products:
@@ -57,7 +52,7 @@ relatedCertifications:
 resources:
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

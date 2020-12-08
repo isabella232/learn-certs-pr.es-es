@@ -15,12 +15,12 @@ levels:
 skills:
 - Usar funcionalidades comunes y herramientas de implementación
 - Configurar seguridad, procesos y opciones
-- Realizar la migración de datos
+- Administrar los datos de finanzas y operaciones
 - Validar y asistir la solución
 - Instalar y configurar la administración financiera
-- Gestionar y aplicar procesos comunes
-- Implementar y administrar las cuentas por pagar y por cobrar
-- Gestionar presupuestos y activos fijos
+- Implementar y gestionar las cuentas a pagar y gastos
+- Implementar el reconocimiento de cuentas por cobrar, créditos, cobros e ingresos
+- Gestionar la presupuestación y los activos fijos
 roles:
 - functional-consultant
 type: role-based

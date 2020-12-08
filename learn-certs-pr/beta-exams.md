@@ -12,12 +12,10 @@ ms.prod: non-product-specific
 ---
 # Exámenes beta
 
-## Información del programa
-
 Aproximadamente 400 personas pueden hacer el examen beta a una tarifa reducida. Para aprovechar esta tarifa reducida, necesita un código beta que debe introducir como parte de su pago durante el registro. Para obtener este código, puede:
 
 1. Unirse a nuestra base de datos de Perfiles SME. Los miembros cuyas habilidades estén alineadas con el área del contenido del examen recibirán un correo electrónico con este código, que es único para este grupo. Si es miembro de nuestra base de datos de SME, el acceso temprano a la versión beta requiere que mantenga su perfil actualizado, ya que apuntamos a la distribución de estos códigos a quienes tienen habilidades relacionadas con el nuevo examen. (El programa de base de datos de perfiles SME se encuentra en [Microsoft Collaborate](https://aka.ms/collaborate). Consulte la publicación del blog [¡Ayúdenos a crear exámenes y contenido de aprendizaje!](/learn/certifications/posts/help-us-create-exams-and-learning-content) ¡Únase a nuestra base de datos de PYME hoy!)
-2. Vea los anuncios en Microsoft Learn o en nuestro [blog de la comunidad](https://www.microsoft.com/en-us/learning/community-blog.aspx) para obtener información sobre los próximos exámenes beta. Estas publicaciones contendrán un código que se puede usar para recibir un descuento en el examen. Estas publicaciones se hacen generalmente el día en que se abre el registro para un examen beta. Este código es diferente al enviado a los SME que forman parte de nuestra base de datos.
+2. Vea los avisos en el [Blog de Aprendizaje de Microsoft](https://aka.ms/learningblog) para información sobre los próximos exámenes beta. Estas publicaciones contendrán un código que se puede usar para recibir un descuento en el examen. Estas publicaciones se hacen generalmente el día en que se abre el registro para un examen beta. Este código es diferente al enviado a los SME que forman parte de nuestra base de datos.
 
 Tenga en cuenta que los puestos son limitados y están disponibles por orden de llegada, y que los exámenes beta no se entregan en China, India, Pakistán o Turquía por razones de seguridad.
 

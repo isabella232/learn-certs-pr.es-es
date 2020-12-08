@@ -12,15 +12,13 @@ ms.prod: non-product-specific
 ---
 # Exam security policy and Exam retake policy
 
-## <a name="security-policies"></a> Políticas y acuerdos
-
 Microsoft ha implementado directivas específicas que abordan las áreas de seguridad pertinentes a los exámenes de Microsoft Certification.
 
-### Vencimiento de la certificación y recertificaciones
+## Expiración de la Certificación y Recertificaciones
 
 Las certificaciones especializadas y basadas en roles de Microsoft tienen una validez efectiva de dos años a partir de la fecha en que se las certificaciones se obtienen. Debido a la pandemia del COVID-19 y su impacto en las personas y en las empresas, hemos proporcionado extensiones a las personas cuyas certificaciones inicialmente estaban programadas para vencer antes del 31 de diciembre de 2020. Continuaremos siguiendo desde cerca la situación del COVID-19. En caso de ser necesario, notificaremos y daremos más tiempo a las personas cuyas certificaciones estén por vencer. En este momento, no se requiere que 'Realice ninguna acción' para asegurarse de que sus certificaciones sigan teniendo validez. Continuaremos manteniéndolo informado sobre la situación y los cambios. Manténgase informado sobre las futuras actualizaciones del programa y los requisitos para la recertificación suscribiéndose al [Blog de Microsoft Learn](https://aka.ms/learningblog).
 
-### Prohibiciones para los candidatos
+## Prohibiciones para los candidatos
 
 Si un candidato infringe alguna regla de la prueba, directiva de examen o término del acuerdo del examen (acuerdo de confidencialidad), o emprende alguna mala conducta que disminuya de alguna forma la seguridad y la integridad del Microsoft Certification Program, el candidato tendrá permanentemente prohibido realizar cualquier examen de Microsoft Certification en el futuro. Además, se puede retirar la certificación del candidato de Microsoft Certification Program y se pueden revocar los resultados de sus exámenes y sus certificados.
 
@@ -41,7 +39,7 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
 - Infringir en modo alguno el acuerdo de confidencialidad de Microsoft (NDA, non-disclosure agreement)
 - Infringir en modo alguno el acuerdo con el proveedor del examen
 
-### Proceso de reclamación de los candidatos
+## Proceso de reclamación de los candidatos
 
 1. Los candidatos pueden enviar sus reclamaciones contra estas prohibiciones a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 2. El candidato puede interponer una reclamación respecto a la prohibición de falsificar informes de puntuación remitiendo el informe original (no se admiten digitalizaciones ni copias electrónicas) a:
@@ -52,7 +50,7 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
 
 3. El Microsoft Worldwide Learning Security Team revisará todas las solicitudes de reclamación enviadas y llevará a cabo una investigación exhaustiva de cada caso en particular; notificará directamente al candidato la conclusión de la investigación y la decisión final acerca de la reclamación.
 
-### Directiva sobre repetición de exámenes
+## Directiva sobre repetición de exámenes
 
 1. General directiva de repetición de exámenes de certificación de Microsoft
     1. Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 horas para poder repetirlo. En ese momento, los candidatos pueden iniciar sesión en su [panel de certificación](https://aka.ms/certdashboard) y reprogramar el examen por su cuenta.
@@ -92,20 +90,20 @@ Entre los ejemplos de mala conducta, uso indebido y fraude se incluyen, pero no 
     1. Los exámenes Beta se pueden tomar solo una vez durante el período beta. Si el candidato aprueba el examen (determinado después de que finaliza el período beta), cuenta para el crédito de la certificación. Si el candidato suspende el examen, se puede volver a hacerlo según las políticas anteriores.
     2. Esta directiva sustituye la directiva general sobre repeticiones.
 
-### Cierres del centro de pruebas por motivos de seguridad
+## Cierres del centro de pruebas por motivos de seguridad
 
 1. Microsoft puede suspender las pruebas de cualquier ubicación cuando considera que hay un problema de seguridad o de integridad.
 2. Microsoft puede suspender las pruebas en centros relacionados con los sitios de las pruebas que planteen riesgos de seguridad.
 
-### Proceso de reclamación para centros de pruebas
+## Proceso de reclamación para centros de pruebas
 
 Los propietarios de centros de pruebas pueden recurrir el cierre de un sitio enviando una reclamación a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Análisis posterior de los datos
+## Análisis posterior de los datos
 
 Microsoft utilizará el análisis posterior de los datos como base de una acción ejecutoria contra un candidato. Las pruebas estadísticas pueden demostrar la falta de integridad del examen o pueden usarse para corroborar las pruebas de una actividad inadecuada. Sobre la base de pruebas estadísticas, se pueden cancelar exámenes y puntuaciones, excluir a candidatos y clausurar los centros.
 
-### Pruebas fuera del país
+## Pruebas fuera del país
 
 **Para poder presentarse a un examen de Microsoft Certification en un centro de pruebas de en India, China o Pakistán, debe ser residente legal de dicho país. Si es residente legal de dicho país, tenga en cuenta los siguientes aspectos:**
 
@@ -121,15 +119,15 @@ Los candidatos que residen en Eslovenia solo recibirán la opción de entrega de
 
 - Los candidatos que residen fuera de Eslovenia pueden ver la supervisión en línea como una opción de prueba disponible, sin embargo, no podrán completar con éxito la prueba cuando presenten la identificación de ciudadanía eslovena (pasaporte u otra identificación) como prueba de identificación. Estos candidatos deben programar un examen en un centro de exámenes.
 
-### Repetición de pruebas de los candidatos a petición de Microsoft
+## Repetición de pruebas de los candidatos a petición de Microsoft
 
 1. Microsoft se reserva el derecho a pedir en cualquier momento a cualquiera de los candidatos que repita las pruebas si sospecha que ha tenido lugar alguna actividad fraudulenta o descubre anomalías en las pruebas.
 2. La repetición de la prueba se realizará en un local seleccionado por Microsoft y en el momento acordado entre Microsoft y el candidato.
 
-### Revocación de certificaciones
+## Revocación de certificaciones
 
 Si un candidato infringe alguna regla de la prueba, directiva de examen o término del acuerdo del examen (acuerdo de confidencialidad), o emprende alguna mala conducta que disminuya de alguna forma la seguridad y la integridad del Microsoft Certification Program, el candidato tendrá permanentemente prohibido realizar cualquier examen de Microsoft Certification en el futuro. Además, se puede retirar la certificación del candidato de Microsoft Certification Program y se pueden revocar los resultados de sus exámenes y sus certificados.
 
-### Derecho de exclusión
+## Derecho de exclusión
 
 A fin de velar por la seguridad y la integridad, Microsoft se reserva el derecho a excluir por completo regiones, países y centros de pruebas específicos del Microsoft Certification Program.

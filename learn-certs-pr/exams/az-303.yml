@@ -7,6 +7,8 @@ uid: exam.az-303
 displayName: AZ-303
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
+  </div>
 
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad.
 
@@ -22,9 +24,13 @@ practiceTestUrl: https://www.mindhub.com/p/MU-AZ-303?utm_source=microsoft&utm_me
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
+- El contenido de este examen se actualizará el 24 de noviembre de 2020. Por favor, descargue el esquema de habilidades del examen a continuación para ver lo que va a cambiar.
 - Implementar y monitorear una infraestructura de Azure (50-55%)
 - Implementar y administrar plataformas de datos (10-15%)
 - Implementar soluciones para aplicaciones (10-15%)

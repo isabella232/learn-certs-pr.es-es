@@ -41,24 +41,23 @@ outlineSection: |-
   ### Módulo 3&#58; Solución de Nube, CDM & CDS
   Los temas y conceptos de este módulo incluyen&#58; 
 
-  Los conceptos básicos del CDM y el CDS  
-  Explicaciones de estas tecnologías de intercambio de datos. 
-
-  CDM vs. CDS  
-  Una breve discusión sobre cómo estas tecnologías interactúan y se complementan entre sí. 
-
-  Power Platform (Plataforma de energía)  
-  Este tema explora algunos de los componentes de Power Platform, la plataforma de aplicaciones empresariales de Microsoft. 
-
-  Escritura dual  
-  Una breve explicación de una nueva funcionalidad de integración bidireccional que Microsoft presentó en 2019.   
+  Conceptos claves del MDL y el CDS
+  Explicaciones de estas tecnologías de intercambio de datos.
+  
+  CDM vs. CDS
+  Una breve discusión sobre cómo estas tecnologías interactúan y se complementan entre sí.
+  
+  Power Platform
+  Este tema explora algunos de los componentes de Power Platform, la plataforma de aplicaciones empresariales de Microsoft.
+  
+  Escritura dual
+  Una breve explicación de una nueva funcionalidad de integración bidireccional que Microsoft presentó en 2019.
   #### Lecciones
   - Introducción
   - Conceptos básicos del CDM y el CDS
   - Plataforma de energía
   - Doble escritura
   - Ejercicio en grupo
-
 
   Después de completar este módulo, los estudiantes deben ser capaces de
   - Conversar con los clientes sobre lo que significa el CDM
@@ -114,7 +113,7 @@ outlineSection: |-
   - Describa el papel y la función de Azure DevOps cuando se conecta al LCS
   - Describa tres o más funciones del SLC y los beneficios que proporciona durante la implementación de soluciones
 
-  ### Module 6&#58; Soluciones Blueprinting Dynamics 365
+  ### Módulo 6&#58; Soluciones Blueprinting Dynamics 365
   Los temas incluyen&#58; 
 
   Desarrollar un proyecto de solución  
@@ -312,7 +311,7 @@ outlineSection: |-
   - Describa los principales impulsores y el uso de la estrategia de instancia.
 
 
-  ### Module 12&#58; Rendimiento
+  ### Módulo 12&#58; Rendimiento
   Los temas incluyen&#58; 
 
   Puntos de referencia del rendimiento 

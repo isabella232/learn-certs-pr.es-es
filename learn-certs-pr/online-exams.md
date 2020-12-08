@@ -272,7 +272,7 @@ Debe presentar un documento de identidad actual y oficial, como alguno de los si
 
 ### Otra información importante
 
-- Al igual que con cualquier otro examen de certificación de Microsoft, debe leer y aceptar los términos establecidos en nuestro [Acuerdo de confidencialidad](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA). Solo se le darán 5 minutos para leerlo, por lo tanto, le recomendamos que lo lea antes de su examen para asegurarse de que comprende completamente los requisitos y puede aceptarlos sin que se agote el tiempo. Si no está de acuerdo con la NDA en el tiempo asignado, no podrá tomar el examen.
+- Al igual que con cualquier otro examen de certificación de Microsoft, debe leer y aceptar los términos establecidos en nuestro [Acuerdo de confidencialidad](/learn/certifications/microsoft-exam-non-disclosure-agreement) (NDA). Solo se le darán 5 minutos para leerlo, por lo tanto, le recomendamos que lo lea antes de su examen para asegurarse de que comprende completamente los requisitos y puede aceptarlos sin que se agote el tiempo. Si no está de acuerdo con la NDA en el tiempo asignado, no podrá tomar el examen.
 - También debe cumplir con los requisitos de conducta del candidato. Esto incluye pero no se limita a lo siguiente:
   - No puede copiar ni registrar preguntas o respuestas del examen por ningún medio.
   - No puede compartir o discutir las preguntas o respuestas vistas en el examen con otros.
@@ -305,7 +305,7 @@ lo ayudará).
 
 **Nota** Puede esperar hasta 30 minutos antes de conectarse con un interlocutor (requerido para reconfirmar los requisitos de identidad o sala) o un supervisor después de completar el proceso de autocomprobación.
 
-Si no se conecta con a un supervisor 30 minutos **después de la hora programada para el examen**, se perdió la conexión. Puede reprogramar su examen de 24 a 30 horas después de la cita del examen original. Simplemente inicie sesión en su [panel de certificación](https://www.microsoft.com/learning/dashboard.aspx) con el correo electrónico asociado con su perfil de certificación de Microsoft para reprogramar. Le recomendamos que utilice el acceso autogestionado lo más posible, pero también puede comunicarse con Pearson VUE [soporte](https://home.pearsonvue.com/microsoft/contact) para obtener ayuda para reprogramar un examen. Tenga paciencia ya que las respuestas son más lentas de lo normal debido al COVID-19 (hasta cinco días).
+Si no se conecta con a un supervisor 30 minutos **después de la hora programada para el examen**, se perdió la conexión. Puede reprogramar su examen de 24 a 30 horas después de la cita del examen original. Simplemente inicie sesión en su [panel de certificación](https://aka.ms/certdashboard) con el correo electrónico asociado con su perfil de certificación de Microsoft para reprogramar. Le recomendamos que utilice el acceso autogestionado lo más posible, pero también puede comunicarse con Pearson VUE [soporte](https://home.pearsonvue.com/microsoft/contact) para obtener ayuda para reprogramar un examen. Tenga paciencia ya que las respuestas son más lentas de lo normal debido al COVID-19 (hasta cinco días).
 
 - La verificación de identidad y el escaneo de la sala son realizados por el usuario al completar la autocomprobación. Si no se identifican problemas o inquietudes durante la revisión de bienvenida de estos artefactos, se lo colocará en la cola del supervisor. Tan pronto como haya un supervisor disponible, podrá comenzar su examen. En los casos en que el usuario tenga preguntas acerca de los artefactos proporcionados, trabajará con usted para resolverlos.
 - Cuando lo haya hecho, comenzará el examen. El examinador no se comunicará con usted durante el examen a menos que surja algún problema.
@@ -327,10 +327,10 @@ Se puede acceder a los informes de puntaje desde su [panel de certificación](ht
 Encuentre respuesta a las preguntas frecuentes sobre exámenes bajo supervisión en línea.
 
 ### ¿Cómo sé si un examen en línea es adecuado para mí?
-Comience por asegurarse de que su ordenador cumpla con los [requisitos del sistema](/learn/certifications/online-exams#testing-session-protocol) y complete la [prueba del sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) requerida. Revise el [protocolo de sesión de prueba](/learn/certifications/online-exams#testing-session-protocol), para saber qué esperar durante el examen. Si tiene dudas o reservas sobre si su sistema cumple con los requisitos o sobre el protocolo de la sesión de prueba, le recomendamos que programe su examen en un centro de pruebas.
+Comience por asegurarse de que su ordenador cumpla con los [requisitos del sistema](/learn/certifications/online-exams#system-requirements) y complete la [prueba del sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) requerida. Revise el [protocolo de sesión de prueba](/learn/certifications/online-exams#testing-session-protocol), para saber qué esperar durante el examen. Si tiene dudas o reservas sobre si su sistema cumple con los requisitos o sobre el protocolo de la sesión de prueba, le recomendamos que programe su examen en un centro de pruebas.
 
 ### ¿Aún así puedo tomar mi examen en línea si mi sistema no pasa la prueba del sistema?
-No. No debe registrarse para un examen en línea si su sistema no pasa la [prueba del sistema](/learn/certifications/online-exams#take-a-system-test), ni debe programar un examen en línea si no puede tomar una foto clara de su identificación.
+No. No debe registrarse para un examen en línea si su sistema no pasa la [prueba del sistema](/learn/certifications/online-exams#system-requirements), ni debe programar un examen en línea si no puede tomar una foto clara de su identificación.
 
 ### ¿Cómo me registro para un examen en línea?
 Para registrarse, primero inicie sesión en su Microsoft [Panel de certificación](https://aka.ms/certdashboard) utilizando el correo electrónico asociado con su perfil de certificación de Microsoft. Seleccione el botón **Programar examen** y luego seleccione el examen de Microsoft que desea realizar en la [lista de exámenes](/learn/certifications/browse/). Si la realización de exámenes en línea está disponible en su país, podrá seleccionar dicha opción durante el proceso de registro en el examen. También seleccionará el idioma del programa de bienvenida, interlocutor y supervisor.
@@ -342,7 +342,7 @@ Tenemos el firme compromiso de proteger la integridad de nuestros exámenes, ind
 No, puede mezclar y combinar métodos de entrega (en línea o en persona en un centro de examinación).
 
 ### Después de que se inicie mi examen y se me asigne un supervisor, ¿cuánto tiempo tengo para completar el examen?
-Contará con la misma cantidad de tiempo para completar el examen que tendría si se presentara al examen en un centro de pruebas de Pearson VUE. Revise las [Políticas de examen y preguntas frecuentes](/learn/certifications/certification-exam-policies#frequently-asked-questions) para ver los tiempos de los exámenes según el tipo de examen.
+Contará con la misma cantidad de tiempo para completar el examen que tendría si se presentara al examen en un centro de pruebas de Pearson VUE. Revise las [Resumen del proceso de examen](/learn/certifications/exam-process-overview) para ver los tiempos de los exámenes según el tipo de examen.
 
 ### ¿Los exámenes en línea son más difíciles que los exámenes realizados en los centros de examen?
 No. Los exámenes son equivalentes en términos de dificultad.
@@ -360,7 +360,7 @@ Para resolver las dudas relacionadas con el registro, utilice los vínculos del 
 Revise la [política de identificación](https://home.pearsonvue.com/Policies/1S/English) actual para obtener una lista de identificación aceptable. **El nombre en su perfil de Certificación de Microsoft debe coincidir exactamente con el nombre que aparece en la identificación emitida por el gobierno que presentará para ingresar al examen**. Si se encuentra en proceso de actualización o renovación de su identificación, tenga en cuenta que no se aceptan formularios de cambio del nombre legal, incluidos los formularios de renovación de ID, para la realización de exámenes en línea.
 
 ### ¿Cómo cambio mi nombre legal en mi perfil de certificación de Microsoft?
-El nombre en su perfil de certificación de Microsoft debe coincidir exactamente con la identificación emitida por el gobierno que proporcionará durante el proceso de registro del examen. Si necesita cambiar su nombre, comuníquese con [Soporte de certificación](https://aka.ms/mcpforum) y un moderador del foro lo ayudará.
+El nombre en su perfil de certificación de Microsoft debe coincidir exactamente con la identificación emitida por el gobierno que proporcionará durante el proceso de registro del examen. Si necesita cambiar su nombre, por favor envíe una solicitud a través del [formulario de actualización del nombre legal](https://aka.ms/MSCertificationLegalNamechange).
 
 ### Tengo una cita programada para un examen en línea. ¿Cómo empiezo?
 Recomendamos iniciar sesión 15 minutos antes para iniciar el proceso de registro. SOLO TENDRÁ hasta 15 minutos después de la hora programada de su cita para comenzar el proceso del examen.

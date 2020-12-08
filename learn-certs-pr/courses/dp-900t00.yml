@@ -29,6 +29,15 @@ summary: |-
 
   #### Perfil de audiencia
   La audiencia de este curso son personas que desean aprender los fundamentos de los conceptos de bases de datos en un entorno de nube, obtener habilidades básicas en servicios de datos en la nube y desarrollar su conocimiento fundamental de los servicios de datos en la nube dentro de Microsoft Azure.
+  
+prerequisitesSection: |-
+  No se requiere una certificación previa antes de tomar este curso. Los estudiantes que aprueben el curso Azure Data Fundamentals comenzarán con algunos conocimientos básicos de informática y conceptos de Internet, y con un interés en extraer conocimientos de los datos.
+  
+  Específicamente&#58; 
+  - Experiencia en el uso de un navegador web, como [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui).
+  - Familiaridad con conceptos básicos relacionados con los datos, como el trabajo con tablas de datos en una hoja de cálculo y la visualización de datos mediante gráficos.
+  - Disposición a aprender mediante la exploración práctica.
+  
 outlineSection: |-
   ### Módulo 1&#58; Explorar los conceptos básicos de datos
   Los estudiantes aprenderán los fundamentos de los conceptos de bases de datos en un entorno de nube, obtendrán habilidades básicas en servicios de datos en la nube y desarrollarán su conocimiento básico de los servicios de datos en la nube dentro de Microsoft Azure. Los estudiantes identificarán y describirán conceptos básicos de datos como relacionales, no relacionales, big data y análisis, y explorarán cómo se implementa esta tecnología con Azure. Los estudiantes explorarán los roles, tareas y responsabilidades en el mundo de los datos.

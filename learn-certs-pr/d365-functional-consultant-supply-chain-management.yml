@@ -15,12 +15,13 @@ levels:
 skills:
 - Usar funcionalidades comunes y herramientas de implementación
 - Configurar seguridad, procesos y opciones
-- Realizar la migración de datos
+- Administrar los datos de finanzas y operaciones
 - Validar y asistir la solución
 - Implementar la gestión de la información del producto
 - Implementar la gestión de inventario
-- Implementar y gestionar procesos de la cadena de suministro
-- Implementar la gestión de almacenes y la gestión de transporte y realizar procesos de negocio
+- Implementar y gestionar los procesos de la cadena de suministro
+- Implementar la gestión de almacenes y la gestión del transporte
+- Implementar una planificación maestra
 roles:
 - functional-consultant
 type: role-based

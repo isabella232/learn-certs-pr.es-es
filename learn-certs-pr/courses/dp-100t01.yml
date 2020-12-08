@@ -26,10 +26,18 @@ summary: |-
   #### Perfil de audiencia
   Este curso está diseñado para científicos de datos con conocimiento existente de Python y marcos de aprendizaje automático como Scikit-Learn, PyTorch y Tensorflow, que desean construir y operar soluciones de aprendizaje automático en la nube.
 prerequisitesSection: |-
-  Antes de asistir a este curso, los estudiantes deben tener;
-  - Un conocimiento fundamental de Microsoft Azure
-  - Experiencia de escribir código Python para trabajar con datos, utilizando bibliotecas como Numpy, Pandas y Matplotlib. 
-  - Comprensión de la ciencia de datos; incluyendo cómo preparar datos y entrenar modelos de aprendizaje automático utilizando bibliotecas comunes de aprendizaje automático como Scikit-Learn, PyTorch o Tensorflow.
+  Los exitosos científicos de Azure Data comienzan este rol con un conocimiento fundamental de los conceptos de computación en nube, y experiencia en ciencia de datos generales y herramientas y técnicas de aprendizaje de máquinas.
+  
+  Específicamente&#58;
+  - Crear recursos de nube en Microsoft Azure.
+  - Usando Python para explorar y visualizar datos.
+  - Entrenamiento y validación de modelos de aprendizaje automático usando marcos comunes como Scikit-Learn, PyTorch y TensorFlow.
+  
+  Para obtener estos conocimientos previos, tome el siguiente entrenamiento online gratuito antes de asistir al curso&#58;
+  - [Explorar los conceptos de la nube de Microsoft](/learn/paths/explore-microsoft-azure-cloud-conceptsts/).
+  - [Crear modelos de aprendizaje automático](/learn/paths/create-machine-learn-models/).
+  
+  Si es completamente nuevo en la ciencia de los datos y el aprendizaje automático, por favor complete primero [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Módulo 1&#58; Introducción a Azure Machine Learning
   En este módulo, aprenderá cómo aprovisionar un espacio de trabajo de Azure Machine Learning y usarlo para administrar activos de aprendizaje automático, como datos, cómputo, código de capacitación de modelos, métricas registradas y modelos capacitados. Aprenderá a usar la interfaz de estudio de Azure Machine Learning basada en la web, así como el SDK de Azure Machine Learning y herramientas de desarrollo como Visual Studio Code y Jupyter Notebooks para trabajar con los activos en su espacio de trabajo.

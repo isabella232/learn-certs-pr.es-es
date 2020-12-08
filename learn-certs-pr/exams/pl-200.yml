@@ -14,6 +14,8 @@ summary: |-
 
   Los candidatos colaboran activamente con los miembros del equipo de control de calidad para garantizar que las soluciones cumplan con los requisitos funcionales y no funcionales. Identifican, generan y entregan artefactos para el empaquetado y la implementación a los ingenieros de DevOps, y brindan capacitación en operaciones y mantenimiento a los administradores de Power Platform.
 
+  Los consultores funcionales de Power Platform deben estar familiarizados con las aplicaciones impulsadas por el modelo Dynamics 365 y deben tener experiencia en el uso de los componentes de Power Platform para ampliar y personalizar las aplicaciones impulsadas por el modelo Dynamics 365.
+
   <div><strong><br/>Los exámenes beta no se califican de inmediato porque estamos recopilando datos sobre la calidad de las preguntas y el examen. Obtener más <a href="/learn/certifications/certification-exams#participating-in-beta-exams">información sobre el valor y la importancia de los exámenes beta</a>.</strong></div>
 subTitle: 'Este examen mide su capacidad para completar las siguientes tareas: configurar Common Data Service; crear aplicaciones mediante Power Apps; crear y administrar Power Automate; implementar chatbots de Power Virtual Agents; e integrar Power Apps con otras aplicaciones y servicios.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Teams Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

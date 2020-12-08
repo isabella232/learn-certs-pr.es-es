@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 ## Microsoft Certification Program Agreement
 
-## Políticas y acuerdos
-
 El presente Acuerdo del programa de certificación de Microsoft (**"Acuerdo"**) es un documento legal entre usted (**"usted"** o **"su"**) y Microsoft (**"Microsoft"**) en cuanto a su participación en el Programa de Certificación de Microsoft (**“Programa”**). Los términos de este Acuerdo se aplican a (a) todas las certificaciones de Microsoft que haya obtenido y a (b) su participación en el Programa, incluidos el acceso y el uso de cualquier ventaja del Microsoft Certification Program, las credenciales de Microsoft Certification y la credencial de Microsoft Certification que Microsoft ponga a su disposición como parte del Programa. Lea este Acuerdo detenidamente. AL USAR O ACCEDER A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION, ACEPTA LOS TÉRMINOS Y CONDICIONES DEL ACUERDO. SI NO ACEPTA ESTE ACUERDO, NO UTILICE NI ACCEDA A LAS VENTAJAS DEL MICROSOFT CERTIFICATION PROGRAM O A LA CREDENCIAL DE MICROSOFT CERTIFICATION.
 
 1. DEFINICIONES

@@ -52,18 +52,9 @@ La inscripción al curso estará disponible en inglés solo para comenzar. Se ag
 			<td>
 				<ul>
 					<li>Consulte las preguntas <a href="/learn/certifications/training-faq">frecuentes</a>.</li>
-					<li>Si no encuentra una respuesta a su pregunta, publique su pregunta en la programación de <a href="https://trainingsupport.microsoft.com/iltvilt/forum">cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn</a>.
+					<li>Si no encuentra una respuesta a su pregunta, publique su pregunta en la programación de <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>Comentarios generales</em></strong> para mejorar la experiencia o el servicio </p>
-            </td>
-            <td>
-                <p>Envíe sus comentarios con este formulario y seleccione "Producto o funcionalidad", luego "Capacitación dirigida por un instructor" y <a href="/learn/support/troubleshooting#report-feedback">proporcione sus comentarios detallados</a>.</p>
-				<p>Tenga la seguridad de que se atenderán sus comentarios, pero no recibirá una respuesta a sus comentarios.</p>
             </td>
         </tr>
         <tr>

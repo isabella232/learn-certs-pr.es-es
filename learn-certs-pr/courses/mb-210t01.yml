@@ -5,7 +5,7 @@ metadata:
   description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
 courseNumber: 'MB-210T01'
-hoursToComplete: 24
+hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Instalar y configurar la aplicación
@@ -27,63 +27,59 @@ products:
 exams:
 - uid: exam.mb-210
 summary: |-
-  Microsoft Dynamics 365 for Sales es una aplicación de extremo a extremo para administrar el manejo de clientes y clientes potenciales; ayuda a rastrear los datos contra los objetivos de ventas, automatizando las mejores prácticas, aprendiendo de los datos y más.
-  Nuestro equipo de expertos reconocidos a nivel mundial lleva a los estudiantes paso a paso, desde el líder hasta la oportunidad y el trato cerrado. Usando las opciones de automatización y personalización disponibles de la aplicación, los estudiantes aprenderán cómo permitir que el personal de ventas sea su ser más productivo.
-  
+  Microsoft Dynamics 365 Sales es una aplicación completa para gestionar el manejo de clientes y clientes potenciales. Usando Dynamics 365 Sales, las organizaciones pueden realizar un seguimiento de los datos en relación con los objetivos de ventas, automatizar las mejores prácticas, aprender de los datos y mucho más.
+
+  Únase a nuestro equipo de expertos reconocidos a nivel mundial mientras le llevan paso a paso desde posible cliente hasta la oportunidad de cerrar el trato. Utilizando las opciones de automatización y personalización disponibles en la aplicación, aprenderá cómo hacer que el personal de ventas sea más productivo.
+
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Dynamics 365 Functional Consultant es responsable de realizar el descubrimiento, capturar los requerimientos, involucrar a los expertos en la materia y a los interesados, traducir requerimientos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución utilizando capacidades fuera de lo común, extensibilidad sin código, integraciones de aplicaciones y servicios.
 prerequisitesSection: |-
-  Familiaridad con las aplicaciones comerciales y el deseo de personalizarlas e implementarlas para los negocios.
+  Familiaridad con las aplicaciones empresariales y el deseo de personalizarlas e implementarlas en su negocio.
 outlineSection: |-
-  ### Módulo 1&#58; Resumen de ventas
-  En este módulo, los estudiantes aprenderán los conceptos básicos de ventas en Dynamics 365. Instalarán y configurarán la aplicación, así como aprenderán sobre roles de seguridad, términos clave y el modelo de datos.
+  ### Módulo 1&#58; Configurar Dynamics 365 Sales
+  En este módulo, aprenderemos a configurar la aplicación de ventas para que se ajuste a los requisitos exclusivos de una organización.
   #### Lecciones
-  - Resumen de ventas
-  - Configuración de ventas
-  - Resumen del módulo
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Instalar y configurar la aplicación de ventas
-  - Identificar escenarios de ventas comunes
-  ### Módulo 2&#58; Trabajando con oportunidades
-  En este módulo, los estudiantes aprenderán cómo administrar registros de datos de clientes, usar herramientas de ventas integradas y aprovechar una oportunidad.
+  - Configurar ajustes de organización y administración 
+  - Crear y configurar visualizaciones de ventas
+  
+  Después de completar este módulo, será capaz de&#58; 
+  - Instalar y configurar la aplicación de ventas.
+  - Identificar los escenarios de venta comunes.
+  
+  
+  ### Module 2&#58; Manejar clientes, clientes potenciales y oportunidades
+  En este módulo, aprenderá a gestionar los registros de datos de los clientes, a utilizar las herramientas de ventas incorporadas y a tomar la iniciativa en la lifecycle de los clientes potenciales.
   #### Lecciones
-  - Administrar clientes
-  - Trabajar con oportunidades
-  - Inteligencia integrada
-  - Cuadernos de estrategias
-  - Herramientas integradas de ventas
-  - Resumen del módulo
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Crear registros de clientes
-  - Usar herramientas de ventas
-
-
-  ### Módulo 3&#58; Cotizaciones a pedidos
-  En este módulo, los estudiantes aprenderán cómo usar presupuestos y pedidos para usar Dynamics 365 for Sales para administrar oportunidades de ventas para cerrar negocios.
+  - Gestionar los clientes usando cuentas y contactos
+  - Manejar prospectos
+  - Gestionar oportunidades
+  
+  Después de completar este módulo, será capaz de&#58;
+  - Crear registros de clientes.
+  - Usar herramientas de ventas. 
+  - Crear prospectos y oportunidades.
+  
+  
+  ### Módulo 3&#58; Procesar los pedidos de venta
+  En este módulo, aprenderemos a utilizar las cotizaciones y los pedidos para seguir utilizando Dynamics 365 Sales para gestionar sus oportunidades de venta y convertirlas en acuerdos cerrados.
   #### Lecciones
-  - Resumen del procesamiento de pedidos
-  - Gestionar catálogo de productos
-  - Crear y gestionar presupuestos
-  - Crear y gestionar pedidos y facturas
-  - Resumen del módulo
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Crear y utilizar el catálogo de productos
-  - Agregar cotizaciones a las oportunidades
-  - Completar una venta con un pedido
-
-
-  ### Módulo 4&#58; Análisis de ventas e información
-  En este módulo, los estudiantes aprenderán cómo crear y usar metas, integrarse con PowerBI y habilitar Sales AI.
+  - Gestionar presupuestos, pedidos y facturas
+  - Gestionar y organizar el catálogo de productos
+  - Gestionar la previsión
+  - Configurar los playbooks
+  
+  Después de completar este módulo, será capaz de&#58;
+  - Crear y utilizar el catálogo de productos.
+  - Añadir presupuestos a oportunidades.
+  - Completar una venta con un pedido.
+  
+  
+  ### Módulo 4&#58; Integrar componentes con Dynamics 365 Sales
+  En este módulo, aprenderemos a utilizar las herramientas de análisis de ventas para potenciar el equipo de ventas.
   #### Lecciones
-  - Visión general
-  - Power BI
-  - AI para ventas
-  - Resumen de módulos
-
-  Después de completar este módulo, los estudiantes podrán&#58;
-  - Crear y usar objetivos
-  - Integrar con PowerBI
-  - Habilitar la funcionalidad de AI de ventas
-
+  - Aprovechar Embedded Intelligence en Dynamics 365 Sales
+  - Manejar relaciones con venta social
+  
+  Después de completar este módulo, será capaz de&#58; 
+  - Usar herramientas de Embedded Intelligence.
+  - Gestionar relaciones usando herramientas de venta social.

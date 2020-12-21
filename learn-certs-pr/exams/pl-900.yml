@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   Los candidatos para este examen aspiran a mejorar la productividad al comprender las capacidades de Power Platform, automatizar los procesos comerciales básicos con Power Automate, realizar análisis de datos básicos con Power BI, actuar de manera más efectiva creando experiencias simples de Power Apps y creando potentes chatbots usando Power Agentes virtuales.
+
+  Puede ser candidato a obtener créditos universitarios ACE si aprueba este examen de certificación. Vea [Créditos universitarios ACE para los exámenes de certificación](/learn/certifications/ace-credit-for-certification-exams) para los detalles.
 subTitle: Este examen mide su capacidad para describir el valor comercial de Power Platform; identificar los componentes principales de Power Platform; demostrar las capacidades de Power BI; describir las capacidades de Power Apps; demostrar las capacidades de Power Automate; y demostrar el valor comercial de Power Virtual Agents.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - Demostrar las capacidades de Power Automate (15-20%)
 - Demostrar el valor comercial de los agentes virtuales de energía (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:

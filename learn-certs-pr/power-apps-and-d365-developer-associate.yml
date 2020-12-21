@@ -11,6 +11,8 @@ summary: |-
   <div><strong>ESTA CERTIFICACIÓN SE RETIRARÁ EL jueves, 31 de diciembre de 2020. Ya no podrá conseguir esta certificación después de dicha fecha. Todas las certificaciones que obtenga antes de las fechas de retiro seguirán apareciendo en su expediente académico en el <a href="https://aka.ms/certdashboard">Panel de certificación</a>.</strong><br/><br/></div></div>
 
   Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+
+  <div><strong><br/>Dado a que esta certificación se retira el 31 de diciembre de 2020, Microsoft no actualizará las referencias de "Common Data Service" a "Microsoft Dataverse"."</strong></div>
 subTitle: Los desarrolladores que trabajan con Microsoft Power Apps y Dynamics 365 son responsables de diseñar, desarrollar, asegurar y extender una implementación de Dynamics 365.
 levels:
 - intermediate

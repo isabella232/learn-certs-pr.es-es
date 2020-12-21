@@ -30,7 +30,25 @@ summary: |-
   Este curso está diseñado para el consultor funcional de Dynamics 365 Supply Chain Management. El consultor funcional de Dynamics 365 Supply Chain Management es un recurso clave que diseña y configura aplicaciones para cumplir con los requisitos de un cliente. El consultor funcional analiza los requerimientos del negocio y traduce esos requerimientos en procesos y soluciones de negocio completamente realizados que implementan las prácticas recomendadas por la industria. El consultor funcional se especializa en uno o más de los siguientes conjuntos de características de Dynamics&#58; finanzas, fabricación o gestión de la cadena de suministro. Se asocian con arquitectos, desarrolladores, administradores y otros interesados para ofrecer soluciones que satisfagan o superen las necesidades de sus clientes.
 outlineSection: |-
   ### Módulo 1&#58; Implementar la gestión de información de productos
-  Este módulo le presentará los siguientes temas&#58; Crear y liberar productos y variantes de productos Crear y aplicar plantillas de productos Crear listas de materiales (BOMs) Identificar el propósito y las capacidades de los modelos de configuración de productos Configurar pesos de captura Configurar productos de entrega directa Crear y gestionar las dimensiones de inventario Configurar grupos de artículos Crear y asignar códigos de barras y códigos del Número de Identificación Comercial Global (GTIN) Configurar jerarquías de categorías y atributos de productos Configurar conversiones de unidades de productos Configurar ajustes de orden por defecto Describir métodos de costeo de inventario y grupos de modelos Configurar versiones de costeo para costos estándar y planificados Configurar precios de compra, precios de venta y acuerdos comerciales por defecto.
+  Este módulo le presentará los siguientes temas&#58; 
+  
+  Crear y lanzar productos y variantes de productos  
+  Crear y aplicar plantillas de productos  
+  Crear listas de materiales (BOMs)  
+  Identificar el propósito y las capacidades de los modelos de configuración del producto  
+  Configurar pesos de las capturas  
+  Configurar productos de entrega-directa  
+  Crear y gestionar dimensiones del inventario  
+  Configurar grupos de artículos  
+  Crear y asignar claves de códigos de barras y códigos Global Trade Identification Number (GTIN)  
+  Configurar jerarquías de categorías y atributos de productos  
+  Configurar conversiones de unidades de producto  
+  Configurar ajustes de orden por defecto  
+  Describir métodos de costeo de inventario y grupos de modelos  
+  Configurar versiones de cálculo de costes para costes estándar y costes planificados  
+  Configurar y predeterminar precios de compra, precios de venta y acuerdos comerciales.
+
+  
   #### Lecciones
   - Crear y administrar productos
   - Configurar los productos para la gestión de la cadena de suministro
@@ -41,7 +59,16 @@ outlineSection: |-
 
 
   ### Módulo 2&#58; Implementar la gestión del inventario
-  Este módulo le presentará las siguientes áreas&#58; Configuración de parámetros y diarios de gestión del inventario Configurar el desglose del inventario Estructura Configurar las clasificaciones ABC Configurar los informes de valoración del inventario Crear y procesar diarios que incluyan la lista de materiales, la llegada de artículos, la transferencia, el movimiento, el ajuste del inventario, el recuento y los diarios de recuento de etiquetas Crear y procesar órdenes de transferencia Realizar cierres y ajustes del inventario.
+  Este módulo le presentará las siguientes áreas&#58;  
+
+  Establecer los parámetros de gestión del inventario y diarios  
+  Configurar estructura de desglose del inventario  
+  Configurar clasificaciones ABC  
+  Configurar informes de valoración del inventario  
+  Crear y procesar diarios que incluyan lista de materiales, llegada de artículos, transferencia, movimiento, ajuste del inventario, recuento y etiqueta de diarios de recuento  
+  Crear y procesar órdenes de transferencia  
+  Realizar cierres y ajustes del inventario.
+
   #### Lecciones
   - Configurar la administración del inventario
   - Gestionar y procesar las actividades del inventario
@@ -60,7 +87,24 @@ outlineSection: |-
   - Poner en práctica la gestión del inventario
 
   ### Módulo 3&#58; Implementar y gestionar los procesos de la cadena de suministro
-  Este módulo le presentará los siguientes temas&#58; Crear y gestionar solicitudes de compra, peticiones de oferta (RFQ) y órdenes de compra (PO) Configurar los procesos de gestión de cambios Configurar y aplicar reembolsos al proveedor Introducción a la colaboración con proveedores Gestionar el inventario en consignación Gestionar las entregas excesivas y defectuosas Configurar las categorías de adquisiciones y las políticas de compra Configurar los cargos Configurar las ofertas pedidos de venta y devolución de pedidos Configurar grupos de ventas y comisiones Configurar búsquedas de clientes, productos y prospectos Configurar y procesar documentos de relaciones comerciales entre empresas Introducción a D365 Guides Authoring de D365 Guides Operating de D365 Guides.
+  Este módulo le presentará los siguientes temas&#58; 
+  
+  Crear y gestionar solicitudes de compra, peticiones de oferta (RFQs) y pedidos de compra (POs)  
+  Configurar procesos de gestión del cambio  
+  Configurar y aplicar reembolsos a proveedores  
+  Introducción a colaboración con proveedores  
+  Gestionar inventario de consignaciones  
+  Gestionar entregas excesivas o insuficientes  
+  Configurar categorías de adquisiciones y políticas de compra  
+  Configurar cargos  
+  Configurar ofertas, pedidos de venta y pedidos de devolución  
+  Configurar grupos de ventas y comisiones  
+  Configurar búsquedas de clientes, productos y prospectos  
+  Configurar y procesar documentos de relaciones comerciales entre empresas  
+  Introducción a D365 Guides
+  Autoría de D365 Guides
+  Funcionamiento de D365 Guides.  
+
   #### Lecciones
   - Poner en práctica las adquisiciones y el abastecimiento
   - Implementar características comunes de venta y comercialización
@@ -87,7 +131,27 @@ outlineSection: |-
   - Aplicar y gestionar los procesos de la cadena de suministro
 
   ### Módulo 4&#58; Implementar la gestión del almacén y la gestión del transporte
-  Este módulo le presentará los siguientes temas&#58; Crear sitios, almacenes, ubicaciones, formatos de ubicación, perfiles de ubicación, tipos de ubicación y zonas Implementar directivas de ubicación Configurar estados de inventario, grupos de secuencia de unidades y jerarquías de reserva Implementar la onda y el trabajo, plantillas Implementar la plantilla de construcción de carga de onda Configurar menús de dispositivos móviles, elementos de menú, y mostrar la configuración gestionar los procesos de movimiento de existencias de inventario Realizar el recuento de fases Procesar los pedidos entrantes y salientes Procesar los envíos Describir el proceso de reposición cross-docking Introducción Configurar los transportistas y grupos de transportistas Realizar la planificación y ejecución de cargas y envíos Configurar y generar facturas y recibos de flete Configurar planes y guías de ruta Configurar motores de rutas y tarifas Configurar y utilizar la programación de citas en el puerto
+  Este módulo le presentará los siguientes temas&#58; 
+  
+  Crear sitios, almacenes, ubicaciones, formatos de ubicación, perfiles de ubicación, tipos de ubicación y zonas  
+  Implementar directivas de localización  
+  Configurar estados de inventario, grupos de secuencia de unidades y jerarquías de reserva  
+  Implementar plantillas ondulatorias y de trabajo 
+  Implementar plantilla ondulatoria de construcción  
+  Configurar menús, elementos de menú y ajustes de pantalla de dispositivos móviles  
+  Gestionar procesos de movimiento de existencias de inventarios  
+  Realizar el recuento de ciclos  
+  Procesar los pedidos de entrada y salida  
+  Procesar envíos  
+  Describir el proceso de reabastecimiento cross-docking  
+  Introducción  
+  Configurar empresas de transporte y grupos de empresas de transporte  
+  Realizar planificación y ejecución de cargas y envíos  
+  Configurar y generar facturas y recibos de flete  
+  Configurar planes de ruta y guías  
+  Configurar motores de ruta y tasa  
+  Configurar y utilizar programación de citas en el muelle  
+
   #### Lecciones
   - Configurar la gestión de almacenes
   - Realizar procesos de gestión de almacenes
@@ -119,7 +183,13 @@ outlineSection: |-
   - Poner en práctica la gestión de almacenes y la gestión del transporte
 
   ### Módulo 5&#58; Configurar y gestionar el control de calidad y la gestión de la calidad
-  Este módulo le introducirá en los siguientes temas&#58; Configurar el control de calidad Configurar la gestión de calidad Gestionar las órdenes de calidad y la cuarentena Gestionar el bloqueo de inventario.
+  Este módulo le introducirá en los siguientes temas&#58; 
+  
+  Configurar control de calidad  
+  Configurar gestión de calidad  
+  Gestionar órdenes de calidad y de cuarentena  
+  Manejar bloqueo de inventario
+
   #### Lecciones
   - Configurar el control de calidad y la gestión de calidad
   - Gestionar el control y la gestión de la calidad
@@ -135,7 +205,19 @@ outlineSection: |-
   - Configurar y gestionar el control y la gestión de la calidad
   
   ### Módulo 6&#58; Implementar la planificación maestra
-  Este módulo le presentará los siguientes temas&#58; Diferenciar entre la optimización de la planificación y la planificación maestra Configurar grupos de cobertura y cobertura de artículos Configurar los parámetros de planificación maestra, el plan maestro, los planes de previsión y los planes de continuidad Diferenciar entre los mensajes de acción, los mensajes de retraso, las barreras temporales y los días negativos Procesar y ver las órdenes planificadas Configurar y utilizar el formulario de programación de suministros Configurar y procesar los diarios de existencias de seguridad Configurar e implementar la planificación maestra interempresarial Implementar la previsión basada en la demanda Implementar la optimización de la planificación
+  Este módulo le presentará los siguientes temas&#58; 
+  
+  Diferenciar entre la optimización de la planeación y planificación maestra  
+  Establecer grupos de cobertura y cobertura de artículos  
+  Configurar parámetros de planificación maestra, plan maestro, planes de previsión y planes de continuidad  
+  Diferenciar entre mensajes de acción, mensajes de retraso, barreras temporales y días negativos  
+  Procesar y ver órdenes planificadas  
+  Establecer y utilizar el formulario de Supply Schedule
+  Configurar y procesar los diarios de seguridad  
+  Elaborar y poner en práctica la planificación maestra interempresarial  
+  Poner en práctica el pronóstico basado en la demanda  
+  Poner en práctica un plan de optimización  
+
   #### Lecciones
   - Configurar la planificación maestra y la previsión
   - Ejecutar los planes maestros y gestionar las órdenes planificadas

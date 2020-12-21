@@ -9,6 +9,8 @@ summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
 
   Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial; realidad mixta; la plataforma de energía; conceptos de nubes; seguridad en la nube; Seguridad de Dynamics 365; Servicio de datos comunes; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.
+
+  <div><br/><strong>Nota&#58; Microsoft no actualizará las referencias de "Common Data Service" a "Microsoft Dataverse" en este momento.</strong></div>
 subTitle: 'Demuestre que comprende Microsoft Dynamics 365; inteligencia artificial (IA); realidad mixta (MR); la plataforma de energía; conceptos de nubes; seguridad en la nube; Seguridad de Dynamics 365; Servicio de datos comunes; Informes de Dynamics 365; Integraciones de Dynamics 365; y despliegue en la nube.'
 levels:
 - beginner
@@ -18,7 +20,10 @@ skills:
 - Describir aplicaciones basadas en modelos
 - Describir aplicaciones de finanzas y operaciones
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 type: fundamentals
 products:
 - dynamics-365

@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   Los científicos de datos de Azure aplican sus conocimientos de ciencia de datos y aprendizaje para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure; en particular, con Azure Machine Learning Service. Esto implica planear y crear un entorno de trabajo adecuado para las cargas de trabajo de ciencia de datos en Azure, ejecutar experimentos de datos y capacitar modelos predictivos, administrar y optimizar modelos e implementar modelos de aprendizaje automático en la producción.
+
+  Puede ser candidato a obtener créditos universitarios ACE si aprueba este examen de certificación. Vea [Créditos universitarios ACE para los exámenes de certificación](/learn/certifications/ace-credit-for-certification-exams) para los detalles.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: configurar un espacio de trabajo de Azure Machine Learning; ejecutar experimentos y entrenar modelos; optimizar y gestionar modelos; e implementar y consumir modelos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA

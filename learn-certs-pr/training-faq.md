@@ -85,11 +85,11 @@ Este es un nuevo servicio que se lanzó en "Vista previa pública" con una peque
 
 ### ¿Por qué otros cursos de formación son más o menos costosos que el que quiero asistir?
 
-Como en cualquier mercado, el precio de la clase lo determina cada Learning Partner. Los socios (Partners) deben proporcionar una experiencia de formación completa en el curso oficial de Microsoft por el precio que figura en la herramienta de programación Microsoft Learn. Los socios (Partners) pueden anunciar productos y servicios adicionales que son opcionales. Si cree que los precios anunciados son engañosos o inexactos, comuníquese con nosotros en el [Programación de cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1).
+Como en cualquier mercado, el precio de la clase lo determina cada Learning Partner. Los socios (Partners) deben proporcionar una experiencia de formación completa en el curso oficial de Microsoft por el precio que figura en la herramienta de programación Microsoft Learn. Los socios (Partners) pueden anunciar productos y servicios adicionales que son opcionales. Si cree que los precios anunciados son engañosos o inexactos, comuníquese con nosotros en el [Programación de cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/en-us/iltvilt/forum).
 
 ### El filtro del curso por ubicación, fecha, etc. no funciona correctamente.
 
-Si el filtro no funciona, actualice su navegador y vuelva a intentarlo. Si cree que los filtros aún no funcionan, puede hacer su pregunta en el [Programación del curso dirigido por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). Es el mejor recurso para buscar y pedir ayuda, informar un problema y obtener asesoramiento.
+Si el filtro no funciona, actualice su navegador y vuelva a intentarlo. Si cree que los filtros aún no funcionan, puede hacer su pregunta en el [Programación del curso dirigido por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/en-us/iltvilt/forum). Es el mejor recurso para buscar y pedir ayuda, informar un problema y obtener asesoramiento.
 
 ### No puedo encontrar un Learning Partner en mi área.
 
@@ -101,4 +101,4 @@ A medida que lanzamos este nuevo servicio, estamos limitando el número de Learn
 
 El Learning Partner es responsable de brindar apoyo relacionado con la programación en su sitio. Puede intentar con diferentes números para el Learning Partner en su sitio web.
 
-Si aún no puede comunicarse con el Learning Partner, puede publicar su pregunta en el [Programación de cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). Es el mejor recurso para pedir ayuda, informar un problema y obtener asesoramiento.
+Si aún no puede comunicarse con el Learning Partner, puede publicar su pregunta en el [Programación de cursos dirigidos por un instructor de Learning Partner en el foro de soporte de Learn](https://trainingsupport.microsoft.com/en-us/iltvilt/forum). Es el mejor recurso para pedir ayuda, informar un problema y obtener asesoramiento.

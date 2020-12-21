@@ -38,11 +38,20 @@ summary: |-
   #### Perfil de audiencia
   Este curso es para profesionales de TI con experiencia en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure. Deben tener un amplio conocimiento de las operaciones de TI, que incluyen redes, virtualización, identidad, seguridad, continuidad del negocio, recuperación ante desastres, plataforma de datos, presupuestos y gobierno. Los arquitectos de soluciones de Azure usan Azure Portal y, a medida que se vuelven más hábiles, usan la interfaz de línea de comandos. Los candidatos deben tener habilidades de nivel experto en la administración de Azure y tener experiencia con los procesos de desarrollo de Azure y los procesos DevOps.
 prerequisitesSection: |-
-  Los exitosos arquitectos de soluciones de Azure comienzan este rol con experiencia en sistemas operativos, virtualización, infraestructura en la nube, estructuras de almacenamiento y redes.
+  Arquitectos exitosos de Azure comienzan este rol con experiencia en sistemas operativos, virtualización, infraestructura de cloud, estructuras de almacenamiento, redes, aplicaciones y bases de datos.
+
   - Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
   - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
   - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
   - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
+  - Comprensión del desarrollo de aplicaciones y APIs. 
+  - Comprensión de Bases de Datos, tanto SQL como MS SQL, MySQL o Postgres, y Bases de Datos no-SQL como MongoDB. 
+  - Comprensión de aplicaciones de desacoplamiento y servicios, por ejemplo, Queues, tables, Cache.  
+  - Comprensión de los conceptos de seguridad para proteger su entorno, como la encriptación en reposo, la encriptación en tránsito, SSL, TLS.
+  
+  Cursos de prerrequisitos (o conocimientos equivalentes)&#58;
+  - AZ-900 Azure Fundamentals 
+  - AZ-303 Azure Solution Architect Technologies 
 outlineSection: |-
   ### Módulo 1&#58; Diseñar una solución informática
   En este módulo, aprenderá sobre las tecnologías informáticas adecuadas, incluidas las máquinas virtuales, los servicios de aplicaciones, Service Fabric, Azure Functions, Windows Virtual Desktop y los contenedores.

@@ -107,21 +107,21 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: Motivos para la certificación
-  summary: Las certificaciones le brindan una ventaja profesional con evidencia de habilidades basadas en roles reconocidas por la industria.
+  title: Certificaciones de Microsoft
+  summary: Las Certificaciones de Microsoft dan una ventaja profesional al proporcionar evidencia reconocida globalmente y cuales habilidades de dominio en negocios digitales y en cloud son respaldadas Industrialmente.
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Beneficios de las certificaciones de Microsoft
-    summary: Tras conseguir una certificación, el 23% de tecnólogos certificados de Microsoft informó de haber recibido un aumento de sueldo del 20%. Además, a los empleados con certificación, a menudo, se les encarga que supervisen a sus compañeros, lo que les pone en una posición privilegiada para conseguir un ascenso. Documentación técnica Valor de certificación de Person VUE 2017
+    title: Beneficios de las certificaciones
+    summary: Al obtener una certificación, el 67% de los profesionales técnicos dicen que tenían mayor auto confianza en sus habilidades para realizar sus trabajos, el 41% reportó mayor satisfacción laboral, y el 35% vio un aumento de salario o sueldo.- 2018 Pearson VUE Valor de la Certificación IT.
   items:
-    - title: 38%
-      summary: de las posiciones en TI estarán relacionadas con la nube para 2021.
-      note: IDC/Microsoft, Habilidades en la nube e influencia organizacional* Cómo las habilidades en la nube están acelerando las carreras del profesional de TI, mayo de 2017
-    - title: 35%
-      summary: de los profesionales de la TI dicen que son más influyentes durante las implantaciones en la nube que sus contrapartidas durante las implantaciones de otras tecnologías.
-      note: IDC/Microsoft, Habilidades en la nube e influencia organizacional* Cómo las habilidades en la nube están acelerando las carreras del profesional de TI, mayo de 2017
-    - title: 36.9%
-      summary: de los profesionales de TI afirman que la certificación les ayudó a realizar tareas más complejas con más confianza.
-      note: Pearson VUE, The Value of IT Certification Survey, enero de 2017
+    - title: 91%
+      summary: de los profesionales de IT certificados dicen que la certificación les da más credibilidad profesional.
+      note: 2018 Pearson VUE Valor de la Certificación
+    - title: 52%
+      summary: de los profesionales certificados en IT dicen que su especialización es más buscada dentro de su organización.
+      note: Global Knowledge 2019 IT informe de habilidades y salario
+    - title: 93%
+      summary: ...de los responsables de la toma de decisiones están de acuerdo en que los empleados certificados proporcionan un valor añadido.
+      note: Global Knowledge 2019 IT Decision Makers Insights

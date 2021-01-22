@@ -2,14 +2,21 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones.
+  description: Como consultor funcional, utilice esta certificación para comercializarse más eficazmente para proyectos y otros compromisos. La certificación Microsoft Power Platform Functional Consultant Associate permite a las organizaciones saber que -sin código o con código bajo- se pueden construir soluciones que normalmente requerirían la experiencia de un programador.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
 
-  El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones. Deben tener experiencia en el uso de herramientas de Power Platform para crear soluciones que usen Power Platform y Microsoft 365. Los Consultores Funcionales Certificados deben tener competencia en modelado de datos, diseño de experiencia del usuario, análisis de requisitos y análisis de procesos.
-subTitle: El consultor funcional de la Power Platform debe tener un amplio conocimiento aplicado de la Power Platform, incluido el conocimiento práctico de las funcionalidades, límites y limitaciones.
+  ¿Es usted un consultor funcional, analista de datos o programador que busca perfeccionar sus habilidades de consultoría y configuración, o arquitecto de soluciones en el camino hacia la certificación de arquitecto de soluciones? O tal vez eres un profesional de IT con conocimientos y experiencia en la configuración de Microsoft Power Platform. Si esto le describe y está familiarizado con las aplicaciones impulsadas por modelos y los principios de modelado de datos de Microsoft Dynamics 365, explore cómo la certificación de Microsoft Power Platform Functional Consultant Associate puede ayudarle a mejorar su carrera profesional y convertirle en un miembro clave de su equipo. Esta certificación demuestra al mundo que se le considera cualificado para crear e implementar soluciones que utilizan Power Apps, Power BI y Power Virtual Agents.
+  
+  Como candidato para esta certificación, trabajará con participantes y expertos en la materia de una organización, como arquitectos de soluciones, programadores y probadores, para reunir los requisitos y luego implementar las soluciones de Microsoft Power Platform. Creas aplicaciones basadas en modelos, canvas y portales. Y creas flujos Power Automate, diseñas chatbots utilizando Power Virtual Agents y analizas los datos utilizando la visualización y cuadros de mando de Power BI. Incluso creará mejoras en las aplicaciones, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+  
+  Si necesita más experiencia antes de intentar obtener esta certificación, aquí tiene algunas sugerencias&#58;
+  - Construya un tablero básico usando Power BI.
+  - Tome los caminos de aprendizaje disponibles en Microsoft Learn.
+  - Inscríbase en un curso de formación dirigido por un instructor.
+subTitle: Como consultor funcional, utilice esta certificación para comercializarse más eficazmente para proyectos y otros compromisos. La certificación Microsoft Power Platform Functional Consultant Associate permite a las organizaciones saber que -sin código o con código bajo- se pueden construir soluciones que normalmente requerirían la experiencia de un programador.
 levels:
 - intermediate
 skills:
@@ -32,6 +39,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service

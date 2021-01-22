@@ -65,6 +65,9 @@ Busque exámenes que se retirarán durante los próximos 12 meses, enumerados po
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| Se retirará el 30 de junio de 2021 |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
 ## Exámenes retirados recientemente
 

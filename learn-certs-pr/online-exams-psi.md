@@ -214,6 +214,7 @@ Debe presentar un documento de identidad actual y oficial, como alguno de los si
 - Para programar un examen en línea con PSI, haga clic en el examen de certificación de Microsoft que desea realizar de [lista de exámenes elegibles](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) y luego seleccione el botón "**Programar por USD15**".
 - Si los exámenes en línea están disponibles en su país, podrá seleccionar esa opción durante el proceso de programación del examen. Se le llevará al sitio de programación de PSI, donde seleccionará su país y zona horaria, un idioma y una fecha y hora para realizar el examen.
 - Al finalizar, deberá pagar el examen.
+- Los exámenes deben programarse con 24 horas de antelación. Entonces, si desea realizar un examen el último día de la oferta, el 31 de diciembre de 2021, debe programarlo antes del 30 de diciembre de 2021.
 
 ## Iniciar el examen y el proceso de registro de candidatos
 
@@ -263,7 +264,9 @@ Consulte la sección "**[Regístrese para un examen en línea](/learn/certificat
 
 Sí, pero debe hacerlo al menos 24 horas antes de la cita del examen. Inicie sesión en su [panel de certificación de Microsoft](https://aka.ms/CertDashboard) y seleccione el botón "**Cancelar/Reprogramar**" en la sección **Citas**. Luego será redirigido al sitio de PSI para cancelar o reprogramar su examen.  
 
-Nota: La oferta de examen de solicitante de empleo de USD15 debe reclamarse antes del 31 de diciembre de 2020 y el examen debe realizarse antes del 31 de marzo de 2021. La reprogramación del examen se puede realizar en cualquier momento antes del 31 de diciembre de 2020; sin embargo, si cancela su cita para el examen después del 31 de diciembre de 2020, no podrá programar nuevamente con la oferta con descuento.
+"Nota: La oferta de15USD para el examen para buscadores de empleo debe ser reclamada antes del 31 de diciembre de 2021&#42 y el examen debe ser realizado antes del 31 de diciembre de 2021. La reprogramación del examen puede hacerse en cualquier momento antes del 30 de diciembre de 2021; no obstante, si cancela su cita para el examen después del 31 de diciembre de 2021&#42;, no podrá volver a programarlo utilizando el descuento de la oferta.
+
+*&#42;Los exámenes deben ser programados con 24 horas de antelación. Por lo tanto, si desea realizar un examen el último día de la oferta, el 31 de diciembre de 2021, debe programarlo antes del 30 de diciembre de 2021.*
 
 ### ¿Puedo volver a realizar el examen al precio de descuento de 15 USD? 
 

@@ -1,11 +1,11 @@
 ### YamlMime:Course
-title: Dynamics 365 for customer engagement for customer service
+title: Microsoft Dynamics 365 Customer Service
 metadata:
-  title: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
-  description: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  title: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
+  description: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
 uid: course.mb-230t01
 courseNumber: 'MB-230T01-A'
-hoursToComplete: 24
+hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Instalar y configurar la aplicación de servicio al cliente
@@ -15,6 +15,10 @@ skillsGained:
 - skill: Automatizar el procesamiento de registros de administración de casos
 - skill: Crear y usar artículos de conocimiento
 - skill: Crear y usar derechos y acuerdos de nivel de servicio
+- skill: Trabajar con Omnichannel
+- skill: Trabajar con el Servicio de Atención al Cliente Conectado
+- skill: Trabajar con Programación del Servicio de Atención al Cliente
+- skill: Trabajar con Perspectivas de Servicio al Cliente
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,64 +32,101 @@ products:
 exams:
 - uid: exam.mb-230
 summary: |-
-  Microsoft Dynamics 365 for Customer Service ofrece a cualquier organización una oportunidad para el éxito del cliente. El uso de herramientas como la creación automática de casos y la gestión de colas libera tiempo para dedicar donde se pueda lograr un mayor impacto, directamente con los clientes.
-  Nuestro equipo de expertos reconocidos a nivel mundial lleva a los estudiantes paso a paso, desde la creación de casos, la interacción con los clientes y la resolución de esos casos. Una vez que se resuelvan esos casos, los estudiantes aprenderán del análisis de datos los detalles clave para ayudar a resolver casos similares más rápido o evitar nuevos problemas por completo.
+  Microsoft Dynamics 365 Customer Service ofrece a cualquier organización una oportunidad para el éxito con los clientes. El uso de herramientas como la creación automática de casos y la gestión de esperas libera tu tiempo para dedicarlo a aquello en lo que puedes tener un mayor impacto, directamente con sus clientes.
+
+  Únase a nuestro equipo de expertos reconocidos a nivel mundial que le llevarán paso a paso desde crear casos hasta interactuar con los clientes para resolver esos casos.  Una vez que haya resuelto esos casos, podrá aprender del análisis de datos los detalles clave para ayudarle a resolver casos similares más rápidamente o evitar nuevos problemas por completo.
   
   #### Perfil de audiencia
-  Un consultor funcional de Dynamics 365 Customer Engagement es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Dynamics 365 Customer Engagement Functional Consultant es responsable de realizar el descubrimiento, captar los requisitos, contratar a expertos en la materia y participantes, traduciendo requisitos y configurando la solución y las aplicaciones. El Consultor Funcional implementa una solución utilizando capacidades fuera de lo común, extensibilidad sin código, integraciones de aplicaciones y servicios.
 prerequisitesSection: |-
-  Este curso está diseñado para personas que aspiran a la función de administrador de Microsoft 365 Enterprise y han completado una de las rutas de certificación de administrador de carga de trabajo de Microsoft 365.
+  Este curso está diseñado para consultores funcionales que trabajan con Dynamics 365 Customer Service, o consultores funcionales que trabajan con otras aplicaciones de Dynamics 365 que quieren ampliar sus conocimientos acerca del Servicio de Atención al Cliente.
 outlineSection: |-
   ### Módulo 1&#58; Descripción del servicio al cliente
-  En este módulo, los estudiantes aprenderán los conceptos básicos del servicio al cliente en Dynamics 365.  Los estudiantes instalarán y configurarán la aplicación, así como también aprenderán sobre roles de seguridad, aplicaciones relacionadas y análisis.
+  En este módulo aprenderá los fundamentos del servicio al cliente en Dynamics 365. Instalaremos y configuraremos la aplicación, y también aprenderemos sobre los roles de seguridad, las aplicaciones relacionadas y análisis.
   #### Lecciones
   - Lección 1&#58; Crear registros de casos
   - Lección 2&#58; Aplicaciones de servicio relacionadas
   - Lección 3&#58; Analytics para servicio
   - Lección 4&#58; AI para servicio
   - Lección 5&#58; Configurar servicio al cliente
-  - Lección 6&#58; Resumen del módulo
+
   Después de completar este módulo, los estudiantes podrán&#58;
   - Instalar y configurar la aplicación de servicio al cliente.
   - Identificar escenarios comunes de servicio al cliente.
   
   ### Módulo 2&#58; Gestión de caso
-  En este módulo, los estudiantes aprenderán cómo abrir y resolver casos de servicio al cliente, tanto manualmente como con automatización.
+  En este módulo aprenderá a abrir y resolver casos de atención al cliente, tanto manualmente como con automatización.
   #### Lecciones
   - Lección 1&#58; Resumen de gestión de casos
   - Lección 2&#58; Crear registros de casos
   - Lección 3&#58; Gestión de colas
   - Lección 4&#58; Enrutamiento de casos
   - Lección 5&#58; Resolver casos
-  - Lección 6&#58; Resumen del módulo
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, será capaz de&#58;
   - Abrir y resolver casos de servicio al cliente
   - Automatizar la creación de casos y el enrutamiento
 
 
   ### Módulo 3&#58; Acuerdos y derechos de nivel de servicio
-  En este módulo, los estudiantes aprenderán cómo definir y usar los derechos y las plantillas de derechos, así como los acuerdos de nivel de servicio y cómo estas herramientas permiten la resolución de casos.
+  En este módulo, aprenderá a definir y utilizar los derechos y las plantillas de derechos, así como acuerdos de nivel de servicio, y cómo estas herramientas permiten la resolución de casos.
   #### Lecciones
   - Lección 1&#58; SLA y resumen de derechos
   - Lección 2&#58; Crear y administrar derechos
   - Lección 3&#58; Crear y administrar SLA
-  - Lección 4&#58; Resumen del módulo
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, será capaz de&#58;
   - Crear y usar acuerdos de nivel de servicio
   - Crear y usar derechos
 
 
   ### Módulo 4&#58; Gestión del conocimiento
-  En este módulo, los estudiantes aprenderán cómo crear y usar la gestión del conocimiento.  Además, los estudiantes aprenderán el ciclo de vida de los artículos de conocimiento.
+  En este módulo aprenderá a crear y utilizar la gestión de conocimientos. Asimismo, aprenderá el ciclo de vida de artículos de conocimientos.
   #### Lecciones
   - Lección 1&#58; Resumen de gestión del conocimiento
   - Lección 2&#58; Autoría y organización
   - Lección 3&#58; Usar contenido de conocimiento
   - Lección 4&#58; Gestionar contenido de conocimiento
-  - Lección 5&#58; Resumen del módulo
 
-  Después de completar este módulo, los estudiantes podrán&#58;
+  Después de completar este módulo, será capaz de&#58;
   - Crear y gestionar contenido de conocimiento
 
+  ### Módulo 5&#58; Omnichannel
+  En este módulo, aprenderá a trabajar con Omnichannel para Dynamics 365 Customer Service.
+  #### Lecciones
+  - Lección 1&#58; Empezar
+  - Lección 2&#58; Enrutamiento del registro de la entidad
+  - Lección 3&#58; Enrutamiento y distribución del trabajo
+  - Lección 4&#58; Configurar canales de mensajes
+  - Lección 5&#58; Desplegar widgets de chat
+  - Lección 6&#58; Crear soluciones de asistencia inteligentes
+  - Lección 7&#58; Integrar un bot de Power Virtual Agents
+  - Lección 8&#58; Herramientas de productividad
+  
+  
+  ### Módulo 6&#58; Programación de Servicio de Atención al Cliente
+  En este módulo, aprenderá a utilizar la función de Customer Service Scheduling en Dynamics 365 Customer Service
+  #### Lecciones
+  - Lección 1&#58; Empezar con la Programación del Servicio de Atención al Cliente
+  - Lección 2&#58; Configurar la Programación del Servicio de Atención al Cliente
+  - Lección 3&#58; Definir y trabajar con recursos reservables
+  - Lección 4&#58; Trabajar con servicios
+  - Lección 5&#58; Trabajar con preferencias de cumplimento
+  - Lección 6&#58; Programación de actividades de servicio
+  - Lección 7&#58; Reprogramación de actividades de servicio y sustitución de recursos
+  
+  
+  ### Módulo 7&#58; Servicio de Atención al Cliente Conectado
+  En este módulo, aprenderá a utilizar Dynamics 365 Connected Customer Service para tomar datos y ayudar a ejecutar acciones comerciales reales basándose en los datos.
+  #### Lecciones
+  - Lección 1&#58; Empezar con Connected Customer Service
+  - Lección 2&#58; Registro de dispositivos
+  - Lección 3&#58; Gestión e interacción de dispositivos
+  - Lección 4&#58; alertas de IoT y envío de comandos
+  
+  
+  ### Módulo 8&#58; Conocimientos del servicio de atención al cliente
+  En este módulo, aprenderá a trabajar con los conocimientos del servicio de atención al cliente para utilizar la Inteligencia Artificial (AI) en su solución Dynamics 365 Customer Service.
+  #### Lecciones
+  - Lección 1&#58; Empezar con Conocimientos de Servicio al Cliente  
+  - Lección 2&#58; Trabajar con conocimiento en llamadas de Servicio al Cliente

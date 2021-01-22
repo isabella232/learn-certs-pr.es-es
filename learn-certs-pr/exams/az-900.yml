@@ -18,7 +18,7 @@ summary: |-
   Azure Fundamentals se puede usar para prepararse para otras certificaciones de Azure basadas en roles o especializadas, pero no es un requisito previo para ninguna de ellas.
 
   Puede ser candidato a obtener créditos universitarios ACE si aprueba este examen de certificación. Vea [Créditos universitarios ACE para los exámenes de certificación](/learn/certifications/ace-credit-for-certification-exams) para los detalles.
-subTitle: 'Este examen mide su capacidad para comprender los siguientes conceptos: conceptos de nube; servicios centrales de Azure; seguridad, privacidad, cumplimiento y confianza; y precios y soporte de Azure.'
+subTitle: 'Este examen mide su capacidad para describir los siguientes conceptos: conceptos de cloud; servicios principales de Azure; soluciones principales y herramientas de gestión en Azure; características de seguridad general y de seguridad de red; características de identidad, gobernanza, privacidad y cumplimiento; y gestión de costos y Service Level Agreements de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice

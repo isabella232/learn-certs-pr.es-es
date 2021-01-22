@@ -119,7 +119,7 @@ Visite [Soporte de Apple](https://support.apple.com/) para obtener ayuda para co
                 <p><strong>Navegador de Internet</strong></p>
             </td>
             <td>
-                <p>Las versiones más recientes de Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> y <strong>Firefox</strong> para registros web o para descargar el navegador seguro o <strong>Internet Explorer 11</strong>.</p>
+                <p>Las versiones más recientes de Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>, y <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

@@ -13,7 +13,7 @@ learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- beginner
+- intermediate
 roles:
 - functional-consultant
 products:
@@ -25,507 +25,254 @@ summary: |-
   Este curso cubre los aspectos financieros de Dynamics 365&#58; configurar y usar componentes financieros esenciales, cuentas por pagar, cuentas por cobrar, cobros, presupuestos, activos fijos y funcionalidad adicional
 
   #### Perfil de audiencia
-  Un Consultor Funcional de Finanzas de Dynamics 365 es responsable de realizar el descubrimiento, capturar requisitos, involucrar a expertos en la materia y partes interesadas, traducir los requisitos y configurar la solución y las aplicaciones. El Consultor Funcional implementa una solución usando capacidades listas para usar, extensibilidad sin código, aplicaciones e integraciones de servicios.
+  Un Dynamics 365 for Finance and Operations Functional Consultant es responsable de realizar el descubrimiento, captar los requisitos, involucrar a los expertos en la materia y a participantes, traducir los requisitos y configurar la solución y aplicaciones. El Consultor Funcional implementa una solución utilizando capacidades fuera de lo común, extensibilidad sin códigos, integraciones de aplicaciones y servicios.
 prerequisitesSection: |-
-  Habilidades básicas de contabilidad Competencias principales en Dynamics 365 Core
+  Conocimientos básicos de contabilidad  
+  Competencias principales en Dynamics 365 Core
 outlineSection: |-
-  ### Módulo 1&#58; Gestión financiera
-  En este módulo aprenderá algunos de los beneficios de la administración financiera de Dynamics 365 for Finance and Operations.
-  #### Lecciones
-  - Beneficios de la gestión financiera
-  - Gestión financiera
-  - Resumen del módulo
-
-  Se familiarizó con los módulos de Finanzas y Operaciones relacionados con la gestión financiera y sus
-
-  ### Módulo 2&#58; Configurar monedas
-  Uno de los primeros y más importantes pasos para implementar la administración financiera en Dynamics 365 for Finance and Operations es la configuración de la moneda. La configuración de la moneda es un paso obligatorio en la configuración del sistema y se utiliza para registrar transacciones financieras. Este módulo explica la gestión de divisas en Finanzas y Operaciones.
+  ### Módulo 1&#58; Resumen de Dynamics 365 Finance
+  Este módulo tratará los componentes básicos de las finanzas y examinará los módulos implicados.
   #### Lecciones
   - Introducción
-  - Configurar monedas y conversiones de entidades jurídicas
-  - Configurar e importar tipos de cambio de divisas
-  - Laboratorio de práctica
+  - Lección 1&#58; Visión general de características y capacidades de Dynamics 365 Finance
+  - Lección 2&#58; Componentes principales de Dynamics 365 Finance
+  - Lección 3&#58; Visión general de los módulos de gestión financiera en Dynamics 365 Finance
+  - Lección 4&#58; Beneficios de Dynamics 365 Finance
   - Resumen del módulo
+  - Comprobación de conocimientos
 
-  Ahora ha aprendido sobre diferentes tipos de monedas en Finanzas y Operaciones. Usted también
-
-  ### Módulo 3&#58; Crear calendarios fiscales, años y períodos
-  Antes de contabilizar las transacciones, un nuevo año fiscal debe dividirse en períodos. Esto se debe a que las transacciones no pueden contabilizarse a menos que se cree un período para la fecha de contabilización y se comparta entre múltiples entidades legales. Un beneficio de compartir calendarios fiscales es que esto admite múltiples calendarios fiscales para cada entidad jurídica.
-
-  El año fiscal en Finance and Operations puede establecerse en cualquier duración y dividirse en cualquier cantidad de períodos..
+  Ha aprendido algunos de los beneficios de la gestión financiera de Dynamics 365 Finance.
+  
+  
+  ### Módulo 2&#58; Establecer y configurar gestión financiera
+  En este módulo, discutiremos cómo crear una nueva entidad legal (compañía) y establecer y configurar la gestión financiera para la misma. Este módulo incluye libro mayor general.
+  ####  Lecciones
+  - Introducción
+  - Lección 1&#58; Crear y configurar una nueva entidad legal
+  - Lección 2&#58; Definir y configurar el diagrama de cuentas
+  - Lección 3&#58; Configurar libro mayor y divisas
+  - Lección 4&#58; Implementar y administrar diarios
+  - Lección 5&#58; Implementar y administrar efectivo y banco
+  - Lección 6&#58; Implementar contabilidad de costos y la gestión de costos
+  - Lección 7&#58; Realizar procesos periódicos
+  - Lección 8&#58; Configurar, cobrar y reportar impuestos
+  - Resumen del módulo
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar una nueva entidad legal
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Crear un plan de cuentas y cuentas principales
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Crear Estructuras de Reglas Avanzadas
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Crear un calendario fiscal, años y períodos
+  
+  #### Laboratorio &#58; Ejercicio 5&#58; Importar tipos de cambio utilizando un proveedor
+  
+  #### Laboratorio &#58; Ejercicio 6&#58; Crear y usar Plantillas de Bonos
+  
+  #### Laboratorio &#58; Ejercicio 7&#58; Configurar y probar esquemas de Prevision
+  
+  #### Laboratorio &#58; Ejercicio 8&#58; Configurar y probar reglas de asignación del libro mayor
+  
+  #### Laboratorio &#58; Ejercicio 9&#58; Configurar y utilizar la contabilidad interempresarial
+  
+  #### Laboratorio &#58; Ejercicio 10&#58; Crear tipos de transacciones bancarias y grupos de transacciones bancarias
+  
+  #### Laboratorio &#58; Ejercicio 11&#58; Crear un grupo y una cuenta bancaria
+  
+  #### Laboratorio &#58; Ejercicio 12&#58; Hacer depósitos y realizar reversiones de pagos
+  
+  #### Laboratorio &#58; Ejercicio 13&#58; Usar espacios de trabajo de administración de Banco
+  
+  #### Laboratorio &#58; Ejercicio 14&#58; Crear contabilidad de costos usando un wizard
+  
+  #### Laboratorio &#58; Ejercicio 15&#58; Realizar el cierre anual
+  
+  #### Laboratorio &#58; Ejercicio 16&#58; Configurar el impuesto de venta indirecta
+  podrá establecer y configurar la gestión financiera preparando el G/L y otros.
+  
+  
+  ### Módulo 3&#58; Implementar y gestionar la configuración compartida para A/P y A/R
+  Dynamics 365 Finance ofrece una amplia funcionalidad para configurar diferentes opciones de pago que se comparten entre los módulos de cuentas por pagar y por cobrar.
   #### Lecciones
   - Introducción
-  - Crear calendarios fiscales, años y períodos
-  - Crear intervalos de fechas
-  - Laboratorio de práctica
+  - Lección 1&#58; Configurar Condiciones de pago
+  - Lección 2&#58; Configurar los días de pago, y los horarios de pago
+  - Lección 3&#58; Configurar Descuentos en Efectivo
+  - Lección 4&#58; Configurar Calendario de Pagos
+  - Lección 5&#58; Configurar tasas de Pago
   - Resumen del módulo
-
-  en este módulo aprendió cómo&#58; diferenciar entre calendarios contables y fiscales, configurar y
-
-  ### Módulo 4&#58; Configurar plan de cuentas
-  Un plan de cuentas es un conjunto de cuentas principales en Finance and Operations que captura información financiera al publicar un diario. A cada cuenta se le asigna un número de cuenta como identificador único.
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar Condiciones de pago
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Configurar programa de pagos
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Configurar descuentos en efectivo
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Crear un calendario de pagos
+  
+  #### Laboratorio &#58; Ejercicio 5&#58; Configurar tasas de pago
+  podrá configurar pagos e  información bancaria  
+  
+  ### Módulo 4&#58; Implementar y gestionar intereses de cuentas
+  Este tema explica la configuración básica de los intereses de cuentas y configuración de los proveedores para una gestión eficiente de los proveedores y transacciones de los mismos en Dynamics 365 Finance.
   #### Lecciones
   - Introducción
-  - Definir y configurar el plan de cuentas
-  - Definir y configurar las dimensiones financieras
-  - Definir y configurar estructuras y reglas de cuenta
-  - Laboratorios de práctica
+  - Lección 1&#58; Crear y mantener el método de pago de intereses de cuenta
+  - Lección 2&#58; Crear y mantener grupos de Proveedores y proveedores
+  - Lección 3&#58; Crear y configurar perfil de publicación de proveedores
+  - Lección 4&#58; Configurar las políticas de validación de facturas
+  - Lección 5&#58; Procesar pedidos, facturas y pagos
+  - Lección 6&#58; Habilitar y probar el portal de colaboración de un proveedor
+  - Lección 7&#58; Configurar los cargos de intereses de cuenta
+  - Lección 8&#58; Configurar y usar Pago positivo
   - Resumen del módulo
-
-  Identificar los componentes necesarios para el plan de cuentas.
-  - Definir y configurar el plan de cuentas.
-  - Definir y configurar las dimensiones financieras y los conjuntos de dimensiones.
-  - Configure el plan de cuentas, cuentas principales, categorías, plantillas, alias de cuentas contables y de saldo
-  - Configurar estructuras de cuenta y reglas avanzadas.
-
-
-  ### Módulo 5&#58; Configurar libro mayor y diarios
-  Un diario es una hoja de trabajo que puede usar antes de ingresar manualmente las publicaciones en el sistema. Cuando los configura correctamente, los diarios le permiten administrar las publicaciones de manera rápida y eficiente. Para usar un diario, debe tener un nombre de diario, y debe completar la configuración del libro mayor, diario y publicación del módulo Libro mayor.
-
-  Al utilizar el diario del libro mayor directamente o mediante el espacio de trabajo de procesamiento del libro mayor, pueden realizar actividades diarias como alguien a quien se le asigna el rol de seguridad adecuado para acceder al libro mayor.
-
-  El nombre de un diario brinda a los líderes financieros la capacidad de controlar la validación de entrada de datos y restringir el registro de un nombre de diario para los usuarios de manera diferente.
-  #### Lecciones
-  - Diarios y su configuración
-  - Configurar el libro mayor y la configuración del diario
-  - Diarios de usuario
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Entender Diferentes tipos de diarios y su configuración.
-  - Sepa cómo configurar el libro mayor y la configuración de registro.
-  - Sepa cómo configurar y usar diarios.
-
-
-  ### Módulo 6&#58; Configurar Gestión de efectivo y banco
-  En Dynamics 365 for Finance and Operations, las organizaciones usan el módulo Gestión de efectivo y banco para crear y mantener cuentas bancarias. La tabla de la cuenta bancaria contiene un registro para cada cuenta bancaria. Cada registro contiene información de la cuenta bancaria, como la;
-  - Número de registro y número de cuenta
-  - Dirección
-  - Otra información de contacto
-  - Moneda
-  - Comprobar configuración
-  - Cuenta principal para publicar
-
-  Finance and Operations utiliza esta información para procesar todas las transacciones bancarias, como pagos y depósitos.
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar Método de Pago
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Crear grupo de proveedores y proveedores
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Crear y configurar el perfil de publicación de proveedores
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Registrar la factura del proveedor y compararla con la cantidad recibida
+  
+  #### Laboratorio &#58; Ejercicio 5&#58; Use la política de comparación de facturas de proveedores
+  
+  #### Laboratorio &#58; Ejercicio 6&#58; Registrar la factura utilizando el registro de facturas, aprobación y diarios de facturas
+  
+  #### Laboratorio &#58; Ejercicio 7&#58; Procesar pagos de proveedores usando un diario de pagos
+  
+  #### Lab &#58; Ejercicio 8&#58; Configurar la colaboración de proveedores
+  
+  #### Laboratorio &#58; Ejercicio 9&#58; Administrar cargos
+  Ya ha aprendido&#58;
+  - que las opciones de pago en Dynamics 365 Finance son flexibles
+  - configurar y utilizar calendarios de pago
+  - gestionar descuentos por pago en efectivo
+  - trabajar con grupos de proveedores
+  - utilizar características tales como prepagos
+  
+  
+  ### Módulo 5&#58; Implementar y gestionar la gestión de los gastos
+  Puede utilizar las aplicaciones de gestión de gastos de Dynamics 365 Finance and Operations para crear un flujo de trabajo integrado en el que puede almacenar información sobre métodos de pago, importar transacciones de tarjetas de crédito y realizar un seguimiento del dinero que gastan los empleados cuando incurren en gastos para su empresa. También puede definir políticas de gastos y automatizar el reembolso de los gastos de viaje. La entrada de informes de gastos se ha rediseñado para simplificar la experiencia y reducir el tiempo necesario para completar los informes de gastos. Puede activar esta funcionalidad en Gestión de características. Puede agregar una página de configuración nueva para configurar la visibilidad de los campos de gastos y especificar qué datos son necesarios, opcionales o no disponibles cuando se introducen los informes de gastos. Cuando se activa esta funcionalidad, se dispone de un nuevo espacio de trabajo de gastos. Este espacio de trabajo reemplaza al anterior espacio de trabajo de gastos y es la página de destino para la experiencia de entrada mejorada. La gestión de viajes y gastos tiene una propuesta de gran valor para las organizaciones con gastos discrecionales. Los gastos de viaje y entretenimiento son una parte significativa de los gastos controlables de una empresa. Para ayudar a frenar esos gastos, la gestión de gastos proporciona un mecanismo para definir y aplicar las políticas de gastos, además de señalar e informar sobre los infractores de las políticas. Además, la automatización del ingreso y el reembolso de los gastos de viaje y entretenimiento reduce costos de procesamiento en comparación con el ingreso manual. La gestión de gastos está estrechamente integrada con otros módulos, como los de cuentas por pagar, libro mayor, adquisiciones y contratación, y gestión y contabilidad de proyectos.
   #### Lecciones
   - Introducción
-  - Tipos y grupos de transacciones bancarias
-  - Configurar los parámetros de caja y gestión bancaria
-  - Configurar bancos y cheques bancarios
-  - Cheques de depósito y reembolso
-  - Flujo de efectivo
-  - Laboratorios de práctica
+  - Lección 1&#58; Configurar y utilizar gestión de gastos
   - Resumen del módulo
-
-  Crear y configurar bancos.
-  - Crear y configurar diseños bancarios.
-  - Configurar los parámetros de efectivo y gestión bancaria.
-  - Establecer bancos de proveedores y clientes.
-  - Configurar pronósticos e informes de flujo de efectivo.
-
-
-  ### Módulo 7&#58; Usar Gestión de efectivo y banco
-  Este módulo cubre los procedimientos principales en el módulo de gestión de efectivo y bancos en Finance and Operations.
-
-  Aprenderá a trabajar con efectivo y espacios de trabajo de gestión bancaria, como la gestión bancaria y las vistas generales de efectivo. Tú también aprendieron sobre los procesos y procedimientos para el manejo de efectivo y bancos, como cómo hacer depósitos y cancelar pagos (depósitos).
-
-  Finance and Operations proporciona funcionalidad para administrar pagos de cheques, así como procedimientos para resolver situaciones especiales con cheques.
-
-  Puede eliminar, reembolsar y anular cheques, además de generar y emitir cheques de acuerdo con las especificaciones de la compañía.
-
-  Debido a que Finance and Operations registra todas las transacciones financieras, las compañías pueden usar la función de conciliación bancaria para hacer coincidir los registros internos de la compañía con los extractos bancarios.
-  #### Lecciones
-  - Hacer depósitos y realizar reversiones de pagos
-  - Usar espacios de trabajo de gestión de efectivo y bancos
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Trabajar con efectivo y los procesos de gestión bancaria.
-  - Usar espacios de trabajo de gestión de efectivo y bancos.
-  - Hacer depósitos.
-  - Cancelar pagos.
-
-
-  ### Módulo 8&#58; Configurar cartas de crédito y garantías
-  Ahora ha aprendido qué son las cartas bancarias y cómo configurar cartas de crédito para crear documentos bancarios que se usan comúnmente para la compra y venta de bienes a través de las fronteras internacionales y cartas de garantía donde un banco acuerda pagar una cantidad específica de dinero a una persona si uno de los clientes del banco no cumple con un pago u obligación con esa persona.
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Crear una Categoría de Gastos
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Crear una Política de Gastos
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Crear una Política de Auditoría
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Crear y Presentar un Informe de Gastos
+  ha aprendido algunos de los beneficios y las características generales y funcionalidad de Gestión de Gastos.  
+  
+  ### Módulo 6&#58; Implementar y gestionar intereses de cuentas y los créditos y cobros
+  Debe configurar el módulo de intereses de cuentas para poder realizar la funcionalidad de intereses de cuentas. A continuación, podrá crear facturas para clientes, contabilizar albaranes, utilizar facturas en blanco que no estén relacionadas con los pedidos de cliente y recibir pagos utilizando varias clases de pago diferentes como efectivo, cheques, tarjetas de crédito y pagos electrónicos por parte de sus clientes. La gestión adecuada de posibles clientes y clientes ayuda a las empresas a cumplir algunos de sus requisitos, como la satisfacción de los clientes. Al mismo tiempo, una gestión adecuada evita pérdidas al comprobar muchos factores como el límite de crédito y bloquear el pedido que se está procesando si viola las políticas de la empresa. Los vendedores son la clave de los ingresos de la empresa, y sus comisiones deben ser atendidas al finalizar el ciclo de ventas.
   #### Lecciones
   - Introducción
-  - Configurar cartas de crédito
-  - Configurar cartas de garantía
+  - Lección 1&#58; Configurar Método de Pago
+  - Lección 2&#58; Crear y mantener grupos de clientes y clientes
+  - Lección 3&#58; Crear y configurar el perfil de publicación del cliente
+  - Lección 4&#58; Procesar pedidos, facturas y pagos
+  - Lección 5&#58; Configurar cargos de intereses de cuentas
+  - Lección 6&#58; Administrar el crédito y colecciones
+  - Lección 7&#58; Configurar reconocimiento de ingresos
   - Resumen del módulo
-
-  Tú estudiantes aprenderán sobre cartas bancarias, cartas de crédito y garantía.
-
-  ### Módulo 9&#58; Realizar procedimientos diarios
-  Cada registro manual ingresado en Finance and Operations se ingresa a través de un diario. Un diario es un tipo de hoja de trabajo donde las entradas no se registran de inmediato. Tú puede revisar, cambiar y verificar diarios completados hasta que estén listos para su registro.
-
-  Una plantilla de comprobante es un comprobante que se puede utilizar como base para futuros comprobantes en otras entradas de diario. Tú pueden usar plantillas de asientos con un diario general o cualquiera de los diarios del libro mayor financiero como los diarios de Cuentas por pagar y Cuentas por cobrar.
-
-  Tú pueden establecer restricciones en la empresa, el tipo de cuenta y los valores del segmento.
-  #### Lecciones
-  - Conocer los procesos del libro mayor
-  - Crear plantillas de asiento
-  - Configurar validaciones del diario
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Ahora ha aprendido cómo procesar las actividades diarias en el libro mayor y usar el control de diario para
-  - Tú trabajado con cuentas de control de saldo para ver los saldos de bancos o cuentas de liquidez.
-  - Aprendiste a beneficiarte de las plantillas de cupones para Amount, que es simplemente copiar el monto exacto
-
-
-  ### Módulo 10&#58; Contabilidad entre empresas
-  La contabilidad intercompañía puede ayudar a las organizaciones al proporcionar un punto de entrada único para las transacciones que deben registrarse en varias compañías. Hacer transacciones desde una sola compañía ahorra tiempo de entrada de datos y ayuda a garantizar que las transacciones que afectan a múltiples compañías se registren en cada compañía.
-
-  Finance and Operations también ayuda a rastrear las entradas entre compañías a través del sistema. Tiene la funcionalidad que requieren la mayoría de las compañías que procesan transacciones entre compañías. Esto incluye la capacidad de registrar de manera eficiente los pedidos de ventas, pedidos de compra y desembolsos de efectivo entre empresas.
-  #### Lecciones
-  - Configurar y usar la contabilidad entre compañías
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Tú podrán configurar y usar la contabilidad entre compañías.
-
-  ### Módulo 11&#58; Configurar asignaciones de contabilidad y provisiones
-  Finance and Operations ofrece las capacidades para soportar planes de provisión.
-  #### Lecciones
-  - Introducción
-  - Configurar y aplicar plan de provisión
-  - Configurar reglas de asignación de contabilidad
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Tú habrán aprendido cómo configurar y usar reglas de asignación, así como también cómo configurar y usar planes de provisión
-
-  ### Módulo 12&#58; Configurar impuesto de ventas
-  Los requisitos para el cálculo y la declaración de impuestos difieren significativamente para diferentes países o regiones. Por lo tanto, el módulo de impuestos de Dynamics 365 for Finance and Operations es extremadamente completo.
-  #### Lecciones
-  - Comprender los componentes del motor de impuestos
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Tú ahora han aprendido sobre las capacidades de informes fiscales nacionales y regionales en Finance and Operations
-  - configurar componentes de impuestos, como las autoridades de impuestos de ventas, los períodos de liquidación y los códigos de impuestos de ventas
-  - los códigos de impuestos sobre las ventas son el componente principal para definir los cálculos de impuestos y conectar todos los demás componentes
-
-
-  ### Módulo 13&#58; Configurar cuentas por pagar
-  Dynamics 365 for Finance and Operations ofrece una amplia funcionalidad para configurar diferentes opciones de pago de proveedores.
-  #### Lecciones
-  - Comprender la funcionalidad del grabador de tareas
-  - Configurar parámetros de cuentas por pagar
-  - Crear y mantener proveedores
-  - Configurar los cargos de cuentas por pagar
-  - Configurar y usar pago positivo
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Configurar componentes de cuentas por pagar.
-  - Crear y mantener un proveedor.
-  - Configurar pagos de proveedores.
-  - Configurar perfiles de contabilización de proveedores.
-  - Configurar los cargos de cuentas por pagar.
-
-
-  ### Módulo 14&#58; Realizar procedimientos diarios de cuentas por pagar
-  La compra de bienes para reventa o como materiales para fabricación o servicios, es una gran responsabilidad. El seguimiento de esas compras y el pago a los proveedores que suministran los productos es igual de desafiante.
-
-  Las organizaciones deben monitorear de cerca las cuentas por pagar e implementar procedimientos para que la gerencia pueda obtener fácilmente la información financiera que necesitan para mantenerse informados sobre los cambios en los costos de los bienes. Para dar una visión precisa de la condición financiera del negocio, todos los gastos que afectan la ganancia neta se incluyen en las cuentas por pagar.
-
-  Este módulo explica cómo administrar y aplicar prepagos, registrar facturas y procesar pagos.
-  #### Lecciones
-  - Introducción
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar método de pago
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Crear un nuevo grupo de clientes y clientes
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Configurar y mantener clientes
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Crear y configurar el perfil de publicación del cliente
+  
+  #### Laboratorio &#58; Ejercicio 5&#58; Crear y procesar facturas en blanco
+  
+  #### Laboratorio &#58; Ejercicio 6&#58; Procesar factura y liquidarla contra un cobro
+  
+  #### Laboratorio &#58; Ejercicio 7&#58; Establecer códigos de cargo para los intereses de cuentas
+  
+  #### Laboratorio &#58; Ejercicio 8&#58; Configurar crédito y cobros
+  
+  #### Laboratorio &#58; Ejercicio 9&#58; Realizar cancelaciones
+  
+  #### Lab &#58; Ejercicio 10&#58; Procesar crédito y cobros  
+  ha aprendido a&#58;
+  - Configurar Método de Pago
+  - Describir y configurar formatos de pago electrónico
+  - Crear y mantener grupos de clientes y clientes
+  - Crear y configurar el perfil de publicación del cliente
   - Procesar pedidos, facturas y pagos
-  - Gestionar y aplicar prepagos
-  - Laboratorios de práctica
-  - Resumen del módulo
+  - Configurar los intereses de cuentas
+  - Gestionar el crédito y los cobros  - Configure revenue recognition
 
-  puede ingresar facturas de proveedores manualmente o recibirlas electrónicamente a través de una entidad de datos
-  - puede revisar y aprobar las facturas utilizando un diario de aprobación de facturas o la página de facturas de proveedores
-  - cómo puede usar la conciliación de facturas, las políticas de facturas de proveedores y el flujo de trabajo para automatizar el proceso de revisión
-  - Cómo manejar los pagos anticipados a sus proveedores
-
-
-  ### Módulo 15&#58; Usar distribución contable y validaciones de facturas
-  Este módulo explica cómo liquidar transacciones y deshacer la liquidación y distribuir fondos mediante el uso de distribuciones contables. Tú también aprenderán cómo realizar la conciliación de facturas.
-
-  Las distribuciones contables se utilizan para definir cómo se contabilizará una cantidad, como por ejemplo cómo se contabilizarán los gastos, impuestos o cargos en una factura de proveedor. Cada monto que debe contabilizarse cuando se contabiliza la factura del proveedor tendrá una o más distribuciones contables.
-
+  ### Módulo 7&#58; Configurar y gestionar los presupuestos
+  Toda organización, ya sea privada o pública, establece objetivos financieros y operativos mediante la creación de presupuestos. Cuando se establece el presupuesto, la dirección supervisa las actividades dentro del marco del presupuesto.
   #### Lecciones
   - Introducción
-  - Liquidar transacciones y deshacer liquidaciones
-  - Distribuir fondos
-  - Configurar políticas de validación de facturas
-  - Laboratorios de práctica
+  - Lección 1&#58; Configurar y usar el presupuesto básico
+  - Lección 2&#58; Configurar y usar  controles de presupuesto
+  - Lección 3&#58; Crear y configurar  entradas del registro
+  - Lección 4&#58; Configurar y usar la planificación de presupuestos
   - Resumen del módulo
-
-  Liquidar transacciones y deshacer liquidaciones.
-  - Distribuir fondos utilizando distribuciones contables.
-  - Configurar políticas de validación de facturas.
-
-
-  ### Módulo 16&#58; Configurar cuentas por cobrar
-  Tú necesario configurar el módulo de Cuentas por cobrar para poder crear facturas de clientes, registrar albaranes, usar facturas de texto libre que no estén relacionadas con pedidos de ventas y, finalmente, recibir pagos utilizando varios tipos de pago diferentes, como efectivo, cheques, tarjetas de crédito y pagos electrónicos de clientes.
-
-  Este módulo proporciona información sobre la configuración de componentes esenciales del módulo de Cuentas por cobrar y la configuración del cliente para una gestión eficiente de los clientes y las transacciones de clientes en Finanzas y Operaciones.
-
-  #### Lecciones
-  - Configurar cuentas por cobrar
-  - Crear y mantener clientes
-  - Configurar perfiles de contabilización de clientes
-  - Configurar los cargos de cuentas por cobrar
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Configurar componentes de cuentas por cobrar
-  - Crear y mantener un cliente
-  - Configurar pagos de clientes.
-  - Configurar perfiles de contabilización de clientes
-  - Configurar los cargos de cuentas por cobrar
-
-
-  ### Módulo 17&#58; Realizar procedimientos diarios de cuentas por cobrar
-  Aprenda cómo crear facturas de texto gratis y recibir pagos de clientes y depositarlos en el banco. También aprende cómo reembolsar a un cliente por el monto del sobrepago o por cualquier otro motivo, como el escenario de devoluciones de clientes, que necesita reembolsar al cliente no solo el pago, sino también el impuesto que se ha recaudado, utilizando las reversiones y las reversiones de transacciones en las cuentas por cobrar. Tú también aprenderán cómo distribuir fondos utilizando distribuciones de contabilidad en una factura de texto libre.
-  #### Lecciones
-  - Crear facturas de texto gratis y registrar los pagos de los clientes
-  - Liquidar transacciones y deshacer liquidaciones
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Distribuir fondos utilizando distribuciones contables
-  - Crear facturas de texto gratis, y registrar los pagos de los clientes
-  - Configurar facturas recurrentes
-  - Usar reversiones en cuentas por cobrar
-  - Procesar pedidos, registrar facturas y procesar pagos
-
-
-  ### Módulo 18&#58; Configurar crédito y cobros
-  Aunque la mayoría de los clientes pagan sus facturas a tiempo, tú debe poder procesar las facturas que no se pagan en su fecha de vencimiento.
-
-  Este tema explica cómo administrar clientes morosos configurando el módulo de Crédito y cobros en Dynamics 365 para Finance and Operations. Para usar el módulo de Créditos y cobros, ya debería haber completado la configuración de las cuentas por cobrar.
-
+  - Comprobación del conocimiento
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar componentes básicos del presupuesto
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Configurar componentes de control del presupuesto
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Usar entradas de registro del presupuesto
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Configurar la planificación del presupuesto, crear y utilizar un proceso de planificación
+  Ha aprendido a&#58;
+  - Configurar y gestionar los procesos del presupuesto
+  - Configurar los componentes de presupuesto incluyendo modelos de presupuesto, códigos, términos de asignación, ciclos, reglas de transferencia
+  - Configurar los controles de presupuestos, incluyendo duración del ciclo, parámetros del presupuesto, disponibilidad de fondos...
+  - ...opciones, reglas y grupos de control de presupuesto, y permisos para excederse en el presupuesto.
+  - Implementar los flujos de trabajo del presupuesto
+  - Crear y configurar las entradas de registro
+  - Realizar verificaciones del presupuesto en documentos y diarios
+  - Crear un plan de presupuesto incluyendo escenarios, etapas, etapas de asignación, asignaciones de etapas, plantillas
+  - Definir un proceso de planificación del presupuesto y planificar un presupuesto
+  
+  
+  ### Módulo 8&#58; Configurar y gestionar los activos fijos
+  La forma en que se manejen los activos fijos debe corresponder tanto  normas internacionales de contabilidad como a la legislación contable de cada país/región. Los requisitos pueden incluir normas para registrar las transacciones de adquisición y enajenación, depreciación,  vida útil y correcciones y amortizaciones de los activos fijos. La funcionalidad de activos fijos incorpora muchas de estas normas y reglas.
   #### Lecciones
   - Introducción
-  - Configurar componentes de crédito y cobranzas
-  - Configurar y gestionar intereses
-  - Renunciar, restablecer o revertir
-  - Configurar y administrar cartas de cobro
-  - Laboratorio de práctica
+  - Lección 1&#58; Configurar componentes de activos fijos
+  - Lección 2&#58; Administrar activos fijos
+  - Lección 3&#58; Adquisición, depreciación y enajenación de activos fijos
+  - Lección 4&#58; Integración de activos fijos
   - Resumen del módulo
-
-  Configurar componentes de crédito y cobranzas.
-  - Configurar informes de antigüedad, grupos de clientes, agentes de recopilación y definiciones de períodos de antigüedad.
-  - Configurar y gestionar intereses.
-  - Configurar y administrar cartas de cobro.
-
-
-  ### Módulo 19&#58; Procesar crédito y cobros
-  Aunque la mayoría de los clientes pagan sus facturas a tiempo, tú debe poder procesar las facturas que no se pagan antes de su fecha de vencimiento.
-
-  Este tema explica cómo procesar créditos y cobros.
-  #### Lecciones
-  - Introducción
-  - Comprender cómo procesar colecciones
-  - Administrar créditos y cobros de clientes
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Resúmenes de cuenta de clientes
-  - Cómo procesar la recolección
-
-
-  ### Módulo 20&#58; Configurar cheques con PostDated
-  Los cheques con PostDated son cheques que se emiten para realizar y recibir pagos en una fecha futura. Por lo tanto, el cheque no se puede cobrar hasta la fecha especificada.
-
-  Microsoft Dynamics 365 for Finance and Operations admite el ciclo de administración completo para cheques con fecha posterior tanto en Cuentas por cobrar como en Cuentas por pagar. Este tema explica cómo configurar y procesar cheques con fecha posterior.
-
-  #### Lecciones
-  - Introducción
-  - Administrar cheques con fecha posterior
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Procesar cheques con fecha posterior
-  - Configurar cheques con fecha posterior
-  - Registrar y contabilizar un cheque con fecha posterior para un cliente
-  - Liquidar un cheque con fecha posterior de un cliente
-  - Registrar y contabilizar un cheque con fecha posterior para un proveedor
-  - Liquidar un cheque con fecha posterior para un proveedor
-
-
-  ### Módulo 21&#58; Configurar y utilizar procesos básicos de presupuestación y control de presupuestos
-  Toda organización, ya sea privada o pública, establece objetivos financieros y operativos mediante la creación de presupuestos. Cuando se establece el presupuesto, la gerencia monitorea las actividades dentro del marco presupuestario.
-
-  Este módulo proporciona información sobre cómo configurar y utilizar la presupuestación básica y el control presupuestario.
-  #### Lecciones
-  - Introducción
-  - Configurar componentes básicos de presupuesto
-  - Configurar componentes de control presupuestario
-  - Crear y probar entradas de registro de presupuesto
-  - Usar consultas e informes
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Configurar componentes básicos de presupuesto
-  - Configurar componentes de control presupuestario
-  - Usar consultas e informes
-  - Crear y usar entradas de registro de presupuesto
-
-
-  ### Módulo 22&#58; Configurar y usar procesos de planificación presupuestaria
-  Con la funcionalidad de planificación presupuestaria, tú puede consolidar múltiples planes presupuestarios desde un nivel inferior en un plan presupuestario principal único en un nivel superior de la organización. Esto se llama planificación presupuestaria de enfoque de abajo hacia arriba que permite a un planificador de presupuesto agregar otros planes en un plan corporativo o de alto nivel para la presupuestación.
-
-  También se puede adoptar el enfoque de arriba hacia abajo lo que requiere desarrollar un plan de presupuesto único en un nivel superior de la organización y asignar el presupuesto a los niveles inferiores de la organización. Utilice este método cuando confíe en las transacciones financieras históricas de su empresa y cree un plan centralizado que se pueda asignar a diferentes unidades operativas definidas por una jerarquía de la organización con el propósito de planificar el presupuesto.
-
-  El planificador presupuestario, como paso final de la planificación presupuestaria, genera la entrada del registro presupuestario en función del plan presupuestario.
-
-  Una organización puede configurar la planificación presupuestaria y luego configurar procesos colaborativos de planificación presupuestaria para cumplir con sus políticas, procedimientos y requisitos para la preparación del presupuesto. Este tema explica cómo configurar y probar los procesos de planificación presupuestaria.
-
-  #### Lecciones
-  - Introducción
-  - Configurar componentes de planificación presupuestaria
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Configurar componentes de planificación presupuestaria
-  - Crear una plantilla de plan de presupuesto
-  - Configurar procesos de presupuesto
-  - Crear un plan de presupuesto utilizando el asistente de plan de presupuesto
-
-
-  ### Módulo 23&#58; Configurar la gestión de activos fijos
-  Este módulo comienza explicando los conceptos de activos fijos y luego muestra a tú cómo configurar y usar el módulo de activos fijos en Dynamics 365 for Finance and Operations.
-  #### Lecciones
-  - Introducción
-  - Configurar componentes de activos fijos
-  - Habilitar la integración de activos fijos
-  - Crear activos fijos
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Configurar componentes de activos fijos
+  - Comprobación de conocimientos
+  
+  #### Laboratorio &#58; Ejercicio 1&#58; Configurar componentes de los activos fijos
+  
+  #### Laboratorio &#58; Ejercicio 2&#58; Establecer y crear perfiles de depreciación
+  
+  #### Laboratorio &#58; Ejercicio 3&#58; Adquirir un Activo Usando el Diario de Activos Fijos
+  
+  #### Laboratorio &#58; Ejercicio 4&#58; Depreciación y disposición de un activo
+  ha aprendido a&#58;
+  - Implementar y gestionar activos fijos
+  - Crear activos fijos y grupos de activos fijos
+  - Describir y configurar libros de activos fijos y depreciación
   - Configurar parámetros de activos fijos
-  - Permitir la integración de activos fijos con compras
-  - Crear activos fijos
-
-
-  ### Módulo 24&#58; Administrar activos fijos
-  Para registrar transacciones de activos fijos utilizando diarios, tú debe crear al menos un nombre de diario utilizando el tipo de diario Contabilizar activos fijos en la configuración del módulo Libro mayor. Si se requieren presupuestos para activos fijos, también tú debe crear un nombre de diario que utilice el tipo de diario Presupuesto de activos fijos. Este módulo explica cómo procesar y administrar activos fijos.
-  #### Lecciones
-  - Introducción
-  - Realizar tareas de activos fijos
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Realizar adquisición de activos fijos
-  - Realizar depreciación de activos fijos
-  - Realizar la disposición de activos fijos
-
-
-  ### Módulo 25&#58; Configurar y usar contabilidad de costos
-  La contabilidad de costos le permite recopilar datos de diversas fuentes, como el libro mayor general, los libros mayores, los presupuestos y la información estadística. Luego tú puede analizar, resumir y evaluar los datos de costos, para que la administración pueda tomar las mejores decisiones posibles para las actualizaciones de precios, presupuestos, control de costos, etc. Los datos de origen que se utilizan para el análisis de costos se tratan de forma independiente en la contabilidad de costos. Por lo tanto, las actualizaciones en la contabilidad de costos no afectan los datos de origen.
-  #### Lecciones
-  - Introducción
-  - Espacio de trabajo de control de costes
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Espacio de trabajo de control de costes
-  - Cómo crear un informe de contabilidad de costos mediante el asistente de inicio de contabilidad de costos
-
-
-  ### Módulo 26&#58; Configurar y usar procesos periódicos
-  En el libro mayor, puede completar los procedimientos de cierre por un período o un año. Los procesos de cierre preparan el sistema para un nuevo período.
-
-  Hay muchas tareas, como la preparación de documentos, el cierre de inventario, la consolidación, y muchas más deben completarse primero.
-
-  Para preparar el sistema para un nuevo año, debe ejecutar el proceso de cierre de fin de año. Cada organización tiene diferentes procesos y pasos que realiza para el final de un período.
-  #### Lecciones
-  - Introducción
-  - Conciliaciones bancarias
-  - Configurar cierre de período financiero
-  - Preparar presentaciones periódicas
-  - Ejecutar procesos de revaluación de moneda extranjera
-  - Realizar consolidaciones financieras
-  - Procesar cierre de fin de año
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Configurar cierre de período financiero
-  - Conciliar bancos
-  - Realizar procesos de cierre periódico y cierre de año
-  - Preparar presentaciones periódicas
-  - Configure and test Vendor 1099s process
-  - Ejecutar procesos de revaluación de moneda extranjera
-  - Realizar procesos de consolidación y eliminación financiera
-  - Usar informes financieros para crear estados financieros
-  - Procesar la declaración de impuestos de fin de año
-
-
-  ### Módulo 27&#58; Configurar el marco de informes electrónicos
-  Los informes electrónicos genéricos (GER) o simplemente los informes electrónicos (ER) son una herramienta configurable para informes regulatorios pagos y facturación electrónica.
-
-  El motor de ER está dirigido a usuarios comerciales en lugar de desarrolladores. Debido a que configura formatos en lugar de código, los procesos para crear y ajustar formatos para documentos electrónicos son más rápidos y fáciles.
-
-  ER actualmente admite los formatos de hoja de trabajo TEXT, XML, PDF, documento de Microsoft Word y OPENXML. Sin embargo, una interfaz de extensión proporciona soporte para formatos adicionales.
-
-  #### Lecciones
-  - Introducción
-  - Configurar informes electrónicos
-  - Diseñador de fórmulas en informes electrónicos
-  - Laboratorio de práctica
-  - Resumen del módulo
-
-  Configurar informes electrónicos (ER)
-  - Crear configuraciones de informes electrónicos (ER)
-  - Realizar procesos de cierre periódico y cierre de año
-  - Diseñador de fórmulas en informes electrónicos (ER)
-
-
-  ### Módulo 28&#58; Configurar funciones localizadas
-  Dynamics 365 for Finance and Operations incluye funcionalidades para los países y regiones documentados en la guía de localización de productos y disponibilidad de traducción.
-
-  Este módulo explica cómo configurar algunos ejemplos de características regionales en Finance and Operations. Lea la información en la página de Localización y características regulatorias para mantenerse actualizado con la funcionalidad regional de Finance and Operations para todos los países/regiones.
-  #### Lecciones
-  - Introducción
-  - Localización y características regulatorias
-  - Clasificación de las características de localización en México.
-  - Comprender el motor fiscal global
-  - Comprender las características de los establecimientos y documentos fiscales para la localización brasileña
-  - Letra de cambio
-  - Facturas electrónicas
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Localización y características regulatorias
-  - Clasificación de las características de localización.
-  - Cómo aplicar el contexto de país y región
-  - Cómo configurar y demostrar las características de los establecimientos fiscales y los documentos fiscales para Brasil
-
-
-  ### Módulo 29&#58; Configurar la gestión financiera para el sector público
-  El sector público, también conocido como el sector estatal y local, es predominantemente una industria de servicios que gestiona el bienestar de sus ciudadanos. La industria del sector público incluye organizaciones en los campos de municipalidades, educación, salud, seguridad pública, obras públicas e infraestructura, defensa nacional, impuestos y varios programas sociales.
-  #### Lecciones
-  - Introducción
-  - Configurar fondos para el sector público
-  - Configurar jerarquías financieras derivadas
-  - Configurar códigos de facturación para facturas de texto libre
-  - Laboratorios de práctica
-  - Resumen del módulo
-
-  Configurar fondos para el sector público
-  - Comprender los métodos de conciliación bancaria
-  - Configurar dimensiones derivadas
-  - Establecer jerarquías financieras derivadas para el sector público
-  - Funcionalidad avanzada de entradas de libro mayor para el sector público
-  - Configurar códigos de facturación para facturas de texto libre
-
-
-  ### Módulo 30&#58; Conclusión del curso
-  Evaluación final y resumen del curso, así como una encuesta posterior al curso.
-  #### Lecciones
-  - Evaluación final
-  - Resumen del curso
-  - Encuesta posterior al curso
-
-  Tú habrán completado el curso.
+  - Adquisición y depreciación de activos fijos
+  - Arrendamiento de activos fijos
+  - Doble moneda con activos fijos
+  - Identificadores de activos fijos de toda la organización
+  - Enajenación de activos fijos
+  - Crear presupuestos de activos fijos y transferir los presupuestos al módulo de presupuestos
+  - Estimar y realizar una eliminación de un proyecto a un activo fijo
 

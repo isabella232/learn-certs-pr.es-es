@@ -1,21 +1,21 @@
-### YamlMime:Role 
-title: Developer 
+### YamlMime:Role
+title: Developer
 metadata: 
-  title: Developer 
+  title: Developer
   description: Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes.
-uid: role.developer 
+uid: role.developer
 summary: | 
-  Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes. 
+  Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones. Los desarrolladores implementan aplicaciones y servicios al asociarse con Solution Architects y clientes.
 subTitle: Los desarrolladores de diseñan, construyen, prueban y mantienen soluciones en la nube.
-certificationPaths: 
+certificationPaths:
 - title: Azure Developer
   linkedInKeywords: Azure Developer
-  uid: certification-path.developer 
+  uid: certification-path.developer
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
   - uid: certification.azure-developer
     levels:
     - intermediate 
@@ -63,9 +63,6 @@ certifications:
 - uid: certification.m365-developer-associate
   requiredExams:
   - uid: exam.ms-600
-- uid: certification.power-apps-and-d365-developer-associate
-  requiredExams:
-  - uid: exam.mb-400
 - uid: certification.power-platform-developer-associate
   requiredExams:
   - uid: exam.pl-400

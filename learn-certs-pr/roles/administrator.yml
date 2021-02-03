@@ -1,16 +1,16 @@
-### YamlMime:Role 
-title: Administrator 
+### YamlMime:Role
+title: Administrator
 metadata: 
-  title: Administrator 
+  title: Administrator
   description: Los administradores implementan, supervisan y mantienen las soluciones de Microsoft, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
-uid: role.administrator 
-summary: | 
+uid: role.administrator
+summary: |
   Los administradores implementan, supervisan y mantienen las soluciones de Microsoft, incluidos los principales servicios relacionados con la informática, el almacenamiento, la red y la seguridad.
 subTitle: Los administradores implementan, supervisan y mantienen las soluciones de Microsoft.
 certificationPaths: 
 - title: Azure Administrator
   linkedInKeywords: Azure Administrator
-  uid: certification-path.azure-administrator 
+  uid: certification-path.azure-administrator
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
@@ -21,7 +21,7 @@ certificationPaths:
     - intermediate
   - uid: certification.devops-engineer
     levels:
-    - advanced      
+    - advanced
 - title: Microsoft 365 Certified Messaging Administrator Associate
   linkedInKeywords: Microsoft 365 Certified Messaging Administrator Associate
   uid: certification.m365-messaging-administrator
@@ -96,6 +96,9 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
+- uid: certification.azure-stack-hub-operator
+  requiredExams:
+  - uid: exam.az-600
 - uid: certification.m365-messaging-administrator
   requiredExams:
   - uid: exam.ms-203

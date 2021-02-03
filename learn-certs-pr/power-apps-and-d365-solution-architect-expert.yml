@@ -9,10 +9,10 @@ summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
   
   Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
-
-  <div><strong>NOTA: La obtención de las dos siguientes certificaciones califica como un requisito previo para esta certificación. Este prerrequisito no aparece a continuación debido a las limitaciones del sitio.</strong><ul>
-  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified: Power Platform Functional Consultant Associate</a></li>
-  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified: Power Platform Developer Associate</a></li>
+  
+  <div><strong>NOTA&#58; La obtención de las dos siguientes certificaciones califica como un requisito previo para esta certificación. Este prerrequisito no aparece a continuación debido a las limitaciones del sitio.</strong><ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
   </ul></div>
 subTitle: Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
 levels:
@@ -35,14 +35,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p
 exams:
 - uid: exam.mb-600
 prerequisites:
-- uid: certification.power-apps-and-d365-developer-associate
-  isOptional: false
 - uid: certification.d365-functional-consultant-sales
   isOptional: false
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false
+  isOptional: false  
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
 resources:

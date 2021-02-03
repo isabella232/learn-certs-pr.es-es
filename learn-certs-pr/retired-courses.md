@@ -17,6 +17,12 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
 
 ## Cursos retirados: Curso dirigido por un instructor
 
+* Retirada de los cursos didacticos el 31 de marzo de 2021
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | inglés | 31/03/2021 |
+
 * Courseware Retiro de 31 Diciembre de 2020
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |

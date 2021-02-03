@@ -34,7 +34,6 @@ Encuentre certificaciones que se retirarán durante los próximos 12 meses. (La 
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Retira el 31 de Enero de 2021 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Retira el 31 de Enero de 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Retira el 31 de Enero de 2021 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | Retira el 31 de diciembre de 2020 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Se retirará el 30 de junio de 2021 |
 
 ## Certificaciones retiradas
@@ -45,6 +44,7 @@ NOTA: Después de que se retire una certificación, Microsoft seguirá revisando
 
 | Roles basados                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 de diciembre de 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 de Agosto de 2020 |
 
 | Microsoft Certified Solutions Developer                                            |
@@ -53,7 +53,7 @@ NOTA: Después de que se retire una certificación, Microsoft seguirá revisando
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MCSA: CRM Dynamics Technical                                                                                                | 31 de diciembre de 2019  |
+| MCSA: CRM Dynamics Technical                                                                                                | 31 de diciembre de 2019 |
 
 | Microsoft Certified Solutions Expert                                               |
 | ---------------------------------------------------------------------------------- |
@@ -62,5 +62,5 @@ NOTA: Después de que se retire una certificación, Microsoft seguirá revisando
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | MTA: 98-369: Cloud Fundamentals                                                                                             | 30 de Septiembre de 2019 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 de agosto de 2019   |
+| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 de agosto de 2019 |
 ___

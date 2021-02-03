@@ -7,17 +7,17 @@ uid: exam.az-104
 displayName: AZ-104
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen fue actualizado el 24 de noviembre de 2020. Por favor, descarguese el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
   </div>
-
+  
   Los candidatos para este examen deben tener experiencia en la materia, implementar, administrar y supervisar el entorno Microsoft Azure de una organización.
-
+  
   Las responsabilidades para un administrador de Azure incluyen implementar, administrar y supervisar redes de identidad, gobierno, almacenamiento, procesos y virtuales en un entorno de nube, además de aprovisionamiento, tamaño, supervisión y ajuste de recursos, cuando sea necesario.
-
+  
   Un administrador de Azure a menudo sirve como parte de un equipo más grande dedicado a implementar la infraestructura en la nube de su organización.
-
+  
   Un candidato para este examen debe tener al menos seis meses de experiencia práctica en la administración de Azure, además de una sólida comprensión de los servicios centrales de Azure, las cargas de trabajo de Azure, la seguridad y el gobierno. Además, este rol debe tener experiencia en el uso de PowerShell, la CLI de Azure, el portal de Azure y las plantillas de Azure Resource Manager.
-
+  
   Puede ser candidato a obtener créditos universitarios ACE si aprueba este examen de certificación. Vea [Créditos universitarios ACE para los exámenes de certificación](/learn/certifications/ace-credit-for-certification-exams) para los detalles.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: administrar las identidades y el gobierno de Azure; implementar y administrar el almacenamiento; implementar y administrar recursos informáticos de Azure; configurar y administrar redes virtuales; y supervisar y hacer una copia de seguridad de los recursos de Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,7 +36,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el 24 de noviembre de 2020. Por favor, descárguese el esquema de habilidades del examen que aparece a continuación para ver los cambios.
+- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
 - Administrar las identidades y el gobierno de Azure (15-20%)
 - Implementar y administrar el almacenamiento (10-15%)
 - Implementar y administrar recursos informáticos de Azure (25-30%)

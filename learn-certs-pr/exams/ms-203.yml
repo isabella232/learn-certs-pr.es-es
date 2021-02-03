@@ -7,15 +7,15 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-  <div><strong>El contenido de este examen fue actualizado el 24 de noviembre de 2020. Por favor, descarguese el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
   </div>
-
+  
   Los candidatos para este examen son los Administradores de mensajería que implementan, configuran, administran, solucionan problemas y supervisan destinatarios, permisos, protección de correo, flujo de correo y carpetas públicas en entornos empresariales híbridos y en la nube.
-
+  
   Los administradores de mensajería son responsables de administrar la higiene, la infraestructura de mensajería, la configuración híbrida, la migración, el transporte, los buzones y el acceso de los clientes.
-
+  
   Los administradores de mensajería colaboran con el administrador de seguridad y el administrador de empresa de Microsoft 365 para implementar una topología híbrida segura o solo en la nube que satisfaga las necesidades comerciales de una empresa.
-
+  
   El Messaging Administrator debe contar con conocimiento práctico de tipos de autenticación, licencias e integración con aplicaciones Microsoft 365.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: administrar la configuración y los recursos de la organización; planear y administrar la arquitectura del correo; planificar e implementar una configuración híbrida y migración; y asegurar el entorno de mensajería.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el 24 de noviembre de 2020. Por favor, descárguese el esquema de habilidades del examen que aparece a continuación para ver los cambios.
+- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
 - Administrar configuraciones y recursos organizacionales (30-35%)
 - Planificar y administrar la arquitectura de correo (20-25%)
 - Planificar e implementar una configuración híbrida y migración (20-25%)

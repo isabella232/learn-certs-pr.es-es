@@ -7,15 +7,15 @@ uid: exam.az-303
 displayName: AZ-303
 summary: |-
   <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen fue actualizado el 24 de noviembre de 2020. Por favor, descarguese el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  <div><strong>El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
   </div>
-
+  
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad. Candidatos deben tener conocimientos a nivel intermedio para administrar Azure. Candidatos deben entender el desarrollo de Azure y los procesos de DevOps.
-
+  
   Las responsabilidades para un Arquitecto de soluciones de Azure incluyen asesorar a las partes interesadas y traducir los requisitos comerciales en soluciones de nube seguras, escalables y confiables.
-
+  
   Azure Solution Architect se asocia con administradores de la nube, DBA en la nube y clientes para implementar soluciones.
-
+  
   El candidato para este examen debe tener experiencia avanzada y conocimiento en operaciones de TI, incluidas las redes, la virtualización, la identidad, la seguridad, la continuidad del negocio, la recuperación ante desastres, la plataforma de datos, el presupuesto y la gobernanza; este rol debe gestionar cómo las decisiones en cada área afectan a una solución global. Además, en este rol se deben tener habilidades de nivel experto en la administración de Azure y se debe tener experiencia con el desarrollo de Azure y los procesos DevOps.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: implementar y monitorear una infraestructura de Azure; implementar soluciones de gestión y seguridad; implementar soluciones para aplicaciones; e implementar y administrar plataformas de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -30,7 +30,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el 24 de noviembre de 2020. Por favor, descárguese el esquema de habilidades del examen que aparece a continuación para ver los cambios.
+- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
 - Implementar y monitorear una infraestructura de Azure (50-55%)
 - Implementar y administrar plataformas de datos (10-15%)
 - Implementar soluciones para aplicaciones (10-15%)

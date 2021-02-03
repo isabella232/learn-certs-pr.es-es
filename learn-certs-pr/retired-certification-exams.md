@@ -60,11 +60,6 @@ Busque exámenes que se retirarán durante los próximos 12 meses, enumerados po
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| Retirará el 31 de Diciembre de 2020 |
-| --- |
-| [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
-| [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
 | Se retirará el 30 de junio de 2021 |
 | --- |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
@@ -143,6 +138,8 @@ Para utilizarlos como referencia, los exámenes retirados durante el último añ
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 de diciembre de 2020
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 de diciembre de 2020
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 de diciembre de 2019
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 de diciembre de 2019
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 de diciembre de 2019

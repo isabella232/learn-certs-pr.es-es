@@ -7,26 +7,23 @@ uid: exam.mb-400
 displayName: MB-400
 summary: |-
   <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div><div><strong>ESTE EXAMEN SE RETIRARÁ EL 31 DE DICIEMBRE DE 2020. Un nuevo examen, <a href="/learn/certifications/exams/pl-400"> PL-400</a> empezó a estar disponible en septiembre de 2020. Nota&#58; Los exámenes se retiran a las 11&#58;59 p.m. hora estándar central.</strong><br/><br/></div>
+  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
+  <div><strong>Este examen fue retirado el 31 de diciembre de 2020. Un examen de reemplazo, PL-400, está disponible. Para más información, visite la página de detalles del examen PL-400 <a href="/learn/certifications/exams/pl-400">PL-400
   </div>
-
+  
   Los candidatos para este examen son Desarrolladores que trabajan con aplicaciones basadas en modelos de Microsoft Power Apps en Dynamics 365 para diseñar, desarrollar, proteger y extender una implementación de Dynamics 365. Los candidatos implementan componentes de la solución que incluyen mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
-
+  
   Los candidatos deben tener un sólido conocimiento aplicado de las aplicaciones basadas en modelos de Power Apps en Dynamics 365, que incluye una comprensión profunda de la personalización, configuración, integración y extensibilidad, así como de límites y restricciones. Los candidatos deben tener una comprensión básica de las prácticas de DevOps para las aplicaciones basadas en modelos de Power Apps en Dynamics 365. Los candidatos deben exponer, almacenar e informar sobre los datos.
-
+  
   Los candidatos deben tener experiencia en desarrollo que incluye JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET y Power BI.
-
-  <div><strong><br/>Dado a que esta certificación se retira el 31 de diciembre de 2020, Microsoft no actualizará las referencias de "Common Data Service" a "Microsoft Dataverse".</strong></div>
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: crear un diseño técnico; configurar el servicio de datos comunes (CDS); crear y configurar Power Apps; configurar la automatización de procesos comerciales; ampliar la experiencia del usuario; extender la plataforma; y desarrollar integraciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el, viernes, 22 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - crear un diseño técnico (10-15%)
 - configurar el servicio de datos comunes (15-20%)
 - crear y configurar Power Apps (10-15%)
@@ -42,8 +39,6 @@ products:
 - dynamics-customer-engagement
 exams:
 - uid: exam.mb-200
-courses:
-- uid: course.mb-400t00
 paths:
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
 - uid: learn-dynamics.introduction-development

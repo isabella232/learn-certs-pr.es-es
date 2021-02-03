@@ -10,13 +10,13 @@ summary: |-
   <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>El contenido de este examen se actualizó el miércoles, 20 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.<br/><br/></div>
   </div>
-
+  
   Los candidatos para este examen deben tener experiencia en la materia utilizando servicios cognitivos, aprendizaje automático y minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft que involucren procesamiento de lenguaje natural, habla, visión por ordenador e inteligencia artificial conversacional.
-
+  
   Las responsabilidades de un ingeniero de IA de Azure incluyen analizar los requisitos para las soluciones de IA, recomendar las herramientas y tecnologías apropiadas y diseñar e implementar soluciones de IA que cumplan con los requisitos de escalabilidad y rendimiento.
-
+  
   Los Azure AI ingenieros traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores software para crear soluciones completas de extremo a extremo.
-
+  
   Un candidato para este examen debe tener conocimiento y experiencia en el diseño e implementación de aplicaciones y agentes de inteligencia artificial que utilicen los Servicios cognitivos de Microsoft Azure, Azure Bot Service, Azure Cognitive Search y el almacenamiento de datos en Azure. Además, un candidato debe poder recomendar soluciones que usen tecnologías de código abierto, comprender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles, y comprender cuándo se debe desarrollar una API personalizada para cumplir requisitos específicos.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: analizar los requisitos de solución; formular las soluciones; integrar los modelos AI en soluciones; e implementar y gestionar soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -40,7 +40,6 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-service
 - azure-machine-learning-studio
 - azure-search
 courses:

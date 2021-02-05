@@ -14,7 +14,7 @@ skillsGained:
 - skill: Administrar e implementar aplicaciones y planificar una estrategia de administración de aplicaciones móviles.
 - skill: Administrar usuarios y autenticación con Azure AD y Active Directory DS.
 - skill: Describir e implementar métodos utilizados para proteger dispositivos y datos.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

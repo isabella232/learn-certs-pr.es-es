@@ -7,10 +7,6 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  </div>
-  
   Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
 levels:

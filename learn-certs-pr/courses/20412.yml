@@ -22,7 +22,7 @@ skillsGained:
 - skill: Implementar un clúster de conmutación por error y configurar y validar un servicio de red de alta disponibilidad.
 - skill: Implementar y administrar máquinas virtuales Hyper-V en un clúster de conmutación por error.
 - skill: Implementar una solución de respaldo y recuperación ante desastres basada en los requisitos comerciales y técnicos.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -20,7 +20,7 @@ skillsGained:
 - skill: Implementar y administrar contenedores de Windows e Hyper-V.
 - skill: Implementar el clúster de conmutación por error.
 - skill: Implemente el clúster de conmutación por error utilizando máquinas virtuales.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

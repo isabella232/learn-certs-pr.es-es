@@ -20,7 +20,7 @@ skillsGained:
 - skill: Supervisar una infraestructura de virtualización utilizando System Center Operations Manager.
 - skill: Implementar y administrar Microsoft Hyper-V Replica y Microsoft Azure Site Recovery.
 - skill: Proteger la infraestructura de virtualización utilizando Data Protection Manager.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

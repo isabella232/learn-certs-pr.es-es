@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Al finalizar este taller, podrá realizar mejor un análisis del terreno para comparar el coste, el rendimiento y el nivel de esfuerzo necesarios para migrar de Oracle a SQL Server o PostgreSQL. Dado el tiempo requerido para completar el taller, se recomienda que el estudiante y el entrenador elijan una sola vía de migración.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

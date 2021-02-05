@@ -6,8 +6,6 @@ metadata:
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-
   Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 
   Los desarrolladores de Microsoft 365 son competentes en la identidad de Microsoft y Microsoft Graph. Tienen conocimientos generales sobre los elementos de IU (incluyéndose Adaptive Cards y UI Fabric), puntos de integración (incluyéndose Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), y para determinar los objetivos de la plataforma de cargas de trabajo.

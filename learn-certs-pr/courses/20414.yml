@@ -21,7 +21,7 @@ skillsGained:
 - skill: Planificar e implementar la implementación de un servidor AD FS y el acceso a la aplicación para notificaciones.
 - skill: Planificar e implementar Control de acceso dinámico, Workplace Join y Carpetas de trabajo.
 - skill: Planificar y poner en marcha una implementación de AD RMS, planificar y administrar las plantillas y el acceso de AD RMS, y planificar e implementar el acceso externo a los servicios de AD RMS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

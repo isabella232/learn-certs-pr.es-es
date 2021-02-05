@@ -12,7 +12,7 @@ skillsGained:
 - skill: Utilice las funciones de conectividad entre sitios, incluidas las conexiones VNet Peering y VNet-to-VNet
 - skill: Trabajar con Directorio Activo Azure (AAD) and Azure AD Connect
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ skillsGained:
 - skill: Describir las características generales de seguridad y seguridad de la red, y cómo puede usar los diversos servicios de Azure para ayudar a garantizar que los recursos de la cloud estén seguros, protegidos y sean de confianza.
 - skill: Discutir las características de identidad, gobierno, privacidad y cumplimiento, y cómo Azure puede ayudarle a asegurar el acceso a los recursos de la cloud, lo que significa construir una estrategia de gobierno de cloud y cómo Azure se adhiere a los estándares comunes de regulación y cumplimiento.
 - skill: Discutir los factores que influyen en el costo, las herramientas que puede usar para ayudar a estimar y administrar su gasto en la cloud, y cómo los Service Level Agreements (SLA) de Azure pueden impactar sus decisiones sobre el diseño de aplicaciones.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

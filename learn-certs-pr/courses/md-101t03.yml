@@ -14,7 +14,7 @@ skillsGained:
 - skill: Configurar reglas de acceso condicional basadas en políticas de cumplimiento.
 - skill: Describir las diversas herramientas utilizadas para proteger los dispositivos y los datos.
 - skill: implementar Windows Defender Advanced Threat Protection.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

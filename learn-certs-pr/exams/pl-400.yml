@@ -6,8 +6,6 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></font></div>
-
   Los candidatos para este examen diseñan, desarrollan, aseguran y solucionan problemas de las soluciones de Power Platform. Los candidatos implementan componentes de una solución, incluyendo mejoras de la aplicación, experiencia de usuario personalizada, integraciones de sistemas, conversaciones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
 
   Los candidatos deben tener un sólido conocimiento aplicado de los servicios de Power Platform, incluida una comprensión profunda de las capacidades, límites y limitaciones. Los candidatos deben tener un conocimiento básico de las prácticas de DevOps para Power Platform.

@@ -6,8 +6,6 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-  
   Los candidatos para este examen son consultores funcionales que implementan procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas. Implementan y configuran la aplicación Dynamics 365 Business Central, incluida la configuración de la funcionalidad y los módulos de la aplicación principal y la migración de datos a Business Central.
   
   Los candidatos ejecutan la interfaz de usuario en colaboración con el equipo de implementación para proporcionar a la empresa manejabilidad y facilidad de navegación. Configuran centros de roles, incluida la adaptación de información, señales, mosaicos de acción, informes, gráficos y extensión de Business Central mediante el uso de componentes de Microsoft Power Platform.

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-
   Los científicos de datos de Azure aplican sus conocimientos de ciencia de datos y aprendizaje para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure; en particular, con Azure Machine Learning Service.
 subTitle: Los científicos de datos de Azure aplican sus conocimientos de ciencia de datos y aprendizaje para implementar y ejecutar cargas de trabajo de aprendizaje automático en Azure; en particular, con Azure Machine Learning Service.
 levels:

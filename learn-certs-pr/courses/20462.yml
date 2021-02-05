@@ -21,7 +21,7 @@ skillsGained:
 - skill: Realizar mantenimiento continuo de la base de datos.
 - skill: Automatizar el mantenimiento de SQL Server con SQL Server Agent Jobs.
 - skill: Configurar el correo electrónico de base de datos, alertas y notificaciones.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

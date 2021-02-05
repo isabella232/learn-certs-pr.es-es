@@ -16,7 +16,7 @@ skillsGained:
 - skill: Desplegar el modelo en Azure Container Instance
 - skill: Generar predicciones con las Azure Functions accediendo a Cosmos DB change feed
 - skill: Modernizar las aplicaciones e integrar la Inteligencia Artificial en la aplicación
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

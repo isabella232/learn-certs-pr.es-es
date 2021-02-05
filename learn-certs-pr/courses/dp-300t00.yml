@@ -11,7 +11,7 @@ skillsGained:
 - skill: Planificar, implementar y configurar las ofertas de Azure SQL
 - skill: Supervisar el rendimiento de la base de datos y ajustar una base de datos y consultas para obtener un rendimiento óptimo
 - skill: Planificar y configurar una solución de alta disponibilidad
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

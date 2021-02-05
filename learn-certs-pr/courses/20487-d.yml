@@ -19,7 +19,7 @@ skillsGained:
 - skill: Supervisar, registrar y solucionar problemas de servicios.
 - skill: Describir los conceptos y estándares de identidad basados en notificaciones, e implementar la autenticación y autorización con Azure Active Directory.
 - skill: Crear aplicaciones de servicio escalables.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

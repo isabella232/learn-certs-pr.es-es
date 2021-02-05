@@ -21,7 +21,7 @@ skillsGained:
 - skill: Implementar y administrar AD FS.
 - skill: Implementar la sincronización entre AD DS y Azure AD.
 - skill: Supervisar, solucionar problemas y establecer la continuidad del negocio para los servicios de AD DS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

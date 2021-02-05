@@ -21,7 +21,7 @@ skillsGained:
 - skill: Integrar bibliotecas no administradas y componentes dinámicos en una aplicación de Visual C#.
 - skill: Examinar los metadatos de los tipos mediante la reflexión, cree y usar atributos personalizados, generar código en tiempo de ejecución y administrar versiones de ensamblaje.
 - skill: Cifrar y descifrar datos mediante el cifrado simétrico y asimétrico.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

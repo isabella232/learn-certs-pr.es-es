@@ -24,7 +24,7 @@ skillsGained:
 - skill: Transformar los datos mediante la implementación de pivote, desenvolvimiento, resumen y cubo.
 - skill: Crear e implementar procedimientos almacenados.
 - skill: Agregar construcciones de programación como variables, condiciones y bucles al código T-SQL.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

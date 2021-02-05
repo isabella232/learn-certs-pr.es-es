@@ -11,7 +11,7 @@ skillsGained:
 - skill: Creación de aplicaciones distribuidas globalmente con Cosmos DB
 - skill: Migrar cargas de trabajo de MongoDB a Cosmos DB
 - skill: Migrar las cargas de trabajo de Cassandra DB a Cosmos DB
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

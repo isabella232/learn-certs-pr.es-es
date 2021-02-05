@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-
   Este examen cubre la capacidad de crear y mantener objetos de Access Database incluyendo tablas, relaciones, formularios de ingreso de datos, informes de niveles múltiples y consultas de tablas múltiples. Se espera que los candidatos demuestren la aplicación correcta de las características principales de Access y completen las tareas de forma independiente.
 subTitle: Este examen mide la competencia en los principios de diseño de bases de datos. El examen cubre la capacidad de crear y mantener objetos de la base de datos de Access, incluidas tablas, relaciones, formularios de entrada de datos, informes de varios niveles y consultas de varias tablas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg

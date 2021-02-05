@@ -15,7 +15,7 @@ skillsGained:
 - skill: Describa cómo crear modelos eficientes de bases de datos Graph con Cosmos DB.
 - skill: Describa cómo usar Azure Search, HDInsight, Azure Databricks y Power BI con Cosmos DB para consultar y analizar grandes datos.
 - skill: Describa cómo usar Cosmos DB como fuente y receptor para la transmisión de datos.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

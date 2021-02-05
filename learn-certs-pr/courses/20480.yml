@@ -24,7 +24,7 @@ skillsGained:
 - skill: Usar Web Sockets para enviar y recibir datos entre una aplicación web y un servidor.
 - skill: Mejorar la capacidad de respuesta de una aplicación web que realiza operaciones de larga duración mediante el uso de procesos de Web Worker.
 - skill: Usar WebPack para empaquetar aplicaciones web para producción.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

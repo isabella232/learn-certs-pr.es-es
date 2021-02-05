@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Migrar MySQL local a Azure SQL DB para MySQL
 - skill: Migrar PostgreSQL local a Azure SQL DB para PostgreSQL
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

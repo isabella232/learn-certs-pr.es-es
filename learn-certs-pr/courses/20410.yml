@@ -21,7 +21,7 @@ skillsGained:
 - skill: Implementar la directiva de grupo.
 - skill: Proteger los servidores de Windows mediante el uso de objetos de directiva de grupo (GPO).
 - skill: Implementar la virtualización del servidor utilizando Hyper-V.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

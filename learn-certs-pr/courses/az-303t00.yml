@@ -15,7 +15,7 @@ skillsGained:
 - skill: Administre Azure con Resource Manager, Azure Portal, Cloud Shell y CLI.
 - skill: Configure soluciones de conectividad entre sitios como emparejamiento de VNet y puertas de enlace de red virtual.
 - skill: Administre Azure App Service, Azure Container Instances y Kubernetes.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

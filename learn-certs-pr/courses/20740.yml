@@ -20,7 +20,7 @@ skillsGained:
 - skill: Configurar un clúster de equilibrio de carga de red (NLB) y planificar una implementación de NLB.
 - skill: Crear y administrar imágenes de implementación.
 - skill: Administrar, supervisar y mantener instalaciones de máquinas virtuales.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-381
 displayName: 98-381
 summary: |-
-  <div style='color&#58; red;'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong><br/><br/></div>
-
   Los candidatos a este examen deben poder reconocer y escribir de forma sintácticamente correcta código Python, reconocer tipos de datos compatibles con Python y poder reconocer y escribir código Python que resuelva lógicamente un problema concreto.
 
   Se espera que los candidatos hayan tenido, como mínimo, instrucciones y/o experiencia práctica de aproximadamente 100 horas con el idioma de programación Python, estén familiarizados con sus funciones y capacidades, y comprendan cómo escribir, depurar y mantener código Python bien formado y documentado.

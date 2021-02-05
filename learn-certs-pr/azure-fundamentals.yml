@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div><font color='red'><strong>En respuesta a la situación del coronavirus (COVID-19), Microsoft está implementando varios cambios temporales en nuestro programa de capacitación y certificación. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Aprenda más</a>.</strong></font><br/><br/></div>
-
   Los candidatos a la certificación de Fundamentos de Azure deben tener un conocimiento fundamental de los servicios en la nube y cómo se proporcionan esos servicios con Microsoft Azure. Esta certificación está destinada a candidatos que recién están comenzando a trabajar con soluciones y servicios basados en la nube o que son nuevos en Azure.
 
   La certificación Azure Fundamentals es una oportunidad para demostrar el conocimiento de los conceptos de la nube, los servicios de Azure, las cargas de trabajo de Azure, la seguridad y la privacidad en Azure, así como los precios y el soporte de Azure. Los candidatos deben estar familiarizados con los conceptos generales de tecnología, incluidos los conceptos de redes, almacenamiento, proceso, soporte de aplicaciones y desarrollo de aplicaciones.

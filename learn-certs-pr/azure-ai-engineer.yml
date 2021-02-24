@@ -2,10 +2,12 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.'
+  description: Ingenieros de Azure AI construyen, gestionan y despliegan soluciones AI que aprovechan Azure Cognitive Services, Azure Cognitive Search y Estructura de Microsoft Bot.
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>EL EXAMEN AI-100 SERÁ SUSTITUIDO POR <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> EL 23 DE FEBRERO DE 2021. Podrás seguir obteniendo esta certificación si apruebas el AI-100 hasta que sea retirado el 30 de junio de 2021.</strong></font><br/><br/></div>
+  
   Los candidatos para la certificación Azure AI Engineer Associate deben tener experiencia en el tema utilizando servicios cognitivos, aprendizaje automático y minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft que involucren procesamiento de lenguaje natural, habla, visión por ordenador e inteligencia artificial conversacional.
   
   Las responsabilidades para este rol incluyen analizar los requisitos para las soluciones de IA, recomendar las herramientas y tecnologías apropiadas y diseñar e implementar soluciones de IA que cumplan con los requisitos de escalabilidad y rendimiento.
@@ -13,7 +15,7 @@ summary: |-
   Los Azure AI ingenieros traducen la visión de arquitectos de soluciones y trabajan con científicos de datos, ingenieros de datos, especialistas de loT y desarrolladores software para crear soluciones completas de extremo a extremo.
   
   Un candidato para esta certificación debe tener conocimiento y experiencia en el diseño e implementación de aplicaciones y agentes de inteligencia artificial que usen los servicios cognitivos de Microsoft Azure, Azure Bot Service, Azure Cognitive Search y el almacenamiento de datos en Azure. Además, un candidato debe poder recomendar soluciones que usen tecnologías de código abierto, comprender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles, y comprender cuándo se debe desarrollar una API personalizada para cumplir requisitos específicos.
-subTitle: Los ingenieros de Azure AI utilizan Servicios Cognitivos, aprendizaje automático y minería de conocimientos para diseñar e implementar soluciones de AI de Microsoft que incluya procesamiento del lenguaje, habla, visión computerizada, bots y agentes.
+subTitle: Ingenieros de Azure AI construyen, gestionan y despliegan soluciones AI que aprovechan Azure Cognitive Services, Azure Cognitive Search y Estructura de Microsoft Bot.
 levels:
 - intermediate
 skills:

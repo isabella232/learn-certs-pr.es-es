@@ -6,15 +6,13 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div>
-  <div><strong>El contenido de este examen se actualizará el 15 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
-  </div>
+  <div><strong>El contenido de este examen fue actualizado el 15 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver que ha cambiado.</strong><br/><br/></div>
   
-  Los candidatos para este examen son consultores funcionales de Dynamics 365 Customer Engagement con experiencia en el servicio de campo. Los candidatos son responsables de implementar soluciones que gestionen los recursos que completan el ciclo de vida del servicio de campo.
+  Candidatos a este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en Servicio de Campo. Los candidatos son responsables de la implementación de soluciones que gestionan recursos que completan el ciclo de vida del servicio de campo.
   
   Los candidatos implementan los procesos de servicio de campo diseñados en colaboración con equipos internos y externos. Esta colaboración incluye la configuración de las áreas de administración predeterminadas de la aplicación de Servicio de Campo, el despliegue de la solución de Servicio de Campo Conectado (IoT) y la aplicación móvil, y la implementación de cualquier personalización adicional necesaria. Los candidatos son responsables de la configuración y el despliegue de la aplicación del Servicio de Campo en conjunto con la aplicación central de servicio al cliente.
   
-  Los candidatos deben conocer cómo configurar y personalizar los componentes de la aplicación Servicio de campo, incluidos los servicios de configuración, recursos, características, incidentes, integración de inventario, acuerdos de servicio, programación de recursos, órdenes de trabajo, tareas de servicio, roles de usuario de servicio de campo, configuración de servicio de campo, la solución Connected Field Service (IoT) y la configuración de la aplicación Field Service Mobile
+  Candidatos deben tener conocimiento de cómo configurar y personalizar componentes de la aplicación Field Service, incluyendo la configuración de servicios, recursos, características, incidentes, integración de inventario, acuerdos del servicio, programación de recursos, órdenes de trabajo, tareas de servicio, funciones del usuario del servicio de campo, ajustes del servicio de campo, la solución Connected Field Service (IoT), y la configuración de la aplicación Field Service Mobile. Los candidatos deben de estar familiarizados con la aplicación móvil basada en Microsoft Power Apps. La aplicación móvil basada en Xamarin no se tratará en este examen.
 subTitle: 'Este examen mide su capacidad para llevar a cabo las siguientes tareas técnicas: configurar las aplicaciones del servicio de campo; gestionar las órdenes de trabajo; programar y enviar las órdenes de trabajo; gestionar la movilidad del servicio de campo; gestionar el inventario y las compras; e implementar el Connected Field Service.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 15 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
+- El contenido de este examen fue actualizado el 15 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué ha cambiado.
 - Configurar las aplicaciones del servicio de campo (15-20%)
 - Administrar órdenes de trabajo (15-20%)
 - Programar y enviar órdenes de trabajo (25-30%)
@@ -38,7 +36,7 @@ products:
 - dynamics-365
 - dynamics-field-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-240t00
 paths:

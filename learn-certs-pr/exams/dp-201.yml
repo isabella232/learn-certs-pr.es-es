@@ -7,13 +7,14 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
+  <div><font color='red'><strong>UNA NUEVA VERSIÓN DE ESTE EXAMEN, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, WILL BE AVAILABLE ON FEBRUARY 23, 2021. Podrás realizar este examen hasta que se retire el 30 de junio de 2021. Nota&#58; Los exámenes se retiran a las 11&#58;59 PM Hora Estándar del Centro.</strong></font><br/><br/></div>
   <div><strong>El contenido de este examen se actualizó el, 31 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
-
+  
   Los candidatos de este examen son ingenieros de datos de Microsoft Azure que colaboran con partes interesadas comerciales para identificar y cumplir con los requisitos de datos a fin de diseñar soluciones de datos que utilizan los servicios de datos de Azure.
-
+  
   Los ingenieros de datos de Azure son responsables de las tareas relacionadas con datos que incluyen diseñar soluciones de almacenamiento de datos de Azure que utilizan almacenes de datos relacionales y no relacionales, soluciones de procesamiento de datos por lotes y en tiempo real y seguridad de datos y soluciones de cumplimiento.
-
+  
   Los candidatos para este examen deben diseñar soluciones de datos que usen los siguientes servicios de Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, y Azure Blob storage.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar soluciones de almacenamiento de datos de Azure; diseñar soluciones de procesamiento de datos; y diseño para seguridad de datos y cumplimiento.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -32,6 +33,7 @@ skills:
 - Diseñar soluciones de almacenamiento de datos Azure (40-45%)
 - Diseñar soluciones de procesamiento de datos (25-30%)
 - Diseño para seguridad de datos y cumplimiento (25-30%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

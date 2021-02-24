@@ -6,16 +6,19 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
+  Si eres un consultor funcional, un profesional que emplea Microsoft Dynamics 365 Marketing en las operaciones empresariales del día a día de tu organización, o un programador que busca perfeccionar sus habilidades de asesoramiento, esta certificación podría ayudar a impulsar tu carrera y permitir situarte en una posición más favorable para proyectos y promociones.
+  
+  Como candidato a esta certificación, conoces las aplicaciones impulsadas por modelos  Dynamics 365 y los principios de modelado de datos, además de poder configurar Microsoft Power Platform. Implementas iniciativas de marketing, como campañas, correos electrónicos y viajes de clientes. Tienes experiencia trabajando con los accionistas de una organización para reunir los requisitos e implementar soluciones Dynamics 365 Marketing. Además, configuras Dynamics 365 Marketing y configuras la seguridad organizacional Dynamics 365. Incluso puedes ampliar las soluciones Dynamics 365 usando componentes Power Platform, tales como Power Automate y Power Apps.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes unas sugerencias&#58;
+  - Trabaja en un proyecto de implementación de una aplicación impulsada por el modelo Dynamics 365.
+  - Sigue de cerca a un asesor funcional o un arquitecto de soluciones que trabaje con Dynamics 365 Marketing.
+  - Toma vías de aprendizaje disponibles en Microsoft Learn.
+  - Inscríbete en un curso de formación impartido por un instructor.
 subTitle: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
 levels:
 - intermediate
 skills:
-- Configurar el Common Data Service
-- Crear aplicaciones usando  Power Apps
-- Crear y gestionar Power Automate
-- Implementar chatbots de Power Virtual Agents
-- Integrar Power Apps con otras aplicaciones y servicios
 - Configurar aplicaciones de marketing
 - Administrar segmentos y listas
 - Crear y administrar formularios de marketing y páginas
@@ -24,6 +27,11 @@ skills:
 - Administrar los recorridos de clientes
 - Administrar eventos y seminarios web
 - Configurar Dynamics 365 Customer Voice
+- Configurar el Common Data Service
+- Crear aplicaciones usando Power Apps
+- Crear y gestionar Power Automate
+- Implementar chatbots de Power Virtual Agents
+- Integrar Power Apps con otras aplicaciones y servicios
 roles:
 - functional-consultant
 type: role-based

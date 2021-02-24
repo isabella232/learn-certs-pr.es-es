@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+metadata:
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+uid: exam.ai-102
+displayName: AI-102
+summary: |-
+  Candidatos al examen AI-102 deberían tener experiencia en la construcción, gestión e implementación de soluciones AI que aprovechan Azure Cognitive Services, Azure Cognitive Search y Estructura Microsoft Bot.
+  
+  Candidatos a este examen deberían ser competentes en C#, Python o JavaScript y deberían ser capaces de utilizar APIs y SDKs basados en REST para construir soluciones de visión computacional, procesamiento de lenguaje natural, minería del conocimiento y AI conversacional en Azure. También deberían entender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles. Asimismo, los candidatos deben comprender y ser capaces de aplicar los principios de AI responsable.
+  
+  <div><br/><font color='red'><strong>Nota&#58; Este examen estará disponible el 23 de febrero de 2021.</strong></font></div>
+subTitle: "Este examen estará disponible el 23 de febrero de 2021. Este examen mide tu habilidad para desempeñar las siguientes tareas técnicas: planificar y gestionar una solución Azure Cognitive Services; implementar soluciones de Visión Artificial; implementar soluciones de procesamiento de lenguaje natural; implementar soluciones de minería de conocimiento; e implementar soluciones de AI conversacional."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Planificar y gestionar una solución Azure Cognitive Services (15-20%)
+- Implementar soluciones de Visión Artificial (20-25%)
+- Implementar soluciones de procesamiento de lenguaje natural (20-25%)
+- Implementar soluciones de minería de conocimientos (15-20%)
+- Implementar soluciones de AI conversacional (15-20%)
+roles:
+- ai-engineer
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para exámenes de certificación
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Request accommodations
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: ../request-accommodations.md
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md
+  

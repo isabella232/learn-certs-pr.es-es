@@ -12,16 +12,16 @@ subTitle: Las soluciones CX de Microsoft Dynamics 365 Customer Service Functiona
 levels:
 - intermediate
 skills:
-- Configurar el Common Data Service
-- Crear aplicaciones usando  Power Apps
-- Crear y gestionar Power Automate
-- Implementar chatbots de Power Virtual Agents
-- Integrar Power Apps con otras aplicaciones y servicios
 - Administrar casos y Gestión del conocimiento
 - Administrar colas, derechos y contratos de nivel de servicio (SLA, por sus siglas en inglés)
 - Implementar programación
 - Implementar omnicanal para servicio al cliente
 - Gestionar análisis
+- Configurar el Common Data Service
+- Crear aplicaciones usando Power Apps
+- Crear y gestionar Power Automate
+- Implementar chatbots de Power Virtual Agents
+- Integrar Power Apps con otras aplicaciones y servicios
 roles:
 - functional-consultant
 type: role-based

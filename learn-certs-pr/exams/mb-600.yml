@@ -7,13 +7,14 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
+  <div><font color='red'><strong>UNA NUEVA VERSIÓN DE ESTE EXAMEN, <a href="/learn/certifications/exams/pl-600">PL-600</a>, ESTARÁ DISPONIBLE EN MARZO DE 2021. Podrás realizar este examen hasta que se retire el 30 de junio de 2021.</strong></font><br/><br/></div>
   <div><strong>El contenido de este examen se actualizó el, 30 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
-
+  
   Los arquitectos de soluciones para Microsoft Dynamics 365 + Power Platform lideran implementaciones exitosas y se centran en cómo las soluciones abordan las necesidades comerciales y técnicas más amplias de las organizaciones.
-
+  
   Un Arquitecto de soluciones tiene conocimiento funcional y técnico de las aplicaciones basadas en modelos de Power Platform en Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing y Dynamics 365 Sales, soluciones de nube de Microsoft relacionadas y otras tecnologías de terceros. Un arquitecto de soluciones aplica el conocimiento y la experiencia a través de un compromiso. El arquitecto de soluciones realiza un trabajo preventivo y proactivo para aumentar el valor de la inversión del cliente y promover el bienestar de la organización. Este rol requiere la capacidad de identificar oportunidades para resolver problemas comerciales.
-
+  
   Los arquitectos de soluciones tienen experiencia en disciplinas funcionales y técnicas de Power Platform y aplicaciones basadas en modelos en Dynamics 365. Los arquitectos de soluciones deben poder facilitar las decisiones de diseño en el desarrollo, la configuración, la integración, la infraestructura, la seguridad, la disponibilidad, el almacenamiento y la gestión de cambios. Este rol equilibra las necesidades comerciales de un proyecto mientras cumple con los requisitos funcionales y no funcionales.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la visión de la solución y el análisis de requisitos; diseñe una solución; e implementar la solución.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,6 +29,7 @@ skills:
 - Realizar el análisis de la visión y los requisitos de la solución (30-35%)
 - Diseñar una solución (45-50%)
 - Implementar la solución (20-25%)
+retirementDate: 06/30/2021
 roles:
 - solution-architect
 products:

@@ -35,6 +35,7 @@ Encuentre certificaciones que se retirarán durante los próximos 12 meses. (La 
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Retira el 31 de Enero de 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Retira el 31 de Enero de 2021 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Se retirará el 30 de junio de 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Se retirará el 30 de junio de 2021 |
 
 ## Certificaciones retiradas
 

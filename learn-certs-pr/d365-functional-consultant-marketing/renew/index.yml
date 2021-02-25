@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Renovación para la Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: 'Renovación para la Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: 'Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación.'
+uid: renewal.d365-functional-consultant-marketing
+certificationUid: certification.d365-functional-consultant-marketing
+assessmentId: ce559cae-50e0-48a2-b43a-e6cf0399e559
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tiene esta certificación y vence dentro de los seis meses, es elegible para su renovación. Demuestre que se ha mantenido al día con las últimas actualizaciones de Dynamics 365 Marketing and Customer Voice gracias a aprobar la evaluación de renovación. También puede prepararse para renovar con la colección seleccionada de módulos de aprendizaje.
+skills:
+- Gestionar clientes en Dynamics 365 Marketing
+- Crear un proyecto de encuesta con Dynamics 365 Customer Voice
+- Crear encuestas con Dynamics 365 Customer Voice
+- Automatizar encuestas de Customer Voice de Dynamics 365 con Power Automate
+- Enviar encuestas de Customer Voice de Dynamics 365
+examsPassed:
+- mb-220
+studyGuideDescription: 'Utilice esta colección de módulos de aprendizaje para ayudarlo a prepararse para la certificación de Microsoft: Evaluación para la renovación de Dynamics 365 Marketing Functional Consultant Associate.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

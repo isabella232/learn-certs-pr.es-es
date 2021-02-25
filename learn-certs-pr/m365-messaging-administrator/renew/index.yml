@@ -1,0 +1,27 @@
+### YamlMime:Certification
+title: 'Renovación para certificación de Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: 'Renovación para certificación de Microsoft 365 Certified: Messaging Administrator Associate'
+  description: 'Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación.'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación. Demuestre que se ha mantenido actualizado con las últimas actualizaciones de Exchange y Microsoft 365 gracias a aprobar la evaluación de renovación. También puede prepararse para la renovación con la recopilación mantenida de módulos de aprendizaje.
+skills:
+- Planificar y administrar la configuración organizativa con Exchange Online
+- Planificar y administrar el acceso de clientes con Exchange
+- Administrar permisos basados ​​en roles en Microsoft 365 Messaging
+- Entregar correo a buzones fuera de Microsoft 365 mediante conectores
+- Administrar la limpieza de los mensajes con Exchange Online y Microsoft 365 Advanced Threat Protection
+- Administrar el cumplimiento en Microsoft 365 y Exchange Online
+- Solucionar problemas de flujo de correo con Exchange
+examsPassed:
+- ms-203
+studyGuideDescription: 'Utilice esta colección de módulos de aprendizaje para ayudarlo a prepararse para la certificación de Microsoft 365: Evaluación para la renovación de Messaging Administrator Associate.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

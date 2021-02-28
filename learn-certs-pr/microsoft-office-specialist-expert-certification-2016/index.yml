@@ -28,7 +28,7 @@ resources:
   href: deals.md
 - title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
-  href: help.md
+  href: ../help.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx

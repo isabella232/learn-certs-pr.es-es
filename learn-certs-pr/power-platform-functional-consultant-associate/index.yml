@@ -68,7 +68,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
-  href: deals.md
+  href: ../deals.md
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx

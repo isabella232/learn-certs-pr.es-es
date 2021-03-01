@@ -25,7 +25,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Repetición de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
-  href: deals.md
+  href: ../deals.md
 - title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
   href: ../help.md

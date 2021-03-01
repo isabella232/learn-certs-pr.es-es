@@ -6,12 +6,12 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><div><strong>El contenido de este examen se actualizó el viernes, 2 de octubre de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
-  </div>
+  <div><strong>El contenido de este examen se actualizó el viernes, 2 de octubre de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
+  
   Los candidatos para este examen son consultores funcionales Dynamics 365 con experiencia en ventas Los candidatos son responsables de implementar soluciones que aceptan un ciclo de vida de ventas para ejecutar de manera efectiva y eficiente a fin de cumplir con los objetivos de ganancias, estrategias de negocios y objetivos empresariales.
-
+  
   Los candidatos son responsables de configurar y expandir la funcionalidad central de los prospectos de ventas, contactos, cuentas, oportunidades y aceptar entes para relacionar con los procesos de ventas implementados en la empresa. Los candidatos identifican oportunidades para usar Power Apps para desarrollar experiencias unificadas para todos los dispositivos, Power Automate para integración de aplicaciones, flujos de procesos comerciales, y otras herramientas de automatización para crear una aplicación que sea compatible y acelere el "trayecto de prospectos de venta a efectivo".
-
+  
   Los candidatos deben contar con un fuerte conocimiento empresarial y preferentemente experiencia personal en el mundo de ventas en uno o más roles de ventas.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: realizar la configuración, administrar las entidades de ventas principales y configurar herramientas y servicios adicionales.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -33,7 +33,7 @@ products:
 - dynamics-365
 - dynamics-sales
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-210t01
 paths:

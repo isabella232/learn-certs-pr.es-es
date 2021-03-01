@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.'
+uid: certification.azure-security-engineer
+certificationRenewalUid: renewal.azure-security-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los candidatos a la certificación de Ingeniero de seguridad de Azure deben tener experiencia en la materia implementando controles de seguridad y protección contra amenazas, gestionando identidad y acceso, y protegiendo datos, aplicaciones y redes en entornos de nube e híbridos como parte de una infraestructura de extremo a extremo.
+
+  Las responsabilidades para este rol incluyen mantener la postura de seguridad, identificar y remediar vulnerabilidades mediante el uso de una variedad de herramientas de seguridad, implementar protección contra amenazas y responder a escaladas de incidentes de seguridad.
+
+  Los ingenieros de seguridad de Azure a menudo sirven como parte de un equipo más grande dedicado a la administración y la seguridad basadas en la nube o entornos híbridos como parte de una infraestructura de extremo a extremo.
+
+  Un candidato para esta certificación debe tener fuertes habilidades en scripting y automatización; un profundo conocimiento de las redes, la virtualización y la arquitectura en la nube de N niveles; y una fuerte familiaridad con las capacidades de la nube y los productos y servicios para Azure, además de otros productos y servicios de Microsoft.
+subTitle: Los Ingenieros de seguridad de Azure implementan controles de seguridad y protección contra amenazas, administran la identidad y el acceso, y protegen datos, aplicaciones y redes en entornos de nube e híbridos como parte de la infraestructura de extremo a extremo.
+levels:
+- intermediate
+skills:
+- Gestionar la identidad y el acceso
+- Implementar la protección de la plataforma
+- Gestionar operaciones de seguridad
+- Asegurar datos y aplicaciones
+roles:
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+paths:
+- uid: learn.security.secure-your-cloud-apps
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.security.implement-network-security
+- uid: learn.security.implement-host-security
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
+exams:
+- uid: exam.az-500
+resources:
+- title: Azure certifications poster
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación como ingeniero asociado de Azure Security (Seguridad) y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

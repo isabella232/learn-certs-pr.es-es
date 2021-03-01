@@ -1,0 +1,46 @@
+### YamlMime:Certification
+title: 'MCSA: SQL 2016 BI Development'
+metadata:
+  title: 'MCSA: SQL 2016 BI Development'
+  description: 'MCSA: SQL 2016 BI Development'
+uid: certification.mcsa-sql2016-business-intelligence-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>Esta certificación se retirará el 31de enero de 2021. Ya no podrá conseguir esta certificación después de dicha fecha. Las certificaciones que haya obtenido antes de sus fechas de retirada seguirán apareciendo en su expediente en <a href='https://www.microsoft.com/learning/dashboard.aspx'>Certification Dashboard</a>. Puede también <a href='/learn/certifications/retired-certifications'>explorar todas las certificaciones retiradas</a>.</strong><br/><br/></div>
+  </div>
+
+  Esta certificación valida sus aptitudes para la extracción, transformación y carga (ETL) y los almacenamientos de datos, además de para la implementación de soluciones BI mediante datos tabulares y multidimensionales y cubos de procesamiento analítico online (OLAP).
+subTitle: Esta certificación valida sus aptitudes para la extracción, transformación y carga (ETL) y los almacenamientos de datos, además de para la implementación de soluciones BI mediante datos tabulares y multidimensionales y cubos de procesamiento analítico online (OLAP).
+levels:
+- intermediate
+skills:
+- none
+roles:
+- data-analyst
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20767
+- uid: course.20768
+exams:
+- uid: exam.70-767
+- uid: exam.70-768
+resources:
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cuadro de certificación
+  description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,63 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
+uid: certification.d365-business-central-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
+
+  <div><br/><strong>Nota&#58; Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020.</strong></div>
+subTitle: Esta certificación estará disponible alrededor del, martes, 6 de octubre de 2020. Los consultores funcionales de Dynamics 365 Business Central son responsables de implementar procesos de configuración de aplicaciones centrales para pequeñas y medianas empresas.
+levels:
+- intermediate
+skills:
+- Configurar Business Central
+- Configurar finanzas
+- Configurar ventas y compras
+- Configurar ventas y compras
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-business-central
+- power-platform
+courses:
+- uid: course.mb-800t00
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
+exams:
+- uid: exam.mb-800
+resources:
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Reproducción de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+

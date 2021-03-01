@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewalRenewal
+title: 'Renovación para certificación de Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+metadata:
+  title: 'Renovación para certificación de Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: 'Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación.'
+uid: renewal.d365-functional-consultant-manufacturing
+certificationUid: certification.d365-functional-consultant-manufacturing
+assessmentId: 866dad6c-195f-4a36-8672-87ae84681f5e
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tiene esta certificación y vence dentro de los seis meses, es elegible para su renovación. Demuestre que se ha mantenido al día con las últimas actualizaciones de Dynamics 365 Supply Chain Management gracias a aprobar la evaluación de renovación. También puede prepararse para renovar con la colección seleccionada de módulos de aprendizaje.
+skills:
+- Configurar la fabricación ajustada en Dynamics 365 Supply Chain Management
+- Utilizar la Optimización de la Planificación en Dynamics 365 Supply Chain Management
+examsPassed:
+- mb-300, mb-320
+studyGuideDescription: 'Utilice esta colección de módulos de aprendizaje para ayudarlo a prepararse para la certificación de Microsoft: Evaluación para la renovación de Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

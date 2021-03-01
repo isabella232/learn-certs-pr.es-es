@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Renovación para certificación de Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Renovación para certificación de Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación.'
+uid: renewal.azure-security-engineer
+certificationUid: certification.azure-security-engineer
+assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación. Demuestre que se ha mantenido actualizado con las últimas actualizaciones de Azure gracias a aprobar la evaluación de renovación. También puede prepararse para la renovación con la recopilación mantenida de módulos de aprendizaje.
+skills:
+- Fortalecer la autenticación (acceso condicional) con Azure Active Directory
+- Cuentas de administrador seguras en Azure Active Directory
+- Habilitar la protección de identidad en Azure Active Directory
+- Proteger sus recursos de Azure con el control de acceso basado en roles (RBAC)
+- Asegurar y aislar el acceso a los recursos de Azure mediante el uso de grupos de seguridad de red y puntos de conexión de servicio
+- Diseñar una estrategia de monitoreo integral en Azure
+- Asegurar su cuenta de Azure Storage
+- Administrar secretos en sus aplicaciones de servidor con Azure Key Vault
+examsPassed:
+- az-500
+studyGuideDescription: 'Utilice esta colección de módulos de aprendizaje para ayudarlo a prepararse para la Certificación de Microsoft: Evaluación para la renovación de Azure Security Engineer Associate.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

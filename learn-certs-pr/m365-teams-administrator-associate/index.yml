@@ -1,0 +1,52 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Teams Administrator Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Teams Administrator Associate'
+  description: Los administradores de Microsoft Teams configuran, implementan y administran las cargas de trabajo de Office 365 para Microsoft Teams que se centran en la colaboración y comunicación eficiente y efectiva en un entorno empresarial.
+uid: certification.m365-teams-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los administradores de Microsoft Teams configuran, implementan y administran las cargas de trabajo de Office 365 para Microsoft Teams que se centran en la colaboración y comunicación eficiente y efectiva en un entorno empresarial.
+
+  Los administradores de Microsoft Teams deben poder planificar, implementar y administrar Teams&#58; chat, aplicaciones, canales, reuniones, conferencias de audio, eventos en vivo y llamadas.
+subTitle: Los administradores de Microsoft Teams configuran, implementan y administran las cargas de trabajo de Office 365 para Microsoft Teams que se centran en la colaboración y comunicación eficiente y efectiva en un entorno empresarial.
+levels:
+- intermediate
+skills:
+- Planificar y configurar un entorno de equipos de Microsoft
+- Gestionar chat, llamadas y reuniones
+- Administrar equipos y políticas de aplicaciones
+roles:
+- administrator
+type: role-based
+products:
+- m365
+- office-teams
+courses:
+- uid: course.ms-700t00
+paths:
+- uid: learn-m365.m365-manage-team-collaboration
+- uid: learn-m365.m365-teams-upgrade
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
+exams:
+- uid: exam.ms-700
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Teams Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

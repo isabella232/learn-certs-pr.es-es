@@ -1,0 +1,53 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Security Administrator Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Security Administrator Associate'
+  description: 'Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.'
+uid: certification.m365-security-administrator
+certificationRenewalUid: renewal.m365-security-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+subTitle: Los administradores de seguridad de Microsoft 365 protegen proactivamente los entornos de empresa e híbridos de 365, implementan y gestionan las soluciones de seguridad y cumplimiento, responden a las amenazas y ejecutan la gobernanza de datos.
+levels:
+- intermediate
+skills:
+- Implementar y administrar identidad y acceso
+- Implementar y administrar la protección contra amenazas
+- Implementar y administrar la protección de la información
+- Administrar las funciones de gobierno y cumplimiento en Microsoft 365
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.ms-500t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-information-protection
+- uid: learn-m365.m365-security-management
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiS
+exams:
+- uid: exam.ms-500
+resources:
+- title: Ruta de aprendizaje para certificación
+  description: 'Descubra los recursos de capacitación para convertirse en Microsoft Certified: Security Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renovación para certificación de Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Renovación para certificación de Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación.'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tiene esta certificación y expirará dentro de los seis meses, es elegible para la renovación. Demuestre que se ha mantenido actualizado con las últimas actualizaciones de Microsoft 365 gracias a aprobar la evaluación de renovación. También puede prepararse para la renovación con la recopilación mantenida de módulos de aprendizaje.
+skills:
+- Automatizar las implementaciones de Windows mediante el uso de Windows Autopilot
+- Simplificar la administración de dispositivos con Microsoft Endpoint Manager
+- Hacer más y mantenerse seguro con Windows 10
+- Pasar a un escritorio moderno con Microsoft 365
+- Administrar dispositivos usando Microsoft Intune
+- Administrar Windows 10 a través de la administración conjunta mediante System Center Configuration Manager
+- Simplificar la administración de dispositivos con Microsoft Endpoint Manager
+- Implementar, actualizar y migrar a Windows 10
+- Administrar aplicaciones usando Microsoft Intune
+examsPassed:
+- md-100, md-101
+studyGuideDescription: 'Utilice esta colección de módulos de aprendizaje para ayudarlo a prepararse para la certificación de Microsoft 365: Evaluación para la renovación de Modern Desktop Administrator Associate.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

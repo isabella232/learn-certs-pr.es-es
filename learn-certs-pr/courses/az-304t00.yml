@@ -21,7 +21,7 @@ skillsGained:
 - skill: Recomendar una solución para la seguridad de la red
 - skill: Recomendar una solución para migrar aplicaciones y máquinas virtuales
 - skill: Recomendar una solución para la migración de bases de datos
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -34,24 +34,25 @@ exams:
 - uid: exam.az-304
 summary: |-
   Este curso enseña a los arquitectos de soluciones cómo traducir los requisitos comerciales en soluciones seguras, escalables y confiables. Las lecciones incluyen consideraciones de diseño relacionadas con el registro, análisis de costes, autenticación y autorización, gobernanza, seguridad, almacenamiento, alta disponibilidad y migración. Este rol requiere decisiones en múltiples áreas que afectan una solución de diseño general.
-
+  
   #### Perfil de audiencia
   Este curso es para profesionales de TI con experiencia en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure. Deben tener un amplio conocimiento de las operaciones de TI, que incluyen redes, virtualización, identidad, seguridad, continuidad del negocio, recuperación ante desastres, plataforma de datos, presupuestos y gobierno. Los arquitectos de soluciones de Azure usan Azure Portal y, a medida que se vuelven más hábiles, usan la interfaz de línea de comandos. Los candidatos deben tener habilidades de nivel experto en la administración de Azure y tener experiencia con los procesos de desarrollo de Azure y los procesos DevOps.
 prerequisitesSection: |-
   Arquitectos exitosos de Azure comienzan este rol con experiencia en sistemas operativos, virtualización, infraestructura de cloud, estructuras de almacenamiento, redes, aplicaciones y bases de datos.
-
+  
   - Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
   - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
   - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
   - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
-  - Comprensión del desarrollo de aplicaciones y APIs. 
-  - Comprensión de Bases de Datos, tanto SQL como MS SQL, MySQL o Postgres, y Bases de Datos no-SQL como MongoDB. 
-  - Comprensión de aplicaciones de desacoplamiento y servicios, por ejemplo, Queues, tables, Cache.  
+  - Comprensión del desarrollo de aplicaciones y APIs.
+  - Comprensión de Bases de Datos, tanto SQL como MS SQL, MySQL o Postgres, y Bases de Datos no-SQL como MongoDB.
+  - Comprensión de aplicaciones de desacoplamiento y servicios, por ejemplo, Queues, tables, Cache.
   - Comprensión de los conceptos de seguridad para proteger su entorno, como la encriptación en reposo, la encriptación en tránsito, SSL, TLS.
   
   Cursos de prerrequisitos (o conocimientos equivalentes)&#58;
-  - AZ-900 Azure Fundamentals 
-  - AZ-303 Azure Solution Architect Technologies 
+  - Gratis online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Curso impartido por un instructor&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Requisitos previos para administradores Azure (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Módulo 1&#58; Diseñar una solución informática
   En este módulo, aprenderá sobre las tecnologías informáticas adecuadas, incluidas las máquinas virtuales, los servicios de aplicaciones, Service Fabric, Azure Functions, Windows Virtual Desktop y los contenedores.
@@ -60,18 +61,18 @@ outlineSection: |-
   - Determinar tecnologías informáticas apropiadas
   - Recomendar una solución para contenedores
   - Recomendar una solución para automatizar la gestión informática
-
+  
   #### Laboratorio&#58; Implementación de contenedores en Azure
   - Implementar contenedores que se ejecutan en máquinas virtuales de Azure
   - Implementar contenedores en Azure Container Instances
   - Implementar contenedores en clústeres de Azure Kubernetes Service (AKS)
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Referir la solución para automatizar la gestión informática
   - Recomendar las tecnologías informáticas adecuadas, incluidas las máquinas virtuales y los servicios de aplicaciones.
   - Recomendar la aplicación AKS y ACI y las configuraciones
-
-
+  
+  
   ### Módulo 2&#58; Diseñar una solución de red
   En este módulo, aprenderá sobre soluciones para el direccionamiento de red y la resolución de nombres, el aprovisionamiento de red y la seguridad de red.
   #### Lecciones
@@ -81,27 +82,27 @@ outlineSection: |-
   - Recomendar una solución para la conectividad iInternete y las redes locales
   - Recomendar una solución para automatizar la gestión de redes
   - Recomendar una solución para equilibrio de carga y enrutamiento de tráfico
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Soluciones para direccionamiento de red y resolución de nombres
   - Soluciones para la seguridad de la red, incluidos puntos finales privados, firewalls y puertas de enlace
   - Recomendaciones para la conectividad de red a Internet, redes locales y otras redes virtuales
   - Recomendaciones para el equilibrio de carga y el enrutamiento del tráfico
-
-
+  
+  
   ### Módulo 3&#58; Diseño para la migración
   En este módulo, aprenderá a recomendar una solución para migrar aplicaciones y máquinas virtuales y una solución para la migración de bases de datos.
   #### Lecciones
   - Evaluar servidores y aplicaciones locales para aplicaciones de migración
   - Recomendar una solución para migrar aplicaciones y máquinas virtuales
   - Recomendar una solución para la migración de bases de datos
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Evaluar servidores y aplicaciones locales para la migración
   - Sugerir soluciones para migrar aplicaciones y máquinas virtuales
   - Determinar el alcance de migración, incluyendo datos redundantes, relacionados, triviales y caducados
-
-
+  
+  
   ### Módulo 4&#58; Autenticación y autorización de diseño
   En este módulo, aprenderá cómo proporcionar identidades a los servicios y comprender la jerarquía de grupos de administración y suscripciones.
   #### Lecciones
@@ -112,32 +113,32 @@ outlineSection: |-
   - Recomendar una solución para una identidad híbrida
   - Recomendar una solución para la integración B2B
   - Recomendar una estructura jerárquica para grupos de gestión
-
+  
   #### Laboratorio&#58; Administrar la autenticación y autorización de Azure AD
   - Implementar una máquina virtual de Azure que hospeda un controlador de dominio de AD DS
   - Crear y configurar un inquilino de Azure AD
   - Integrar un bosque de AD DS con un inquilino de Azure AD
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar jerarquía de grupos de gestión y suscripciones
   - Configurar definiciones y asignaciones de roles RBAC personalizados
   - Planificar para un despliegue de MFA
   - Recomendar una solución para inicio de sesión único (SSO)
   - Recomendar una solución para una identidad híbrida
-
-
+  
+  
   ### Módulo 5&#58; Diseñar gobernanza
   En este módulo, aprenderá a aplicar una política de Azure, identificar recursos no conformes y administrar la gobernanza de etiquetas con la política de Azure.
   #### Lecciones
   - Recomendar una solución para usar la política de Azure
   - Recomendar una solución para usar Azure Blueprint
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Organizar políticas con iniciativas
   - Administrar la gobernanza de etiquetas con la política de Azure
   - Proporcionar orientación sobre Azure Blueprints
-
-
+  
+  
   ### Módulo 6&#58; Diseñar una solución para bases de datos
   En este módulo, podrá recomendar el almacén de datos apropiado y recomendar los niveles de Azure SQL Database y Azure SQL Managed Instance Service.
   #### Lecciones
@@ -146,49 +147,49 @@ outlineSection: |-
   - Recomendar dimensionamiento de nivel de servicio de base de datos
   - Escalar dinámicamente Azure SQL Database y Azure SQL Managed Instances
   - Recomendar una solución para cifrar datos en reposo, transmisión y en uso
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar dimensionamiento de nivel de servicio de base de datos
   - Recomendar una solución para cifrar datos en reposo, transmisión y en uso
   - Comprender los contenedores de Azure Data Lake Store y Azure Blob Storage
-
-
+  
+  
   ### Módulo 7&#58; Seleccionar una cuenta de almacenamiento adecuada
   En este módulo, aprenderá a recomendar un diseño, una estrategia para usar el almacenamiento en niveles y administrar el almacenamiento en niveles con las herramientas de Azure.
   #### Lecciones
   - Comprensión de los niveles de almacenamiento
   - Recomendar una solución de acceso al almacenamiento
   - Recomendar herramientas de gestión de almacenamiento
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar herramientas para trabajar con Azure Storage
   - Diseñar para niveles de acceso de Azure Blob Storage
-
-
+  
+  
   ### Módulo 8&#58; Integración de datos de diseño
   En este módulo, aprenderá sobre los flujos de datos con Azure Data Factory y la arquitectura de Azure Synapse Analytics.
   #### Lecciones
   - Recomendar un flujo de datos
   - Recomendar una solución para la integración de datos
-
-  Después de completar este módulo, los estudiantes podrán&#58; 
+  
+  Después de completar este módulo, los estudiantes podrán&#58;
   - Implementar Azure Synapse Analytics
   - Describir cómo fluyen los datos con Azure Data Factory
   - Demuestrar cómo usar Azure Data Factory para cargar datos en SQL Data Warehouse
-
-
+  
+  
   ### Módulo 9&#58; Diseñar una solución para registro y supervisión
   En este módulo, aprenderá sobre Azure Monitor, Azure Application Insights y Azure Sentinel. Podrá supervisar los recursos de Azure con Azure Monitor y recopilar y analizar registros de recursos para Azure mediante las herramientas de Azure.
   #### Lecciones
   - Servicios de supervisión de Azure
   - Azure Monitor
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Supervisar los recursos de Azure con Azure Monitor
   - Recopilar y analizar registros de recursos para recursos de Azure
   - Comprender cómo Azure Sentinel recopila datos en los dispositivos, usuarios, infraestructura y aplicaciones
-
-
+  
+  
   ### Módulo 10&#58; Diseñar una solución para respaldo y recuperación
   En este módulo, aprenderá acerca de las soluciones para la capacidad de recuperación del sitio y la conmutación por error del sitio y la recuperación de fallas. Podrá recomendar soluciones para la recuperación en diferentes regiones.
   #### Lecciones
@@ -197,14 +198,14 @@ outlineSection: |-
   - Recomendar una solución para la recuperación en diferentes regiones
   - Recomendar una solución para Azure Backup Management
   - Diseñar una solución para la archivación y la retención de datos
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar soluciones para cargas de trabajo híbridas y locales de Azure que cumplan con los objetivos de recuperación
   - Recomendar una solución para la capacidad de recuperación del sitio
   - Recomendar tipos de almacenamiento y metodología para archivado de datos
   - Identificar los requisitos para la archivación de datos
-
-
+  
+  
   ### Módulo 11&#58; Diseño para alta Disponibilidad
   En este módulo, aprenderá acerca de las soluciones para la redundancia de aplicaciones y cargas de trabajo, incluidos el cómputo, la base de datos y el almacenamiento.
   #### Lecciones
@@ -213,49 +214,49 @@ outlineSection: |-
   - Identificar recursos que requieren alta disponibilidad
   - Identificar tipos de almacenamiento para alta disponibilidad
   - Recomendar una solución para georedundancia de cargas de trabajo
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Recomendar soluciones para autoescalado
   - Identificar tipos de almacenamiento para alta disponibilidad
   - Recomendar soluciones para georedundancia de cargas de trabajo
-
-
+  
+  
   ### Módulo 12&#58; Diseño para optimización de costes
   En este módulo, aprenderá cómo optimizar los costes a partir de las recomendaciones, los costes de desglose por servicio de Azure y descargar y revisar los detalles de uso. 01-Vista
   #### Lecciones
   - Recomendar soluciones para la gestión de costes
   - Puntos de vista recomendados para minimizar costes
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Optimizar con Azure Cost Management
   - Diseño teniendo en cuenta el coste
   - Optimizar costes a partir de recomendaciones
-
-
+  
+  
   ### Módulo 13&#58; Diseñar una arquitectura de aplicación
   En este módulo, aprenderá sobre la solución para la implementación de aplicaciones, incluidas las plantillas ARM, las aplicaciones lógicas o las funciones de Azure. También aprenderá sobre la arquitectura de microservicios, incluidos Event Grid, Event Hubs, Service Bus, Storage Queues, Logic Apps, Azure Functions y webhooks.
   #### Lecciones
   - Recomendar una arquitectura de microservicios
   - Recomendar una solución de orquestación para la implementación de aplicaciones
   - Recomendar una solución para la integración API
-
+  
   #### Laboratorio&#58; Implementar la integración de Azure Logic Apps con Azure Event Grid
   - Integrar Azure Logic Apps con Event Grid
   - Activar la ejecución de Logic Apps en respuesta a un evento que representa un cambio en un recurso dentro de un
-
-  Después de completar este módulo, los estudiantes comprenderán&#58; 
+  
+  Después de completar este módulo, los estudiantes comprenderán&#58;
   - Recomendar soluciones de implementación utilizando plantillas ARM, aplicaciones lógicas o funciones de Azure
   - Recomendar una solución para supervisar la automatización
   - Recomendar una estructura de hospedaje para administración API
-
-
+  
+  
   ### Módulo 14&#58; Seguridad de diseño para aplicaciones
   En este módulo, aprenderá sobre la solución para la implementación de aplicaciones, incluidas las plantillas ARM, las aplicaciones lógicas o las funciones de Azure. También aprenderá sobre la arquitectura de microservicios, incluidos Event Grid, Event Hubs, Service Bus, Storage Queues, Logic Apps, Azure Functions y webhooks.
   #### Lecciones
   - Seguridad para aplicaciones y servicios
   - Recomendar una solución con Key Vault
   - Recomendar soluciones con identidades administradas de Azure AD
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Comprender la autenticación y autorización de Key Vault
   - Comprender la disponibilidad y la redundancia de Azure Key Vault

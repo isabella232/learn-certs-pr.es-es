@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: 'Los desarrolladores de Azure diseñan, compilan, prueban y mantienen aplicaciones y servicios en la nube.'
+uid: certification.azure-developer
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Los candidatos para la certificación de Azure Developer Associate deben tener experiencia en el tema de diseño, creación, prueba y mantenimiento de aplicaciones y servicios en la nube en Microsoft Azure.
+  
+  Las responsabilidades para este rol incluyen participar en todas las fases del desarrollo de la nube, desde la definición y diseño de los requisitos, hasta el desarrollo, implementación y mantenimiento, ajuste del rendimiento y supervisión.
+  
+  Los desarrolladores de Azure se asocian con arquitectos de soluciones en la nube, DBA en la nube, administradores en la nube y clientes para implementar soluciones.
+  
+  Un candidato para esta certificación debe tener entre 1 a 2 años de experiencia en desarrollo profesional y experiencia con Microsoft Azure. Además, el rol debe tener capacidad de programación en un lenguaje compatible con Azure y competencia en SDK de Azure, opciones de almacenamiento de datos, conexiones de datos, API, autenticación y autorización de aplicaciones, implementación de proceso y contenedor, depuración, ajuste de rendimiento y supervisión.
+subTitle: Los desarrolladores de Azure diseñan, compilan, prueban y mantienen aplicaciones y servicios en la nube.
+levels:
+- intermediate
+skills:
+- Desarrollar soluciones informáticas de Azure
+- Desarrollar almacenamiento Azure
+- Implementar la seguridad de Azure
+- Monitorear, resolución de problemas, y optimizar soluciones Azure
+- Conéctese y consuma los servicios de Azure y los servicios de terceros
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+- uid: learn.modern-data-warehouse
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.intro-to-ml-with-python
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
+exams:
+- uid: exam.az-204
+resources:
+- title: Póster de certificaciones de Azure
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación de Azure Developer Associate y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Póster de certificación
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

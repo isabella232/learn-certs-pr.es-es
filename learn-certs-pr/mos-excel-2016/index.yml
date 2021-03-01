@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Excel 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Excel 2016'
+  description: 'Microsoft Office Specialist: Microsoft Excel 2016'
+uid: certification.mos-excel-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demuestre que tiene las habilidades requeridas para aprovechar al máximo Access obteniendo una certificación de Microsoft Office Specialist (MOS) 2016. Para superar el de Microsoft Office Specialist Excel 2016, los candidatos deben tener conocimientos básicos del entorno Excel y la capacidad de completar tareas de forma independiente.
+subTitle: Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
+levels:
+- intermediate
+skills:
+- Crear y administrar hojas de trabajo y libros de trabajo
+- Administrar celdas de datos e intervalos
+- crear tablas
+- Realizar operaciones con fórmulas y funciones
+- Crear gráficos y objetos
+roles:
+- business-user
+type: mos
+products:
+- office-excel
+exams:
+- uid: exam.77-727
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,78 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+  description: Como consultor funcional, utilice esta certificación para comercializarse más eficazmente para proyectos y otros compromisos. La certificación Microsoft Power Platform Functional Consultant Associate permite a las organizaciones saber que -sin código o con código bajo- se pueden construir soluciones que normalmente requerirían la experiencia de un programador.
+uid: certification.power-platform-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  ¿Es usted un consultor funcional, analista de datos o programador que busca perfeccionar sus habilidades de consultoría y configuración, o arquitecto de soluciones en el camino hacia la certificación de arquitecto de soluciones? O tal vez eres un profesional de IT con conocimientos y experiencia en la configuración de Microsoft Power Platform. Si esto le describe y está familiarizado con las aplicaciones impulsadas por modelos y los principios de modelado de datos de Microsoft Dynamics 365, explore cómo la certificación de Microsoft Power Platform Functional Consultant Associate puede ayudarle a mejorar su carrera profesional y convertirle en un miembro clave de su equipo. Esta certificación demuestra al mundo que se le considera cualificado para crear e implementar soluciones que utilizan Power Apps, Power BI y Power Virtual Agents.
+  
+  Como candidato para esta certificación, trabajará con participantes y expertos en la materia de una organización, como arquitectos de soluciones, programadores y probadores, para reunir los requisitos y luego implementar las soluciones de Microsoft Power Platform. Creas aplicaciones basadas en modelos, canvas y portales. Y creas flujos Power Automate, diseñas chatbots utilizando Power Virtual Agents y analizas los datos utilizando la visualización y cuadros de mando de Power BI. Incluso creará mejoras en las aplicaciones, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
+  
+  Si necesita más experiencia antes de intentar obtener esta certificación, aquí tiene algunas sugerencias&#58;
+  - Construya un tablero básico usando Power BI.
+  - Tome los caminos de aprendizaje disponibles en Microsoft Learn.
+  - Inscríbase en un curso de formación dirigido por un instructor.
+subTitle: Como consultor funcional, utilice esta certificación para comercializarse más eficazmente para proyectos y otros compromisos. La certificación Microsoft Power Platform Functional Consultant Associate permite a las organizaciones saber que -sin código o con código bajo- se pueden construir soluciones que normalmente requerirían la experiencia de un programador.
+levels:
+- intermediate
+skills:
+- configurar Common Data Service
+- crear aplicaciones mediante Power Apps
+- crear y administrar Power Automate
+- implementar chatbots de Power Virtual Agents
+- integrar Power Apps con otras aplicaciones y servicios
+roles:
+- business-analyst
+- developer
+- functional-consultant
+type: role-based
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+courses:
+- uid: course.pl-200t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
+exams:
+- uid: exam.pl-200
+resources:
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+

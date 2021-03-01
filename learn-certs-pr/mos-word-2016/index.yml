@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Word 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Word 2016'
+  description: 'Microsoft Office Specialist: Microsoft Word 2016'
+uid: certification.mos-word-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demuestre que tiene las habilidades requeridas para aprovechar al máximo Access obteniendo una certificación de Microsoft Office Specialist (MOS) 2016. Para superar el Certificados de Word 2016, los candidatos deben tener conocimientos básicos del entorno Word y la capacidad de completar tareas de forma independiente.
+subTitle: Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico.
+levels:
+- intermediate
+skills:
+- Crear y administrar documentos
+- dar formato a texto, parágrafos y secciones
+- crear tablas y listas
+- Crear y administrar referencias
+- Insertar elementos gráficos y darles formato
+roles:
+- business-user
+type: mos
+products:
+- office-word
+exams:
+- uid: exam.77-725
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

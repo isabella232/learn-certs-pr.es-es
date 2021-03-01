@@ -1,0 +1,34 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
+uid: certification.microsoft-office-specialist-expert-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: Esta certificación demuestra que posee habilidades avanzadas en programas clave de Office obteniendo una certificación Microsoft Office Specialist Expert.
+subTitle: Esta certificación demuestra que posee habilidades avanzadas en programas clave de Office obteniendo una certificación Microsoft Office Specialist Expert.
+levels:
+- advanced
+skills:
+- ninguno
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+resources:
+- title: Guía de capacitación y certificación
+  description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetición de examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro se contactará dentro de 24 horas, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx

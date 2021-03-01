@@ -8,7 +8,7 @@ uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -29,24 +29,20 @@ products:
 exams:
 - uid: exam.dp-200
 summary: |-
-  En este curso, los estudiantes implementarán varias tecnologías de plataforma de datos en soluciones que están en línea con los requisitos técnicos y comerciales, incluidos escenarios de datos locales, en la nube e híbridos que incorporan datos relacionales y NoSQL. También aprenderán cómo procesar datos utilizando una gama de tecnologías e idiomas para la transmisión de datos y lotes.
-  Los estudiantes también explorarán cómo implementar la seguridad de los datos, incluida la autenticación, autorización, políticas de datos y estándares. También definirán e implementarán el monitoreo de soluciones de datos tanto para el almacenamiento de datos como para las actividades de procesamiento de datos. Finalmente, administrarán y solucionarán las soluciones de datos de Azure que incluyen la optimización y la recuperación ante desastres de datos, procesamiento por lotes y soluciones de transmisión de datos.
+  En este curso, los estudiantes implementarán varias tecnologías de plataforma de datos para crear soluciones que se ajusten a los requisitos empresariales y técnicos, incluyendo escenarios de datos en las instalaciones, cloud e híbridos, incorporando tanto datos relacionales como No-SQL. También aprenderán cómo procesar datos utilizando una serie de tecnologías y lenguajes tanto para streaming como para datos en lote.
+  
+  Los estudiantes también explorarán cómo implementar seguridad de datos, incluyendo autenticación, autorización, políticas de datos y estándares. También definirán e implementarán la monitorización de soluciones de datos tanto para almacenamiento de datos como para actividades de procesamiento de datos. Por último, gestionarán y solucionarán problemas de soluciones de datos Azure que incluyen la optimización y la recuperación de desastres de datos grandes, procesamiento por lotes y soluciones de datos streaming.
   
   #### Perfil de audiencia
-  La audiencia principal para este curso es Data Professionals, Data Architects y Business Intelligence Professionals que desean aprender sobre las tecnologías de plataforma de datos que existen en Microsoft Azure. La audiencia secundaria para este curso son personas que desarrollan aplicaciones que entregan contenido desde la plataforma de datos. tecnologías que existen en Microsoft Azure.
+  Los asistentes principales a este curso son profesionales de datos, arquitectos de datos y profesionales de la inteligencia empresarial que desean conocer las tecnologías de plataforma de datos que existen en Microsoft Azure.
+  
+  Los asistentes secundarios a este curso son individuos que desarrollan aplicaciones que distribuyen contenido desde las tecnologías de plataforma de datos que existen en Microsoft Azure.
 prerequisitesSection: |-
-  Los estudiantes exitosos comienzan este curso con el conocimiento de los conceptos de la computación en nube y la experiencia profesional con las soluciones de datos.
+  Estudiantes exitosos comienzan este curso con conocimientos de computación cloud y conceptos de datos básicos y experiencia profesional con soluciones de datos.
   
-  Específicamente&#58;
-  - La creación de recursos de nube en Microsoft Azure
-  - Identificación de casos de uso de grandes datos
-  - Comprender cómo los servicios de computación en la nube pueden resolver las necesidades comunes de las empresas
-  
-  Para obtener estos requisitos previos, tome la siguiente capacitación gratuita online antes de asistir al curso&#58;
-  - [Explorar los conceptos de la nube de Microsoft](/learn/paths/explore-microsoft-azure-cloud-conceptsts/)
-  - [Identificar las tareas de un ingeniero de datos](/learn/modules/data-engineering-processes/)
-  - [Servicios centrales de nubes - Opciones de almacenamiento de datos en Azure](/learn/modules/intro-to-data-in-azure/)
-  - [Servicios clave de la nube - Opciones de computación en Azure](/learn/modules/intro-to-azure-compute/)
+  Específicamente completando&#58;
+  - AZ-900 - Azure Fundamentals
+  - DP-900 - Microsoft Azure Data Fundamentals
 outlineSection: |-
   ### Módulo 1&#58; Azure para el ingeniero de datos
   Este módulo explora cómo ha evolucionado el mundo de los datos y cómo las tecnologías de la plataforma de datos en la nube ofrecen nuevas oportunidades para que las empresas exploren sus datos de diferentes maneras. Los estudiantes obtendrán una visión general de las diversas tecnologías de plataforma de datos que están disponibles y cómo la función y las responsabilidades de un ingeniero de datos han evolucionado para funcionar en este nuevo mundo en beneficio de una organización.
@@ -60,14 +56,14 @@ outlineSection: |-
   - Determinar los servicios de Azure Data Platform
   - Identificar tareas a realizar por un ingeniero de datos
   - Finalizar los entregables de ingeniería de datos
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar la evolución del mundo de los datos.
   - Examinar los servicios en la Plataforma de datos de Azure
   - Identificar las tareas que realiza un ingeniero de datos
   - Describir los casos de uso de la nube en un estudio de caso
-
-
+  
+  
   ### Módulo 2&#58; Trabajar con almacenamiento de datos
   Este módulo enseña la variedad de formas de almacenar datos en Azure. Los estudiantes aprenderán los conceptos básicos de la administración del almacenamiento en Azure, cómo crear una cuenta de almacenamiento y cómo elegir el modelo correcto para los datos que se desean almacenar en la nube. También comprenderán cómo se puede crear el almacenamiento de Data Lake para admitir una amplia variedad de soluciones de análisis de big data con un mínimo esfuerzo.
   #### Lecciones
@@ -75,21 +71,20 @@ outlineSection: |-
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Azure Data Lake
   - Cargar datos en Azure Data Lake
-
-
+  
   #### Laboratorio&#58; Trabajo con almacenamiento de datos
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Data Lake
   - Cargar datos en Data Lake Store
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Elegir un enfoque de almacenamiento de datos en Azure
   - Crear una cuenta de Azure Storage
   - Explicar el almacenamiento de Azure Data Lake
   - Cargar datos en Azure Data Lake
-
-
+  
+  
   ### Módulo 3&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
   Este módulo presenta a los estudiantes los Azure Databricks y cómo un ingeniero de datos trabaja con él para permitir que una organización realice proyectos de Team Data Science. Aprenderán los fundamentos de los cuadernos Azure Databricks y Apache Spark; cómo aprovisionar el servicio y los espacios de trabajo; y cómo realizar la tarea de preparación de datos que puede contribuir al proyecto de ciencia de datos.
   #### Lecciones
@@ -97,21 +92,20 @@ outlineSection: |-
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
-
-
+  
   #### Laboratorio&#58; Habilitación de la ciencia de datos basada en equipo con Azure Databricks
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar Azure Databricks
   - Trabajar con Azure Databricks
   - Leer datos con Azure Databrick
   - Realizar transformaciones con Azure Databricks
-
-
+  
+  
   ### Módulo 4&#58; Creación de bases de datos distribuidas globalmente con Cosmos DB
   En este módulo, los estudiantes aprenderán cómo trabajar con datos NoSQL con Azure Cosmos DB. Aprenderán cómo aprovisionar el servicio, cómo pueden cargar e interrogar datos en el servicio mediante extensiones de Visual Studio Code y el SDK de Azure Cosmos DB .NET Core. También aprenderán cómo configurar las opciones de disponibilidad para que los usuarios puedan acceder a los datos desde cualquier parte del mundo.
   #### Lecciones
@@ -119,21 +113,20 @@ outlineSection: |-
   - Insertar y consultar datos en su base de datos Azure Cosmos DB
   - Crear una aplicación .NET Core para Cosmos DB en Visual Studio Code
   - Distribuir datos globalmente con Azure Cosmos DB
-
-
+  
   #### Laboratorio&#58; Creación de bases de datos distribuidas globalmente con Cosmos DB
   - Crear una Azure Cosmos DB
   - Insertar y consultar datos en Azure Cosmos DB
   - Crear una aplicación .Net Core para Azure Cosmos DB con VS Code
   - Distribuir datos globalmente con Azure Cosmos DB
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Crear una base de datos Azure Cosmos DB creada a escala
   - Insertar y consultar datos en su base de datos Azure Cosmos DB
   - Crear una aplicación .NET Core Azure para Cosmos DB en Visual Studio Code
   - Distribuir datos globalmente con Azure Cosmos DB
-
-
+  
+  
   ### Módulo 5&#58; Trabajar con almacenes de datos relacionales en la nube
   En este módulo, los estudiantes explorarán las opciones de la plataforma de datos relacionales de Azure, incluidas la Base de datos SQL y el Almacén de datos SQL. Los estudiantes podrán explicar por qué elegirían un servicio sobre otro y cómo aprovisionar, conectar y administrar cada uno de los servicios.
   #### Lecciones
@@ -141,59 +134,56 @@ outlineSection: |-
   - Describir Azure SQL Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
-
-
+  
   #### Laboratorio&#58; Trabajar con almacenes de datos relacionales en la nube
   - Usar Azure SQL Database
   - Describir Azure SQL Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Usar Azure SQL Database
   - Describir Azure Data Warehouse
   - Creación y consulta de un almacén de datos SQL de Azure
   - Usar PolyBase para cargar datos en Azure SQL Data Warehouse
-
-
+  
+  
   ### Módulo 6&#58; Realización de análisis en tiempo real con Stream Analytics
   En este módulo, los estudiantes aprenderán los conceptos de procesamiento de eventos y transmisión de datos y cómo esto se aplica a Events Hubs y Azure Stream Analytics. Luego, los estudiantes configurarán un trabajo de análisis de flujo para transmitir datos y aprenderán cómo consultar los datos entrantes para realizar el análisis de los datos. Finalmente, aprenderán cómo administrar y monitorear trabajos en ejecución.
   #### Lecciones
   - Explicar los flujos de datos y el procesamiento de eventos.
   - Ingestión de datos con Event Hubs
   - Procesamiento de datos con trabajos de Stream Analytics
-
-
+  
   #### Laboratorio&#58; Realización de análisis en tiempo real con Stream Analytics
   - Explicar los flujos de datos y el procesamiento de eventos.
   - Ingestión de datos con Event Hubs
   - Procesamiento de datos con trabajos de Stream Analytics
-
+  
   Después de completar este módulo, los estudiantes&#58;
   - Explicar flujos de datos y procesamiento de eventos
   - Comprender la ingestión de datos con Event Hubs
   - Comprender el procesamiento de datos con los trabajos de Stream Analytics
-
-
+  
+  
   ### Módulo 7&#58; Orquestando el movimiento de datos con Azure Data Factory
   En este módulo, los estudiantes aprenderán cómo se puede usar Azure Data Factory para orquestar el movimiento y la transformación de datos a partir de una amplia gama de tecnologías de plataforma de datos. Podrán explicar las capacidades de la tecnología y podrán establecer una canalización de datos de extremo a extremo que ingiera y transforme los datos.
   #### Lecciones
   - Explicar cómo funciona Azure Data Factory
   - Componentes de Azure Data Factory
   - Azure Data Factory y Databricks
-
-
+  
   #### Laboratorio&#58;Orquestando el movimiento de datos con Azure Data Factory
   - Explicar cómo funciona Data Factory
   - Componentes de Azure Data Factory
   - Azure Data Factory y Databricks
-
+  
   Después de completar este módulo, los estudiantes&#58;
   - Entender Azure Data Factory y Databricks
   - Componentes para entender Azure Data Factory
   - Explicar cómo funciona Azure Data Factory
-
-
+  
+  
   ### Módulo 8&#58; Asegurar las plataformas de datos de Azure
   En este módulo, los estudiantes aprenderán cómo Azure proporciona un modelo de seguridad de varias capas para proteger los datos. Los estudiantes explorarán cómo la seguridad puede variar desde la configuración de redes seguras y claves de acceso, hasta la definición de permisos, hasta el monitoreo en una variedad de almacenes de datos.
   #### Lecciones
@@ -202,23 +192,22 @@ outlineSection: |-
   - Asegurar cuentas de almacenamiento y almacenamiento de Data Lake
   - Asegurar almacenes de datos
   - Asegurar la transmisión de datos
-
-
+  
   #### Laboratorio&#58; Asegurar las plataformas de datos de Azure
   - Una introducción a la seguridad.
   - Componentes clave de seguridad
   - Asegurar cuentas de almacenamiento y almacenamiento de Data Lake
   - Asegurar almacenes de datos
   - Asegurar la transmisión de datos
-
+  
   Después de completar este módulo, los estudiantes&#58;
   - Tener una introducción a la seguridad
   - Comprender los componentes clave de seguridad
   - Comprender la seguridad de las cuentas de almacenamiento y el almacenamiento de Data Lake
   - Comprender la seguridad de los almacenes de datos
   - Comprender la seguridad de la transmisión de datos
-
-
+  
+  
   ### Módulo 9&#58; Monitoreo y solución de problemas de almacenamiento y procesamiento de datos
   En este módulo, los estudiantes obtendrán una visión general del rango de capacidades de monitoreo que están disponibles para proporcionar soporte operativo en caso de que haya un problema con una arquitectura de plataforma de datos. Explorarán los problemas comunes de almacenamiento y procesamiento de datos. Finalmente, se revelan las opciones de recuperación ante desastres para garantizar la continuidad del negocio.
   #### Lecciones
@@ -226,14 +215,13 @@ outlineSection: |-
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
-
-
+  
   #### Laboratorio&#58; Monitoreo y solución de problemas de almacenamiento y procesamiento de datos
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos
   - Solucionar problemas comunes de procesamiento de datos
   - Administrar la recuperación ante desastres
-
+  
   Después de completar este módulo, los estudiantes podrán&#58;
   - Explicar las capacidades de monitoreo que están disponibles.
   - Solucionar problemas comunes de almacenamiento de datos

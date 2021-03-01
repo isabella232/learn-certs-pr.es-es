@@ -1,0 +1,89 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.'
+uid: certification.d365-functional-consultant-marketing
+certificationRenewalUid: renewal.d365-functional-consultant-marketing
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si eres un consultor funcional, un profesional que emplea Microsoft Dynamics 365 Marketing en las operaciones empresariales del día a día de tu organización, o un programador que busca perfeccionar sus habilidades de asesoramiento, esta certificación podría ayudar a impulsar tu carrera y permitir situarte en una posición más favorable para proyectos y promociones.
+  
+  Como candidato a esta certificación, conoces las aplicaciones impulsadas por modelos  Dynamics 365 y los principios de modelado de datos, además de poder configurar Microsoft Power Platform. Implementas iniciativas de marketing, como campañas, correos electrónicos y viajes de clientes. Tienes experiencia trabajando con los accionistas de una organización para reunir los requisitos e implementar soluciones Dynamics 365 Marketing. Además, configuras Dynamics 365 Marketing y configuras la seguridad organizacional Dynamics 365. Incluso puedes ampliar las soluciones Dynamics 365 usando componentes Power Platform, tales como Power Automate y Power Apps.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes unas sugerencias&#58;
+  - Trabaja en un proyecto de implementación de una aplicación impulsada por el modelo Dynamics 365.
+  - Sigue de cerca a un asesor funcional o un arquitecto de soluciones que trabaje con Dynamics 365 Marketing.
+  - Toma vías de aprendizaje disponibles en Microsoft Learn.
+  - Inscríbete en un curso de formación impartido por un instructor.
+subTitle: Microsoft Dynamics 365 Marketing Functional Consultants implementa soluciones que atraen y convierten clientes potenciales, crean conciencia de marca, estandarizan los mensajes omnicanal y brindan información de marketing.
+levels:
+- intermediate
+skills:
+- Configurar aplicaciones de marketing
+- Administrar segmentos y listas
+- Crear y administrar formularios de marketing y páginas
+- Manejar clientes potenciales, contactos y cuentas
+- Crear y administrar correos electrónicos de marketing
+- Administrar los recorridos de clientes
+- Administrar eventos y seminarios web
+- Configurar Dynamics 365 Customer Voice
+- Configurar el Common Data Service
+- Crear aplicaciones usando Power Apps
+- Crear y gestionar Power Automate
+- Implementar chatbots de Power Virtual Agents
+- Integrar Power Apps con otras aplicaciones y servicios
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-marketing
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-220t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.set-up-dynamics-365-marketing
+- uid: learn-dynamics.work-core-features-marketing
+- uid: learn-dynamics.manage-events-dynamics-marketing
+- uid: learn-dynamics.analyze-marketing-insights
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-220
+resources:
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Ruta de aprendizaje para certificación
+  description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+

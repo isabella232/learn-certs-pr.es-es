@@ -306,7 +306,7 @@ Seleccione un país:
 |-----------|
 | [Fast Lane Russia](https://www.flane.ru/microsoft) |
 
-| <a name="Kenia"></a>Kenya |
+| <a name="kenya"></a>Kenya |
 |-----------|
 | [Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses) |
 

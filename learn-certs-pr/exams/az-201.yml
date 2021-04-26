@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure Developer Advanced Solutions (beta)
+title: Microsoft Azure Developer Advanced Solutions
 metadata:
-  title: 'Examen AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
-  description: 'Examen AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
+  title: 'Exam AZ-201: Microsoft Azure Developer Advanced Solutions'
+  description: 'Exam AZ-201: Microsoft Azure Developer Advanced Solutions'
 uid: exam.az-201
 displayName: AZ-201
 summary: "<div><strong>ESTE EXAMEN SE RETIRÓ EL 03 DE ENERO DE 2019. Nota&#58; Los exámenes se retiran a las 11:59 PM hora estándar central</strong></div>\n<br/> \nLos candidatos para este examen son Desarrolladores Azure que diseñan y construyen soluciones en la nube como por ejemplo aplicaciones y servicios. Participan en todas las fases de desarrollo, desde el diseño de la solución, hasta el desarrollo y puesta en práctica, hasta las pruebas y mantenimiento. Se asocian con arquitectos de solución en la nube, DBA de nubes, administradores de nubes, y clientes para implementar la solución.\n\nLos candidatos deberán ser hábiles al desarrollar aplicaciones y servicios usando las herramientas y tecnología Azure, incluido almacenamiento, seguridad, cómputos, y comunicaciones.\n\nLos candidatos deben tener al menos un año de experiencia desarrollando soluciones escalables a través de todas las fases de desarrollo de software y tener la habilidad en al menos un idioma de programación aceptado en la nube."

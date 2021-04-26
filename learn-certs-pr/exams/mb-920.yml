@@ -10,34 +10,43 @@ summary: |-
 
   Los candidatos a este examen deben poseer conocimientos generales o experiencia laboral relevante en un entorno de tecnología de la información (IT). También deben tener una comprensión fundamental de los principios financieros y operaciones empresariales.
   
-  <div><br/><strong>Nota&#58; Este examen estará disponible en febrero de 2021.</strong></div>
-subTitle: 'Este examen estará disponible en febrero de 2021. Este examen mide su capacidad para describir lo siguiente: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Proyecto de Operaciones; Dynamics 365 Business Central; y características compartidas.'
+  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saber más sobre el valor y la importancia de los exámenes beta</a>.</strong></font></div>
+subTitle: 'Este examen mide tu capacidad para describir lo siguiente: Operaciones de Proyecto para; Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; y características compartidas.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
 - beginner
 skills:
 - Describir Dynamics 365 Supply Chain Management (25-30%)
-- Describir Dynamics Finance (25-30%)
+- Describir Dynamics Finance (20-25%)
 - Describir Dynamics 365 Commerce (10-15%)
 - Describir Dynamics 365 Human Resources (5-10%)
 - Describir Project Operations (10-15%)
-- Describir Dynamics 365 Business Central (5-10%)
 - Describir características compartidas (10-15%)
 roles:
 - business-owner
 - business-user
 - functional-consultant
 - student
-products: 
+products:
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 resources:
+- title: Ruta de aprendizaje para la certificación
+  description: Recursos de formación recomendados para ayudarte a prepararte para los exámenes requeridos y conseguir tu certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

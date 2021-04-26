@@ -2,20 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
-  description: 'Esta certificación estará disponible en febrero de 2021. Si está familiarizado con las operaciones comerciales, la gestión de las relaciones con los clientes (CRM) y es un experto en IT,-- ya sea en general o a raíz de su experiencia laboral,-- aproveche esta certificación para destacar esas habilidades. Valide su amplia exposición de capacidades de compromiso con el cliente de Dynamics 365 para mejorar su trayectoria profesional.'
+  description: 'Si está familiarizado con las operaciones comerciales, la gestión de las relaciones con los clientes (CRM) y es un experto en IT,-- ya sea en general o a raíz de su experiencia laboral,-- aproveche esta certificación para destacar esas habilidades. Valide su amplia exposición de capacidades de compromiso con el cliente de Dynamics 365 para mejorar su trayectoria profesional.'
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
   Si está familiarizado con las operaciones comerciales, la gestión de relaciones con clientes (CRM) y es un experto en IT, ya sea en general o a raíz de su experiencia laboral, aproveche esta certificación para destacar esas habilidades. Valide su amplia exposición de capacidades de compromiso con el cliente de Dynamics 365 para mejorar su trayectoria profesional.
   
   Las personas que desempeñan diferentes funciones y en diferentes etapas de sus carreras pueden beneficiarse de esta certificación de fundamentos. Aquí hay algunos ejemplos&#58;
-  - Los profesionales de IT que quieren mostrar una comprensión general de las aplicaciones con las que trabajan 
+  - Los profesionales de IT que quieren mostrar una comprensión general de las aplicaciones con las que trabajan
   - Los participantes empresariales y otros que conocen Dynamics 365 y que quieren validar sus habilidades y experiencia
   - Los programadores que quieren destacar su comprensión de las operaciones comerciales y CRM
-  - Estudiantes, recién graduados y personas que están cambiando de carrera profesional que quieren aprovechar las capacidades de compromiso con el cliente de Dynamics 365 para pasar al próximo nivel
-  
-  <div><br/><strong>Nota&#58; Esta certificación estará disponible en febrero de 2021.</strong></div>
-subTitle: 'Esta certificación estará disponible en febrero de 2021. Si está familiarizado con las operaciones comerciales, la gestión de las relaciones con los clientes (CRM) y es un experto en IT,-- ya sea en general o a raíz de su experiencia laboral,-- aproveche esta certificación para destacar esas habilidades. Valide su amplia exposición de capacidades de compromiso con el cliente de Dynamics 365 para mejorar su trayectoria profesional.'
+  - Estudiantes, recién graduados y personas que cambian de carrera y quieren aprovechar al máximo las capacidades de compromiso con el cliente de Dynamics 365 para pasar al siguiente nivel
+subTitle: 'Si está familiarizado con las operaciones comerciales, la gestión de las relaciones con los clientes (CRM) y es un experto en IT,-- ya sea en general o a raíz de su experiencia laboral,-- aproveche esta certificación para destacar esas habilidades. Valide su amplia exposición de capacidades de compromiso con el cliente de Dynamics 365 para mejorar su trayectoria profesional.'
 levels:
 - beginner
 skills:
@@ -34,6 +32,14 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-customer-engagement
+courses:
+- uid: course.mb-910t00
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-marketing
+- uid: learn.wwl.explore-microsoft-dynamics-365-sales
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
 exams:
 - uid: exam.mb-910
@@ -41,9 +47,15 @@ resources:
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Viaje a hacía la certificación
+  description:  Explora los pasos para obtener la certificación y los recursos disponibles para ayudarte a prepararte.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Ruta de aprendizaje para la certificación
+  description: Recursos de formación recomendados para ayudarte a prepararte para los exámenes requeridos y conseguir tu certificación.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Reproducción de examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

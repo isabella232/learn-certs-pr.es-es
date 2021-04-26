@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Windows Virtual Desktop Specialty'
+metadata:
+  title: 'Microsoft Certified: Windows Virtual Desktop Specialty'
+  description: Candidatos a la certificación de Windows Virtual Desktop Specialty son administradores de Microsoft Azure con experiencia en la planificación, entrega y gestión de experiencias de escritorio virtual y aplicaciones remotas, para cualquier dispositivo, en Azure.
+uid: certification.windows-virtual-desktop-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Candidatos a la certificación de Windows Virtual Desktop Specialty son administradores de Microsoft Azure con experiencia en planificación, entrega y gestión de experiencias de escritorio virtual y aplicaciones remotas, para cualquier dispositivo, en Azure.
+  
+  Responsabilidades para este cargo incluyen el despliegue de experiencias de escritorio virtual y aplicaciones a Azure. Profesionales en este función entregan aplicaciones en Windows Virtual Desktop y las optimizan para que se ejecuten en entornos virtuales multisesión. Para brindar estas experiencias, trabajan estrechamente con administradores y arquitectos de Azure, junto con administradores de Microsoft 365.
+  
+  Candidatos a esta certificación deben tener experiencia en tecnologías de Azure, incluyendo virtualización, redes, identidad, almacenamiento, copias de seguridad, resiliencia y recuperación de desastres. Deben entender las tecnologías de infraestructura de escritorios virtuales locales en lo que respecta a la migración a Windows Virtual Desktop. Estos profesionales utilizan el portal de Azure y las plantillas de Azure Resource Manager (ARM) para ejecutar muchas de sus tareas. Podrían utilizar PowerShell y Azure Command-Line Interface (CLI) para una automatización más eficiente.
+  
+  Candidatos a esta certificación deben tener conocimientos expertos de administración de Azure.
+subTitle: Candidatos a la certificación de Windows Virtual Desktop Specialty son administradores de Microsoft Azure con experiencia en la planificación, entrega y gestión de experiencias de escritorio virtual y aplicaciones remotas, para cualquier dispositivo, en Azure.
+levels:
+- intermediate
+skills:
+- Planificar una arquitectura de Windows Virtual Desktop
+- Implementar una infraestructura de Windows Virtual Desktop
+- Gestionar acceso y seguridad
+- Gestionar entornos de usuario y aplicaciones
+- Supervisar y mantener una infraestructura de Windows Virtual Desktop
+roles:
+- administrator
+type: specialty
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
+exams:
+- uid: exam.az-140
+resources:
+- title: Azure certifications poster
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx

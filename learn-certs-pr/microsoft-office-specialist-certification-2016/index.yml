@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   Esta certificación demuestra que posee las habilidades necesarias para aprovechar Office al máximo obteniendo una certificación Microsoft Office Specialist (MOS) en un programa de Office específico. Hay cinco certificaciones especializadas de Microsoft Office&#58;
   - Para obtener [Microsoft Office Specialist&#58; Microsoft Word 2016 Certification](/learn/certifications/mos-word-2016), aprobar [Exam 77 -725&#58; Word 2016&#58; Core Document Creation, Collaboration and Communication](/learn/certifications/exams/77-725)
-  - Para obtener [Microsoft Office Specialist&#58; Microsoft Excel 2016 Certification](/learn/certifications/mos-excel-2016), aprobar [Exam 77 -727&#58; Excel 2016&#58; Core Data Analysis, Manipulation, and Presentation] (/learn/certifications/exams/77 -727)
+  - Para obtener [Microsoft Office Specialist&#58; Microsoft Excel 2016 Certification](/learn/certifications/mos-excel-2016), aprobar [Exam 77 -727&#58; Excel 2016&#58; Core Data Analysis, Manipulation, and Presentation](/learn/certifications/exams/77 -727)
   - Para obtener [Microsoft Office Specialist&#58; Microsoft PowerPoint 2016 Certification](/learn/certifications/mos-powerpoint-2016), aprobar [Exam 77 -729&#58; PowerPoint 2016 Core Presentation Design and Delivery Skills](/learn/certifications/exams/77 -729)
   - Para obtener [Microsoft Office Specialist&#58; Microsoft Access 2016 Certification](/learn/certifications/mos-access-2016), aprobar [Exam 77 -730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77 -730)
   - Para obtener [Microsoft Office Specialist&#58; Microsoft Outlook 2016 Certification](/learn/certifications/mos-outlook-2016), aprobar [Exam 77 -731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77 -731)
@@ -40,3 +40,6 @@ resources:
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Comparta sus insignias de certificación
+  description: Celebre su logro con sus contactos. Solicite su insignia de Microsoft Certification y agréguela a LinkedIn, su hoja de vida y más.
+  href: ../badges.md

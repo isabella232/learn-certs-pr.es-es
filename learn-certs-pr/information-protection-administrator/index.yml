@@ -54,3 +54,6 @@ resources:
 - title: Soporte para certificaciones
   description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
   href: ../help.md
+- title: Comparta sus insignias de certificación
+  description: Celebre su logro con sus contactos. Solicite su insignia de Microsoft Certification y agréguela a LinkedIn, su hoja de vida y más.
+  href: ../badges.md

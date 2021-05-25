@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Commerce Functional Consultant (beta)
+metadata:
+  title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+  description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+uid: exam.mb-340
+displayName: MB-340
+summary: |-
+  Los candidatos a este examen configuran y utilizan la funcionalidad de la aplicación en Dynamics 365 Commerce y proporcionan soporte para la aplicación.
+  
+  Los candidatos tienen un gran conocimiento de las operaciones comerciales unificadas. Pueden tener experiencia en la configuración, despliegue y mantenimiento de Dynamics 365 Commerce.
+  
+  <div><font color='red'><strong>Nota&#58; Este examen estará disponible en junio/julio de 2021.</strong></font><br/><br/></div>
+subTitle: 'Este examen estará disponible en junio/julio de 2021. Este examen mide tu capacidad para realizar las siguientes tareas técnicas: configurar la sede de Dynamics 365 Commerce; configurar productos, precios, descuentos, fidelización y afiliaciones; gestionar el punto de venta (POS) en Dynamics 365 Commerce; configurar y gestionar los centros de llamadas de Dynamics 365 Commerce; y gestionar comercio electrónico.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Configurar la sede de Dynamics 365 Commerce (20-25%)
+- Configurar productos, precios, descuentos, fidelización y afiliaciones (20-25%)
+- Gestionar el punto de venta (POS) en Dynamics 365 Commerce (15-20%)
+- Configurar y gestionar los centros de llamadas de Dynamics 365 Commerce (10-15%)
+- Gestionar comercio electrónico (15-20%)
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+exams:
+- uid: exam.mb-300
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-commerce
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: ../request-accommodations.md
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

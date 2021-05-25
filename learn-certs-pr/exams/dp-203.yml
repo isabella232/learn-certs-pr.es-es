@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Data Engineering on Microsoft Azure (beta)
+title: Data Engineering on Microsoft Azure
 metadata:
-  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
-  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure'
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
   Ingenieros de Datos Azure integran, transforman y consolidan datos de varios sistemas de datos estructurados y no estructurados y los convierten en estructuras que son adecuadas para construir soluciones analíticas.
   
   Candidatos al examen DP-203&#58; Data Engineering on Microsoft Azure deben tener un sólido conocimiento en lenguajes de procesamiento de datos, como SQL, Python o Scala, y necesitan entender el procesamiento paralelo y patrones de arquitectura de datos.
-  
-  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saber más sobre el valor y la importancia de los exámenes beta</a>.</strong></font></div>
 subTitle: 'Este examen mide tu habilidad para desempeñar las siguientes tareas técnicas: diseñar e implementar almacenamiento de datos; diseñar y desarrollar procesamiento de datos; diseñar e implementar seguridad de datos; y monitorear y optimizar almacenamiento y procesamiento de datos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
@@ -33,6 +31,8 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+courses:
+- uid: course.dp-203t00
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

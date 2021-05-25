@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: 'Si tiene una amplia exposición a las capacidades de planificación de recursos empresariales (ERP) de Dynamics 365 y comprende los fundamentos de cómo las aplicaciones de finanzas y operaciones encajan en el ecosistema general de Microsoft, esta certificación es para usted.'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,7 +15,7 @@ summary: |-
   - Los profesionales técnicos y los responsables de la toma de decisiones empresariales que están explorando cómo la funcionalidad de Dynamics 365 puede integrarse con las aplicaciones que están utilizando
   - Los participantes empresariales y otras personas que utilizan Dynamics 365 y quieren demostrar que entienden los fundamentos de la plataforma
   - Programadores que quieren mostrar un entendimiento más profundo de las operaciones de negocios, finanzas y ERP
-  - Estudiantes, recién graduados y personas que cambian de carrera profesional que quieren aprovechar las aplicaciones de finanzas y operaciones de Dynamics 365 para pasar al próximo nivel
+  - Estudiantes, recién graduados y personas que cambian de carrera y quieren aprovechar al máximo las aplicaciones de finanzas y operaciones de Dynamics 365 para pasar al siguiente nivel
 subTitle: 'Si tiene una amplia exposición a las capacidades de planificación de recursos empresariales (ERP) de Dynamics 365 y comprende los fundamentos de cómo las aplicaciones de finanzas y operaciones encajan en el ecosistema general de Microsoft, esta certificación es para usted.'
 levels:
 - beginner
@@ -35,6 +35,8 @@ type: fundamentals
 products:
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -53,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Ruta de aprendizaje para la certificación
   description: Recursos de formación recomendados para ayudarte a prepararte para los exámenes requeridos y conseguir tu certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ

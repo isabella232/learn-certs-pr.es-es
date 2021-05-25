@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Information Protection Administrator (Examen de seguridad beta)'
+title: 'Microsoft Information Protection Administrator'
 metadata:
-  title: 'Exam SC-400: Microsoft Information Protection Administrator (Examen de seguridad beta)'
-  description: 'Exam SC-400: Microsoft Information Protection Administrator (Examen de seguridad beta)'
+  title: 'Exam SC-400: Microsoft Information Protection Administrator'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator'
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   Trabajan con personal de tecnología de la información (IT), propietarios de aplicaciones empresariales, recursos humanos y partes interesadas del ámbito jurídico para implantar una tecnología que sea compatible con las políticas y los controles necesarios para cumplir adecuadamente los requisitos normativos de su organización. También trabajan con los responsables del cumplimiento y seguridad, como el Jefe de Cumplimiento y el Oficial de Seguridad, para evaluar toda la amplitud del riesgo empresarial asociado y colaborar en el desarrollo de esas políticas.
   
   Esta persona define los requisitos aplicables y comprueba los procesos y operaciones de IT con respecto a esas políticas y controles. Es responsable de crear políticas y normas de clasificación de contenidos, prevención de pérdida de datos, gobernanza y protección.
-  
-  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saber más sobre el valor y la importancia de los exámenes beta</a>.</strong></font></div>
 subTitle: 'Este examen mide tu capacidad para realizar las siguientes tareas técnicas: implementar protección sobre la información; implementar prevención de pérdida de datos; e implementar gobernanza sobre la información.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
@@ -47,10 +45,10 @@ relatedCertifications:
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

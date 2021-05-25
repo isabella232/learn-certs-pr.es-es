@@ -7,14 +7,14 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>El contenido de este examen fue actualizado el 16 de octubre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen fue actualizado el 16 de octubre de 2020. Por favor, descargue el documento de evaluación de habilidades a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   </div>
-
+  
   Los candidatos a este examen analizan los requisitos empresariales y los traducen en procesos y soluciones empresariales totalmente realizados que implementan las mejores prácticas de la industria. Los candidatos sirven como un recurso clave en la implementación y configuración de aplicaciones para cumplir con los requisitos empresariales.
   <br/>
 
   Los candidatos entienden las características y capacidades comunes de las aplicaciones de Finanzas y Operaciones y cómo configurar y utilizar cada una de ellas. También deben ser conscientes de cómo las aplicaciones de Finanzas y Operaciones se integran con los sistemas y herramientas externas, incluyendo Power Platform. El candidato gestiona activamente los ciclos de vida de las aplicaciones mediante el uso de Lifecycle Services (LCS) y otras herramientas y plataformas de Microsoft.
-
+  
   Los candidatos a este examen suelen especializarse en uno o más conjuntos de características de las aplicaciones de Finanzas y Operaciones, incluyendo finanzas, fabricación y gestión de la cadena de suministro.
 subTitle: 'Este examen mide tu capacidad para llevar a cabo las siguientes tareas técnicas: utilizar la funcionalidad común y las herramientas de implementación; configurar la seguridad, los procesos y las opciones; gestionar los datos de Finanzas y Operaciones; y validar y dar soporte a la solución.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -52,16 +53,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

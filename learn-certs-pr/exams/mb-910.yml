@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
   Este examen cubre las características y capacidades de las aplicaciones de compromiso con el cliente de Microsoft Dynamics 365.
   
   Los candidatos a este examen deben tener conocimientos generales o experiencia laboral relevante en un entorno de tecnología de la información (IT). También deben tener una comprensión fundamental de los principios de participación con los clientes y operaciones empresariales.
-  
-  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saber más sobre el valor y la importancia de los exámenes beta</a>.</strong></font></div>
 subTitle: 'Este examen mide su capacidad para describir lo siguiente: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; Operaciones de Proyectos; y características compartidas.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div>
-  <div><strong>El contenido de este examen se actualizó el, 13 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>El contenido de este examen se actualizó el 10 de marzo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   </div>
 
   Los candidatos para este examen aspiran a mejorar la productividad al comprender las capacidades de Power Platform, automatizar los procesos comerciales básicos con Power Automate, realizar análisis de datos básicos con Power BI, actuar de manera más efectiva creando experiencias simples de Power Apps y creando potentes chatbots usando Power Agentes virtuales.
@@ -35,7 +34,7 @@ providers:
 levels:
 - beginner
 skills:
-- El contenido de este examen se actualizó el, 13 de julio de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
+- El contenido de este examen se actualizó el 10 de marzo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Describir el valor comercial de Power Platform (15-20%)
 - Identificar los componentes principales de Power Platform (15-20%)
 - Demostrar las capacidades de Power BI (15-20%)
@@ -61,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

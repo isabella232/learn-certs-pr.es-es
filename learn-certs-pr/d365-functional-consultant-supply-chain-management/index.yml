@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Supply Chain Management Functional Consultants simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.
+  Si eres un consultor funcional o un usuario empresarial con conocimientos fundamentales de los estándares del sector de la gestión de la cadena de suministro, esta certificación podría ser una buena opción para ti. También necesitas experiencia en la configuración e implementación de Dynamics 365 Supply Chain Management para satisfacer las necesidades de tu organización. Los consultores funcionales de gestión de la cadena de suministro son recursos clave que trabajan con programadores, arquitectos de soluciones, administradores de proyectos y consultores funcionales en finanzas, comercio y fabricación.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes algunas sugerencias&#58;
+  
+  - Estudia los módulos de gestión de la cadena de suministro en Microsoft Learn y realiza más prácticas.
+  - Inscríbete en un curso de formación impartido por un instructor que cubra el temario MB-300 o MB-330.
+  - Participa en la comunidad en [community.dynamics.com](https://community.dynamics.com/), o únete a un grupo de usuarios.
+  - Acompaña a un consultor funcional de gestión de la cadena de suministro, y ayuda a implementar las funcionalidades de Dynamics 365 Supply Chain Management.
+  - Consigue un mentor, recorre los almacenes y aprende cómo se fabrican las cosas.
+  - Haz preguntas y aprende de los expertos y los clientes.
 subTitle: 'Dynamics 365 Supply Chain Management Functional Consultants simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.'
 levels:
 - intermediate
@@ -55,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S

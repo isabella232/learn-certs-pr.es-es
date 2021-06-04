@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-database-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>Esta certificación MTA se retirará el 30 de junio de 2022. El examen asociado debe adquirirse antes del 30 de junio de 2021, y debe realizarse en el plazo de un año, antes del 30 de junio de 2022. Consulta <a href="/learn/certifications/mta-retirement-faqs">en FAQ</a> para más información.</strong></font></br></br></div>
+
   Las certificaciones MTA son un gran lugar por donde empezar si desea entrar en el campo de la tecnología. Las certificaciones MTA abarcan un amplio abanico de conceptos técnicos básicos, evalúan y validan sus conocimientos técnicos principales y mejoran su credibilidad en calidad de técnico. Nota&#58; Los exámenes MTA no cualifican para una certificación MCP, ni son un prerrequisito para obtener una certificación MCSA o MCSD.
 subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea entrar en el campo de la tecnología. Las certificaciones MTA abarcan un amplio abanico de conceptos técnicos básicos, evalúan y validan sus conocimientos técnicos principales y mejoran su credibilidad en calidad de técnico. Nota: Los exámenes MTA no cualifican para una certificación MCP, ni son un prerrequisito para obtener una certificación MCSA o MCSD.'
 levels:
@@ -17,17 +19,15 @@ roles:
 type: mta
 products:
 - sql-server
-courses:
-- uid: course.40364
 exams:
 - uid: exam.98-364
 resources:
 - title: Guía de capacitación y certificación
   description: Analice todas las certificaciones en una guía concisa de capacitación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cuadro de certificación
   description: 'Revise una descripción general de las certificaciones: fundamentals, role-based and specialty.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

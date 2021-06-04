@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-413
 displayName: 70-413
 summary: |-
-  <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
 
   Este examen es la primera parte de una serie de dos pruebas mediante las que se evalúan las habilidades y los conocimientos necesarios para diseñar, implementar y mantener una infraestructura de Windows Server 2012 en un entorno de alta virtualización de escala empresarial. La superación de este examen valida la habilidad del candidato para planificar, configurar e implementar los servicios de Windows Server 2012, como el despliegue de servidores, la virtualización de servidores y el acceso y la infraestructura de red. La superación de tanto este como el examen mencionado anteriormente confirma que el candidato posee las aptitudes y los conocimientos necesarios para diseñar, implementar y mantener los servicios de infraestructura en un entorno de Windows Server 2012.
 
@@ -17,7 +15,6 @@ subTitle: Este examen es la primera parte de una serie de dos pruebas mediante l
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixX
 practiceTestUrl: https://www.mindhub.com/70-413-Designing-and-Implementing-a-Server-Infrast-p/mu-70-413_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=413&examname=Designing%20and%20Implementing%20a%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-413
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - Diseñar e implementar servicios de acceso a la red (15-20%)
 - Diseñar e implementar una infraestructura de Active Directory (lógica) (20–25%)
 - Diseñar e implementar una infraestructura de Active Directory (física) (20–25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

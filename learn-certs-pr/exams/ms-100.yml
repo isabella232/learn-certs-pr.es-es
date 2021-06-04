@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><strong>El contenido de este examen se actualizará el 24 de febrero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver cuáles serán los cambios.</strong><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 2 de junio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   
   Los candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
   
@@ -14,7 +14,7 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar e implementar servicios de Microsoft 365; administrar la identidad del usuario y los roles; gestionar el acceso y la autenticación; y planificar las cargas de trabajo y aplicaciones de Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
@@ -22,11 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 24 de febrero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver cuáles serán los cambios.
+- El contenido de este examen se actualizará el 2 de junio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Diseñar e implementar servicios de Microsoft 365 (25-30%)
-- Gestionar la identidad y los roles de los usuarios (35-40%)
-- Gestionar acceso y autenticación (20-25%)
-- Planificar cargas de trabajo y aplicaciones de Office 365 (10-15%)
+- Gestionar la identidad y los roles de los usuarios (25-30%)
+- Gestionar acceso y autenticación (15-20%)
+- Planificar cargas de trabajo y aplicaciones de Office 365 (25-30%)
 roles:
 - administrator
 products:
@@ -49,10 +49,10 @@ relatedCertifications:
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

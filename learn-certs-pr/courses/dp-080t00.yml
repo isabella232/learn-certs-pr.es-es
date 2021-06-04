@@ -1,0 +1,168 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utilizar las herramientas de consulta del Servidor SQL
+- skill: Escribir sentencias SELECT para recuperar columnas de una o varias tablas
+- skill: Ordenar y filtrar datos selectos
+- skill: Utilizar funciones incorporadas para devolver valores de datos
+- skill: Crear grupos de datos y agregar los resultados
+- skill: Modificar datos con Transact-SQL utilizando INSERT, UPDATE, DELETE y MERGE.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  Este curso enseñará los fundamentos del dialecto de Microsoft del lenguaje SQL estándar1&#58; Transact-SQL. Los temas incluyen tanto consulta como modificación de datos en bases de datos relacionales que se alojan en sistemas de bases de datos basados en Microsoft SQL Server, incluyendo1&#58; Microsoft SQL Server, Azure SQL Database y, Azure Synapse Analytics.
+
+  #### Perfil del asistente
+  Este curso puede ser valioso para cualquier persona que necesite escribir consultas básicas de SQL o Transact-SQL. Esto incluye a cualquiera que trabaje con datos como analista de datos, ingeniero de datos, científico de datos, administrador de bases de datos o programador de bases de datos. También puede ser útil para otras personas relacionadas con datos de forma periférica, o que quieran aprender más sobre como trabajar con datos, tales como arquitectos de soluciones, estudiantes y administradores de tecnología.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Transact-SQL
+
+  En este módulo aprenderás los fundamentos del lenguaje Transact-SQL (T-SQL), así como las propiedades generales y la terminología de las bases de datos relacionales. Este módulo también introducirá la declaración SELECT básica para recuperar datos de una tabla.
+
+
+  #### Lecciones
+
+  *   Introducción a Transact-SQL
+
+  *   Utilizar la declaración SELECT
+
+  #### Laboratorio &#58; Iniciarse en las herramientas de consulta del Servidor SQL y escribir consultas en T-SQL
+
+  ####
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  *   Utilizar una herramienta de consulta para escribir y ejecutar consultas en Transact-SQL
+
+  *   Comprender los conceptos básicos de las bases de datos relacionales y del lenguaje T-SQL
+
+  *   Escribir declaraciones SELECT para recuperar datos de una tabla de base de datos relacional
+
+  *   Comprender los tipos de datos básicos y cómo se utilizan
+
+  *   Comprender los fundamentos de valores NULL
+
+  ### Módulo 2&#58; Ordenar y Filtrar Resultados de Consultas
+
+  En este módulo aprenderás a controlar qué datos se devuelven y el orden en que se devuelven. Utilizarás la cláusula ORDER BY, con y sin paginación. Aprenderás los distintos tipos de filtros que se pueden utilizar en la cláusula WHERE para controlar qué filas de datos se devuelven. También aprenderás a gestionar los resultados eliminando duplicados con DISTINCT.
+
+  #### Lecciones
+
+  *   Ordenar resultados de consulta
+
+  *   Filtrar los datos
+
+  #### Laboratorio &#58; Ordenar y filtrar datos devueltos por consultas SELECT
+
+  ####
+
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+
+  *   Utilizar ORDER BY para ordenar los resultados de una declaración SELECT de T-SQL
+
+  *   Añadir una cláusula TOP para limitar las filas ordenadas devueltas
+
+  *   Clasificar los datos ordenados con OFFSET-FET
+
+  *   Escribir cláusulas WHERE para filtrar las filas devueltas
+
+  *   Utilizar DISTINCT para eliminar filas duplicadas en los resultados
+
+  ### MMódulo 3&#58; Utilizar Uniones y Subconsultas
+
+  En este módulo, explorarás las consultas T-SQL que acceden a los datos de varias tablas con varios tipos de operaciones JOIN y subconsultas sencillas.
+
+
+  #### Lecciones
+
+  *   Utilizar operaciones JOIN
+
+  *   Utilizar subconsultas
+
+  #### Laboratorio &#58; Escribir consultas con operaciones JOIN
+
+  ####
+
+  #### Laboratorio &#58; Escribir declaraciones SELECT utilizando subconsultas
+
+  ####
+
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+
+  *   Escribir consultas que accedan a datos de varias tablas utilizando operaciones JOIN
+
+  *   Comprender las diferencias entre los tipos de operaciones JOIN&#58; INNER JOIN, OUTER JOIN, CROSS JOIN
+
+  *   Entender cómo unir una tabla a sí misma con una autounión
+
+  *   Escribir subconsultas dentro de una declaración SELECT
+
+  *   Comprender la diferencia entre subconsultas escalares y multivaluadas
+
+  *   Comprender la diferencia entre subconsultas correlacionadas y autocontenidas
+
+  ### Módulo 4&#58; Utilizar Funciones Incorporadas
+
+  En este módulo explorarás el uso de funciones incorporadas para devolver valores calculados o especiales en la lista SELECT o en la cláusula WHERE. Las funciones incluyen funciones matemáticas, funciones de cadena y funciones del sistema. Hay otros tipos de funciones que se mencionarán, pero no se discutirán en detalle. También aprenderás a combinar filas de datos en un único grupo, proporcionando información de resumen para el grupo como SUM, MIN o MAX.
+
+
+  #### Lecciones
+
+  *   Introducción a las funciones escalares
+
+  *   Agrupar resultados agregados
+
+  #### Laboratorio &#58; Funciones incorporadas
+
+  ####
+
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+
+  *   Escribir consultas utilizando funciones escalares
+
+  *   Escribir consultas utilizando funciones de agregación
+
+  *   Utilizar GROUP BY para combinar datos en grupos basados en un valor de columna común
+
+  *   Entender cómo se utiliza HAVING para filtrar grupos de filas
+
+  ### Módulo 5&#58; Modificación de Datos
+  
+  En este módulo aprenderás las sentencias T-SQL para modificar los datos de una tabla, incluyendo UPDATE, DELETE y MERGE, así como varias opciones para INSERT, incluyendo la creación de una nueva tabla con datos de una tabla existente. También verás cómo hacer que el sistema proporcione automáticamente valores para columnas a medida que se insertan los datos.
+
+
+  #### Lecciones
+
+  *   Insertar datos en tablas
+
+  *   Modificación y eliminación de datos
+
+  #### Laboratorio &#58; Modificar datos
+
+  ####
+
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+
+  *   Insertar datos en una tabla existente
+
+  *   Especificar que una columna se rellene automáticamente con un valor de IDENTITY o de SEQUENCE
+
+  *   Modificar datos utilizando la sentencia UPDATE
+
+  *   Eliminar datos utilizando la sentencia DELETE
+
+  *   Modificar datos utilizando MERGE para sincronizar dos tablas

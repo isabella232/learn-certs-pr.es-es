@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
+  Si eres un consultor funcional responsable de configurar e implementar soluciones de Dynamics 365 para los clientes, eres un buen candidato para esta certificación, que puede destacar tus habilidades y ayudar a avanzar en tu carrera profesional. Un consultor funcional de Dynamics 365 Field Service es responsable de implementar soluciones que gestionan los recursos que completan el ciclo de vida del servicio de campo. Como consultor funcional, sabes trabajar con administradores de proyectos, programadores y arquitectos de soluciones. Debes tener un mínimo de uno a tres años de experiencia como consultor funcional implementando Dynamics 365.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes algunas sugerencias&#58;
+  - Trabaja como consultor funcional de Dynamics 365 en algunos proyectos.
+  - Trabaja en la implementación de Dynamics 365 Field Service.
+  - Únete a la comunidad en [community.dynamics.com](https://community.dynamics.com/).
+  - Sigue las rutas de aprendizaje disponibles en [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service).
+  - Realiza más prácticas profesionales.
+  - Inscríbete en un curso de formación impartido por un instructor
 subTitle: Microsoft Dynamics 365 Field Service Functional Consultants configuran la aplicación Field Service, implementan soluciones que administran el ciclo de vida del servicio de campo e implementan la solución Connected Field Service (IoT).
 levels:
 - intermediate
@@ -18,7 +26,7 @@ skills:
 - Administrar la movilidad del servicio de campo
 - Administrar el inventario y las compras
 - Implementar el Servicio de Campo Conectado
-- Configurar el Common Data Service
+- Configurar Microsoft Dataverse
 - Crear aplicaciones usando Power Apps
 - Crear y gestionar Power Automate
 - Implementar chatbots de Power Virtual Agents
@@ -61,7 +69,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X

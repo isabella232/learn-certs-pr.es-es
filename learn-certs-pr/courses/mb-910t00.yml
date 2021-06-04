@@ -1,0 +1,211 @@
+### YamlMime:Course
+title: 'Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir las capacidades y la funcionalidad de Dynamics 365 Marketing
+- skill: Describir las capacidades y la funcionalidad de Dynamics 365 Sales
+- skill: Describir las capacidades y la funcionalidad de Dynamics 365 Customer Service
+- skill: Describir las capacidades y la funcionalidad de Dynamics 365 Field Service
+- skill: Describir las capacidades y la funcionalidad de Dynamics 365 Project Operations (CRM)
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  Este curso te proporcionará una amplia introducción a las capacidades de captación de clientes de Dynamics 365. Te familiarizarás con el concepto de captación de clientes, así como con cada una de las aplicaciones de captación de clientes, incluyendo Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, y las capacidades de gestión de relaciones con los clientes (CRM) de Dynamics 365 Project Operations. Este curso incluirá clases magistrales y laboratorios prácticos.
+
+  #### Perfil del asistente
+
+  Las personas que desempeñan diferentes cargos y se encuentran en distintas etapas de su carrera pueden beneficiarse de este curso de fundamentos. Esto incluye a los profesionales de IT, a los interesados en el negocio y a otros que quieran conocer las capacidades de compromiso con el cliente de Dynamics 365, estudiantes, recién graduados y personas que cambien de carrera y quieran aprovechar Dynamics 365 para pasar al siguiente nivel.
+prerequisitesSection:  Los alumnos deben tener un conocimiento fundamental de principios de captación de clientes y operaciones comerciales. Tener conocimientos sobre la computación en cloud es conveniente, pero no es necesario.
+outlineSection: |-
+  ### Módulo 1&#58; Aprender los Fundamentos de Dynamics 365 Marketing
+
+  Este módulo cubre los conceptos básicos de la captación de clientes y lo que las aplicaciones de captación de clientes tienen en común antes de sumergirnos en Dynamics 365 Marketing. Comenzamos con los procesos empresariales estándar de marketing y cómo Marketing los aborda. A continuación, examinamos las capacidades del producto. Por último, veremos otras aplicaciones de marketing como LinkedIn Campaign Manager, Dynamics 365 Customer Voice y Dynamics 365 Customer Insights.
+
+
+  #### Lecciones
+
+  * Conocer las aplicaciones de compromiso con el cliente de Dynamics 365
+
+  * Examinar Dynamics 365 Marketing
+
+  * Describir las capacidades de Dynamics 365 Marketing
+
+  * Revisar Aplicaciones Adicionales de Marketing
+
+  #### Laboratorio &#58; Trabajar con aplicaciones de captación de clientes
+
+  ####
+
+  #### Laboratorio &#58; Gestionar Clientes y Actividades
+
+  ####
+
+  #### Laboratorio &#58; Buscar y Filtrar Datos
+
+  ####
+
+  #### Laboratorio &#58; Dynamics 365 Marketing Capstone Lab
+
+  ####
+
+  * Crear un correo electrónico de marketing
+
+  * Crear un Segmento en Dynamics 365 Marketing
+
+  * Crear un Recorrido de Cliente
+
+  Tras completar este módulo, los alumnos serán capaces de&#58;
+
+  * Describir las aplicaciones de captación de clientes y lo que tienen en común
+
+  * Describir los procesos de marketing estándar y cómo los aborda Dynamics 365 Marketing
+
+  * Describir las características y capacidades de Dynamics 365 Marketing
+
+  * Describir las aplicaciones de marketing adicionales
+
+  ### Módulo 2&#58; Aprender los Fundamentos de Dynamics 365 Sales
+
+  Este módulo proporciona una introducción a Dynamics 365 Sales. Comenzamos con los procesos comerciales de ventas estándar y cómo Sales los aborda. A continuación, examinamos las capacidades del producto. Finalmente, cubrimos aplicaciones de ventas adicionales como Sales Insights y Sales Navigator.
+
+
+  #### Lecciones
+
+  * Explorar Dynamics 365 Sales
+
+  * Gestionar el ciclo de vida de las ventas con Dynamics 365 Sales
+
+  * Revisar las aplicaciones adicionales de ventas
+
+  #### Laboratorio &#58; Dynamics 365 Sales Capstone Lab
+
+  ####
+
+  * Crear y calificar un Cliente Potencial
+
+  * Gestionar una Oportunidad de venta
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  * Describir los procesos de ventas estándar y cómo Dynamics 365 Sales los aborda
+
+  * Describir las capacidades de Dynamics 365 Sales
+
+  * Describir las aplicaciones adicionales de ventas, como Sales Insights y Sales Navigator
+
+  ### Módulo 3&#58; Aprender los Fundamentos de Dynamics 365 Customer Service
+
+  Este módulo proporciona una introducción a Dynamics 365 Customer Service. Comenzamos con los procesos empresariales estándar del servicio de atención al cliente y cómo el Servicio de Atención al Cliente los aborda. A continuación, examinamos las capacidades del producto. Por último, cubrimos aplicaciones adicionales de servicio al cliente como Omnichannel para el Servicio al Cliente, Dynamics 365 Customer Service Insights, Programación del Servicio al Cliente y Servicio al Cliente Conectado.
+
+
+  #### Lecciones
+
+  * Examinar Dynamics 365 Customer Service
+
+  * Describir las capacidades de Dynamics Customer Service
+
+  * Repasar las aplicaciones adicionales de servicio al cliente
+
+  #### Laboratorio &#58; Dynamics 365 Capstone Lab
+
+  ####
+
+  * Crear y publicar un Artículo de Conocimiento
+
+  * Gestionar un caso de soporte a lo largo de su ciclo de vida
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  * Describir los procesos estándar de servicio al cliente y cómo Dynamics 365 Customer Service los aborda
+
+  * Describir las capacidades de Dynamics Customer Service
+
+  * Describir las aplicaciones adicionales de ventas, como Sales Insights y Sales Navigator  
+
+  ### Módulo 4&#58; Aprender los Fundamentos de Dynamics 365 Field Service
+
+  Este módulo proporciona una introducción a Dynamics 365 Field Service. Comenzamos con los procesos de negocio estándar del servicio de campo y cómo el Servicio de Campo los aborda. A continuación, examinamos las capacidades del producto, incluyendo generación de órdenes de trabajo, programación, gestión de inventario y gestión de activos.
+
+  #### Lecciones
+
+  * Examinar Dynamics Field Service
+
+  * Generar Órdenes de Trabajo en Dynamics 365 Field Service
+
+  * Describir las capacidades de programación de Dynamics 365 Field Service
+
+  * Examinar las capacidades de gestión de inventario de Dynamics 365 Field Service
+
+  * Repasar las capacidades de gestión de activos de Dynamics 365 Field Service
+  
+  #### Laboratorio &#58; Dynamics 365 Capstone Lab
+
+  ####
+
+  * Crear un Caso y escalar hasta una Órden de Trabajo
+
+  * Programar elementos con Dynamics 365 Field Service
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  * Describir los procesos empresariales estándar del servicio de campo y cómo Dynamics 365 Field Service los aborda
+
+  * Describir cómo generar Órdenes de Trabajo
+
+  * Describir las capacidades de programación de Dynamics 365 Field Service
+
+  * Describir las capacidades de gestión de inventario de Dynamics 365 Field Service
+
+  * Describir las capacidades de gestión de activos de Dynamics 365 Field Service
+
+  ### Módulo 5&#58; Aprender los Fundamentos de Dynamics 365 Project Operations (CRM)
+
+  Este módulo proporciona una introducción a los aspectos del compromiso con el cliente de Dynamics 365 Project Operations. Comenzamos con los procesos empresariales estándar basados en proyectos y cómo Operaciones de Proyectos los aborda. A continuación, examinamos las capacidades del producto, incluidas las ventas, la gestión de proyectos y la utilización de recursos.
+
+
+  #### Lecciones
+
+  * Examinar Dynamics 365 Project Operations
+
+  * Describir las capacidades de venta de Dynamics 365 Project Operations
+
+  * Planificar proyectos con Dynamics 365 Project Operations
+
+  * Repasar las capacidades de utilización de recursos de Dynamics 365 Project Operations
+  
+  #### Laboratorio &#58; Dynamics 365 Project Operations Capstone Lab
+
+  ####
+
+  * Crear un Cliente Potencial basado en un proyecto
+
+  * Gestionar una Oportunidad basada en un proyecto
+
+  * Crear un Presupuesto de Proyecto y una Estimación de Proyecto
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  * Describir los procesos de compromiso con el cliente basados en proyectos que aborda Dynamics 365 Project Operations
+
+  * Describir las capacidades de venta de Dynamics 365 Project Operations
+
+  * Describir las capacidades de gestión de proyectos de Dynamics 365 Project Operations
+
+  * Describir las capacidades de utilización de recursos de Dynamics 365 Project Operations
+  
+  #### Lecturas adicionales
+  
+  Por favor, repasa el contenido asociado a este curso en Microsoft Learn. Por favor, ten en cuenta que hay una ruta de aprendizaje distinta por cada producto.

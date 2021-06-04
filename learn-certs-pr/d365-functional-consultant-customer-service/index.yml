@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-customer-service
 certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Las soluciones CX de Microsoft Dynamics 365 Customer Service Functional Consultants son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
+  Si eres un consultor funcional responsable de configurar e implementar soluciones de Dynamics 365 para clientes, puedes utilizar esta certificación para dar a conocer tus habilidades y ayudar a avanzar en tu carrera profesional. Un consultor funcional Dynamics 365 Customer Service implementa soluciones omnicanal que se centran en servicio, calidad, fiabilidad, eficiencia y satisfacción del cliente. Como consultor funcional, sabes trabajar con administradores de proyectos, programadores y arquitectos de soluciones. Necesitas un mínimo de uno a tres años de experiencia como consultor funcional implementando Dynamics 365.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes algunas sugerencias&#58;
+  - Trabaja como consultor funcional de Dynamics 365 en uno o más proyectos.
+  - Trabaja en una implementación de Dynamics 365 Customer Service.
+  - Únete a la comunidad en [community.dynamics.com](https://community.dynamics.com/).
+  - Sigue las rutas de aprendizaje disponibles en [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - Realiza más prácticas.
+  - Inscríbete en un curso de formación impartido por un instructor.
 subTitle: Las soluciones CX de Microsoft Dynamics 365 Customer Service Functional Consultants son rápidas, ágiles y aprovechan la AI para fomentar la comprensión accionable que anticipe las necesidades de los clientes.
 levels:
 - intermediate
@@ -17,7 +25,7 @@ skills:
 - Implementar programación
 - Implementar omnicanal para servicio al cliente
 - Gestionar análisis
-- Configurar el Common Data Service
+- Configurar Microsoft Dataverse
 - Crear aplicaciones usando Power Apps
 - Crear y gestionar Power Automate
 - Implementar chatbots de Power Virtual Agents
@@ -62,7 +70,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87

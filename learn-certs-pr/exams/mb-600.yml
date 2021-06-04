@@ -7,7 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>UNA NUEVA VERSIÓN DE ESTE EXAMEN, <a href="/learn/certifications/exams/pl-600">PL-600</a>, ESTARÁ DISPONIBLE EN MARZO DE 2021. Podrás realizar este examen hasta que se retire el 30 de junio de 2021.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNA NUEVA VERSIÓN DE ESTE EXAMEN, <a href="/learn/certifications/exams/pl-600">PL-600</a>, SE PUSO A DISPOSICIÓN EN MARZO DE 2021. Podrás hacer este examen hasta que se retire el 30 de junio de 2021.</strong></font><br/><br/></div>
   <div><strong>El contenido de este examen se actualizó el, 30 de julio de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
   </div>
   
@@ -48,7 +48,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

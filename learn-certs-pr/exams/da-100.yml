@@ -6,8 +6,8 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><div><strong>El contenido de este examen se actualizará el 27 de enero 2021. Por favor, descarguese el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
+
   Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI. Como expertos en la materia, los analistas de datos son responsables de diseñar y construir modelos de datos escalables, limpiar y transformar datos, y habilitar capacidades analíticas avanzadas que brindan un valor comercial significativo a través de visualizaciones de datos fáciles de comprender. Los analistas de datos también colaboran con las partes interesadas clave en los mercados verticales para ofrecer información relevante basada en los requisitos comerciales identificados.
   <br/>
 
@@ -15,7 +15,7 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: preparar los datos; modelar los datos; visualizar los datos; analizar los datos; e implementar y mantener entregables.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
-practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárguese el esquema de habilidades del examen a continuación para ver lo que va a cambiar.
+- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Preparar los datos (20-25%)
 - Modelar los datos (25-30%)
 - Visualizar los datos (20-25%)
@@ -57,7 +57,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

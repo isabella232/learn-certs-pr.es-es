@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  ¿Es usted un consultor funcional, analista de datos o programador que busca perfeccionar sus habilidades de consultoría y configuración, o arquitecto de soluciones en el camino hacia la certificación de arquitecto de soluciones? O tal vez eres un profesional de IT con conocimientos y experiencia en la configuración de Microsoft Power Platform. Si esto le describe y está familiarizado con las aplicaciones impulsadas por modelos y los principios de modelado de datos de Microsoft Dynamics 365, explore cómo la certificación de Microsoft Power Platform Functional Consultant Associate puede ayudarle a mejorar su carrera profesional y convertirle en un miembro clave de su equipo. Esta certificación demuestra al mundo que se le considera cualificado para crear e implementar soluciones que utilizan Power Apps, Power BI y Power Virtual Agents.
+  ¿Eres consultor funcional, analista de datos o programador que busca perfeccionar sus habilidades de consultoría y configuración, o arquitecto de soluciones en camino hacia la certificación de arquitecto de soluciones? O quizá seas un profesional de IT con conocimientos y experiencia configurando Microsoft Power Platform. Si esto te describe y estás familiarizado con el uso de componentes de Power Platform para ampliar y personalizar aplicaciones y servicios de Microsoft como Teams, Dynamics 365, Excel y Word, explora cómo la certificación de Microsoft Power Platform Functional Consultant Associate puede ayudarte a mejorar tu carrera profesional y convertirte en un miembro clave de tu equipo. Esta certificación indica al mundo que se te considera cualificado para construir e implementar soluciones que utilizan Power Apps, Power BI y Power Virtual Agents.
   
   Como candidato para esta certificación, trabajará con participantes y expertos en la materia de una organización, como arquitectos de soluciones, programadores y probadores, para reunir los requisitos y luego implementar las soluciones de Microsoft Power Platform. Creas aplicaciones basadas en modelos, canvas y portales. Y creas flujos Power Automate, diseñas chatbots utilizando Power Virtual Agents y analizas los datos utilizando la visualización y cuadros de mando de Power BI. Incluso creará mejoras en las aplicaciones, experiencias de usuario personalizadas, integraciones de sistemas, conversiones de datos, automatización de procesos personalizados y visualizaciones personalizadas.
   
@@ -18,7 +18,7 @@ subTitle: Como consultor funcional, utilice esta certificación para comercializ
 levels:
 - intermediate
 skills:
-- configurar Common Data Service
+- configurar Microsoft Dataverse
 - crear aplicaciones mediante Power Apps
 - crear y administrar Power Automate
 - implementar chatbots de Power Virtual Agents
@@ -65,7 +65,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

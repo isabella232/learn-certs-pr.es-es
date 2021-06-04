@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div>
-  <div><strong>El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad. Candidatos deben tener conocimientos a nivel intermedio para administrar Azure. Candidatos deben entender el desarrollo de Azure y los procesos de DevOps.
   
@@ -30,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
+- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Implementar y monitorear una infraestructura de Azure (50-55%)
 - Implementar y administrar plataformas de datos (10-15%)
 - Implementar soluciones para aplicaciones (10-15%)
@@ -63,10 +61,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

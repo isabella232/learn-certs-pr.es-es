@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-375
 displayName: 98-375
 summary: |-
+  <div><font color='red'><strong>Este examen MTA debe adquirirse antes del 30 de junio de 2021. Si actualmente estás estudiando para este examen, debes examinarte en el plazo de un año, antes del 30 de junio de 2022, momento en el que se retirará. Consulta <a href="/learn/certifications/mta-retirement-faqs">en FAQ</a> para más información.</strong></font></br></br></div>
+  
   Este examen está dirigido a los candidatos que deseen validar sus aptitudes básicas en el desarrollo de aplicaciones de cliente con HTML5 que se ejecutarán en los dispositivos táctiles actuales (PC, tabletas y teléfonos). A pesar de que a menudo se piensa que el código HTML es una tecnología web que se reproduce en un navegador para producir una interfaz de usuario, este examen se centra en el uso de HTML5, CSS3 y JavaScript para desarrollar aplicaciones de cliente. Antes de realizar este examen, los candidatos deben tener un conocimiento básico sólido sobre los temas indicados en la guía de preparación, incluidos CSS y JavaScript. Se recomienda que los candidatos estén familiarizados con los conceptos y tengan cierta experiencia práctica con las tecnologías relacionadas, ya sea asistiendo a los cursos de formación correspondientes o trabajando con los tutoriales y ejemplos disponibles en MSDN y en Microsoft Visual Studio.
 subTitle: Este examen está dirigido a los candidatos que deseen validar sus aptitudes básicas en el desarrollo de aplicaciones de cliente con HTML5 que se ejecutarán en los dispositivos táctiles actuales (PC, tabletas y teléfonos). A pesar de que a menudo se piensa que el código HTML es una tecnología web que se reproduce en un navegador para producir una interfaz de usuario, este examen se centra en el uso de HTML5, CSS3 y JavaScript para desarrollar aplicaciones de cliente. Antes de realizar este examen, los candidatos deben tener un conocimiento básico sólido sobre los temas indicados en la guía de preparación, incluidos CSS y JavaScript. Se recomienda que los candidatos estén familiarizados con los conceptos y tengan cierta experiencia práctica con las tecnologías relacionadas, ya sea asistiendo a los cursos de formación correspondientes o trabajando con los tutoriales y ejemplos disponibles en MSDN y en Microsoft Visual Studio.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,13 +38,11 @@ skills:
 - Construir la interface de usuario (UI) usando HTML5 (25-30%)
 - Dar formato a la interface de usuario usando Cascading Style Sheets (CSS) (20-25%)
 - Codificar usando JavaScript (30-35%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.40375
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-html5-application-development-fundamentals

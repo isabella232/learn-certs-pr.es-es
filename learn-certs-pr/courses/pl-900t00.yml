@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Describa los componentes de las Power Platform: Power Apps, Power BI y Microsoft Automation'
-- skill: 'Describa los componentes de la Power Platform: Servicio de datos común, conectores y constructor de AI'
+- skill: Describir los componentes de Power Platform
+- skill: Describir Microsoft Dataverse, Conectores y constructor AI.
 - skill: Describe los escenarios en la nube cruzada a través de M365, Dynamics 365, Microsoft Azure y servicios de terceros
 - skill: Identifica los beneficios y capacidades de la Power Platform
 - skill: Identifica la funcionalidad básica y el valor comercial de los componentes de la Power Platform
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Aprende el valor comercial y las capacidades de producto de Power Platform. Crea simples Power Apps, conecta datos con Common Data Service, construye un Power BI Dashboard, automatiza un proceso con Power Automate y construye un chatbot con Power Virtual Agents
+  Conoce el valor empresarial y las capacidades de los productos de Power Platform. Crea sencillas Power Apps, conecta datos con Dataverse, construye un Power BI Dashboard, automatiza procesos con Power Automate y construye un chatbot con Power Virtual Agents
 
   #### Perfil del asistente
   Los candidatos a este examen son usuarios que aspiran a mejorar la productividad mediante la automatización de los procesos empresariales, el análisis de datos para producir conocimientos empresariales y la actuación más eficaz mediante la creación de experiencias de aplicaciones sencillas.
@@ -44,23 +44,24 @@ outlineSection: |-
   - Aprende el valor de usar Power Platform para crear soluciones de negocios
   - Aprende los componentes y características de Power Platform
 
-  ### Módulo 2&#58; Introducción al Common Data Service
-  El Common Data Service permite profundizar en soluciones de datos potentes y escalables en la nube. Conozca qué hace que el Common Data Service funcione y cómo puede trabajar con la Power Platform para crear soluciones empresariales únicas y eficientes.
+  ### Módulo 2&#58; Introducción a Microsoft Dataverse
+  Dataverse te permite profundizar en soluciones de datos potentes y escalables en cloud. Aprende qué hace que Dataverse funcione y cómo puede trabajar con la Power Platform para crear soluciones empresariales únicas y eficaces.
   #### Lecciones
-  - Visión general del Common Data Service
+  - Resumen de Microsoft Dataverse
   - Resumen del módulo
 
-  #### Lab &#58; Modelado de datos
-  - Crear la solución
-  - Crear entidades y relaciones
-  - Importar datos
+  #### Laboratorio &#58; Modelado de datos
+  - Crear una solución
+  - Añadir Tablas Existentes y Crear Tablas Nuevas
+  - Crear Relaciones
+  - Importar Datos
 
-  Después de completar este módulo, los estudiantes serán capaces de&#58;
-  - Descibir la diferencia entre el Common Data Service y el Common Data Model
-  - Explicar los casos de uso y las limitaciones de las normas comerciales y los flujos de procesos
-  - Explicar qué entornos, entidades, campos y relaciones hay en el Common Data Service
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+  - Describir la diferencia entre Dataverse y Modelo de Datos Común
+  - Explicar casos de uso y limitaciones de reglas empresariales y flujos de procesos
+  - Explicar qué son entornos, tablas, columnas y relaciones en Dataverse
 
-  ### Module 3&#58; Empieza con las Power Apps
+  ### Módulo 3&#58; Empieza con las Power Apps
 
   Conozca el valor y las capacidades de Power Apps, y las formas en que otras organizaciones han aprovechado esta tecnología para crear aplicaciones sencillas para sus negocios.
   #### Lecciones
@@ -90,7 +91,7 @@ outlineSection: |-
   - Vea Power Apps en acción y conozca las opciones para hacer su primera aplicación
   - Conozca qué es Power Apps y su valor comercial
 
-  ### Module 4&#58; Empezar con el Power Automate
+  ### Módulo 4&#58; Empezar con el Power Automate
 
   Aprenda cómo los usuarios pueden aprovechar Power Automate para mejorar la eficiencia y la productividad de la empresa.
   #### Lecciones
@@ -130,10 +131,10 @@ outlineSection: |-
 
   #### Lab &#58; Cómo construir un chatbot básico
   - Regístrate en el PVA y crea un nuevo robot
-  - Crear temas
-  - Temas de prueba
-  - Cambiar el saludo
-  - Publicar el bot
+  - Crear Temas
+  - Probar Temas
+  - Cambiar el Saludo
+  - Publicar el Bot
 
   Después de completar este módulo, los estudiantes serán capaces de&#58;
   - Describir el valor comercial y las características de los Power Virtual Agents

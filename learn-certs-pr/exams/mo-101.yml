@@ -20,6 +20,7 @@ locales:
 - de
 - ja
 - ko
+- zh-cn
 levels:
 - intermediate
 skills:
@@ -38,7 +39,7 @@ relatedCertifications:
 resources:
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Panel de certificación
   description: Revise y administre sus citas programadas, certificados y transcripciones.
   href: https://www.microsoft.com/learning/dashboard.aspx

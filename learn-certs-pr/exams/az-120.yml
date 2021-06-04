@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div><div><strong>El contenido de este examen fue actualizado el 24 de noviembre de 2020. Por favor, descarguese el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 28 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   </div>
 
   Los candidatos para este examen deben ser arquitectos o ingenieros con amplia experiencia y conocimiento del panorama del sistema SAP y los estándares de la industria que son específicos para la operación a largo plazo de una solución SAP en Microsoft Azure.
@@ -30,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el 24 de noviembre de 2020. Por favor, descárguese el esquema de habilidades del examen que aparece a continuación para ver los cambios.
+- El contenido de este examen se actualizará el 28 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Migrar SAP Workloads a Azure (10-15%)
 - diseñar una solución Azure para admitir SAP Workload (20-25%)
 - compilar e implementar Azure SAP Workloads (35-40%)
@@ -57,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

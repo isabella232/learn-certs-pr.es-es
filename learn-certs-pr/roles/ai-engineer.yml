@@ -22,14 +22,14 @@ certificationPaths:
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
-  - uid: exam.ai-100
+  - uid: exam.ai-102
 resources:
 - title: Guía de formación y certificaciones de Microsoft
   description: Explore todas las certificaciones en una guía concisa de capacitación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Póster de formación y certificaciones
   description: Elija su ruta hacia el éxito con este póster de capacitación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Soporte para certificaciones
   href: ../help.md
   description: Obtener ayuda mediante Foros de soporte técnico de Certificación Un moderador del foro responderá en un día hábil, de lunes a viernes.

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-483
 displayName: 70-483
 summary: |-
-  <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
 
   Los candidatos para este examen son desarrolladores con al menos un año de experiencia en lógica esencial de programación para diversos tipos de aplicación, plataformas de software y hardware usando C#.
 
@@ -27,7 +25,6 @@ subTitle: Los candidatos para este examen son desarrolladores con al menos un a�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=483&examname=Programming%20in%20C%23&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn
@@ -43,6 +40,7 @@ skills:
 - Creación y uso de tipos (25-30%)
 - Depuración de aplicaciones e implementación de seguridad (25-30%)
 - Implementación del acceso a datos (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

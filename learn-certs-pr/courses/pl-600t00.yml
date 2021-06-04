@@ -1,0 +1,226 @@
+### YamlMime:Course
+title: Power Platform Solution Architect
+metadata:
+  title: 'Course PL-600T00--A: Power Platform Solution Architect'
+  description: 'Course PL-600T00--A: Power Platform Solution Architect'
+uid: course.pl-600t00
+courseNumber: 'PL-600T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-platform
+summary: |-
+  El Arquitecto de Soluciones es responsable del éxito del diseño, implementación, despliegue y adopción de una solución global. El Arquitecto de Soluciones se asegura de que la solución satisfaga las necesidades del cliente ahora y en el futuro. En este curso, los estudiantes aprenderán sobre las decisiones que toma un Arquitecto de Soluciones durante una implementación, abarcando seguridad, integraciones, arquitectura de Power Apps, arquitectura de Power Automate y más. Este curso está diseñado para ofrecerte una introducción al cargo de Arquitecto de Soluciones.
+
+  #### Perfil del asistente
+
+  Consultores Senior (tanto funcionales como técnicos) que aspiran a ser Arquitectos de Soluciones, o Arquitectos de Soluciones actuales que son nuevos en el cargo.
+outlineSection: |-
+  ### Módulo 1&#58; Convertirse en Arquitecto de Soluciones/Conocer a tu cliente
+
+  #### Lecciones
+
+  *   Definir a un Arquitecto de Soluciones
+
+  *   Cargo del Arquitecto de Soluciones en proyectos
+
+  *   Metodología del Proyecto
+
+  *   Conocer a tu cliente
+
+  *   Ejercicio en grupo - Conocer a tu cliente
+
+  ### Módulo 2&#58; Conceptualizar el diseño a partir de los requisitos
+
+  #### Lecciones
+
+  *   Cómo liderar el esfuerzo de recopilación de requisitos
+
+  *   Utilizar análisis fit gap
+
+  *   Pilares de una buena arquitectura
+
+  *   Diseñar la arquitectura de la solución
+
+  *   Ejercicio en grupo - Diseño a partir de requisitos
+
+  ### Módulo 3&#58; Gobernanza del proyecto y trabajo en equipo
+
+  #### Lecciones
+
+  *   El cargo del Arquitecto de Soluciones en la gobernanza del proyecto
+
+  *   Técnicas para mantener el rumbo de un proyecto
+
+  *   Escenarios que pueden hacer fracasar un proyecto
+
+  *   Ejercicio en grupo - Gobernanza del proyecto y trabajo en equipo
+
+  ### Módulo 4&#58; Power Platform Architecture
+
+  #### Lecciones
+
+  *   Componentes clave de arquitectura de Power Platform
+
+  *   Comprender cómo el diseño y los límites de plataforma influyen en arquitecturas de soluciones
+
+  *   Actualizaciones y lanzamientos de características
+
+  *   Entender cómo comunicar la forma en que la plataforma satisface las necesidades de clientes
+
+  ### Módulo 5&#58; Modelo de Datos
+
+  #### Lecciones
+
+  *   Influencias del modelo de datos
+
+  *   Estrategia del modelo de datos
+
+  *   Tipos de datos
+
+  *   Relaciones de datos
+
+  *   Ejercicio en grupo - Modelo de datos
+
+  ### Módulo 6&#58; Análisis e inteligencia artificial
+
+  #### Lecciones
+
+  *   Planificación y evaluación de requisitos
+
+  *   Informes operativos
+
+  *   Power BI
+
+  *   Enterprise BI
+
+  *   Conocimientos preconfigurados y AI personalizada
+
+  ### Módulo 7&#58; Power Apps Architecture
+
+  #### Lecciones
+
+  *   Discutir las opciones de aplicaciones y cómo elegir por dónde empezar
+
+  *   Discutir las opciones de composición de las aplicaciones
+
+  *   Utilizar componentes como parte de la arquitectura de tus aplicaciones
+
+  *   Consideraciones para incluir los portales como una aplicación en tu arquitectura
+
+  *   Ejercicio en grupo - Temas de Power Apps Architecture
+
+  ### Módulo 8&#58; Gestión del Ciclo de Vida de las Aplicaciones (ALM)
+
+  #### Lecciones
+
+  *   La visión de Microsoft y el cargo de Arquitecto de Soluciones en ALM
+
+  *   Estrategias medioambientales
+
+  *   Definir una estructura de solución para tu entrega
+
+  #### Laboratorio &#58; Laboratorio práctico ALM
+
+  ####
+
+  ### Módulo 9&#58; Power Automate Architecture
+
+  #### Lecciones
+
+  *   Discutir opciones de automatización y de lógica personalizada
+
+  *   Repasar las consideraciones para utilizar activadores y acciones comunes
+
+  *   Explorar la utilización de Flujos de Procesos Empresariales (BPF) para guiar a los usuarios a través de procesos empresariales
+
+  *   Ejercicio en grupo - Evaluar los escenarios de uso de Power Automate
+
+  ### Módulo 10&#58; Modelado de seguridad
+
+  #### Lecciones
+
+  *   El cargo del Arquitecto de Soluciones en el modelado de seguridad
+
+  *   Descubrir y aprender el entorno de tu cliente
+
+  *   Controlar el acceso a entornos y recursos
+
+  *   Controlar el acceso a datos CDS
+
+  *   Ejercicio en grupo - Modelado de seguridad
+
+  ### Módulo 11&#58; Integración
+
+  #### Lecciones
+
+  *   Cargo de Arquitecto de Soluciones en Integraciones
+
+  *   Qué es una integración y por qué la necesitamos
+
+  *   Características de plataforma que permiten integración
+
+  *   Publicación de eventos CDS
+
+  *   Escenarios para discutir en grupo
+
+  ### Módulo 12&#58; Dynamics 365 Applications Architecture
+
+  #### Lecciones
+
+  *   El cargo de Arquitecto de Soluciones al desplegar aplicaciones de Dynamics 365
+
+  *   Consideraciones arquitectónicas para aplicaciones primarias
+
+  *   Ejercicio de grupo - Grupos de trabajo específicos para aplicaciones evalúan requisitos
+
+  ### Módulo 13&#58; Arquitectura de Power Virtual Agents
+
+  #### Lecciones
+
+  *   Introducción
+
+  *   Opciones chatbot
+
+  *   Conceptos chatbot
+
+  *   Mejores prácticas
+
+  *   Integrar chatbots
+
+  *   Power Virtual Agents en Microsoft Teams
+
+  ### Módulo 14&#58; Automatización de Procesos Robóticos
+
+  #### Lecciones
+
+  *   Introducción
+
+  *   Power Automate Desktop
+
+  *   Grabación y edición de tareas
+
+  *   Ejecutar flujos de escritorio
+
+  *   Asesor de procesos
+
+  ### Módulo 15&#58; Pruebas y Puesta en Marcha
+
+  #### Lecciones
+
+  *   El cargo del Arquitecto de Soluciones con pruebas y puesta en marcha
+
+  *   Planificación de pruebas
+
+  *   Planificación de puesta en marcha
+
+  #### Lecturas adicionales
+
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

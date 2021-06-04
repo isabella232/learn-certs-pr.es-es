@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-765
 displayName: 70-765
 summary: |-
-  <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
 
   Este examen va dirigido a arquitectos, desarrolladores experimentados, especialistas en infraestructuras y jefes de desarrollo. Los candidatos tienen un conocimiento práctico de los diversos modelos de servicios en la nube y arquitecturas de modelos de servicio, las opciones de almacenamiento de datos y las técnicas de sincronización de datos. Asimismo, tienen un conocimiento práctico de los modelos de desarrollo, la actualización y la migración de bases de datos, aplicaciones y servicios, además de la integración de aplicaciones de Azure con recursos externos.
 
@@ -17,7 +15,6 @@ subTitle: Este examen va dirigido a arquitectos, desarrolladores experimentados,
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
 practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Implementación de SQL en Azure (40-45%)
 - Administración de bases de datos e instancias (30-35%)
 - Administrar de almacenamiento (30-35%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

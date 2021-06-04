@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-762
 displayName: 70-762
 summary: |-
-  <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
 
   Este examen está dirigido a profesionales de bases de datos que crean e implementan bases de datos entre organizaciones y garantizan altos niveles de disponibilidad de datos. Entre sus responsabilidades se incluye la creación de archivos de bases de datos, tipos de datos y tablas; la planificación, creación y optimización de índices; la integridad de los datos; la implementación de vistas, procedimientos almacenados y funciones; y la administración de transacciones y bloqueos.
 subTitle: Este examen está dirigido a profesionales de bases de datos que crean e implementan bases de datos entre organizaciones y garantizan altos niveles de disponibilidad de datos. Entre sus responsabilidades se incluye la creación de archivos de bases de datos, tipos de datos y tablas; la planificación, creación y optimización de índices; la integridad de los datos; la implementación de vistas, procedimientos almacenados y funciones; y la administración de transacciones y bloqueos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
 practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - Implementación de objetos de programación (20-25%)
 - Administración de la simultaneidad de la base de datos (25-30%)
 - Optimización de la infraestructura de SQL y los objetos de la base de datos (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

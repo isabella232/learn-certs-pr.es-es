@@ -7,7 +7,7 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
   <div><strong>El contenido de este examen se actualizó el, 4 de febrero de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong></div><br/>
   </div>
 
@@ -15,7 +15,6 @@ summary: |-
 subTitle: Las personas que deseen obtener una certificación en personalización y configuración de Microsoft Dynamics 365 deben realizar este examen. El público objetivo normalmente incluye desarrolladores, asesores de implementación, personal de soporte técnico y administradores de sistemas. Evalúan las necesidades empresariales del cliente, configuran y personalizan la aplicación.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Implementar las entidades de Microsoft Dynamics 365, relaciones de entidad y campos (20-25%)
 - Crear y administrar soluciones, formularios, vistas y visualizaciones de Microsoft Dynamics 365 (25-30%)
 - Implementar reglas de negocio, flujos de trabajo y flujos de proceso de negocio (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

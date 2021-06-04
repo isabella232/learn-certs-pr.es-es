@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div>
-  <div><strong>El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   </div>
   
   Los candidatos para este examen deben tener experiencia en la materia trabajando con personas, procesos y tecnologías para brindar continuamente valor comercial.
@@ -18,7 +18,7 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: desarrollar una estrategia de instrumentación; desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE); desarrollar un plan de seguridad y cumplimiento; gestionar el control de fuente; facilitar la comunicación y colaboración; definir e implementar la integración continua; y definir e implementar una estrategia continua de gestión de entrega y liberación.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 27 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué es lo que va a cambiar.
+- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Desarrollar una estrategia de instrumentación (5-10%)
 - Desarrollar una estrategia de ingeniería de confiabilidad del sitio (SRE) (5-10%)
 - Desarrollar un plan de seguridad y cumplimiento (10-15%)
@@ -62,10 +62,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

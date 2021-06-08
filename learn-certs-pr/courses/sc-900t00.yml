@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir conceptos básicos de seguridad, conformidad e identidad.
+- skill: Describir conceptos y capacidades de las soluciones de gestión de identidades y accesos de Microsoft.
+- skill: Describir capacidades de  soluciones de seguridad de Microsoft.
+- skill: Describir capacidades de gestión de conformidad de Microsoft.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  Este curso proporciona conocimientos de nivel básico sobre los conceptos de seguridad, conformidad e identidad y soluciones relacionadas de Microsoft basadas en cloud.
+
+  #### Perfil del asistente
+  El asistente a este curso quiere familiarizarse con los fundamentos de seguridad, cumplimiento e identidad (SCI) en los servicios basados en cloud y relacionados con Microsoft. El contenido de este curso se alinea con el dominio objetivo del examen SC-900. Los Candidatos deben estar familiarizados con Microsoft Azure y Microsoft 365 y entender cómo las soluciones de seguridad, cumplimiento e identidad de Microsoft pueden extenderse a través de estas áreas de solución para proporcionar una solución holística e integral.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Conocimiento general de los conceptos de redes y computación en cloud.
+  - Conocimientos generales de IT o cualquier experiencia general de trabajo en un entorno IT.
+  - Conocimiento general de Microsoft Azure y Microsoft 365.
+outlineSection: |-
+  ### Módulo 1&#58; Describe conceptos básicos de seguridad, cumplimiento e identidad.
+  Aprende sobre conceptos básicos, principios y metodologías que son fundamentales para soluciones de seguridad, cumplimiento normativo e identidad, incluyendo confianza cero, responsabilidad compartida, nuestros principios de privacidad y mucho más.
+  #### Lecciones
+  - Describir conceptos y metodologías de seguridad.
+  - Describir principios de seguridad y cumplimiento de Microsoft.
+  
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+  - Describir conceptos y metodologías de seguridad.
+  - Explorar el Portal de Confianza del Servicio.
+  - Saber dónde encontrar y repasar la documentación de cumplimiento de Azure.
+  
+  
+  ### Módulo 2&#58; Describir conceptos y capacidades de soluciones de gestión de identidades y accesos de Microsoft
+  Aprende sobre servicios de Azure AD y principios de identidad, autenticación segura, capacidades de gestión de acceso, así como protección y gobernanza de la identidad.
+  #### Lecciones
+  - Describir conceptos de identidad
+  - Describir los servicios básicos y tipos de identidad de Azure AD
+  - Describir las capacidades de autenticación de Azure AD
+  - Describir las capacidades de gestión de acceso de Azure AD
+  - Describir las capacidades de protección y gobierno de la identidad de Azure AD
+  
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+  - Describir conceptos básicos de identidad.
+  - Describir los servicios básicos y tipos de identidad de Azure AD
+  - Describir las capacidades de autenticación de Azure AD.
+  - Describir las capacidades de gestión de acceso de Azure AD.
+  - Describir las capacidades de protección y gobierno de la identidad de Azure AD.
+  
+  
+  ### Módulo 3&#58; Describir las capacidades de las soluciones de seguridad de Microsoft
+  Aprende sobre las capacidades de seguridad de Microsoft. Los temas tratados incluirán capacidades de red y plataforma de Azure, gestión de seguridad de Azure y Sentinel. Aprenderás sobre la protección contra amenazas con Microsoft 365 Defender y la gestión de seguridad de Microsoft 365, y explorarás la protección de puntos finales con Intune.
+  #### Lecciones
+  - Describir las capacidades básicas de seguridad en Azure
+  - Describir las capacidades de gestión de la seguridad de Azure
+  - Describir las capacidades de seguridad de Azure Sentinel
+  - Describir las capacidades de protección contra amenazas de Microsoft 365
+  - Describir las capacidades de gestión de la seguridad de Microsoft 365
+  - Describir la seguridad de los puntos finales con Microsoft Intune
+  - Resumen del módulo
+  
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+  - Describir las capacidades básicas de seguridad en Azure.
+  - Describir las capacidades de gestión de seguridad de Azure.
+  - Describir las capacidades de seguridad de Azure Sentinel.
+  - Describir las capacidades de protección contra amenazas de Microsoft 365.
+  - Describir las capacidades de gestión de la seguridad de Microsoft 365.
+  - Describir seguridad de endpoints con Microsoft Intune.
+  
+  
+  ### Módulo 4&#58; Describir las capacidades de soluciones de cumplimiento de Microsoft
+  Aprende sobre soluciones de cumplimiento en Microsoft. Los temas tratados incluirán el Centro de Cumplimiento, protección y gobernanza de información en Microsoft 365, riesgo interno, auditoría y soluciones de eDiscovery. También se tratan las capacidades de gobernanza de recursos de Azure.
+  #### Lecciones
+  - Describir las capacidades de gestión del cumplimiento en Microsoft
+  - Describir las capacidades de protección y gobernanza de información en Microsoft 365
+  - Describir las capacidades de riesgo de información privilegiada en Microsoft 365
+  - Describir las capacidades de eDiscovery de Microsoft 365
+  - Describir las capacidades de auditoría de Microsoft 365
+  - Describir las capacidades de gobernanza de recursos en Azure
+  
+  Después de completar este módulo, los alumnos serán capaces de&#58;
+  - Describir las capacidades de gestión del cumplimiento en Microsoft.
+  - Describir las capacidades de protección y gobernanza de información en Microsoft 365.
+  - Describir las capacidades de riesgo de información privilegiada en Microsoft 365.
+  - Describir las capacidades de eDiscovery de Microsoft 365.
+  - Describir las capacidades de auditoría de Microsoft 365.
+  - Describir las capacidades de gobernanza de recursos en Azure.

@@ -2,27 +2,25 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Los desarrolladores de Azure IoT desarrollan componentes de nube y laterales de una solución de Azure IoT.
+  description: Los Programadores Azure IoT implementan la configuración y realizan las tareas de codificación necesarias para crear y mantener las partes de cloud y de borde de una solución IoT.
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Los candidatos a la certificación Azure IoT Developer Specialty deben tener experiencia en el tema desarrollando componentes en la nube y laterales de una solución Azure IoT.
-
-  Las responsabilidades de este rol incluyen la administración del ciclo de vida del dispositivo (coperación, configuración y mantenimiento) utilizando servicios en la nube y otras herramientas. Implementa diseños para soluciones de IoT de Azure, que incluyen topología de dispositivos, conectividad, depuración y seguridad, así como soluciones para administrar, supervisar y transformar canalizaciones de datos relacionados con IoT. También implementa los componentes de Azure IoT Edge y configura la red del dispositivo perimetral.
-
-  El desarrollador de IoT trabaja con ingenieros de datos y otras partes interesadas para garantizar una integración empresarial exitosa.
-
-  Un candidato para esta certificación debe tener experiencia en la implementación de los servicios de Azure que forman una solución de IoT, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos y opciones de plataforma como servicio. Este rol también debería ser capaz de reconocer las opciones de configuración del servicio Azure IoT dentro de la parte del código de una solución IoT y realizar tareas específicas de codificación IoT en al menos un lenguaje compatible con Azure, incluidos C#, Node, C o Python.
+  El Programador de Azure IoT implementa la configuración y realiza las tareas de codificación necesarias para crear y mantener las partes de cloud y de borde de una solución IoT. Además de configurar y mantener los dispositivos utilizando los servicios de cloud, el Programador IoT también configura los dispositivos físicos. El Programador IoT es responsable de mantener y solucionar la configuración de los dispositivos a lo largo del ciclo de vida.
+  
+  El Programador IoT implementa las especificaciones de diseño de las soluciones IoT, incluyendo topología de dispositivos, conectividad, diagnóstico y monitorización, y seguridad. El Programador IoT desarrolla y despliega módulos y configura la red de dispositivos para la parte de la solución de IoT Edge. El Programador IoT implementa los diseños para las soluciones de gestión de los conductos de datos, incluida la supervisión y la transformación de datos en relación con el IoT. El Programador IoT trabaja con el arquitecto de Azure IoT, los ingenieros de datos y otras partes interesadas para garantizar el éxito de la integración empresarial.
+  
+  Los Programadores IoT deben tener un conocimiento general de los tipos de dispositivos y de los servicios de Azure, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos, AI y otras opciones de la Plataforma como Servicio. Los Programadores IoT deben ser capaces de programar en al menos un lenguaje compatible con Azure IoT SDK.
 subTitle: Los desarrolladores de Azure IoT desarrollan componentes de nube y laterales de una solución de Azure IoT.
 levels:
 - intermediate
 skills:
-- Implementar la infraestructura de la solución IoT
-- Aprovisionar y administrar dispositivos
-- Implementar Edge
-- Procesar y administrar datos
-- Monitorear, solucionar problemas y soluciones loT
-- Implementar seguridad
+- Configurar la infraestructura de la solución IoT 
+- Aprovisionar y gestionar dispositivos 
+- Implantar IoT Edge 
+- Implementar integración empresarial 
+- Procesar y gestionar datos 
+- Supervisar, Solucionar Problemas y optimizar soluciones IoT.
 roles:
 - developer
 type: specialty
@@ -37,6 +35,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -49,10 +48,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

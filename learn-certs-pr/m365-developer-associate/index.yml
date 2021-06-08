@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 
-  Los desarrolladores de Microsoft 365 son competentes en la identidad de Microsoft y Microsoft Graph. Tienen conocimientos generales sobre los elementos de IU (incluyéndose Adaptive Cards y UI Fabric), puntos de integración (incluyéndose Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages), y para determinar los objetivos de la plataforma de cargas de trabajo.
+  Los Programadores Microsoft 365 tienen dominio de Microsoft identity y Microsoft Graph. Tienen conocimientos generales sobre los elementos de UI (incluyendo Adaptive Cards y Office UI Fabric (Fluent UI)), Puntos de Integración (incluyendo Microsoft Teams, Office Add-ins, SharePoint Framework, Mensajes Accionables), y determinan los objetivos de la plataforma de carga de trabajo.
 subTitle: Los desarrolladores de Microsoft 365 diseñan, crean, prueban y mantienen aplicaciones y soluciones optimizadas para las necesidades de productividad y colaboración de las organizaciones que usan la plataforma Microsoft 365.
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

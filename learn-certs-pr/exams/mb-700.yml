@@ -7,15 +7,13 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><strong>El contenido de este examen se actualizará el 26 de febrero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizó el 17 de marzo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   </div>
   
-  Los Arquitectos de Soluciones para Aplicaciones de Finanzas y Operaciones en Microsoft Dynamics 365 son asesores de confianza que comprenden las prácticas comerciales recomendadas y las capacidades de software. Lideran a los miembros del equipo para implementar soluciones de Dynamics que puedan lograr los objetivos de implementación predefinidos.
+  Candidatos a este examen son profesionales de Microsoft Dynamics 365 que asesoran a las partes interesadas y traducen los requisitos empresariales en soluciones seguras, escalables y fiables.
   
-  Un arquitecto de soluciones es responsable de la integridad y la entrega exitosa de la solución de extremo a extremo. El arquitecto proporciona orientación crítica durante la preventa durante todo el proceso de diseño y continúa la supervisión durante el resto del ciclo de vida del proyecto para abordar los problemas que surgen durante la implementación y garantizar el logro de los objetivos de implementación.
-  
-  El arquitecto de soluciones debe tener un amplio y profundo conocimiento y experiencia en estándares de la industria y capacidades de productos. El arquitecto de soluciones debe tener una amplia experiencia en las áreas funcionales y técnicas de la solución Dynamics. Deben saber sobre plataformas, herramientas y áreas funcionales como finanzas, gestión de la cadena de suministro y fabricación. Además, tienen un amplio conocimiento de dominio en una o más industrias de clientes.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: identificar los requisitos de la solución; componentes de soluciones de diseño; y definir pruebas de solución y estrategias de gestión.'
+  Los Candidatos deben tener conocimientos de todas las aplicaciones de Dynamics 365 y de Power Platform. Deben tener un conocimiento exhaustivo de las aplicaciones de Finanzas y Operaciones. Además, deben tener un amplio conocimiento del dominio en una o más verticales de la industria. Este rol requiere entender cómo las decisiones en cada área afectan a la solución global.
+subTitle: 'Este examen mide tu capacidad para llevar a cabo las siguientes tareas técnicas: arquitecturas de soluciones, definición de estrategias de soluciones, gestión de implementaciones y gestión de pruebas.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-700&examname=Exam%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -24,10 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 26 de febrero de 2021. Por favor, descárgate el esquema de las habilidades del examen para ver qué es lo que va a cambiar.
-- Identificar los requisitos de la solución (30-35%)
-- Diseñar componentes de solución (40-45%)
-- Definir estrategias de prueba y gestión de soluciones (25-30%)
+- El contenido de este examen se actualizó el 17 de marzo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- Diseñar soluciones (25-30%)
+- Definir estrategias de solución (25-30%)
+- Gestionar las implantaciones (25-30%)
+- Gestionar las pruebas (10-15%)
 roles:
 - functional-consultant
 - solution-architect
@@ -37,6 +36,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
@@ -46,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

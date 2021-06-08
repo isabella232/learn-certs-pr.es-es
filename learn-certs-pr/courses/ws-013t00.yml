@@ -96,7 +96,6 @@ outlineSection: |-
 
 
   #### Lab &#58; Implementar un cluster de Storage Spaces Direct
-  - Implementación de un clúster de Storage Spaces Direct mediante el Windows Admin Center
   - Implementación de un clúster Storage Spaced Direct mediante Windows PowerShell
   - Administración de un clúster de Storage Spaces Direct mediante el Windows Admin Center y Windows PowerShell
   - Gestión y supervisión de la capacidad de recuperación de un clúster de Storage Space  Direct (Espacios de Almacenamiento)

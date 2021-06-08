@@ -23,7 +23,7 @@ levels:
 - intermediate
 skills:
 - crear un diseño técnico
-- configurar el servicio de datos comunes
+- configurar Microsoft Dataverse
 - crear y configurar Power Apps
 - configurar la automatización de procesos comerciales
 - ampliar la experiencia del usuario
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Reproducción del examen
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

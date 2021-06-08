@@ -18,7 +18,7 @@ roles:
 products:
 - azure
 - azure-cosmos-db
-- azure-data-lake
+- azure-data-lake                        
 - azure-databricks
 - azure-notebooks
 - azure-stream-analytics

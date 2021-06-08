@@ -14,9 +14,9 @@ levels:
 skills:
 - Implementación de Windows
 - Administrar dispositivos y datos
-- Configurar conectividad
+- Configurar almacenamiento y conectividad
 - Mantener Windows
-- Implementar y actualizar sistemas operativos
+- Implantar y actualizar sistemas operativos
 - Administrar directivas y perfiles
 - Administrar y proteger dispositivos
 - Administrar aplicaciones y datos
@@ -43,10 +43,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
   href: ../deals.md

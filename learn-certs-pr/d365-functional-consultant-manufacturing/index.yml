@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants se integran sistemas digitales y físicos; se mejora la visibilidad, la eficiencia de fabricación y la flexibilidad; y se bajan los costos para sus clientes.
+  Si eres un consultor funcional o un usuario empresarial con un conocimiento exhaustivo de los estándares de la industria manufacturera, esta certificación puede ser para ti. También necesitas experiencia en la configuración e implementación de Dynamics 365 Supply Chain Management para satisfacer las necesidades de tu organización. Los consultores funcionales de gestión de la cadena de suministro y de fabricación son recursos clave que trabajan con programadores, arquitectos de soluciones, administradores de proyectos y consultores funcionales en finanzas, comercio y cadena de suministro.
+  
+  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes algunas sugerencias&#58;
+  
+  - Estudia los módulos de gestión de la cadena de suministro y gestión de la cadena de suministro, fabricación en Microsoft Learn, y realiza más prácticas.
+  - Inscríbete en un curso de formación impartido por un instructor que cubra el temario MB-300 o MB-320.
+  - Participa en la comunidad en [community.dynamics.com](https://community.dynamics.com/), o únete a un grupo de usuarios.
+  - Acompaña a un consultor funcional de fabricación en un flujo de trabajo de fabricación.
+  - Consigue un mentor, recorre las líneas de fabricación y aprende cómo se hacen las cosas.
+  - Haz preguntas y aprende de los expertos y los clientes.
 subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants se integran sistemas digitales y físicos; se mejora la visibilidad, la eficiencia de fabricación y la flexibilidad; y se bajan los costos para sus clientes.'
 levels:
 - intermediate
@@ -53,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Ruta de aprendizaje para certificación
   description: Recursos de capacitación recomendados para ayudarlo a prepararse para los exámenes requeridos y obtener su certificación.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE

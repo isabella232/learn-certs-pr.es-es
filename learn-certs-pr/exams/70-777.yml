@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-777
 displayName: 70-777
 summary: |-
-  <div>
-  <div><strong>Este examen se retira el 31 de enero de 2021 a las 11&#58;59 p.m., hora central. Ya no podrá realizar el examen después de esta fecha. Obtener más información <a href='/learn/certifications/retired-certification-exams'>sobre próximos retiros de exámenes</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este examen se retiró el 31 de enero de 2021. Para conocer las opciones disponibles actualmente, por favor consulta la <a href='/learn/certifications/browse/?resource_type=examination'>Página de navegación por Certificaciones y Exámenes</a>.<br/><br/></strong></font></div>
 
   Los candidatos para este examen son desarrolladores y arquitectos que utilizan Azure Cosmos DB. Los candidatos deben comprender los conceptos fundamentales de partición, replicación y gobernanza de recursos para crear y configurar aplicaciones escalables agnósticas de una Cosmos DB API. Los candidatos también deben tener un conocimiento de trabajo básico de la Cosmos DB SQL API.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Los candidatos para este examen son desarrolladores y arquitectos que utilizan Azure Cosmos DB. Los candidatos deben comprender los conceptos fundamentales de partición, replicación y gobernanza de recursos para crear y configurar aplicaciones escalables agnósticas de una Cosmos DB API. Los candidatos también deben tener un conocimiento de trabajo básico de la Cosmos DB SQL API.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=es-es&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Replicar datos en todo el mundo
 - Afinar y depurar soluciones de Azure Cosmos DB
 - Realizar integración y desarrollar soluciones
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

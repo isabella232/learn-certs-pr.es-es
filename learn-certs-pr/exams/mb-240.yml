@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div><strong>El contenido de este examen fue actualizado el 15 de enero de 2021. Por favor, descárgate el documento de medición de habilidades que aparece a continuación para ver que ha cambiado.</strong><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizó el 26 de abril de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   
   Candidatos a este examen son consultores funcionales de Microsoft Dynamics 365 Customer Engagement con experiencia en Servicio de Campo. Los candidatos son responsables de la implementación de soluciones que gestionan recursos que completan el ciclo de vida del servicio de campo.
   
@@ -16,14 +16,14 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para llevar a cabo las siguientes tareas técnicas: configurar las aplicaciones del servicio de campo; gestionar las órdenes de trabajo; programar y enviar las órdenes de trabajo; gestionar la movilidad del servicio de campo; gestionar el inventario y las compras; e implementar el Connected Field Service.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- El contenido de este examen fue actualizado el 15 de enero de 2021. Por favor, descárgate el esquema de habilidades del examen que aparece a continuación para ver qué ha cambiado.
+- El contenido de este examen se actualizará el 26 de abril de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Configurar las aplicaciones del servicio de campo (15-20%)
 - Administrar órdenes de trabajo (15-20%)
 - Programar y enviar órdenes de trabajo (25-30%)
@@ -51,7 +51,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte la descripción general que incluye los fundamentos, las certificaciones especializadas y basadas en roles para Dynamics 365 y Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

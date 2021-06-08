@@ -1,0 +1,217 @@
+### YamlMime:Course
+title: Office 365 Administration and Troubleshooting
+metadata:
+  title: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+  description: 'Course 10997-D: Office 365 Administration and Troubleshooting'
+uid: course.10997
+courseNumber: '10997-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir los servicios de Office 365.
+- skill: Administrar Office 365 utilizando el centro de administración de Microsoft 365 y centros de administración de servicios de Office 365
+- skill: Administrar y solucionar problemas de sincronización de directorios y objetos de directorio.
+- skill: Administrar y solucionar problemas de Exchange Online.
+- skill: Administrar y solucionar problemas de Teams.
+- skill: Administrar y solucionar problemas de SharePoint Online.
+- skill: Planificar e implementar aplicaciones de Microsoft 365 para empresas.
+- skill: Administrar y solucionar problemas de cumplimiento y seguridad en Office 365".
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Se trata de un curso de formación dirigida por un instructor (ILT) de tres días de duración que está orientado a las necesidades de profesionales de las tecnologías de la información (IT) que participan en la administración, configuración, reSolucionar Problemas y funcionamiento de servicios de Office 365, incluyendo sus identidades, dependencias, requisitos y tecnologías compatibles.  Este curso se centra en las habilidades necesarias para administrar y solucionar los problemas del inquilino de Office 365 y los servicios claves de Office 365, como Exchange Online, SharePoint Online y Teams. También cubre las características de seguridad y cumplimiento de Office 365.
+
+  #### Perfil del asistente
+  Este curso está dirigido a profesionales de IT y administradores de sistemas que quieran aprender sobre técnicas de administración y reSolucionar Problemas en Office 365. Estos profesionales deben tener al menos tres años de experiencia trabajando en sus respectivos campos&#58; idealmente en las áreas de administración de sistemas, administración de redes y mensajería.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los alumnos deben tener&#58;
+  - Un mínimo de dos años de experiencia en la administración del sistema operativo del servidor Windows, incluyendo el servidor Windows 2012 o más reciente.
+  - Un mínimo de un año de experiencia trabajando con Active Directory Domain Services (AD DS).
+  - Un mínimo de un año de experiencia trabajando con la resolución de nombres, incluyendo el DNS.
+  - Experiencia trabajando con certificados, incluidos los de infraestructura de clave pública (PKI).
+  - Experiencia trabajando con Windows PowerShell.
+  - Se valorará, pero no se exigirá, la experiencia de trabajo con Microsoft Exchange Server 2013 o más reciente, Microsoft Lync 2013 Server o Skype for Business 2015 Server, y Microsoft SharePoint Server 2013 o más reciente.
+outlineSection: |-
+  ### Módulo 1&#58; Servicios de Office 365
+  Este módulo describe las características de Office 365 e identifica las mejoras recientes del servicio. También identifica las opciones de licencia, describe el proceso de configuración del inquilino de Office 365 y enumera las opciones de cliente de Office 365 adecuadas.
+  #### Lecciones
+  - Resumen de los servicios de Office 365
+  - Resumen de Microsoft 365 y de licencias de Office 365
+  - Configuración de inquilinos de Microsoft 365
+  - Clientes de Office 365
+
+  
+  #### Laboratorio &#58; Configuración y puesta en marcha de los servicios de Office 365
+  - Configuración de un entorno de laboratorio de Microsoft 365
+  - Configurar los servicios de Office 365
+  
+  Tras completar este módulo, los alumnos serán capaces de&#58;
+  - Describir los servicios de Microsoft 365 y Office 365.
+  - Explicar las opciones de licencia de Microsoft 365 y Office 365.
+  - Describir la configuración de inquilinos de Microsoft 365.
+  - Describir los clientes de Office 365 disponibles.
+  
+  
+  ### Módulo 2&#58; Administración, herramientas y técnicas de Office 365
+  Este módulo describe cómo gestionar Office 365 utilizando los portales administrativos y Windows PowerShell. También explica cómo gestionar el acceso administrativo y solucionar problemas de administración en Microsoft 365.
+  #### Lecciones
+  - Gestionar Office 365 con los portales administrativos
+  - Gestionar Office 365 con Windows PowerShell
+  - Gestionar el acceso administrativo en Microsoft 365
+  - Solucionar problemas de administración en Office 365
+  
+  
+  #### Laboratorio &#58; Administración de Office 365
+  - Utilizar el centro de administración de Microsoft 365
+  - Administrar Office 365 con Windows PowerShell
+  - Configurar la administración basada en cargos
+  - Soluci¡on de problemas administrativos en Office 365
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Gestionar Office 365 utilizando los portales administrativos.
+  - Gestionar Office 365 utilizando Windows PowerShell.
+  - Gestionar el acceso administrativo en Microsoft 365.
+  - Soluci¡on de problemas de administración en Office 365.
+  
+  
+  ### Módulo 3&#58; Administrar y solucionar problemas de sincronización de directorios y objetos de directorio
+  Este módulo describe la sincronización y federación de directorios. El módulo explica cómo administrar Microsoft Azure Active Directory Connect (Azure AD Connect) y objetos de usuario y grupo en Office 365. Además, describe cómo solucionar problemas de objetos y sincronización de directorios en Office 365.
+  #### Lecciones
+  - Resumen de sincronización y federación de directorios
+  - Gestión de Azure AD Connect
+  - Gestión de objetos de usuario y grupo en Microsoft 365
+  - Solución de problemas de objetos y sincronización de directorios en Office 365
+  
+  
+  #### Laboratorio &#58; Administración de sincronización de directorios, usuarios y grupos en Microsoft 365
+  - Configurar Azure AD Connect
+  - Administrar Office 365 utilizando el centro de administración de Microsoft 365 y centros de administración de servicios de Office 365
+  - Administrar Office 365 utilizando Windows PowerShell
+  - Gestionar las políticas de contraseñas en Microsoft 365
+  - Solución de problemas de sincronización con objetos de usuario en Microsoft 365
+  
+  Tras completar este módulo, los alumnos serán capaces de&#58;
+  - Describir la sincronización y federación de directorios.
+  - Gestionar Azure AD Connect.
+  - Gestionar objetos de usuarios y grupos en Office 365.
+  - Solucionar problemas de objetos y de sincronización de directorios en Office 365.
+  
+  
+  ### Módulo 4&#58; Administrar y solucionar problemas de Exchange Online
+  Este módulo describe las opciones de suscripción y cargos en Exchange Online. Explica cómo administrar los destinatarios de Exchange Online y las políticas de acceso de clientes en Exchange Online y cómo solucionar problemas de Exchange Online.
+  #### Lecciones
+  - Resumen de administración de Exchange Online
+  - Administración de destinatarios de Exchange Online
+  - Administración de políticas de acceso de clientes en Exchange Online
+  - Solución de problemas de Exchange Online
+  
+  
+  #### Laboratorio &#58; Administración y solución de problemas de Exchange Online
+  - Configurar y administrar destinatarios de Exchange Online
+  - Configurar la administración delegada
+  - Configurar políticas de acceso de clientes
+  - Solución de problemas de Exchange Online
+  
+  Tras completar este módulo, los alumnos serán capaces de&#58;
+  - Describir opciones de suscripción y cargos en Exchange Online.
+  - Administrar destinatarios de Exchange Online.
+  - Administrar políticas de acceso de clientes en Exchange Online.
+  - Solucionar problemas de Exchange Online.
+  
+  
+  ### Módulo 5&#58; Administrar y solucionar problemas de Teams
+  En este módulo se describe Teams y se explica cómo administrarlos, gestionarlos y solucionar los problemas de Teams.
+  #### Lecciones
+  - Resumen de Teams
+  - Administrar y gestionar Teams
+  - Crear y gestionar equipos en Teams
+  - Solución de problemas de Teams
+  
+  
+  #### Laboratorio &#58; Administración de Teams
+  - Configurar los ajustes de la organización de Teams
+  - Configurar los ajustes de los usuarios de Teams
+  - Crear y administrar equipos
+  - Solución de problemas de los clientes de Teams
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir los Teams.
+  - Administrar y gestionar Teams.
+  - Crear y gestionar equipos.
+  - Solucionar problemas con Teams.
+  
+  
+  ### Módulo 6&#58; Administración y solución de problemas de SharePoint Online
+  Este módulo describe cómo configurar los ajustes de SharePoint Online y colecciones de sitios y acceso de usuarios externos a SharePoint Online. También explica cómo administrar la sincronización de Microsoft OneDrive for Business y cómo solucionar los problemas de SharePoint Online.
+  #### Lecciones
+  - Resumen de gestión de SharePoint Online
+  - Administrar las colecciones de sitios de SharePoint Online
+  - Administrar usuarios externos en SharePoint Online
+  - Configurar OneDrive for Business
+  - Solución de problemas de SharePoint Online y OneDrive for Business
+  
+  
+  #### Laboratorio &#58; Configurar y administrar SharePoint Online
+  - Configurar los ajustes de SharePoint Online
+  - Crear y configurar una colección de sitios de SharePoint
+  - Configurar y verificar la compartición de usuarios externos
+  - Configurar OneDrive for Business
+  - Solución de problemas de SharePoint Online y OneDrive for Business
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Administrar SharePoint Online.
+  - Configurar colecciones de sitios de SharePoint Online.
+  - Configurar el acceso de usuarios externos a SharePoint Online.
+  - Gestionar la sincronización de OneDrive for Business.
+  - Solucionar problemas de SharePoint Online y OneDrive for Business.
+  
+  
+  ### Módulo 7&#58; Planificación e implementación de Aplicaciones de Microsoft 365 para empresas
+  Este módulo describe las Aplicaciones de Microsoft 365 para empresas. También explica cómo planificar y gestionar las implantaciones de las Aplicaciones de Microsoft 365 para empresas dirigidas por el usuario y cómo solucionar problemas de las implantaciones.  
+  #### Lecciones
+  - Resumen de las Aplicaciones de Microsoft 365 para empresas
+  - Gestión de las implementaciones de Aplicaciones de Microsoft 365 para empresas
+  - Solución de problemas de despliegue de las aplicaciones de Microsoft 365
+  
+  
+  #### Laboratorio &#58; Preparación de Aplicaciones de Microsoft 365 para instalaciones empresariales
+  - Preparación de Aplicaciones Microsoft 365 para instalaciones empresariales
+  - Gestión de Aplicaciones Microsoft 365 para instalaciones empresariales dirigidas por el usuario
+  - Gestión de instalaciones centralizadas de Aplicaciones de Microsoft 365 para empresas
+  - Solución de problemas de Aplicaciones de Microsoft 365 para empresas
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir Aplicaciones de Microsoft 365 para empresas.
+  - Planificar y administrar las implementaciones de Aplicaciones de Microsoft 365 para empresas dirigidas por el usuario.
+  - Solucionar problemas de implementaciones de Aplicaciones de Microsoft 365 para empresas.
+
+  
+  ### Módulo 8&#58; Administración y solución de problemas de cumplimiento y seguridad de Office 365
+  Este módulo describe las características de cumplimiento en Office 365. Explica cómo administrar la Protección de la Información de Azure y las características de cumplimiento en Office 365, cómo configurar y administrar la seguridad del correo electrónico en Office 365, y cómo solucionar problemas de cumplimiento y protección de Office 365.
+  #### Lecciones
+  - Resumen de las características de cumplimiento en Office 365
+  - Administración de protección de información en Office 365
+  - Administrar funciones de cumplimiento en Office 365
+  - Configurar y administrar la seguridad del correo electrónico en Office 365
+  - Solución de problemas de cumplimiento y protección de Office 365
+  
+  
+  #### Laboratorio &#58; Configuración y solución de problemas de cumplimiento y seguridad
+  - Configurar y verificar la Protección de la Información de Azure en Office 365
+  - Configuración de las características de cumplimiento
+  - Configurar la protección del correo electrónico
+  - Solución de problemas de seguridad y cumplimiento
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las características de cumplimiento en Office 365.
+  - Administrar la Protección de Información de Azure en Office 365.
+  - Administrar características de cumplimiento en Office 365.
+  - Configurar y administrar la seguridad del correo electrónico en Office 365.
+  - Solucionar problemas de cumplimiento y protección de Office 365.

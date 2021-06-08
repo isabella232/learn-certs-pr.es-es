@@ -25,7 +25,7 @@ skills:
 - Configurar Business Central (20-25%)
 - Configurar finanzas (25-30%)
 - Configurar ventas y compras (10-15%)
-- Configurar ventas y compras (30-35%)
+- Realizar operaciones de Business Central (30-35%)
 roles:
 - functional-consultant
 products:
@@ -55,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: Guía de formación y certificación
   description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

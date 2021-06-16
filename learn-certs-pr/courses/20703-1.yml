@@ -29,8 +29,6 @@ roles:
 - developer
 products:
 - windows-system-center
-exams:
-- uid: exam.70-703
 summary: |-
   Este curso de cinco días describe cómo utilizar el Administrador de Configuración y sus sistemas de sitio asociados para gestionar eficazmente los recursos de red. En este curso de cinco días, aprenderás tareas de gestión diarias, incluyendo cómo gestionar aplicaciones, salud del cliente, inventario de hardware y software, despliegue de sistemas operativos y actualizaciones de software utilizando el Administrador de Configuración. También aprenderás a optimizar System Center Endpoint Protection, a gestionar conformidad y a crear consultas e informes de gestión.
 

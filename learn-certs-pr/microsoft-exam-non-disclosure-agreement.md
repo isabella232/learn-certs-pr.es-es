@@ -63,22 +63,22 @@ El presente Acuerdo se celebra a partir de la fecha de Su aceptación entre uste
 
     Al realizar este examen, Usted acepta que Microsoft, sus afiliadas y el proveedor del examen podrían:
 
-    1. compartir su información personal y datos de examen entre ellos para administrar el examen, para mejorar el programa de examinación y la experiencia de examinación, para facilitar el análisis estadístico y para determinar si Usted ha aprobado el examen;
-    2. contactar con Usted con relación a los certificados que demuestran que ha aprobado el examen o información relacionada con el programa de certificación de Microsoft;
-    3. compartir su información personal y resultados de examen con otros programas de Microsoft, p. ej. el programa Microsoft Partner Network, para verificar que Usted o su empleador cumplen los requisitos del programa;
-    4. compartir su información con juntas de normativa o certificación afiliadas a la institución académica, empresa u organización gubernamental que le proporcionó a Usted el cupón de examen; y
-    5. compartir sus resultados del examen y su información personal con la entidad que haya emitido el cupón o haya adquirido la licencia del sitio en caso de que el examen se haya puesto a su disposición a través de uno de los siguientes métodos:
+    - compartir su información personal y datos de examen entre ellos para administrar el examen, para mejorar el programa de examinación y la experiencia de examinación, para facilitar el análisis estadístico y para determinar si Usted ha aprobado el examen;
+    - contactar con Usted con relación a los certificados que demuestran que ha aprobado el examen o información relacionada con el programa de certificación de Microsoft;
+    - compartir su información personal y resultados de examen con otros programas de Microsoft, p. ej. el programa Microsoft Partner Network, para verificar que Usted o su empleador cumplen los requisitos del programa;
+    - compartir su información con juntas de normativa o certificación afiliadas a la institución académica, empresa u organización gubernamental que le proporcionó a Usted el cupón de examen; y
+    - compartir sus resultados del examen y su información personal con la entidad que haya emitido el cupón o haya adquirido la licencia del sitio en caso de que el examen se haya puesto a su disposición a través de uno de los siguientes métodos:
         - Empresas u organizaciones gubernamentales que adquieren cupones y posteriormente emiten esos cupones para sus empleados o contratistas.
         - Una institución académica que compra cupones y posteriormente emite esos cupones para sus estudiantes o empleados, o
         - Una institución académica u organización gubernamental que opera un centro de pruebas de examen y no le cobró la cuota para realizar el examen.
         - Una agencia gubernamental que ofrece estipendios de formación a aplicar tras cumplir las condiciones y sujetos a un proceso de verificación identificada de Microsoft.
-    6. Compartir sus resultado del examen y su información personal con una entidad que ha financiado su examen si la financiación se puso disponible a través de una agencia gubernamental que ofrece estipendios de formación a aplicar si se cumplen las condiciones y sujetos a un proceso de verificación identificada de Microsoft.
+    - Compartir sus resultado del examen y su información personal con una entidad que ha financiado su examen si la financiación se puso disponible a través de una agencia gubernamental que ofrece estipendios de formación a aplicar si se cumplen las condiciones y sujetos a un proceso de verificación identificada de Microsoft.
 
     Para obtener más información sobre las prácticas de recopilación y uso de Microsoft, visite [https://privacy.microsoft.com](https://privacy.microsoft.com/). Para obtener más información sobre las prácticas de recopilación y uso de datos del proveedor del Examen, póngase en contacto con dicho proveedor.
 
 6. **AVISO DE TRANSFERENCIA DE DATOS**
 
-    Es posible que se transfieran, almacenen y procesen sus datos personales, información y resultados del examen (incluidos datos personales recopilados de la Unión Europea, el Espacio Económico Europeo y Suiza) en Estados Unidos u otros países donde Microsoft, sus afiliadas o sus subcontratistas tengan instalaciones. Usted designa a Microsoft, sus afiliadas y el proveedor del examen para realizar la transferencia de sus datos, la información del examen y sus resultados del examen a dicho país y para almacenar y procesar sus datos. Microsoft obra conforme a los acuerdos Safe Harbor con la UE, así como los acuerdos Safe Harbor con Suiza que establece el Departamento de Comercio de EE. UU. con respecto a la recopilación, el uso y la retención de datos procedentes de la Unión Europea, el Espacio Económico Europeo y Suiza.
+    Tus datos personales, la información del examen y los resultados del examen (incluidos los datos personales recogidos en el Espacio Económico Europeo, el Reino Unido y Suiza) pueden ser transferidos, almacenados y procesados en los Estados Unidos o en cualquier otro país en el que Microsoft o sus filiales o subcontratistas tengan instalaciones. Tú designas a Microsoft y a sus filiales para que lleven a cabo dicha transferencia de tus datos, de la información de los exámenes y de los resultados de los mismos a cualquiera de estos países y para que almacenen y procesen tus datos. Consulta [la Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681) para obtener más información sobre cómo podemos recopilar, utilizar y compartir Tus datos.
 
 7. **PROPIEDAD Y DERECHOS RESERVADOS**
 

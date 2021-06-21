@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   Este curso te proporcionará una amplia introducción a las capacidades de captación de clientes de Dynamics 365. Te familiarizarás con el concepto de captación de clientes, así como con cada una de las aplicaciones de captación de clientes, incluyendo Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, y las capacidades de gestión de relaciones con los clientes (CRM) de Dynamics 365 Project Operations. Este curso incluirá clases magistrales y laboratorios prácticos.
 

@@ -93,11 +93,11 @@ El presente Acuerdo del programa de certificación de Microsoft (**"Acuerdo"**) 
 
     2. *Rescisión con causa*: Microsoft puede rescindir este Acuerdo inmediatamente con notificación previa por escrito si se diera cualquiera de los siguientes casos:
 
-        1. Si usted incumpliera cualquiera de los requisitos aplicables de certificación o de renovación de la Certificación,
-        2. Si incumpliera cualquier condición del Acuerdo o las Directrices,
-        3. Si tergiversara sus Credenciales,
-        4. Si incurriera en acciones de apropiación indebida o revelación no autorizada de cualquier secreto comercial o información confidencial de Microsoft,
-        5. Si participara en actividades prohibidas por la ley,
+        1. Si usted incumpliera cualquiera de los requisitos aplicables de certificación o de renovación de la Certificación.
+        2. Si incumpliera cualquier condición del Acuerdo o las Directrices.
+        3. Si tergiversara sus Credenciales.
+        4. Si incurriera en acciones de apropiación indebida o revelación no autorizada de cualquier secreto comercial o información confidencial de Microsoft.
+        5. Si participara en actividades prohibidas por la ley.
         6. Un tribunal u organismo oficial considera que los servicios que ha prestado en relación con las tecnologías de Microsoft, con las que está asociada su certificación de Microsoft Certification, son de algún modo defectuosos.
         7. Usted falsea el estado de su certificación, asociación con los Microsoft Partners o cualquier otra relación con Microsoft. Según la gravedad de la falta de cumplimiento, es posible que pierda la certificación de manera permanente y sea expulsado del programa de Microsoft Certification. Si esto ocurre, perderá también de manera permanente sus credenciales de Microsoft Certification.
 

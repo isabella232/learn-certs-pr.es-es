@@ -22,40 +22,29 @@ Las evaluaciones de renovación asociadas y las colecciones de módulos de apren
 
 Cuando califique para renovar su certificación, se le informará mediante el correo electrónico vinculado con su ID de certificación de Microsoft (MCID). Recibirá hasta cuatro recordatorios por correo electrónico antes de que su certificación venza. Luego de que haya renovado su certificación, ya no recibirá recordatorios hasta que sea el momento de que vuelva a renovarla.
 
-Verifique la siguiente hoja de ruta (sujeta a cambios) ya que lanzamos inicialmente evaluaciones de renovación para certificaciones en el mercado.
+El primer conjunto de evaluaciones de renovación que se pondrán a disposición se enumeran aquí. Están planificadas en el orden en que se abre la elegibilidad individual de los alumnos para las renovaciones. Los alumnos son elegibles para las renovaciones dentro de los seis meses anteriores a la expiración de su certificación. Por favor, comprueba esta página para ver si hay actualizaciones o cambios en la lista. 
 
-| Evaluaciones de renovación disponibles a principios de febrero de 2021 |
+| Evaluaciones de renovación disponibles en marzo de 2021 |
 | --- |
 | Microsoft Certified: Azure Administrator Associate |
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
 | Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure for SAP Workloads Specialty |
-| Microsoft Certified: Azure IoT Developer Specialty |
+| Microsoft Certified: Azure AI Engineer Associate |
+| Microsoft Certified: Azure Data Engineer Associate |
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
 | Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Developer Associate |
-| Microsoft 365 Certified: Teams Administrator Associate |
 | Microsoft 365 Certified: Enterprise Administrator Expert |
+| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
+| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
-
-| Evaluaciones de renovación disponibles desde mediados de febrero hasta marzo de 2021 |
-| --- |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Database Administrator Associate |
-| Microsoft Certified: Data Analyst Associate |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Developer Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Solution Architect Expert |
 
 ## Beneficios de renovar su certificación
 
@@ -70,7 +59,7 @@ Verifique la siguiente hoja de ruta (sujeta a cambios) ya que lanzamos inicialme
 
 ## Cómo renovar su certificación
 
-- Para identificar qué certificaciones están disponibles para que renueve, visite su [Panel de certificación](https://aka.ms/CertDashboard).
+- Para identificar qué certificaciones están disponibles para que renueve, visite su [Panel de certificación.](https://aka.ms/CertDashboard)
 - Asegúrese de que su perfil de certificación esté conectado a su perfil de Docs en Microsoft Learn.
 - No bien califique para renovar, recibirá una notificación por correo electrónico que lo llevará a la evaluación que estará disponible en Microsoft Learn.
 - Cuando apruebe la evaluación en línea, su certificación se extenderá por un año más a partir de la fecha de vencimiento actual.
@@ -78,7 +67,7 @@ Verifique la siguiente hoja de ruta (sujeta a cambios) ya que lanzamos inicialme
 
 ## Cambios en la política de vencimiento de la certificación
 
-El 15 de diciembre de 2020 [anunciamos un cambio en la política de vencimiento de la certificación](https://aka.ms/CertRenewalBlog). A partir de junio de 2021, cualquier [basada en funciones](/learn/certifications/browse/?type=role-based) o [certificación de especialidad](/learn/certifications/browse/?type=specialty) obtenida será válida por un año desde la fecha en que la obtuvo. Toda certificación basada en roles y especializada que se obtuvo antes de junio de 2021 seguirá siendo válida durante dos años a partir de la fecha en que la obtuvo.
+El 15 de diciembre de 2020 [anunciamos un cambio en la política de caducidad de las certificaciones](https://aka.ms/CertRenewalBlog) A partir del miércoles 30 de junio de 2021 @12am GMT (29 de junio de 2021 @5pm PT), cualquier certificación [basada en cargos](/learn/certifications/browse/?type=role-based) o [de especialidad](/learn/certifications/browse/?type=specialty) que hayas conseguido será válida durante un año a partir de la fecha en que la hayas obtenido. Toda certificación basada en roles y especializada que se obtuvo antes de junio de 2021 seguirá siendo válida durante dos años a partir de la fecha en que la obtuvo.
 
 ## Preguntas frecuentes
 
@@ -92,7 +81,7 @@ Para obtener más información, consulte las preguntas frecuentes sobre la renov
 
     Sí, conectar su perfil de certificación le permite realizar la evaluación de renovación en Microsoft Learn cuando se encuentra dentro del período de elegibilidad. Además, tendrá una experiencia más personalizada.
 
-    Para una mejor experiencia, recomendamos usar las mismas credenciales de cuenta tanto para su perfil de certificación como para su perfil de Docs en Microsoft Learn. Considere que solo se puede conectar un perfil de certificación a un perfil de Docs y no se puede cambiar en el futuro. Por lo tanto, si cuenta con varios perfiles de certificación, [comuníquese con nuestro equipo de soporte de certificación](https://aka.ms/mcpforum) para unir sus perfiles de certificación de Microsoft antes de conectarse a su perfil de Docs.
+    Como parte del proceso de renovación, se te pedirá que utilices las mismas credenciales de la cuenta personal de Microsoft tanto para tu perfil de certificación como para el perfil de Docs en Microsoft Learn. Por favor, ten en cuenta que sólo se puede conectar un perfil de certificación a un perfil Docs. Si tienes varios perfiles de certificaciones, por favor [ponte en contacto con nuestro equipo de soporte técnico para certificaciones](https://aka.ms/mcpforum) para fusionar tus perfiles de Microsoft Certification antes de conectarlos a tu perfil Docs.
 
 3. **¿Cuál es la diferencia entre mi perfil de certificación de Microsoft y mi perfil de Docs en Microsoft Learn?**
 
@@ -100,38 +89,42 @@ Para obtener más información, consulte las preguntas frecuentes sobre la renov
 
     Su perfil de Docs en Microsoft Learn incluye el historial de actividades en Microsoft Learn, Documentos, Preguntas y Respuestas y ejemplos de código. Es posible acceder a él utilizando una cuenta personal de Microsoft o una cuenta profesional o educativa.
 
-4. **Mi certificación venció. ¿Ahora qué sucede?**
+4. **Tengo un perfil Microsoft Certification y un perfil Docs en Learn, cada uno asociado a diferentes cuentas personales. ¿Cómo puedo conectar estos dos perfiles?**
+
+    Antes de que puedas conectar un perfil de Microsoft Certification y un perfil de Docs on Learn que utilicen cada uno cuentas personales diferentes, tendrás que elegir una única cuenta personal para utilizarla para ambos. Para repasar tus opciones para conectar estas cuentas, por favor, consulta el documento  “[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”.
+
+5. **Mi certificación venció. ¿Ahora qué sucede?**
 
     Si su certificación vence, debe obtener nuevamente la certificación aprobando el/los exámen(es) obligatorio(s)
 
-5. **¿Puedo renovar mi certificación aprobando un examen beta o realizando nuevamente un examen antes de que mi certificación venza?**
+6. **¿Puedo renovar mi certificación aprobando un examen beta o realizando nuevamente un examen antes de que mi certificación venza?**
 
     No. Para renovar su certificación, debe aprobar la evaluación de renovación antes de que su certificación venza.
 
-6. **¿Todas las certificaciones de Microsoft tienen la opción de renovación?**
+7. **¿Todas las certificaciones de Microsoft tienen la opción de renovación?**
 
     Tendrán la opción de renovación las certificaciones especializadas y basadas en roles de Microsoft que han estado disponibles durante más de seis meses.
 
-7. **¿Necesito renovar mi certificación de fundamentos de Microsoft?**
+8. **¿Necesito renovar mi certificación de fundamentos de Microsoft?**
 
     No. El proceso de renovación de la certificación no se aplica a las certificaciones fundamentales ya que no vencen.
 
-8. **¿Están alineadas las evaluaciones de renovación con la cadencia de actualización del examen regular?**
+9. **¿Están alineadas las evaluaciones de renovación con la cadencia de actualización del examen regular?**
 
     Sí, las actualizaciones de las evaluaciones están alineadas con las actualizaciones de los exámenes de certificación.
 
-9. **¿En qué idiomas están disponibles las evaluaciones?**
+10. **¿En qué idiomas están disponibles las evaluaciones?**
 
     Las evaluaciones de renovación en Microsoft Learn estarán disponibles en los mismos idiomas que los exámenes de certificación correspondientes.
 
-10. **¿Cuántas veces puedo realizar la evaluación nuevamente?**
+11. **¿Cuántas veces puedo realizar la evaluación nuevamente?**
 
     Puede volver a realizar la evaluación las veces que lo necesite para aprobarla, y debe aprobarla antes de que su certificación venza. En caso de que no apruebe la primera vez, puede volver a intentar la evaluación de inmediato. Sin embargo, tras el segundo intento, debe esperar al menos 24 horas antes de volver a intentarlo.
 
-11. **Si renuevo mi certificación basada en roles de nivel de experto e incluye una certificación de requisito previo de nivel de asociado, ¿mi certificación de nivel de asociado también se renueva de manera automática?**
+12. **Si renuevo mi certificación basada en roles de nivel de experto e incluye una certificación de requisito previo de nivel de asociado, ¿mi certificación de nivel de asociado también se renueva de manera automática?**
 
     No. Cada certificación se debe renovar por separado pasando la evaluación asociada.
 
-12. **Mi certificación de nivel experto solicita obtener una certificación de nivel asociado como prerrequisito. Si la certificación de nivel asociado vence, ¿mi nivel de experto vencerá también de forma automática?**
+13. **Mi certificación de nivel experto solicita obtener una certificación de nivel asociado como prerrequisito. Si la certificación de nivel asociado vence, ¿mi nivel de experto vencerá también de forma automática?**
 
     No, su certificación de nivel experto no vencerá de forma automática si vence su certificación de requisito de nivel asociado. Cada certificación se debe renovar por separado al aprobar la evaluación asociada.

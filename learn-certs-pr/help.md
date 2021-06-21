@@ -1,6 +1,6 @@
 ---
-title: Ayuda de certificación de Microsoft | Microsoft Docs
-description: Ayuda de certificación de Microsoft
+title: Soporte técnico para certificaciones | Microsoft Docs
+description: Soporte técnico para certificaciones
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,23 @@ ms.date: 08/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Ayuda de certificación de Microsoft
+# Soporte técnico para certificaciones
 
-¿Necesita ayuda con los productos de certificación de Microsoft? Consulte nuestras opciones de soporte a continuación.
+## Acerca del soporte técnico para certificaciones
 
-## Cómo ponerse en contacto con el soporte
+Estamos aquí para ayudar. Ofrecemos soporte técnico a través de nuestro completo y detallado sitio web y nuestros foros moderados.
 
-| Área de soporte | Información de contacto |
+## Contactar con soporte técnico
+
+| Área de soporte técnico | Cómo contactar con nosotros | 
 | ------------- | --- |
-| **Exámenes de certificación de Microsoft y certificaciones de Microsoft** | Puede que su pregunta ya haya sido respondida en nuestras [Preguntas Frecuentes sobre el Programa de Certificación de Microsoft](/learn/certifications/microsoft-certification-program-faqs). <br/><br/>  **Actualice su nombre legal:** <br/>Envíe una solicitud a través del [formulario de actualización de nombre legal](https://aka.ms/MSCertificationLegalNamechange).<br/><br/>  **Todas las demás preguntas de soporte:** <br/>Obtenga ayuda a través de nuestros [certification support forums](https://aka.ms/MCPForum) moderados.<br/><br/> Para comunicarse con un agente de atención al cliente, haga clic en Hacer una pregunta en la parte superior de la página y complete el formulario.  Un agente de soporte debe responder dentro de 1 día hábil. |
-| **Programa de Microsoft Certified Trainer (MCT)** | Es posible que ya se haya respondido su pregunta en nuestros [MCT Program Overview](/learn/certifications/mct-certification)<br/><br/>  **MCT Support Foros:** <br/>Obtenga ayuda a través de nuestros [MCT support forums](https://aka.ms/MCTForum) moderados.<br/><br/>Para comunicarse con un agente de atención al cliente, haga clic en Hacer una pregunta en la parte superior de la página y complete el formulario.  Un agente de soporte debe responder dentro de 1 día hábil. |
+| Exámenes de Microsoft Certification y Microsoft Certifications | Es posible que tu pregunta ya haya sido respondida en una de estas páginas:<br/> - [Resumen del proceso de certificación](/learn/certifications/certification-process-overview)<br/>- [Accede a tu Certification Dashboard](/learn/certifications/access-certification-dashboard) <br/>- [Gestiona tu perfil de certificaciones](/learn/certifications/manage-certification-profile)<br/><br/>Actualiza tu nombre legal:<br/>Presenta una solicitud a través del [formulario de actualización del nombre legal.](https://support.microsoft.com/en-us/supportrequestform/de16815f-2fa5-576e-4946-70cae21a4eeb)<br/><br/>Todas las demás preguntas sobre el soporte técnico:<br/>Obtén ayuda a través de nuestros moderados [foros de soporte técnico para certificaciones](https://aka.ms/MCPForum) siguiendo los siguientes pasos. |
+| Programa Microsoft Certified Trainer (MCT) | Es posible que tu pregunta ya haya sido respondida en nuestra página sobre el [Microsoft Certified Trainer](/learn/certifications/mct-certification) program.<br/><br/>Todas las demás preguntas sobre soporte técnico:<br/>Contacta con nosotros a través de nuestro [foro de soporte moderado](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) para Microsoft Certified Trainers. |
+
+
+## Cómo publicar una solicitud de soporte técnico en los foros
+
+1. En el menú de navegación principal de la parte superior de la página, haz clic en "Hacer una pregunta". Tendrás que iniciar sesión con tu cuenta de Microsoft.
+2. Crearás un nombre de usuario y, a continuación, se te ofrecerá la plantilla para formular una pregunta.
+3. Sé específico en el asunto de tu pregunta. **Debes evitar incluir cualquier información personal, ya que tu mensaje será visible públicamente.**
+4. Un moderador del foro te responderá en un plazo de 24 horas laborables.

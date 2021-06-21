@@ -18,6 +18,7 @@ En todo el mundo, socios y clientes confían en que Microsoft ofrezca los exáme
 - [Política de seguridad y de repetición de exámenes](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [Política de reprogramación y cancelación de exámenes](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Acuerdo del programa de certificación de Microsoft](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft Certification Non-disclosure Agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Acuerdo de no divulgación del examen de Microsoft](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Solicitar ajustes](/learn/certifications/request-accomodations)
 - [Proceso de impugnación de elementos de exámenes](/learn/certifications/exam-item-challenge-process)

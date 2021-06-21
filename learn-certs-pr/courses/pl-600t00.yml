@@ -16,6 +16,8 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   El Arquitecto de Soluciones es responsable del éxito del diseño, implementación, despliegue y adopción de una solución global. El Arquitecto de Soluciones se asegura de que la solución satisfaga las necesidades del cliente ahora y en el futuro. En este curso, los estudiantes aprenderán sobre las decisiones que toma un Arquitecto de Soluciones durante una implementación, abarcando seguridad, integraciones, arquitectura de Power Apps, arquitectura de Power Automate y más. Este curso está diseñado para ofrecerte una introducción al cargo de Arquitecto de Soluciones.
 

@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Retirada de cursos | Microsoft Docs
+description: Retirada de cursos
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,55 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Cursos retirados
+# Retirada de cursos
 
-Las siguientes tablas enumeran los cursos que se retiraron o se retirarán pronto. Después de las fechas en las que se retiren, los cursos ya no se venderán.
+## Acerca de la retirada de cursos
 
-Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft supervisa continuamente las tendencias del sector y revisa los requisitos de certificación para mantener el ritmo de los cambios tecnológicos. Para ayudarte a estar a la vanguardia de la tecnología y ofrecerte las oportunidades de formación más relevantes, introducimos nuevos cursos con frecuencia y revisamos o suspendemos los cursos más antiguos.
 
-## Cursos retirados: Curso dirigido por un instructor
+Una vez que se retira un curso, ya no está disponible. El curso ya no se puede comprar y las personas que lo hayan adquirido anteriormente ya no tendrán acceso al material didáctico.
+
+## Cursos retirados: Formación impartida por instructor
+
+* Retirada de cursos el 31 de mayo de 2021
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+
+* Retirada de cursos el 30 de abril de 2021
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
 
 * Retirada de los cursos didacticos el 31 de marzo de 2021
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | inglés | 31/03/2021 |
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |    
+
 
 * Courseware Retiro de 31 Diciembre de 2020
 
@@ -1161,51 +1197,48 @@ Si está buscando cursos retirados de MOC On-Demand, siga este enlace: [https://
 
   * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-Preguntas frecuentes sobre la retirada de cursos y formación MOC On-Demand
- 
-**P: ¿Por qué se retiran los cursos?**
-  
-Microsoft supervisa continuamente las tendencias de la industria y revisa los requisitos de certificación para mantenerse al día con los cambios en la tecnología. Para asegurarnos de ofrecerle las oportunidades de capacitación más relevantes, presentamos regularmente nuevos cursos y revisamos o descontinuamos los cursos más antiguos. 
+## Cursos retirados: MOC On-Demand
 
-**P: ¿Qué criterios se aplican para determinar si es necesario retirar un curso?**
+Todos los Microsoft Official Courses (MOC) On-Demand han sido retirados a partir del 30 de junio de 2020. Para obtener una lista completa de los cursos retirados, visita: [MOC On-Demand Courses han sido Retirados](/learn/certifications/retired-on-demand-online-courses).
+
+## Preguntas frecuentes sobre la retirada de cursos y MOC On-Demand
+
+**¿Qué criterios se aplican para determinar si es necesario retirar un curso?**
  
 Por lo general, un curso se retirará en uno de los siguientes escenarios:
 
 - El curso ha sido reemplazado. Se lanza un nuevo curso que reemplaza uno o más cursos anteriores y que cubre el material de una manera sustancialmente nueva.
-- Si la tecnología cubierta en un curso ya no es compatible con Microsoft, el software del curso generalmente se retirará.
+- Si la tecnología incluida en un curso ya no es compatible con Microsoft, el curso se retirará normalmente.
 - Las decisiones comerciales relacionadas con el éxito de un curso o los costes de mantener un curso actualizado puede llevar a que se retire el curso.
-- La certificación se ha retirado. Si el curso fue diseñado para una certificación que ya no se ofrece, el material del curso puede ser retirado.
+- La certificación se retira. Si el curso fue diseñado para una certificación que ya no se ofrece, el curso puede ser retirado.
 - Los cursos ofrecidos por autores que no son de Microsoft a través del programa de autoría comunitaria pueden retirarse por cualquier motivo, a solicitud del autor.
 - Los problemas de calidad pueden hacer que se retire el curso. Si se identifican problemas de calidad con un curso, se puede retirar hasta que se pueda mejorar la calidad.
   
-**P: ¿Cómo sabré si se retira un curso?**
+**¿Cómo sabré si se retira un curso?**
   
 Microsoft publica una lista trimestral de cursos que están retirados y aquellos que están programados para retirarse dentro de los próximos tres a seis meses. Los anuncios de retirada de cursos se comparten a través de comunicaciones con socios de capacitación, capacitadores, proveedores y otras audiencias interesadas. Las descripciones de los cursos en el Catálogo de capacitación de Microsoft y el Catálogo de la biblioteca de Courseware se actualizan con un anuncio de la fecha de retiro.
 
-**P: ¿Cómo puedo comprar un curso después de la fecha de retirada?**
+**¿Cómo puedo comprar un curso después de la fecha de retirada?**
 
 Después de la fecha de retiro del curso, los cursos ya no se venden. La fecha de retiro se publica a través de la página web del catálogo de cada curso y a través de canales de comunicación regulares para cada audiencia. En la fecha efectiva de retiro, el material del curso se marca como ya no está a la venta. Para evitar confusiones, el curso permanece en la lista como no a la venta por un período de tiempo después del retiro efectiva, hasta que se archiva y elimina completamente del catálogo.
 
-**P: ¿Puedo adquirir la versión digital de un curso antes de la retirada y descargarlo o usarlo después de la fecha de retirada?**
+**¿Puedo adquirir la versión digital de un curso antes de la retirada y descargarlo o usarlo después de la fecha de retirada?**
 
 Una vez que se retira el curso, ya no tiene acceso para descargarlo. Si descargó o recibió el material del curso antes de la fecha en que fue retirado, puede usarlo de acuerdo con los términos de la licencia.
 
-**P: ¿Qué sucede con los cursos retirados que tenía asignados antes de su retirada en mi Plan de aprendizaje o en la sección "Mis cursos"?**
+**¿Qué sucede con los cursos retirados que tenía asignados antes de su retirada en mi Plan de aprendizaje o en la sección "Mis cursos"?**
 
-Continuará viendo estos cursos en la sección "Mis cursos" después de su retiro, pero si intenta iniciar un curso retirado, aparecerá un mensaje de error.
+Seguirás viendo estos cursos en la sección "Mis cursos" después de su retirada, pero al intentar iniciar un curso retirado aparecerá un mensaje de error.
 
-**P: Si no finalicé un curso antes de su retirada, ¿podré terminarlo después?**
+**Si no he completado un curso antes de su retirada, ¿se me permitirá completarlo después de que haya sido retirado?**
 
 No. Después de que se retira curso, ya no puede acceder a él.
   
-**P: ¿Cómo reflejan los informes de actividad del curso los cursos en progreso en el momento de su retirada?**
+**¿Cómo reflejan los informes de actividad del curso los cursos en progreso en el momento de su retirada?**
 
 Los informes de actividad del curso reflejan su progreso en un curso al momento de su retiro. Por ejemplo, si un usuario completa un curso al 60% cuando se retira, los informes de actividad del curso mostrarán un progreso del 60%. El porcentaje de finalización de un curso no se puede cambiar después de que se retira un curso.
 
-**P: ¿Podré buscar un curso retirado en el sitio de aprendizaje online?**
+**¿Podré buscar un curso retirado en el sitio de aprendizaje online?**
 
 No. Los cursos retirados ya no aparecen en los resultados de búsqueda o en el catálogo de cursos.
 
-**P: Cuando se retira un curso, ¿se retira también el MOC On-Demanda (MOD) asociado?**
-
-Sí. Debido a que el MOD se alinea con el material del curso, cuando un curso se retira, el MOD se retirará en la misma fecha.

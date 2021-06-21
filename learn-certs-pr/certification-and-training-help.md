@@ -1,6 +1,6 @@
 ---
-title: Ayuda de Microsoft Official Courseware (MOC) | Documentos de Microsoft
-description: Ayuda de Microsoft Official Courseware (MOC)
+title: Microsoft Official Courseware (MOC) soporte técnico | Microsoft Docs
+description: Microsoft Official Courseware (MOC) soporte técnico
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Ayuda de Microsoft Official Courseware (MOC)
+# Microsoft Official Courseware (MOC) soporte técnico
 
-¿Necesita ayuda con Microsoft Official Courseware (MOC)? Póngase en contacto con su centro de ayuda regional de la lista de países a continuación. Tenga en cuenta que estas opciones de soporte son solo para MOC. Para obtener ayuda con las certificaciones o los exámenes de Microsoft, vaya a [Ayuda de la certificación](/learn/certifications/help).
+## Acerca del soporte técnico de MOC
+
+Microsoft Official Courseware (MOC) es el material utilizado en nuestros cursos. El soporte técnico del MOC se administrado por regiones alrededor del mundo.
 
 ## Información de contacto regional de MOC
+
+Por favor ten en cuenta que estas opciones de soporte técnico son sólo para MOC. Para obtener ayuda con las certificaciones o los exámenes de Microsoft Certification, por favor, visita: [Soporte técnico para certificaciones](/learn/certifications/help).
 
 | País | Teléfono + Idioma | Correo electrónico | Información adicional | Datos de contacto |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ ms.author: micsullivan
 | Vietnam | (65) 6622 1237 | [Courseware Marketplace Queries](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) | | 9:00 to 18:00 (9:00 A.M. to 6:00 P.M.) lunes a viernes Hora de Singapur |
 | Islas Vírgenes Británicas | Inglés: +1 305 715-1492<br/>Español: +1 305 715-1490<br/>Portugués: +1 305 715-1491 | [Courseware Marketplace Queries](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | Tenga en cuenta que estos son números de EE. UU. Es posible que su compañía de servicio telefónico aplique tarifas de larga distancia o internacionales. | Inglés: 7am – 7pm (lunes a viernes) Hora de Colombiaespañol<br/>Español: 7am – 7pm (lunes a viernes) Hora de Colombiaespañol<br/>Portugués: 9am – 6pm (lunes a viernes) BRT Hora de Brasil |
 | Islas Vírgenes Estadounidenses| Inglés: +1 305 715-1492<br/>Español: +1 305 715-1490<br/>Portugués: +1 305 715-1491 | [Courseware Marketplace Queries](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | Tenga en cuenta que estos son números de EE. UU. Es posible que su compañía de servicio telefónico aplique tarifas de larga distancia o internacionales. | Inglés: 7am – 7pm (lunes a viernes) Hora de Colombiaespañol<br/>Español: 7am – 7pm (lunes a viernes) Hora de Colombiaespañol<br/>Portugués: 9am – 6pm (lunes a viernes) BRT Hora de Brasil |
-
-## Ayuda de certificación
-
-Para obtener ayuda con la certificación de Microsoft, [haga clic aquí](/learn/certifications/help).

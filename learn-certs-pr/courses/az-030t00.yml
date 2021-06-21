@@ -4,7 +4,7 @@ metadata:
   title: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
   description: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
 uid: course.az-030t00
-courseNumber: 'AZ-030T00-A'
+courseNumber: 'AZ-030T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -24,20 +24,20 @@ roles:
 - solution-architect
 products:
 - azure
-exams:
-- uid: exam.az-303
 summary: |-
   Este curso enseña a los arquitectos de soluciones que han diseñado previamente para Amazon Web Services cómo traducir los requisitos comerciales en soluciones seguras, escalables y confiables para Azure. Las lecciones incluyen virtualización, automatización, redes, almacenamiento, identidad, seguridad, plataforma de datos e infraestructura de aplicaciones. Este curso describe cómo las decisiones en cada una de estas áreas afectan a una solución general.
 
   #### Perfil de audiencia
   Este curso es para AWS Cloud Architects con experiencia en el diseño e implementación de soluciones que se ejecutan en AWS y que ahora desean diseñar para Microsoft Azure.
 prerequisitesSection: |-
-  - Experiencia (>1 año) como AWS Architect diseñando soluciones de nube de AWS seguras y escalables a través de estructuras de almacenamiento, informática, redes y la interacción con recursos/servicios externos.
-  - Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
-  - Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
-  - Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
-  - Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
-  - Comprensión de los fundamentos de programación y uso de un lenguaje de script.
+  Para tener éxito en este curso, los alumnos deben tener lo siguiente&#58;
+
+  *   Experiencia (>1 año) como AWS Architect diseñando soluciones de nube de AWS seguras y escalables a través de estructuras de almacenamiento, informática, redes y la interacción con recursos/servicios externos.
+  *   Comprensión de las tecnologías de virtualización locales, que incluyen&#58; Máquinas virtuales, redes virtuales y discos duros virtuales.
+  *   Comprensión de la configuración de red, incluidos TCP/IP, Sistema de nombres de dominio (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
+  *   Comprensión de los conceptos de Active Directory, incluidos dominios, bosques, controladores de dominio, replicación, protocolo Kerberos y Lightweight Directory Access Protocol (LDAP).
+  *   Comprensión de la capacidad de recuperación y recuperación ante desastres, incluidas las operaciones de copia de seguridad y restauración.
+  *   Comprensión de los fundamentos de programación y uso de un lenguaje de script.
 
   Los candidatos se beneficiarán de la familiaridad con la administración de Azure, los procesos de desarrollo de Azure y los procesos de DevOps.
 outlineSection: |-

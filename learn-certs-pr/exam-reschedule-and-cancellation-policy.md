@@ -1,6 +1,6 @@
 ---
-title: 'Exam reschedule and cancellation policy | Microsoft Docs'
-description: 'Exam reschedule and cancellation policy' 
+title: 'Política de reprogramación y cancelación de exámenes | Microsoft Docs'
+description: 'Política de reprogramación y cancelación de exámenes' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -12,10 +12,18 @@ ms.prod: non-product-specific
 ---
 # Política de reprogramación y cancelación de exámenes
 
-<div><font color='red'>Microsoft renunciará temporalmente a la tarifa de reprogramación y cancelación siempre que cancele sus exámenes dentro de las 24 horas previas a su cita programada.</font></div>
+## Detalles de la política de reprogramación y cancelación
 
-- No se producirá ningún recargo si cambia la fecha del examen o cancela una fecha concreta al menos 6 días hábiles antes de la fecha prevista para el examen.
-- Si cancela el examen o cambia la fecha del examen 5 días antes de la fecha prevista, se aplicará un recargo.
+- <div><font color='red'>Microsoft renunciará temporalmente a la tasa de reprogramación y cancelación siempre que canceles tus exámenes dentro de las 24 horas anteriores a tu cita programada.</font></div>
+- No hay ningún cargo si cambias de fecha o cancelas una cita de examen al menos seis días hábiles antes de la misma.
+- Si cancelas o reprogramas tu examen dentro de los cinco días hábiles anteriores a la hora registrada para el examen, se aplicará una cuota.
 - Si no se presenta a la cita de examen ni reprograma o cancela la cita al menos 24 horas antes de la fecha programada, perderá la totalidad de la cuota desembolsada para el examen. Los días hábiles son de lunes a viernes, sin incluir los días festivos de carácter global.
 
-La reprogramación o cancelación de su cita programada para el examen se puede hacer a través del [Panel de certificación](https://aka.ms/certdashboard).
+## Cómo reprogramar o cancelar tu examen
+
+La reprogramación o cancelación de tu cita para el examen puede hacerse a través del Certification Dashboard.
+
+1. Inicia sesión en tu [Certification Dashboard.](https://aka.ms/CertDashboard)
+2. En la sección "Citas", busca la cita que quieres cancelar o reprogramar.
+3. Selecciona la opción "Anular/Reprogramar".
+4. Serás redirigido al sitio del proveedor de exámenes para cancelar o reprogramar tu examen.

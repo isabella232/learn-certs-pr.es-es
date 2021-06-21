@@ -25,7 +25,6 @@ roles:
 - functional-consultant
 products:
 - dynamics
-- dynamics-marketing
 exams:
 - uid: exam.mb-220
 summary: |-
@@ -34,18 +33,17 @@ summary: |-
   #### Perfil de audiencia
   Este curso está diseñado para profesionales de IT o de marketing que quieren aprender a aprovechar Dynamics 365 Marketing para empresas.
 prerequisitesSection: |-
-  Conocimiento de la plataforma Dynamics 365 y comprensión de los principios básicos de marketing.
+  Conocimiento de la plataforma Dynamics 365 y comprensión de los principios básicos de marketing. También se recomienda tener experiencia con Power Platform, especialmente en aplicaciones dirigidas por modelos.
 outlineSection: |-
   ### Módulo 1&#58; Configurar Dynamics 365 Marketing
-  En este módulo, aprenderá acerca de los ajustes avanzados, el contenido de marketing, las plantillas y las integraciones en Dynamics 365 for Marketing.
+  En este módulo, aprenderás a configurar tu instancia de Marketing y a configurar las opciones avanzadas.
   #### Lecciones
-  - Configurar ajustes de organización y administración
+  * Configurar y gestionar Dynamics 365 Marketing
   - Configurar ajustes de marketing
-  - Configurar ajustes de eventos
 
   Después de completar este módulo será capaz de&#58;
+  * Configurar tu aplicación de Marketing.
   - Configurar ajustes avanzados como organización, administración de negocios y contenido.
-  - Administrar el contenido y las plantillas de marketing.
   
   
   ### Module 2&#58; Manejar segmentos y listas
@@ -97,13 +95,13 @@ outlineSection: |-
   ### Module 6&#58; Manejar eventos
   Este módulo revisará el proceso de creación del recorrido del cliente.
   #### Lecciones
-  - Crear un evento en el sitio web
+  * Crear un evento
   - Crear un evento webinar
   - Promover y gestionar eventos
   
   Después de completar este módulo será capaz de&#58;
-  - Crear un evento webinar.
-  - Crear un evento en el sitio web.
+  * Crear un evento.
+  * Crear un evento webinar utilizando Teams como proveedor del webinar.
   - Promover un evento.
   - Administrar el sitio web del evento.
   - Configurar los parámetros del evento.

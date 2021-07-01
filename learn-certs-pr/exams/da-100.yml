@@ -6,7 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
 
   Los analistas de datos permiten a las empresas maximizar el valor de sus activos de datos mediante Microsoft Power BI. Como expertos en la materia, los analistas de datos son responsables de diseñar y construir modelos de datos escalables, limpiar y transformar datos, y habilitar capacidades analíticas avanzadas que brindan un valor comercial significativo a través de visualizaciones de datos fáciles de comprender. Los analistas de datos también colaboran con las partes interesadas clave en los mercados verticales para ofrecer información relevante basada en los requisitos comerciales identificados.
   <br/>
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
+- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Preparar los datos (20-25%)
 - Modelar los datos (25-30%)
 - Visualizar los datos (20-25%)

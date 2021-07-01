@@ -19,44 +19,57 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
 
 ## Cursos retirados: Formación impartida por instructor
 
+* Retirada de material didáctico el 30 de junio de 2021
+
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | inglés | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | inglés | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | inglés | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | inglés | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | inglés | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | japonés | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Coreano | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | Chino (simplificado) | 6/30/2021 |
+
 * Retirada de cursos el 31 de mayo de 2021
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
-    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
-    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
-    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | inglés | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | inglés | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | inglés | 5/31/2021 |
 
 * Retirada de cursos el 30 de abril de 2021
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- | 
-    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | inglés | 04/30/2021 |
 
 * Retirada de los cursos didacticos el 31 de marzo de 2021
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | inglés | 31/03/2021 |
-	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
-    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
-    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
-    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
-    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
-    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
-	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
-    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
-    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
-    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
-    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
-    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
-    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
-    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
-    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
-	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
-    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
-    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
-    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |    
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | japonés | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | japonés | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | japonés | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | japonés | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (japonés) | japonés | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (japonés) | japonés | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | inglés | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | inglés | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | inglés | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | inglés | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | inglés | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | inglés | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | inglés | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | inglés | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | inglés | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | inglés | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | inglés | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | inglés | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | inglés | 3/31/2021 |    
 
 
 * Courseware Retiro de 31 Diciembre de 2020
@@ -109,7 +122,7 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
     | AZ-301T02ZH | A | Designing a Data Platform Solution | Chino simplificado | 30/10/2020 |
     | AZ-301T02KO | A | Designing a Data Platform Solution | Coreano | 30/10/2020 |
     | AZ-301T02JA | A | Designing a Data Platform Solution | Japonés | 30/10/2020 |
-    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | English | 30/09/2020 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | inglés | 30/09/2020 |
     | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chino simplificado | 30/10/2020 |
     | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | coreano | 30/10/2020 |
     | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japonés | 30/10/2020 |

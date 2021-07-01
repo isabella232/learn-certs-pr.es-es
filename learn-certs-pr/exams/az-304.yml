@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad. Los candidatos deben de tener habilidades de nivel-intermedio parea poder administrar Azure. Los candidatos deben comprender el desarrollo del Azure y los procesos de DevOps.
   
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
+- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Diseñar monitoreo (10-15%)
 - Diseñar identidad y seguridad (25-30%)
 - Diseñar almacenamiento de datos (15-20%)

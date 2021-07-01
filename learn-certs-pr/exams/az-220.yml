@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el documento sobre la medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
 
   El Programador Azure IoT implementa la configuración y realiza las tareas de codificación necesarias para crear y mantener las partes de la cloud y del borde de una solución IoT. Además de configurar y mantener los dispositivos utilizando los servicios de la cloud, el Programador IoT también configura los dispositivos físicos. El Programador IoT es responsable de mantener y solucionar los problemas de configuración de los dispositivos a lo largo de su ciclo de vida. 
   
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
+- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Establecer infraestructura de la solución IoT (10-15%)
 - Aprovisionar y gestionar dispositivos (15-20%)
 - Implementar IoT Edge (15-20%)

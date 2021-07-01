@@ -29,7 +29,7 @@ Con la plataforma Credly puedes
 - Learn which employers are looking for individuals with your skills.
 - Discover the salary you can expect in jobs that require your Microsoft skills.
 - Search for new job opportunities associated with your certification and apply in just a few clicks.
-- Explorar las perspectivas del mercado laboral y las oportunidades de empleo. Mira este vídeo: [Credly: Labor market insights](https://vimeo.com/379867308) para ver lo fácil que es descubrir rápidamente las oportunidades en tu mercado.
+- Explora las perspectivas del mercado laboral y las oportunidades de empleo. Mira este vídeo: [Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) para ver lo fácil que es descubrir rápidamente las oportunidades en tu mercado.
 
 Para aprender más, consulta las publicaciones de nuestro blog [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -48,7 +48,7 @@ _*Por favor, ten en cuenta que este enlace te llevará a Credly, un tercero cuya
 
 ## Cómo aceptar automáticamente las insignias de Credly
 
-En la plataforma Acclaim de Credly, ajusta la configuración de tu cuenta para que acepte automáticamente las insignias que te hayan sido emitidas. Mira este proceso paso a paso en el vídeo de Acclaim "[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)" Ten en cuenta que, aunque el vídeo muestra las notificaciones por correo electrónico de las insignias procedentes de Acclaim, tus notificaciones por correo electrónico procederán de Microsoft.
+Desde la plataforma Credly, ajusta la configuración de tu cuenta para que acepte automáticamente las insignias que se te emitan. Mira este proceso paso a paso en el vídeo de Credly “[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)” Ten en cuenta que mientras el vídeo muestra las notificaciones de correo electrónico de la insignia procedentes de Credly, tus notificaciones de correo electrónico procederán de Microsoft.
 
 ## Cómo compartir tu insignia
 
@@ -66,7 +66,7 @@ Después de reclamar tu insignia de Microsoft Certification, para compartirla y 
 Emitimos insignias para todos los exámenes activos y certificaciones en el programa de certificación de Microsoft con las siguientes excepciones:
 
 - En los casos en que aprobar un examen implique una certificación, se emite una insignia para la certificación en lugar del examen.
-- Las insignias no están disponibles para algunos de nuestros exámenes y certificaciones heredados. Si no ve una insignia para un examen o certificación heredada en su perfil Acclaim, no emitimos una para ese examen o certificación.
+- Las insignias no están disponibles para algunos de nuestros exámenes y certificaciones antiguos. Si no ves una insignia para un examen o certificación antigua en tu perfil de Credly, no hemos emitido ninguna para ese examen o certificación.
 
 Si has conseguido una insignia para un examen o certificación que se ha retirado, todavía puedes reclamar tu insignia a través de la plataforma de Credly.
 
@@ -78,7 +78,7 @@ No. Es un servicio gratuito que proporciona Microsoft.
 
 **¿Cómo se muestran mis credenciales en mi insignia de Microsoft?**
 
-La plataforma de Credly utiliza los estándares de Open Badges definidos por Mozilla para traducir tu credencial en una imagen digital asociada a metadatos conectados de forma única contigo. Este estándar le permite compartir fácilmente su credencial digital en línea de manera que los empleadores y otras personas interesadas en sus habilidades puedan verificarlo.
+La plataforma de Credly utiliza los estándares de Open Badges definidos por IMS Global para traducir tu credencial en una imagen digital asociada a metadatos conectados de forma exclusiva contigo. Este estándar te permite compartir fácilmente tu insignia digital online de forma que pueda ser verificada por los empleadores y otras personas interesadas en tus habilidades.
 
 **Mi insignia más reciente tiene un aspecto diferente a las que he logrado anteriormente. ¿Qué ha cambiado?**
 
@@ -92,7 +92,7 @@ Tú tienes el control de cómo y cuándo se hace pública tu insignia. Puedes aj
 
 Visita: [Soporte técnico para certificaciones](/learn/certifications/help).
 
-Si tienes alguna pregunta sobre la plataforma Credly o sobre cómo reclamar tu insignia, ponte en contacto con [soporte técnico de Credly](https://support.youracclaim.com/)
+Si tienes alguna pregunta sobre la plataforma Credly o acerca de cómo reclamar tu insignia, consulta los recursos en el [Centro de Ayuda Credly](https://support.credly.com/hc/en-us) o [envía una solicitud de ayuda](https://support.credly.com/hc/en-us/requests/new)
 
 **¿Qué pasa si he conseguido una insignia de Microsoft a través de Certiport pero aún no he recibido mi insignia?**
 

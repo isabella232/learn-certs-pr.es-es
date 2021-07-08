@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Administrator Associate (Legado)'
+metadata:
+  title: 'Microsoft Certified: Azure Administrator Associate (Legado)'
+  description: 'Los administradores de Azure implementan, administran y supervisan el entorno de Microsoft Azure de una organización'
+uid: certification.azure-administrator-legacy
+certificationRenewalUid: renewal.azure-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Esta versión de la certificación ya no está disponible. Si tiene esta versión de la certificación, se le otorgará automáticamente la última versión de la misma.
+  
+  Las dos versiones de la certificación se enumerarán en sus certificaciones. Solo tiene que renovar la última versión. Cuando caduque la versión anterior, pasará a la sección de historial de certificación de su expediente académico.
+  
+  Los candidatos a la certificación de Asociado Administrador de Azure deben tener experiencia en la materia, implementar, administrar y supervisar el entorno Microsoft Azure de una organización.
+  
+  Las responsabilidades para este rol incluyen implementar, administrar y supervisar la identidad, gobernanza, almacenamiento, procesos y redes virtuales en un entorno de nube, más provisión, tamaño, supervisión y ajuste de recursos, cuando sea necesario.
+  
+  Un administrador de Azure a menudo sirve como parte de un equipo más grande dedicado a implementar la infraestructura en la nube de su organización.
+  
+  Un candidato para esta certificación debe tener al menos seis meses de experiencia práctica en la administración de Azure, junto con una sólida comprensión de los servicios centrales de Azure, las cargas de trabajo de Azure, la seguridad y el gobierno. Además, este rol debe tener experiencia en el uso de PowerShell, la CLI de Azure, el portal de Azure y las plantillas de Azure Resource Manager.
+subTitle: Los administradores de Azure implementan, administran y supervisan el entorno de Microsoft Azure de una organización.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate 
+skills:
+- Ninguno 
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+courses:
+- uid: course.az-104t00
+- uid: course.az-010t00
+paths:
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
+exams:
+- uid: exam.az-103
+- uid: exam.az-100
+- uid: exam.az-101
+resources:
+- title: Azure certifications poster
+  description: Consulte una descripción general que incluye certificaciones básicas, basadas en roles y especializadas para Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Recorrido a la certificación
+  description: Explore los pasos para obtener la certificación de Azure Administrator Associate y los recursos disponibles para ayudarlo a prepararse.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Comparta sus insignias de certificación
+  description: Celebre su logro con sus contactos. Solicite su insignia de Microsoft Certification y agréguela a LinkedIn, su hoja de vida y más.
+  href: badges.md
+

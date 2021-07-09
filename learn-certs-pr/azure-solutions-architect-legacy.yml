@@ -7,7 +7,7 @@ uid: certification.azure-solutions-architect-legacy
 certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color="#D83B01">Esta versión de la certificación ya no está disponible. Si tiene esta versión de la certificación, se le otorgará automáticamente la última versión de la misma.<br/><br/>  Las dos versiones de la certificación se enumerarán en sus certificaciones. Solo tiene que renovar la última versión. Cuando caduque la versión anterior, pasará a la sección de historial de certificación de su expediente académico.<br/><br/></font></div>
+  <div><font color="#D83B01"><strong>Esta versión de la certificación ya no está disponible. Si tiene esta versión de la certificación, se le otorgará automáticamente la última versión de la misma.<br/><br/>  Las dos versiones de la certificación se enumerarán en sus certificaciones. Solo tiene que renovar la última versión. Cuando caduque la versión anterior, pasará a la sección de historial de certificación de su expediente académico.<br/><br/></strong></font></div>
   
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad. Candidatos deben tener conocimientos a nivel intermedio para administrar Azure. Candidatos deben entender el desarrollo de Azure y los procesos de DevOps.
 

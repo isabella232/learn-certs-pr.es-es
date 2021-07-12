@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diseñar redes virtuales en Azure con múltiples subredes para filtrar y controlar el tráfico de red.
+- skill: Crear una red virtual y aprovisionar subredes.
+- skill: Crear tablas de rutas con rutas necesarias.
+- skill: Construir una casilla de salto de administración.
+- skill: Configurar cortafuegos para controlar el flujo de tráfico.
+- skill: Configurar la conectividad de sitio a sitio.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  En este taller, aprenderás a instalar y configurar una solución de identidad híbrida que integre una solución de identidad existente en las instalaciones con Azure. Aprenderás a proteger la red virtual implementando un dispositivo virtual de red y a configurar reglas de cortafuegos y tablas de rutas. Además, configurarás el acceso a la red virtual con una casilla de salto y una conexión VPN de sitio a sitio.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los Cloud Architects y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en las tecnologías cloud y quieren aprender más sobre Azure y los servicios de Azure, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas".  Los asistentes a este taller también deben tener experiencia en otras tecnologías en cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y desear una formación cruzada en Azure.
+prerequisitesSection: |-
+  El contenido del taller presupone un nivel 300 de conocimientos arquitectónicos de diseño de infraestructuras y soluciones. Sugerimos a los estudiantes que realicen este prerrequisito antes de asistir a este taller.
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - Identidad híbrida
+  En este taller, aprenderás a instalar y configurar una solución de identidad híbrida que integre una solución de identidad existente en las instalaciones con Azure. Aprenderás a asegurar la red virtual implementando un dispositivo virtual de red y a configurar reglas de cortafuegos y tablas de rutas. Además, configurarás el acceso a la red virtual con una casilla de salto y una conexión VPN de sitio a sitio.
+  #### Lecciones
+  - Repasar el caso de estudio del cliente
+  - Diseñar una solución de prueba de concepto
+  - Presentar la solución
+
+
+  ### Módulo 2&#58; Laboratorio práctico - Identidad híbrida
+  En este laboratorio práctico, establecerás y configurarás diferentes escenarios de identidad híbrida. Los escenarios implican un bosque de dominio único de Active Directory llamado contoso.local, que en este entorno de laboratorio, consiste (por razones de simplicidad) en un único controlador de dominio llamado DC1 y un único servidor miembro del dominio llamado APP1. La intención es explorar las capacidades relacionadas con Azure AD que te permiten integrar Active Directory con Azure Active Directory, optimizar la autenticación y la autorización híbridas y proporcionar un acceso seguro a los recursos locales desde Internet, tanto para los usuarios de la organización como para los usuarios que son miembros de organizaciones asociadas.
+  #### Lecciones
+  - Integrar un Active Directory Forest con un inquilino Azure Active Directory.
+  - Gestionar Autenticación, Autorización y Control de Acceso en Escenarios Híbridos.
+  - Configurar el acceso a las aplicaciones en escenarios híbridos.

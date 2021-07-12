@@ -1,0 +1,272 @@
+### YamlMime:Course
+title: Building web apps with Angular and TypeScript
+metadata:
+  title: 'Course 55266-A: Building web apps with Angular and TypeScript'
+  description: 'Course 55266-A: Building web apps with Angular and TypeScript'
+uid: course.55266
+courseNumber: '55266-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar y escribir una aplicación con TypeScript.
+- skill: Crear y gestionar aplicaciones Angular.
+- skill: Utilizar la vinculación de datos para actualizar tu pantalla.
+- skill: Dividir interfaces complejas en componentes.
+- skill: Escribir sus propias directivas y canalizaciones.
+- skill: Crear formularios complejos con validación.
+- skill: Comunicarse con un backend REST.
+- skill: Escribir una Aplicación de Página Única con enrutamiento del lado del cliente.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Desde hace unos años, se ha hecho un gran esfuerzo para que el HTML y el JavaScript sirvan para las aplicaciones web y no sólo para el contenido web. Con Angular, puedes explotar estos nuevos y modernos conceptos para pasar al siguiente nivel. Al utilizar un enfoque componentizado, Angular está mejor equipado que nunca para construir aplicaciones web basadas en datos de alto rendimiento. Mientras que Angular se encarga de la vinculación de datos, la navegación y la comunicación con el servidor, TypeScript te permite utilizar las características más avanzadas que ofrece JavaScript en cualquier navegador. Características como la escritura fuerte hacen que tu aplicación sea más fácil de mantener, mejor estructurada y más flexible. Este curso se actualiza constantemente a la última versión de Angular, actualmente Angular 6. Disfruta de esta hermosa sinergia entre Angular de Google y TypeScript de Microsoft.
+
+  #### Perfil del asistente
+  Este curso está dirigido a programadores web profesionales que buscan iniciarse en el mundo de Angular y TypeScript. Los participantes en este curso deben tener un buen conocimiento de JavaScript, HTML y CSS y una noción de node.js y npm.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Un buen conocimiento de JavaScript.
+  - Conocimientos básicos de HTML y CSS.
+  - Al menos nociones de node.js y npm.
+  Un IDE para desarrollo web como Visual Studio Code o WebStorm.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Angular
+  En este módulo verás de qué trata Angular y por qué es tan importante en el desarrollo web moderno.
+  #### Lecciones
+  - Evolución en el Desarrollo de Aplicaciones Web
+  - Angular Core y Módulos
+  - TypeScript, Dart y el tradicional JavaScript
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Comprender las tecnologías de UI web modernas y el rol que desempeñan en el desarrollo moderno.
+
+
+  ### Módulo 2&#58; Escritura Fuerte JavaScript con TypeScript
+  Reconozcámoslo&#58; JavaScript nunca fue diseñado para grandes aplicaciones. Muchas construcciones para domar el código complejo, como las interfaces y la escritura fuerte, están completamente ausentes. Y muchas de las nuevas y geniales características de JS no están implementadas en los navegadores actuales. TypeScript es la solución a ambos problemas, permitiéndote escribir JavaScript moderno a escala de aplicación.
+  #### Lecciones
+  - Escribir JavaScript a escala de aplicación
+  - Type-Safe JavaScript con TypeScript
+  - Implementación de Entornos, Clases y Herencia
+  - Espacios de Nombres y Módulos
+
+
+  #### Laboratorio &#58; Tienda de Juguetes
+  - Iniciar un proyecto TypeScript
+  - Crear los modelos&#58; Producto, Categoría, Pedido
+  - Crear el Carrito de la Compra
+  - Utilizar una biblioteca externa
+  - Añadir el código a la página HTML
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Conocer las ventajas de TypeScript
+  - Utilizar las características principales de TypeScript
+  - Configurar un nuevo proyecto TypeScript
+  - Compilar y ejecutar un proyecto TypeScript
+
+  ### Módulo 3&#58; Conceptos Básicos
+  En este módulo te familiarizarás con los bloques de construcción más importantes para cualquier aplicación Angular.
+  Es la base de todos los capítulos siguientes.
+  #### Lecciones
+  - Componentes
+  - Módulos
+  - Servicios
+  - Herramientas
+
+
+  #### Laboratorio &#58; Inspección de un Primer Proyecto
+  - Abrir y ejecutar el proyecto
+  - Elementos de una aplicación
+  - Cargar Módulos
+  - tsconfig.json
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el objetivo de los Componentes y Servicios.
+  - Agrupar Componentes y Servicios en Módulos.
+  - Trabajar con las herramientas Angular.
+
+  ### Módulo 4&#58; Vinculación de datos
+  La vinculación de datos te permite olvidarte del HTML mientras escribes código JavaScript. Te permite inyectar datos en una vista sin crear una fuerte dependencia entre ambos. El resultado es un código más flexible, verificable y mantenible.
+  #### Lecciones
+  - La importancia de Vincular
+  - Componente a Vista
+  - Directivas Estructurales
+  - Variables Locales de Plantilla
+  - Conversión de Valores
+  - Vista a Componente
+
+
+  #### Laboratorio &#58; Gestor de Tareas con Vinculación de Datos
+  - Módulos
+  - Mostrar una lista de tareas
+  - Estilo
+  - Añadir una tarea
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear y actualizar una vista utilizando la vinculación de datos.
+  - Manejar las interacciones del usuario en un componente.
+  - Referirse a elementos con variables locales de plantilla.
+  - Utilizar canalizaciones para la conversión de valores.
+
+  ### Módulo 5&#58; Componentes
+  En este módulo profundizaremos un poco más en los Componentes. Aprenderás a crear una jerarquía de
+  componentes y a cómo comunicar entre ellos.
+  #### Lecciones
+  - Utilizar Múltiples Componentes
+  - Entrada y Salida
+  - ViewChild y ContentChild
+  - EventEmitter
+  - Ciclo de Vida Directiva
+
+
+  #### Laboratorio &#58; Gestor de Tareas&#58; Utilizar Múltiples Componentes
+  - Añadir un poco de estilo
+  - Componente TaskCreator
+  - Componente TaskCard
+  - Componente TaskList
+  - Componente de aplicaciones
+  - Inscribir componentes
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Dividir componentes complejos en múltiples componentes
+  - Establecer la comunicación padre-hijo
+  - Trabajar con varios ganchos de ciclo de vida
+
+  ### Módulo 6&#58; Directivas de Atributos
+  ¿Qué pasa si quieres añadir un comportamiento personalizado a un elemento existente? En este módulo explorarás las directivas existentes como NgClasses y NgStyle; y aprenderás a construir las tuyas propias.
+  #### Lecciones
+  - ¿Qué son las Directivas de Atributos?
+  - Directivas de Atributos incorporadas
+  - Directivas de Atributos Personalizadas
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el rol de las directivas de atributos.
+  - Utilizar las directivas de atributos incorporadas.
+  Crear tus propias directivas de atributos.
+
+  ### Módulo 7&#58; Directivas Estructurales
+  Con las directivas estructurales puedes cambiar el flujo de tu HTML. Por ejemplo, ¿cómo generar HTML dinámicamente en función de tus datos sin tener que escribir HTML en tu JavaScript?
+  #### Lecciones
+  - ¿Qué son Directivas Estructurales?
+  - Directivas Estructurales incorporadas
+  - Plantillas
+  - Directivas Estructurales Personalizadas
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el rol de las directivas estructurales.
+  - Utilizar directivas estructurales incorporadas.
+  - Crear tus propias directivas estructurales.
+
+
+  ### Módulo 8&#58; Inyección de Dependencias y Providers
+  Dependency Injection (DI) es el arte de tomar dos objetos fuertemente acoplados y separarlos. Esto te ayuda a escribir un código comprensible, mantenible y comprobable. Tampoco es una opción en Angular&#58; tienes que hacerlo tú. Angular dispone de todo un mecanismo basado en Providers para apoyar al DI, que explorarás en este módulo.
+  #### Lecciones
+  - Terminología
+  - Conceptos básicos de Dependency Injection
+  - Servicios
+  - Proveedores
+  - Fábricas
+  - Fichas de inyección
+
+
+  #### Laboratorio &#58; Creación de un Servicio de Tareas
+  - Implementación del servicio
+  - Proporcionar el servicio
+  - Actualizar el AppComponent
+  - Sustitución del servicio simulado por un servicio real
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear sus propios servicios.
+  - Trabajar con los distintos proveedores en Angular.
+  - Inyectar servicios dentro de componentes y otros servicios.
+
+
+  ### Módulo 9&#58; Canalizaciones
+  Las canalizaciones son una forma cómoda de realizar pequeños cambios en los valores de una vista. Esto incluye el formateo y el filtrado de los datos. Es fácil utilizar y ampliar las posibilidades de las canalizaciones.
+  #### Lecciones
+  - Utilizar una Canalización
+  - Canalizaciones Integradas
+  - Canalizaciones Personalizadas
+  - Puro vs. Impuro
+
+
+  #### Laboratorio &#58; Canalización de la temperatura
+  - Crea una canalización para mostrar las temperaturas en grados Kelvin, Celsius y Farenheit
+  - Utiliza tu canalización recién creada
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar canalizaciones integradas.
+  - Crear sus propias canalizaciones.
+  - Comprender la importancia de las canalizaciones puras.
+
+
+  ### Módulo 10&#58; Trabajar con Formularios
+  Los formularios son esenciales para cualquier aplicación que te permita gestionar datos. Necesitan hacer algo más que la simple vinculación de datos. Necesitas validación, formato automático, responder a los cambios de datos, etc. Angular proporciona dos enfoques diferentes para tratar esto&#58; los formularios controlados por plantillas y los formularios controlados por modelos. Este módulo explorará ambos.
+  #### Lecciones
+  - Qué hay en un Formulario
+  - Responder a los Cambios
+  - Constructor de Formulario
+  - Validación de Datos
+
+
+  #### Laboratorio &#58; Formulario del Editor de Tareas
+  - El componente TaskEditor
+  - Validación Básica
+  - Validadores Múltiples
+  - Validadores Personalizados
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Elegir entre formularios controlados por plantillas y formularios controlados por modelos.
+  - Crear un formulario y enviar la información.
+  - Añadir validación y feedback visual.
+
+
+  ### Módulo 11&#58; Hablar con el servidor
+  Este módulo te enseñará a recuperar y enviar datos a tu backend. Nos centraremos en REST y utilizaremos RxJS Observables para hacer el trabajo.
+  #### Lecciones
+  - Enviar y Recibir Datos
+  - Módulo HTTPClient
+  - Interceptores HTTP 
+  - Observables vs. Promises
+
+
+  #### Laboratorio &#58; Trabajar con Observables
+  - Actualiza Componentes que trabajan con observables
+
+
+  #### Laboratorio &#58; Hablar con el Servidor
+  - Proporcionar el Módulo HttpClient
+  - Implementar el Servicio HTTP
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con HttpClient para realizar llamadas REST.
+  - Procesar el resultado con observables.
+
+
+  ### Módulo 12&#58; Construir una Aplicación de Página Única
+  En lugar de saltar de una página a otra, puedes diseñar tu sitio web como una aplicación de una sola página. Esto hace que tu sitio web se sienta y funcione más como una aplicación. Las SPA tienen muchas ventajas, pero suelen ser difíciles de implementar. Este módulo enseñará acerca de las construcciones disponibles en Angular para construir una SPA.
+  #### Lecciones
+  - Qué es una SPA
+  - Módulo de Enrutamiento
+  - Configuración de Rutas
+  - Navegación Padre-Hijo
+  - Guards
+
+
+  #### Laboratorio &#58; 7Construir una SPA&#58; Rabbit Rescue
+  - Sustituir el HTML estático por componentes y plantillas
+  - Configurar el enrutamiento por área de características
+  - Vincular el área de características con el área raíz
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear una aplicación de una sola página.
+  - Crear áreas de características.
+  - Configurar el enrutamiento por característica.
+  - Interceptar la navegación con guards.
+
+  #### Lecturas adicionales
+  Ninguno

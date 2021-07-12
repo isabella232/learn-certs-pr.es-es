@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Advanced Microsoft Word 2019
+metadata:
+  title: 'Course 55274-A: Advanced Microsoft Word 2019'
+  description: 'Course 55274-A: Advanced Microsoft Word 2019'
+uid: course.55274
+courseNumber: '55274-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a trabajar con tablas de contenido.
+- skill: Aprender a trabajar con notas a pie de página y notas finales.
+- skill: Aprender a insertar bibliografías e índices.
+- skill: Aprender a utilizar comentarios.
+- skill: Aprender a utilizar el seguimiento de cambios, incluyendo la aceptación y el rechazo de los mismos.
+- skill: Aprender a comparar y combinar documentos.
+- skill: Aprender a utilizar Mail Merge y crear sobres y etiquetas.
+- skill: Aprender a proteger documentos.
+- skill: Aprender a utilizar los marcadores, añadir marcas de agua y personalizar la Cinta de Opciones.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  En esta clase de formación de Microsoft Word 2019, los estudiantes aprenden técnicas avanzadas, tales como trabajar con tablas de contenido, notas a pie de página y notas finales, añadir comentarios, hacer un seguimiento de los cambios, comparar y combinar documentos, crear sobres y etiquetas, utilizar Mail Merge y proteger los documentos. Esta clase es para Word 2019 en Windows.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que tienen habilidades intermedias con Microsoft Word 2019 y que quieren aprender habilidades más avanzadas o a estudiantes que quieren aprender los temas tratados en este curso en la interfaz de 2019.
+prerequisitesSection: |-
+  - Experiencia de nivel intermedio en Microsoft Word.
+outlineSection: |-
+  ### Módulo 1&#58; Trabajar con Documentos Largos
+  Este módulo explica cómo trabajar con documentos largos en Microsoft Word.
+  #### Lecciones
+  - Añadir una Tabla de Contenidos
+  - Actualizar la Tabla de Contenidos
+  - Borrar la Tabla de Contenidos
+  - Notas a Pie de Página y Notas Finales
+  - Insertar Citaciones y una Bibliografía
+  - Añadir un Índice
+  - Insertar una Tabla de Figuras
+  - Insertar y Actualizar una Tabla de Autoridades
+  - Crear un Esquema
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Documentos Largos
+  - Insertar y Actualizar una Tabla de Contenidos
+  - Trabajar con Notas a Pie de Página
+  - Insertar Citaciones y una Bibliografía
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir una tabla de Contenidos a un documento de Microsoft Word.
+  - Actualizar la tabla de Contenidos.
+  - Añadir notas a pie de página a un documento de Microsoft Word.
+  - Añadir notas al final de un documento de Microsoft Word.
+  - Insertar citas en un documento de Microsoft Word.
+  - Insertar una bibliografía.
+  - Actualizar la bibliografía.
+  - Marcar entradas en un documento.
+  - Insertar un índice en un documento de Microsoft Word.
+  - Crear un esquema en Word.
+
+
+  ### Módulo 2&#58; Revisar y Colaborar en Documentos
+  Este módulo explica cómo revisar y colaborar en documentos de Microsoft Word.
+  #### Lecciones
+  - Añadir Comentarios
+  - Seguimiento de Cambios
+  - Ver Cambios, Adiciones y Comentarios
+  - Aceptar y Rechazar Cambios
+
+
+  #### Laboratorio &#58; Ejercicios de repaso y colaboración
+  - Añadir Comentarios a un Documento
+  - Seguimiento de Cambios
+  - Ver el Marcado
+  - Aceptar y Rechazar Cambios
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir y trabajar con comentarios.
+  - Seguir los cambios y establecer y cambiar las opciones de seguimiento.
+  - Ver los cambios, adiciones y comentarios.
+  - Utilizar el panel de Repaso.
+  - Elegir qué cambios mostrar.
+  - Aceptar y rechazar cambios.
+
+
+  ### Módulo 3&#58; Comparar y Combinar Documentos
+  Este módulo explica cómo comparar y combinar documentos en Microsoft Word.
+  #### Lecciones
+  - Comparar Documentos
+  - Combinar Documentos
+
+
+  #### Laboratorio &#58; Ejercicios de Comparación y Combinación de Documentos
+  - Comparación de Documentos
+  - Combinar Documentos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Comparar documentos para averiguar lo que ha cambiado entre las distintas versiones de un documento.
+  Combinar documentos para reunir las revisiones realizadas por varias personas en un único documento.
+
+  ### Módulo 4&#58; Gestionar Envíos de Correo
+  Este módulo explica cómo gestionar los envíos de correo en Microsoft Word.
+  #### Lecciones
+  - Crear Sobres y Etiquetas
+  - Utilizar Mail Merge
+
+
+  #### Laboratorio &#58; Ejercicios de Gestión de Envíos de Correo
+  - Imprimir un Sobre
+  - Utilizar Mail Merge
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear e imprimir sobres en Microsoft Word.
+  - Crear e imprimir etiquetas en Microsoft Word.
+  - Utilizar Mail Merge para imprimir o enviar por correo electrónico cartas modelo a varios destinatarios.
+  Seleccionar los destinatarios de Mail Merge a partir de una lista existente
+
+  ### Módulo 5&#58; Proteger Documentos
+  Este módulo explica cómo proteger los documentos en Microsoft Word.
+  #### Lecciones
+  - Hacer que los Documentos de Word sean de Sólo Lectura
+  - Proteger con Contraseña Documentos de Word
+  - Eliminar Metadatos de Archivos
+  - Restringir el Formateo y la Edición
+
+
+  #### Laboratorio &#58; Proteger un Documento
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Marcar los documentos como definitivos y hacerlos de sólo lectura.
+
+  - Protege con contraseña documentos de Microsoft Word.
+  - Restringe las opciones de formateo antes de compartir un documento con otros.
+  - Restringir las opciones de edición antes de compartir un documento con otros
+
+  ### Módulo 6&#58; Elementos Útiles Aleatorios
+  Este módulo repasa varias funciones útiles y aleatorias de Microsoft Word.
+  #### Lecciones
+  - Utilizar Marcadores
+  - Añadir Marcas de Agua
+  - Añadir Títulos a Secciones
+  - Insertar Campos Incorporados
+  - Utilizar la Función Ir a
+  - Utilizar Macros
+  - Copiar Macros de un Documento a otro
+  - Seguridad de Macros
+  - Grabar una Macro
+  - Asignar Teclas de Acceso Rápido
+  - Personalizar la Cinta de Opciones
+  - Preparar un Documento para la Internacionalización y la Accesibilidad
+  - Compartir
+
+
+  #### Laboratorio &#58; Ejercicios de Elementos Útiles Aleatorios
+  - Utilizar Marcadores
+  - Añadir Marcas de Agua Personalizadas
+  - Grabar una Macro
+  - Personalizar la Cinta de Opciones
+  - Utilizar la Cloud
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir marcadores a un documento de Microsoft Word y utilizarlos para desplazarse por el documento.
+  - Añadir marcas de agua a un documento de Microsoft Word.
+  - Añadir títulos a secciones.
+  - Insertar campos integrados.
+  - Utilizar la función Ir A.
+  - Personalizar la cinta de opciones.
+  - Preparar un documento para su internacionalización y accesibilidad.
+  - Aprender a utilizar la Cloud
+
+  #### Lectura adicional
+  N/D

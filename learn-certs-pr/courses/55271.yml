@@ -1,0 +1,277 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2019
+metadata:
+  title: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+  description: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+uid: course.55271
+courseNumber: '55271-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crear hojas de trabajo básicas utilizando Microsoft Excel 2019.
+- skill: Realizar cálculos en una hoja de cálculo de Excel.
+- skill: Modificar una hoja de cálculo de Excel.
+- skill: Modificar la apariencia de los datos dentro de una hoja de cálculo.
+- skill: Gestionar libros de Excel.
+- skill: Imprimir el contenido de una hoja de Excel
+- skill: Aprender a utilizar las funciones prácticas introducidas en 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  En esta clase de formación de Introduction to Microsoft Excel 2019, los estudiantes crearán y editarán hojas de trabajo y libros de trabajo básicos. Este curso está diseñado para estudiantes que quieran adquirir las habilidades necesarias para crear, editar, formatear e imprimir hojas de trabajo básicas en Microsoft Excel 2019.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que están poco o nada familiarizados con Microsoft Excel 2019 o a usuarios más experimentados de Excel que quieran aprender los temas tratados en este curso en la interfaz 2019.
+outlineSection: |-
+  ### Módulo 1&#58; Crear un libro de trabajo de Microsoft Excel
+  Este módulo explica cómo crear y empezar a trabajar con libros y hojas de trabajo.
+  #### Lecciones
+  - Iniciar Microsoft Excel
+  - Crear un Libro de Trabajo
+  - Guardar un Libro de Trabajo
+  - La Barra de Estado
+  - Añadir y Eliminar Hojas de Trabajo
+  - Copiar y Mover Hojas de Trabajo
+  - Cambiar el Orden de las Hojas de Trabajo
+  - Dividir la Ventana de la Hoja de Trabajo
+  - Cerrar un Libro de Trabajo
+
+
+  #### Laboratorio &#58; Crear un Libro de Trabajo de Microsoft Excel
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Iniciar Microsoft Excel.
+  - Crear un libro de trabajo de Microsoft Excel.
+  - Guardar un libro de trabajo de Microsoft Excel.
+  - Comprender la Barra de Estado.
+  - Añadir y eliminar hojas de trabajo de Microsoft Excel.
+  - Copiar y mover hojas de trabajo.
+  - Dividir la ventana de la hoja de trabajo.8. Para cerrar un libro de trabajo de Microsoft
+
+
+  ### Módulo 2&#58; La Cinta de Opciones
+  Este módulo explica cómo trabajar con la cinta de opciones.
+  #### Lecciones
+  - Pestañas
+  - Grupos
+  - Comandos
+
+
+  #### Laboratorio &#58; Ejercicios de la Cinta de Opciones
+  - Abrir un Libro de Trabajo
+  - Seleccionar, a Abrir y Guardar una Plantilla de Agenda
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con pestañas.
+  - Trabajar con grupos.
+  - Trabajar con comandos.
+  - Saber qué grupos y comandos se encuentran en cada pestaña.
+
+
+  ### Módulo 3&#58; La Vista Backstage (El Menú Archivo)
+  En este módulo se explica cómo trabajar con la vista Backstage.
+  #### Lecciones
+  - Introducción a la Vista Backstage
+  - Abriendo un Libro de Trabajo
+  - Abrir un Libro de Trabajo
+  - Nuevos Libros de Trabajo y Plantillas Excel
+  - Seleccionar, Abrir y Guardar una Agenda de Plantillas
+  - Imprimir Hojas de Trabajo
+  - Imprimir una Hoja de Trabajo
+  - Añadir tu Nombre a Microsoft Excel
+  - Añadir un Tema a Microsoft Excel
+
+
+  #### Laboratorio &#58; Ejercicios de vista trasera
+  - Imprimir una Hoja de Trabajo
+  - Abrir un Libro de Trabajo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con la Vista Backstage.
+  - Abrir un libro de trabajo de Microsoft Excel.
+  - Iniciar un nuevo libro de trabajo de Microsoft Excel.
+  - Utilizar plantillas de Microsoft Excel.
+  - Imprimir un libro de trabajo de Microsoft Excel.
+  - Personalizar tu copia de Microsoft Excel
+
+  ### Módulo 4&#58; La Barra de Herramientas de Acceso Rápido
+  Este módulo explica cómo trabajar con la Barra de Herramientas de Acceso Rápido.
+  #### Lecciones
+  - Añadir Comandos Comunes
+  - Añadir Comandos Adicionales con el Cuadro de Diálogo de Personalización
+  - Añadir Comandos o Grupos de la Cinta de Opciones
+  - Colocación
+  - Personalizar la Barra de Herramientas de Acceso Rápido
+
+
+  #### Laboratorio &#58; Personalizar la Barra de Herramientas de Acceso Rápido
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir comandos comunes a la Barra de Herramientas de Acceso Rápido.
+  - Añadir comandos adicionales a la Barra de Herramientas de Acceso Rápido.
+  - Mover la Barra de Herramientas de Acceso Rápido.
+
+
+  ### Módulo 5&#58; Introducir Datos en Hojas de Trabajo de Microsoft Excel
+  Este módulo explica cómo introducir datos en hojas de cálculo de Microsoft Excel.
+  #### Lecciones
+  - Introducir Texto
+  - Añadir y Eliminar Celdas
+  - Añadir un Hipervínculo
+  - Añadir WordArt a una hoja de cálculo
+  - Utilizar AutoComplete
+  - Introducir Texto y Utilizar AutoComplete
+  - Introducir Números y Fechas
+  - Utilizar el Tirador de Relleno
+  - Introducir Números y Fechas
+
+
+  #### Laboratorio &#58; Ejercicios de Introducción de Datos
+  - Introducir Texto y utilizar AutoComplete
+  - Introducción de Números y Fechas
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Introducir texto en hojas de trabajo de Microsoft Excel.
+  - Añadir o eliminar celdas en las hojas de cálculo.
+  - Añadir un esquema para sus datos.
+  - Introducir un hipervínculo en una hoja de cálculo.
+  - Utilizar AutoComplete.
+  - Introducir números y fechas en hojas de trabajo de Microsoft Excel.
+  - Utilizar el Tirador de Relleno para añadir datos a las celdas.
+
+
+  ### Módulo 6&#58; Formatear Hojas de Trabajo de Microsoft Excel
+  Este módulo explica cómo formatear las hojas de trabajo de Microsoft Excel.
+  #### Lecciones
+  - Seleccionar Rangos de Celdas
+  - Ocultar Hojas de Trabajo
+  - Añadir Color a las Pestañas de las Hojas de Trabajo
+  - Añadir Temas a los Libros de Trabajo
+  - Personalizar un Libro de Trabajo Utilizando Colores de Pestañas y Temas
+  - Añadir una Marca de Agua
+  - El Grupo de Fuentes
+  - Trabajar con Comandos de Grupo de Fuentes
+  - El Grupo de Alineación
+  - Trabajar con Comandos del Grupo de Alineación
+  - El Grupo de Números
+  - Trabajar con Comandos del Grupo de Números
+
+
+  #### Laboratorio &#58; Ejercicios de Formateo de Hojas de Trabajo
+  - Personalizar un Libro de Trabajo Utilizando Colores de Pestañas y Temas
+  - Trabajar con Comandos de Grupo de Fuentes
+  - Trabajar con Comandos de Grupo de Alineación
+  - Trabajar con Comandos de Grupo de Números
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Comprender las distintas formas de formatear las hojas de trabajo de Microsoft Excel.
+  - Seleccionar un rango de celdas dentro de una hoja de cálculo.
+  - Ocultar hojas de trabajo.
+  - Añadir color a las pestañas del libro de trabajo.
+  - Añadir temas a las hojas de trabajo.
+  - Poner en negrita, cursiva y subrayar el texto.
+  - Añadir bordes a las celdas.
+  - Cambiar los colores del texto y de las celdas.
+  - Cambiar la fuente y el tamaño de la fuente.
+  - Alinear el texto.
+  - Envolver el texto.
+  - Aplicar sangría al texto.
+  - Combinar y centrar el texto.
+  - Cambiar formatos de números.
+  - Cambiar formatos de fecha.
+  - Mostrar decimales.
+
+
+  ### Módulo 7&#58; Utilizar Fórmulas en Microsoft Excel
+  Este módulo explica cómo trabajar con fórmulas en Microsoft Excel.
+  #### Lecciones
+  - Operadores Matemáticos y el Orden de Operaciones
+  - Introducción a Fórmulas
+  - Autosuma (y otras autofórmulas comunes)
+  - Copiar Fórmulas y Funciones
+  - Referencias de Celdas Relativas, Absolutas y Mixtas
+  - Trabajar con Fórmulas
+
+
+  #### Laboratorio &#58; Trabajar con Fórmulas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender los operadores matemáticos y el orden de las operaciones en Excel.
+  - Introducir fórmulas básicas.
+  - Utilizar AutoSum para sumar datos con un solo clic.
+  - Comprender las referencias de celdas absolutas, relativas y mixtas.
+  - Copiar fórmulas y funciones.
+
+
+  ### Módulo 8&#58; Trabajar con Filas y Columnas
+  Este módulo explica cómo trabajar con filas y columnas en Microsoft Excel.
+  #### Lecciones
+  - Insertar Filas y Columnas
+  - Borrar Filas y Columnas
+  - Transponer Filas y Columnas
+  - Establecer el Alto de Fila y el Ancho de Columna
+  - Ocultar y Desocultar Filas y Columnas
+  - Congelar Paneles
+  - Trabajar con Filas y Columnas
+
+
+  #### Laboratorio &#58; Trabajar con Filas y Columnas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar filas y columnas en hojas de trabajo de Microsoft Excel.
+  - Eliminar filas y columnas en hojas de trabajo de Microsoft Excel.
+  - Transponer filas y columnas.
+  - Cambiar la altura de las filas.
+  - Cambiar la anchura de las columnas.
+  - Ocultar y desocultar filas y columnas.
+  - Congelar paneles.
+
+  ### Módulo 9&#58; Editar Hojas de Trabajo
+  Este módulo explica cómo editar hojas de trabajo en Microsoft Excel.
+  #### Lecciones
+  - Buscar
+  - Buscar y Reemplazar
+  - Utilizar Buscar y Reemplazar
+  - Utilizar el Portapapeles
+  - Utilizar el Pintor de Formatos
+  - Gestionar Comentarios
+
+
+  #### Laboratorio &#58; Ejercicios de Edición de Hojas de Trabajo
+  - Utilizar Buscar y Reemplazar
+  - Utilizar el Portapapeles
+  - Utilizar el Pintor de Formatos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Localizar información en su hoja de cálculo utilizando Buscar.
+  - Utilizar Buscar y Reemplazar para sustituir rápidamente los datos por otros.
+  - Utilizar los comandos Cortar, Copiar, Pegar y Copiar Formato para editar hojas de trabajo.
+  - Gestionar comentarios.
+
+
+  ### Módulo 10&#58; Finalizar Hojas de Trabajo de Microsoft Excel
+  Este módulo explica cómo finalizar las hojas de trabajo de Microsoft Excel.
+  #### Lecciones
+  - Establecer Márgenes
+  - Establecer la Orientación de la Página
+  - Configurar el Área de Impresión
+  - Escala de Impresión (Ajustar la Hoja a una Página)
+  - Imprimir Encabezados en Cada Página/Repetir Encabezados y Pies de Página
+  - Encabezados y Pies de Página
+  - Preparar la Impresión
+
+
+  #### Laboratorio &#58; Preparar la Impresión
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Establecer los márgenes en las hojas de trabajo de Microsoft Excel.
+  - Establecer la orientación de la página en vertical u horizontal.
+  - Establecer el área de impresión en una hoja de cálculo.
+  - Escalar una hoja de trabajo para que todos los datos se impriman en una sola página.
+  Añadir encabezados y pies de página a una hoja de cálculo.
+  
+  #### Lecturas adicionales
+  Para ayudarte a preparar esta clase, repasa los siguientes recursos&#58;
+  - N/D

@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Advanced Microsoft Outlook 2019
+metadata:
+  title: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+  description: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+uid: course.55278
+courseNumber: '55278-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a trabajar con tareas y notas.
+- skill: Aprender a trabajar con firmas y temas.
+- skill: Gestionar tu bandeja de entrada, incluyendo filtrado, creación de carpetas de búsqueda y archivo.
+- skill: Trabajar con varias cuentas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta clase de formación de Microsoft Outlook se basa en las habilidades básicas de Outlook y enseña a los estudiantes a trabajar con algunas de las características más avanzadas de Outlook.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que tienen habilidades básicas con Microsoft Outlook 2019 y que quieren aprender habilidades de nivel superior o a estudiantes que quieren aprender los temas tratados en este curso en la interfaz de 2019.
+prerequisitesSection: |-
+  Se requiere experiencia en lo siguiente para esta clase de Microsoft Outlook&#58;
+  - Familiaridad con Windows.
+  - Conocimiento de nivel introductorio de Outlook.
+outlineSection: |-
+  ### Módulo 1&#58; Trabajar con Tareas y Notas
+  Este módulo explica cómo trabajar con tareas y notas en Microsoft Outlook.
+  #### Lecciones
+  - Crear una Tarea
+  - Imprimir una Tarea
+  - Actualizar una Tarea
+  - Buscar Tareas
+  - Asignar una Tarea
+  - Responder a una Solicitud de Tarea
+  - Rastrear Tareas
+  - Cambiar Tu Vista de Tareas
+  - Trabajar con Notas
+
+
+  #### Laboratorio &#58; Trabajar con Tareas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cambiar la vista de las Tareas.
+  - Crear una tarea.
+  - Imprimir una tarea.
+  - Actualizar una tarea.
+  - Asignar una tarea.
+  - Buscar tareas.
+  - Responder a una solicitud de tarea.
+  - Rastrear tareas.
+  - Trabajar con notas.
+
+
+  ### Módulo 2&#58; Utilizar Firmas y Temas
+  Este módulo explica cómo utilizar firmas y temas.
+  #### Lecciones
+  - Crear una Firma
+  - Añadir Automáticamente una Firma a Mensajes
+  - Modificar una Firma
+  - Formatear Mensajes Salientes
+  - Crear y Aplicar un Tema
+
+
+  #### Laboratorio &#58; Añadir un Tema y una Firma a Tus Mensajes
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear una firma.
+  - Aprender a añadir automáticamente la firma a los mensajes de correo electrónico.
+  - Modificar una firma.
+  - Crear y aplicar un tema
+
+
+  ### Módulo 3&#58; Gestión de Tu Bandeja de Entrada
+  Este módulo explica cómo gestionar tu bandeja de entrada en Microsoft Outlook.
+  #### Lecciones
+  - Búsqueda de Mensajes
+  - Crear Carpetas de Búsqueda
+  - Ordenar Mensajes
+  - Añadir Nuevas Carpetas Locales
+  - Mover Mensajes entre Carpetas
+  - Agrupar Tus Elementos de Buzón de Correo
+  - Filtrar Mensajes
+  - Organizar Mensajes
+  - Crear y Gestionar Reglas
+  - Gestionar Tu Correo No Deseado
+  - Acrhivar Tus Mensajes
+  - Crear un Archivo de Datos de Outlook
+  - Crear un Paso Rápido
+  - Añadir Protección a Tus Mensajes de Salida
+  - Crear Respuestas Automáticas
+
+
+  #### Laboratorio &#58; Ejercicios de Gestión de Tu Bandeja de Entrada
+  - Organización de Tus Mensajes
+  - Gestión de Tu Correo Mediante la Creación de un Paso Rápido
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Buscar mensajes.
+  - Crear carpetas de búsqueda.
+  - Agrupar los elementos de su buzón.
+  - Filtrar mensajes.
+  - Organizar los mensajes.
+  - Gestionar su correo no deseado.
+  - Archivar sus mensajes.
+  - Crear un archivo de datos de Outlook.
+  - Crear un Paso Rápido para aplicar fácil y rápidamente múltiples acciones a correos electrónicos.
+  Añadir protección a los correos electrónicos salientes.
+
+  ### Módulo 4&#58; Trabajar con Múltiples Cuentas de Correo Electrónico
+  Este módulo explica cómo trabajar con múltiples cuentas de correo electrónico en Microsoft Outlook.
+  #### Lecciones
+  - Configuración de Múltiples Cuentas en Outlook
+  - Enviar Correos Electrónicos desde Diferentes Cuentas
+  - Programas de Correo Electrónico POP vs. IMAP
+
+
+  #### Laboratorio &#58; Trabajar con Múltiples Cuentas de Correo Electrónico
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Configurar varias cuentas en Outlook.
+  - Enviar correos electrónicos desde diferentes cuentas.
+  - Aprender las diferencias entre programas de correo electrónico POP e IMAP.
+
+  #### Lecturas Adicionales
+  Para ayudarte a prepararte para esta clase, revisa los siguientes recursos&#58;
+  - N/A

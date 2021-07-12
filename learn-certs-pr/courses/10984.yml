@@ -1,0 +1,198 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir las herramientas de administración de Office 365 y las opciones de licenciamiento.
+- skill: Implementar y configurar la sincronización de directorios en una implementación de Office 365.
+- skill: Planificar la configuración híbrida con Exchange Server y Exchange Online.
+- skill: Realizar un despliegue de configuración híbrida de Exchange Server.
+- skill: Describir e implementar Skype for Business y Teams en una implementación híbrida.
+- skill: Implementar SharePoint y OneDrive for Business en un entorno híbrido.
+- skill: Describir e implementar varios métodos de autenticación en una implementación híbrida de Office 365.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Se trata de un curso ILT de 3 días de duración que se dirige a las necesidades de los profesionales de IT que participan en la administración, configuración y funcionamiento de los servicios de Office 365 en entornos híbridos, en los que parte de la infraestructura está alojada en las instalaciones. Este curso también incluye la gestión de las identidades, la autenticación y las tecnologías de apoyo para Office 365. Este curso se centra en las habilidades necesarias para administrar y solucionar los problemas de un inquilino de Office 365, y los servicios clave de Office 365 como Exchange Online, SharePoint Online y Skype for Business, así como servicios como Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection y Azure Active Directory Privileged Identity Management. Todos estos servicios se cubren desde el aspecto híbrido. Este curso proporciona conocimientos sobre cómo utilizar los servicios de Office 365 tanto en la nube como en las instalaciones.
+
+  #### Perfil del asistente
+  Los asistentes a este curso son profesionales de IT y administradores de sistemas que quieren aprender a implementar y mantener Office 365 en escenarios híbridos, en los que una parte de la infraestructura de colaboración se encuentra en las instalaciones y se integra con los servicios de Office 365. Estos profesionales deben tener al menos 3 años de experiencia trabajando en sus respectivos campos; en concreto, se esperan conocimientos previos sobre Exchange Server, SharePoint Server y Skype for Business Server (por ejemplo, el servidor Lync). También se espera que los estudiantes que asistan a este curso tengan un conocimiento bastante amplio de la administración de los servicios de Office 365 en general, así como de varias tecnologías en las instalaciones, tales como DNS y AD DS.
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que asistan a esta formación deben tener ya los siguientes conocimientos técnicos&#58;
+  - Un mínimo de dos años de experiencia en la administración del sistema operativo Windows Server, incluyendo Windows Server 2012 o posterior.
+  - Un mínimo de un año de experiencia trabajando con los servicios de dominio de Active Directory.
+  - Un mínimo de un año de experiencia trabajando con la resolución de nombres, incluido Domain Name System (DNS).
+  - Experiencia trabajando con certificados, incluidos los de infraestructura de clave pública (PKI).
+  - Experiencia trabajando con Windows PowerShell.
+  - Experiencia trabajando con Exchange Server 2013 o posterior, Lync 2013 Server o Skype for Business Server2015, y SharePoint Server 2013 o posterior.
+  - Experiencia trabajando con servicios clave de Office 365 como Exchange Online, Skype for Business y SharePoint Online.
+
+  Entendimiento de los siguientes conceptos relacionados con Office 365&#58;
+  - Servicios de Microsoft cloud
+  - Plataforma Office 365
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a la administración y licenciamiento de Office 365
+  Este módulo describe Office 365, sus herramientas de administración y las opciones de licenciamiento.
+  #### Lecciones
+  - Resumen de Office 365
+  - Administración de Office 365 y delegación de cargos
+  - Configuración del inquilino de Office 365
+  - Resumen del despliegue híbrido
+
+
+  #### Laboratorio &#58; Aprovisionamiento y configuración de un inquilino en Office 365
+  - Configurar las instalaciones de DNS en las instalaciones
+  - Configurar un inquilino de prueba Office 365
+  - Explorar las interfaces de administración de Microsoft 365
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Describir los componentes de Microsoft Office 365 y las opciones de suscripción y licenciamiento.
+  - Describir los portales administrativos de Office 365, la gestión de Windows PowerShell y los cargos de administración.
+  - Aprovisionar y configurar un inquilino de Office 365, dominios personalizados y registros DNS.
+  - Describir las opciones de configuración de Office 365 híbrido.
+
+
+  ### Módulo 2&#58; Despliegue y configuración de la sincronización de directorios
+  Este módulo explica cómo describir y configurar la sincronización de directorios en una implementación de Office 365.
+  #### Lecciones
+  - Resumen de la sincronización y autenticación de directorios
+  - Despliegue y configuración de Azure AD Connect
+  - Gestionar objetos de usuario y grupo en un entorno híbrido en Office 365
+
+
+  #### Laboratorio &#58; Administración de la sincronización de directorios, usuarios y grupos en un entorno híbrido de Office 365
+  - Preparar el directorio y configurar Azure AD Connect
+  - Gestionar usuarios y grupos de Office 365 con una GUI y Windows PowerShell
+  - Gestionar las políticas de contraseñas de Office 365 y el restablecimiento de contraseñas de autogestión
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Describir la sincronización y autenticación de directorios.
+  - Desplegar y configurar Azure AD Connect.
+  - Gestionar cuentas de usuario y de grupo en un entorno híbrido de Microsoft Office 365.
+
+  ### Módulo 3&#58; Planificación del despliegue híbrido de Exchange Server
+  Este módulo explica cómo planificar la configuración híbrida con Exchange Server y Exchange Online.
+  #### Lecciones
+  - Resumen de Exchange Online
+  - Opciones de configuración híbrida de Exchange Server y características de despliegue
+  - Servicios de Exchange Server en el despliegue híbrido
+
+
+  #### Laboratorio &#58; Planificación y diseño de la integración entre Exchange Online y Exchange Server 2019
+  - Diseñar un despliegue híbrido de Exchange
+  - Discutir una solución y repasar la configuración de Exchange Online
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Describir Microsoft Exchange Online como parte de Microsoft Office 365.
+  - Describir las opciones de configuración y despliegue híbrido de Microsoft Exchange Server.
+  - Describir los roles de Exchange Server en el despliegue híbrido.
+
+
+  ### Módulo 4&#58; Despliegue híbrido de Exchange Server
+  Este módulo explica cómo realizar el despliegue de la configuración híbrida de Exchange Server.
+  #### Lecciones
+  - Utilizar el Hybrid Configuration Wizard 
+  - Gestionar y configurar el despliegue híbrido de Exchange
+  - Implementar funcionalidades avanzadas para despliegues híbridos
+  - Configurar el cumplimiento y la integridad de los mensajes en un entorno híbrido
+
+
+  #### Laboratorio &#58; Implementar el despliegue híbrido de Exchange Server
+  - Utilizar el Hybrid Configuration Wizard
+  - Mover buzones entre Exchange en las instalaciones y Exchange Online
+  - Configurar el cumplimiento y la seguridad de los mensajes en el entorno híbrido
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Utilizar el Hybrid Configuration Wizard para establecer un entorno híbrido de Exchange.
+  - Configurar un despliegue híbrido de Exchange.
+  - Implementar un despliegue híbrido de funcionalidad avanzada.
+  - Describir las características de cumplimiento para un despliegue híbrido de Exchange.
+
+  ### Módulo 5&#58; Skype for Business y Teams en la implementación híbrida de Office 365 Este módulo explica cómo implementar Skype for Business y Teams en una implementación híbrida.
+  #### Lecciones
+  - Resumen de Microsoft Teams
+  - Planificación y preparación de la implementación híbrida de Skype for Business
+  - Utilizar la configuración híbrida de Skype for Business con el sistema telefónico
+  - Configurar el entorno híbrido de Skype for Business
+
+
+  #### Laboratorio &#58; Implementar la configuración híbrida de Skype for Business
+  - Implementar Skype for Business with Enterprise Voice (pre-laboratorio)
+  - Trasladar a los usuarios a Skype for Business Online
+  - Habilitar Officer 365 Phone System y Audio Conferencing
+  - Diseñar e implementar una configuración híbrida para Skype for Business
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Describir Teams como parte de Office 365.
+  - Preparar la implementación híbrida de Skype for Business.
+  - Configurar el entorno híbrido de Skype for Business.
+  - Describir las opciones de despliegue híbrido con Office 365 Phone System.
+
+
+  ### Módulo 6&#58; Despliegue híbrido de SharePoint y OneDrive for Business
+  Este módulo explica cómo desplegar SharePoint y OneDrive for Business en entornos híbridos.
+  #### Lecciones
+  - Resumen de SharePoint Online
+  - Planificar un despliegue híbrido SharePoint
+  - Desplegar la configuración híbrida de SharePoint
+  - Configurar los servicios de SharePoint en una configuración híbrida
+
+
+  #### Laboratorio &#58; Implementar SharePoint y OneDrive for Business en una configuración híbrida
+  - Diseñar y preparar SharePoint Server para una configuración híbrida
+  - Implantar los servicios de SharePoint en una configuración híbrida
+  - Validar la funcionalidad de los servicios de SharePoint en una configuración híbrida
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Describir SharePoint Online como parte de Office 365.
+  - Planificar un despliegue híbrido de SharePoint.
+  - Desplegar SharePoint Server en una configuración híbrida.
+  - Configurar los servicios de SharePoint en una configuración híbrida.
+
+
+  ### Módulo 7&#58; Despliegue de servicios adicionales de Office 365 en una implementación híbrida
+  Este módulo explica cómo desplegar Azure MFA, Identity Protection y Azure Information Protection.
+  #### Lecciones
+  - Implementar Multi-Factor Authentication en un escenario híbrido
+  - Implementar Azure Information Protection
+  - Implementar Identity Protection y Azure AD Privileged Identity Management
+
+
+  #### Laboratorio &#58; Configurar servicios adicionales de Office 365 en implementaciones híbridas
+  - Implementar Multi-Factor Authentication
+  - Implementar Azure Information Protection
+  - Implementar Azure AD Privileged Identity Management
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Implementar Multi-Factor Authentication.
+  - Implementar Azure Information Protection.
+  - Implementar Identity Protection y Azure AD Privileged Identity Management.
+
+  ### Módulo 8&#58; Opciones de autenticación en despliegues híbridos
+  Este módulo explica cómo desplegar varios métodos de autenticación en un despliegue híbrido de Office 365.
+  #### Lecciones
+  - Implementar AD FS para SSO en un entorno híbrido de Office 365
+  - Implementar la autenticación de paso para el SSO en Office 365
+  - Planificar las opciones de autenticación en Office 365
+
+
+  #### Laboratorio &#58; Implementar soluciones de autenticación en despliegues híbridos
+  - Implementar AD FS para SSO
+  - Implementar la autenticación de paso para el SSO
+
+  Después de completar este módulo, serás capaz de&#58;
+  - Implementar AD FS para single sign-on (SSO) en un entorno híbrido Office 365.
+  - Implementar la autenticación de paso para SSO.
+  - Planificar las opciones de autenticación en Office 365.

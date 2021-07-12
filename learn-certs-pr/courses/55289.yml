@@ -1,0 +1,164 @@
+### YamlMime:Course
+title: 'Microsoft Project 2019: Digging Deeper'
+metadata:
+  title: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+  description: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+uid: course.55289
+courseNumber: '55289-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Trabajar con las funciones avanzadas de formateo del Gantt Chart y de los diagramas de red.
+- skill: Crear proyectos y subproyectos patrón en Project 2019.
+- skill: Crear informes de proyecto personalizados.
+- skill: Trabajar con grupos de recursos.
+- skill: Analizar los costos del proyecto.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta clase Intermediate Microsoft Project 2019&#58; Digging Deeper adopta un enfoque en profundidad de las características clave de Project 2019 o Project 365, incluyendo entrada y vinculación de tareas, gestión de recursos y recursos, y examen y actualización de proyectos. Aprenderás a gestionar eficazmente los proyectos, a crear proyectos y subproyectos patrones, a crear y personalizar informes visuales, a trabajar con grupos de recursos y a analizar los costos de dichos proyectos.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que tienen habilidades básicas en Microsoft Project, incluyendo un alto nivel de comodidad navegando por el programa.
+prerequisitesSection: |-
+  Conocimientos básicos de Microsoft Project, incluyendo un alto nivel de comodidad navegando por el programa.
+outlineSection: |-
+  ### Módulo 1&#58; Iniciar un Proyecto a partir de un Proyecto Existente, Excel Workbook o Lista de Tareas de SharePoint
+  Este módulo explica cómo iniciar un proyecto.
+  #### Lecciones
+  - Iniciando un Proyecto
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Establecer opciones de proyecto.
+  - Crear un proyecto a partir de un proyecto existente.
+  - Crear un proyecto a partir de una hoja de cálculo de Excel.
+  - Crear un proyecto a partir de una lista de SharePoint.
+
+
+  ### Módulo 2&#58; Métodos Avanzados para la Gestión de Tareas y Recursos
+  Este módulo explica cómo utilizar los Métodos Avanzados para gestionar tareas y recursos.
+  #### Lecciones
+  - Gestionar Tareas y Recursos
+  - Entender la Configuración de Tiempo Transcurrido versus Tiempo Real
+  - Configurar Restricciones de Tareas
+  - Dividir y Retrasar Tareas
+  - Utilizar el Inspector de Tareas
+  - Analizar Tareas Críticas y Camino Crítico
+  - Utilizar Tiempo de Retardo y Tiempo de Espera
+  - Analizar Asignaciones de Tareas
+  - Utilizar el Planificador de Equipos
+  - Utilizar un Grupo de Recursos y Compartir Recursos
+  - Gestionar la Disponibilidad de Recursos y Tasas de Pago
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Cambiar la Dependencia de la Tarea
+  - Crear una Restricción de Tarea
+  - Dividir una Tarea&#58; utilizando la Grantt Chart View 
+  - Retrasar una Tarea&#58; Utilizando un Grantt Chart View 
+  - Ver el Inspector de Tareas
+  - Establecer el Retraso y el Tiempo de Espera
+  - Añadir una Nota a través del Cuadro de Diálogo de Información de la Asignación
+  - Visualizar un Planificador de Equipo y Aplicar Formateo
+  - Compartir un Grupo de Recursos
+  - Cambiar una Tasa de Pago
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con dependencias de tareas.
+  - Entender la configuración del tiempo transcurrido frente al tiempo real.
+  - Establecer restricciones de tareas.
+  - Dividir y retrasar tareas.
+  - Utilizar el Inspector de tareas.
+  - Analizar las tareas críticas y la ruta crítica.
+  - Utilizar el tiempo de retraso y de espera.
+  - Analizar asignaciones de tareas.
+  - Utilizar el planificador de equipos.
+  - Utilizar un grupo de recursos y compartir recursos.
+  - Gestionar disponibilidad de recursos y tarifas de pago.
+
+
+  ### Módulo 3&#58; Gestionar el Proyecto con Técnicas Avanzadas
+  En este módulo se explica cómo revisar y arreglar cualquier problema en proyectos.
+
+  #### Lecciones
+  - Utilizar la Nivelación para Resolver las Sobreasignaciones de Recursos
+  - Modificar Tareas
+  - Entender la Línea de Base y Planes Intermedios
+  - Analizar los Costos del Proyecto y Crear Presupuestos
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Utilizar la nivelación para Resolver las Sobreasignaciones de Recursos&#58; Utilizando el Gantt
+  - Modificar Tareas
+  - Establecer Líneas de Base Adicionales
+  - Crear Presupuestos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar la nivelación para resolver la sobreasignación de recursos.
+  - Modificar tareas.
+  - Entender la línea de base y los planes intermedios.
+  - Analizar los costos del proyecto y crear presupuestos.
+
+
+  ### Módulo 4&#58; Formatear y Personalizar Vistas
+  Este módulo explica cómo formatear y personalizar vistas en Microsoft Project.
+  #### Lecciones
+  - Personalizar el Gantt Chart
+  - Crear una Vista Personalizada
+  - Aplicar Filtros
+  - Utilizar Work Breakdown Structure (WBS) Codes
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Personalizar el Grant Chart utilizando la Gantt Chart View
+  - Crear una Vista Personalizada
+  - Aplicar Filtros
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Personalizar el Gantt Chart.
+  - Crear una Vista Personalizada.
+  - Aplicar Filtros.
+  - Utilizar Work Breakdown Structure (WBS) Codes.
+
+
+  ### Módulo 5&#58; Informes
+  Este módulo explica cómo trabajar con informes en Microsoft Project.
+
+  #### Lecciones
+  - Creación de Informes Visuales
+  - Edición de Informes
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Crear un Informe Visual
+  - Editar un Informe
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear informes visuales.
+  - Editar informes.
+
+
+  ### Módulo 6&#58; Trabajar con Plantillas
+  Este módulo explica cómo trabajar con plantillas en Microsoft Project.
+  #### Lecciones
+  - Utilizar un Subproyecto dentro de un Proyecto.
+  - Utilizar el Organizador para Mantener Plantillas.
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Utilizar un Subproyecto dentro de un Proyecto
+  - Utilizar el Organizador
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar un subproyecto dentro de un proyecto.
+  - Utilizar el Organizador para mantener plantillas.
+
+  #### Lecturas adicionales
+  Ninguno

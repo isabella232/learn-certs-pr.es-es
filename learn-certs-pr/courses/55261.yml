@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: SharePoint for Office 365 Site Owner Training
+metadata:
+  title: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+  description: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+uid: course.55261
+courseNumber: '55261-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a navegar por un Sitio de Grupo en SharePoint 2016.
+- skill: Aprender a crear y editar contenido de páginas web.
+- skill: Aprender a crear columnas de sitio y tipos de contenido.
+- skill: Aprender a integrar aplicaciones de Office con SharePoint 2016.
+- skill: Aprender a gestionar permisos básicos de recursos de SharePoint 2016.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Esta clase de SharePoint 2016 Site Owner, de 2 días de duración, está dirigida a propietarios/administradores de sitios que son nuevos trabajando en un entorno de SharePoint Office 365.
+
+  #### Perfil del asistente
+  Este curso está dirigido a propietarios y administradores de sitios que son nuevos trabajando en un entorno de SharePoint Office 365.
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### Módulo 1&#58; Trabajar con Sitios
+  Se accede a todo el contenido de SharePoint a través de un sitio. Un sitio de SharePoint es el contenedor de listas y bibliotecas y proporciona un punto de partida para la administración básica. El contenido, listas, bibliotecas y el aspecto básico de un sitio están determinados inicialmente por la Plantilla de Sitio utilizada para crear el sitio.
+
+  #### Lecciones
+  - Plantillas de Sitios
+  - Creación de Sitios
+  - Navegación por el Sitio
+
+
+  #### Laboratorio &#58; Creación de Sitios de Grupo
+
+  #### Laboratorio &#58; Creación de un Sitio para Blogs
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son Plantillas de Sitio.
+  - Entender los diferentes tipos de Plantillas de Sitio que vienen "fuera de lo común" con diferentes versiones de SharePoint.
+  - Crear un nuevo sitio utilizando Plantillas de Sitio.
+  - Crear un sitio de Proyecto.
+  - Crear un sitio de Grupo.
+  - Crear un sitio para Blogs.
+  - Gestionar los sitios que aparecen en la barra de enlaces superior.
+
+
+  ### Módulo 2&#58; Contenido de Página
+  SharePoint ofrece algunas formas de añadir contenido a las páginas de un sitio. La técnica más reciente y la que implementa la plantilla Sitio de Grupo es a través de páginas de estilo Wiki. Otro método que ha formado parte de SharePoint desde el principio es el uso de Partes Web y páginas Web Part. Ambas técnicas son similares en cuanto al resultado que se puede crear, y tanto las páginas Web Part como las páginas Wiki comparten la capacidad de añadirles Web Parts.
+
+  #### Lecciones
+  - Páginas de Biblioteca Wiki
+  - Páginas Web Part
+  - Trabajar con Partes Web
+
+
+  #### Laboratorio &#58; Trabajar con Páginas Wiki
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son páginas Wiki.
+  - Entender qué son páginas Web Part y Partes Web.
+  - Añadir contenido a la página de Inicio del Sitio de Grupo.
+  - Cambiar la Presentación de la página de Inicio del Sitio de Grupo.
+  - Crear una página Wiki.
+  - Crear una página Web Part.
+  - Añadir Partes Web.
+
+
+  ### Módulo 3&#58; Columnas de Sitio y Tipos de Contenido
+  Un método para personalizar SharePoint, de forma que pueda reutilizarse en todo el sitio o colección de sitios o incluso en toda la granja, es crear Columnas de Sitio y Tipos de Contenido. Las columnas de sitio son el elemento más sencillo; son esencialmente lo mismo que la lista y las columnas de biblioteca, excepto que las creas a nivel de sitio y luego se pueden utilizar en todo ese sitio y en cualquier sitio hijo. Los Tipos de Contenido son una combinación de Columnas de Sitio, así como de ajustes e información adicionales, tales como plantillas de documentos y flujos de trabajo. Los Tipos de Contenido, una vez creados, pueden vincularse a listas y a bibliotecas.
+  #### Lecciones
+  - Galería de Columnas de Sitio
+  - Creación de Columnas de Sitio
+  - Galería de Tipos de Contenido de Sitio
+  - Creación de Tipos de Contenido
+
+
+  #### Laboratorio &#58; Crear y Trabajar con Tipos de Contenido
+
+  #### Laboratorio &#58; Añadir un Tipo de Contenido a una Biblioteca
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las columnas de sitio.
+  - Entender Tipos de Contenido.
+  - Crear Columnas de Sitio.
+  - Crear Tipos de Contenido.
+  - Crear una plantilla de documento para un Tipo de Contenido.
+  - Asignar un Tipo de Contenido a una lista o biblioteca.
+  Crear nuevos elementos basados en un Tipo de Contenido personalizado.
+
+  ###  Módulo 4&#58; Integración de Office
+  Una de las características interesantes de SharePoint es su capacidad de integración con las aplicaciones de Microsoft Office. Ten en cuenta que este capítulo explora la integración con los productos de Office Online, una versión de Office basada en el navegador que le permite crear y modificar documentos de Office. Hay límites y no funcionan exactamente como sus homólogos instalados localmente.
+  #### Lecciones
+  - Integración de Office
+
+
+  #### Laboratorio &#58; Integración de Office
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear una alerta.
+
+
+  ### Módulo 5&#58; Gestión de Permisos de Sitios de SharePoint
+  Los permisos en un sitio de SharePoint se asignan cuando se crea un sitio. Por defecto, los permisos asignados a la raíz de una colección de sitios son heredados por los sitios hijos. En cualquier momento, la herencia de permisos puede ser desactivada en un sitio, lista, biblioteca, o incluso en el nivel de elemento en una lista o biblioteca. Los permisos en sí mismos pueden ser asignados a grupos de SharePoint, usuarios individuales o grupos creados fuera de SharePoint, como los grupos de Windows.
+  #### Lecciones
+  - Grupos de SharePoint
+  - Asignación de Permisos
+  - Herencia de Permisos
+
+
+  #### Laboratorio &#58; Trabajando con Permisos de SharePoint
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender grupos de SharePoint.
+  - Crear grupos de SharePoint.
+  - Asignar permisos en SharePoint.
+  - Gestionar la herencia de permisos a nivel de sitio.
+  Gestionar la herencia de permisos a nivel de lista o biblioteca.
+  #### Lectura adicional
+  N/D

@@ -1,0 +1,228 @@
+### YamlMime:Course
+title: Introduction to Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+  description: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+uid: course.55277
+courseNumber: '55277-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Iniciar y finalizar una sesión PowerPoint.
+- skill: Editar una presentación.
+- skill: Crear diferentes tipos de diapositivas.
+- skill: Utilizar la pestaña Esquema.
+- skill: Añadir imágenes Prediseñadas a una diapositiva.
+- skill: Formatear diapositivas y utilizar plantillas.
+- skill: Utilizar el Clasificador de Diapositivas para reorganizar una presentación.
+- skill: Aplicar Tablas y Gráficos a una presentación.
+- skill: Imprimir varios componentes de una presentación.
+- skill: Ejecutar una presentación de diapositivas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta clase de formación de Introduction to PowerPoint 2019 está diseñada para estudiantes que estén interesados en aprender los fundamentos necesarios para crear y modificar presentaciones básicas utilizando Microsoft Office PowerPoint 2019. Los estudiantes explorarán el entorno de PowerPoint y crearán una presentación. Los estudiantes formatearán el texto de las diapositivas para mejorar la claridad y añadirán objetos gráficos a una presentación y los modificarán. Los estudiantes también añadirán tablas y gráficos a una presentación para presentar datos de forma estructurada y luego finalizarán una presentación.
+
+  #### Perfil del asistente
+  Estudiantes que están poco o nada familiarizados con Microsoft PowerPoint 2019 o usuarios más experimentados de Word que quieran aprender los temas tratados en este curso en la interfaz de 2019.
+prerequisitesSection: |-
+  Se requiere experiencia en lo siguiente para esta clase de Microsoft PowerPoint&#58;
+  - Familiaridad con el uso de un ordenador personal, ratón y teclado.
+  - Comodidad en el entorno Windows.
+  - Capacidad para iniciar y cerrar programas; navegar hasta la información almacenada en el ordenador; y gestionar archivos y carpetas.
+outlineSection: |-
+  ### Módulo 1&#58; Crear una Presentación en PowerPoint
+  Este módulo explica cómo crear una presentación en Microsoft PowerPoint.
+  #### Lecciones
+  - Iniciar Microsoft PowerPoint
+  - Vista Normal
+  - Crear una Presentación
+  - Guardar un Documento
+  - Importar un Archivo
+  - La Barra de Estado
+  - Cerrar una Presentación
+
+
+  #### Laboratorio &#58; Crear una Presentación en Microsoft PowerPoint
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Iniciar Microsoft PowerPoint.
+  - Aprender sobre la vista Normal.
+  - Crear una presentación PowerPoint.
+  - Guardar una presentación PowerPoint.
+  - Importar un archivo a PowerPoint.
+  - Aprender sobre la Barra de Estado.
+  - Cerrar una presentación en PowerPoint.
+
+
+  ### Módulo 2&#58; La Cinta de Opciones
+  Este módulo explica cómo trabajar con la Cinta de opciones en Microsoft PowerPoint.
+  #### Lecciones
+  - La Cinta de Opciones
+  - Pestañas
+  - Grupos
+  - Comandos
+  - La Pestaña Programador
+
+
+  #### Laboratorio &#58; Explorando la Cinta de Opciones
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con pestañas, grupos y comandos
+  - Aprender qué grupo y comandos se encuentran en cada pestaña.
+
+
+  ### Módulo 3&#58; La Barra de Herramientas de Acceso Rápido
+  Este módulo explica cómo trabajar con la Barra de Herramientas de Acceso Rápido en Microsoft PowerPoint.
+  #### Lecciones
+  - Añadir Comandos Comunes
+  - Añadir Más Comandos con el Cuadro de Diálogo de Personalización
+  - Añadir Comandos o Grupos de la Cinta de Opciones
+  - Colocación
+
+
+  #### Laboratorio &#58; Personalizar la Barra de Herramientas de Acceso Rápido
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir comandos comunes a la Barra de Herramientas de Acceso Rápido.
+  - Añadir comandos adicionales a la Barra de Herramientas de Acceso Rápido.
+  - Mover la Barra de Herramientas de Acceso Rápido.
+
+
+  ### Módulo 4&#58; La Vista Backstage (El Menú de Archivo)
+  Este módulo explica cómo trabajar con la Vista Backstage en Microsoft PowerPoint.
+  #### Lecciones
+  - Introducción a la Vista Backstage
+  - Abrir una Presentación
+  - Nuevas Presentaciones y Plantillas de Presentación
+  - Propiedades de Presentaciones
+  - Añadir Tu Nombre a Microsoft PowerPoint
+
+
+  #### Laboratorio &#58; Ejercicios de la Vista Backstage
+  - Abrir una Presentación
+  - Crear una Agenda Utilizando una Plantilla
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar la vista Backstage.
+  - Abrir una presentación de Microsoft PowerPoint.
+  - Iniciar una nueva presentación de Microsoft PowerPoint.
+  - Utilizar plantillas de Microsoft PowerPoint.
+  - Modificar propiedades de presentación.
+  - Personalizar tu copia de Microsoft PowerPoint.
+
+  ### Módulo 5&#58; Formatear Presentaciones de Microsoft PowerPoint
+  Este módulo explica cómo formatear presentaciones de Microsoft PowerPoint.
+  #### Lecciones
+  - Seleccionar un Diseño de Diapositiva
+  - Añadir Texto
+  - Añadir Texto desde un Archivo de Texto o un Esquema de Word
+  - Editar Texto
+  - Formatear Texto
+  - Formatear Texto como WordArt
+  - Crear Listas con Viñetas y Numeradas
+  - Ecuación de Tinta
+  - Formatear Marcadores de Posición de Texto
+  - Añadir Diapositivas a una Presentación
+  - Organizar Diapositivas
+
+
+  #### Laboratorio &#58; Formatear Texto
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Seleccionar un diseño de diapositiva.
+  - Añadir texto a una diapositiva.
+  - Importar contenido desde un esquema de archivo de texto.
+  - Editar texto.
+  - Formatear texto.
+
+  - Formatear los marcadores de posición de texto.
+  - Aplicar estilos a diapositivas.
+  - Añadir diapositivas a una presentación.
+  - Eliminar diapositivas de una presentación. Aprender a organizar diapositivas.
+
+  ### Módulo 6&#58; Trabajar con Imágenes
+  Este módulo explica cómo trabajar con imágenes en Microsoft PowerPoint.
+  #### Lecciones
+  - Añadir Imágenes a una Diapositiva
+  - Insertar una Imagen
+  - Insertar Iconos
+  - Insertar Imágenes Prediseñadas
+  - Capturar e Insertar una Captura de Pantalla
+  - Editar una Imagen
+  - Formatear Imágenes
+  - Crear Colores Personalizados con el Cuentagotas
+  - Aplicar un Estilo y Recortar una Imagen
+  - Organizar Imágenes
+  - Añadir Formas
+  - Utilizar Tinta Digital
+
+
+  #### Laboratorio &#58; Trabajar con Imágenes y Formas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir imágenes a una presentación.
+  - Insertar una imagen.
+  - Insertar imágenes prediseñadas.
+  - Insertar una captura de pantalla.
+  - Editar una imagen.
+  - Girar y cambiar el tamaño de una imagen.
+  - Agrupar y desagrupar imágenes.
+  - Organizar imágenes.
+  - Añadir formas.
+
+
+  ### Módulo 7&#58; Trabajar con Tablas y Gráficos
+  Este módulo explica cómo trabajar con tablas y gráficos en Microsoft PowerPoint.
+  #### Lecciones
+  - Insertar una Tabla
+  - Formatear Tablas
+  - Importar Tablas desde Fuentes Externas
+  - Insertar un Gráfico
+  - Formatear un Gráfico
+  - Importar Gráficos de Fuentes Externas
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Tablas y Gráficos
+  - Trabajar con una Tabla
+  - Trabajar con Gráficos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar una tabla en una diapositiva.
+  - Formatear una tabla.
+  - Copiar una tabla de otras aplicaciones de Microsoft Office en PowerPoint.
+  - Insertar un gráfico en una diapositiva.
+  - Formatear un gráfico.
+  - Copiar un gráfico de otras aplicaciones de Microsoft Office en PowerPoint.
+
+
+  ### Módulo 8&#58; Finalizar Presentaciones de Microsoft PowerPoint
+  Este módulo explica cómo finalizar las presentaciones en Microsoft PowerPoint.
+  #### Lecciones
+  - Revisar Ortografía
+  - Acceder a Diferentes Vistas de una Presentación
+  - Organizar una Presentación en Secciones
+  - Añadir Transiciones a Diapositivas
+  - Añadir Notas del Orador
+  - Ejecutar una Presentación de Diapositivas
+  - Imprimir una Presentación
+
+
+  #### Laboratorio &#58; Finalizar Ejercicios de Presentación
+  - Ver la Presentación
+  - Finalizar Tu Presentación
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Revisar la ortografía de tu presentación.
+  - Acceder a diferentes vistas de una presentación.
+  - Dividir una presentación en diferentes secciones.
+  - Añadir transiciones a una diapositiva.
+  - Añadir notas de orador.
+  - Ejecutar una presentación.
+  - Imprimir una presentación
+
+  #### Lecturas adicionales
+  Para ayudarte a preparar esta clase, repasa los siguientes recursos&#58;
+  - N/D

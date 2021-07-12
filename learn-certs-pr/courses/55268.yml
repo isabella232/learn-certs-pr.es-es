@@ -1,0 +1,174 @@
+### YamlMime:Course
+title: Microsoft Flow
+metadata:
+  title: 'Course 55268-A: Microsoft Flow'
+  description: 'Course 55268-A: Microsoft Flow'
+uid: course.55268
+courseNumber: '55268-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender cuándo utilizar Flow
+- skill: Describir los componentes Flow y su correcta utilización
+- skill: Cómo crear y editar Flujos
+- skill: Beneficios del Flow
+- skill: Integración con Flow
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Este curso ofrece una presentación del producto de Microsoft Flow, dirigida por un instructor, de principio a fin, de forma atractiva y práctica. Flow es un producto diverso que convierte los procesos empresariales en flujos de trabajo automatizados, coherentes y visuales. Flow está diseñado para entrelazar los distintos productos de Office 365, así como para conectarse con otras soluciones locales y basadas en la web. Este curso te dará la confianza necesaria para seleccionar las acciones y la lógica de flujo de trabajo adecuadas para tus flujos de trabajo empresariales.
+
+  #### Perfil del asistente
+  La audiencia al que va dirigido este curso es aquel que lleva un tiempo utilizando Office 365 y que ahora quiere optimizar sus procesos empresariales actuales y diseñar otros nuevos.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - No se requiere experiencia previa de Flow
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a PowerApps
+  Empecemos con una introducción a Microsoft Flow. Históricamente, la automatización de los procesos empresariales solía recaer en el regazo de un programador dentro de la empresa, que tenía un buen conocimiento de codificación y de los sistemas que conectaba. Sin embargo, cada vez más sistemas implementados en las empresas están fomentando un mayor enfoque en el diseño y la gestión del usuario final. Con este cambio de cultura, los usuarios finales buscan mejorar aún más sus soluciones empresariales. Flow acerca el diseño del flujo de trabajo a todas las audiencias. Ofrece los bloques de construcción para procesos ligeros o críticos para el negocio. En este módulo, cubrimos un resumen del producto y su aplicación a Office 365 y a los servicios de terceros.
+  #### Lecciones
+  - ¿Qué es Microsoft Flow?
+  - Las ventajas de la automatización
+  - Cómo llegar a Flow
+
+
+  #### Laboratorio &#58; Configura tu Inquilino
+  - Configurar Office 365
+  - Descargar los Archivos del Curso
+  - Personalizar tu App Launcher
+  - Crear cuentas para compañeros 
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Saber qué es Microsoft Flow
+  - Las ventajas de utilizar Flow para automatizar procesos
+  - Cómo acceder a un flujo
+
+  ### Módulo 2&#58; Introducción a Flow
+  Comenzamos nuestro descubrimiento de Microsoft Flow construyendo nuestro primer proceso de negocio. Discutiremos cómo utilizar plantillas para empezar con Flow o cómo utilizar una plantilla en blanco para empezar sin acciones definidas. Una vez en el producto, haremos un recorrido por el editor, la página de gestión del flujo de trabajo y la pantalla de inicio para ayudarte a navegar por el producto. A continuación, empezaremos a añadir, editar y eliminar acciones de nuestra plantilla de flujo de trabajo para personalizar el Flow para una necesidad empresarial concreta. Una vez listo, publicaremos y activaremos el flujo de trabajo para verificar que funciona como se espera. Terminaremos este módulo discutiendo cómo activar o desactivar un Flujo y también cómo eliminar un Flujo.
+  #### Lecciones
+  - Utilizar las plantillas de Flow
+  - Navegando por Flow
+  - Editar un Flujo
+  - Publicar y activar un Flujo
+  - Desactivar o eliminar un Flujo
+
+
+  #### Laboratorio &#58; Creación de procesos en Office 365
+  - Crear un Equipo con un canal
+  - Construir un proceso de ausencia empresarial
+  - Probar el proceso de ausencia
+  - Opcional&#58; Crear Formulario de Comentarios
+  - Opcional&#58; Flow para Avisar sobre Malas Valoraciones
+  - Opcional&#58; Probar tu Formulario y tu Flow
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cómo utilizar plantillas de Flow
+  - Cómo navegar por Flow
+  - Cómo editar Flujos
+  - Cómo publicar y activar Flujos
+  - Cómo desactivar o eliminar Flujos
+
+  ### Módulo 3&#58; Lógica Flow
+  La toma de decisiones durante un proceso empresarial suele ser un cuello de botella. La espera de decisiones o información para dirigir el flujo de trabajo hacia su objetivo depende del tiempo que la parte implicada dedique a la tarea. Esto podría mitigarse si la información deseada estuviera declarada en otro lugar, por ejemplo, como una propiedad documental o una entrada de formulario, por citar algunos ejemplos. La lógica de un flujo de trabajo permite que la información existente empuje el flujo de trabajo por múltiples caminos. Esto suele acelerar la duración del flujo de trabajo y minimizar la intervención humana.
+  En este módulo, veremos la lógica básica encontrada en Flow y una aplicación práctica de cada opción.
+  #### Lecciones
+  - Añadir condiciones
+  - Diseñar interruptores
+  - Utilizar aplicar a cada 
+  - Configurar hasta que sea lógico
+  - Añadir un campo
+
+  #### Laboratorio &#58; Programación de revisiones de la documentación
+  - Configurar una biblioteca de políticas en SharePoint
+  - Diseñar un calendario de revisión de políticas
+  - Probar el proceso de revisión de políticas
+  - Opcional&#58; Notificar si un archivo está próximo a ser revisado
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cómo añadir condiciones en un flujo
+  - Cómo diseñar interruptores para un flujo
+  - Cómo utilizar aplicar a cada 
+  - Cómo configurar hacer hasta que sea lógico
+  - Cómo añadir un campo
+
+
+  ### Módulo 4&#58; Integración
+  Las empresas suelen utilizar una selección de herramientas y servicios de productividad más allá de Office 365. Los equipos de marketing pueden utilizar Facebook y Twitter, mientras que un equipo de ventas puede utilizar Salesforce para gestionar a sus clientes. Flow proporciona conectores para servicios populares que permiten que sus procesos se extiendan más allá de Office 365 a otros servicios web. Las conexiones se pueden hacer incluso a los servidores in situ, lo que permite que los sistemas de tu empresa en la oficina participen en tus procesos.
+  #### Lecciones
+  - Conectores estándar y premium
+  - Conexión a servicios web
+  - Utilizar Flow con datos en las instalaciones
+
+
+  #### Laboratorio &#58; Utilizar Flow y SQL para Repasar Ventas
+  - Crear una nueva lista de pedidos
+  - Diseñar el proceso de comprobación de precios
+  - Probar el proceso de revisión de precios
+  - Opcional&#58; Actualización con gestores
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cómo utilizar los conectores Standard y Premium
+  - Cómo conectarse a los servicios web
+  - Cómo utilizar Flow con datos de instalaciones
+
+
+  ### Módulo 5&#58; La aplicación móvil
+  Flow tiene su correspondiente aplicación móvil que puede utilizarse para aprovechar muchas de las funciones de Flow. En primer lugar, ofrece a los usuarios la capacidad de crear nuevos Flujos, directamente desde su móvil o tableta. En segundo lugar, se puede utilizar para gestionar los flujos existentes, incluyendo la edición, la visualización del historial, el guardado de una copia, la desactivación y la eliminación de Flujos. Puedes acceder a las aprobaciones que te haya enviado Flow y aprobar o rechazar decisiones. La aplicación también es compatible con las notificaciones push que se pueden enviar a tu móvil o tableta desde un Flujo. Además, puedes incluso crear botones que aparezcan en la aplicación y que te permitan activar Flujos. Esta valiosa aplicación se detallará en este módulo.
+  #### Lecciones
+  - Descargar la aplicación móvil
+  - Firmar y gestionar la cuenta
+  - Construir y gestionar Flujos
+  - Crear botones
+  - Fuentes y aprobaciones
+
+  #### Laboratorio &#58; Opcional&#58; Utilizar la aplicación móvil de Flow
+  - Configurar la aplicación móvil de Flow
+  - Crea un nuevo flujo en la aplicación móvil
+  - Utilizar los botones de flujo en la aplicación
+  - Desinstalar la aplicación móvil de Flow
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cómo descargar la aplicación móvil
+  - Cómo iniciar la sesión en la aplicación móvil
+  - Cómo construir y gestionar flujos en la aplicación móvil
+  - Cómo crear botones en la aplicación móvil
+  - Cómo alimentar y utilizar las aprobaciones en la aplicación móvil
+
+
+  ### Módulo 6&#58; Administración y mantenimiento
+  En nuestro último módulo sobre Microsoft Flow, veremos cómo una empresa puede gestionar sus flujos una vez que tenga una buena aceptación del producto. Empezaremos discutiendo la gestión de los flujos individuales. Esto podría consistir en utilizar el historial para descubrir el origen de cualquier problema e implementar la gestión de errores, así como utilizar los análisis para descubrir las tendencias de uso. Descubriremos cómo compartir un Flujo, lo que es ideal para compartir el mantenimiento de un Flujo con otro colega, y cómo importar y exportar Flujos. Por último, discutiremos cómo los administradores de Office 365 pueden dar forma a la experiencia Flow con ajustes de alto nivel que ayudan a garantizar la segregación de datos y la seguridad.
+  #### Lecciones
+  - Mantener un Flujo
+  - Ver historial y análisis
+  - Compartir un Flujo
+  - Exportar e importar Flujos
+  - Administración de Office 365 para Flow
+  - Entornos
+  - Políticas de datos
+  - Integración de datos
+
+
+  #### Laboratorio &#58; Mantener tus flujos
+  - Compartir un flujo con un colega
+  - Desactivar un flujo activo
+  - Borrar un flujo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Cómo matener un flujo
+  - Cómo ver el historial y los análisis de un flujo
+  - Cómo compartir un flujo
+  - Cómo exportar e importar flujos
+  - Cómo administrar un flujo en Office 365
+  - Cómo utilizar las políticas de datos en un flujo
+  - Cómo utilizar la integración de datos en un flujo
+
+  #### Lecturas adicionales
+  Para ayudarte a preparar esta clase, repasa los siguientes recursos&#58;
+  - N/D

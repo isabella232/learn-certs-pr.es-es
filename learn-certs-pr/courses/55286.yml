@@ -1,0 +1,299 @@
+### YamlMime:Course
+title: SharePoint 2019 Power User
+metadata:
+  title: 'Course 55286-A: SharePoint 2019 Power User'
+  description: 'Course 55286-A: SharePoint 2019 Power User'
+uid: course.55286
+courseNumber: '55286-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender las ventajas de utilizar SharePoint en escenarios del mundo real
+- skill: Crear nuevos sitios de SharePoint para almacenar información empresarial
+- skill: Crear páginas para compartir noticias y documentos
+- skill: Personalizar la estructura de un sitio para satisfacer requisitos empresariales específicos
+- skill: Crear y gestionar vistas, columnas y aplicaciones
+- skill: Gestionar la seguridad de un sitio
+- skill: Utilizar herramientas sociales para poder comunicarte con grupos de personas o con la organización completa
+- skill: Utilizar el buscador para encontrar información empresarial, incluyendo personas hasta documentos
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Este curso ofrece la historia completa del propietario de un sitio, de principio a fin, de forma atractiva y práctica, para garantizar que tengas la confianza necesaria para planificar y crear nuevos sitios o gestionar los existentes. Tu objetivo es aprender a hacer que SharePoint sea relevante para tu equipo utilizando la funcionalidad de un sitio para ayudarte a compartir información y colaborar con tus colegas. Durante la clase también aprenderás las mejores prácticas y "lo que no hay que hacer" mientras ves demostraciones interactivas en directo y pones en práctica la teoría con ejercicios prácticos.
+
+  #### Perfil del asistente
+  Este curso está dirigido a usuarios de SharePoint, tanto principiantes como experimentados, que quieren aprovechar al máximo SharePoint 2019.
+prerequisitesSection: |-
+  No se requiere experiencia previa.
+outlineSection: |-
+  ### Módulo 1&#58; Una Introducción a SharePoint 2019
+  Vamos a empezar a utilizar SharePoint 2019 para que conozcas su fantástica selección de funciones. Demostraremos los usos más habituales de SharePoint 2019 para gestionar y compartir contenidos, crear páginas web atractivas, automatizar procesos empresariales y trabajar en tiempo real con coautores. También discutiremos quiénes serán los usuarios típicos de nuestros sitios y el rol del administrador de la colección de sitios. A los propietarios de sitios se les confía una funcionalidad que en otros sistemas empresariales normalmente sólo estaría disponible para programadores. Como nuevo propietario de un sitio, estamos seguros de que te sorprenderá el potencial que SharePoint 2019 puede ofrecer al usuario final.
+
+  #### Lecciones
+  - ¿Qué es SharePoint?
+  - Gestionar Centralmente
+  - Páginas Web
+  - Trabajo en Equipo
+  - Buscar
+  - Experiencia Social
+  - Automatizar y Capturar
+  - Integración en la Oficina
+  - Propiedad y Acceso
+  - ¿Quién Puede ser un Buen Propietario de un Sitio?
+  - Otros Roles Únicos
+  - Administrador de la Colección de Sitios
+  - Administrador de Granja
+
+
+  #### Laboratorio &#58; Introducción a SharePoint 2019
+  - Navegar por SharePoint
+  - Utilizar el iniciador de aplicaciones
+  - Cargar a OneDrive
+  - Actualizar tu Perfil de MySite
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las razones populares para utilizar SharePoint 2019
+  - Entender los roles de usuario en SharePoint 2019
+  - Navegar en SharePoint 2019
+  - Gestionar tu OneDrive y MySite
+
+  ### Módulo 2&#58; Crear Sitios
+  Tanto si estás gestionando sitios existentes como si aún no has empezado, complementaremos tu situación actual discutiendo la jerarquía de sitios y la planificación de tus sitios de SharePoint. Esto te permitirá entender los sitios existentes que otras personas ya han creado, así como tomar buenas decisiones a la hora de crear nuevos sitios. Como propietario de un sitio, se te presentará una selección de plantillas de sitios. Utilizarás una variedad de plantillas de sitios populares para conseguir entender mejor la función de cada sitio y su uso adecuado. Una vez que tu sitio esté preparado, cambiaremos el aspecto de tu sitio. Incluso puedes probar a aplicar tu marca comercial a tu sitio. También construiremos nuestra barra de navegación, una forma sencilla pero potente de ayudar a los usuarios a moverse entre sitios web.
+
+  #### Lecciones
+  - Planificar tus sitios
+  - La Granja, Colecciones de Sitios y Subsitios explicados
+  - Configuración Híbrida
+  - Direcciones Web
+  - Colecciones de Sitios Explicadas
+  - ¿Por qué Crear Subsitios?
+  - Crear una Colección de Sitios&#58; Clásica y Moderna
+  - Solicitar un Nuevo Sitio
+  - Navegar por tu Sitio de Grupo
+  - Interfaz de Usuario&#58; Clásico vs Moderno
+  - ¿De dónde viene lo Clásico?
+  - Crear Subsitios
+  - Plantillas de Sitios
+  - Aplicar un nuevo Tema
+  - Construir tu Navegación
+  - Borrar Sitios
+
+
+  #### Laboratorio &#58; Crear Sitios
+  - Crear dos subsitios
+  - Eliminar un subsitio
+  - Restaurar un sitio
+  - Actualizar la navegación
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las ventajas de utilizar plantillas de sitios al crear nuevos sitios
+  - Utilizar correctamente Colecciones de Sitios y Sitios
+  - Controlar la navegación por el sitio
+  - Eliminar y Restaurar sitios
+
+
+  ### Módulo 3&#58; Crear y Gestionar Páginas Web
+  SharePoint ofrece una rica selección de formas de construir páginas web. Aprenderás a actualizar la página de inicio de tu sitio de SharePoint con texto, enlaces, imágenes, vídeos y web parts. También te mostraremos las mejores prácticas a la hora de crear varias páginas y enlazarlas entre sí. En la mayoría de las plantillas de sitios, la creación y gestión de páginas web es una forma sencilla, rápida y gratificante de presentar información y aplicaciones esenciales. SharePoint también se puede utilizar como Intranet para las noticias internas. Debido a la gran visibilidad de estos sitios web, es habitual que se ejerza un mayor control sobre la publicación de nuevas páginas web o las actualizaciones de las existentes. Por ello, SharePoint cuenta con sitios de publicación y sitios de comunicación.
+
+  #### Lecciones
+  - Una Introducción a Páginas Web
+  - Tipos de Páginas Web
+  - Añadir un Sitio o Página de Noticias
+  - Secciones
+  - Web Parts 
+  - Detalles de Página
+  - Guardar, Publicar, Promover y Eliminar Páginas
+  - Sitios de Comunicación
+  - Páginas Clásicas de un sitio de grupo
+  - Añadir y Modificar Contenido de la Página Wiki
+  - Añadir Contenido Enriquecido
+  - App Parts y Web Parts
+  - Gestión de Páginas
+  - Eliminar una Página
+  - Páginas Web Part
+  - Publicar Páginas
+  - Crear Páginas
+  - Presentaciones de Páginas
+  - Renderizaciones
+  - Contenido Reutilizable
+  - Finalizar una Página de Publicación
+  - Programación de una Página de Publicación
+  - Aprobación de la Publicación
+
+
+  #### Laboratorio &#58; Crear y Gestionar Páginas Web
+  - Ordenar la página de inicio de Formación
+  - Añadir contenido enriquecido
+  - Crear una nueva página
+
+  - Opcional - Crear un sitio de Comunicación
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Saber cuándo crear páginas
+  - Crear todo tipo de páginas
+  - Añadir contenido a una página, incluyendo imágenes y vídeos
+  - Utilizar el contenido de página de publicación como renders y contenido reutilizable
+
+  ### Módulo 4&#58; Trabajar con Aplicaciones
+  Las aplicaciones son necesarias para almacenar información tal como eventos, contactos y archivos en un sitio. SharePoint proporciona una selección de aplicaciones para diferentes escenarios, todas ellas con la opción de poder ser personalizadas para requisitos empresariales concretos. Las aplicaciones pueden dividirse en Listas, Bibliotecas y Aplicaciones Market Place. Las listas de SharePoint sirven como estructura para calendarios, foros de discusión, contactos y tareas. En este módulo se explica el concepto de listas y, a continuación, se repasan opciones populares.
+  Una biblioteca de documentos es una ubicación en un sitio donde puedes crear, recopilar, actualizar y compartir archivos, incluyendo Word, Excel, PowerPoint y PDF. Te mostraremos las ventajas de utilizar una biblioteca y te enseñaremos la mejor manera de trabajar con archivos en una biblioteca. Se proporciona una introducción a las aplicaciones en instalaciones y en el Marketplace de SharePoint para mostrar cómo ampliar la funcionalidad del sitio más allá de lo que Microsoft ha proporcionado en la plataforma SharePoint 2019.
+
+  #### Lecciones
+  - Una Introducción a Aplicaciones
+  - Una Introducción a Bibliotecas
+  - Una Introducción a Listas
+  - Aplicaciones en Instalaciones y en Marketplace
+  - Añadir Aplicaciones a un Sitio
+  - Creación y Gestión de Columnas
+  - Vistas Públicas y Personales
+  - Gestión de la Configuración de Aplicaciones
+  - Aprobación de Contenidos
+  - Versionado Mayor y Menor
+  - Conjuntos de Documentos
+  - Subir Archivos a una Biblioteca
+  - Crear y Editar Archivos
+  - Plantillas de archivos
+  - Coautoría
+  - Salida - Entrada
+  - Propiedades de Archivos, Ordenar, Filtrar y Detalles
+  - Vista de Edición Rápida
+  - Comandos de Archivo
+  - Copiar Enlace y Compartir
+  - Carpetas
+  - La Papelera de Reciclaje
+  - Seguimiento del Contenido
+  - Sincronización OneDrive
+  - Trabajar con Listas Clásicas
+
+
+  #### Laboratorio &#58; Trabajar con Aplicaciones
+  - Crear una nueva biblioteca
+  - Configurar columnas y vistas
+  - Subir contenido
+  - Configurar alertas y utilizar versionado
+  - Crear una lista
+  - Borrar y restaurar una aplicación
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender la plantilla de aplicaciones disponible en SharePoint 2019
+  - Crear nuevas aplicaciones para almacenar información empresarial
+  - Personalizar las aplicaciones con columnas, vistas y configuraciones de la aplicación para que sean relevantes a un negocio específico
+  - Utilizar las Aplicaciones de SharePoint con otras aplicaciones de Office, como Excel y Outlook
+  - Ordenar y Filtrar documentos
+
+
+  ### Módulo 5&#58; Construir procesos con Flujos de Trabajo
+  Los flujos de trabajo son una poderosa herramienta de eficiencia que puede utilizarse para organizar y hacer un seguimiento de las tareas basadas en procesos, incluidos los procesos de aprobación. Los flujos de trabajo se demostrarán utilizando ejemplos del mundo real. Tendrás la oportunidad de crear flujos de trabajo y revisar el progreso de los mismos.
+  #### Lecciones
+  - Introducción a Flujos de Trabajo
+  - Añadir Flujos de Trabajo
+  - Escenarios de Flujo de Trabajo
+  - Eliminar Flujos de Trabajo
+  - Crear Flujos de Trabajo
+  - Herramientas de Flujo de Trabajo de Terceros
+  - Configurar Ajustes de Flujo de Trabajo
+
+
+  #### Laboratorio &#58; Crear y Ejecutar Flujos de Trabajo
+  - Habilitar la función de flujo de trabajo
+  - Crea una biblioteca de procedimientos
+  - Añade un nuevo flujo de trabajo de publicación
+  - Probar el flujo de trabajo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender cómo crear un nuevo flujo de aprobación
+  - Entender cómo crear una nueva powerapp
+  - Entender e instaurar un proceso de negocio
+
+
+  ### Módulo 6&#58; Personalizar la Seguridad
+  La seguridad es un elemento importante de cualquier sitio. Vas a ver demostraciones guiadas por un instructor sobre las mejores prácticas para añadir y eliminar colegas de tu sitio y determinar su nivel de acceso. Como propietario del sitio, puedes personalizar los niveles de permiso. Esto significa que puedes crear niveles de acceso que se ajusten a las responsabilidades de los usuarios de tu sitio. Un ejemplo de esto sería permitir a un grupo de usuarios la capacidad de subir contenido pero no de eliminarlo. También verás cómo utilizar el botón Compartir para compartir documentos de forma rápida con otros usuarios.
+
+  #### Lecciones
+  - Roles de SharePoint
+  - Gestionar el Acceso a SharePoint
+  - Configurar Solicitudes de Acceso
+  - Compartir un Sitio
+  - Compartir Archivos
+  - Eliminar un Usuario
+  - Personalizar la Seguridad de SharePoint
+  - Crear Niveles de Permiso
+  - Crear un Grupo de Seguridad de SharePoint
+  - Gestionar Herencia
+
+
+  #### Laboratorio &#58; Personalizar la Seguridad
+  - Compartir Contenido en una biblioteca
+  - Crear nuevos niveles de permiso
+
+  - Crear un nuevo grupo de seguridad
+  - Añadir y eliminar usuarios
+  - Modificar herencia de sitios/aplicaciones
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender cómo compartir contenido en una biblioteca y permisos asociados
+  - Entender cómo crear nuevos niveles de permiso y grupos de seguridad
+  - Entender cómo añadir y eliminar usuarios
+
+
+  ### Módulo 7&#58; Trabajar con Buscadores
+  SharePoint proporciona la capacidad de almacenar grandes cantidades de contenido en diversas ubicaciones. Este módulo cubre un conjunto de herramientas que te ayudan a localizar de forma eficiente la información que necesitas. Aunque la búsqueda de SharePoint es rica e inteligente, los propietarios de sitios pueden personalizar la búsqueda para mejorar su relevancia para una organización. Mostraremos las técnicas más comunes utilizadas por propietarios de sitios para mejorar los resultados de las búsquedas, promoviendo contenidos específicos cuando se utiliza una determinada palabra clave.
+
+  #### Lecciones
+  - Perfiles
+  - Introducción a SharePoint Search
+  - Aplicaciones de Búsqueda, Conjuntos de Documentos y Carpetas
+  - Búsqueda en el Sitio Local
+  - Resultados de la Búsqueda
+  - Consejos de Búsqueda
+  - Resultados Promocionados
+
+
+  #### Laboratorio &#58; Buscar en SharePoint
+  - Buscar contenido en tu biblioteca
+  - Buscar contenido de tu sitio
+  - Buscar a través de todos los sitios
+  - Opcional - Crear un resultado promocionado
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las características clave de búsqueda
+  - Utilizar el buscador para encontrar contenido, incluyendo personas, sitios y vídeos
+  - Utilizar las web parts de búsqueda para reunir contenido de múltiples ubicaciones
+
+
+  ### Módulo 8&#58; Gestión de Contenidos Empresariales
+  Tradicionalmente, los equipos utilizan plantillas de archivos o procesos manuales para garantizar que la información se recoge y conserva correctamente. Esto puede ser una elección de tu equipo o una decisión más universal dentro de tu organización. En este módulo, ayudaremos a tu equipo a establecer plantillas de archivos reutilizables y a automatizar la gestión del ciclo de vida de los documentos. Un ejemplo de esto sería eliminar automáticamente el contenido antiguo no deseado de tu sitio web. Para lograrlo, aprenderás acerca de diversas funciones de SharePoint, como metadatos gestionados, tipos de contenido, políticas, gestión de registros in situ y el organizador de contenidos.
+
+  #### Lecciones
+  - Servicio de metadatos gestionados
+  - Políticas de gestión de información
+  - Introducción a tipos de contenido
+  - El centro de registros
+  - Crear y gestionar tipos de contenido
+  - Gestión de registros in situ
+  - Implementar tipos de contenido
+  - El organizador de contenidos
+  - Utilizar los tipos de contenido en aplicaciones
+  - Enlaces duraderos
+  - El centro de tipos de contenido
+
+
+  #### Laboratorio &#58; Diseñar una Arquitectura de Información
+  - Crear columnas del sitio
+  - Diseñar un Tipo de Contenido
+  - Implementar un Tipo de Contenido
+  - Configurar la Gestión de Registros In Situ
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las ventajas de utilizar las herramientas sociales de SharePoint
+  - Crear contenido social, incluyendo publicaciones de blog, discusiones y publicaciones de newsfeed
+
+  #### Lecturas adicionales
+  Ninguno

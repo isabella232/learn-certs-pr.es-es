@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2019
+metadata:
+  title: 'Course 55270-A: Advanced Microsoft Excel 2019'
+  description: 'Course 55270-A: Advanced Microsoft Excel 2019'
+uid: course.55270
+courseNumber: '55270-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crear tablas y gráficos dinámicos.
+- skill: Aprender a trazar precedentes y dependientes.
+- skill: Convertir texto y validar y consolidar datos.
+- skill: Colaborar con otros protegiendo hojas y libros de trabajo.
+- skill: Crear, utilizar, editar y gestionar macros.
+- skill: Importar y exportar datos.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta clase de formación avanzada de Microsoft Excel 2019 está diseñada para que los estudiantes adquieran las habilidades necesarias para utilizar las tablas dinámicas, auditar y analizar los datos de las hojas de cálculo, utilizar las herramientas de datos, colaborar con otros y crear y gestionar macros.
+
+  #### Perfil del asistente
+  Estudiantes que tienen habilidades intermedias con Microsoft Excel 2019 que quieren aprender habilidades más avanzadas o estudiantes que quieren aprender los temas tratados en este curso en la interfaz 2019.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Experiencia básica e intermedia en Excel.
+outlineSection: |-
+  ### Módulo 1&#58; Utilizar Tablas Dinámicas
+  Este módulo explica cómo utilizar las tablas dinámicas en Microsoft Excel.
+  #### Lecciones
+  - Crear Tablas Dinámicas
+  - Más Funciones de las Tablas Dinámicas
+  - Inserción de Slicers  
+  - Opción de Multiselección en Slicers  
+  - Mejoras en Tablas Dinámicas
+  - Trabajar con Tablas Dinámicas
+  - Inserción de Gráficos Dinámicos
+  - Más Funcionalidad de Tablas Dinámicas
+  - Trabajar con Tablas Dinámicas
+
+
+  #### Laboratorio &#58; Trabajar con Tablas Dinámicas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar tablas dinámicas para analizar datos.
+  - Editar tablas dinámicas.
+  - Formatear tablas dinámicas.
+  - Insertar gráficos dinámicos.
+  - Utilizar Slicers.
+
+
+  ### Módulo 2&#58; Auditar Hojas de Trabajo
+  Este módulo explica cómo auditar las hojas de trabajo.
+  #### Lecciones
+  - Rastrear Precedentes
+  - Rastrear Dependientes
+  - Mostrar Fórmulas
+
+
+  #### Laboratorio &#58; Ejercicios de auditoría de hojas de trabajo
+  - Trazar Precedentes
+  - Trazar Dependientes
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Auditar fórmulas.
+  - Trazar precedentes para determinar qué celdas afectan a una celda concreta.
+  - Trazar dependientes para determinar qué celdas se ven afectadas por una celda concreta.
+  - Eliminar flechas de precedentes y dependientes.
+  - Mostrar fórmulas.
+  - Comprobar si hay errores que se encuentran con frecuencia en las fórmulas
+
+
+  ### Módulo 3&#58; Herramientas de Datos
+  Este módulo explica cómo trabajar con las herramientas de datos.
+  #### Lecciones
+  - Convertir Texto en Columnas
+  - Vinculación con Datos Externos
+  - Controlar Opciones de Cálculo
+  - Validación de Datos
+  - Utilizar la Validación de Datos
+  - Consolidación de Datos
+  - Búsqueda de Objetivos
+  - Utilizar Búsqueda de Objetivos
+
+
+  #### Laboratorio &#58; Ejercicios de Herramientas de Datos
+  - Convertir Texto en Columnas
+  - Utilizar Validación de Datos
+  - Consolidación de Datos
+  - Utilizar Búsqueda de Objetivos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Convertir texto en columnas.
+  - Utilizar Validación de Datos para restringir el tipo de datos que se pueden introducir en una celda.
+  - Consolidar datos de varios rangos diferentes en un nuevo rango.
+  - Utilizar la Búsqueda de Objetivos para averiguar el valor que hay que introducir para obtener un resultado concreto
+
+
+  ### Módulo 4&#58; Trabajar con Otros
+  Este módulo explica cómo trabajar con otros en Microsoft Excel.
+  #### Lecciones
+  - Proteger Hojas de Trabajo y Libros de Trabajo
+  - Proteger con Contraseña un Libro de Trabajo
+  - Proteger con Contraseña una Hoja de Trabajo
+  - Proteger con Contraseña los Rangos de una Hoja de Trabajo
+  - Marcar un Libro de Trabajo como Final
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Otros
+  - Proteger con Contraseña un Libro de Trabajo
+  - Proteger con Contraseña una Hoja de Trabajo
+  - Proteger con Contraseña los Rangos de una Hoja de Trabajo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Proteger con contraseña un libro de trabajo.
+  - Proteger con contraseña una hoja de trabajo.
+  - Proteger con contraseña los rangos de una hoja de trabajo.
+  - Seguir los cambios.
+  - Aceptar y rechazar cambios.
+  - Enumerar todos los cambios en una nueva hoja
+
+
+  ### Módulo 5&#58; Grabar y Utilizar Macros
+  Este módulo explica cómo grabar y utilizar macros.
+  #### Lecciones
+  - Grabar Macros
+  - Grabar una Macro
+  - Ejecutar Macros
+  - Editar Macros
+  - Añadir Macros a la Barra de Herramientas de Acceso Rápido
+  - Añadir una Macro a la Barra de Herramientas de Acceso Rápido
+
+
+  #### Laboratorio &#58; Ejercicios de Grabación y Utilización de Macros
+  - Grabar una Macro
+  - Añadir una Macro a la Barra de Herramientas de Acceso Rápido
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Grabar macros.
+  - Ejecutar macros.
+  - Editar macros (más o menos).
+  - Añadir macros a la Barra de Herramientas de Acceso Rápido
+
+
+  ### Módulo 6&#58; Elementos Útiles Aleatorios
+  En este módulo se explica cómo utilizar las líneas de destello y otros elementos aleatorios útiles.
+  #### Lecciones
+  - Sparklines
+  - Inserción y personalización de Sparklines
+  - Utilizar el Traductor de Microsoft
+  - Preparar un Libro de Trabajo para la Internacionalización y la Accesibilidad
+  - Importar y Exportar Archivos
+  - Importar Archivos de Texto
+  - Copiar Datos de Excel a Word
+  Copiar Gráficos de Excel a Word
+
+
+  #### Laboratorio &#58; Ejercicios de Elementos Útiles Aleatorios
+  - Insertar y Personalizar Sparklines
+  - Importar Archivos de Texto
+  - Copiar Datos de Excel a Word
+  - Copiar Gráficos de Excel a Word
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar sparklines en las hojas de trabajo.
+  - Personalizar sparklines mediante&#58;
+  - Cambiar el tipo de sparklines.
+  - Resaltar puntos clave.
+  - Cambiar colores.
+  - Cambiar el eje.
+  - Preparar un libro de trabajo para su internacionalización, accesibilidad y compatibilidad.
+  - Importar archivos de texto a Microsoft Excel.
+  - Copiar celdas de una hoja de cálculo en Microsoft Word.
+  - Copiar y pegar un gráfico en Microsoft Word.
+
+  ### Módulo 7&#58; Cloud
+  Este módulo explica cómo guardar, compartir y colaborar con otros utilizando la Cloud.
+  #### Lecciones
+  - Utilizar la Cloud.
+
+
+  #### Laboratorio &#58; Utilizar la Cloud
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar Excel en la Cloud
+
+  #### Lecturas adicionales
+  Para ayudarte a preparar esta clase, repasa los siguientes recursos&#58;
+  - N/D

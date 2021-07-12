@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Securing the IoT end to end'
+metadata:
+  title: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+  description: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+uid: course.40564
+courseNumber: '40564-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diseñar una solución IoT completa y segura para la fabricación de petróleo y gas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  En este taller, verás el proceso para diseñar e implementar una solución IoT para la fabricación de petróleo y gas que esté asegurada de forma integral siguiendo las mejores prácticas. Al finalizar este taller, estarás mejor capacitado para diseñar una solución IoT completa y segura para la fabricación de petróleo y gas.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los Cloud Architects y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en las tecnologías cloud y quieren aprender más sobre Azure y los servicios de Azure, tal y como se describe en las áreas " y "Habilidades adquiridas".  Los asistentes a este taller también deben tener experiencia en otras tecnologías en cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y desear una formación cruzada en Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - Asegurar el IoT integral
+  #### Lecciones
+  - Repasa el caso de estudio del cliente
+  - Diseña una solución de prueba de concepto
+  - Presenta la solución
+
+
+  ### Módulo 2&#58; Laboratorio práctico - Asegurar el IoT integral
+  #### Lecciones
+  - Asegurar y configurar IoT Hub y Device Provisioning Service
+  - Inscribir y aprovisionar dispositivos IoT
+  - Instalar y configurar IoT Edge
+  - Instalar el Azure Security IoT Agent
+  - Simular ataques IoT
+  - Configurar la seguridad y las alertas.

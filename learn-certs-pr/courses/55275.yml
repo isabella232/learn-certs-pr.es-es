@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Introduction to Microsoft Outlook 2019
+metadata:
+  title: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+  description: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+uid: course.55275
+courseNumber: '55275-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender sobre las nuevas funciones de Outlook
+- skill: Aprende sobre la Cinta de opciones, Pestañas, Grupos y Comandos.
+- skill: Explorar la Vista Backstage.
+- skill: Configurar cuentas y trabajar con mensajes.
+- skill: Trabajar con calendarios y contactos.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta clase de formación de Microsoft Outlook presenta la interfaz de 2019 y consigue que los estudiantes trabajen rápidamente con mensajes, calendarios y contactos.
+
+  #### Perfil del asistente
+  Estudiantes que están poco o nada familiarizados con Microsoft Outlook 2019 o usuarios más experimentados en Outlook que quieren aprender los temas tratados en este curso en la interfaz de 2019.
+prerequisitesSection: |-
+  Se requiere experiencia en lo siguiente para esta clase de Microsoft Outlook&#58;
+  - Familiaridad con el uso de un ordenador personal, ratón y teclado.
+  - Comodidad en el entorno Windows.
+outlineSection: |-
+  ### Módulo 1&#58; La Interfaz de Outlook 2019
+  Este módulo explica cómo trabajar con la interfaz de Outlook 2019.
+  #### Lecciones
+  - Resumen de la Interfaz de Outlook
+  - La Cinta de opciones
+  - Pestañas, Grupos y Comandos de la Cinta de Opciones
+  - La Vista Backstage
+
+
+  #### Laboratorio &#58; Ejercicios de la Interfaz de Outlook
+  - Explorar la Cinta de Opciones
+  - Explorar la Vista Backstage
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con la interfaz de Microsoft Outlook.
+  - Trabajar con la Cinta de opciones de Outlook.
+  - Trabajar con las pestañas, grupos y comandos de la Cinta de opciones.
+  - Trabajar con la vista Backstage.
+
+
+  ### Módulo 2&#58; Realizar Tareas Populares en Outlook 2019
+  Este módulo explica cómo realizar tareas populares en Outlook 2019.
+  #### Lecciones
+  - Configurar una Cuenta de Correo Electrónico
+  - Abrir Mensajes de Correo Electrónico
+  - Responder y Reenviar Mensajes de Correo Electrónico
+  - Previsualizar y Guardar un Archivo Adjunto
+  - Imprimir un Mensaje
+  - Eliminar un Mensaje
+  - Guardar un Mensaje en un Formato Alternativo
+  - Delegar Acceso
+  - Personalizar el Panel de Navegación
+
+
+  #### Laboratorio &#58; Realización de Ejercicios de Tareas Populares
+  - Configurar una Cuenta de Correo Electrónico
+  - Abrir y Responder a un Mensaje
+  - Imprimir un mensaje
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Configurar una cuenta de correo electrónico en Outlook.
+  - Abrir mensajes de correo electrónico.
+  - Responder y reenviar mensajes de correo electrónico.
+  - Imprimir y guardar un archivo adjunto.
+  - Imprimir mensajes.
+  - Eliminar mensajes.
+  - Guardar un mensaje en un formato alternativo.
+  - Delegar acceso.
+  - Personalizar el panel de navegación.
+
+
+  ### Módulo 3&#58; Trabajar con Mensajes
+  Este módulo explica cómo trabajar con mensajes en Microsoft Outlook.
+  #### Lecciones
+  - Redactar un Mensaje
+  - Añadir un Archivo Adjunto
+  - Añadir Opciones de Votación
+  - Revisar Ortografía y Gramática
+  - Formatear Texto
+  - Utilizar el Microsoft Word para editar mensajes
+  - Insertar un Hipervínculo o una Imagen en un Mensaje
+  - Enviar un Mensaje
+
+
+  #### Laboratorio &#58; Crear y enviar un nuevo mensaje
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Redactar un mensaje.
+  - Añadir un archivo adjunto a un mensaje.
+  - Añadir opciones de votación a un mensaje.
+  - Revisar la ortografía y la gramática de un mensaje.
+  - Formatear texto.
+  - Utilizar Microsoft Word para editar mensajes de correo electrónico.
+  - Insertar un hipervínculo en un mensaje.
+  - Enviar un mensaje.
+
+
+  ### Módulo 4&#58; Trabajar con el Calendario
+  Este módulo explica cómo trabajar con el calendario en Microsoft Outlook.
+  #### Lecciones
+  - Cambiar la Vista del Calendario
+  - Configurar el Estado de Disponibilidad
+  - Imprimir tu Calendario
+  - Compartir tu Calendario
+  - Programar una Reunión
+  - Actualizar Reuniones
+  - Cancelar una Reunión
+  - Responder a una Invitación de Reunión
+  - Programar una Cita
+  - Actualizar una Cita
+  - Crear Grupos de la Agenda
+  - Eliminar un Calendario
+  - Trabajar con Elementos del Calendario
+  - Crear y Añadir Calendarios
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con el Calendario
+  - Configurar tu Calendario
+  - Programar una Reunión
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+
+  - Cambiar la Vista del Calendario.
+  - Configurar el estado de disponibilidad.
+  - Configurar la disponibilidad de tu calendario.
+  - Imprimir tu calendario.
+  - Programar una reunión.
+  - Actualizar las reuniones.
+  - Responder a una invitación de reunión.
+  - Programar una cita.
+  - Actualizar una cita.
+  - Crear grupos de calendarios.
+  - Eliminar un calendario.
+  - Trabajar con elementos del calendario.
+  - Utilizar varios calendarios.
+
+
+  ### Módulo 5&#58; Organizar los Contactos
+  Este módulo explica cómo organizar los contactos en Microsoft Outlook.
+  #### Lecciones
+  - Añadir, Eliminar, Importar e Imprimir un Contacto
+  - Actualizar un Contacto
+  - Localizar un Contacto
+  - Ordenar Contactos
+  - Trabajar con Grupos de Contactos
+  - Gestionar Múltiples Libretas de Direcciones
+  - Realizar una Mail Merge
+
+
+  #### Laboratorio &#58; Ejercicios de Organización de Contactos
+  - Añadir y Actualizar un Contacto
+  - Realizar una Mail Merge
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Añadir un contacto.
+  - Actualizar un contacto.
+  - Compartir un contacto.
+  - Localizar contactos.
+  - Ordenar y encontrar contactos.
+  - Trabajar con grupos de contactos.
+  - Trabajar con múltiples libretas de direcciones.
+  - Realiza una combinación de correspondencia.
+
+  #### Lectura adicional
+  - N/D

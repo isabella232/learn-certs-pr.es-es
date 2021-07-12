@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: MLOps'
+metadata:
+  title: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+  description: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+uid: course.40559
+courseNumber: '40559-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diseñar e implementar soluciones de forma integral que hagan plenamente operativos los modelos de aprendizaje profundo.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  En este taller, aprenderás cómo Trey Research puede aprovechar las tecnologías de Aprendizaje Profundo para escanear sus documentos de especificación de vehículos para encontrar problemas de cumplimiento de las nuevas normativas, y gestionar la clasificación a través de su aplicación web. Todo el proceso, desde la creación del modelo, el empaquetado de la aplicación, el despliegue del modelo y el despliegue de la aplicación, debe ocurrir como una canalización unificada y repetible.
+  Al finalizar este taller, estarás más capacitado para diseñar e implementar soluciones integrales que hagan totalmente operativos los modelos de aprendizaje profundo, incluyendo todos los componentes de la aplicación que dependen del modelo.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los Cloud Architects y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en las tecnologías cloud y quieren aprender más sobre Azure y los servicios de Azure, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas". Los asistentes a este taller también deben tener experiencia en otras tecnologías en cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y desear una formación cruzada en Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - MLOps
+  #### Lecciones
+  - Repasa el caso de estudio del cliente
+  - Diseña una solución de prueba de concepto
+  - Presenta la solución
+
+
+  ### Módulo 2&#58; Laboratorio práctico - MLOps
+  #### Lecciones
+  - Creación y evaluación de modelos de clasificación de cumplimiento
+  - Inscribir el modelo
+  - Configurar un Nuevo Proyecto en Azure DevOps
+  - Configurar y Ejecutar la Canalización de Compilación
+  - Configurar la Canalización de Liberación
+  - Probar las Canalizaciones de Compilación y Liberación
+  - Probar la solución implementada
+  - Examinar el rendimiento del modelo implementado

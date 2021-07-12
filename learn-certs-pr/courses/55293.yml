@@ -1,0 +1,302 @@
+### YamlMime:Course
+title: SharePoint End User 2019
+metadata:
+  title: 'Course 55293-A: SharePoint End User 2019'
+  description: 'Course 55293-A: SharePoint End User 2019'
+uid: course.55293
+courseNumber: '55293-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a navegar por un sitio de grupo de SharePoint 2019.
+- skill: Aprender a crear listas de SharePoint.
+- skill: Aprender a personalizar listas de SharePoint.
+- skill: Aprender a crear bibliotecas de SharePoint.
+- skill: Aprender a gestionar versiones de documentos de bibliotecas.
+- skill: Aprender a crear listas y vistas de bibliotecas de SharePoint.
+- skill: Aprender a crear subsitios utilizando varias plantillas de SharePoint.
+- skill: Aprender a crear y editar contenido de páginas Web.
+- skill: Aprender a crear InfoPath Forms y bibliotecas de Formularios.
+- skill: Aprender a crear columnas y tipos de contenido de Sitios.
+- skill: Aprender a integrar las aplicaciones de Office con SharePoint 2019.
+- skill: Aprender a gestionar permisos básicos de recursos de SharePoint 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Esta clase de SharePoint 2019 End User es para usuarios finales y propietarios/administradores de sitios que son nuevos trabajando en un entorno de SharePoint 2019. El curso enseña los fundamentos de SharePoint, tales como el trabajo con listas y bibliotecas, personalización básica de páginas, trabajar con formularios y gestionar permisos y usuarios del sitio.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que quieren aprender SharePoint.
+prerequisitesSection: |-
+  Ninguno.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a SharePoint 2019
+  SharePoint es una herramienta de colaboración en su esencia. Su objetivo principal es facilitar a los usuarios la búsqueda y el intercambio de información, y hay muchas funciones integradas en SharePoint para facilitarlo. La función de sistema de bibliotecas de SharePoint puede proporcionar una alternativa superior al servidor de archivos tradicional. Las listas de SharePoint pueden ser una alternativa fácil de diseñar y fácil de utilizar para compartir archivos de hojas de cálculo o tablas de bases de datos más formales. Tanto listas como bibliotecas pueden personalizarse y ampliarse para proporcionar una apariencia y funcionalidad mejoradas, como calendarios y blogs, por nombrar algunos. Toda esta colaboración puede realizarse a través de una interfaz de navegador y, en algunos casos, a través de la integración con aplicaciones de Microsoft Office.
+
+  #### Lecciones
+  - Versiones de SharePoint
+  - Presentación y Navegación del Sitio de Grupo
+  - Presentación
+  - Navegación
+
+
+  #### Laboratorio &#58; Ejercicio
+  - Navegación del Sitio de Grupo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las versiones de SharePoint.
+  - Entender la jerarquía de los sitios de SharePoint.
+  - Entender la Presentación del Sitio de Grupo.
+  - Entender la navegación dentro de un Sitio de Grupo.
+
+
+  ### Módulo 2&#58; Fundamentos de las Listas de SharePoint
+  Las listas son un bloque de Construcción fundamental en SharePoint que proporciona a los usuarios una forma de almacenar y ver datos. SharePoint viene "fuera de lo común" con muchas plantillas de listas predefinidas que son fáciles de utilizar. Las listas pueden personalizarse aún más añadiendo columnas para almacenar casi cualquier tipo de información. Además, las columnas de listas se pueden validar y enlazar entre otras listas. Las listas son una herramienta muy flexible y poderosa en SharePoint.
+
+  #### Lecciones
+  - Crear Aplicaciones Utilizando Plantillas de Listas
+  - Creación de Listas
+  - Creación de Listas Utilizando Plantillas de Listas
+  - Columnas de Lista
+  - Creación de Columnas de Listas
+  - Validación de Columnas
+  - Validación de una Columna de Lista
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Trabajar con Listas de Sitio de Grupo
+  - Crear Listas y Columnas Personalizadas
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las Plantillas de Listas.
+  - Trabajar con listas predeterminadas en un Sitio de Grupo.
+  - Crear una nueva lista a partir de una Plantilla de Lista.
+  - Crear una lista personalizada.
+  - Añadir columnas a una lista.
+  - Controlar y validar la aportación en los campos de la lista.
+
+
+  ### Módulo 3&#58; Fundamentos de Biblioteca
+  Las Bibliotecas de SharePoint comparten las mismas características que las listas de SharePoint, tales como columnas, vistas y validación, por nombrar algunas. Lo que distingue a las bibliotecas de SharePoint es que cada elemento de una biblioteca tiene un documento subyacente. Así, además de los datos almacenados en las columnas de la biblioteca, el documento almacena sus propios datos en función del tipo de documento. Debido a los datos adicionales que pueden almacenarse en columnas por las que se puede filtrar y buscar, y a características como el versionado, las bibliotecas se consideran un gran sustituto del sistema de servidores de archivos más tradicional. Las bibliotecas son, al igual que las listas, un bloque de Construcción fundamental en un sitio de SharePoint.
+
+  #### Lecciones
+  - Plantillas de Biblioteca
+  - Creación de Bibliotecas
+  - Creación de una Biblioteca de Documentos y Adición de Columnas
+  - Creación de una Biblioteca de Activos
+  - Gestión de Documentos y Versionado
+  - Extracción de Documentos
+  - Borrar y Restaurar Documentos
+  - Versionado
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Trabajar con las Bibliotecas del Sitio de Grupo
+  - Creación de Bibliotecas
+  - Versionado de Documentos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear nuevas bibliotecas utilizando plantillas de bibliotecas
+  - Añadir columnas a una biblioteca
+  - Sacar documentos para editarlos.
+  - Eliminar y restaurar documentos desde bibliotecas de documentos.
+  - Activar el versionado en una biblioteca.
+  - Revertir un documento de biblioteca a una versión anterior.
+
+
+  ### Módulo 4&#58; Trabajar con Vistas de Listas y Bibliotecas
+  Las vistas proporcionan un sistema flexible para mostrar los datos de las listas y bibliotecas de SharePoint de forma fácil de leer y utilizar. Cada lista y biblioteca de SharePoint puede tener varias vistas creadas y configuradas, y algunas plantillas de listas y bibliotecas vienen con vistas especiales preconfiguradas. Las vistas pueden definirse para uso personal o uso compartido.
+  #### Lecciones
+  - Vistas Por Defecto
+  - Explorar las Vistas Por Defecto
+  - Vistas Personalizadas
+  - Cómo Crear una Vista Personalizada
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Trabajar con Vistas
+  - Crear Vistas Públicas y Personales
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar vistas por defecto integradas en listas y bibliotecas.
+  - Crear vistas compartidas.
+  - Configurar vistas.
+  - Establecer la vista por defecto de una lista o biblioteca.
+
+
+  ### Módulo 5&#58; Trabajar con Sitios
+  Se accede a todo el contenido de SharePoint a través de un sitio. Un sitio de SharePoint es el contenedor para listas y bibliotecas y proporciona un punto de partida para la administración básica. El contenido, listas, bibliotecas y el aspecto básico de un sitio está determinado inicialmente por la Plantilla de Sitio utilizada para crear el sitio.
+
+  #### Lecciones
+  - Plantillas de Sitio
+  - Crear Sitios
+
+  - Crear un Sitio de Grupo
+  - Navegación por el Sitio
+  - Gestionar la Navegación por el Sitio
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Creación de Sitios de Grupo
+  - Creación de un Espacio de Trabajo para Reuniones
+  - Creación de un Sitio para Blogs
+
+  Después de completar este ejercicio, los estudiantes serán capaces de&#58;
+  - Entender qué son las Plantillas de Sitio.
+  - Entender los diferentes tipos de Plantillas de Sitio que vienen "fuera de lo común" con diferentes versiones.
+  - Crear un nuevo sitio utilizando Plantillas de Sitio.
+  - Crear un Sitio de Proyecto.
+  - Crear un Sitio de Grupo.
+  - Crear un Sitio de Comunidad
+  - Crear un sitio para Blogs.
+  - Gestionar los sitios que aparecen en la Barra de Enlaces Superior.
+
+
+  ### Módulo 6&#58; Contenido de Página
+  SharePoint ofrece algunas formas de añadir contenido a las páginas en un sitio. La técnica más reciente y la que implementa la plantilla del Sitio de Grupo es a través de las páginas de estilo del sitio. Otro método que ha formado parte de SharePoint en el pasado es la utilización de páginas Wiki y Web Part. Las técnicas Wiki y Web Part son similares en cuanto al resultado que puede crearse, y ambas comparten la capacidad de añadirles Web Parts (una instancia de una aplicación con una vista).
+
+  #### Lecciones
+  - Página de Biblioteca Wiki
+  - Editar la página de inicio del Sitio de Grupo
+  - Páginas Web Part
+  - Creación de una Página Web Part
+  - Trabajar con Partes Web
+  - Añadir Partes Web a Páginas
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Trabajar con Páginas Wiki
+  - Trabajar con Páginas Web Part y Partes Web
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son las páginas del sitio.
+  - Entender qué son las páginas Wiki.
+  - Entender qué son las Partes Web.
+  - Añadir contenido a la Página de Inicio del Sitio.
+  - Crear una biblioteca de página Wiki
+  - Añadir Partes Web.
+  - Gestionar Partes Web.
+
+
+  ### Módulo 7&#58; Biblioteca de Formularios
+  Una biblioteca de formularios de SharePoint es una biblioteca especial diseñada para almacenar documentos de formularios de Microsoft InfoPath. Microsoft InfoPath viene con una herramienta de diseño para crear gráficamente formularios con un amplio surtido de campos y controles. El InfoPath Designer se puede utilizar para publicar los formularios que diseñes en SharePoint, convirtiéndolos en plantillas de páginas web para bibliotecas de formularios. En el momento de escribir este artículo, Microsoft había declarado que InfoPath sería retirado. Para SharePoint 2019 dejaron la ayuda para la herramienta, pero no hay una versión 2019 de las herramientas cliente. Esto significa que puedes seguir utilizándola en SharePoint 2019, pero para crear formularios personalizados debes utilizar la herramienta InfoPath 2013 Designer. Es posible que las futuras versiones de SharePoint no admitan en absoluto los InfoPath forms. Por esta razón, la cobertura de este capítulo es opcional para este curso.
+
+  #### Lecciones
+  - Creación de una Biblioteca de Formularios
+  - Creación de InfoPath Forms 
+  - Crear un Formulario con Microsoft InfoPath Designer
+  - Publicar InfoPath Forms a SharePoint
+  - Publicar un InfoPath Form personalizado
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Crear y publicar InfoPath Forms
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender lo que es una Biblioteca de Formularios.
+  - Crear una Biblioteca de Formularios.
+  - Utilizar InfoPath Designer para diseñar una plantilla de formulario básica.
+  - Publicar una plantilla de formulario de InfoPath Designer en una Biblioteca de Formularios.
+  - Designar los campos de plantillas como columnas de biblioteca.
+  - Crear instancias para documentos en una Biblioteca de Formularios.
+
+
+  ### Módulo 8&#58; Columnas de Sitio y Tipos de Contenido
+  Un método para personalizar SharePoint, de forma que pueda reutilizarse en todo el sitio o colección de sitios o incluso en toda la granja, es crear Columnas de Sitio y Tipos de Contenido. Las columnas de sitio son el elemento más sencillo; son esencialmente lo mismo que la lista y las columnas de biblioteca, excepto que las creas a nivel de sitio y luego se pueden utilizar en todo ese sitio y en cualquier sitio hijo. Los Tipos de Contenido son una combinación de Columnas de Sitio, así como de ajustes e información adicionales, tales como plantillas de documentos y flujos de trabajo. Los Tipos de Contenido, una vez creados, pueden vincularse a listas y a bibliotecas.
+
+  #### Lecciones
+  - Galería de Columnas del Sitio
+  - Explora la Galería de Columnas del Sitio
+  - Crear Columnas del Sitio
+  - Crear una Columna de Sitio Personalizada
+  - Añadir una Columna del Sitio a una Lista
+  - Galería de Tipos de Contenido del Sitio
+  - Explora la Galería de Tipos de Contenido del Sitio
+  - Crear Tipos de Contenido
+  - Cómo Crear y Utilizar Tipos de Contenido
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Crear y Trabajar con Tipos de Contenido
+  - Añadir un Tipo de Contenido a una Biblioteca
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las Columnas del Sitio.
+  - Entender los Tipos de Contenido.
+  - Crear Columnas de Sitio.
+  - Crear Tipos de Contenido.
+  - Crear una plantilla de documento para un Tipo de Contenido.
+  - Asignar un Tipo de Contenido a una lista o biblioteca.
+  - Crear nuevos elementos basados en un Tipo de Contenido personalizado.
+
+
+  ### Módulo 9&#58; Integración de Office
+
+  Una de las mejores características de SharePoint es su capacidad de integración con las aplicaciones de Microsoft Office. Casi todas las aplicaciones de Office ofrecen algún nivel de integración con SharePoint, ya sea simple, como utilizar una hoja de cálculo de Excel para crear una nueva lista, o más completa, como la integración con Outlook. Algunas funciones de integración mejoran lo que está disponible online a través de un navegador, mientras que otras te permiten acceder al contenido de SharePoint offline, como en un entorno de ordenador portátil. Esta lección utilizará una serie de recorridos y ejercicios para mostrar cómo cada aplicación de Office puede integrarse con SharePoint.
+
+  Ten en cuenta que este capítulo explora la integración con Office instalado localmente en la máquina que se conecta a SharePoint. Office Online Server es una versión de Office basada en el navegador que te permite crear y modificar documentos de Office. Con SharePoint 2019, Office Online Server puede integrarse y se considera una pieza esencial para muchas instalaciones de SharePoint. Dicho esto, como es un producto independiente de SharePoint, no se incluye en este curso.
+  #### Lecciones
+  - Integración de Excel
+  - Importar una Hoja de Cálculo de Excel a una Lista
+  - Exportar Datos de la Lista a Excel
+  - Integración con Outlook
+  - Crear una alerta
+  - Suscribirse a una Fuente RSS de la Lista
+  - Conectar con Outlook
+  - Integración con Access
+  - Abrir una lista con Access
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear una lista a partir de una Hoja de Cálculo de Excel.
+  - Crear una alerta en Outlook.
+
+
+  ### Módulo 10&#58; Gestión de Permisos de Sitios de SharePoint
+  Los permisos en un sitio de SharePoint se asignan cuando se crea un sitio. Por defecto, los permisos asignados a la raíz de una colección de sitios son heredados por los sitios hijos. En cualquier momento, la herencia de permisos puede ser desactivada en un sitio, lista, biblioteca, o incluso en el nivel de elemento en una lista o biblioteca. Los propios permisos pueden asignarse a grupos de SharePoint, a usuarios individuales o a grupos creados fuera de SharePoint, como por ejemplo grupos de Windows.
+
+  #### Lecciones
+  - Grupos de SharePoint
+  - Asignación de Permisos
+  - Niveles de Permiso
+  - Herencia de Permisos
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Trabajando con Permisos de SharePoint
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender grupos de SharePoint.
+  - Crear grupos de SharePoint.
+  - Asignar permisos en SharePoint.
+  - Ver niveles de permisos.
+  - Gestionar la herencia de permisos a nivel de sitio.
+  - Gestionar la herencia de permisos a nivel de lista o biblioteca.
+
+
+  ### Módulo 11&#58; Participar en Comunidades de Usuarios
+  SharePoint ofrece a los usuarios un lugar para la colaboración social en forma de sitios personales. La experiencia y la funcionalidad son muy similares a las de los sitios de Redes Sociales más populares, como pueden ser Facebook y LinkedIn. La principal diferencia es que está controlada por SharePoint Farm y la exposición suele estar limitada a las redes internas.
+  #### Lecciones
+  - Configurar Perfiles de Usuario y Mis Sitios
+  - Fuentes de noticias
+  - Noticias de Personas
+  - Noticias de Documentos
+  - Noticias de Sitios
+  - Etiquetas de Noticias
+  - Gestión de Sitios Personales
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Gestión y Visualización de Información y Contenidos Personales
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Editar un perfil personal.
+
+  #### Lecturas adicionales
+  Ninguna.

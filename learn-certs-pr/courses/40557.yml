@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar soluciones que aprovechen los puntos fuertes de Cosmos DB en apoyo de soluciones analíticas avanzadas que requieran una ingesta de alto rendimiento, un servicio de baja latencia y una escala global en combinación con capacidades escalables de aprendizaje automático, grandes datos y procesamiento en tiempo real.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  En este taller, aprenderás a diseñar una solución de canalización de datos que aprovecha Cosmos DB tanto para la ingesta escalable de datos en flujo, como para el servicio globalmente distribuido de datos precalificados y modelos de aprendizaje automático. La solución aprovecha la alimentación de datos de cambio de Cosmos DB junto con Azure Databricks Delta para habilitar una solución moderna de almacén de datos que puede utilizarse para crear soluciones de reducción de riesgos para calificar las transacciones en busca de fraude en un enfoque offline, por lotes, y en un enfoque de solicitud/respuesta casi en tiempo real.
+
+  #### Perfil del asistente
+  Este taller está dirigido a Cloud Architects y profesionales de IT que tengan experiencia en arquitectura de infraestructura y diseño de soluciones en tecnologías en cloud y quieran aprender más sobre Azure y los servicios de Azure, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas". Los asistentes a este taller también deben tener experiencia en otras tecnologías en cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y desear una formación cruzada en Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - Análisis avanzado en tiempo real de Cosmos DB
+  #### Lecciones
+  - Repasar el caso de estudio del cliente
+  - Diseñar una solución de prueba de concepto
+  - Presentar la solución
+
+
+  ### Módulo 2&#58; Laboratorio Práctico - Análisis avanzado en tiempo real de Cosmos DB
+  #### Lecciones
+  - Recogida de datos de transacciones en streaming
+  - Comprender y preparar los datos de las transacciones a escala
+  - Creación y evaluación de modelos de fraude
+  - Escalar globalmente
+  - Elaboración de informes

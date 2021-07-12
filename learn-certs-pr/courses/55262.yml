@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Introduction to SharePoint for Office 365 Training
+metadata:
+  title: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+  description: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+uid: course.55262
+courseNumber: '55262-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navegar por un Sitio de Grupo en SharePoint.
+- skill: Crear listas en SharePoint.
+- skill: Personalizar listas en SharePoint.
+- skill: Crear bibliotecas en SharePoint.
+- skill: Gestionar versiones de documentos de biblioteca.
+- skill: Crear vistas de listas y bibliotecas en SharePoint.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Esta clase de Introduction to SharePoint for Office 365, de 1 día de duración, está dirigida a usuarios finales que trabajan en un entorno de SharePoint. Es una versión abreviada de nuestra clase completa de SharePoint for Office 365 End User y está pensada para personas que son nuevas en el uso de SharePoint y que no serán responsables de la gestión de un sitio de SharePoint.
+
+  #### Perfil del asistente
+  Este curso está dirigido a usuarios finales que trabajan en un entorno de SharePoint.
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### Módulo 1&#58; Configuración de SharePoint 365
+  Este módulo explica cómo configurar el sitio de muestra para la clase.
+  #### Lecciones
+  - SharePoint Online
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Configurar el sitio de muestra para la clase.
+
+
+  ### Módulo 2&#58; Introducción a SharePoint 365
+  SharePoint 365 es una herramienta de colaboración en su esencia. Su objetivo principal es facilitar que los usuarios encuentren y compartan información, y hay muchas funciones integradas en SharePoint para facilitarlo. La función de sistema de bibliotecas de SharePoint puede proporcionar una alternativa superior al servidor de archivos tradicional. Las listas de SharePoint pueden ser una alternativa fácil de diseñar y utilizar a la hora de compartir archivos de hojas de cálculo o tablas de bases de datos más formales.
+  Tanto las listas como las bibliotecas pueden personalizarse y ampliarse para proporcionar una mejor apariencia y funcionalidad. Toda esta colaboración puede realizarse a través de una interfaz de navegador.
+  #### Lecciones
+  - SharePoint Online
+  - Presentación del Sitio y Navegación
+  - Navegación
+
+
+  #### Laboratorio &#58; Navegación por el Sitio de Grupo
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Aprender sobre SharePoint online.
+  - Aprender sobre la jerarquía de sitios de SharePoint.
+
+
+  ### Módulo 3&#58; Fundamentos sobre las listas de SharePoint
+  Las listas son un bloque de Construcción fundamental en SharePoint que proporciona a los usuarios una forma de almacenar y visualizar datos. SharePoint viene con muchas plantillas de listas predefinidas "fuera de lo común" que son fáciles de utilizar. Las listas pueden personalizarse aún más añadiendo columnas para almacenar casi cualquier tipo de información. Además, las columnas de las listas se pueden validar y enlazar entre otras listas. Las listas son una herramienta muy flexible y poderosa en SharePoint.
+
+  #### Lecciones
+  - Crear Aplicaciones Utilizando Plantillas de Listas
+  - Crear Listas
+  - Columnas de Lista
+  - Validación de Columnas
+
+
+  #### Laboratorio &#58; Trabajar con Listas de Sitio de Grupo
+
+  #### Laboratorio &#58; Crear Listas y Columnas Personalizadas
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender Plantillas de Listas.
+  - Trabajar con listas predeterminadas en un Sitio de Grupo.
+  - Crear una nueva lista a partir de una Plantilla de Lista.
+  - Crear una lista personalizada.
+  - Añadir columnas a una lista.
+  - Controlar y validar aportaciones a campos de lista.
+  - Vincular datos desde listas separadas.
+
+
+  ### Módulo 4&#58; Fundamentos de Bibliotecas
+  Las Bibliotecas de SharePoint comparten las mismas características que las listas de SharePoint, como columnas, vistas y validación, por nombrar algunas. Lo que distingue a SharePoint Libraries es que cada elemento de una biblioteca tiene un documento subyacente. Por tanto, además de los datos almacenados en las columnas de la biblioteca, el documento almacena sus propios datos en función del tipo de documento. Debido a los datos adicionales que pueden almacenarse en columnas, que pueden utilizarse para filtrar y buscar, y a funciones como el versionado, las bibliotecas se consideran un gran sustituto del sistema de servidor de archivos más tradicional. Las bibliotecas son, al igual que las listas, un bloque de Construcción fundamental en un sitio de SharePoint.
+  #### Lecciones
+  - Plantillas de Biblioteca
+  - Creación de Biblioteca
+  - Gestión de Documentos y Versionado
+
+
+  #### Laboratorio &#58; Trabajar con Bibliotecas de Sitio de Grupo
+
+  #### Laboratorio &#58; Creación de Bibliotecas
+
+  #### Laboratorio &#58; Versionado de Documentos
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear nuevas bibliotecas utilizando plantillas de biblioteca.
+  - Trabajar con las distintas bibliotecas de un Sitio de Grupo por defecto.
+  - Añadir columnas a una biblioteca.
+  - Consultar documentos para editarlos.
+  - Eliminar y restaurar documentos desde bibliotecas de documentos.
+  - Activar el versionado en una biblioteca.
+  - Revertir un documento de biblioteca a una versión anterior.
+
+
+  ### Módulo 5&#58; Trabajar con Listas y Vistas de Biblioteca
+  Las vistas proporcionan un sistema flexible para mostrar datos de listas y bibliotecas de SharePoint de forma fácil de leer y utilizar. Cada lista y biblioteca de SharePoint puede tener varias vistas creadas y configuradas, y algunas plantillas de listas y bibliotecas vienen con vistas especiales preconfiguradas. Las vistas pueden definirse para uso personal o compartido.
+  #### Lecciones
+  - Vistas por Defecto
+  - Vistas Personalizadas
+
+
+  #### Laboratorio &#58; Trabajar con Vistas
+
+  #### Laboratorio &#58; Crear Vistas Públicas y Personales
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar vistas por defecto integradas en listas y bibliotecas.
+  - Crear vistas personales.
+  - Crear vistas compartidas.
+  - Configurar vistas.
+  - Establecer la vista por defecto de una lista o biblioteca.
+
+
+  ### Módulo 6&#58; Trabajar con Sitios
+  Se accede a todo el contenido de SharePoint a través de un sitio. Un sitio de SharePoint es el contenedor de listas y bibliotecas y proporciona un punto de partida para su administración básica. El contenido, listas, bibliotecas y el aspecto básico de un sitio están determinados inicialmente por la Plantilla de Sitio utilizada para crear el sitio.
+  #### Lecciones
+  - Plantillas de Sitios
+  - Creación de Sitios
+  - Navegación por el Sitio
+
+
+  #### Laboratorio &#58; Creación de Sitios de Grupo
+
+  #### Laboratorio &#58; Creación de un Sitio para Blogs
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son las Plantillas de Sitio.
+  - Entender diferentes tipos de Plantillas de Sitio que vienen "fuera de lo común" con diferentes versiones de SharePoint.
+  - Crear un nuevo sitio utilizando Plantillas de Sitio.
+  - Crear un sitio de Proyecto.
+  - Crear un Sitio de Grupo.
+  - Crear un Sitio para Blogs.
+  - Gestionar los sitios que aparecen en la barra de enlaces superior.
+
+  #### Lectura adicional
+  N/D

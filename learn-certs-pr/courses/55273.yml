@@ -1,0 +1,175 @@
+### YamlMime:Course
+title: Intermediate Microsoft Word 2019
+metadata:
+  title: 'Course 55273-A: Intermediate Microsoft Word 2019'
+  description: 'Course 55273-A: Intermediate Microsoft Word 2019'
+uid: course.55273
+courseNumber: '55273-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprende a utilizar las herramientas de edición avanzadas de Word 2019.
+- skill: Aprender a trabajar con imágenes, incluyendo la colocación y el tamaño de las imágenes, el ajuste del texto alrededor de las imágenes y el uso de bordes y efectos.
+- skill: Aprender a ajustar la orientación y el diseño de páginas.
+- skill: Aprender a trabajar con columnas.
+- skill: Aprender a trabajar con saltos de página y de sección.
+- skill: Aprender sobre las vistas de documentos, utilizar el panel de navegación y ver varias ventanas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Los estudiantes de esta clase de formación Intermediate Word 2019 deben ser ya capaces de crear, editar e imprimir documentos de Word 2019 en Windows. En esta clase, los estudiantes aprenderán a formatear de forma avanzada, a utilizar las herramientas de dibujo de Word 2019, a crear y gestionar tablas y a trabajar con diseños de columnas.
+
+  #### Perfil del asistente
+  Este curso está dirigido a estudiantes que tienen habilidades básicas con Microsoft Word 2019 y que quieren aprender habilidades de nivel intermedio o a estudiantes que quieren aprender los temas tratados en este curso en la interfaz de 2019.
+prerequisitesSection: |-
+  - Habilidades básicas de Microsoft Word
+outlineSection: |-
+  ### Módulo 1&#58; Formateo Avanzado
+  Este módulo explica cómo utilizar técnicas de formateo avanzadas en Microsoft Word.
+  #### Lecciones
+  - Sombreado y Bordes
+  - Establecer el Espacio entre Líneas y Párrafos
+  - Cambiar Estilos
+  - Marcas de Párrafo y Otros Símbolos de Formateo
+  - Utilizar los Símbolos de Formateo
+  - Edición de Documentos PDF en Microsoft Word
+
+
+  #### Laboratorio &#58; Ejercicios de Formateo Avanzado
+  - Utilizar Sombreado y Bordes
+  - Cambiar Estilos
+  - Utilizar Símbolos de Formateo
+  - Edición de Documentos PDF y Microsoft Word
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Utilizar el sombreado y los bordes para mejorar sus documentos.
+  - Establecer el espaciado entre líneas y párrafos.
+  - Formatear tu documento utilizando estilos.
+  - Mostrar, ocultar y utilizar símbolos de formateo.
+  - Editar PDFs en Word.
+
+  ### Módulo 2&#58; Trabajar con Tablas
+  Este módulo explica cómo trabajar con tablas en Microsoft Word.
+  #### Lecciones
+  - Insertar una tabla
+  - Estilos de tabla
+  - Formatear una tabla
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Tablas
+  - Insertar una Tabla
+  - Añadir Estilos a una Tabla
+  - Formatear una Tabla
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar una tabla en un documento.
+  - Formatear una tabla utilizando estilos.
+  - Formatear datos dentro de una tabla.
+
+
+  ### Módulo 3&#58; Trabajar con Imágenes
+  Este módulo explica cómo trabajar con imágenes en Microsoft Word.
+  #### Lecciones
+  - Insertar Imágenes
+  - Colocar y Dimensionar Imágenes
+  - Envolver un Texto alrededor de una Imagen
+  - Ajustar Imágenes
+  - Bordes y Efectos
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Imágenes
+  - Insertar una Imagen en un Documento de Microsoft Word
+  - Colocar y Dimensionar una Imagen en un Documento Microsoft Word
+  - Envolver un Texto alrededor de una Imagen
+  - Ajustar Imágenes en Microsoft Word
+  - Añadir Bordes y Efectos a Imágenes en Microsoft Word
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar imágenes en un documento de Microsoft Word.
+  - Colocar y dimensionar imágenes en un documento de Microsoft Word.
+  - Envolver el texto alrededor de imágenes.
+  - Ajustar el aspecto de las imágenes.
+  - Añadir bordes y efectos a las imágenes.
+
+
+  ### Módulo 4&#58; Diseño de Página
+  Este módulo explica cómo trabajar con las opciones de diseño de página en Microsoft Word.
+  #### Lecciones
+  - Orientación y Tamaño del Papel
+  - Utilizar Guías de Alineación y Diseño en Vivo
+  - Trabajar con Columnas
+  - Formateo Avanzado
+  - Trabajar con Campos
+  - Saltos de Página y de Sección
+
+
+  #### Laboratorio &#58; Ejercicios de Diseño de Página
+  - Cambiar la Configuración de la Página
+  - Añadir Saltos de Página y de Sección
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Establecer la orientación de la página como vertical u horizontal.
+  - Establecer el tamaño de impresión del papel.
+  - Dividir el texto en varias columnas.
+  - Añadir saltos de página.
+  - Añadir saltos de sección.
+
+
+  ### Módulo 5&#58; Trabajar con Ilustraciones
+  Este módulo explica cómo trabajar con Ilustraciones en Microsoft Word.
+  #### Lecciones
+  - Añadir y Editar Gráficos
+  - Trabajar con Imágenes Prediseñadas 
+  - Utilizar Formas
+  - Trabajar con iconos
+  - Trabajar con SmartArt
+
+  - Creación de Títulos
+  - Utilizar Bloques de Construcción
+
+
+  #### Laboratorio &#58; Ejercicios de Trabajo con Ilustraciones
+  - Trabajar con Gráficos
+  - Trabajar con Imágenes Prediseñadas
+  - Añadir Formas
+  - Trabajar con Smart Art
+  - Insertar un Bloque de Construcción en un Documento
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Insertar gráficos en documentos de Microsoft Word.
+  - Editar gráficos en documentos de Microsoft Word.
+  - Utilizar imágenes prediseñadas para ilustrar tus documentos.
+  - Insertar formas en documentos de Microsoft Word.
+  - Utilizar SmartArt para ilustrar tus documentos.
+  - Utilizar subtítulos.
+  Utilizar Bloques de Construcción de Word
+
+  ### Módulo 6&#58; Ver Tus Documentos
+  Este módulo explica cómo trabajar con las opciones de visualización en Microsoft Word.
+  #### Lecciones
+  - Vistas de Documentos
+  - Utilizar el Panel de Navegación
+  - Ventanas Múltiples
+
+
+  #### Laboratorio &#58; Ejercicios de Visualización de Documentos
+  - Utilizar el Panel de Navegación
+  - Trabajar con Varias Ventanas
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Mostrar y ocultar el panel de navegación.
+  - Utilizar el panel de navegación para llegar rápidamente a las diferentes secciones de su documento.
+  - Utilizar el panel de navegación para reorganizar el documento.
+  - Utilizar el panel de navegación para buscar dentro del documento.
+  - Utiliza varias ventanas para ver diferentes partes de un documento al mismo tiempo.
+  - Utiliza varias ventanas para ver varios documentos a la vez.
+
+  #### Lectura adicional
+  N/D

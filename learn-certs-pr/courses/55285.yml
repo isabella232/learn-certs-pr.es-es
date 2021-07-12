@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Advanced Python
+metadata:
+  title: 'Course 55285-A: Advanced Python'
+  description: 'Course 55285-A: Advanced Python'
+uid: course.55285
+courseNumber: '55285-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Trabajar con el módulo de Colecciones.
+- skill: Entender el mapeo y el filtrado y funciones lambda.
+- skill: Realizar una ordenación avanzada.
+- skill: Trabajar con expresiones regulares en Python.
+- skill: Trabajar con bases de datos, archivos CSV, JSON y XML.
+- skill: Escribir código orientado a objetos en Python.
+- skill: Probar y depurar tu código en Python.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  En este curso de formación de Python, los estudiantes que ya están familiarizados con la programación en Python aprenderán técnicas avanzadas de Python.
+  Este curso avanzado de Python se imparte utilizando Python 3; sin embargo, se observan las diferencias entre Python 2 y Python 3. Para las clases privadas de Python, nuestro instructor puede centrarse específicamente en Python 2 si se desea.
+
+  #### Perfil del asistente
+  Ninguno
+prerequisitesSection: |-
+  Se requiere experiencia en lo siguiente para esta clase de Python&#58;
+  - Experiencia básica en programación con Python. En particular, debes sentirte muy cómodo con&#58;
+      1. Trabajar con cadenas.
+      2. Trabajar con listas, tuplas y diccionarios.
+      3. Bucles y condicionales.
+      4. Escribir tus propias funciones.
+
+  La experiencia en lo siguiente sería útil para esta clase de Python&#58;
+  - Alguna experiencia con HTML, XML, JSON y SQL.
+outlineSection: |-
+  ### Módulo 1&#58; Conceptos Avanzados de Python
+  En esta lección, aprenderás acerca de algunas funcionalidades y técnicas de Python que se utilizan habitualmente, pero que requieren una base sólida en Python para entenderlas.
+
+  #### Lecciones
+  - Funciones Lambda
+  - Comprensión Avanzada de Listas
+  - Módulo de Colecciones
+  - Mapeo y filtrado
+  - Objetos Integrados Mutables e Inmutables
+  - Ordenación
+  - Desempaquetar Secuencias en las Llamadas de Función
+
+
+  #### Laboratorio &#58; Ejercicios de esta lección
+  - Tirar cinco dados
+  - Crear un defaultdict
+  - Crear un OrderedDict
+  - Crear un contador
+  - Trabajar con un deque
+  - Convertir list.sort() en sorted(iterable)
+  - Convertir una cadena en un objeto datetime.date
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Trabajar con funciones lambda.
+  - Escribir comprensiones de listas más avanzadas.
+  - Trabajar con el módulo de colecciones para crear tuplas con nombre, defaultdicts, ordereddicts, contadores, deque
+  - Utilizar mapeo y filtrado.
+  - Ordenar secuencias.
+  - Desempaquetar secuencias en llamadas de función.
+  - Crear módulos y paquetes.
+
+
+  ### Módulo 2&#58; Trabajar con Datos
+  Los datos son almacenados en muchos lugares diferentes y de muchas formas distintas. Hay módulos de Python para todas las maneras más habituales.
+
+  #### Lecciones
+  - Bases de Datos Relacionales
+  - CSV
+  - Conseguir Datos de la Web
+  - JSON
+
+
+  #### Laboratorio &#58; Ejercicios de esta Lección
+  - Consultar de una Base de Datos SQLite
+  - Inserción de Datos de Archivos en una Base de Datos
+  - Comparación de Datos en un Archivo CSV
+  - Peticiones y Beautiful Soup 
+  - Utilizar JSON para Imprimir Datos del Curso
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Acceder y trabajar con datos almacenados en una base de datos relacional.
+  - Acceder y trabajar con datos almacenados en un archivo CSV.
+  - Conseguir datos de una página web.
+  - Acceder y trabajar con datos almacenados en HTML y XML.
+  - Accede a una API.
+  - Acceder y trabajar con datos almacenados como JSON.
+
+
+  ### Módulo 3&#58; Prueba y Depuración
+  Este módulo explica cómo probar y depurar utilizando Python.
+  #### Lecciones
+  - Pruebas para Obtener Rendimiento
+  - El Módulo unittest
+
+
+  #### Laboratorio &#58; Ejercicios de esta Lección
+  - Corrección de Funciones
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Probar el rendimiento con temporizadores y utilizando el módulo timeit.
+  - Escribir pruebas unitarias utilizando el módulo unittest.
+
+
+  ### Módulo 4&#58; Clases y Objetos
+  Un objeto es algo que tiene atributos y/o comportamientos, es decir, que es de determinadas maneras y hace determinadas cosas. En el mundo real, todo puede considerarse un objeto. Algunos objetos son tangibles, como rocas, árboles, raquetas de tenis y tenistas. Y algunos objetos son intangibles, como palabras, colores, saques de tenis y partidos de tenis.
+
+  #### Lecciones
+  - Atributos
+  - Comportamientos
+  - Clases vs. Objetos
+  - Atributos y Métodos
+  - Atributos Privados
+  - Propiedades
+  - Documentar las Clases
+  - Herencia
+  - Métodos Estáticos
+  - Atributos y Métodos de Clases
+  - Clases y Métodos Abstractos
+  - Entender los Decoradores
+
+
+  #### Laboratorio &#58; Ejercicios de esta Lección
+  - Añadir un Método roll() a Die
+  - Propiedades
+  - Documentar la Clase Die
+  - Ampliación a la Clase Die
+  - Extender el Método roll()
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Crear clases y objetos en Python.
+
+  - Escribe métodos de instancia, métodos de clase y métodos estáticos.
+  - Definir propiedades.
+  - Crear subclases utilizando herencia.
+  - Crear clases abstractas.
+  - Documentar adecuadamente las clases Python.
+  - Entender cómo funcionan los decoradores.
+
+  #### Lecturas adicionales
+  Ninguno

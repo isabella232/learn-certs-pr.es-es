@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2019: Getting Started'
+metadata:
+  title: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+  description: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+uid: course.55288
+courseNumber: '55288-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a crear y gestionar proyectos sencillos.
+- skill: Aprender a introducir y gestionar tareas.
+- skill: Aprender a trabajar con un calendario de proyectos.
+- skill: Aprender a añadir y gestionar recursos del proyecto y trabajar con la hoja de recursos.
+- skill: Aprender a crear informes básicos para tu proyecto.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  En esta clase de Introduction to Microsoft Project 2019&#58; Getting Started, los estudiantes dedicarán tiempo a sentirse cómodos con la interfaz de usuario de Project 2019 o Project 365, incluyendo las vistas del proyecto y la cinta de opciones. También aprenderán a introducir, organizar y vincular tareas, trabajar con recursos, crear informes básicos y crear proyectos de forma independiente. El curso permite practicar habilidades básicas fundamentales imprescindibles para utilizar eficazmente este programa.
+
+  #### Perfil del asistente
+  Este curso está dirigido a nuevos usuarios de Microsoft Project.
+outlineSection: |-
+  ### Módulo 1&#58; Componentes de un Proyecto
+  En esta lección, repasaremos los componentes de un proyecto que se tratan en detalle en este curso y presentaremos los proyectos de ejemplo que se utilizarán en este curso.
+
+  #### Lecciones
+  - Componentes de un Proyecto.
+  - Proyectos de Demostración y Ejercicio Utilizados en este curso.
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender los componentes de un proyecto.
+  - Trazar un proyecto.
+  - Probar proyectos que se utilizan en este curso.
+
+
+  ### Módulo 2&#58; Cómo Desenvolverse en Microsoft Project
+  En esta lección, aprenderás a iniciar Project 2019 y te familiarizarás con la cinta de opciones, incluyendo las pestañas, los grupos y los comandos. Una sólida comprensión del funcionamiento de la cinta de opciones y la capacidad de navegar por las diferentes partes de la cinta de opciones te harán empezar a utilizar correctamente Microsoft Project 2019.
+
+  #### Lecciones
+  - Proyecto de Inicio
+  - La Cinta de Opciones
+  - La Vista Backstage
+  - Recorrido por la Barra de Herramientas de Acceso Rápido
+  - Formateo Básico
+
+
+  #### Laboratorio &#58; Ejercicios
+  - Entender la Cinta de opciones
+  - Abrir y Guardar un Proyecto
+  - Introducir Información del Proyecto
+  - Añadir y Eliminar Comandos desde la Barra de Herramientas de Acceso Rápido
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Iniciar Project 2019.
+  - Trabajar con pestañas, grupos y comandos de la Cinta de opciones.
+  - Ocultar la Cinta de opciones.
+  - Utilizar la Vista Backstage.
+  - Introducir información del proyecto.
+  - Personalizar la Barra de Herramientas de Acceso Rápido.
+  - Utilizar el formateo básico en Project 2019.
+
+
+  ### Módulo 3&#58; Calendarios
+  Este módulo explica cómo trabajar con calendarios.
+  #### Lecciones
+  - Fecha de Inicio del Proyecto
+  - Crear el Calendario del Proyecto
+  - Conectar un Calendario a un Proyecto
+  - Formatear la Línea de Tiempo para que coincida con un Calendario Personalizado
+
+  #### Lecturas adicionales
+  Ninguno

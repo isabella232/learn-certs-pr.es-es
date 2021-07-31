@@ -7,7 +7,6 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  
   Candidatos para la certificación Azure AI Engineer Associate deben tener experiencia en la materia construyendo, administrando e implementando soluciones de AI que aprovechan Azure Cognitive Services, Azure Cognitive Search y Microsoft Bot Framework.
   
   Sus responsabilidades incluyen participar en todas las fases de desarrollo de soluciones AI—desde la definición de los requisitos y el diseño hasta su desarrollo, implantación, mantenimiento, ajuste del rendimiento y supervisión.

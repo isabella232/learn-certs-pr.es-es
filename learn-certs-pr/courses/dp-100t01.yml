@@ -1,9 +1,9 @@
-﻿### YamlMime:Course
+### YamlMime:Course
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  uid: course.dp-100t01
+uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg

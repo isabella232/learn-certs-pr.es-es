@@ -1,0 +1,138 @@
+### YamlMime:Course
+title: Data Analysis Fundamentals using Excel
+metadata:
+  title: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+  description: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+uid: course.10994
+courseNumber: '10994-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crear un informe de Excel
+- skill: Crear una tabla de Excel
+- skill: Crear un Pivot table y un Pivot chart
+- skill: Crear un cuadro de mando y analizar datos
+- skill: Crear Jerarquías
+- skill: Crear un modelo de datos de Excel y conectar con datos externos
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  El objetivo principal del curso es dar a los estudiantes la capacidad de añadir capacidades de análisis a las hojas de cálculo de Excel y proporcionar a los estudiantes una base para aprender sobre análisis de datos más avanzados con Excel o Power BI.
+
+  #### Perfil del asistente
+  Este curso está dirigido a cualquier persona que quiera llevar las tecnologías de análisis de datos de Excel más allá de las fórmulas y añadir capacidades más avanzadas, como cuadros de mando, jerarquías y relaciones.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Conocimientos básicos del sistema operativo Microsoft Windows y su funcionalidad principal.
+  - Conocimientos avanzados en hojas de cálculo Excel, incluyendo fórmulas.
+outlineSection: |-
+  ### Módulo 1&#58; Informes en Excel
+  Este módulo explica cómo crear un informe en Excel
+  #### Lecciones
+  - Filtrar y Formatear Datos
+  - Gráficos
+
+  #### Laboratorio &#58; Crear un informe en Excel
+  - Filtrar Datos en Excel
+  - Formatear Datos en Excel
+  - Crear Gráficos en Excel
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Filtrar y formatear datos.
+  - Crear gráficos.
+
+  ### Módulo 2&#58; Tablas en Excel
+  Este módulo explica cómo crear tablas de datos en Excel
+  #### Lecciones
+  - Tablas de datos en Excel
+  - Resumir datos
+
+  #### Laboratorio &#58; Crear una tabla en Excel
+  - Crear una tabla en Excel
+  - Resumir datos en Excel
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Explicar qué son las tablas de datos en Excel.
+  - Ordenar, filtrar y validar datos.
+  - Resumir datos.
+  - Formatear los datos resumidos.
+
+
+  ### Módulo 3&#58; Pivot Tables y Pivot charts
+  Este módulo describe las pivot tables y pivot charts y cómo trabajar con ellas.
+  #### Lecciones
+  - Pivot Tables 
+  - Pivot Charts
+  - Editar Pivot Tables y Pivot Charts
+
+
+  #### Laboratorio &#58; Importación de Datos desde un Archivo CSV
+  - Creación de un Pivot Table
+  - Creación de un Pivot chart
+  - Edición de Pivot Tables y Pivot Charts
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir Pivot Tables y cómo crearlas.
+  - Describir los distintos elementos de un Pivot chart.
+  - Editar Pivot tables y Pivot charts.
+
+
+  ### Módulo 4&#58; Cuadros de Mando
+  Este módulo describe los cuadros de mando de Excel, cómo crearlos y el rol en el análisis de datos en Pivot Tables de Excel.
+  #### Lecciones
+  - Crear un Cuadro de Mando
+  - Análisis de Datos en Excel Pivot Tables
+
+
+  #### Laboratorio &#58; Crear un Cuadro de Mando
+  - Organizar Tablas y Gráficos
+  - Rebanar datos
+  - Análisis de Datos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir un cuadro de mando.
+  - Filtrar los datos utilizando un slicer.
+  - Añadir columnas calculadas a un cuadro de mando.
+  - Encontrar anomalías.
+
+
+  ### Módulo 5&#58; Jerarquías
+  Este módulo describe jerarquías y datos temporales.
+  #### Lecciones
+  - Jerarquías
+  - Datos temporales
+
+
+  #### Laboratorio &#58; Crear jerarquías
+  - Crear una Jerarquía
+  - Configurar datos Temporales
+  - Crear un Gráfico Temporal Animado
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir jerarquías.
+  - Crear niveles dentro de una jerarquía.
+  - Explicar por qué los datos temporales son diferentes y cómo trabajar con ellos.
+
+
+  ### Módulo 6&#58; El Modelo de Datos de Excel
+  Este módulo explora el Modelo de Datos de Excel y examina las formas de ampliarlo.
+  #### Lecciones
+  - Utilizar un Modelo de Datos de Excel
+  - Datos externos
+
+  #### Laboratorio &#58; Explorar un Modelo de Datos de Excel
+  - Añadir varias tablas
+  - Crear relaciones
+  - Añadir Datos Externos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Explicar un Modelo de Datos de Excel y cómo utilizarlo.
+  - Importar datos externos y utilizarlos.
+  - Enlazar con datos externos.

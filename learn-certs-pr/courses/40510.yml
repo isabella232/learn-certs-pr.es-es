@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+metadata:
+  title: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+  description: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+uid: course.40510
+courseNumber: '40510-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Al finalizar este taller, serás capaz de diseñar una solución híbrida de recuperación de desastres entre un entorno VMWare en las instalaciones y Azure. Además, diseñarás una solución de escalado de SQL Server, protegerás las copias de seguridad de las bases de datos frente a fallos locales, archivarás datos fríos de un SQL Server en las instalaciones y realizarás un cifrado integral de los datos sensibles de aplicaciones.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  En este taller, trabajarás con una empresa editora de Multimedia para diseñar una solución de recuperación de desastres en cloud híbrida. Diseñarás la solución para manejar grandes picos de carga y endurecerás la seguridad para incluir el cifrado de datos de la Industria de Tarjetas de Pago (PCI). Además, pondrás en práctica una estrategia de archivo para mantener el tamaño de las bases de datos bajo control.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los arquitectos cloud y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en tecnologías cloud y quieren aprender más sobre Azure y Azure services, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas". Los asistentes a este taller también deben tener experiencia en otras tecnologías cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y querer hacer una formación cruzada en Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - SQL Server hybrid cloud
+  #### Lecciones
+  - Repasa el caso de estudio del cliente
+  - Diseñar una solución de prueba de concepto
+  - Presentar la solución
+
+  ### Módulo 2&#58; Laboratorio práctico - SQL Server hybrid cloud
+  #### Lecciones
+  - Solución de copia de seguridad de SQL
+  - Implementar una Estrategia de Archivo de Datos con SQL Server Stretch Database
+  - Crear un Grupo de Disponibilidad SQL para la Recuperación de Desastres de la Base de Datos
+  - Configurar Azure Site Recovery para Web Tier DR
+  - Cambiar al Sitio de Recuperación de Desastres

@@ -6,6 +6,8 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
+ <div><font color="red"><strong>El contenido de este examen se actualizará el 23 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+ 
   El creador de la aplicación crea soluciones para simplificar, automatizar y transformar tareas y procesos para ellos y su equipo, donde tienen una gran experiencia en el dominio de la solución. Están capacitados en tareas clave de analista técnico de negocios, como modelado de datos, diseño básico de UX, análisis de requisitos, análisis de procesos, etc.<br/><br/>
 
   El creador de la aplicación crea y aplica procesos empresariales, estructura la recopilación digital de información, mejora la eficiencia de las tareas repetibles y automatiza los procesos empresariales.
@@ -13,7 +15,7 @@ summary: |-
   App Maker utiliza las herramientas Maker de Power Platform para resolver problemas comerciales. Pueden tener experiencia con Visual Basic para aplicaciones, tablas dinámicas de Excel, equipos y otras herramientas. Deben tener una comprensión básica de los modelos de datos, la interfaz de usuario y los procesos. App Maker conoce las capacidades y limitaciones de las herramientas disponibles y sabe cómo aplicarlas.
 
   App Maker es autodirigido y se centra en soluciones. Es posible que no tengan capacitación formal en TI, pero se sienten cómodos usando la tecnología para resolver problemas comerciales con una mentalidad de crecimiento personal. Entienden la necesidad operativa y tienen una visión del resultado deseado. Abordan los problemas con estrategias escalonadas e iterativas.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: soluciones de diseño; crear soluciones; analizar datos; e implementar y gestionar soluciones.'
+subTitle: 'Este examen mide tu capacidad para realizar las siguientes tareas técnicas Diseñar soluciones, Crear soluciones, Analizar datos, Implementar y gestionar soluciones'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 providers:
@@ -26,9 +28,10 @@ locales:
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el 23 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Diseñar soluciones (10-15%)
-- Crear soluciones (55-60%)
-- Analizar y visualizar datos (5-10%)
+- Crear soluciones (50-55%)
+- Analizar datos (5-10%)
 - Implementar y gestionar soluciones (15-20%)
 roles:
 - business-analyst

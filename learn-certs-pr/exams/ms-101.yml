@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 29 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   
   Los candidatos para este examen deben tener conocimientos básicos de conceptos de aprendizaje automático (ML) e inteligencia artificial (AI) y servicios relacionados de Microsoft Azure. Realizan tareas de administración de inquilinos de Microsoft 365 para una empresa, incluidas sus identidades, seguridad, cumplimiento y tecnologías de soporte.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 29 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Implementar servicios de dispositivos modernos (40-45%)
 - Implementar la gestión de amenazas y seguridad de Microsoft 365 (20-25%)
 - Gestionar la gobernanza y el cumplimiento de Microsoft 365 (35-40%)

@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Al finalizar este taller, estarás más capacitado para diseñar un plan de modernización para organizaciones que deseen trasladar los servicios de sus instalaciones a cloud.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  En este taller, entenderás mejor los pasos que hay que seguir para modernizar aplicaciones e infraestructuras locales heredadas aprovechando los servicios cloud, al tiempo que añades una mezcla de servicios web y móviles, todo ello protegido mediante Azure Active Directory.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los arquitectos cloud y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en tecnologías cloud y quieren aprender más sobre Azure y Azure services, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas". Los asistentes a este taller también deben tener experiencia en otras tecnologías cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y querer hacer una formación cruzada en Azure.
+prerequisitesSection: |-
+  El contenido del taller presupone un nivel 300 de conocimientos arquitectónicos de diseño de infraestructuras y soluciones. Sugerimos a los estudiantes que realicen este prerrequisito antes de asistir a este taller.
+  - Microsoft Azure Essentials curso, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño en Pizarra Blanca - Modernización de aplicaciones
+  #### Lecciones
+  - Repasar el caso de estudio del cliente
+  - Diseñar una solución de prueba de concepto
+  - Presenta la solución
+
+
+  ### Módulo 2&#58; Laboratorio Práctico - Modernización de aplicaciones
+  #### Lecciones
+  - Migrar la base de datos a Azure SQL Database
+  - Aprovisionar Servicios de Aplicaciones
+  - Identidad y seguridad
+  - Sube PDFs al almacenamiento blob
+  - Crear una API sin servidor para acceder a PDFs
+  - Crear un servicio Azure Search
+  - Configurar Key Vault
+  - Configurar e implementar la Contoso Insurance Web API
+  - Configurar e implementar la aplicación web Contoso Insurance
+  - Configurar y ejecutar la aplicación de escritorio heredada (Windows Forms)
+  - Configurar y ejecutar la aplicación móvil
+  - Crea una aplicación Flow para enviar notificaciones push
+  - Crea una aplicación en PowerApps
+  - Añadir Azure Function a Azure API Management

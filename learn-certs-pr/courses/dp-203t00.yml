@@ -3,7 +3,7 @@ title: Data Engineering on Microsoft Azure
 metadata:
   title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
   description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
-  uid: course.dp-203t00
+uid: course.dp-203t00
 courseNumber: 'DP-203T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg

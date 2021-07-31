@@ -12,9 +12,9 @@ ms.prod: non-product-specific
 ---
 # Renueve su certificación de Microsoft
 
-Las Certificaciones de Microsoft validan tener las habilidades y los conocimientos necesarios para desempeñarse con éxito en los puestos de trabajo de una empresa digital moderna. Las certificaciones pueden ayudar a abrir oportunidades profesionales y demostrar su capacidad para ayudar a la transformación digital de su organización. Y, dada la velocidad a la que evoluciona la tecnología en un mundo en la nube, es importante mantener actualizadas sus habilidades y su certificación activa.
+Las Microsoft Certification validan que tienes las habilidades y conocimientos necesarios para desempeñar con éxito los roles de trabajo en una empresa digital moderna. Las certificaciones pueden abrir oportunidades profesionales y demostrar tu capacidad para apoyar la transformación digital de tu organización. Dada la velocidad a la que evolucionan las tecnologías de cloud, es importante mantener tus habilidades actualizadas y tu certificación activa.
 
-El 15 de diciembre, Microsoft [presentó un nuevo enfoque](https://aka.ms/CertRenewalBlog) para ayudar a que los alumnos se mantengan actualizados. Quienes tienen una certificación activa cuya fecha de vencimiento es dentro de los seis meses pueden renovar su certificación anualmente, sin costo, al aprobar una evaluación de renovación en Microsoft Learn.
+El 15 de diciembre de 2020, Microsoft [introdujo un nuevo enfoque](https://aka.ms/CertRenewalBlog) para ayudar a los alumnos a mantenerse al día. Aquellos que tengan una certificación activa que caduque en seis meses pueden renovar su certificación anualmente -sin costos- pasando una evaluación de renovación en Microsoft Learn.
 
 ## Calendario de renovación de la certificación
 
@@ -56,6 +56,7 @@ El primer conjunto de evaluaciones de renovación que se pondrán a disposición
 
 - Si posee una certificación válida basada en roles o especializada de Microsoft que vence dentro de seis meses aproximadamente, puede renovarla.
 - Para renovar su certificación, apruebe la evaluación asociada en Microsoft Learn _antes_ de que su certificación venza.
+- Aprobar la evaluación de renovación en Microsoft Learn es la única manera de renovar una certificación. No puedes renovar tu certificación aprobando un examen, aunque se trate de una versión nueva o actualizada del examen que aprobaste inicialmente para conseguir la certificación. Por ejemplo, si hiciste el examen AZ-103 para conseguir tu certificación de Microsoft Azure Administrator, no puedes hacer y aprobar el nuevo examen AZ-104 para renovar tu certificación. Debes aprobar la evaluación de renovación en Microsoft Learn para renovar tu certificación. No habrá excepciones a esta política.
 
 ## Cómo renovar su certificación
 
@@ -64,10 +65,6 @@ El primer conjunto de evaluaciones de renovación que se pondrán a disposición
 - No bien califique para renovar, recibirá una notificación por correo electrónico que lo llevará a la evaluación que estará disponible en Microsoft Learn.
 - Cuando apruebe la evaluación en línea, su certificación se extenderá por un año más a partir de la fecha de vencimiento actual.
 - Para ayudarlo a prepararse para la evaluación, mejore sus habilidades con una recopilación de módulos de aprendizaje gratuitos a su propio ritmo. Examine los módulos asociados disponibles en la página de renovación de la certificación.
-
-## Cambios en la política de vencimiento de la certificación
-
-El 15 de diciembre de 2020 [anunciamos un cambio en la política de caducidad de las certificaciones](https://aka.ms/CertRenewalBlog) A partir del miércoles 30 de junio de 2021 @12am GMT (29 de junio de 2021 @5pm PT), cualquier certificación [basada en cargos](/learn/certifications/browse/?type=role-based) o [de especialidad](/learn/certifications/browse/?type=specialty) que hayas conseguido será válida durante un año a partir de la fecha en que la hayas obtenido. Toda certificación basada en roles y especializada que se obtuvo antes de junio de 2021 seguirá siendo válida durante dos años a partir de la fecha en que la obtuvo.
 
 ## Preguntas frecuentes
 
@@ -95,11 +92,11 @@ Para obtener más información, consulte las preguntas frecuentes sobre la renov
 
 5. **Mi certificación venció. ¿Ahora qué sucede?**
 
-    Si su certificación vence, debe obtener nuevamente la certificación aprobando el/los exámen(es) obligatorio(s)
+    Si tu certificación caduca, deberás volver a conseguirla aprobando el examen o los exámenes requeridos. Para más información, visita: [Política de caducidad de certificaciones.](/learn/certifications/certification-expiration-policy)
 
 6. **¿Puedo renovar mi certificación aprobando un examen beta o realizando nuevamente un examen antes de que mi certificación venza?**
 
-    No. Para renovar su certificación, debe aprobar la evaluación de renovación antes de que su certificación venza.
+   No. Para renovar tu certificación, tienes que aprobar la evaluación de renovación antes de que expire tu certificación. No habrá excepciones a esta política.
 
 7. **¿Todas las certificaciones de Microsoft tienen la opción de renovación?**
 

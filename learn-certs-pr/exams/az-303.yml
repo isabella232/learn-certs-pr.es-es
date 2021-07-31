@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+ <div><font color='red'><strong>El contenido de este examen se actualizará el 26 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   
   Los candidatos a la certificación Azure Solutions Architect Expert deben tener experiencia en el tema en el diseño e implementación de soluciones que se ejecutan en Microsoft Azure, incluidos aspectos como el proceso, la red, el almacenamiento y la seguridad. Candidatos deben tener conocimientos a nivel intermedio para administrar Azure. Candidatos deben entender el desarrollo de Azure y los procesos de DevOps.
   
@@ -28,9 +28,9 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 26 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Implementar y monitorear una infraestructura de Azure (50-55%)
-- Implementar y administrar plataformas de datos (10-15%)
+- Implementar y administrar plataformas de datos (25-30%)
 - Implementar soluciones para aplicaciones (10-15%)
 - Implementar y administrar plataformas de datos (10-15%)
 roles:

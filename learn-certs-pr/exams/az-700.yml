@@ -1,0 +1,73 @@
+### YamlMime:Examination
+title: Designing and Implementing Microsoft Azure Networking Solutions (beta)
+metadata:
+  title: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+  description: 'Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)'
+uid: exam.az-700
+displayName: AZ-700
+summary: |-
+  Los candidatos a este examen deben tener experiencia en materia de planificación, implementación y mantenimiento de soluciones de red de Azure, incluidas redes híbridas, conectividad, enrutamiento, seguridad y acceso privado a servicios de Azure.
+  
+  Los candidatos a este examen también deben tener habilidades de administración Azure, además de una amplia experiencia y conocimiento de redes, conexiones híbridas y seguridad de redes.
+  
+  <div><font color='red'><br/><strong>Este examen estará disponible a mediados de julio de 2021.</strong></font></div>
+subTitle: 'Este examen estará disponible en julio de 2021. Este examen mide tu capacidad para diseñar, implementar, gestionar, asegurar y supervisar las siguientes tareas técnicas: Redes híbridas; Infraestructura de redes centrales; Enrutamiento; Redes; y Acceso privado a los Servicios Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Diseñar, Implementar y Gestionar Redes Híbridas (10% a 15%)
+- Diseñar e Implementar Infraestructura de Redes Básicas (20% a 25%)
+- Diseñar e Implementar Enrutamiento (25% a 30%)
+- Proteger y Supervisar Redes (15% a 20%)
+- Diseñar e Implementar el Acceso Privado a Servicios Azure (10% a 15%)
+roles:
+- network-engineer
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+relatedCertifications:
+- related:
+    uid: certification.azure-network-engineer-associate
+resources:
+- title: Guía de formación y certificación
+  description: Estudie todas las certificaciones en una guía concisa de formación y certificaciones.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certification poster
+  description: Consulte una descripción general de los fundamentos, las certificaciones basadas en roles y especialidades.
+  href: https://aka.ms/traincertposter
+- title: Reproducción del examen
+  description: Vea dos grandes ofertas para ayudar a aumentar sus probabilidades de éxito.
+  href: ../deals.md
+- title: Soporte para certificaciones
+  description: Obtener ayuda mediante Foros de soporte de Microsoft Certification. Un moderador de foro responderá en el trascurso de un día hábil, de lunes a viernes.
+  href: ../help.md
+- title: Panel de certificación
+  description: Revise y administre sus citas programadas, certificados y transcripciones.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicite ajustes
+  description: Obtenga más información sobre cómo solicitar un ajuste para su examen.
+  href: ../request-accommodations.md
+- title: Políticas de examen y preguntas frecuentes
+  description: Revise las políticas del examen y las preguntas frecuentes.
+  href: ../certification-exam-policies.md

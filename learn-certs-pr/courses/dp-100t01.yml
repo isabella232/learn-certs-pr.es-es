@@ -3,8 +3,7 @@ title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
-uid: course.dp-100t01
+  uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - Entrenamiento y validación de modelos de aprendizaje automático usando marcos comunes como Scikit-Learn, PyTorch y TensorFlow.
   
   Para obtener estos conocimientos previos, tome el siguiente entrenamiento online gratuito antes de asistir al curso&#58;
-  - [Explorar los conceptos de la nube de Microsoft](/learn/paths/explore-microsoft-azure-cloud-conceptsts/).
-  - [Crear modelos de aprendizaje automático](/learn/paths/create-machine-learn-models/).
+  - [Explorar los conceptos de la nube de Microsoft](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [Crear modelos de aprendizaje automático](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Administración de contenedores en Azure](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/).
   
-  Si es completamente nuevo en la ciencia de los datos y el aprendizaje automático, por favor complete primero [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
+  Si es completamente nuevo en la ciencia de los datos y el aprendizaje automático, por favor complete primero [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) .
 outlineSection: |-
   ### Módulo 1&#58; Introducción a Azure Machine Learning
   En este módulo, aprenderá cómo aprovisionar un espacio de trabajo de Azure Machine Learning y usarlo para administrar activos de aprendizaje automático, como datos, cómputo, código de capacitación de modelos, métricas registradas y modelos capacitados. Aprenderá a usar la interfaz de estudio de Azure Machine Learning basada en la web, así como el SDK de Azure Machine Learning y herramientas de desarrollo como Visual Studio Code y Jupyter Notebooks para trabajar con los activos en su espacio de trabajo.
@@ -54,7 +53,7 @@ outlineSection: |-
   - Aprovisionar un espacio de trabajo de Azure Machine Learning
   - Usar herramientas y código para trabajar con Azure Machine Learning
 
-  ### Módulo 2&#58; Aprendizaje automático sin código con Designer
+  ### Módulo 2&#58; Herramientas Visuales para el Aprendizaje Automático
   Este módulo presenta la herramienta Designer, una interfaz de arrastrar y soltar para crear modelos de aprendizaje automático sin escribir ningún código. Aprenderá a crear una canalización de capacitación que encapsule la preparación de datos y la canalización modelo, y luego convertirá esa canalización de capacitación en una canalización de inferencia que pueda usarse para predecir valores a partir de datos nuevos, antes de finalmente implementar la canalización de inferencia como un servicio para aplicaciones de consumo de clientes.
   #### Lecciones
   - Modelos de capacitación con Designer

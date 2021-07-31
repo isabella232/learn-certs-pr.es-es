@@ -186,7 +186,7 @@ Su entorno de oficina o doméstico debe cumplir los siguientes requisitos:
   - Pasaporte.
   - Tarjeta de identidad (nacional/estatal/provincial)
   - Tarjeta de identidad de extranjero (visado, permiso de residencia permanente, etc.).
-  - ID del idioma local emitida por el gobierno (no en caracteres romanos): solo se acepta si se emite desde el país en el que el candidato realiza la prueba.
+  - ID emitido por el gobierno - Si el ID no está en caracteres Romanos, el nombre (primero/apellido) debe incluirse en caracteres Romanos en el ID.
 - Se tomará una fotografía de usted y de la fotografía de su ID con la cámara web.
 - El nombre que aparece en la ID emitida por el gobierno que presenta para ingresar al examen debe coincidir **exactamente** con el nombre en su Microsoft Certification y perfiles de PSI.
 - Si se encuentra en proceso de actualización o renovación de su identificación, tenga en cuenta que no se aceptan formularios de cambio del nombre legal, incluidos los formularios de renovación de ID, para la realización de exámenes en línea.

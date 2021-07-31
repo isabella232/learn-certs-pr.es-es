@@ -36,7 +36,7 @@ Los exámenes de Microsoft Certification están diseñados para garantizar que l
 ## Proceso de Impugnación de elemento de examen:
 
 1. Revise nuestros criterios para aceptar y no aceptar una impugnaciónde elemento de examen.
-2. Complete y envíe el [formulario de impugnación del elemento de examen.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. Complete y envíe el [formulario de impugnación del elemento de examen.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. El equipo de Microsoft Certification repasará tu envío para comprobar que está completo. Si está incompleta, se te pedirá que proporciones más información. Si está completa, el equipo de Microsoft Certification la repasará. La revisión se realiza en aproximadamente dos semanas.
 4. Una vez que la revisión se haya completado, se te notificará el resultado.
 

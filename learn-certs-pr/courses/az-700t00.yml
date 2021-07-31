@@ -1,0 +1,279 @@
+### YamlMime:Course
+title: Designing and Implementing Microsoft Azure Networking Solutions
+metadata:
+  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+uid: course.az-700t00
+courseNumber: 'AZ-700T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- network-engineer
+products:
+- azure
+summary: |-
+  Este curso enseña a ingenieros de red a diseñar, implementar y mantener soluciones de red de Azure. Este curso cubre el proceso de diseño, implementación y gestión de la infraestructura central de redes de Azure, conexiones de redes híbridas, balanceo de carga de tráfico, enrutamiento de red, acceso privado a servicios de Azure, seguridad de red y monitoreo. Aprende a diseñar e implementar una infraestructura de red segura y fiable en Azure y a establecer conectividad híbrida, enrutamiento, acceso privado a servicios Azure y monitorización en Azure.
+
+  #### Perfil del Asistente
+
+  Este curso está dirigido a Ingenieros de Redes que quieran especializarse en soluciones de red Azure. Un ingeniero de Redes Azure diseña e implementa la infraestructura central de redes de Azure, las conexiones de redes híbridas, el tráfico de equilibrio de carga, el enrutamiento de la red, el acceso privado a los servicios de Azure, la seguridad de la red y la supervisión. El ingeniero de redes de Azure gestionará las soluciones de red para obtener un rendimiento, una resistencia, una escala y una seguridad óptimos.
+prerequisitesSection: |-
+  Los Ingenieros de Seguridad Azure empiezan este rol con experiencia en redes empresariales, infraestructura en las instalaciones o en la cloud y seguridad de redes.
+
+  * Entender&nbsp;las tecnologías de virtualización en las instalaciones, incluyendo: VMs, redes virtuales y discos duros virtuales.
+
+  * Comprensión de las configuraciones de red, incluyendo TCP/IP, Domain Name System (DNS), redes privadas virtuales (VPN), firewalls y tecnologías de cifrado.
+
+  * Entender las redes definidas por software.
+
+  * Entender los métodos de conectividad de redes híbridas, como las VPN.
+
+  * Comprensión de la resiliencia y la recuperación de desastres, incluida la alta disponibilidad y operaciones de restauración.
+
+  **Cursos de prerrequisito (o conocimientos y experiencia práctica equivalentes):**
+
+  Esta formación online gratuita te dará la experiencia que necesitas para tener éxito en este curso.
+
+  *   [Azure Fundamentals parte 1: Describir los conceptos básicos de Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
+  *   [Azure Fundamentals parte 2: Describir los Azure services básicos - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+  *   [Azure Fundamentals parte 3: Describir las soluciones básicas y las herramientas de gestión en Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+  *   [Azure Fundamentals parte 4: Describir las funciones generales de seguridad y de seguridad de red - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+  *   [AZ-104: Configurar y gestionar redes virtuales para los administradores de Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
+
+outlineSection: |-
+  ### Módulo 1: Redes Virtuales de Azure
+
+  En este módulo aprenderás a diseñar e implementar los recursos fundamentales de Azure Networking, tales como redes virtuales, IPs públicas y privadas, DNS, peering de redes virtuales, routing y Azure Virtual NAT.
+
+  #### Lecciones
+
+  * Redes Virtuales de Azure
+
+  * Servicios públicos de IP
+
+  * DNS público y privado
+
+  * Conectividad cruzado-VNet
+
+  * Enrutamiento de Redes Virtuales
+
+  * Red Virtual Azure NAT
+
+  #### Laboratorio : Diseñar e implementar una Red Virtual en Azure
+
+  ####
+
+  #### Laboratorio : Configurar los ajustes de DNS en Azure
+
+  ####
+
+  #### Laboratorio : Conectar Redes Virtuales con Peering
+
+  ####
+
+  Después de completar este módulo, los estudiantes serán capaces de:
+
+  * Implementar redes virtuales
+
+  * Configurar servicios IP públicos
+
+  * Configurar zonas DNS privadas y públicas
+
+  * Diseñar e implementar la conectividad cruzada-VNET
+
+  * Implementar el enrutamiento de la red virtual
+
+  * Diseñar e implementar una Red Virtual NAT de Azure
+
+  ### Módulo 2: Diseñar e Implementar Redes Híbridas
+
+  En este módulo aprenderás a diseñar e implementar soluciones de redes híbridas, tales como conexiones VPN de sitio a sitio, conexiones VPN de punto a sitio, Azure Virtual WAN y centros WAN virtuales.
+
+  #### Lecciones
+
+  * Conexión VPN de sitio a sitio
+
+  * Conexiones VPN punto a sitio
+
+  * Azure Virtual WAN
+
+  #### Laboratorio: Crear y configurar una puerta de enlace local
+
+  ####
+  * Crear y configurar una puerta de enlace de red virtual
+  * Crear una WAN virtual utilizando el Portal Azure
+
+  Diseñar e implementar una conexión VPN de sitio a sitio
+
+  * Diseñar e implementar una conexión VPN de punto a sitio
+
+  * Diseñar e implementar la autenticación
+
+  * Diseñar e implementar los recursos de la WAN Virtual Azure
+
+
+  ### Módulo 3: Diseñar e implementar Azure ExpressRoute
+
+  En este módulo aprenderás a diseñar e implementar las opciones de Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath y ExpressRoute Peering.
+
+  #### Lecciones
+
+  *   ExpressRoute
+
+  *   ExpressRoute Direct
+
+  *   ExpressRoute FastPath
+
+  *   ExpressRoute Peering
+
+  #### Laboratorio : Crear y configurar ExpressRoute
+
+  ####
+
+  Diseñar e implementar Expressroute
+
+  * Diseñar e implementar Expressroute Direct
+
+  * Diseñar e implementar Expressroute FastPath
+
+  ### Módulo 4: equilibrio de carga del tráfico no HTTP(S) en Azure
+
+  En este módulo aprenderás a diseñar e implementar soluciones de equilibrio de carga para el tráfico no HTTP(S) en Azure con Azure Load balancer y Traffic Manager.
+
+  #### Lecciones
+
+  * Entrega de Contenidos y Equilibrio de Carga
+
+  * Azure Load balancer
+
+  * Azure Traffic Manager
+
+  * Monitor Azure
+
+  * Observador de Red
+
+  #### Laboratorio : Crea y configura un equilibrador de carga público para equilibrar la carga de las VMs utilizando el portal Azure
+
+  ####
+
+  #### Laboratorio: Crear un Perfil Traffic Manager utilizando el portal Azure
+
+  ####
+
+  #### Laboratorio : Crear, ver y gestionar alertas métricas en el Monitor Azure
+
+  ####
+
+  Diseñar e implementar Azure Laod Balancers
+
+  * Diseñar e implementar Azure Traffic Manager
+
+  * Supervisar redes con el Monitor Azure
+
+  * Utilizar el Observador de Redes
+
+  ### Módulo 5: Equilibrio de carga del tráfico HTTP(S) en Azure
+
+  En este módulo aprenderás a diseñar e implementar soluciones de equilibrio de carga para el tráfico HTTP(S) en Azure con Azure Application gateway y Azure Front Door.
+
+  #### Lecciones
+
+  * Azure Application Gateway
+
+  * Azure Front Door
+
+  #### Laboratorio : Crear una puerta de enlace para una aplicación web de alta disponibilidad utilizando el portal Azure
+
+  ####
+
+  #### Laboratorio : Crear y configurar una Application Gateway
+
+  ####
+
+  Diseñar e implementar Azure Application Gateway
+
+  * Implementar Azure Front Door
+
+
+  ### Módulo 6: Diseñar e implementar seguridad de red
+
+  En este módulo aprenderás a diseñar e imponer soluciones de seguridad de red tales como Azure DDoS, Azure Firewalls, Grupos de Seguridad de Red y Firewall de Aplicaciones Web.
+
+  #### Lecciones
+
+  * Azure DDoS Protection
+
+  * Azure Firewall
+
+  * Grupos de Seguridad de Red
+
+  * Firewall de Aplicaciones Web en Azure Front Door
+
+
+  #### Laboratorio : Crear una Red Virtual con plan de protección DDoS
+
+  ####
+
+  #### Laboratorio : Implementar y configurar Azure Firewall
+
+  ####
+
+  #### Laboratorio : Crear una política de Firewall de Aplicaciones Web en Azure Front Door
+
+  ####
+
+  Configurar y supervisar un plan de protección Azure DDoS
+
+  * Implementar y gestionar Azure Firewall
+
+  * Implementar grupos de seguridad de red
+
+  * Implementar un firewall de aplicaciones web (WAF) en Azure Front Door
+
+
+  ### Módulo 7: Diseñar e implementar el acceso privado a Azure Services
+
+  En este módulo aprenderás a diseñar e implementar el acceso privado a Azure Services con Azure Private Link, y endpoints del servicio de red virtual.
+
+  #### Lecciones
+
+  * Definir Azure Private Link y endpoints privados
+
+  * Diseñar y configurar endpoints privados
+
+  * Integrar un Private Link con DNS y clientes en instalaciones
+
+  * Crear, configurar y proporcionar acceso a los Endpoints de Servicio
+
+  * Configurar la integración de VNET para el Servicio de Aplicaciones
+
+
+  #### Laboratorio : restringir el acceso de red a los recursos de PaaS con endpoints de servicios de red virtuales
+
+  ####
+
+  #### Laboratorio : crear un endpoint privado de Azure
+
+  ####
+
+  Definir la diferencia entre Private Link Service y endpoints privados
+
+  * Diseñar y configurar endpoints privados
+
+  * Explicar endpoints de servicio de red virtual
+
+  * Diseñar y configurar el acceso a endpoints de servicio
+
+  * Integrar Private Link con DNS
+
+  * Integrar tu Servicio de Aplicaciones con redes virtuales Azure
+

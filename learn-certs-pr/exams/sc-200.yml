@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
+  <div><font color="red"><strong>El contenido de este examen se actualizará el 23 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  
   El Analista de Operaciones de Seguridad de Microsoft colabora con las partes interesadas de la organización para asegurar los sistemas de tecnología de la información de la organización. Su objetivo es reducir el riesgo organizacional remediando rápidamente los ataques activos en el entorno, asesorando sobre las mejoras en las prácticas de protección contra amenazas y remitiendo las violaciones de las políticas organizacionales a los participante apropiados.
   
   Las responsabilidades incluyen la administración de amenazas, la supervisión y la respuesta mediante el uso de una variedad de soluciones de seguridad a través de su entorno. La posición investiga, responde y busca amenazas utilizando Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender y productos de seguridad de terceros. Dado que el Analista de Operaciones de Seguridad utiliza los resultados operativos de estas herramientas, también es un participante fundamental en la configuración y el despliegue de estas tecnologías.
@@ -21,6 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
+- El contenido de este examen se actualizará el 23 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Mitigar amenazas utilizando Microsoft 365 Defender (25-30%)
 - Mitigar amenazas utilizando Azure Defender (25-30%)
 - Mitigar amenazas utilizando Azure Sentinel (40-45%)

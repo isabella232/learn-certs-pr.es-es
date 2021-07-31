@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Internet of Things'
+metadata:
+  title: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+  description: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+uid: course.40505
+courseNumber: '40505-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Al finalizar este taller, estarás más capacitado para construir una solución IoT implementando el registro de dispositivos con IoT Hub Device Provisioning Service y visualizando los datos calientes con Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Este taller te guiará a través de la implementación de una solución integral de IoT que simule datos de alta velocidad emitidos por contadores inteligentes y analizados en Azure. Diseñarás una arquitectura lambda, filtrando un subconjunto de datos telemétricos para su visualización en tiempo real en la ruta caliente, y almacenando todos los datos en el almacenamiento a largo plazo para la ruta fría.
+
+  #### Perfil del asistente
+  Este taller está dirigido a los arquitectos cloud y a los profesionales de IT que tienen experiencia en la arquitectura de la infraestructura y el diseño de soluciones en tecnologías cloud y quieren aprender más sobre Azure y Azure services, tal y como se describe en las áreas "Resumen" y "Habilidades adquiridas". Los asistentes a este taller también deben tener experiencia en otras tecnologías cloud que no sean de Microsoft, cumplir los prerrequisitos del curso y querer hacer una formación cruzada en Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sesión de Diseño de Pizarra Blanca - Internet de las Cosas
+  #### Lecciones
+  - Repasa el caso de estudio del cliente
+  - Diseña una solución de prueba de concepto
+  - Presenta la solución
+
+  ### Módulo 2&#58; Laboratorio práctico - Internet de las Cosas
+  #### Lecciones
+  - Configuración del entorno
+  - Aprovisionamiento del IoT Hub
+  - Completar el Smart Meter Simulator
+  - Procesamiento de datos de la ruta caliente con Stream Analytics
+  - Procesamiento de datos de la ruta fría con HDInsight Spark
+  - Informar de las interrupciones de los dispositivos con IoT Hub Operations Monitoring

@@ -9,11 +9,10 @@ summary: |-
   Los candidatos a este examen configuran y utilizan la funcionalidad de la aplicación en Dynamics 365 Commerce y proporcionan soporte para la aplicación.
   
   Los candidatos tienen un gran conocimiento de las operaciones comerciales unificadas. Pueden tener experiencia en la configuración, despliegue y mantenimiento de Dynamics 365 Commerce.
-  
-  <div><font color='red'><strong>Nota&#58; Este examen estará disponible en junio/julio de 2021.</strong></font><br/><br/></div>
-subTitle: 'Este examen estará disponible en junio/julio de 2021. Este examen mide tu capacidad para realizar las siguientes tareas técnicas: configurar la sede de Dynamics 365 Commerce; configurar productos, precios, descuentos, fidelización y afiliaciones; gestionar el punto de venta (POS) en Dynamics 365 Commerce; configurar y gestionar los centros de llamadas de Dynamics 365 Commerce; y gestionar comercio electrónico.'
+subTitle: 'Este examen mide tu capacidad para realizar las siguientes tareas técnicas: configurar Dynamics 365 Commerce Headquaters; configurar productos, precios, descuentos, fidelización y afiliaciones; gestionar el Punto de Venta (POS) en Dynamics 365 Commerce; configurar y gestionar los centros de llamadas de Dynamics 365 Commerce; y gestionar el comercio electrónico.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant%20%28beta%29&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
 locales:
 - en
 levels:

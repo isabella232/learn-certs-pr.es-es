@@ -6,8 +6,7 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div><div><font color='red'><strong>UNA NUEVA VERSIÓN DE ESTE EXAMEN, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, ESTÁ DISPONIBLE. Podrás hacer este examen hasta que se retire el 30 de junio de 2021. Nota: Los exámenes se retiran a las 11:59 PM hora estándar central.</strong></font><br/><br/></div>
-  <div><strong>El contenido de este examen se actualizó el miércoles, 20 de mayo de 2020. Descargue el documento de las habilidades medidas a continuación para ver lo que se cambió.</strong><br/><br/></div>
+  <div><div><font color="red"><strong>ESTE EXAMEN SE RETIRÓ EL 30 DE JUNIO DE 2021. Hay un examen de sustitución disponible, el AI-102. Para más información, visita la <a href='/learn/certifications/exams/ai-102'>AI-102</a> página de detalles del examen.</strong></font><br/><br/></div>
   </div>
   
   Los candidatos para este examen deben tener experiencia en la materia utilizando servicios cognitivos, aprendizaje automático y minería de conocimiento para diseñar e implementar soluciones de inteligencia artificial de Microsoft que involucren procesamiento de lenguaje natural, habla, visión por ordenador e inteligencia artificial conversacional.
@@ -20,7 +19,6 @@ summary: |-
 subTitle: 'Este examen mide su capacidad para realizar las siguientes funciones técnicas: analizar los requisitos de solución; formular las soluciones; integrar los modelos AI en soluciones; e implementar y gestionar soluciones.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -29,10 +27,10 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el miércoles, 20 de mayo de 2020. Descargue el resumen de habilidades de examen a continuación para ver qué cambió.
 - Analizar los requisitos de la solución (25-30%)
 - Diseñar soluciones AI (40-45%)
 - Implementar y monitorear soluciones AI (25-30%)
+retirementDate: 06/30/2021
 roles:
 - ai-engineer
 products:
@@ -51,7 +49,7 @@ paths:
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 relatedCertifications:
 - related:
-    uid: certification.azure-ai-engineer
+    uid: none
 resources:
 - title: Journey to certification
   description: Explore los pasos para obtener la certificación como ingeniero asociado de Azure AI y los recursos disponibles para ayudarlo a prepararse.

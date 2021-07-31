@@ -19,13 +19,18 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
 
 ## Cursos retirados: Formación impartida por instructor
 
+* Los cursos se retiran el 30 de julio de 2021
+
+    | Número de curso | Versión | Título | Idioma | Fecha de retirada
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglés | 30/7/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglés | 30/7/2021 |
+
 * Retirada de material didáctico el 30 de junio de 2021
 
     | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
     | AI-100T01 | A | Designing and Implementing an Azure AI Solution | inglés | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | inglés | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | inglés | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | inglés | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | inglés | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | japonés | 6/30/2021 |

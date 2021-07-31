@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Conocimiento de los conceptos de Active Directory, incluidos dominios, bosques ("forests") y controladores de dominio.
   
   Si no conoces Azure y la computación en cloud, considera uno de los siguientes recursos&#58;
-  - Gratuito online&#58; Fundamentos de Azure (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - Curso dirigido por un instructor&#58; AZ-900&#58; Fundamentos de Azure (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Requisitos previos para los administradores de Azure (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - Gratuito online&#58; Fundamentos de Azure ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - Curso dirigido por un instructor&#58; AZ-900&#58; Fundamentos de Azure ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Requisitos previos para los administradores de Azure ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Módulo 1&#58; Resumen de Azure Stack Hub
   En este módulo, aprenderás cómo Azure Stack Hub es una extensión de Azure que proporciona maneras de ejecutar aplicaciones en un entorno local y ofrecer servicios de Azure en tu centro de datos.
@@ -155,5 +148,5 @@ outlineSection: |-
   - Configurar los objetivos de almacenamiento para las copias de seguridad de infraestructura
   - Actualizar Azure Stack Hub
   - Desbloquear una sesión de apoyo
-  - Conectar con un endpoin privilegiado
+  - Conecta con un endpoints privilegiado
   - Realizar diagnósticos del sistema utilizando Test-AzureStack

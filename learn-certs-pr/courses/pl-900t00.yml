@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Describir los componentes de Power Platform
+- skill:  Describir los componentes de Microsoft Power Platform
 - skill: Describir Microsoft Dataverse, Conectores y constructor AI.
 - skill: Describe los escenarios en la nube cruzada a través de M365, Dynamics 365, Microsoft Azure y servicios de terceros
-- skill: Identifica los beneficios y capacidades de la Power Platform
-- skill: Identifica la funcionalidad básica y el valor comercial de los componentes de la Power Platform
+- skill: Identificar las ventajas y capacidades de Microsoft Power Platform
+- skill:  Identificar la funcionalidad básica y el valor empresarial de los componentes de Microsoft Power Platform
 - skill: Implementa soluciones simples con Power Apps, Power Automate, Power BI y Power Virtual Agents
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,32 +20,44 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  Conoce el valor empresarial y las capacidades de los productos de Power Platform. Crea sencillas Power Apps, conecta datos con Dataverse, construye un Power BI Dashboard, automatiza procesos con Power Automate y construye un chatbot con Power Virtual Agents
+  Aprende el valor empresarial y las capacidades del producto de Microsoft Power Platform. Crea Power Apps sencillas, conecta datos con Dataverse, construye un cuadro de mando de Power BI, automatiza procesos con Power Automate y construye un chatbot con Power Virtual Agents.
 
   #### Perfil del asistente
   Los candidatos a este examen son usuarios que aspiran a mejorar la productividad mediante la automatización de los procesos empresariales, el análisis de datos para producir conocimientos empresariales y la actuación más eficaz mediante la creación de experiencias de aplicaciones sencillas.
 prerequisitesSection: |-
   No hay requisitos previos para este curso
 outlineSection: |-
-  ### Módulo 1&#58; Introducción a la Power Platform
-  Conozca los componentes de Power Platform, las formas de conectar datos y cómo las organizaciones pueden aprovechar esta tecnología para crear soluciones empresariales.
+  ### Módulo 1: Introducción a Microsoft Power Platform
+
+  Aprende acerca de los componentes de Microsoft Power Platform, formas de conectar datos y cómo las organizaciones pueden aprovechar esta tecnología para crear soluciones empresariales.
+
   #### Lecciones
-  - Visión general de la Power Platform
-  - Resumen del módulo
 
-  Después de completar este módulo, los estudiantes serán capaces de&#58;
-  - Identificar cuándo usar cada aplicación componente de Power Platform para crear soluciones de negocios
-  - Aprende el valor de usar Power Platform para crear soluciones de negocios
-  - Aprende los componentes y características de Power Platform
+  * Resumen de Microsoft Power Platform
 
-  ### Módulo 2&#58; Introducción a Microsoft Dataverse
-  Dataverse te permite profundizar en soluciones de datos potentes y escalables en cloud. Aprende qué hace que Dataverse funcione y cómo puede trabajar con la Power Platform para crear soluciones empresariales únicas y eficaces.
+  * Resumen del Módulo
+
+
+  Después de completar este módulo, los estudiantes serán capaces de:
+
+  * Identificar cuándo utilizar cada aplicación componente de Microsoft Power Platform para crear una solución empresarial
+
+  * Aprender el valor de utilizar Microsoft Power Platform para crear soluciones empresariales
+
+  * Aprender los componentes y funciones de Microsoft Power Platform
+
+
+  ### Módulo 2: Introducción a Microsoft Dataverse
+
+  Dataverse te permite profundizar en soluciones de datos potentes y escalables en la cloud. Aprende lo que hace que Dataverse funcione y cómo puede trabajar junto a Microsoft Power Platform para crear soluciones empresariales únicas y eficientes.
+
+
   #### Lecciones
   - Resumen de Microsoft Dataverse
   - Resumen del módulo
@@ -70,18 +82,18 @@ outlineSection: |-
   - Cómo construir una aplicación basada en un modelo
   - Introducción a los portales de Power Apps
 
-  #### Lab &#58; Cómo construir una aplicación de lienzo, parte 1
+  #### Laboratorio &#58; Cómo construir una aplicación de lienzo, parte 1
   - Crear aplicación de lienzo de Personal
   - Completa la aplicación
 
-  #### Lab &#58; Cómo construir una aplicación de lienzo, parte 2
+  #### Laboratorio &#58; Cómo construir una aplicación de lienzo, parte 2
   - Crear aplicación de lienzo de seguridad
 
-  #### Lab &#58; Cómo construir una aplicación basada en modelos
+  #### Laboratorio &#58; Cómo construir una aplicación basada en modelos
   - Personalizar las vistas y los formularios
   - Crear una aplicación basada en modelos
 
-  #### Lab &#58; Cómo construir un portal de Power Apps
+  #### Laboratorio &#58; Cómo construir un portal de Power Apps
   - Proporcionar un portal de Power Apps
   - Crear una página web del portal
   - Cambiar el tema del portal
@@ -98,7 +110,7 @@ outlineSection: |-
   - Resumen de Power Automate
   - Cómo construir una solución automatizada
 
-  #### Lab &#58; Power Automate
+  #### Laboratorio &#58; Power Automate
   - Crear un flujo de notificación de visitas
   - Crear un flujo de barrido de seguridad
 
@@ -113,7 +125,7 @@ outlineSection: |-
   - Visión general de Power BI
   - Cómo construir un tablero de mandos simple
 
-  #### Lab &#58; Cómo construir un tablero de mandos simple
+  #### Laboratorio &#58; Cómo construir un tablero de mandos simple
   - Crear un informe de Power BI
   - Crear un Power BI Dashboard
 
@@ -129,7 +141,7 @@ outlineSection: |-
   - Visión general de Power Virtual Agents
   - Cómo construir un chatbot
 
-  #### Lab &#58; Cómo construir un chatbot básico
+  #### Laboratorio &#58; Cómo construir un chatbot básico
   - Regístrate en el PVA y crea un nuevo robot
   - Crear Temas
   - Probar Temas
@@ -139,5 +151,5 @@ outlineSection: |-
   Después de completar este módulo, los estudiantes serán capaces de&#58;
   - Describir el valor comercial y las características de los Power Virtual Agents
   - Construir un chatbot básico
-  - Aprende los componentes esenciales que conforman los Power Virtual Agents y los chatbots"
+  - Aprende los componentes esenciales que conforman los Power Virtual Agents y los chatbots
 

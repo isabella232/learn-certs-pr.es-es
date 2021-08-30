@@ -10,10 +10,11 @@ summary: |-
   
   Los candidatos deben tener una exposición significativa a las comunicaciones unificadas y experiencia práctica con Microsoft Teams. Además, los candidatos deben tener conocimientos de redes de fundamentos Azure, telefonía, PowerShell, tecnologías de almacenamiento de datos, APIs, seguridad de aplicaciones, autenticación y autorización, seguridad e información de cumplimiento, depuración, ajuste de rendimiento y supervisión.
   
-  <div><br/><br/><font color='red'><strong>Nota: La ruta de aprendizaje para este examen estará disponible el 30 de junio de 2021, y el examen estará disponible el 8 de julio de 2021.</strong></font></div>
-subTitle: 'Este examen estará disponible en torno al 8 de julio de 2021. Este examen mide tu capacidad para solucionar las siguientes tareas técnicas: Problemas de voz de Microsoft Teams; reuniones y eventos en vivo de Microsoft Teams; problemas de federación; inicio de sesión en Microsoft Teams; equipos y canales; y archivos.'
+  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Aprende más sobre el valor y la importancia de los exámenes beta.</a></strong></font></div>
+subTitle: 'Este examen mide tu capacidad para solucionar las siguientes tareas técnicas: Problemas de voz de Microsoft Teams; reuniones y eventos en vivo de Microsoft Teams; problemas de federación; inicio de sesión en Microsoft Teams; equipos y canales; y archivos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=MS-740&examname=Exam%20MS-740:%20Troubleshooting%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-740
 locales:
 - en
 levels:

@@ -29,11 +29,6 @@ roles:
 - ai-engineer
 products:
 - azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning
-- azure-machine-learning-studio
-- azure-search
 exams:
 - uid: exam.ai-102
 summary: |-
@@ -166,13 +161,16 @@ outlineSection: |-
   - Analizar Imágenes
   - Analizar Vídeos
   
-  #### Laboratorio &#58; Analizar Imágenes con Visión Artificial
   
-  #### Laboratorio &#58; Analizar Vídeo con el Indexador de Vídeo
+  #### Laboratorio : Analizar Video
+
+  ####
+
+  #### Laboratorio : Analizar Imágenes con Visión Artificial
   
   Después de completar este módulo, los estudiantes serán capaces de&#58;
   - Utilizar el servicio de Visión Artificial para analizar imágenes
-  - Utilizar el Indexador de Vídeo para analizar vídeos
+  - Utiliza el Analizador de Vídeo para analizar vídeos
   
   
   ### Módulo 9&#58; Desarrollando Soluciones de Visión Personalizadas

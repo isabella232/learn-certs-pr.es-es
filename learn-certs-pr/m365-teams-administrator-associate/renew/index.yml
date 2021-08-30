@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Renovación para Microsoft 365 Certified: Teams Administrator Associate'
+metadata:
+  title: 'Renovación para Microsoft 365 Certified: Teams Administrator Associate'
+  description: 'Si tienes esta certificación y va a caducar en un plazo de seis meses, puedes renovarla. '
+uid: renewal.m365-teams-administrator-associate
+certificationUid: certification.m365-teams-administrator-associate
+assessmentId: 86c62802-2f14-48b7-a59d-bdc184d9cca2 
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Si tienes esta certificación y va a caducar en un plazo de seis meses, puedes renovarla. Demuestra que te has mantenido al día con las últimas actualizaciones de Microsoft Teams aprobando la evaluación de renovación. También puedes prepararte para la renovación con la colección curada de módulos de aprendizaje.
+skills:
+- Implantar Teams utilizando Microsoft Advisor para Teams
+- Gestionar Microsoft Teams
+- Gestionar seguridad y cumplimiento
+- Implementar y gestionar dispositivos de Microsoft Teams
+- Navegar por el centro de administración de Teams
+- Gestionar experiencias de reuniones
+- Implementar Planes de Llamadas de Microsoft
+- Gestionar llamadas en Microsoft Teams utilizando asistentes automáticos y colas de llamadas
+- Navegar por el centro de administración de Teams
+examsPassed:
+- ms-700
+studyGuideDescription: 'Utilizar esta colección de módulos de aprendizaje para ayudarte a preparar el Microsoft 365 Certified: Teams Administrator Associate renewal assessment.'
+resources:
+- title: Acerca de la renovación de certificación
+  summary: Comprenda el proceso y los requisitos para renovar sus certificaciones en línea
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

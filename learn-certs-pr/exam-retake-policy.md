@@ -14,9 +14,13 @@ ms.prod: non-product-specific
 
 ## Política general de repetición de exámenes de Microsoft Certification
 
+- Si un candidato no supera el examen en la primera convocatoria, deberá esperar 24 horas para poder repetirlo. En ese momento, los candidatos pueden iniciar sesión en su [panel de certificación](https://aka.ms/certdashboard) y reprogramar el examen por su cuenta.
+- Si un candidato no supera el examen en el segundo intento, deberá esperar al menos 14 días para poder repetirlo por tercera vez.
+- También se impone un período de espera de 14 días entre el tercer y cuarto intento y el cuarto y quinto intento.
 - Un candidato no puede realizar un examen determinado más de cinco veces en un periodo de 12 meses. Este periodo de 12 meses comienza a partir del primer intento. Los Candidatos pueden volver a hacer el examen 12 meses después de la fecha de su primer intento.
 - Para realizar un determinado examen más de cinco veces al año o para que no se aplique el tiempo entre intentos, el candidato debe haber cometido uno de los errores que se indican a continuación y solicitar una excepción a Microsoft.
 - No puedes volver a hacer un examen que hayas aprobado, a menos que tu certificación haya caducado.
+- Debes pagar para volver a hacer el examen.
 
 ## Presentar una solicitud de excepción de repetición de examen
 

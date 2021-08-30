@@ -22,7 +22,7 @@ El tiempo de examen varía según el tipo de examen que realices.
 | ------------- |:-------------:| -----:|
 | Exámenes de Fundamentals      | 45 minutos | 65 minutos |
 | Associate and expert role-based exams sin laboratorios** | 100 minutos | 120 minutos |
-| Exámenes basados en el rol de asociado y de experto que pueden contener laboratorios** | 130 minutos | 150 minutos |
+| Exámenes basados en el rol de asociado y de experto que pueden contener laboratorios** | 120 minutos | 140 minutos |
 | Exámenes de Microsoft Technology Associate (MTA) realizados a través de canales académicos | 45 minutos | 50 minutos |
 | Exámenes Microsoft Office Specialist (MOS) | 50 minutos | 60 minutos |
 

@@ -12,7 +12,7 @@ skillsGained:
 - skill: Cómo implementar Gobierno, Seguridad y Cumplimiento para los equipos de Microsoft
 - skill: Cómo preparar un entorno de organizaciones para una implementación de Microsoft Teams
 - skill: Cómo desplegar y administrar equipos
-- skill: Formas de gestionar la colaboración en equipos de Microsoft
+- skill: Cómo gestionar experiencias de colaboración y comunicación en Microsoft Teams
 - skill: Técnicas para administrar y solucionar problemas de comunicación en los equipos de Microsoft
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -23,104 +23,128 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-700
 summary: |-
-  El curso de Administración de Microsoft Teams está diseñado para personas que aspiran a la función de Administrador de Microsoft 365 Teams.
-  Los administradores de Microsoft Teams configuran, implementan y administran las cargas de trabajo de Office 365 para Microsoft Teams que se centran en la colaboración y comunicación eficiente y efectiva en un entorno empresarial.
-  Este curso cubre seis elementos centrales&#58; descripción general de Microsoft Teams, implementación de gobierno, seguridad y cumplimiento para Microsoft Teams, preparación del entorno para la implementación de Microsoft Teams, implementación y administración de equipos, administración de la colaboración y administración de la comunicación en Microsoft Teams.
-  En la descripción general de Microsoft Teams, obtendrá una descripción general de Microsoft Teams, incluida la arquitectura de Teams y las cargas de trabajo de Office 365 relacionadas. Se le proporcionará una descripción general de la seguridad y el cumplimiento en Microsoft Teams y, finalmente, obtendrá una descripción general de cómo administrar Microsoft Teams.
-  Al implementar el gobierno, la seguridad y el cumplimiento de los equipos de Microsoft, planificará y configurará el gobierno de los grupos de Office 365, incluidas las políticas de vencimiento y nomenclatura. Luego implementará la seguridad configurando acceso condicional, MFA o Threat Management para equipos de Microsoft. Finalmente, implementará el cumplimiento de los equipos mediante el uso de directivas DLP, casos de exhibición de documentos electrónicos o políticas de supervisión.
-  Al preparar el entorno para una implementación de Microsoft Teams, planifica una actualización de Skype for Business a Microsoft Teams evaluando rutas de actualización con modos de coexistencia y actualización, gestionando migraciones de reuniones y configurando la coexistencia y las configuraciones de actualización. Luego planifica y configura la configuración de red para Microsoft Teams, y finalmente implementará y administrará los puntos de conexión de Microsoft Teams.
-  Al implementar y administrar equipos, aprenderá cómo crear y administrar equipos, administrar la membresía y el acceso tanto para usuarios internos como externos.
-  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
-  Este curso concluye con la gestión de la comunicación en Microsoft Teams. You will learn how to manage Live event and meetings experiences, manage phone numbers or Phone System for Microsoft Teams and finally how to troubleshoot audio, vídeo, and client issues.
+  En este curso, aprenderás acerca de las distintas herramientas de gestión de Teams, la función de seguridad y cumplimiento de Teams, los requisitos de red para implementar Teams, así como las distintas configuraciones y políticas de Teams para gestionar la experiencia de colaboración y comunicación en Teams. Aprenderás acerca de la arquitectura de Teams. En concreto, aprenderás acerca de la integración entre Microsoft Teams y varias cargas de trabajo y servicios en Microsoft 365. Aprenderás acerca de las funciones de seguridad y cumplimiento para Teams, incluyendo el acceso condicional, MFA, amenazas, alertas, políticas de DLP, eDiscovery y políticas de barrera de información. También aprenderás a preparar el entorno para implementar Microsoft Teams, incluida la actualización de Skype for Business a Microsoft Teams, la configuración de la red y la gestión de los endpoints de Microsoft Teams. Por último, aprenderás acerca de cómo crear y gestionar equipos, gestionar la pertenencia, incluyendo los usuarios internos y externos. Además, aprenderás sobre las diferentes configuraciones y políticas para gestionar las experiencias de colaboración y comunicación en Microsoft Teams.
 
-  #### Perfil de audiencia
-  Los estudiantes en este curso están interesados en Microsoft Teams o en aprobar el examen de certificación de Asociados de Microsoft Teams Administrator.
+  #### Perfil del Asistente
+
+  Los estudiantes que participan en este curso están interesados en Microsoft Teams o en aprobar el examen de certificación Microsoft Teams Administrator Associate. Un administrador de Microsoft Teams planifica, implementa, configura y gestiona Microsoft Teams para centrarse en una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365. Un administrador de Microsoft Teams debe ser capaz de planificar, implementar y gestionar equipos, chat, aplicaciones, canales, reuniones, conferencias de audio/vídeo, eventos en vivo, llamadas y dispositivos certificados para Teams. Un administrador de Microsoft Teams tiene experiencia en la integración de Microsoft Teams con SharePoint, OneDrive, Exchange, Microsoft 365 Groups y otras aplicaciones de Microsoft, de terceros y personalizadas. Un administrador de Microsoft Teams entiende y colabora con otras cargas de trabajo y roles, tales como Red, Voz, Identidad, Acceso, Dispositivos, Licenciamiento, Seguridad, Cumplimiento, Gestión de la Información y Adopción de Usuarios.
 prerequisitesSection: |-
   - Conocimiento competente de experiencia funcional básica con los servicios de Microsoft 365.
   - Una comprensión competente de las prácticas generales de TI, incluido el uso de PowerShell.
 outlineSection: |-
-  ### Módulo 1&#58; Descripción general de Microsoft Teams
-  En la descripción general de Microsoft Teams, obtendrá una descripción general de Microsoft Teams, incluida la arquitectura de Teams y las cargas de trabajo de Office 365 relacionadas. Se le proporcionará una descripción general de la seguridad y el cumplimiento en Microsoft Teams y, finalmente, obtendrá una descripción general de cómo administrar Microsoft Teams.
+  ### Módulo 1: Empezar a gestionar Microsoft Teams
+
+  En este módulo, conseguirás un resumen de Microsoft Teams, incluyendo la arquitectura de Teams y las cargas de trabajo relacionadas con Microsoft 365. También aprenderás las herramientas de gestión de Teams y cómo gobernar y gestionar el ciclo de vida de Teams.
+
   #### Lecciones
-  - Descripción general de Microsoft Teams
-  - Descripción general de la seguridad y el cumplimiento en Microsoft Teams
-  - Descripción general de la administración de Microsoft Teams
+
+  *   Explorar Microsoft Teams
+
+  *   Implementar y gestionar Microsoft Teams
+
+  *   Implementar la gobernanza y la gestión del ciclo de vida de Microsoft Teams
 
 
-  #### Laboratorio &#58; Gestionar roles y crear equipos
-  - Preparar roles de equipo y licencias
-  - Crear nuevo equipo
+  #### Laboratorio : Gestionar Microsoft Teams
 
+  ####
+  *   Preparar roles y licencias de equipo
+  *   Explorar herramientas de gestión de Teams
+  *   Crear grupos y equipos
+  *   Implementar la gobernanza y la gestión del ciclo de vida de Microsoft Teams
 
-  ### Módulo 2&#58; Implementar Gobierno, Seguridad y Cumplimiento de Microsoft Teams
-  Al implementar el gobierno, la seguridad y el cumplimiento de los equipos de Microsoft, planificará y configurará el gobierno de los grupos de Office 365, incluidas las políticas de vencimiento y nomenclatura. Luego implementará la seguridad configurando acceso condicional, MFA o Threat Management para equipos de Microsoft. Finalmente, implementará el cumplimiento de los equipos mediante el uso de directivas DLP, casos de exhibición de documentos electrónicos o políticas de supervisión.
+  ### Módulo 2: Implementar seguridad y cumplimiento para Microsoft Teams
+
+  En este módulo, aprenderás a gestionar el acceso de usuarios externos desde distintos centros de administración de Microsoft 365, y qué funciones de seguridad y cumplimiento normativo se pueden utilizar para proteger el entorno de Teams, como el acceso condicional, la MFA, la gestión de amenazas para Microsoft Teams, políticas DLP, casos de eDiscovery y cumplimiento normativo en materia de comunicaciones.
+
   #### Lecciones
-  - Implementar el gobierno y la gestión del ciclo de vida para Microsoft Teams
-  - Implementación de seguridad para Microsoft Teams
-  - Implementación de cumplimiento para Microsoft Teams
+
+  *   Gestionar accesos para usuarios externos
+
+  *   Implementar la seguridad para Microsoft Teams
+
+  *   Implementar el cumplimiento para Microsoft Teams
 
 
-  #### Laboratorio &#58; Configurar seguridad y cumplimiento para equipos y contenido
-  - Implementar el gobierno y la gestión del ciclo de vida para Microsoft Teams
-  - Implementación de seguridad para Microsoft Teams
-  - Implementación de cumplimiento para Microsoft Teams
+  #### Laboratorio : Configurar seguridad y cumplimiento para Microsoft Teams
 
+  ####
+  *   Gestionar el acceso de invitados para Microsoft Teams
+  *   Implementar seguridad para Microsoft Teams
+  *   Implementar el cumplimiento para Microsoft Teams
 
-  ### Módulo 3&#58; Preparar el entorno para una implementación de Microsoft Teams
-  Al preparar el entorno para una implementación de Microsoft Teams, planifica una actualización de Skype for Business a Microsoft Teams evaluando rutas de actualización con modos de coexistencia y actualización, gestionando migraciones de reuniones y configurando la coexistencia y las configuraciones de actualización. Luego planifica y configura la configuración de red para Microsoft Teams, y finalmente implementará y administrará los puntos de conexión de Microsoft Teams.
+  ### Módulo 3: Preparar el entorno para una implementación de Microsoft Teams
+
+  En este módulo, aprenderás las diferentes vías de actualización para la coexistencia y los modos de actualización para la transición de Skype for Business a Microsoft Teams. También aprenderás a planificar y configurar los ajustes de red para Microsoft Teams.
+
   #### Lecciones
-  - Actualización de Skype for Business a equipos de Microsoft
-  - Planificar y configurar los ajustes de red para los equipos de Microsoft
-  - Implementar y administrar los puntos de conexión de Microsoft Teams
+
+  * Transición de Skype for Business a Microsoft Teams
+
+  * Planificar y configurar ajustes de red para Microsoft Teams
 
 
-  #### Laboratorio &#58; Preparación del entorno para equipos
-  - Calcular capacidades de red
-  - Evaluar perfiles de configuración
-  - Proporcionar recursos del equipo
+  #### Laboratorio : Planificar y configurar los ajustes de red para Microsoft Teams
 
+  ####
+  * Calcular las capacidades de red
+     
+  ### Módulo 4: Gestionar el chat, equipos, canales y aplicaciones en Microsoft Teams
 
-  ### Módulo 4&#58; Implementar y administrar equipos
-  Al implementar y administrar equipos, aprenderá cómo crear y administrar equipos, administrar la membresía y el acceso tanto para usuarios internos como externos.
+  En este módulo, aprenderás a crear y gestionar equipos y miembros desde diferentes enfoques, a gestionar las experiencias de colaboración tanto para el chat como para los canales, y a gestionar aplicaciones para Microsoft Teams.
+
   #### Lecciones
-  - Crear y gestionar equipos
-  - Administrar membresía
-  - Administrar el acceso para usuarios externos
+
+  *   Crear y gestionar equipos
+
+  *   Gestionar experiencias de colaboración para el chat y los canales
+
+  *   Gestionar aplicaciones para Microsoft Teams
 
 
-  #### Laboratorio &#58; Administrar equipos
-  - Administrar recursos del equipo
-  - Administrar el intercambio y el acceso
+  #### Laboratorio : Gestionar equipos y configuraciones de colaboración para Teams
 
+  ####
+  *   Gestionar recursos de equipo
+  *   Configurar políticas de canales y de mensajería
+  *   Gestionar la configuración de aplicaciones
+  *   Probar ajustes de políticas configuradas
 
-  ### Módulo 5&#58; Administrar la colaboración en Microsoft Teams
-  Al administrar la colaboración en Microsoft Teams, administrará experiencias de chat y colaboración, como la configuración del equipo o las políticas de creación de canales privados. Finalmente, administrará la configuración de las aplicaciones de Teams, como las políticas de configuración de, aplicaciones, bots y conectores en Microsoft Teams o publicará una aplicación personalizada en Microsoft Teams.
+  ### Módulo 5: Gestionar reuniones y eventos virtuales en Microsoft Teams
+
+  En este módulo, aprenderás a gestionar experiencias de reuniones y eventos virtuales con diferentes políticas y configuraciones. También aprenderás a implementar dispositivos de Teams, incluidaTeams Room.
+
   #### Lecciones
-  - Administrar experiencias de chat y colaboración
-  - Administrar la configuración de las aplicaciones de Teams
+
+  *   Gestionar experiencias de reuniones y eventos virtuales
+
+  *   Configurar y gestionar dispositivos de Microsoft Teams
 
 
-  #### Laboratorio &#58; Modificar la configuración de colaboración para Teams
-  - Configurar canales y políticas de mensajes
-  - Administrar la configuración de la aplicación para Team
+  #### Laboratorio : Gestionar experiencias de reuniones de Teams
 
+  ####
+  *   Gestionar experiencias de reuniones y eventos virtuales
+  *   Implementar perfiles de dispositivos de Teams
 
-  ### Módulo 6&#58; Administrar la comunicación en Microsoft Teams
-  Este curso concluye con la gestión de la comunicación en Microsoft Teams. You will learn how to manage Live event and meetings experiences, manage phone numbers or Phone System for Microsoft Teams and finally how to troubleshoot audio, vídeo, and client issues.
+  ### Módulo 6: Gestionar llamadas en Microsoft Teams
+
+  En este módulo, aprenderás a gestionar los números de teléfono y el sistema telefónico para las experiencias de llamada en Microsoft Teams y a solucionar problemas de audio, vídeo y cliente.
+
   #### Lecciones
-  - Administrar eventos en vivo y experiencias de reuniones
-  - Administrar números de teléfono
-  - Administrar sistema telefónico para Microsoft Teams
-  - Solucionar problemas de audio, vídeo y problemas del cliente
+
+  *   Gestionar números de teléfono
+
+  *   Gestionar el sistema telefónico para Microsoft Teams
+
+  *   Solucionar problemas de audio, vídeo y cliente
 
 
-  #### Laboratorio &#58; Modificar la configuración de comunicación para Teams
-  - Configurar políticas de reunión
-  - Administrar sistema telefónico para Microsoft Teams
-  - Solución deproblemas de audio, vídeo y problemas del cliente
+  #### Laboratorio : Gestionar llamadas en Microsoft Teams
 
+  ####
+  *   Configurar un Plan de Llamadas (Opcional)
+  *   Gestionar el sistema telefónico para Microsoft Teams

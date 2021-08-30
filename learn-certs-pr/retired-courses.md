@@ -19,12 +19,12 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
 
 ## Cursos retirados: Formación impartida por instructor
 
-* Los cursos se retiran el 30 de julio de 2021
+* Los cursos se retirarán el 31 de agosto de 2021
 
-    | Número de curso | Versión | Título | Idioma | Fecha de retirada
+    | Número de curso | Versión | Título | Idioma | Fecha de retirada|
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementing an Azure Data Solution | Inglés | 30/7/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | Inglés | 30/7/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglés | 31/8/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglés | 31/8/2021 |
 
 * Retirada de material didáctico el 30 de junio de 2021
 
@@ -1053,7 +1053,7 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
 
 * Courseware Retiro de, 18 de abril de 2016
 
-    | número de curso | Título | Idioma | Fecha de retiro |
+    | número de curso | Versiones | Título | Idioma | Fecha de retiro |
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | japonés | 18/4/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | español | 18/4/2016

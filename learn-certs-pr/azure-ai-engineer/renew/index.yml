@@ -11,7 +11,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Si tiene esta certificación y vence dentro de los seis meses, es elegible para su renovación. Demuestre que se ha mantenido actualizado con las últimas actualizaciones de Azure AI gracias a aprobar la evaluación de renovación. También puede prepararse para renovar con la colección seleccionada de módulos de aprendizaje.
 skills:
-- Evaluar texto con Azure Cognitive Language Services
 - Procesar y Traducir Voz con Azure Cognitive Speech Services
 - Procesar y clasificar imágenes con Azure cognitive vision services
 - Procesar el lenguaje natural con Azure Cognitive Language Services

@@ -7,29 +7,20 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Si eres un consultor funcional o un usuario empresarial con conocimientos fundamentales de los estándares del sector de la gestión de la cadena de suministro, esta certificación podría ser una buena opción para ti. También necesitas experiencia en la configuración e implementación de Dynamics 365 Supply Chain Management para satisfacer las necesidades de tu organización. Los consultores funcionales de gestión de la cadena de suministro son recursos clave que trabajan con programadores, arquitectos de soluciones, administradores de proyectos y consultores funcionales en finanzas, comercio y fabricación.
+  Los candidatos a este examen analizan los requisitos empresariales y traducen esos requisitos en procesos y soluciones empresariales plenamente realizados que aplican las mejores prácticas del sector. Los candidatos actúan como un recurso clave en la implementación y configuración de aplicaciones para satisfacer requisitos empresariales.
   
-  Si necesitas más experiencia antes de intentar obtener esta certificación, aquí tienes algunas sugerencias&#58;
+  Los candidatos a este examen tienen un conocimiento fundamental de principios contables y operaciones financieras empresariales, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de gestión de la cadena de suministro. Suelen especializarse en uno o más conjuntos de funciones de aplicaciones de Finanzas y Operaciones, incluyendo finanzas, fabricación y gestión de la cadena de suministro.
   
-  - Estudia los módulos de gestión de la cadena de suministro en Microsoft Learn y realiza más prácticas.
-  - Inscríbete en un curso de formación impartido por un instructor que cubra el temario MB-300 o MB-330.
-  - Participa en la comunidad en [community.dynamics.com](https://community.dynamics.com/), o únete a un grupo de usuarios.
-  - Acompaña a un consultor funcional de gestión de la cadena de suministro, y ayuda a implementar las funcionalidades de Dynamics 365 Supply Chain Management.
-  - Consigue un mentor, recorre los almacenes y aprende cómo se fabrican las cosas.
-  - Haz preguntas y aprende de los expertos y los clientes.
+  Los candidatos deben tener algún conocimiento de las prácticas de gestión de la cadena de suministro, incluidas adquisiciones, trading, logística, gestión de almacenes y gestión del transporte.
 subTitle: 'Dynamics 365 Supply Chain Management Functional Consultants simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.'
 levels:
 - intermediate
 skills:
-- Usar funcionalidades comunes y herramientas de implementación
-- Configurar seguridad, procesos y opciones
-- Administrar los datos de finanzas y operaciones
-- Validar y asistir la solución
 - Implementar la gestión de la información del producto
-- Implementar la gestión de inventario
+- Implementar Gestión de Inventario 
 - Implementar y gestionar los procesos de la cadena de suministro
 - Implementar la gestión de almacenes y la gestión del transporte
-- Implementar una planificación maestra
+- Implementar Optimización de Planificación
 roles:
 - functional-consultant
 type: role-based

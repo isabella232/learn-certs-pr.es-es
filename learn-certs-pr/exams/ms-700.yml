@@ -6,16 +6,14 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div>
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 26 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>El contenido de este examen fue actualizado el 26 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+
+  Los candidatos a este examen son administradores de Microsoft Teams que gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
   
-  El administrador de equipos de Microsoft configura, implementa y gestiona Office 365 workloads for Microsoft Teams que se centra en la colaboración y comunicación eficientes y efectivas en un entorno empresarial.
+  Los candidatos a este examen deben ser capaces de planificar, implementar, configurar y asegurar el chat, aplicaciones, canales, reuniones, conferencias de audio/vídeo, eventos en vivo, llamadas y dispositivos certificados para Microsoft Teams en Teams. Los candidatos deben tener experiencia en la integración de Microsoft Teams con otras cargas de trabajo, como SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform y con otras aplicaciones de Microsoft, aplicaciones de terceros y aplicaciones personalizadas.
   
-  El administrador de equipos de Microsoft debe poder planificar, implementar y administrar chats, aplicaciones, canales, reuniones, conferencias de audio, eventos en vivo y llamadas de equipos. El Teams Administrator es también responsable de actualizar Skype Empresarial a Equipos. Candidatos para este examen deben ser competentes manejando la configuración de Teams mediante el uso de PowerShell. El Teams Administrator tiene una comprensión fundamental de los puntos de integración con aplicaciones y servicios, incluyendo pero no limitado a Grupos SharePoint, OneDrive, Exchange, Azure AD, y Office 365. El Teams Administrator entiende como integrar aplicaciones y servicios externos.
-  
-  El administrador de equipos de Microsoft colabora con ingenieros de telefonía para integrar funciones de vos avanzadas en Microsoft Teams. Esta función no es responsable de configurar enrutamiento, configurar enrutamiento de llamadas o de integrar telefonía. El administrador de equipos de Microsoft puede trabajar con otras funciones de administrador de cargas de trabajo, incluida seguridad y cumplimiento, mensajería, redes, identidad y dispositivos.
-subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: planificar y configurar un entorno de Microsoft Teams; administrar chat, llamadas y reuniones; y gestionar equipos y políticas de aplicaciones.'
+  Un administrador Microsoft Teams también colabora en otras funciones, tales como redes, telefonía, licencias, seguridad, cumplimiento, adopción de usuarios, desarrollo de aplicaciones y asistencia.
+subTitle: 'Este examen mide tu capacidad para realizar las siguientes tareas técnicas: planificar y configurar un entorno de Microsoft Teams; gestionar el chat, equipos, canales y aplicaciones; gestionar llamadas y reuniones; y supervisar y solucionar problemas de un entorno de Microsoft Teams.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,10 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
--  La guía de examen que aparece a continuación muestra los cambios que se aplicarán el 26 de julio de 2021.
-- Planificar y configurar un entorno de equipos de Microsoft (45-50%)
-- Gestionar chat, llamadas y reuniones (30-35%)
-- Administrar equipos y políticas de aplicaciones (20-25%)
+- El contenido de este examen se actualizó el 26 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- Planificar y configurar un entorno de Microsoft Teams (35-40%)
+- Gestionar el chat, equipos, canales y aplicaciones (25-30%)
+- Gestionar llamadas y reuniones (15-20%)
+- Supervisar y solucionar problemas de un entorno de Microsoft Teams (10-15%)
 roles:
 - administrator
 products:

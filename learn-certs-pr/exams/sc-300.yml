@@ -19,7 +19,7 @@ locales:
 - zh-cn
 - ko
 levels:
-- advanced
+- intermediate
 skills:
 - Implementar una solución de gestión de identidades (25-30%)
 - Implementar una solución de gestión de autenticación y acceso (25-30%)

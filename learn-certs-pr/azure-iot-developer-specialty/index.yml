@@ -6,11 +6,15 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  El Programador de Azure IoT implementa la configuración y realiza las tareas de codificación necesarias para crear y mantener las partes de cloud y de borde de una solución IoT. Además de configurar y mantener los dispositivos utilizando los servicios de cloud, el Programador IoT también configura los dispositivos físicos. El Programador IoT es responsable de mantener y solucionar la configuración de los dispositivos a lo largo del ciclo de vida.
+  Los candidatos a esta certificación deben tener experiencia en la implementación de las tareas de configuración y codificación necesarias para crear y mantener las porciones cloud y edge de una solución IoT.
   
-  El Programador IoT implementa las especificaciones de diseño de las soluciones IoT, incluyendo topología de dispositivos, conectividad, diagnóstico y monitorización, y seguridad. El Programador IoT desarrolla y despliega módulos y configura la red de dispositivos para la parte de la solución de IoT Edge. El Programador IoT implementa los diseños para las soluciones de gestión de los conductos de datos, incluida la supervisión y la transformación de datos en relación con el IoT. El Programador IoT trabaja con el arquitecto de Azure IoT, los ingenieros de datos y otras partes interesadas para garantizar el éxito de la integración empresarial.
+  Las responsabilidades de este rol incluyen implementar dispositivos físicos, configurarlos y mantenerlos utilizando servicios cloud, y mantener y solucionar problemas de configuración a lo largo del ciclo de vida del dispositivo.
   
-  Los Programadores IoT deben tener un conocimiento general de los tipos de dispositivos y de los servicios de Azure, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos, AI y otras opciones de la Plataforma como Servicio. Los Programadores IoT deben ser capaces de programar en al menos un lenguaje compatible con Azure IoT SDK.
+  Los programadores Azure IoT también son responsables de implementar especificaciones de diseño para soluciones IoT, incluyendo topología de dispositivos, conectividad, diagnóstico y monitorización, y seguridad. Estos profesionales desarrollan e implementan módulos y configuran la red de dispositivos para la porción de Azure IoT Edge de la solución. Además, implementan los diseños de soluciones para gestionar canalizaciones de datos, incluyendo monitorización y transformación de datos en relación con el IoT.
+  
+  Los Programadores Azure IoT trabajan con arquitectos, ingenieros de datos y otras partes interesadas para garantizar el éxito de la integración empresarial, incluida la implementación del servicio Azure Digital Twins.
+  
+  Los candidatos a esta certificación deben entender de forma general los tipos de dispositivos y Azure services, incluyendo opciones de almacenamiento de datos, análisis de datos, procesamiento de datos, AI y otras opciones de plataforma como servicio (PaaS). Deben ser capaces de programar en al menos un idioma compatible con el kit de desarrollo de software de Azure IoT (SDK-compatible).
 subTitle: Los desarrolladores de Azure IoT desarrollan componentes de nube y laterales de una solución de Azure IoT.
 levels:
 - intermediate

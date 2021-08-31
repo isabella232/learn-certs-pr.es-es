@@ -13,7 +13,9 @@ summary: |-
   
   Los ingenieros de Azure AI trabajan con arquitectos de soluciones para convertir su visión y con científicos de datos, ingenieros de datos, especialistas en IoT y programadores de AI para construir soluciones integrales de AI.
   
-  Candidatos a esta certificación deben ser expertos en C#, Python o JavaScript y deben ser capaces de utilizar APIs y SDKs basados en REST para construir soluciones de visión computacional, procesamiento de lenguaje natural, minería del conocimiento y AI conversacional en Azure. También deben comprender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles. Asimismo, los candidatos deben comprender y ser capaces de aplicar los principios de la AI responsable.
+  Los candidatos a esta certificación deben dominar C# o Python y deben ser capaces de utilizar APIs y SDKs basados en REST para construir soluciones de visión artificial, procesamiento del lenguaje natural, minería del conocimiento y AI conversacional en Azure.
+  
+  También deben entender los componentes que conforman la cartera de Azure AI y las opciones de almacenamiento de datos disponibles. Además, los candidatos deben entender y ser capaces de aplicar el principio AI responsable.
 subTitle: Ingenieros de Azure AI construyen, gestionan y despliegan soluciones AI que aprovechan Azure Cognitive Services, Azure Cognitive Search y Estructura de Microsoft Bot.
 levels:
 - intermediate
@@ -48,12 +50,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-102

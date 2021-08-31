@@ -6,13 +6,11 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
-
-  El Programador Azure IoT implementa la configuración y realiza las tareas de codificación necesarias para crear y mantener las partes de la cloud y del borde de una solución IoT. Además de configurar y mantener los dispositivos utilizando los servicios de la cloud, el Programador IoT también configura los dispositivos físicos. El Programador IoT es responsable de mantener y solucionar los problemas de configuración de los dispositivos a lo largo de su ciclo de vida. 
+  <div><font color='red'><strong>El contenido de este examen fue actualizado el 26 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
   
-  El Programador IoT implementa las especificaciones de diseño de las soluciones IoT, incluyendo topología de dispositivos, conectividad, diagnóstico y monitorización, y seguridad. El Programador IoT desarrolla y despliega módulos y configura la red de dispositivos para la parte de la solución IoT Edge. El Programador IoT implementa los diseños de las soluciones para gestionar los conductos de datos, incluida la supervisión y la transformación de datos en relación con IoT. El Programador IoT trabaja con el arquitecto de Azure IoT, los ingenieros de datos y otras partes interesadas para garantizar el éxito de la integración empresarial.
+  Los candidatos a esta certificación deben tener experiencia en la implementación de las tareas de configuración y codificación necesarias para crear y mantener las porciones cloud y edge de una solución IoT.
   
-  Los Programadores IoT deben tener un conocimiento general de los tipos de dispositivos y de los servicios de Azure, incluidas las opciones de almacenamiento de datos, análisis de datos, procesamiento de datos, AI y otras opciones de la Plataforma como Servicio. Los Programadores IoT deben ser capaces de programar en al menos un lenguaje compatible con Azure IoT SDK.
+  Los candidatos a esta certificación deben entender de forma general los tipos de dispositivos y Azure services, incluyendo opciones de almacenamiento de datos, análisis de datos, procesamiento de datos, AI y otras opciones de plataforma como servicio (PaaS). Deben ser capaces de programar en al menos un idioma compatible con el kit de desarrollo de software de Azure IoT (SDK-compatible).
 subTitle: 'Este examen mide tu capacidad para configurar la infraestructura de la solución IoT; aprovisionar y gestionar dispositivos; implementar IoT Edge; procesar y gestionar datos; supervisar, Solucionar Problemas y optimizar las soluciones IoT; e implementar seguridad.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -26,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el 25 de mayo de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizó el 26 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Establecer infraestructura de la solución IoT (10-15%)
 - Aprovisionar y gestionar dispositivos (15-20%)
 - Implementar IoT Edge (15-20%)

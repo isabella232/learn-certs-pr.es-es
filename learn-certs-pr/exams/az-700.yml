@@ -10,10 +10,13 @@ summary: |-
   
   Los candidatos a este examen también deben tener habilidades de administración Azure, además de una amplia experiencia y conocimiento de redes, conexiones híbridas y seguridad de redes.
   
-  <div><font color='red'><br/><strong>Este examen estará disponible a mediados de julio de 2021.</strong></font></div>
-subTitle: 'Este examen estará disponible en julio de 2021. Este examen mide tu capacidad para diseñar, implementar, gestionar, asegurar y supervisar las siguientes tareas técnicas: Redes híbridas; Infraestructura de redes centrales; Enrutamiento; Redes; y Acceso privado a los Servicios Azure.'
+  <div><br/><font color='red'><strong>Los exámenes beta no se califican inmediatamente porque estamos recopilando datos sobre la calidad de las preguntas y del examen. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Aprende más sobre el valor y la importancia de los exámenes beta.</a></strong></font></div>
+subTitle: 'Este examen mide tu capacidad para diseñar, implementar, gestionar, asegurar y supervisar las siguientes tareas técnicas: Redes híbridas; Infraestructura de redes centrales; Enrutamiento; Redes; y Acceso privado a los Servicios Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
 levels:
@@ -46,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate

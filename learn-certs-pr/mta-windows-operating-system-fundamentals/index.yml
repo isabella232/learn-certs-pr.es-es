@@ -13,12 +13,18 @@ subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea 
 levels:
 - beginner
 skills:
-- ninguno
+- Comprensiรณn de la configuraciรณn del sistema operativo 
+- Instalaciรณn y actualizaciรณn de los sistemas cliente 
+- Administraciรณn de aplicaciones 
+- Administraciรณn de archivos y carpetas 
+- Administraciรณn de dispositivos 
+- Comprensiรณn del mantenimiento del sistema operativo 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLm
 exams:
 - uid: exam.98-349
 resources:

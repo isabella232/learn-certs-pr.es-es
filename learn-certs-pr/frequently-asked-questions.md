@@ -50,7 +50,7 @@ Si tiene comentarios sobre un curso de Microsoft dirigido por un instructor, deb
 
 - Si tienes alguna duda sobre la exactitud técnica de un elemento concreto, por favor, visita: [Proceso de impugnación de apartados de examen](/learn/certifications/exam-item-challenge-process).
 - Para informar de alguna duda sobre un centro de examinación o de dificultades técnicas experimentadas durante tu examen, por favor, ponte en contacto con el servicio de atención al cliente del proveedor de exámenes correspondiente.
-- Para informar de algúna cuestión de seguridad, por favor, ponte en contacto con [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+- Para informar de una preocupación de seguridad, por favor, rellena este [formulario](https://aka.ms/wwlcertsecurity).
 - Para ofrecer otros tipos de información, por favor, ponte en contacto con [soporte técnico para certificaciones.](https://aka.ms/mcpforum)
 
 ## Detalles del examen

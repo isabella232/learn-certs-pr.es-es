@@ -19,6 +19,21 @@ Una vez que se retira un curso, ya no está disponible. El curso ya no se puede 
 
 ## Cursos retirados: Formación impartida por instructor
 
+* Cursos informatizados que se retiran el 29 de octubre de 2021
+
+    | Número de curso | Versión | Título | Idioma | Fecha de retirada|
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | Inglés | 29/10/2021 |
+
+* Cursos informatizados que se retiran el 30 de septiembre de 2021
+
+    | Número de curso | Versión | Título | Idioma | Fecha de retirada |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Inglés | 30/9/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Inglés | 30/9/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Inglés | 30/9/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Inglés | 30/9/2021 |
+
 * Los cursos se retirarán el 31 de agosto de 2021
 
     | Número de curso | Versión | Título | Idioma | Fecha de retirada|

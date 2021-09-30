@@ -20,10 +20,10 @@ subTitle: Los desarrolladores que trabajan con aplicaciones de Finanzas y Operac
 levels:
 - intermediate
 skills:
-- Usar funcionalidades comunes y herramientas de implementación
-- Configurar seguridad, procesos y opciones
-- Administrar los datos de finanzas y operaciones
-- Validar y asistir la solución
+- Describir las aplicaciones de finanzas y operaciones, y ampliar las aplicaciones utilizando las tecnologías de Microsoft Power Platform  
+- Configurar funciones administrativas y flujos de trabajo  
+- Gestionar los datos de finanzas y operaciones  
+- Validar y dar soporte a las soluciones  
 - Plan de Arquitectura y Diseño de Soluciones
 - Aplicar herramientas de desarrollador
 - Diseñar y desarrollar elementos AOT

@@ -13,7 +13,24 @@ subTitle: Demuestre su dominio sobre las capacidades principales de Windows Serv
 levels:
 - intermediate
 skills:
-- none
+- Instalar y configurar servidores
+- Configuración de los roles y las funciones del servidor
+- Configurar Hyper-V 
+- Implementar y configurar los servicios de red central 
+- Instalar y administrar Active Directory 
+- Creación y administración de la directiva de grupo 
+- Implementación, gestión y mantenimiento de servidores
+- Configurar archivos y servicios de impresión
+- Configuración del acceso y los servicios de red
+- Configuración de una Server Infrastructure de directivas de redes
+- Configuración y administración de Active Directory
+- Configuración y administración de la directiva de grupo
+- Configuración y administración de la alta disponibilidad
+- Configuración de soluciones de archivos y almacenamiento
+- Implementación de la continuidad empresarial y la recuperación ante desastres
+- Configuración de los servicios de red
+- Configuración de la infraestructura de Active Directory
+- Configuración de soluciones de protección de información y acceso
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

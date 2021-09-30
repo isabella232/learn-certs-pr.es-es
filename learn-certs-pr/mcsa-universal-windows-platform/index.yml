@@ -13,7 +13,17 @@ subTitle: Esta certificación demuestra su experiencia en la implementación de 
 levels:
 - intermediate
 skills:
-- none
+- Administración del flujo de programa
+- Creación y uso de tipos 
+- Depuración de aplicaciones e implementación de seguridad 
+- Implementación del acceso a datos
+- Desarrollo de un diseño de página XAML para una interfaz de usuario adaptativa 
+- Implementación de la navegación de la página y los eventos del ciclo de vida 
+- Implementación del acceso a los datos y el enlace de datos 
+- Implementación de detección de funciones para codificación adaptativa
+- Gestión de entradas de datos de usuarios e interacciones personalizadas de usuarios 
+- Gestión de la autenticación y gestión de identidad
+- Implementación de notificaciones, tareas en segundo plano y componentes reutilizables
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

@@ -7,15 +7,19 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Los candidatos a este examen analizan los requisitos empresariales y traducen esos requisitos en procesos y soluciones empresariales plenamente realizados que aplican las mejores prácticas del sector. Los candidatos actúan como un recurso clave en la implementación y configuración de aplicaciones para satisfacer requisitos empresariales.
+  Los candidatos a esta certificación analizan los requisitos empresariales y traducen esos requisitos en procesos y soluciones empresariales plenamente realizados que aplican las mejores prácticas del sector. Los candidatos actúan como un recurso clave en la implementación y configuración de aplicaciones para satisfacer los requisitos empresariales.
   
-  Los candidatos a este examen tienen un conocimiento fundamental de principios contables y operaciones financieras empresariales, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de gestión de la cadena de suministro. Suelen especializarse en uno o más conjuntos de funciones de aplicaciones de Finanzas y Operaciones, incluyendo finanzas, fabricación y gestión de la cadena de suministro.
+  Los candidatos a esta certificación tienen un conocimiento fundamental de los principios contables y las operaciones financieras de las empresas, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de gestión de la cadena de suministro. Suelen especializarse en uno o más conjuntos de funciones de las aplicaciones de Finanzas y Operaciones, incluidas finanzas, fabricación y gestión de la cadena de suministro.
   
   Los candidatos deben tener algún conocimiento de las prácticas de gestión de la cadena de suministro, incluidas adquisiciones, trading, logística, gestión de almacenes y gestión del transporte.
 subTitle: 'Dynamics 365 Supply Chain Management Functional Consultants simplifican la contabilidad de costos, la gestión de inventario, la planificación maestra y la administración de almacenamiento para sus clientes.'
 levels:
 - intermediate
 skills:
+- Describir las aplicaciones de finanzas y operaciones, y ampliar las aplicaciones utilizando las tecnologías de Microsoft Power Platform  
+- Configurar funciones administrativas y flujos de trabajo  
+- Gestionar los datos de finanzas y operaciones  
+- Validar y dar soporte a las soluciones  
 - Implementar la gestión de la información del producto
 - Implementar Gestión de Inventario 
 - Implementar y gestionar los procesos de la cadena de suministro

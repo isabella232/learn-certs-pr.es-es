@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 2 de agosto de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 29 de septiembre de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   
   Candidatos a este examen deben tener experiencia en la implementación de controles de seguridad y protección contra amenazas, en la gestión de la identidad y acceso, y en protección de datos, aplicaciones y redes.
 
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizará el 2 de agosto de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 29 de septiembre de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Gestionar la identidad y el acceso (30-35%)
 - Implementar la protección de la plataforma (15-20%)
 - Gestionar operaciones de seguridad (25-30%)

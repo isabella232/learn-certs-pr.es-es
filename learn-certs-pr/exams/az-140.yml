@@ -6,11 +6,13 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
- Los candidatos a este examen son administradores con experiencia en la planificación, entrega y gestión de experiencias de escritorio virtual y aplicaciones remotas, para cualquier dispositivo, en Azure.
-  
- Las responsabilidades de este rol incluyen implementar experiencias de escritorio virtual y aplicaciones en Azure. Los profesionales de este rol entregan aplicaciones en Azure Virtual Desktop y las optimizan para que se ejecuten en entornos virtuales multisesión. Para ofrecer estas experiencias, trabajan estrechamente con administradores y arquitectos de Azure, junto con Microsoft 365 Administrators.
-  
- Los candidatos a este examen deben tener experiencia en las tecnologías de Azure, incluyendo virtualización, redes, identidad, almacenamiento, copias de seguridad, resiliencia y recuperación de desastres. Deben comprender las tecnologías de infraestructura de escritorio virtual local en lo que respecta a la migración a Azure Virtual Desktop. Estos profesionales utilizan el portal de Azure y las plantillas de Azure Resource Manager para ejecutar muchas tareas. Este rol puede utilizar PowerShell y Azure Command-Line Interface (CLI) para una automatización más eficiente.
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
+
+  Los candidatos a este examen son administradores con experiencia en la planificación, entrega y gestión de experiencias de escritorio virtual y aplicaciones remotas, para cualquier dispositivo, en Azure.
+    
+  Las responsabilidades de este rol incluyen implementar experiencias de escritorio virtual y aplicaciones en Azure. Los profesionales de este rol entregan aplicaciones en Azure Virtual Desktop y las optimizan para que se ejecuten en entornos virtuales multisesión. Para ofrecer estas experiencias, trabajan estrechamente con administradores y arquitectos de Azure, junto con Microsoft 365 Administrators.
+    
+  Los candidatos a este examen deben tener experiencia en las tecnologías de Azure, incluyendo virtualización, redes, identidad, almacenamiento, copias de seguridad, resiliencia y recuperación de desastres. Deben comprender las tecnologías de infraestructura de escritorio virtual local en lo que respecta a la migración a Azure Virtual Desktop. Estos profesionales utilizan el portal de Azure y las plantillas de Azure Resource Manager para ejecutar muchas tareas. Este rol puede utilizar PowerShell y Azure Command-Line Interface (CLI) para una automatización más eficiente.
   
   Los candidatos a este examen deben tener conocimientos expertos de administración de Azure.
 subTitle: 'Este examen mide tu capacidad para realizar las siguientes tareas técnicas: planificar un Azure Virtual Desktop Architecture; implementar un Azure Virtual Desktop Infrastructure; gestionar el acceso y la seguridad; gestionar los entornos de usuario y las aplicaciones; y supervisar y mantener un Azure Virtual Desktop infrastructure.'
@@ -19,10 +21,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFS
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=es-es&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- 'NOTA: Las viñetas que aparecen debajo de cada una de las mediciones de habilidades pretenden ilustrar cómo estamos evaluando esa habilidad. Esta lista NO es definitiva ni exhaustiva.'
+- El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Planificar un Azure Virtual Desktop Architecture (10-15%)
 - Implementar un Azure Virtual Desktop Infrastructure (25-30%)
 - Gestionar el Acceso y la Seguridad (10-15%)

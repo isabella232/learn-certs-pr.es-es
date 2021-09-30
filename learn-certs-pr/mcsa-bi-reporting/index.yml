@@ -13,7 +13,12 @@ subTitle: Esta certificación demuestra su experiencia analizando datos con Powe
 levels:
 - intermediate
 skills:
-- none
+- Consumir y transformar los datos usando Power BI Desktop
+- Modelar y visualizar datos
+- Configurar tableros, informes y aplicaciones en el servicio Power BI
+- Consumir y transformar los datos usando Microsoft Excel
+- Modelar datos
+- Visualizar datos
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +27,7 @@ products:
 courses:
 - uid: course.20778
 - uid: course.20779
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIwaM
 exams:
 - uid: exam.70-778
 - uid: exam.70-779

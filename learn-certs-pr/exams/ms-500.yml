@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen fue actualizado el 26 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   
   Los candidatos para este examen implementan, administran y supervisan soluciones de seguridad y cumplimiento para Microsoft 365 y entornos híbridos. El administrador de seguridad de Microsoft 365 protege de forma proactiva los entornos empresariales de Microsoft 365, responde a las amenazas, realiza investigaciones y aplica el gobierno de los datos. El Microsoft 365 Security Administrator colabora con el Microsoft 365 Enterprise Administrator, las partes interesadas de negocios y otros administradores de carga de trabajo para planificar e implementar estrategias de seguridad y garantiza que las soluciones cumplan con las directivas y regulaciones de la organización.
   <br/>
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen se actualizó el 26 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Implementar y administrar la identidad y el acceso (30-35%)
 - Implementar y administrar la protección contra amenazas (20-25%)
 - Implementar y gestionar la protección de la información (15-20%)
@@ -41,10 +41,11 @@ products:
 courses:
 - uid: course.ms-500t00
 paths:
-- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
 - uid: learn-m365.m365-security-threat-protection
 - uid: learn-m365.m365-information-protection
 - uid: learn-m365.m365-security-management
+- uid: learn-m365.m365-compliance-insider
 relatedCertifications:
 - related:
     uid: certification.m365-security-administrator

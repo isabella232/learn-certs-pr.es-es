@@ -13,7 +13,22 @@ subTitle: Demuestre su dominio sobre las capacidades principales de Windows Serv
 levels:
 - intermediate
 skills:
-- none
+- Instalación de servidores Windows en entornos informáticos y de host 
+- Implementación de soluciones de almacenamiento 
+- Implementación de Hyper-V
+- Implementación de contenedores Windows 
+- Implementación de alta disponibilidad 
+- Mantenimiento y supervisión de entornos de servidor 
+- Implementación del Domain Name System (DNS)
+- Implementar DHCP e IPAM 
+- Implementar soluciones de conectividad de red y acceso remoto 
+- Implementación de soluciones de red principal y distribuida 
+- Implementar una infraestructura de red avanzada 
+- Instalación y configuración de los Active Directory Domain Services Directory (AD CS) 
+- Administración y mantenimiento de AD DS 
+- Creación y administración de la directiva de grupo
+- Implementación de los Servicios de certificados de Active Directory (AD CS) 
+- Implementar la Federación de Identidad y Soluciones de acceso
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen se actualizará el 29 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 29 de septiembre de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
    
   Los candidatos a este examen son Microsoft 365 Enterprise Administrators que participan en la evaluación, planificación, migración, despliegue y gestión de los servicios de Microsoft 365. Realizan tareas de gestión de inquilinos de Microsoft 365 para una empresa, incluyendo sus identidades, seguridad, cumplimiento, Power Platform y tecnologías de soporte.
 
-  Los candidatos tienen un conocimiento práctico de las cargas de trabajo de Microsoft 365 y deben haber sido administradores de al menos una carga de trabajo de Microsoft 365 (Exchange, SharePoint, Teams) y Windows como servicio. Los candidatos también tienen conocimientos de redes, administración de servidores y fundamentos de IT como DNS, Active Directory y PowerShell.
+  Los candidatos tienen un conocimiento práctico de Microsoft 365 workloads y deben haber sido administradores de al menos un despliegue de Exchange, SharePoint, Teams o Windows 10. Los candidatos también tienen conocimientos de redes, administración de servidores y fundamentos de IT como DNS, Active Directory y PowerShell.
 subTitle: 'Este examen mide su capacidad para realizar las siguientes tareas técnicas: diseñar e implementar servicios de Microsoft 365; administrar la identidad del usuario y los roles; gestionar el acceso y la autenticación; y planificar las cargas de trabajo y aplicaciones de Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- El contenido de este examen se actualizará el 29 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 29 de septiembre de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Diseñar e implementar servicios de Microsoft 365 (25-30%)
 - Gestionar la identidad y los roles de los usuarios (25-30%)
 - Gestionar acceso y autenticación (15-20%)

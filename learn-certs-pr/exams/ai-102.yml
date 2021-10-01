@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>El contenido de este examen fue actualizado el 29 de julio de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que ha cambiado.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el documento de medición de habilidades que aparece a continuación para ver lo que va a cambiar.</strong></font><br/><br/></div>
   
   Candidatos al examen AI-102: Designing and Implementing a Microsoft Azure AI Solution construye, gestiona e implementa soluciones de AI que aprovechen Azure Cognitive Services, Azure Cognitive Search y Microsoft Bot Framework.
   
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- El contenido de este examen fue actualizado el 29 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
+- El contenido de este examen se actualizará el 24 de septiembre de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que va a cambiar.
 - Planificar y gestionar una solución Azure Cognitive Services (15-20%)
 - Implementar soluciones de Visión Artificial (20-25%)
 - Implementar soluciones de procesamiento de lenguaje natural (20-25%)
@@ -67,6 +67,7 @@ paths:
 - uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
 - uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.extract-text-from-images-documents
 - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:

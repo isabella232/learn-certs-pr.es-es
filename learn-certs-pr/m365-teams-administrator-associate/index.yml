@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Los candidatos a este examen son administradores de Microsoft Teams que gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
+  description: Los administradores de Microsoft Teams gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Los candidatos a este examen son administradores de Microsoft Teams que gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
+  Los candidatos a esta certificación son administradores de Microsoft Teams que gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
   
-  Los candidatos a este examen deben ser capaces de planificar, implementar, configurar y asegurar el chat, aplicaciones, canales, reuniones, conferencias de audio/vídeo, eventos en vivo, llamadas y dispositivos certificados para Microsoft Teams en Teams.
-subTitle: Los candidatos a este examen son administradores de Microsoft Teams que gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
+  Los candidatos a esta certificación deben ser capaces de planificar, implementar, configurar y asegurar el chat de Teams, aplicaciones, canales, reuniones, conferencias de audio/vídeo, eventos en vivo, llamadas y dispositivos certificados por Microsoft Teams.
+subTitle: Los administradores de Microsoft Teams gestionan Microsoft Teams para facilitar una colaboración y comunicación eficiente y eficaz en un entorno de Microsoft 365.
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

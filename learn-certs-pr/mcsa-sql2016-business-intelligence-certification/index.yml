@@ -13,7 +13,13 @@ subTitle: Esta certificación valida sus aptitudes para la extracción, transfor
 levels:
 - intermediate
 skills:
-- none
+- Diseñar, implementar y mantener un almacén de datos
+- Extracción, transformación y carga de datos 
+- Creación de soluciones de calidad de datos 
+- Diseño de un modelo semántico de inteligencia empresarial (BI) multidimensional 
+- Diseño de un modelo semántico de BI tabular 
+- Desarrollo de consultas mediante expresiones multidimensionales (MDX) y expresiones de análisis de datos (DAX) 
+- Configuración y mantenimiento de SQL Server Analysis Services (SSAS)
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

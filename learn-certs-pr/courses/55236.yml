@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utilizar formas para crear visualizaciones mejoradas de informes personalizados.
+- skill: Entender el uso de la programación de Visual Basic en los informes de SSRS.
+- skill: Utilizar y compatibilizar el código de Visual Basic en los informes de SSRS.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  En este curso de 1 día, los estudiantes continuarán su aprendizaje sobre la elaboración de informes con Microsoft® SQL Server® Report Builder y SSRS. El objetivo de este curso es mejorar las visualizaciones de informes personalizados y utilizar la programación de Visual Basic en los informes de SSRS. La ayuda a la programación de Visual Basic en los informes es un requisito normal en el panorama actual de la elaboración de informes y este curso presenta la información que necesitarás mediante discusiones en grupo, hojas de trabajo, prácticas, demostraciones y actividades de laboratorio. El Generador de Informes está disponible para todas las versiones compatibles de Microsoft SQL Server.
+
+  #### Perfil de los asistentes
+  Los asistentes principales a este curso son personas con experiencia en el Generador de Informes y en SSRS. Los asistentes a este curso son autores de informes con experiencia en el Diseñador de Informes (SSRS). Los participantes en el curso pueden ser analistas de negocio, analistas programadores, analistas de datos, administradores de bases de datos o profesionales de IT.
+prerequisitesSection: |-
+  Antes de asistir a este curso, los estudiantes deben tener&#58;
+  - Familiaridad con Windows.
+  - Carpetas de creación y navegación.
+  - Programas de apertura.
+  - Ventanas de manipulación
+  - Texto copiado, pegado y formateado.
+  - Archivos de guardado.
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 o tener una experiencia equivalente con los conceptos básicos de las bases de datos.
+outlineSection: |-
+  ### Módulo 1&#58; Crear Visualizaciones Mejoradas
+  Este módulo presenta las técnicas de formateo de informes que crean visualizaciones mejoradas utilizando formas, rectángulos, imágenes y regiones de datos. Para ayudar a las visualizaciones de informes personalizadas y mejoradas, este curso requiere una revisión de las propiedades específicas que apoyan el control de los artículos visualizados en un informe.
+  
+  #### Lecciones
+  - La Importancia de las Formas en los Informes
+  - Visualizaciones Mejoradas Utilizando el Rectángulo
+  - Controlar la Visualización de Artículos de Informe
+  - Creación de Mosaicos en una Tablix
+
+
+  #### Laboratorio &#58; Creación de Visualizaciones Mejoradas
+  - Crear Mosaicos en un Informe con Rectángulos
+  - Crear Mosaicos en un Tablix con Cuadros de Texto
+  - Crear Visualizaciones Mejoradas con Mosaicos de Cuadros de Texto, Mosaicos de Tablix y Tablixes
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las funciones clave, los usos y los enfoques para utilizar las formas en los informes.
+  - Entender mejor la herramienta rectángulo.
+  - Manipular las propiedades de los artículos del informe que tienen un impacto en su visualización.
+  - Transformar las regiones de datos mostrando mosaicos en lugar de cuadros de texto.
+
+
+  ### Módulo 2&#58; Visual Basic
+  Este módulo presenta el lenguaje de programación Microsoft Visual Basic. El objetivo de este módulo es hacer que el lenguaje de programación y su utilización tengan sentido para los no programadores. Este módulo utiliza el manual del curso manual, los debates en grupo, las hojas de trabajo y las reseñas, no solo para introducir la programación en Visual Basic, sino también para entender lo que hace el código.
+  
+  #### Lecciones
+  - El Lenguaje de Programación Visual Basic
+  - Componentes del Lenguaje Visual Basic
+  - Estructuras y Procedimientos de Decisión
+
+
+  #### Laboratorio &#58; Trabajar con Visual Basic
+  - Convertir Expresiones en Procedimientos de Visual Basic
+  - Trabajar con Tipos de Valor en Informes
+  - Trabajar con Tipos de Referencia en Informes
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir funciones clave de Visual Basic.
+  - Describir elementos del lenguaje Visual Basic.
+  - Reconocer declaraciones de Visual Basic y su propósito.
+  - Utilizar la estructura de decisión para aplicar la lógica del flujo de trabajo.
+  - Convertir lógica empresarial en código de Visual Basic.
+
+
+  ### Módulo 3&#58; Utilización de Visual Basic en Informes SSRS
+  Los redactores de informes pueden beneficiarse del lenguaje Visual Basic de tres formas distintas en la aplicación Generador de Informes. Tanto si el lenguaje de programación Visual Basic se ha incorporado por diseño como si se ha heredado a través de los informes existentes, los redactores de informes tienen que ser conscientes de cómo se pueden aplicar las funciones para lograr el objetivo de los informes. Visual Basic es el idioma necesario para el Generador de Informes.
+  
+  #### Lecciones
+  - Visual Basic en Informes SSRS
+  - Llamada al Código Visual Basic desde el Informe
+  - Utilizar el código Visual Basic externo en un Informe
+
+
+  #### Laboratorio &#58; Utilización de Visual Basic en Informes
+  - Utilizar Lógica Condicional con Literales, Campos y Artículos de Informe
+  - Crear un informe utilizando Visual Basic
+  - Actualizar un Informe para Utilizar Código Externo
+  - Solución de problemas de Visual Basic en un Informe
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las principales funciones y usos de Visual Basic en las soluciones de informes de SSRS.
+  - Reconocer las tres implementaciones de código de Visual Basic disponibles para un informe.
+  - Crear variables, constantes, expresiones y procedimientos de Visual Basic.
+  - Enlazar y consumir un ensamblaje externo con código personalizado en un informe.
+  - Solución de problemas de Visual Basic en un informe.

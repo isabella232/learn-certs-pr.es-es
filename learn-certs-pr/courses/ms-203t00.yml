@@ -28,7 +28,7 @@ levels:
 roles:
 - administrator
 products:
-- m365
+- azure
 exams:
 - uid: exam.ms-203
 summary: |-
@@ -95,11 +95,11 @@ outlineSection: |-
 
 
   ### Módulo 3&#58; Gestionar la higiene de mensajes
-  En este módulo, aprenderá sobre las características y funcionalidades de Microsoft Exchange Online Protection (EOP). También aprenderá a planificar el enrutamiento de mensajería para este servicio, que proporciona políticas antimalware y antispam que protegen a su organización contra el correo no deseado y el malware y protege a su organización de las infracciones de la política de mensajería. Luego revisará la protección antimalware y antispam que proporcionan Exchange Server y Online Protection, y aprenderá cómo configurar filtros, políticas y configuraciones de SPAM y malware para proporcionar protección a sus usuarios. Concluirá el módulo examinando la protección contra amenazas avanzadas (ATP) y cómo extiende la protección provista por EOP al filtrar los ataques dirigidos que podrían pasar a través de la línea de defensas de EOP, incluidas las amenazas avanzadas como ataques de día cero en archivos adjuntos de correo electrónico y documentos de Office y protección de tiempo de clic contra URL maliciosas. Aprenderá cómo Microsoft 365 ATP protege a los usuarios de amenazas avanzadas a través de características tales como archivos adjuntos seguros y enlaces seguros, y cómo genera informes que brindan a los administradores una visión de los ataques dirigidos a sus inquilinos por correo electrónico.
+  En este módulo aprenderás acerca de las características y funciones de Microsoft Exchange Online Protection (EOP). También aprenderás a planificar el enrutamiento de la mensajería para este servicio, que proporciona políticas antimalware y antispam que protegen a tu organización contra el spam y el malware y la protegen de las infracciones de las políticas de mensajería. A continuación, reseñarás la protección antimalware y antispam que proporcionan Exchange Server y Online Protection, y aprenderás a configurar los filtros, las políticas y los ajustes de SPAM y malware para proporcionar protección a tus usuarios. Concluirás el módulo examinando Defender para Office 365 y cómo amplía la protección proporcionada por EOP filtrando los ataques dirigidos que podrían atravesar la línea de defensas de EOP's, incluidas las amenazas avanzadas, como los ataques de día cero en los archivos adjuntos de correo electrónico y los documentos de Office, y la protección del tiempo de clic contra las URL maliciosas. Aprenderás cómo Defender for Office 365 protege a los usuarios de las amenazas avanzadas mediante funciones como los archivos adjuntos seguros y los enlaces seguros, y cómo genera informes que proporcionan a los administradores información sobre los ataques dirigidos a sus inquilinos a través del correo electrónico.
   #### Lecciones
   - Planificación para la higiene de los mensajes
   - Administrar las directivas de correo electrónico no deseado y antimalware
-  - Gestión de protección avanzada contra amenazas
+  - Gestionar la protección avanzada contra amenazas con Defender for Office 365
 
 
   #### Laboratorio&#58; Gestionar la higiene de los mensajes
@@ -114,10 +114,11 @@ outlineSection: |-
   - Uso de funciones adicionales para el filtrado de spam saliente y la cuarentena.
   - Implementación de funciones de protección contra phishing y suplantación de identidad.
   - Crear reglas de transporte para requisitos personalizados.
-  - Describir las características de protección contra amenazas avanzada.
+  - Describir las funciones de Microsoft Defender for Office 365
   - Describir la protección provista por las políticas Safe Attachment y Safe Links.
   - Comprender las características de inteligencia contra la suplantación de identidad.
   - Saber cómo funcionan las políticas anti-phishing de ATP.
+  - Entender cómo utilizar el Analizador de Configuración
 
 
   ### Módulo 4&#58; Gestión de cumplimiento
@@ -161,7 +162,7 @@ outlineSection: |-
   - Configurar políticas de carga de trabajo y aceleración.
   - Configurar configuraciones de cuota.
   - Configurar la integración de Exchange Server y Skype for Business.
-  - Implementar complementos de Office 365.
+  - Desplegar Aplicaciones Integradas de Office 365
   - Proporcionar una descripción general de las características de intercambio de delegación federada de Exchange.
   - Describir componentes de uso compartido federados.
   - Explicar consideraciones para diseñar e implementar fideicomisos y certificados de federación.
@@ -229,7 +230,7 @@ outlineSection: |-
   - Describir los diferentes objetos destinatarios en Exchange.
   - Describir buzones de recursos.
   - Describir buzones compartidos.
-  - Describir los buzones vinculados y los buzones del sitio.
+  - Describir buzones vinculados
   - Describir grupos.
   - Crear y administrar la configuración del buzón.
   - Crear y administrar buzones de recursos y compartidos.
@@ -291,7 +292,7 @@ outlineSection: |-
 
 
   ### Módulo 11&#58; Realizar migraciones de buzones
-  Este módulo examina las opciones disponibles para migrar el correo electrónico a Exchange Online, como realizar una migración o usar FastTrack para mover los buzones de sus servidores de correo existentes a Exchange Online. Este módulo resume las opciones de migración y coexistencia y recomienda cuándo usar qué opción. Luego, el módulo examina los requisitos para ejecutar una migración IMAP, las opciones de migración que están disponibles y los pasos que se realizan durante una migración. Luego, el módulo examina cómo planificar y realizar una migración de transición y por etapas. Compara cada uno de estos dos enfoques de migración y aprenderá sobre los requisitos, las actividades de planificación y el proceso de migración para cada opción. El módulo concluye examinando importantes tareas de migración adicionales, como la migración de un archivo PST y las consideraciones para una migración de Carpeta pública. 
+  Este módulo examina las opciones disponibles para migrar el correo electrónico a Exchange Online, tales como realizar una migración o utilizar FastTrack para mover los buzones de tus servidores de correo existentes a Exchange Online. Este módulo resume las opciones de migración y coexistencia y recomienda cuándo utilizar cada opción. A continuación, el módulo examina los requisitos para realizar una migración IMAP, las opciones de migración disponibles y los pasos que se realizan durante una migración. A continuación, el módulo examina cómo planificar y realizar tanto una migración por corte como por etapas. Compara cada uno de estos dos enfoques de migración y aprenderás acerca de los requisitos, las actividades de planificación y el proceso de migración de cada opción. El módulo concluye examinando importantes tareas de migración adicionales, como las migraciones entre inquilinos, la migración de un archivo PST y las consideraciones para una migración de Carpeta Pública.
   #### Lecciones
   - Planificación de migraciones de buzones
   - Realizar migraciones IMAP
@@ -307,6 +308,7 @@ outlineSection: |-
   - Realizar una migración y mover los buzones de correo con una transición o migración por etapas.
   - Importar archivos PST a buzones de Exchange Online.
   - Migrar carpetas públicas a Exchange Online.
+  - Realizar una Migración entre Inquilinos Cruzados
 
 
   ### Módulo 12&#58; Implementación y solución de problemas de un entorno híbrido

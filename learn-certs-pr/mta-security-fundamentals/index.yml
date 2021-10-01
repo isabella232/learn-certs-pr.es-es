@@ -13,12 +13,16 @@ subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea 
 levels:
 - beginner
 skills:
-- ninguno
+- Comprensión de las capas de seguridad 
+- Comprensión de la seguridad del sistema operativo 
+- Comprensión de la seguridad de red 
+- Comprensión del software de seguridad 
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolL
 exams:
 - uid: exam.98-367
 resources:

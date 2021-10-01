@@ -22,7 +22,7 @@ El Microsoft Certification Program requiere que los candidatos acepten los térm
 
 ## Seguridad del centro de examinación
 
-Al personal de los centros de examinación se le proporcionan las políticas de seguridad que deben aplicarse para adquirir y mantener la condición de centro de examinación. Las inspecciones continuas garantizan que cada centro de examinación mantiene la seguridad indicada por Microsoft y el proveedor de exámenes. Además, los supervisores de los centros de examinación están autorizados a tomar inmediatamente las medidas adecuadas contra los candidatos que infrinjan las normas de examen. Si te preocupa la seguridad durante tu experiencia de examen, por favor, envía un correo electrónico a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Al personal de los centros de examinación se le proporcionan políticas de seguridad que deben ser aplicadas para adquirir y mantener el estatus de centro de examinación. Las inspecciones continuas garantizan que cada centro de examinación mantenga la seguridad indicada por Microsoft y el proveedor de exámenes. Además, los supervisores de los centros de examinación están autorizados a tomar inmediatamente las medidas adecuadas contra los candidatos que infrinjan las normas de examen. Si te preocupa la seguridad de tu experiencia de examen, rellena este [formulario](https://aka.ms/wwlcertsecurity).
 
 Para garantizar la seguridad de los exámenes de Microsoft Certification, los administradores del centro de examinación se aseguran de que la identificación proporcionada es la adecuada y verifican que es la de la persona que se presentó a realizar el examen; recorren el área de examen periódicamente; mantienen las separaciones entre los puestos de examen; retiran chuletas, los dispositivos electrónicos y otros materiales no autorizados, e impiden que se extraigan contenidos del examen de cualquier forma. Además, los administradores y supervisores del centro de examinación no pueden proporcionar ningún tipo de ayuda en relación con ninguna pregunta del examen. Pueden ayudar a resolver Problemas técnicos, pero no pueden ayudar a entender o responder a ninguna pregunta del examen.
 
@@ -30,7 +30,7 @@ Microsoft puede suspender los exámenes en cualquier centro de examinación en e
 
 ### Proceso de apelación del centro de examinación
 
-Los propietarios de los centros de examinación pueden recurrir el cierre de un centro presentando un recurso a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Los propietarios de los centros de examinación pueden recurrir el cierre de un centro rellenando este [formulario](https://aka.ms/wwlcertsecurity).
 
 ## Exámenes fuera del país
 
@@ -81,7 +81,7 @@ Entre los ejemplos de este tipo de conducta indebida, mal uso y fraude se encuen
 
 ## Proceso de apelación del candidato
 
-Los candidatos pueden apelar su prohibición presentando un recurso a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Los candidatos pueden apelar su veto rellenando este [formulario](https://aka.ms/wwlcertsecurity).
 
 Un candidato puede apelar una prohibición por falsificación de un informe de puntuación presentando el informe original (sin escaneos ni copias electrónicas) a:
 
@@ -97,6 +97,6 @@ La actividad fraudulenta es cualquier cosa que permita a un candidato no cualifi
 
 Los exámenes por delegación se realizan en nombre de otro candidato. Algunas empresas ofrecen exámenes por delegación, garantizando que aprobarás el examen sin tener que realizarlo. Esto es una actividad fraudulenta. 
 
-Un brain dump es una fuente, como un sitio web, que contiene contenido de exámenes de certificación que ha sido obtenido de forma fraudulenta con la intención de compartirlo o venderlo a los candidatos al examen. El contenido incluido en los brain dumps es exactamente igual o sustancialmente similar a los elementos que aparecen en el examen. Dado que el contenido del examen se ha obtenido de forma fraudulenta, utilizar este tipo de material para preparar un examen o durante el mismo constituye una trampa. Los proveedores de brain dump infringen los derechos de propiedad intelectual de Microsoft y los acuerdos de confidencialidad. Si crees que has descubierto un sitio web dedicado al brain dump con contenido de Microsoft, por favor, infórmanos enviando un correo electrónico a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Una descarga de conocimientos ("brain dump") es una fuente, tales como un sitio web, que contiene contenidos de exámenes de certificación que han sido obtenidos de forma fraudulenta con la intención de compartirlos o venderlos a los candidatos al examen. El contenido incluido en las descargas de conocimientos es exactamente igual o sustancialmente similar a los elementos que aparecen en el examen. Dado que el contenido del examen se ha obtenido de forma fraudulenta, utilizar este tipo de material para preparar un examen o durante el mismo se considera hacer trampa. Los proveedores de descargas de conocimientos infringen los derechos de propiedad intelectual de Microsoft y los acuerdos de confidencialidad. Si crees que has descubierto un sitio de descarga de conocimientos con contenido de Microsoft, por favor, rellena este [formulario](https://aka.ms/wwlcertsecurity).
 
 Los informes de puntuación falsificados son informes que Microsoft considera que no son auténticos o que engañan o defraudan a otros de alguna manera. Si Microsoft determina que un candidato ha falsificado un informe de puntuación, el candidato no podrá realizar ningún examen de Microsoft en el futuro y sus certificaciones podrán ser revocadas.

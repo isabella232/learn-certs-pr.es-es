@@ -13,12 +13,18 @@ subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea 
 levels:
 - beginner
 skills:
-- ninguno
+- Realizar operaciones usando tipos de datos y operarios 
+- Controlar el flujo con decisiones y bucles 
+- Realizar operaciones de entrada y salida 
+- Documentar y estructurar código 
+- Realizar resolución de problemas y gestión de errores 
+- Realizar operaciones usando módulos y herramientas 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLr
 exams:
 - uid: exam.98-381
 resources:

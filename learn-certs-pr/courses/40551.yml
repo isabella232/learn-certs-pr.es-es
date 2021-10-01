@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Enterprise Security Fundamentals'
+metadata:
+  title: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+  description: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+uid: course.40551
+courseNumber: '40551-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describir el panorama actual de la ciberseguridad
+- skill: Describir la filosofía de asumir un compromiso
+- skill: Identificar los factores que contribuyen a los costes de una infracción
+- skill: Distinguir entre las responsabilidades de los equipos rojos y los equipos azules
+- skill: Identificar los objetivos típicos de los ciberatacantes
+- skill: Describir una cadena de muerte llevada a cabo por equipos de lectura
+- skill: Describir el rol, los objetivos y las actividades de la cadena de muerte del equipo azul en ejercicios del equipo rojo
+- skill: Describir las formas que limitan cómo un atacante puede comprometer cuentas sin privilegios
+- skill: Describir los métodos utilizados para restringir el movimiento lateral.
+- skill: Describir cómo se utiliza la monitorización de la telemetría para detectar ataques.
+- skill: Explicar el concepto de la tríada Confidencialidad, Integridad y Disponibilidad (CIA).
+- skill: Describir las principales actividades que deben incluirse en los preparativos de la organización
+- skill: Identificar los principales principios de desarrollo y mantenimiento de políticas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Este taller de seguridad de 1 día, dirigido por un instructor, proporciona una visión de las prácticas de seguridad para mejorar la postura de seguridad de una organización. El taller examina el concepto de profesionales de la seguridad equipo rojo - equipo azul, en el que un grupo de profesionales de la seguridad -el equipo rojo- ataca alguna parte o partes de la infraestructura de seguridad de una empresa, y un grupo contrario -el equipo azul- se defiende del ataque. Ambos equipos trabajan para reforzar las defensas de la empresa. Dado que el objetivo de los dos equipos es ayudar a la empresa a alcanzar un mayor nivel de seguridad, el sector de la seguridad llama a esta función, el equipo Violeta.
+
+  Este taller forma parte de una serie más amplia de Talleres ofrecidos por Microsoft sobre la práctica de la Seguridad. Aunque no es necesario que hayas completado ninguno de los otros cursos de la serie Talleres de Seguridad antes de realizar este taller, es muy recomendable que empieces con este taller de la serie, Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+
+  #### Perfil de los asistentes
+  Este taller de 1 día de duración está dirigido a los profesionales de IT que necesitan entender mejor la seguridad de Windows y que desean aumentar su nivel de conocimientos. Este curso también proporciona conocimientos de ciberseguridad antes de realizar los otros cursos de seguridad de este tema.
+prerequisitesSection: |-
+  Además de su experiencia profesional, los estudiantes que realicen esta formación deben tener ya los siguientes conocimientos técnicos&#58;
+  - El ecosistema actual de la ciberseguridad
+  - Análisis de hackeos en ordenadores y redes
+  - Gestión Básica de Riesgos
+outlineSection: |-
+  ### Módulo 1&#58; Entendiendo el panorama de la ciberseguridad
+  En este módulo, aprenderás acerca del panorama actual de la ciberseguridad y aprenderás cómo, adoptando la filosofía de asumir el compromiso, puedes restringir la capacidad de un atacante para moverse lateralmente entre los sistemas de información y para restringir su capacidad de escalar privilegios dentro de esos sistemas.
+  El panorama actual de la ciberseguridad es vasto y probablemente imposible de entender en su totalidad para un solo individuo. Sin embargo, hay varios aspectos de ese panorama a los que los interesados en los fundamentos de la seguridad empresarial deberían prestar atención.
+  
+  #### Lecciones
+  - Panorama Actual de la Ciberseguridad
+  - Asumir Filosofía de Compromiso
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir el panorama actual de la ciberseguridad.
+  - Describir la filosofía del compromiso asumido.
+  - Identificar factores que contribuyen a los costes de una infracción.
+
+
+  ### Módulo 2&#58; Equipo rojo&#58; Penetración, Movimiento Lateral, Escalada y Exfiltración
+  Los ejercicios del equipo rojo versus el equipo azul implican la simulación de un ataque contra el sistema de información de una organización. El equipo rojo simula y, en algunos casos, realiza una prueba de concepto de los pasos dados en el ataque contra los sistemas IT de la organización. El equipo azul simula la respuesta a ese ataque.
+  Este enfoque adversario no solamente permite identificar las vulnerabilidades de seguridad en la forma en que están configurados los sistemas IT de la organización, sino que también permite a los miembros del personal de sistemas de información de la organización aprender a detectar y responder a ataques.
+  En este módulo aprenderás el enfoque práctico del equipo rojo frente al equipo azul para detectar y responder a las amenazas a la seguridad.
+  
+  #### Lecciones
+  - Ejercicios Equipo Rojo versus Equipo Azul
+  - El Objetivo de los Atacantes
+  - Cadena de Muerte del Equipo Rojo
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Distinguir entre responsabilidades de equipos rojos y equipos azules.
+  - Identificar los objetivos típicos de los ciberatacantes.
+  - Describir una cadena de muerte llevada a cabo por equipos rojos.
+
+  ### Módulo 3&#58; Detección, Investigación, Respuesta y Mitigación del Equipo Azul
+  En este módulo aprenderás acerca de los roles y objetivos del Equipo Azul en los ejercicios de ataque. Aprenderás la estructura de un ataque contra un objetivo (Cadena de Muerte) y las formas que limitan cómo un atacante puede comprometer cuentas sin privilegios. También aprenderás cuáles son los métodos utilizados para restringir el movimiento lateral que impiden a los atacantes utilizar un sistema comprometido para atacar otros sistemas y cómo se utiliza la monitorización de la telemetría para detectar ataques.
+  
+  #### Lecciones
+  - El Equipo Azul
+  - La Cadena de Muerte del Equipo Azul
+  - Restringir la Escalada de Privilegios
+  - Restringir el movimiento lateral
+  - Detección de Ataques
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir el rol del Equipo Azul, y sus objetivos, y las actividades de la cadena de muerte del equipo azul en los ejercicios del equipo rojo.
+  - Describir la estructura de un ataque contra un objetivo ( Cadena de Muerte).
+  - Describir las formas que limitan el modo en que un atacante puede comprometer las cuentas sin privilegios.
+  - Describir los métodos utilizados para restringir el movimiento lateral.
+  - Describe cómo se utiliza la monitorización de la telemetría para detectar ataques.
+
+
+  ### Módulo 4&#58; Preparativos de Organización
+  Hay varios preparativos continuos que una organización puede llevar a cabo para mejorar su enfoque general de la seguridad de la información.  En este módulo, examinaremos más detenidamente algunos de ellos. Aprenderás acerca de un modelo conceptual para pensar en la seguridad de la información y cómo enfocar la seguridad de la información y prepararte adecuadamente, incluyendo la garantía de que tu organización tiene un enfoque deliberado hacia la seguridad de la información.
+  
+  #### Lecciones
+  - Tríada de la CIA
+  - Preparación de Organización
+  - Desarrollar y Mantener Políticas
+
+
+  #### Laboratorio &#58; Diseñar una Estrategia de Equipo Azul
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Explicar el concepto de la tríada de Confidencialidad, Integridad y Disponibilidad (CIA).
+  - Describir las principales actividades que deben incluirse en los preparativos de organización.
+  - Identificar los principales principios de elaboración y mantenimiento de políticas.
+  
+  Tras completar este Laboratorio, los estudiantes serán capaces de&#58;
+  - Diseñar un enfoque de alto nivel para mitigar las amenazas
+  - Recomendar herramientas y metodología que faciliten el rastreo de orígenes de ciberataques
+  - Proporcionar pasos de alto nivel de un esfuerzo de recuperación
+  - Recomendar métodos de prevención de ciberataques
+  - Describir desafíos normativos derivados de avances de malware

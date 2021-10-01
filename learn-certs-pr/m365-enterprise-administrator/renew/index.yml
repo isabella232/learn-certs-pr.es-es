@@ -13,9 +13,9 @@ summary: |-
 skills:
 - Administrar Windows 10 a través de la administración conjunta mediante System Center Configuration Manager
 - Simplificar la administración de dispositivos con Microsoft Endpoint Manager
-- Simplificar el aprovisionamiento de identidades y acceso con Azure Active Directory
 - Entregar correo a buzones fuera de Microsoft 365 mediante conectores
-- Defenderse de las amenazas con Microsoft Threat Protection
+- Protege tu entorno con Microsoft Defender for Identity
+- Protégete contra las amenazas con Microsoft Defender for Endpoints
 - Migrar archivos de usuario y configuraciones en Microsoft 365
 - Entregar aplicaciones de Microsoft 365 y aplicaciones empresariales
 - Proteger sus datos con etiquetas de confidencialidad

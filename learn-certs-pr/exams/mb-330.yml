@@ -14,7 +14,7 @@ summary: |-
   Los candidatos a este examen tienen un conocimiento fundamental de principios contables y operaciones financieras de las empresas, servicio al cliente, servicio de campo, fabricación, venta al por menor y conceptos de gestión de la cadena de suministro. Suelen especializarse en uno o más conjuntos de funciones de las aplicaciones de Finanzas y Operaciones, incluidas finanzas, fabricación y gestión de la cadena de suministro.
 
   Los candidatos deben tener algún conocimiento de las prácticas de gestión de la cadena de suministro, incluidas las adquisiciones, el comercio, la logística, la gestión de almacenes y la gestión de transporte.
-subTitle: 'Este examen mide tu capacidad para llevar a cabo las siguientes tareas técnicas: implementar gestión de información de productos; implementar gestión de inventarios; implementar y gestionar procesos de la cadena de suministro; implementar gestión de almacenes y transporte; e implementar optimización de la planificación.'
+subTitle: 'Este examen mide tu capacidad para cumplir las siguientes tareas técnicas: implementar la gestión de la información del producto; implementar la gestión del inventario; implementar y gestionar los procesos de la cadena de suministro; implementar la gestión del almacén y el transporte; e implementar la optimización de la planificación.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,7 +27,7 @@ levels:
 skills:
 - El contenido de este examen se actualizó el 26 de julio de 2021. Por favor, descarga el esquema de habilidades del examen que aparece a continuación para ver lo que ha cambiado.
 - Implementar la gestión de la información del producto (25-30%)
-- Implementar Gestión de Inventario (15-20%)
+- Implementar la gestión de inventarios (15-20%)
 - Implementar y gestionar los procesos de la cadena de suministro (15-20%)
 - Implementar la gestión de almacenes y la gestión del transporte (20-25%)
 - Implementar Optimización de Planificación (15-20%)

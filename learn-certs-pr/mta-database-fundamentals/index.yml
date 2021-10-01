@@ -13,12 +13,17 @@ subTitle: 'Las certificaciones MTA son un gran lugar por donde empezar si desea 
 levels:
 - beginner
 skills:
-- ninguno
+- Comprender conceptos base de datos 
+- Creación de objetos de bases de datos 
+- Manipular datos 
+- Comprender sobre almacenamiento de datos 
+- Administrar una base de datos
 roles:
 - developer
 type: mta
 products:
 - sql-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIbrW
 exams:
 - uid: exam.98-364
 resources:

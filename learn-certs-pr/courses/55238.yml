@@ -1,0 +1,354 @@
+### YamlMime:Course
+title: SharePoint Online for Administrators
+metadata:
+  title: 'Course 55238-B: SharePoint Online for Administrators'
+  description: 'Course 55238-B: SharePoint Online for Administrators'
+uid: course.55238
+courseNumber: '55238-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender la arquitectura de SharePoint Online
+- skill: Conocer todos los componentes de SharePoint Online
+- skill: Tener experiencia práctica configurando los componentes de SharePoint Online
+- skill: Tener experiencia práctica configurando las opciones
+- skill: Trabajar con Colecciones de Sitios y opciones de almacenamiento
+- skill: Gestionar perfiles de usuario y perfiles sociales
+- skill: Entender y configurar conexiones de datos en SharePoint Online
+- skill: Construir una estructura de taxonomía
+- skill: Entender y configurar la búsqueda en SharePoint Online
+- skill: Configurar y desplegar aplicaciones
+- skill: Entender y definir la gestión de contenidos empresariales y la seguridad y el cumplimiento
+- skill: Configurar opciones y funciones adicionales en SharePoint Online como la Gestión de Derechos de Información
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Este curso introducirá a los asistentes a la administración de SharePoint Online en Office 365 y explicará y demostrará las opciones de configuración de SharePoint Online. El curso es adecuado para los actuales administradores de SharePoint in situ y los nuevos administradores de Office 365 que necesitan entender cómo configurar correctamente SharePoint Online para su empresa. El curso también ayudará a los administradores de SharePoint in situ a entender las diferencias entre SharePoint in situ y SharePoint Online.
+
+  #### Perfil de los asistentes
+  Este curso está diseñado para los administradores que necesitan instalar, configurar y gestionar SharePoint Online como parte de su administración de Office 365.
+outlineSection: |-
+  ### Módulo 1&#58; Introducción a Office 365 y SharePoint Online
+  Este primer módulo te llevará a conocer Office 365 y SharePoint Online y a asegurarte de que estás familiarizado con todos los componentes que se cubrirán en módulos posteriores. Entenderás el funcionamiento de la gestión de identidades en Office 365 y también las herramientas necesarias para gestionar el entorno. También aprenderás acerca de las opciones para migrar a SharePoint Online y construir escenarios híbridos.
+  
+  #### Lecciones
+  - Introducción al Office 365 Administration Center  
+  - Configurar los Informes
+  - Acceder a las herramientas de gestión de SharePoint
+  - Acceder a la seguridad y el cumplimiento
+  - Gestionar Office 365 y SharePoint Online con PowerShell
+  - Comparar SharePoint In Situ con SharePoint Online
+  - Identidad de Usuario en Office 365 y SharePoint Online
+  - Modificación de dominios de usuario
+  - Construir escenarios Híbridos
+  - Redirección de OneDrive y Sitios
+  - Redirección de Yammer
+  - Entender la búsqueda híbrida
+  - Conectividad de datos empresariales híbridos
+  - Taxonomía híbrida
+
+
+  #### Laboratorio &#58; Configurar el entorno de Office 365
+  - Crear una nueva cuenta de Outlook.com
+  - Crear una nueva Prueba de Office 365
+  - Instalar Azure Active Directory PowerShell
+  - Instalar SharePoint Online Management Shell
+  - Crear usuarios de prueba
+  - Instalar Office 2016 para tu cliente
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir los componentes clave de SharePoint Online
+  - Navegar por Office 365 y los centros de administración de SharePoint
+  - Entender gestión de identidades
+  - Entender cómo gestionar el entorno en PowerShell
+  - Entender escenarios híbridos
+
+
+  ### Módulo 2&#58; Trabajar con Colecciones de Sitios
+  Este módulo te ayudará a entender la topología de las colecciones de sitios y cómo crearlas y gestionarlas. Aprenderás a definir el control y la administración delegada, además de configurar las opciones de almacenamiento y las cuotas para las distintas colecciones de sitios. Aprenderás a configurar el acceso externo a tus contenidos y a compartirlos con identidades externas y, por último, a eliminar y recuperar las colecciones de sitios, incluyendo la gestión mediante PowerShell.
+  
+  #### Lecciones
+  - Introducción a los centros de administración clásicos y modernos
+  - Creación de Colecciones de Sitios
+  - Definir propiedad y seguridad para las colecciones de sitios
+  - Configurar Almacenamiento
+  - Configurar Acceso Externo a las colecciones de sitios
+  - Recuperar colecciones de sitios
+  - Configurar compartición externa
+  - Gestionar colecciones de sitios con PowerShell
+
+
+  #### Laboratorio &#58; Gestionar Colecciones de Sitios
+  - Crear una nueva colección de sitios utilizando la UI
+  - Crear una nueva colección de sitios Moderna
+  - Crear una nueva colección de sitios utilizando PowerShell
+  - Configurar Cuotas de Almacenamiento
+  - Configurar compartición externa
+  - Restaurar una colección de sitios
+  - Crear un sitio y desplegar contenido para laboratorios posteriores
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las Colecciones de Sitios
+  - Gestionar y delegar colecciones de sitios
+  - Configurar la compartición externa
+  - Eliminar y restaurar colecciones de sitios
+  - Gestionar colecciones de sitios con PowerShell
+
+
+  ### Módulo 3&#58; Gestión de Perfiles de Usuario
+  Los perfiles de usuario son una parte clave de cualquier plataforma social y de colaboración, y en este módulo aprenderás a gestionar las opciones del perfil de usuario en SharePoint Online, incluida la creación de propiedades de perfil personalizadas. También aprenderás a crear y configurar los asistentes para el contenido dirigido y a utilizar los asistentes para la redirección del sitio personal. Por último, aprenderás a configurar las opciones de búsqueda y las tareas de limpieza del servicio de perfiles.
+  
+  #### Lecciones
+  - Resumen del servicio de perfiles
+  - Definir propiedades del perfil
+  - Asignar propiedades del perfil a un almacén de términos
+  - Crear propiedades de perfil personalizadas
+  - Gestionar audiencias
+  - Crear asistentes
+  - Gestionar políticas de perfiles de usuarios
+  - Configurar ubicaciones de host de confianza de mi sitio
+  - Configurar ubicaciones de centros de búsqueda preferentes
+  - Definir los niveles de permiso de acceso de lectura
+  - Configurar opciones de newsfeed
+  - Configurar notificaciones por correo electrónico
+  - Configurar limpieza de mi sitio
+
+
+  #### Laboratorio &#58; Gestión del Servicio de Perfiles de Usuario
+  - Crea una nueva propiedad personalizada del perfil de usuario
+  - Crear una propiedad personalizada asignada a un término de metadatos
+  - Crear un asistente utilizando propiedades del perfil e ir al contenido de destino
+  - Configurar cuentas de limpieza de Mi Sitio
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el servicio de perfiles en SharePoint Online
+  - Crear una propiedad personalizada asignada a un término de detadatos
+  - Definir políticas de perfil y control de seguridad
+  - Crear y gestionar asistentes
+  - Definir gestión de mis sitios cuando se elimina mi sitio de un usuario
+
+
+  ### Módulo 4&#58; Trabajar con Conexiones de Datos
+  Este módulo se centra en la creación y configuración de conexiones de datos y en el desafío de SharePoint de mostrar datos que residen en otras fuentes de datos y luego mostrar esos datos en los sitios de SharePoint. Aprenderás a aprovechar PowerApps para el desarrollo de formularios y el flujo para construir procesos de negocio junto con Power Bi para mostrar los datos. El servicio de conectividad empresarial está diseñado para permitir la definición de conexiones de datos para mostrar datos de otras ubicaciones, tales como Azure SQL, y luego permitir a los usuarios añadir web parts de datos sin necesidad de entender la configuración de la conexión de datos. También aprenderás la importancia de utilizar el servicio de almacenamiento seguro junto con las conexiones de datos empresariales para definir el acceso a datos remotos mediante el inicio de sesión único.
+  
+  #### Lecciones
+  - Introducción a Conexiones de Datos
+  - Resumen de PowerApps, Flow y PowerBi
+  - Resumen del servicio de conectividad empresarial
+  - Introducción a archivos de definición de BDC
+  - Creación de archivos de definición de BDC
+  - Introducción al servicio de almacén seguro
+  - Configurar el servicio de almacenamiento seguro
+  - Crear la configuración de la aplicación de destino del almacenamiento seguro
+  - Configurar las conexiones a los servicios en cloud
+  - Configurar conexiones a servicios in situ
+  - Herramientas para crear conexiones de datos
+  - Crear tipos de contenido externos
+  - Construir listas externas utilizando datos externos
+
+
+  #### Laboratorio &#58; Gestionar el servicio de conectividad de datos empresariales
+  - Crear un nuevo formulario de PowerApps
+  - Crear un nuevo Flow
+  - Crea una nueva aplicación de almacén segura
+  - Crea una nueva conexión BCS BDC
+  - Crea un tipo de contenido externo
+  - Crear una nueva lista externa para aprovechar datos externos
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Describir las funciones clave de las opciones de conexión de datos en SharePoint Online
+  - Aprender a utilizar PowerApps, Flow y Power Bi
+  - Un resumen de los servicios de conectividad empresarial
+  - Introducirse en el Servicio de Almacén Seguro
+  - Entender la arquitectura de BCS y Secure store
+  - Aprender a crear archivos de definición XML para utilizarlos en el servicio BCS
+  - Configurar las credenciales de inicio de sesión único en fuentes de datos externas
+  - Construir tipos de contenido externos
+  - Crear listas externas
+
+
+  ### Módulo 5&#58; Gestión del Almacén de Términos
+  El almacén de términos es un componente clave de la gestión de contenidos empresariales y de la capacidad de búsqueda, y este módulo fundamenta la creación de un almacén de términos hasta la creación de conjuntos de términos y su aplicación al contenido. Los términos también pueden formar parte de una estructura de perfil social y aprenderás a inyectar términos a través de la UI y mediante PowerShell.
+  
+  #### Lecciones
+  - Resumen del almacén de términos
+  - Entender los términos y la gestión del ciclo de vida
+  - Creación de grupos de términos
+  - Creación del almacén de términos
+  - Creación de conjuntos de términos en la UI
+  - Creación de conjuntos de términos mediante la importación a través de un CSV
+  - Creación de términos en la UI
+  - Creación de términos mediante PowerShell y CSOM
+  - Gestionar términos con sinónimos y pines
+  - Configurar administración delegada
+
+
+  #### Laboratorio &#58; Crear y Gestionar el Almacén de Términos
+  - Crear un Grupo de Términos y un Conjunto de Términos
+  - Gestionar Términos con PowerShell y CSOM
+  - Gestionar Términos con sinónimos y pines
+  - Configurar administración delegada
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el valor del almacén de términos en la gestión de datos y del ciclo de vida de SharePoint
+  - Utilizar los términos para permitir una mejor búsqueda y localización
+  - Construir almacenes de términos y términos
+  - Gestionar los términos mediante sinónimos y pines
+  - Crear términos mediante PowerShell
+  - Delegar derechos de administración
+  - Añadir términos al contenido y a los perfiles
+
+
+  ### Módulo 6&#58; Configurar la Búsqueda
+  La búsqueda es una de las herramientas más importantes de las que dispone un usuario en SharePoint, ya que permite encontrar los datos e ir a ellos de diversas maneras. Este módulo mostrará las opciones disponibles para ampliar el servicio de búsqueda con potentes herramientas de optimización de la búsqueda, como fuentes de resultados y propiedades gestionadas, para poder utilizar las web parts de búsqueda como parte de un despliegue de contenido dirigido. También aprenderás a exportar la configuración de búsqueda y a importarla a otras colecciones de sitios o incluso a otros inquilinos.
+  
+  #### Lecciones
+  - Introducción al servicio de búsqueda
+  - Experiencia de búsqueda clásica versus moderna
+  - Entender Propiedades Gestionadas
+  - Crear Propiedades Administradas
+  - Gestionar Páginas Autorizadas
+  - Entender fuentes de Resultados
+  - Crear y configurar fuentes de resultados
+  - Entender Rreglas de Consulta
+  - Promover resultados mediante reglas de consulta
+  - Eliminar resultados de búsqueda del índice
+  - Exportar configuraciones de búsqueda
+  - Importar configuraciones de búsqueda
+
+
+  #### Laboratorio &#58; Gestionar y configurar el Servicio de Búsqueda
+  - Crear una consulta en moderno y clásico
+  - Crear una nueva fuente de resultados
+  - Exportar la configuración de la búsqueda
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender el servicio de búsqueda para plantillas clásica y moderna
+  - Configurar propiedades gestionadas y ampliar esquema de búsqueda
+  - Definir páginas autorizadas
+  - Entender fuentes de resultados
+  - Configurar nuevas fuentes de resultados
+  - Aplicar fuentes de resultados a consultas de búsqueda
+  - Entender reglas de consulta
+  - Promover resultados mediante reglas de consulta
+  - Eliminar resultados de búsqueda del índice
+  - Exportar configuraciones de búsqueda
+  - Importar configuraciones de búsqueda
+
+
+  ### Módulo 7&#58; Configurar Aplicaciones
+  Este módulo se centrará en la configuración y el despliegue del servicio de gestión de aplicaciones en SharePoint Online. Las aplicaciones son una forma estupenda de añadir funciones y características a SharePoint, y las aplicaciones se pueden desplegar de varias formas en SharePoint Online, incluso a través de la tienda y del catálogo de aplicaciones. Aprenderás a configurar aplicaciones desde ambos entornos, así como a desplegar una aplicación comercial completa de un tercero.
+  
+  #### Lecciones
+  - Introducción a Aplicaciones
+  - Entender el Catálogo de Aplicaciones
+  - Construir el Catálogo de Aplicaciones
+  - Añadir Aplicaciones al catálogo
+  - Añadir Aplicaciones a tus sitios de SharePoint
+  - Añadir aplicaciones a través de la tienda Marketplace
+  - Gestionar el licenciamiento de Aplicaciones
+  - Configurar los ajustes de acceso a la tienda
+  - Monitorizar el uso de aplicaciones
+
+
+  #### Laboratorio &#58; Configurar Aplicaciones
+  - Crear y configurar un catálogo de aplicaciones
+  - Añadir una aplicación de la tienda de Office 365
+  - Añadir una aplicación a través del catálogo de aplicaciones
+  - Añadir una aplicación de Azure
+  - Monitorizar y gestionar el uso de aplicaciones
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender cómo funcionan las aplicaciones en SharePoint Online
+  - Aprender las diferencias entre las aplicaciones de tienda y aplicaciones de catálogo
+  - Construir la colección de sitios del catálogo de aplicaciones
+  - Desplegar aplicaciones en el catálogo
+  - Añadir aplicaciones a los sitios de SharePoint
+  - Entender la diferencia entre Azure Apps y las aplicaciones de SharePoint
+  - Desplegar una aplicación de Azure
+  - Entender el licenciamiento
+  - Configurar el acceso al marketplace de la tienda online
+  - Monitorizar y gestionar el uso de las aplicaciones
+
+
+  ### Módulo 8&#58; Gestión de Contenidos Empresariales en SharePoint Online
+  La gestión de contenidos empresariales (ECM) se ocupa del control y la gestión de los datos a medida que se crean y almacenan en SharePoint Online. En este módulo aprenderás acerca de la gestión del ciclo de vida, la gestión de documentos y las capacidades de prevención de la pérdida de datos, el eDiscovery y la clasificación y la gobernanza de datos en SharePoint Online. Aprenderás a construir varios componentes para ayudar a gestionar ECM, tales como centros de registros, centros de políticas y a configurar políticas en el centro de seguridad y cumplimiento para configurar el eDiscovery, las etiquetas y la prevención de la pérdida de datos.
+  
+  #### Lecciones
+  - Introducción a ECM en SharePoint Online
+  - Componentes de ECM
+  - Office 365 versus cumplimiento clásico
+  - Entender la gestión de registros in situ
+  - Configurar la gestión de registros in situ
+  - Entender el centro de registros
+  - Construir y configurar un centro de registros
+  - Entender el centro de políticas de cumplimiento
+  - Construir un centro de políticas de cumplimiento y configurar sus políticas
+  - Descubrir el centro de seguridad y cumplimiento
+  - Configurar un centro de eDiscovery
+  - Construir un caso de eDiscovery
+  - Entender la prevención de la pérdida de datos
+  - Construir una política de prevención de pérdida de datos y una consulta
+  - Trabajar con la clasificación y la gobernanza de datos
+
+
+  #### Laboratorio &#58; Configurar ECM en SharePoint Online
+  - Configurar la gestión de registros in situ
+  - Crear un Centro de Registros
+  - Crear un caso eDiscovery
+  - Configurar la DLP
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender los componentes de ECM en SharePoint Online
+  - Configurar la gestión de registros in situ
+  - Construir un centro de registros
+  - Enviar datos a un centro de registros en función de los valores de propiedad
+  - Descubrir el centro de seguridad y cumplimiento
+  - Construir casos eDiscovery
+  - Descubre los datos en función de los requisitos de cumplimiento
+  - Entender Data Loss Prevention (DLP)  
+  - Entender la gobernanza y etiquetas de datos
+  - Construir consultas y políticas de DLP
+
+
+  ### Módulo 9&#58; Gestionar opciones para SharePoint Online
+  Hay varias opciones adicionales disponibles para SharePoint Online que no están configuradas en una categoría específica. Este módulo funda la configuración y las opciones disponibles en SharePoint y Office 365 para estos componentes. Los componentes específicos pueden incluir opciones como la gestión de OneDrive y las opciones de clasificación de sitios hasta la habilitación y configuración de la Gestión de Derechos de la Información que permite opciones de seguridad adicionales en los artículos de SharePoint. Por último, entenderás la diferencia y las razones para utilizar las opciones de funciones de la versión inicial de Office 365, que pueden afectar a las funciones de SharePoint para tus usuarios.
+  
+  #### Lecciones
+  - Configurar las funciones de OneDrive
+  - Configurar el uso de Yammer o Newsfeeds
+  - Entender la gestión de los Derechos de la Información
+  - Configurar la Gestión de Derechos de Información
+  - Definir opciones de clasificación de sitios
+  - Entender opciones de publicación anticipada para Office 365
+  - Configurar opciones de publicación anticipada para tu inquilino de Office 365
+  - Gestionar el Control de Acceso
+
+
+  #### Laboratorio &#58; Configurar Opciones para SharePoint Online
+  - Configurar opciones de OneDrive
+  - Definir opciones de creación de sitios
+  - Configurar Gestión de Derechos de Información
+
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las opciones disponibles para SharePoint Online en Office 365
+  - Configurar opciones de funciones para OneDrive
+  - Entender las diferencias entre las opciones de Yammer y Newsfeed
+  - Entender la Gestión de los Derechos de Información (IRM)
+  - Configurar la Gestión de Derechos de Información
+  - Habilitar IRM en bibliotecas de SharePoint
+  - Aplicar políticas de IRM a artículos en SharePoint
+  - Definir opciones de clasificación del sitio
+  - Entender la opción de habilitar funciones de publicación anticipada
+  - Habilitar funciones de liberación anticipada
+  - Entender las opciones de control de acceso.
+
+  #### Lectura adicional
+  No se aplica

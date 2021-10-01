@@ -13,7 +13,21 @@ subTitle: Esta certificación demuestra sus habilidades y sus amplios conocimien
 levels:
 - advanced
 skills:
-- none
+- Creación de objetos de bases de datos
+- Trabajar con datos
+- Modificar datos
+- Solucionar problemas y optimizar
+- Instalar y configurar
+- Mantener instancias y bases de datos 
+- Optimizar y solucionar problemas 
+- Administrar datos 
+- Implementar seguridad 
+- Implementación de alta disponibilidad 
+- Diseño e implementación de un almacén de datos 
+- Extracción y transformación de datos 
+- Cargar datos 
+- Configure e implemente soluciones SSIS 
+- Creación de soluciones de calidad de datos 
 roles:
 - database-administrator
 type: mcsa
@@ -23,6 +37,7 @@ courses:
 - uid: course.20461
 - uid: course.20462
 - uid: course.20463
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU
 exams:
 - uid: exam.70-461
 - uid: exam.70-462

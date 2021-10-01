@@ -25,14 +25,15 @@ subTitle: 'Dynamics 365 Finance Functional Consultants unifican operaciones y fi
 levels:
 - intermediate
 skills:
-- Usar funcionalidades comunes y herramientas de implementación
-- Configurar seguridad, procesos y opciones
-- Administrar los datos de finanzas y operaciones
-- Validar y asistir la solución
-- Instalar y configurar la administración financiera
-- Implementar y gestionar las cuentas a pagar y gastos
-- Implementar el reconocimiento de cuentas por cobrar, créditos, cobros e ingresos
-- Gestionar la presupuestación y los activos fijos
+- Describir las aplicaciones de finanzas y operaciones, y ampliar las aplicaciones utilizando las tecnologías de Microsoft Power Platform  
+- Configurar funciones administrativas y flujos de trabajo  
+- Gestionar los datos de finanzas y operaciones  
+- Validar y dar soporte a las soluciones  
+- Establecer y configurar la gestión financiera 
+- Implementar cuentas por cobrar, crédito, cobros y reconocimiento de ingresos 
+- Implementar y gestionar las cuentas por pagar y los gastos 
+- Gestionar el presupuesto 
+- Gestionar el activo fijo
 roles:
 - functional-consultant
 type: role-based

@@ -20,11 +20,6 @@ La tecnología y los puestos de trabajo asociados cambian más rápido cada año
 
 Los exámenes programados para ser retirados en los próximos 12 meses se enumeran aquí por fecha. (Esta información está sujeta a cambios).
 
-| Se retira el 31 de agosto de 2021 |
-| --- |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-
 | Se retiran el 30 de junio de 2022 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -51,6 +46,8 @@ Estos exámenes han sido retirados en el último año. A modo de referencia, seg
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 de Agosto de 2020
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Administrator | miércoles, 30 de septiembre de 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Administrator | miércoles, 30 de septiembre de 2020
+| [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31 agosto 2021
+| [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31 agosto 2021
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 de diciembre de 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 de diciembre de 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30 de junio de 2021

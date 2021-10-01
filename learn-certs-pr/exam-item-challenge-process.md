@@ -31,7 +31,7 @@ Los exámenes de Microsoft Certification están diseñados para garantizar que l
 - Impugnaciones que no se presenten a través de este proceso.
 - Impugnaciones para las metodologías de puntuación (por ejemplo, el gráfico de barras no representa mi puntuación real.).
 - Impugnaciones al formato del examen (estándar, tipo, adaptativo).
-- Impugnaciones de exámenes beta; si tienes comentarios adicionales sobre un examen beta que no pudiste proporcionar durante el periodo de comentarios, por favor envía tus comentarios a [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Desafíos a los exámenes beta. (Dado que los exámenes beta tienen por objeto identificar Problemas a través de la psicometría y el análisis de los comentarios de los candidatos, a menudo se cambian las preguntas. Si un ítem cambia sustancialmente, no se te puntuará en él).
 
 ## Proceso de Impugnación de elemento de examen:
 

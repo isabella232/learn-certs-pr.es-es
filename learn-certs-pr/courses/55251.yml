@@ -1,0 +1,181 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Owner Training
+metadata:
+  title: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+  description: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+uid: course.55251
+courseNumber: '55251-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navegar por un Sitio de Grupo de SharePoint 2016.
+- skill: Crear y editar contenido de páginas web.
+- skill: Crear columnas de sitio y tipos de contenido.
+- skill: Integrar aplicaciones de Office con SharePoint 2016.
+- skill: Gestionar los permisos básicos de recursos de SharePoint 2016.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Esta clase de dos días para propietarios de sitios de SharePoint 2016, dirigida por un instructor, está dirigida a propietarios/administradores de sitios que son nuevos en el trabajo en un entorno de SharePoint 2016.
+
+  #### Perfil de los asistentes
+  Este curso está dirigido a usuarios nuevos en SharePoint 2016.
+outlineSection: |-
+  ### Módulo 1&#58; Trabajar con Sitios
+  Se accede a todo el contenido de SharePoint a través de un sitio. Un sitio de SharePoint es el contenedor de listas y bibliotecas y proporciona un punto de partida para la administración básica. El contenido, las listas, las bibliotecas y el aspecto básico de un sitio están determinados inicialmente por la Plantilla de Sitio utilizada para crear el sitio.
+  
+  #### Lecciones
+  - Plantillas de Sitio
+  - Creación de Sitios
+  - Creación de un Sitio de Grupo
+  - Navegación del Sitio
+  - Gestión de la Navegación del Sitio
+
+
+  #### Laboratorio &#58; Creación de Sitios de Grupo
+
+  #### Laboratorio &#58; Crear un Espacio de Trabajo para Reuniones
+
+  #### Laboratorio &#58; Creación de un Sitio de Blog
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son las Plantillas de Sitio.
+  - Entender los diferentes tipos de Plantillas de Sitio que vienen "fuera de lo común" con las diferentes versiones de SharePoint.
+  - Crear un nuevo sitio utilizando Plantillas de Sitio.
+  - Crear un sitio de Proyecto.
+  - Crear un Sitio de Grupo.
+  - Crear un sitio de Comunidad.
+  - Crea un sitio de Blog.
+  - Gestionar los sitios listados en la Barra de Enlaces Superior.
+
+
+  ### Módulo 2&#58; Contenido de Página
+  SharePoint ofrece un par de formas de añadir contenido a las páginas de un sitio. La técnica más reciente y la que implementa la plantilla Sitio de Grupo es a través de páginas de estilo wiki. Otro método que ha formado parte de SharePoint desde el principio es utilizar Web Parts y páginas Web Part. Ambas técnicas son similares en cuanto al resultado que se puede crear, y tanto las páginas Web Part como las páginas wiki comparten la capacidad de añadirles Web Parts.
+
+  #### Lecciones
+  - Páginas de Biblioteca Wiki
+  - Editar la Página de Inicio del Sitio de Grupo
+  - Páginas Web Part
+  - Crear una Página Web Part
+  - Trabajar con Web Parts
+  - Añadir Web Parts a páginas
+
+
+  #### Laboratorio &#58; Trabajando con Páginas Wiki
+
+  #### Laboratorio &#58; Trabajar con Web Part Pages y Web Parts
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué son las páginas wiki.
+  - Entender qué son páginas Web Part y  Web Parts.
+  - Añadir contenido a la Página de Inicio del Sitio de Grupo.
+  - Cambiar la Presentación de la Página de Inicio del Sitio de Grupo.
+  - Crear una página Web Part.
+  - Crear una biblioteca de páginas wiki.
+  - Añadir Web Parts.
+  - Gestionar Web Parts.
+
+
+  ### Módulo 3&#58; Biblioteca de formularios
+  Una biblioteca SharePoint Forms es una biblioteca especial diseñada para almacenar documentos de formularios de Microsoft InfoPath. Microsoft InfoPath viene con una herramienta de diseño para crear gráficamente formularios con una amplia variedad de campos y controles. El InfoPath Designer se puede utilizar para publicar formularios que diseñes en SharePoint, convirtiéndolos en plantillas de páginas web para bibliotecas de Formularios. En el momento de escribir este artículo, Microsoft había declarado que InfoPath se retiraría. Para SharePoint 2016 dejaron la ayuda para la herramienta, pero no hay una versión 2016 de las herramientas cliente. Esto significa que puedes seguir utilizándola en SharePoint 2016, pero para crear formularios personalizados debes utilizar la herramienta InfoPath 2013 Designer. Es posible que las futuras versiones de SharePoint no sean compatibles con InfoPath Forms en absoluto. Por esta razón, la cobertura de este capítulo es opcional para este curso.
+  
+  #### Lecciones
+  - Crear una Biblioteca de Formularios
+  - Crear InfoPath Forms
+  - Crear un formulario con Microsoft InfoPath Designer
+  - Publicar formularios InfoPath a SharePoint
+  - Publicar un Formulario InfoPath Personalizado
+
+
+  #### Laboratorio &#58; Creación y Publicación de InfoPath Forms
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender qué es una Biblioteca de Formularios.
+  - Crear una Biblioteca de Formularios.
+  - Utilizar InfoPath Designer para diseñar una plantilla de formulario básica.
+  - Publicar una plantilla de formulario de InfoPath Designer en una Biblioteca de Formularios.
+  - Designar campos de plantilla de formulario como columnas de biblioteca.
+  - Crear instancias de documentos en una Biblioteca de Formularios.
+
+
+  ### Módulo 4&#58; Columnas de Sitio y Tipos de Contenido
+  Un método para personalizar SharePoint, de forma que pueda reutilizarse en todo el sitio o colección de sitios o incluso en toda la granja, es crear Columnas de Sitio y Tipos de Contenido. Las columnas de sitio son el elemento más sencillo; son esencialmente lo mismo que las columnas de lista y de biblioteca, salvo que las creas a nivel de sitio y luego pueden utilizarse en todo ese sitio y en cualquier sitio hijo. Los Tipos de Contenido son una combinación de Columnas de Sitio, así como de ajustes e información adicionales, tales como plantillas de documentos y flujos de trabajo. Los Tipos de Contenido, una vez creados, pueden vincularse a listas y bibliotecas.
+
+  #### Lecciones
+  - Galería de Columnas de Sitio
+  - Explora la Galería de Columnas de Sitio
+  - Crear Columnas de Sitio
+  - Crear una Columna de Sitio Personalizada
+  - Añadir una Columna del Sitio a un listado
+  - Galería de Tipos de Contenido de Sitio
+  - Explora la Galería de Tipos de Contenido de Sitio
+  - Crear Tipos de Contenido
+  - Cómo Crear y Utilizar el Tipo de Contenido
+
+
+  #### Laboratorio &#58; Crear y Trabajar con Tipos de Contenido
+
+  #### Laboratorio &#58; Añadir un Tipo de Contenido a una Biblioteca
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender las Columnas de Sitio.
+  - Entender Tipos de Contenido.
+  - Crear Columnas de Sitio.
+  - Crear Tipos de Contenido.
+  - Crear una plantilla de documento para un Tipo de Contenido.
+  - Asignar un Tipo de Contenido a una lista o biblioteca.
+  - Crear nuevos elementos basados en un Tipo de Contenido personalizado.
+
+
+  ### Módulo 5&#58; Gestionar los Permisos de SharePoint Site
+  Los permisos en un sitio de SharePoint se asignan cuando se crea un sitio. Por defecto, los permisos asignados a la raíz de una colección de sitios son heredados por sitios hijos. En cualquier momento se puede desactivar la herencia de permisos en un sitio, lista, biblioteca o incluso a nivel de elemento en una lista o biblioteca. Los permisos en sí pueden asignarse a grupos de SharePoint, a usuarios individuales o a grupos creados fuera de SharePoint, como los grupos de Windows.
+
+  #### Lecciones
+  - Grupos de SharePoint
+  - Asignación de Permisos
+  - Niveles de Permiso
+  - Herencia de Permisos Entender grupos de SharePoint
+
+
+  #### Laboratorio &#58; Trabajar con Permisos de SharePoint
+  
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Entender grupos de SharePoint.
+  - Crear grupos de SharePoint.
+  - Asignar permisos en SharePoint.
+  - Ver los niveles de permisos.
+  - Gestionar la herencia de permisos a nivel de sitio.
+  - Gestionar la herencia de permisos a nivel de lista o biblioteca.
+  - Gestionar la herencia de permisos a nivel de artículo.
+
+
+  ### Módulo 6&#58; Participar en Comunidades de Usuarios
+  SharePoint ofrece a los usuarios un lugar para la colaboración social en forma de sitios personales. La experiencia y la funcionalidad son muy similares a las de los sitios de Redes Sociales más populares, como Facebook y LinkedIn. La principal diferencia es que está controlada por SharePoint Farm y la exposición suele estar limitada a las redes internas.
+
+  #### Lecciones
+  - Configurar Perfiles de Usuario y Mis Sitios
+  - Newsfeeds
+  - Newsfeeds de Personas
+  - Newsfeed de Documentos
+  - Newsfeed de Sitios
+  - Etiquetas Newsfeed
+  - Gestión de Sitios Personales
+
+
+  #### Laboratorio &#58; Gestión y Visualización de Información y Contenidos Personales
+  Después de completar este módulo, los estudiantes serán capaces de&#58;
+  - Editar un perfil personal.
+  - Gestionar Newsfeeds.
+  - Añadir newsfeeds de personas.
+  - Añadir newsfeeds de documentos.
+  - Añadir newsfeeds de sitios.
+  - Seguir etiquetas.
+  - Store personal content.
+

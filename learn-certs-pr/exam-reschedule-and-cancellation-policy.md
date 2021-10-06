@@ -14,10 +14,7 @@ ms.prod: non-product-specific
 
 ## Detalles de la política de reprogramación y cancelación
 
-- <div><font color='red'>Si no te presentas a tu cita para el examen o no cambias la fecha o no cancelas la cita con al menos 24 horas de antelación, perderás la totalidad de la cuota del examen.</font></div>
-- No hay ningún cargo si cambias de fecha o cancelas una cita de examen al menos seis días hábiles antes de la misma.
-- Si cancelas o reprogramas tu examen dentro de los cinco días hábiles anteriores a la hora registrada para el examen, se aplicará una cuota.
-- Si no se presenta a la cita de examen ni reprograma o cancela la cita al menos 24 horas antes de la fecha programada, perderá la totalidad de la cuota desembolsada para el examen. Los días hábiles son de lunes a viernes, sin incluir los días festivos de carácter global.
+Debe reprogramar y cancelar las citas para el examen al menos 24 horas antes de la cita. Los candidatos que reprogramen o cancelen con menos de 24 horas antes de la cita perderán el pago de la tarifa del examen. Además, si los candidatos utilizaron un vale comprado por la empresa, es posible que se le cobre a su empresa cuando los candidatos reprogramen o cancelen con menos de 24 horas antes de la cita. 
 
 ## Cómo reprogramar o cancelar tu examen
 
